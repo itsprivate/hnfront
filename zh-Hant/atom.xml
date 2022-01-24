@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-24T13:39:07.776Z</updated>
+    <updated>2022-01-24T13:50:12.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一系列漏洞導致思科Prime服務器的RCE發生]]></title>
+        <id>https://news.ycombinator.com/item?id=30057195</id>
+        <link href="https://news.ycombinator.com/item?id=30057195"/>
+        <updated>2022-01-24T13:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Chain of vulnerabilities led to RCE on Cisco Prime servers]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async適合所有人嗎？Slite的投標書]]></title>
+        <id>https://news.ycombinator.com/item?id=30057096</id>
+        <link href="https://news.ycombinator.com/item?id=30057096"/>
+        <updated>2022-01-24T13:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Is async for everyone? Pitch deck by Slite]]></summary>
+        <author>
+            <name>clmntrg</name>
+            <uri>https://news.ycombinator.com/user?id=clmntrg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提高端到端的測試可靠性]]></title>
+        <id>https://news.ycombinator.com/item?id=30043533</id>
+        <link href="https://news.ycombinator.com/item?id=30043533"/>
+        <updated>2022-01-23T04:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Improving end-to-end test reliability]]></summary>
+        <author>
+            <name>dailymorn</name>
+            <uri>https://news.ycombinator.com/user?id=dailymorn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NixOS的詛咒]]></title>
         <id>https://news.ycombinator.com/item?id=30057287</id>
