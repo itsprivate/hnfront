@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-25T08:10:25.151Z</updated>
+    <updated>2022-01-25T08:33:28.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瘦的PostgreSQL克隆]]></title>
+        <id>https://news.ycombinator.com/item?id=30068669</id>
+        <link href="https://news.ycombinator.com/item?id=30068669"/>
+        <updated>2022-01-25T06:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Thin PostgreSQL Clones]]></summary>
+        <author>
+            <name>samokhvalov</name>
+            <uri>https://news.ycombinator.com/user?id=samokhvalov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git 2.35的亮点]]></title>
         <id>https://news.ycombinator.com/item?id=30068776</id>
