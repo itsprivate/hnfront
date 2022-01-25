@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-25T17:50:27.361Z</updated>
+    <updated>2022-01-25T18:11:16.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我看到工程師們犯的最大的錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30074949</id>
+        <link href="https://news.ycombinator.com/item?id=30074949"/>
+        <updated>2022-01-25T17:39:18.000Z</updated>
+        <summary type="html"><![CDATA[The Biggest Mistake I See Engineers Make]]></summary>
+        <author>
+            <name>alokedesai</name>
+            <uri>https://news.ycombinator.com/user?id=alokedesai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我正在將TypeScript類型檢查器TSC移植到Go上]]></title>
+        <id>https://news.ycombinator.com/item?id=30074414</id>
+        <link href="https://news.ycombinator.com/item?id=30074414"/>
+        <updated>2022-01-25T17:07:40.000Z</updated>
+        <summary type="html"><![CDATA[I’m Porting the TypeScript Type Checker Tsc to Go]]></summary>
+        <author>
+            <name>msoad</name>
+            <uri>https://news.ycombinator.com/user?id=msoad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國 "大規模監控 "公司挑戰不列顛哥倫比亞省的隱私監督令]]></title>
         <id>https://news.ycombinator.com/item?id=30074126</id>
