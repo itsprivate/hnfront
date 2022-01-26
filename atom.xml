@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-26T06:10:41.326Z</updated>
+    <updated>2022-01-26T06:35:22.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Let's Encrypt: TLS-ALPN-01验证方法的问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30082286</id>
+        <link href="https://news.ycombinator.com/item?id=30082286"/>
+        <updated>2022-01-26T05:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Let's Encrypt: Issue with TLS-ALPN-01 Validation Method]]></summary>
+        <author>
+            <name>kpetermeni</name>
+            <uri>https://news.ycombinator.com/user?id=kpetermeni</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱思唯尔在PDF元数据中嵌入了一个哈希值，这个哈希值对每次下载都是唯一的。]]></title>
+        <id>https://news.ycombinator.com/item?id=30082138</id>
+        <link href="https://news.ycombinator.com/item?id=30082138"/>
+        <updated>2022-01-26T05:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Elsevier embeds a hash in the PDF metadata that is unique for each download]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币区块链中的惊喜及其存储方式(2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=30081901</id>
+        <link href="https://news.ycombinator.com/item?id=30081901"/>
+        <updated>2022-01-26T04:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Surprises in the Bitcoin blockchain and how they are stored (2014)]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特罗特]]></title>
         <id>https://news.ycombinator.com/item?id=30051893</id>
