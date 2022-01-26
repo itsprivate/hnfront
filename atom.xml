@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-26T19:08:02.771Z</updated>
+    <updated>2022-01-26T19:22:52.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[电表--个人数据库的实验]]></title>
+        <id>https://news.ycombinator.com/item?id=30089895</id>
+        <link href="https://news.ycombinator.com/item?id=30089895"/>
+        <updated>2022-01-26T18:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Electric Tables – an experiment in personal databases]]></summary>
+        <author>
+            <name>topcat31</name>
+            <uri>https://news.ycombinator.com/user?id=topcat31</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创建一个Postgres外来数据封装器]]></title>
+        <id>https://news.ycombinator.com/item?id=30089884</id>
+        <link href="https://news.ycombinator.com/item?id=30089884"/>
+        <updated>2022-01-26T18:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Creating a Postgres Foreign Data Wrapper]]></summary>
+        <author>
+            <name>reltuk</name>
+            <uri>https://news.ycombinator.com/user?id=reltuk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对帖子收费会带来更高的社交媒体内容质量吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30089509</id>
