@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-26T11:08:17.374Z</updated>
+    <updated>2022-01-26T11:26:37.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[睡眠质量和一致性与更好的学习成绩有关]]></title>
+        <id>https://news.ycombinator.com/item?id=30083988</id>
+        <link href="https://news.ycombinator.com/item?id=30083988"/>
+        <updated>2022-01-26T10:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Sleep quality and consistency is associated with better academic performance]]></summary>
+        <author>
+            <name>wallopingfuture</name>
+            <uri>https://news.ycombinator.com/user?id=wallopingfuture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[规模化的机器可读规格]]></title>
+        <id>https://news.ycombinator.com/item?id=30083908</id>
+        <link href="https://news.ycombinator.com/item?id=30083908"/>
+        <updated>2022-01-26T10:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Machine Readable Specifications at Scale]]></summary>
+        <author>
+            <name>fanf2</name>
+            <uri>https://news.ycombinator.com/user?id=fanf2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redis vs. Kafka vs. RabbitMQ]]></title>
         <id>https://news.ycombinator.com/item?id=30083815</id>
