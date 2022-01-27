@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-27T07:54:02.124Z</updated>
+    <updated>2022-01-27T08:10:38.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes如此复杂的原因]]></title>
+        <id>https://news.ycombinator.com/item?id=30096674</id>
+        <link href="https://news.ycombinator.com/item?id=30096674"/>
+        <updated>2022-01-27T05:49:08.000Z</updated>
+        <summary type="html"><![CDATA[Reasons Kubernetes is so complex]]></summary>
+        <author>
+            <name>bumbledraven</name>
+            <uri>https://news.ycombinator.com/user?id=bumbledraven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PFX。如何不设计一个加密协议/标准 (1998)]]></title>
         <id>https://news.ycombinator.com/item?id=30085999</id>
