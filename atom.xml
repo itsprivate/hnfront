@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-27T12:46:51.791Z</updated>
+    <updated>2022-01-27T13:06:11.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[脸书承诺贫穷国家免费上网。人们还是被收费了]]></title>
+        <id>https://news.ycombinator.com/item?id=30099648</id>
+        <link href="https://news.ycombinator.com/item?id=30099648"/>
+        <updated>2022-01-27T12:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Facebook promised poor countries free internet: People got charged anyway]]></summary>
+        <author>
+            <name>SQL2219</name>
+            <uri>https://news.ycombinator.com/user?id=SQL2219</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis的脚本不以原子方式过期密钥]]></title>
+        <id>https://news.ycombinator.com/item?id=30099572</id>
+        <link href="https://news.ycombinator.com/item?id=30099572"/>
+        <updated>2022-01-27T12:14:03.000Z</updated>
+        <summary type="html"><![CDATA[Redis scripts do not expire keys atomically]]></summary>
+        <author>
+            <name>stichers</name>
+            <uri>https://news.ycombinator.com/user?id=stichers</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于Go的可嵌入的Prolog脚本语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30091291</id>
+        <link href="https://news.ycombinator.com/item?id=30091291"/>
+        <updated>2022-01-26T20:28:57.000Z</updated>
+        <summary type="html"><![CDATA[An embeddable Prolog scripting language for Go]]></summary>
+        <author>
+            <name>triska</name>
+            <uri>https://news.ycombinator.com/user?id=triska</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乌鸦可能很快成为瑞典最新的垃圾捡拾者]]></title>
         <id>https://news.ycombinator.com/item?id=30099694</id>
