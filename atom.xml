@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-29T16:10:11.377Z</updated>
+    <updated>2022-01-29T16:44:04.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[福尔曼教授百科全书]]></title>
+        <id>https://news.ycombinator.com/item?id=30127523</id>
+        <link href="https://news.ycombinator.com/item?id=30127523"/>
+        <updated>2022-01-29T16:19:27.000Z</updated>
+        <summary type="html"><![CDATA[Encyclopedia Professor Fortran]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政治学中最大的秘密]]></title>
+        <id>https://news.ycombinator.com/item?id=30127432</id>
+        <link href="https://news.ycombinator.com/item?id=30127432"/>
+        <updated>2022-01-29T16:11:10.000Z</updated>
+        <summary type="html"><![CDATA[The biggest secret in political science]]></summary>
+        <author>
+            <name>ContrarianBrit</name>
+            <uri>https://news.ycombinator.com/user?id=ContrarianBrit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用反向传播法训练的深度物理神经网络]]></title>
+        <id>https://news.ycombinator.com/item?id=30127289</id>
+        <link href="https://news.ycombinator.com/item?id=30127289"/>
+        <updated>2022-01-29T15:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Deep physical neural networks trained with backpropagation]]></summary>
+        <author>
+            <name>groar</name>
+            <uri>https://news.ycombinator.com/user?id=groar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nova - 埃尔朗网络框架发布0.9.2版本]]></title>
+        <id>https://news.ycombinator.com/item?id=30111578</id>
+        <link href="https://news.ycombinator.com/item?id=30111578"/>
+        <updated>2022-01-28T07:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Nova – Erlang Web Framework released version 0.9.2]]></summary>
+        <author>
+            <name>taure</name>
+            <uri>https://news.ycombinator.com/user?id=taure</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拖延时间。基于PostgreSQL的Python任务队列]]></title>
         <id>https://news.ycombinator.com/item?id=30126152</id>
