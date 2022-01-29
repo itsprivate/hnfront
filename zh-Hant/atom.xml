@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-29T14:34:20.343Z</updated>
+    <updated>2022-01-29T15:08:27.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Rust和WASM重現最短的數學論文]]></title>
+        <id>https://news.ycombinator.com/item?id=30126602</id>
+        <link href="https://news.ycombinator.com/item?id=30126602"/>
+        <updated>2022-01-29T14:39:09.000Z</updated>
+        <summary type="html"><![CDATA[Recreating the Shortest Math Paper with Rust and WASM]]></summary>
+        <author>
+            <name>kibwen</name>
+            <uri>https://news.ycombinator.com/user?id=kibwen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用表觀遺傳學時鐘讓時間倒流]]></title>
+        <id>https://news.ycombinator.com/item?id=30126546</id>
+        <link href="https://news.ycombinator.com/item?id=30126546"/>
+        <updated>2022-01-29T14:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Turning back time with epigenetic clocks]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[服務器支持IPv6的原因]]></title>
+        <id>https://news.ycombinator.com/item?id=30126434</id>
+        <link href="https://news.ycombinator.com/item?id=30126434"/>
+        <updated>2022-01-29T14:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Reasons for Servers to Support IPv6]]></summary>
+        <author>
+            <name>pingiun</name>
+            <uri>https://news.ycombinator.com/user?id=pingiun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度半導體任務]]></title>
+        <id>https://news.ycombinator.com/item?id=30125598</id>
+        <link href="https://news.ycombinator.com/item?id=30125598"/>
+        <updated>2022-01-29T11:47:20.000Z</updated>
+        <summary type="html"><![CDATA[India Semiconductor Mission]]></summary>
+        <author>
+            <name>oumua_don17</name>
+            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Si78c: 在C語言中對太空入侵者進行內存精確的重新實現]]></title>
         <id>https://news.ycombinator.com/item?id=30126291</id>
