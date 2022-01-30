@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-30T19:06:56.323Z</updated>
+    <updated>2022-01-30T19:34:20.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[非常遥远的Lisp调试的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30139643</id>
+        <link href="https://news.ycombinator.com/item?id=30139643"/>
+        <updated>2022-01-30T18:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Very Remote Lisp Debugging Story]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用树形数据结构来实现终端分割窗格]]></title>
+        <id>https://news.ycombinator.com/item?id=30120901</id>
+        <link href="https://news.ycombinator.com/item?id=30120901"/>
+        <updated>2022-01-28T21:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Using tree data structures to implement terminal split panes]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xkcd创作者Randall Munroe的新书名为 "如果？]]></title>
         <id>https://news.ycombinator.com/item?id=30139925</id>
