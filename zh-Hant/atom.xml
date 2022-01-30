@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-30T05:25:11.061Z</updated>
+    <updated>2022-01-30T05:49:33.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[簡要介紹一下拓撲理論]]></title>
+        <id>https://news.ycombinator.com/item?id=30112547</id>
+        <link href="https://news.ycombinator.com/item?id=30112547"/>
+        <updated>2022-01-28T09:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Topos Theory in a Nutshell]]></summary>
+        <author>
+            <name>kondor</name>
+            <uri>https://news.ycombinator.com/user?id=kondor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tofuproxy - 網絡代理、TLS終結者、X.509 TOFU管理器、WARC/gemini瀏覽器]]></title>
         <id>https://news.ycombinator.com/item?id=30134058</id>
