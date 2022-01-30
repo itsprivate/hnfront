@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 30 Jan 2022 13:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 13:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[新李森科主义]]></title>
+            <link>https://news.ycombinator.com/item?id=30137031</link>
+            <guid>https://news.ycombinator.com/item?id=30137031</guid>
+            <pubDate>Sun, 30 Jan 2022 13:33:57 GMT</pubDate>
+            <description><![CDATA[The New Lysenkoism]]></description>
+        </item>
+        <item>
+            <title><![CDATA[解耦交易。在抖动的服务器上进行低尾延时的交易]]></title>
+            <link>https://news.ycombinator.com/item?id=30123773</link>
+            <guid>https://news.ycombinator.com/item?id=30123773</guid>
+            <pubDate>Sat, 29 Jan 2022 04:23:21 GMT</pubDate>
+            <description><![CDATA[Decoupled Transactions: Low Tail Latency Transactions Atop Jittery Servers]]></description>
+        </item>
         <item>
             <title><![CDATA[我写的是美国的医疗保健系统，我被卷入了其中]]></title>
             <link>https://news.ycombinator.com/item?id=30136251</link>
