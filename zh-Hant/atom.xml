@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-31T06:11:35.814Z</updated>
+    <updated>2022-01-31T07:50:15.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Caddy從Markdown文件生成靜態網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30145237</id>
+        <link href="https://news.ycombinator.com/item?id=30145237"/>
+        <updated>2022-01-31T06:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Generate Static Sites from Markdown Files with Caddy]]></summary>
+        <author>
+            <name>indigodaddy</name>
+            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[請製造一輛笨重的汽車]]></title>
+        <id>https://news.ycombinator.com/item?id=30144101</id>
+        <link href="https://news.ycombinator.com/item?id=30144101"/>
+        <updated>2022-01-31T03:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Please Make a Dumb Car]]></summary>
+        <author>
+            <name>wrycoder</name>
+            <uri>https://news.ycombinator.com/user?id=wrycoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數學中常見的錯誤信念的例子]]></title>
         <id>https://news.ycombinator.com/item?id=30144805</id>
