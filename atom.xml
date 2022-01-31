@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-01-31T04:54:44.231Z</updated>
+    <updated>2022-01-31T05:26:42.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用io_uring的零拷贝网络传输]]></title>
+        <id>https://news.ycombinator.com/item?id=30144652</id>
+        <link href="https://news.ycombinator.com/item?id=30144652"/>
+        <updated>2022-01-31T04:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Zero-copy network transmission with io_uring]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一些城市的房租上涨40%，迫使数百万人搬迁]]></title>
         <id>https://news.ycombinator.com/item?id=30144083</id>
