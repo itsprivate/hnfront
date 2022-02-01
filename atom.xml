@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-01T19:09:27.792Z</updated>
+    <updated>2022-02-01T19:23:24.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德国政府计划让软件公司对漏洞造成的损失承担责任]]></title>
+        <id>https://news.ycombinator.com/item?id=30166915</id>
+        <link href="https://news.ycombinator.com/item?id=30166915"/>
+        <updated>2022-02-01T18:29:06.000Z</updated>
+        <summary type="html"><![CDATA[German gov plans software company's liability for damages caused by vulns]]></summary>
+        <author>
+            <name>sva_</name>
+            <uri>https://news.ycombinator.com/user?id=sva_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[严重的Samba漏洞带来代码执行威胁]]></title>
         <id>https://news.ycombinator.com/item?id=30166953</id>
