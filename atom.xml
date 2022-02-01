@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-01T17:49:01.108Z</updated>
+    <updated>2022-02-01T18:33:49.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[索拉纳支付]]></title>
+        <id>https://news.ycombinator.com/item?id=30166632</id>
+        <link href="https://news.ycombinator.com/item?id=30166632"/>
+        <updated>2022-02-01T18:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Solana Pay]]></summary>
+        <author>
+            <name>haberdasher</name>
+            <uri>https://news.ycombinator.com/user?id=haberdasher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从头开始写一个玩具traceroute]]></title>
+        <id>https://news.ycombinator.com/item?id=30140380</id>
+        <link href="https://news.ycombinator.com/item?id=30140380"/>
+        <updated>2022-01-30T19:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Writing a toy traceroute from scratch]]></summary>
+        <author>
+            <name>otras</name>
+            <uri>https://news.ycombinator.com/user?id=otras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：无法从Firefox登录HN，一个爱的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30166448</id>
+        <link href="https://news.ycombinator.com/item?id=30166448"/>
+        <updated>2022-02-01T17:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Unable to login to HN from Firefox, a lovecraftian tale]]></summary>
+        <author>
+            <name>soapdog</name>
+            <uri>https://news.ycombinator.com/user?id=soapdog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[语义网的Python工具，概述]]></title>
+        <id>https://news.ycombinator.com/item?id=30166198</id>
+        <link href="https://news.ycombinator.com/item?id=30166198"/>
+        <updated>2022-02-01T17:42:55.000Z</updated>
+        <summary type="html"><![CDATA[Python Tools for the Semantic Web, an Overview]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个将串行设备的输出写入带有时间戳的日志文件的小工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30166185</id>
+        <link href="https://news.ycombinator.com/item?id=30166185"/>
+        <updated>2022-02-01T17:42:13.000Z</updated>
+        <summary type="html"><![CDATA[A small utility to write a serial device's output to a log file with timestamps]]></summary>
+        <author>
+            <name>weejewel</name>
+            <uri>https://news.ycombinator.com/user?id=weejewel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将LXC容器的拉动速度提高到3倍以上]]></title>
         <id>https://news.ycombinator.com/item?id=30166077</id>
