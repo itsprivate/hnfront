@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-01T15:08:51.842Z</updated>
+    <updated>2022-02-01T15:31:16.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：将arXiv.org中的X替换为5，以显示HTML中的论文]]></title>
+        <id>https://news.ycombinator.com/item?id=30163308</id>
+        <link href="https://news.ycombinator.com/item?id=30163308"/>
+        <updated>2022-02-01T15:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Replace the X with a 5 in arXiv.org to display a paper in HTML]]></summary>
+        <author>
+            <name>bgschulman31</name>
+            <uri>https://news.ycombinator.com/user?id=bgschulman31</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博弈的微笑曲线]]></title>
+        <id>https://news.ycombinator.com/item?id=30163168</id>
+        <link href="https://news.ycombinator.com/item?id=30163168"/>
+        <updated>2022-02-01T14:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Gaming the Smiling Curve]]></summary>
+        <author>
+            <name>mmmmkay</name>
+            <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust核心团队的三人组上路了]]></title>
+        <id>https://news.ycombinator.com/item?id=30163141</id>
+        <link href="https://news.ycombinator.com/item?id=30163141"/>
+        <updated>2022-02-01T14:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Trio of Rust Core Team members hit the road]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会员资格工作。我在会员计划的第三年里学到的东西]]></title>
+        <id>https://news.ycombinator.com/item?id=30163068</id>
+        <link href="https://news.ycombinator.com/item?id=30163068"/>
+        <updated>2022-02-01T14:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Memberships Work: What I learned during the third year of my membership program]]></summary>
+        <author>
+            <name>philip1209</name>
+            <uri>https://news.ycombinator.com/user?id=philip1209</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用JavaScript编写一个打印机驱动程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30162726</id>
+        <link href="https://news.ycombinator.com/item?id=30162726"/>
+        <updated>2022-02-01T14:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Writing a Printer Driver in JavaScript]]></summary>
+        <author>
+            <name>pastudan</name>
+            <uri>https://news.ycombinator.com/user?id=pastudan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合国正在测试以保密方式处理数据的技术]]></title>
+        <id>https://news.ycombinator.com/item?id=30139971</id>
+        <link href="https://news.ycombinator.com/item?id=30139971"/>
+        <updated>2022-01-30T18:58:34.000Z</updated>
+        <summary type="html"><![CDATA[The UN is testing technology that processes data confidentially]]></summary>
+        <author>
+            <name>jkuria</name>
+            <uri>https://news.ycombinator.com/user?id=jkuria</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Northflank - 简化应用程序在云平台的部署]]></title>
         <id>https://news.ycombinator.com/item?id=30161853</id>
