@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-01T19:35:18.757Z</updated>
+    <updated>2022-02-01T19:49:36.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mozilla正在為其桌面和移動VPN帶來流行的隱私功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30167969</id>
+        <link href="https://news.ycombinator.com/item?id=30167969"/>
+        <updated>2022-02-01T19:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla is bringing popular privacy features to its desktop and mobile VPN]]></summary>
+        <author>
+            <name>alexrustic</name>
+            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於Sqlite的可嵌入、可複製和容錯的SQL引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30135401</id>
+        <link href="https://news.ycombinator.com/item?id=30135401"/>
+        <updated>2022-01-30T09:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Embeddable, replicated and fault tolerant SQL engine based on Sqlite]]></summary>
+        <author>
+            <name>KingOfCoders</name>
+            <uri>https://news.ycombinator.com/user?id=KingOfCoders</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弗利奧薩的喂貓器]]></title>
         <id>https://news.ycombinator.com/item?id=30167605</id>
