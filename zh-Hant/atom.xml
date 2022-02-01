@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-01T08:33:32.411Z</updated>
+    <updated>2022-02-01T08:49:52.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[世界之言]]></title>
+        <id>https://news.ycombinator.com/item?id=30159713</id>
+        <link href="https://news.ycombinator.com/item?id=30159713"/>
+        <updated>2022-02-01T07:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Wordles of the World]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vectorscan - hyperscan的可移植分叉 - 高性能的重碼匹配庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30159660</id>
+        <link href="https://news.ycombinator.com/item?id=30159660"/>
+        <updated>2022-02-01T07:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Vectorscan – portable fork of hyperscan – high-performance regex matching lib]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我寫了一個腳本來自動修正100個Grammarly的更正]]></title>
         <id>https://news.ycombinator.com/item?id=30159764</id>
