@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T13:23:10.527Z</updated>
+    <updated>2022-02-05T13:49:10.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FOSDEM 2022正在進行中]]></title>
+        <id>https://news.ycombinator.com/item?id=30220443</id>
+        <link href="https://news.ycombinator.com/item?id=30220443"/>
+        <updated>2022-02-05T12:38:27.000Z</updated>
+        <summary type="html"><![CDATA[FOSDEM 2022 is going on now]]></summary>
+        <author>
+            <name>makapuf</name>
+            <uri>https://news.ycombinator.com/user?id=makapuf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊麗莎白-泰勒如何改寫老年小說]]></title>
+        <id>https://news.ycombinator.com/item?id=30198604</id>
+        <link href="https://news.ycombinator.com/item?id=30198604"/>
+        <updated>2022-02-03T20:49:07.000Z</updated>
+        <summary type="html"><![CDATA[How Elizabeth Taylor Remade the Novel of Old Age]]></summary>
+        <author>
+            <name>lermontov</name>
+            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於Retroarch的Sharp-Bilinear Shaders]]></title>
         <id>https://news.ycombinator.com/item?id=30220317</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>arkj</name>
             <uri>https://news.ycombinator.com/user?id=arkj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偉大的辭職？更像是偉大的重新談判]]></title>
-        <id>https://news.ycombinator.com/item?id=30072182</id>
-        <link href="https://news.ycombinator.com/item?id=30072182"/>
-        <updated>2022-01-25T14:35:09.000Z</updated>
-        <summary type="html"><![CDATA[The Great Resignation? More Like the Great Renegotiation]]></summary>
-        <author>
-            <name>PandaRider</name>
-            <uri>https://news.ycombinator.com/user?id=PandaRider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鍵盤和開源]]></title>
-        <id>https://news.ycombinator.com/item?id=30055794</id>
-        <link href="https://news.ycombinator.com/item?id=30055794"/>
-        <updated>2022-01-24T10:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Keyboards and Open-Source]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
