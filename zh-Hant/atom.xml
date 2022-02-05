@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T10:41:17.681Z</updated>
+    <updated>2022-02-05T10:49:27.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被谷歌扼殺]]></title>
+        <id>https://news.ycombinator.com/item?id=30219442</id>
+        <link href="https://news.ycombinator.com/item?id=30219442"/>
+        <updated>2022-02-05T09:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Killed by Google]]></summary>
+        <author>
+            <name>greenSunglass</name>
+            <uri>https://news.ycombinator.com/user?id=greenSunglass</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用立體光刻技術創建相機鏡頭]]></title>
         <id>https://news.ycombinator.com/item?id=30191570</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>neoglow</name>
             <uri>https://news.ycombinator.com/user?id=neoglow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球約有三分之一的兒童患有鉛中毒]]></title>
-        <id>https://news.ycombinator.com/item?id=30070858</id>
-        <link href="https://news.ycombinator.com/item?id=30070858"/>
-        <updated>2022-01-25T12:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Around one-in-three children globally suffer from lead poisoning]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
