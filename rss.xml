@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 05 Feb 2022 12:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 12:52:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[初探：访问Kubernetes中的服务]]></title>
+            <link>https://news.ycombinator.com/item?id=30220291</link>
+            <guid>https://news.ycombinator.com/item?id=30220291</guid>
+            <pubDate>Sat, 05 Feb 2022 12:09:02 GMT</pubDate>
+            <description><![CDATA[A Primer: Accessing Services in Kubernetes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[互联网信息传递与拥挤的网络]]></title>
+            <link>https://news.ycombinator.com/item?id=30220207</link>
+            <guid>https://news.ycombinator.com/item?id=30220207</guid>
+            <pubDate>Sat, 05 Feb 2022 11:47:27 GMT</pubDate>
+            <description><![CDATA[Internet Messaging vs. Congested Network]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是什么促使这只北极兔一直走啊走啊走啊走啊？]]></title>
+            <link>https://news.ycombinator.com/item?id=30191744</link>
+            <guid>https://news.ycombinator.com/item?id=30191744</guid>
+            <pubDate>Thu, 03 Feb 2022 12:46:32 GMT</pubDate>
+            <description><![CDATA[What energized this Arctic hare to keep going and going and going?]]></description>
+        </item>
         <item>
             <title><![CDATA[功率计 - 射频探头]]></title>
             <link>https://news.ycombinator.com/item?id=30189664</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30071766</guid>
             <pubDate>Tue, 25 Jan 2022 13:54:10 GMT</pubDate>
             <description><![CDATA[Flameshot v11.0.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[了解隐私沙盒的新主题API]]></title>
-            <link>https://news.ycombinator.com/item?id=30071442</link>
-            <guid>https://news.ycombinator.com/item?id=30071442</guid>
-            <pubDate>Tue, 25 Jan 2022 13:19:19 GMT</pubDate>
-            <description><![CDATA[Get to Know the New Topics API for Privacy Sandbox]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从像素化的视频中恢复经编辑的信息]]></title>
-            <link>https://news.ycombinator.com/item?id=30071250</link>
-            <guid>https://news.ycombinator.com/item?id=30071250</guid>
-            <pubDate>Tue, 25 Jan 2022 12:57:54 GMT</pubDate>
-            <description><![CDATA[Recovering redacted information from pixelated videos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[嵌入式控制器及其遗产 (2021)]]></title>
-            <link>https://news.ycombinator.com/item?id=30056649</link>
-            <guid>https://news.ycombinator.com/item?id=30056649</guid>
-            <pubDate>Mon, 24 Jan 2022 12:08:34 GMT</pubDate>
-            <description><![CDATA[The Embedded Controller and Its Legacy (2021)]]></description>
         </item>
     </channel>
 </rss>
