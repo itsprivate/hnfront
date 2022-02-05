@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T16:35:40.893Z</updated>
+    <updated>2022-02-05T17:06:43.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Django Ninja - 用于构建API的快速Django REST框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30221016</id>
+        <link href="https://news.ycombinator.com/item?id=30221016"/>
+        <updated>2022-02-05T13:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Django Ninja – Fast Django REST Framework for Building APIs]]></summary>
+        <author>
+            <name>watchdogtimer</name>
+            <uri>https://news.ycombinator.com/user?id=watchdogtimer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿拉斯加的独栋小镇，数百人的家]]></title>
+        <id>https://news.ycombinator.com/item?id=30193020</id>
+        <link href="https://news.ycombinator.com/item?id=30193020"/>
+        <updated>2022-02-03T14:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Alaska's one-house town, home to hundreds]]></summary>
+        <author>
+            <name>Jaruzel</name>
+            <uri>https://news.ycombinator.com/user?id=Jaruzel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[睡眠期间脑脊液冲入和冲出大脑的首批图像]]></title>
         <id>https://news.ycombinator.com/item?id=30222210</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>alokedesai</name>
             <uri>https://news.ycombinator.com/user?id=alokedesai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我正在将TypeScript类型检查器TSC移植到Go上]]></title>
-        <id>https://news.ycombinator.com/item?id=30074414</id>
-        <link href="https://news.ycombinator.com/item?id=30074414"/>
-        <updated>2022-01-25T17:07:40.000Z</updated>
-        <summary type="html"><![CDATA[I’m Porting the TypeScript Type Checker Tsc to Go]]></summary>
-        <author>
-            <name>msoad</name>
-            <uri>https://news.ycombinator.com/user?id=msoad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国 "大规模监控 "公司挑战不列颠哥伦比亚省的隐私监督令]]></title>
-        <id>https://news.ycombinator.com/item?id=30074126</id>
-        <link href="https://news.ycombinator.com/item?id=30074126"/>
-        <updated>2022-01-25T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[U.S. ‘mass surveillance’ company challenges B.C. privacy watchdog order]]></summary>
-        <author>
-            <name>arkadiyt</name>
-            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
         </author>
     </entry>
 </feed>
