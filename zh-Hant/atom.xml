@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T17:24:24.900Z</updated>
+    <updated>2022-02-05T17:34:09.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1922: 創造現代主義的那一年]]></title>
+        <id>https://news.ycombinator.com/item?id=30194439</id>
+        <link href="https://news.ycombinator.com/item?id=30194439"/>
+        <updated>2022-02-03T16:25:39.000Z</updated>
+        <summary type="html"><![CDATA[1922: The year that made modernism]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遐想實驗室（YC W18）正在招聘高級軟件工程師以解決癌症問題]]></title>
         <id>https://news.ycombinator.com/item?id=30223069</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>caaqil</name>
             <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在至少40個不同國家檢測到新的Covid變體BA.2]]></title>
-        <id>https://news.ycombinator.com/item?id=30075500</id>
-        <link href="https://news.ycombinator.com/item?id=30075500"/>
-        <updated>2022-01-25T18:09:56.000Z</updated>
-        <summary type="html"><![CDATA[New Covid variant BA.2 detected in at least 40 different countries]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
         </author>
     </entry>
 </feed>
