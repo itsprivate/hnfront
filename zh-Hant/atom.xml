@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T14:48:51.323Z</updated>
+    <updated>2022-02-05T15:26:20.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IBM數十年的數據庫成為2.7億美國人健康的有利檔案]]></title>
+        <id>https://news.ycombinator.com/item?id=30188843</id>
+        <link href="https://news.ycombinator.com/item?id=30188843"/>
+        <updated>2022-02-03T04:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Decades-old IBM database became profitable dossier on health of 270M Americans]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webgpt: 通過網絡瀏覽提高語言模型的事實準確性]]></title>
         <id>https://news.ycombinator.com/item?id=30211128</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在十年或更短時間內建立一個生產數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30072712</id>
-        <link href="https://news.ycombinator.com/item?id=30072712"/>
-        <updated>2022-01-25T15:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Building a production database in ten years or less]]></summary>
-        <author>
-            <name>1st1</name>
-            <uri>https://news.ycombinator.com/user?id=1st1</uri>
         </author>
     </entry>
 </feed>
