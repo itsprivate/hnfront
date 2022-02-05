@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T12:09:40.589Z</updated>
+    <updated>2022-02-05T12:34:41.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[功率计 - 射频探头]]></title>
+        <id>https://news.ycombinator.com/item?id=30189664</id>
+        <link href="https://news.ycombinator.com/item?id=30189664"/>
+        <updated>2022-02-03T07:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Power Meter – RF Probe]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eqtble (YC W21)正在招聘一名创始后端工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30220263</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>transpute</name>
             <uri>https://news.ycombinator.com/user?id=transpute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[声景生态学。景观中的声音科学 (2011)]]></title>
-        <id>https://news.ycombinator.com/item?id=30045399</id>
-        <link href="https://news.ycombinator.com/item?id=30045399"/>
-        <updated>2022-01-23T11:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Soundscape Ecology: The Science of Sound in the Landscape (2011)]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
