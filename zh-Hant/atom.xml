@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T19:49:14.201Z</updated>
+    <updated>2022-02-05T20:08:24.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Django Admin的直接替換]]></title>
+        <id>https://news.ycombinator.com/item?id=30224838</id>
+        <link href="https://news.ycombinator.com/item?id=30224838"/>
+        <updated>2022-02-05T19:24:40.000Z</updated>
+        <summary type="html"><![CDATA[A drop-in replacement of Django Admin]]></summary>
+        <author>
+            <name>sambalbadjak</name>
+            <uri>https://news.ycombinator.com/user?id=sambalbadjak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌瀏覽器U2F API退役。這一變化意味著什麼]]></title>
+        <id>https://news.ycombinator.com/item?id=30224777</id>
+        <link href="https://news.ycombinator.com/item?id=30224777"/>
+        <updated>2022-02-05T19:20:15.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome U2F API decommission: What the change means]]></summary>
+        <author>
+            <name>vmoore</name>
+            <uri>https://news.ycombinator.com/user?id=vmoore</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特幣的可行性墓地]]></title>
+        <id>https://news.ycombinator.com/item?id=30224637</id>
+        <link href="https://news.ycombinator.com/item?id=30224637"/>
+        <updated>2022-02-05T19:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin's Fungibility Graveyard]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掙錢的IT法案回來了 - 互聯網與社會中心]]></title>
+        <id>https://news.ycombinator.com/item?id=30224421</id>
+        <link href="https://news.ycombinator.com/item?id=30224421"/>
+        <updated>2022-02-05T18:52:19.000Z</updated>
+        <summary type="html"><![CDATA[The Earn IT Act Is Back – Center for Internet and Society]]></summary>
+        <author>
+            <name>grappler</name>
+            <uri>https://news.ycombinator.com/user?id=grappler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果禁止來自白俄羅斯的開發者的賬戶]]></title>
         <id>https://news.ycombinator.com/item?id=30224536</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>prionassembly</name>
             <uri>https://news.ycombinator.com/user?id=prionassembly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們的團隊取消了向微服務的轉移]]></title>
-        <id>https://news.ycombinator.com/item?id=30077959</id>
-        <link href="https://news.ycombinator.com/item?id=30077959"/>
-        <updated>2022-01-25T21:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Why our team cancelled our move to microservices]]></summary>
-        <author>
-            <name>start123</name>
-            <uri>https://news.ycombinator.com/user?id=start123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重建巴黎聖母院大教堂]]></title>
-        <id>https://news.ycombinator.com/item?id=30077297</id>
-        <link href="https://news.ycombinator.com/item?id=30077297"/>
-        <updated>2022-01-25T20:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Rebuilding Notre Dame Cathedral]]></summary>
-        <author>
-            <name>ternaryoperator</name>
-            <uri>https://news.ycombinator.com/user?id=ternaryoperator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motion（YC W20）正在招聘全棧和後端工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30077948</id>
-        <link href="https://news.ycombinator.com/item?id=30077948"/>
-        <updated>2022-01-25T21:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Motion (YC W20) is hiring full stack and back end engineers]]></summary>
-        <author>
-            <name>ethanyu94</name>
-            <uri>https://news.ycombinator.com/user?id=ethanyu94</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Googleplex的建築師說豪華的現場福利是 "危險的]]></title>
-        <id>https://news.ycombinator.com/item?id=30075773</id>
-        <link href="https://news.ycombinator.com/item?id=30075773"/>
-        <updated>2022-01-25T18:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Why Googleplex Architect Says Luxury On-Site Perks Are 'Dangerous']]></summary>
-        <author>
-            <name>jpm_sd</name>
-            <uri>https://news.ycombinator.com/user?id=jpm_sd</uri>
         </author>
     </entry>
 </feed>
