@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T10:49:27.307Z</updated>
+    <updated>2022-02-05T11:08:25.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為你的Python函數自動生成文檔字符串]]></title>
+        <id>https://news.ycombinator.com/item?id=30188673</id>
+        <link href="https://news.ycombinator.com/item?id=30188673"/>
+        <updated>2022-02-03T04:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Automatically generate docstrings for your Python function]]></summary>
+        <author>
+            <name>rcshubhadeep</name>
+            <uri>https://news.ycombinator.com/user?id=rcshubhadeep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被谷歌扼殺]]></title>
         <id>https://news.ycombinator.com/item?id=30219442</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>truxs</name>
             <uri>https://news.ycombinator.com/user?id=truxs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將谷歌聯繫人和日曆轉移到NextCloud]]></title>
-        <id>https://news.ycombinator.com/item?id=30070319</id>
-        <link href="https://news.ycombinator.com/item?id=30070319"/>
-        <updated>2022-01-25T10:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Moving Google Contacts and Calendar to NextCloud]]></summary>
-        <author>
-            <name>neoglow</name>
-            <uri>https://news.ycombinator.com/user?id=neoglow</uri>
         </author>
     </entry>
 </feed>
