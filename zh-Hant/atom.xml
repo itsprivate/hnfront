@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T14:34:40.339Z</updated>
+    <updated>2022-02-05T14:48:51.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Webgpt: 通過網絡瀏覽提高語言模型的事實準確性]]></title>
+        <id>https://news.ycombinator.com/item?id=30211128</id>
+        <link href="https://news.ycombinator.com/item?id=30211128"/>
+        <updated>2022-02-04T18:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Webgpt: Improving the factual accuracy of language models through web browsing]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國各地湧現出新興的自行車城市]]></title>
         <id>https://news.ycombinator.com/item?id=30220801</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>1st1</name>
             <uri>https://news.ycombinator.com/user?id=1st1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喬治-哈特的Scott Kim Ambigram]]></title>
-        <id>https://news.ycombinator.com/item?id=30056038</id>
-        <link href="https://news.ycombinator.com/item?id=30056038"/>
-        <updated>2022-01-24T11:04:08.000Z</updated>
-        <summary type="html"><![CDATA[A Scott Kim Ambigram for George Hart]]></summary>
-        <author>
-            <name>OJFord</name>
-            <uri>https://news.ycombinator.com/user?id=OJFord</uri>
         </author>
     </entry>
 </feed>
