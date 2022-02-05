@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T19:06:45.395Z</updated>
+    <updated>2022-02-05T19:34:44.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[适用于Windows的Fast File Finder是一个按名称快速查找文件的工具。]]></title>
+        <id>https://news.ycombinator.com/item?id=30224459</id>
+        <link href="https://news.ycombinator.com/item?id=30224459"/>
+        <updated>2022-02-05T18:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Fast File Finder for Windows is a tool for quickly finding files by name]]></summary>
+        <author>
+            <name>disadvantage</name>
+            <uri>https://news.ycombinator.com/user?id=disadvantage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jo - 一个创建JSON的shell命令]]></title>
+        <id>https://news.ycombinator.com/item?id=30224063</id>
+        <link href="https://news.ycombinator.com/item?id=30224063"/>
+        <updated>2022-02-05T18:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Jo – a shell command to create JSON]]></summary>
+        <author>
+            <name>robfig</name>
+            <uri>https://news.ycombinator.com/user?id=robfig</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我对阿尔法（不透明度）如何工作的心理模式是错误的]]></title>
+        <id>https://news.ycombinator.com/item?id=30195173</id>
+        <link href="https://news.ycombinator.com/item?id=30195173"/>
+        <updated>2022-02-03T17:11:15.000Z</updated>
+        <summary type="html"><![CDATA[My mental model of how alpha (opacity) works is wrong]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我每天使用基于Linux的PinePhone一年了。以下是我学到的东西]]></title>
         <id>https://news.ycombinator.com/item?id=30224048</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>netgusto</name>
             <uri>https://news.ycombinator.com/user?id=netgusto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贫困的结束刚刚开始]]></title>
-        <id>https://news.ycombinator.com/item?id=30077380</id>
-        <link href="https://news.ycombinator.com/item?id=30077380"/>
-        <updated>2022-01-25T20:12:21.000Z</updated>
-        <summary type="html"><![CDATA[The end of poverty has just begun]]></summary>
-        <author>
-            <name>cryoz</name>
-            <uri>https://news.ycombinator.com/user?id=cryoz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当身份证盗窃和高利贷碰撞时，可怕的欺诈行为会发生]]></title>
-        <id>https://news.ycombinator.com/item?id=30077065</id>
-        <link href="https://news.ycombinator.com/item?id=30077065"/>
-        <updated>2022-01-25T19:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Scary Fraud Ensues When ID Theft and Usury Collide]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pwnkit: polkit 的 pkexec 中的本地权限升级 (CVE-2021-4034)]]></title>
-        <id>https://news.ycombinator.com/item?id=30077271</id>
-        <link href="https://news.ycombinator.com/item?id=30077271"/>
-        <updated>2022-01-25T20:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
