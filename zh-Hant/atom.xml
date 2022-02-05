@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T15:26:20.882Z</updated>
+    <updated>2022-02-05T15:49:12.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[格子儀等價卷積神經網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30193848</id>
+        <link href="https://news.ycombinator.com/item?id=30193848"/>
+        <updated>2022-02-03T15:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Lattice Gauge Equivariant Convolutional Neural Networks]]></summary>
+        <author>
+            <name>amai</name>
+            <uri>https://news.ycombinator.com/user?id=amai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBM數十年的數據庫成為2.7億美國人健康的有利檔案]]></title>
         <id>https://news.ycombinator.com/item?id=30188843</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年的德諾]]></title>
-        <id>https://news.ycombinator.com/item?id=30073786</id>
-        <link href="https://news.ycombinator.com/item?id=30073786"/>
-        <updated>2022-01-25T16:29:12.000Z</updated>
-        <summary type="html"><![CDATA[Deno in 2021]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
         </author>
     </entry>
 </feed>

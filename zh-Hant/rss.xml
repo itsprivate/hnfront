@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 05 Feb 2022 15:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 15:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[格子儀等價卷積神經網絡]]></title>
+            <link>https://news.ycombinator.com/item?id=30193848</link>
+            <guid>https://news.ycombinator.com/item?id=30193848</guid>
+            <pubDate>Thu, 03 Feb 2022 15:44:10 GMT</pubDate>
+            <description><![CDATA[Lattice Gauge Equivariant Convolutional Neural Networks]]></description>
+        </item>
         <item>
             <title><![CDATA[IBM數十年的數據庫成為2.7億美國人健康的有利檔案]]></title>
             <link>https://news.ycombinator.com/item?id=30188843</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30073973</guid>
             <pubDate>Tue, 25 Jan 2022 16:41:36 GMT</pubDate>
             <description><![CDATA[Simulating the IBM 360/50 mainframe from its microcode]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2021年的德諾]]></title>
-            <link>https://news.ycombinator.com/item?id=30073786</link>
-            <guid>https://news.ycombinator.com/item?id=30073786</guid>
-            <pubDate>Tue, 25 Jan 2022 16:29:12 GMT</pubDate>
-            <description><![CDATA[Deno in 2021]]></description>
         </item>
     </channel>
 </rss>
