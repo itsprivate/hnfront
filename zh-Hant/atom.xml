@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T14:08:46.820Z</updated>
+    <updated>2022-02-06T14:25:45.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鐵絲網圍欄是早期的DIY電話網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30231837</id>
+        <link href="https://news.ycombinator.com/item?id=30231837"/>
+        <updated>2022-02-06T12:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Barbed wire fences were an early DIY telephone network]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社會經濟背景和社會分層中的基因-環境相互作用]]></title>
         <id>https://news.ycombinator.com/item?id=30232030</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>alexrustic</name>
             <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirPods不 "只是工作"]]></title>
-        <id>https://news.ycombinator.com/item?id=30084901</id>
-        <link href="https://news.ycombinator.com/item?id=30084901"/>
-        <updated>2022-01-26T12:58:22.000Z</updated>
-        <summary type="html"><![CDATA[AirPods Don't “Just Work”]]></summary>
-        <author>
-            <name>knowingathing</name>
-            <uri>https://news.ycombinator.com/user?id=knowingathing</uri>
         </author>
     </entry>
 </feed>
