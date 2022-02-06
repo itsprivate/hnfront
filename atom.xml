@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T02:54:16.094Z</updated>
+    <updated>2022-02-06T03:36:29.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[确认为美国、加拿大或欧洲制造的品牌和产品名单]]></title>
+        <id>https://news.ycombinator.com/item?id=30228264</id>
+        <link href="https://news.ycombinator.com/item?id=30228264"/>
+        <updated>2022-02-06T01:17:13.000Z</updated>
+        <summary type="html"><![CDATA[List of Brands and Products Confirmed to Be Made in the USA, Canada or Europe]]></summary>
+        <author>
+            <name>neuro_image2</name>
+            <uri>https://news.ycombinator.com/user?id=neuro_image2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[扩大的儿童税收政策削减了儿童贫困率]]></title>
         <id>https://news.ycombinator.com/item?id=30228673</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>YXNjaGVyZWdlbgo</name>
             <uri>https://news.ycombinator.com/user?id=YXNjaGVyZWdlbgo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPG和SSH的YubiKey使用指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30081348</id>
-        <link href="https://news.ycombinator.com/item?id=30081348"/>
-        <updated>2022-01-26T03:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Guide to Using YubiKey for GPG and SSH]]></summary>
-        <author>
-            <name>simonpure</name>
-            <uri>https://news.ycombinator.com/user?id=simonpure</uri>
         </author>
     </entry>
 </feed>
