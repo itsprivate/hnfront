@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Feb 2022 06:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 06:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[与 "危险 "大师和 "魔术 "创造者一起打造更好的小游戏 (2019)]]></title>
+            <link>https://news.ycombinator.com/item?id=30190623</link>
+            <guid>https://news.ycombinator.com/item?id=30190623</guid>
+            <pubDate>Thu, 03 Feb 2022 09:53:41 GMT</pubDate>
+            <description><![CDATA[Building a better trivia game with a Jeopardy master and Magic’s creator (2019)]]></description>
+        </item>
         <item>
             <title><![CDATA[Web3并不关心你的隐私]]></title>
             <link>https://news.ycombinator.com/item?id=30229393</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30057203</guid>
             <pubDate>Mon, 24 Jan 2022 13:17:33 GMT</pubDate>
             <description><![CDATA[Why routing alogrithms from different maps don't always give the same route]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Let's Encrypt: TLS-ALPN-01验证方法的问题]]></title>
-            <link>https://news.ycombinator.com/item?id=30082286</link>
-            <guid>https://news.ycombinator.com/item?id=30082286</guid>
-            <pubDate>Wed, 26 Jan 2022 05:58:12 GMT</pubDate>
-            <description><![CDATA[Let's Encrypt: Issue with TLS-ALPN-01 Validation Method]]></description>
         </item>
     </channel>
 </rss>

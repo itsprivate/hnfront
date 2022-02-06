@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T06:33:06.922Z</updated>
+    <updated>2022-02-06T06:51:24.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與 "危險 "大師和 "魔術 "創造者一起打造更好的小遊戲 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30190623</id>
+        <link href="https://news.ycombinator.com/item?id=30190623"/>
+        <updated>2022-02-03T09:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Building a better trivia game with a Jeopardy master and Magic’s creator (2019)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3並不關心你的隱私]]></title>
         <id>https://news.ycombinator.com/item?id=30229393</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>afknewsagency</name>
             <uri>https://news.ycombinator.com/user?id=afknewsagency</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Encrypt: TLS-ALPN-01驗證方法的問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30082286</id>
-        <link href="https://news.ycombinator.com/item?id=30082286"/>
-        <updated>2022-01-26T05:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Let's Encrypt: Issue with TLS-ALPN-01 Validation Method]]></summary>
-        <author>
-            <name>kpetermeni</name>
-            <uri>https://news.ycombinator.com/user?id=kpetermeni</uri>
         </author>
     </entry>
 </feed>
