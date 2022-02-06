@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T09:36:10.324Z</updated>
+    <updated>2022-02-06T10:08:25.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的小氣鬼評論系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30206330</id>
+        <link href="https://news.ycombinator.com/item?id=30206330"/>
+        <updated>2022-02-04T13:10:16.000Z</updated>
+        <summary type="html"><![CDATA[My cheapskate commenting system]]></summary>
+        <author>
+            <name>bradley_taunt</name>
+            <uri>https://news.ycombinator.com/user?id=bradley_taunt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐盟15個國家對化石燃料的補貼超過了可再生能源]]></title>
         <id>https://news.ycombinator.com/item?id=30230429</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zlib - 一個精緻而不顯眼的壓縮庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30055036</id>
-        <link href="https://news.ycombinator.com/item?id=30055036"/>
-        <updated>2022-01-24T09:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Zlib – a spiffy yet delicately unobtrusive compression library]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
