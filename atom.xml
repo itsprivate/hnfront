@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T21:08:28.358Z</updated>
+    <updated>2022-02-06T22:36:08.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于构建30K Debian软件包]]></title>
+        <id>https://news.ycombinator.com/item?id=30237483</id>
+        <link href="https://news.ycombinator.com/item?id=30237483"/>
+        <updated>2022-02-06T22:05:12.000Z</updated>
+        <summary type="html"><![CDATA[On Building 30K Debian Packages]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渥太华已经失去了对自己的控制]]></title>
+        <id>https://news.ycombinator.com/item?id=30237369</id>
+        <link href="https://news.ycombinator.com/item?id=30237369"/>
+        <updated>2022-02-06T21:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Ottawa has lost control of itself]]></summary>
+        <author>
+            <name>kkwteh</name>
+            <uri>https://news.ycombinator.com/user?id=kkwteh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rescale (YC W12)正在招聘软件工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30236951</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>burticlies</name>
             <uri>https://news.ycombinator.com/user?id=burticlies</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最坏的做法因错误的原因而成为病毒 (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=30091371</id>
-        <link href="https://news.ycombinator.com/item?id=30091371"/>
-        <updated>2022-01-26T20:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Worst practices are viral for the wrong reasons (2014)]]></summary>
-        <author>
-            <name>throwaway81523</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway81523</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙公司（YC W18）正在招聘创作和商务工具的产品负责人]]></title>
-        <id>https://news.ycombinator.com/item?id=30091767</id>
-        <link href="https://news.ycombinator.com/item?id=30091767"/>
-        <updated>2022-01-26T21:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Universe (YC W18) Is Hiring Product Leads for Creation and Commerce Tools]]></summary>
-        <author>
-            <name>josephcohen</name>
-            <uri>https://news.ycombinator.com/user?id=josephcohen</uri>
         </author>
     </entry>
 </feed>
