@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T07:49:36.818Z</updated>
+    <updated>2022-02-06T08:49:03.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-喬伊斯的《尤利西斯》被評論(1922年)]]></title>
+        <id>https://news.ycombinator.com/item?id=30213234</id>
+        <link href="https://news.ycombinator.com/item?id=30213234"/>
+        <updated>2022-02-04T21:08:25.000Z</updated>
+        <summary type="html"><![CDATA[James Joyce’s Ulysses reviewed (1922)]]></summary>
+        <author>
+            <name>see-also</name>
+            <uri>https://news.ycombinator.com/user?id=see-also</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inkscape 1.1.2發佈了]]></title>
         <id>https://news.ycombinator.com/item?id=30230198</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tomashm</name>
             <uri>https://news.ycombinator.com/user?id=tomashm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於文本的面試技巧(2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30055766</id>
-        <link href="https://news.ycombinator.com/item?id=30055766"/>
-        <updated>2022-01-24T10:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Tips for Text-based Interviews (2021)]]></summary>
-        <author>
-            <name>xept</name>
-            <uri>https://news.ycombinator.com/user?id=xept</uri>
         </author>
     </entry>
 </feed>
