@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T16:42:52.279Z</updated>
+    <updated>2022-02-06T16:59:21.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在密码之前--用于文件安全的色带和印章 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30234042</id>
+        <link href="https://news.ycombinator.com/item?id=30234042"/>
+        <updated>2022-02-06T16:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Before passwords - ribbons and seals for document security (2021)]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[波士顿联储发布报告，数字货币原型研究的源代码]]></title>
         <id>https://news.ycombinator.com/item?id=30233755</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>fvv</name>
             <uri>https://news.ycombinator.com/user?id=fvv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panwriter - 无需分心的Markdown编辑器与pandoc集成]]></title>
-        <id>https://news.ycombinator.com/item?id=30087194</id>
-        <link href="https://news.ycombinator.com/item?id=30087194"/>
-        <updated>2022-01-26T16:07:27.000Z</updated>
-        <summary type="html"><![CDATA[Panwriter – Distraction-free Markdown editor with pandoc integration]]></summary>
-        <author>
-            <name>amai</name>
-            <uri>https://news.ycombinator.com/user?id=amai</uri>
         </author>
     </entry>
 </feed>
