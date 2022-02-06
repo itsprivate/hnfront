@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T22:36:08.909Z</updated>
+    <updated>2022-02-06T23:09:15.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的安全帶判斷法則]]></title>
+        <id>https://news.ycombinator.com/item?id=30237457</id>
+        <link href="https://news.ycombinator.com/item?id=30237457"/>
+        <updated>2022-02-06T22:01:31.000Z</updated>
+        <summary type="html"><![CDATA[My Seatbelt Rule for Judgment]]></summary>
+        <author>
+            <name>dguo</name>
+            <uri>https://news.ycombinator.com/user?id=dguo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於構建30K Debian軟件包]]></title>
         <id>https://news.ycombinator.com/item?id=30237483</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停止頭腦風暴]]></title>
-        <id>https://news.ycombinator.com/item?id=30091839</id>
-        <link href="https://news.ycombinator.com/item?id=30091839"/>
-        <updated>2022-01-26T21:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Stop Brainstorming]]></summary>
-        <author>
-            <name>burticlies</name>
-            <uri>https://news.ycombinator.com/user?id=burticlies</uri>
         </author>
     </entry>
 </feed>
