@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-05T23:49:24.757Z</updated>
+    <updated>2022-02-06T01:57:19.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个文艺复兴时期的谜语。索拉-布斯卡塔罗牌(1491年)]]></title>
+        <id>https://news.ycombinator.com/item?id=30228029</id>
+        <link href="https://news.ycombinator.com/item?id=30228029"/>
+        <updated>2022-02-06T00:43:35.000Z</updated>
+        <summary type="html"><![CDATA[A Renaissance Riddle: The Sola Busca Tarot Deck (1491)]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒武纪大爆炸的原因--地球上的还是宇宙中的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30227756</id>
+        <link href="https://news.ycombinator.com/item?id=30227756"/>
+        <updated>2022-02-06T00:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Cause of Cambrian Explosion – Terrestrial or Cosmic?]]></summary>
+        <author>
+            <name>mattclarkdotnet</name>
+            <uri>https://news.ycombinator.com/user?id=mattclarkdotnet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云淡风轻 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30212818</id>
+        <link href="https://news.ycombinator.com/item?id=30212818"/>
+        <updated>2022-02-04T20:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Cloudy with a Chance of Bullshit (2018)]]></summary>
+        <author>
+            <name>yoloswagins</name>
+            <uri>https://news.ycombinator.com/user?id=yoloswagins</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻找开源项目中的漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30190904</id>
+        <link href="https://news.ycombinator.com/item?id=30190904"/>
+        <updated>2022-02-03T10:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Finding Vulnerabilities in Open Source Projects]]></summary>
+        <author>
+            <name>CapitalistCartr</name>
+            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年轻的美国人比老年人从加强型疫苗中获益更少]]></title>
         <id>https://news.ycombinator.com/item?id=30227013</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>exolymph</name>
             <uri>https://news.ycombinator.com/user?id=exolymph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃里克-查希的多边形的另一个世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30080159</id>
-        <link href="https://news.ycombinator.com/item?id=30080159"/>
-        <updated>2022-01-26T00:35:07.000Z</updated>
-        <summary type="html"><![CDATA[The Polygons of Éric's Chahi Another World]]></summary>
-        <author>
-            <name>zaiste</name>
-            <uri>https://news.ycombinator.com/user?id=zaiste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIFSane。使用WASM和FFmpeg的GIF播放控制]]></title>
-        <id>https://news.ycombinator.com/item?id=30056828</id>
-        <link href="https://news.ycombinator.com/item?id=30056828"/>
-        <updated>2022-01-24T12:30:14.000Z</updated>
-        <summary type="html"><![CDATA[GIFSane: GIF playback control using WASM and FFmpeg]]></summary>
-        <author>
-            <name>brunoluiz</name>
-            <uri>https://news.ycombinator.com/user?id=brunoluiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两周后，大卫-班尼特还活着，他的猪的心脏在酣畅地跳动。]]></title>
-        <id>https://news.ycombinator.com/item?id=30080472</id>
-        <link href="https://news.ycombinator.com/item?id=30080472"/>
-        <updated>2022-01-26T01:22:32.000Z</updated>
-        <summary type="html"><![CDATA[Two weeks later David Bennett is alive, his pig’s heart beating soundly]]></summary>
-        <author>
-            <name>otoolep</name>
-            <uri>https://news.ycombinator.com/user?id=otoolep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从大型传感器群中提取信息的新方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30056228</id>
-        <link href="https://news.ycombinator.com/item?id=30056228"/>
-        <updated>2022-01-24T11:27:28.000Z</updated>
-        <summary type="html"><![CDATA[A New Approach to Extracting Information from Large Ensembles of Sensors]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
