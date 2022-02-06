@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T10:39:02.829Z</updated>
+    <updated>2022-02-06T11:07:29.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TornadoVM。一个实用、高效的异构编程框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30230944</id>
+        <link href="https://news.ycombinator.com/item?id=30230944"/>
+        <updated>2022-02-06T09:46:40.000Z</updated>
+        <summary type="html"><![CDATA[TornadoVM: A practical and efficient heterogeneous programming framework]]></summary>
+        <author>
+            <name>capableweb</name>
+            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R的快速介绍]]></title>
+        <id>https://news.ycombinator.com/item?id=30230846</id>
+        <link href="https://news.ycombinator.com/item?id=30230846"/>
+        <updated>2022-02-06T09:30:30.000Z</updated>
+        <summary type="html"><![CDATA[A Quick Introduction to R]]></summary>
+        <author>
+            <name>kkoncevicius</name>
+            <uri>https://news.ycombinator.com/user?id=kkoncevicius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高斯过程回归演示]]></title>
+        <id>https://news.ycombinator.com/item?id=30209859</id>
+        <link href="https://news.ycombinator.com/item?id=30209859"/>
+        <updated>2022-02-04T17:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Gaussian Process Regression Demo]]></summary>
+        <author>
+            <name>alemelis</name>
+            <uri>https://news.ycombinator.com/user?id=alemelis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数字化验孕棒里面有什么（2020年）]]></title>
         <id>https://news.ycombinator.com/item?id=30230983</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[睡眠质量和一致性与更好的学习成绩有关]]></title>
-        <id>https://news.ycombinator.com/item?id=30083988</id>
-        <link href="https://news.ycombinator.com/item?id=30083988"/>
-        <updated>2022-01-26T10:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Sleep quality and consistency is associated with better academic performance]]></summary>
-        <author>
-            <name>wallopingfuture</name>
-            <uri>https://news.ycombinator.com/user?id=wallopingfuture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[规模化的机器可读规格]]></title>
-        <id>https://news.ycombinator.com/item?id=30083908</id>
-        <link href="https://news.ycombinator.com/item?id=30083908"/>
-        <updated>2022-01-26T10:44:13.000Z</updated>
-        <summary type="html"><![CDATA[Machine Readable Specifications at Scale]]></summary>
-        <author>
-            <name>fanf2</name>
-            <uri>https://news.ycombinator.com/user?id=fanf2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis vs. Kafka vs. RabbitMQ]]></title>
-        <id>https://news.ycombinator.com/item?id=30083815</id>
-        <link href="https://news.ycombinator.com/item?id=30083815"/>
-        <updated>2022-01-26T10:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Redis vs. Kafka vs. RabbitMQ]]></summary>
-        <author>
-            <name>FragrantRiver</name>
-            <uri>https://news.ycombinator.com/user?id=FragrantRiver</uri>
         </author>
     </entry>
 </feed>
