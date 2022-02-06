@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T11:07:29.159Z</updated>
+    <updated>2022-02-06T11:49:41.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讀/寫微代碼的無記錄x86指令]]></title>
+        <id>https://news.ycombinator.com/item?id=30231611</id>
+        <link href="https://news.ycombinator.com/item?id=30231611"/>
+        <updated>2022-02-06T11:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Undocumented x86 instructions to read/ write microcode]]></summary>
+        <author>
+            <name>tomcam</name>
+            <uri>https://news.ycombinator.com/user?id=tomcam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TornadoVM。一個實用、高效的異構編程框架]]></title>
         <id>https://news.ycombinator.com/item?id=30230944</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克勞德-香農如何幫助啟動機器學習]]></title>
-        <id>https://news.ycombinator.com/item?id=30084169</id>
-        <link href="https://news.ycombinator.com/item?id=30084169"/>
-        <updated>2022-01-26T11:19:11.000Z</updated>
-        <summary type="html"><![CDATA[How Claude Shannon Helped Kick-Start Machine Learning]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
