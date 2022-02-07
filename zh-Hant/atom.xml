@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T04:54:21.753Z</updated>
+    <updated>2022-02-07T05:08:44.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人員管理]]></title>
+        <id>https://news.ycombinator.com/item?id=30240428</id>
+        <link href="https://news.ycombinator.com/item?id=30240428"/>
+        <updated>2022-02-07T04:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Managing People]]></summary>
+        <author>
+            <name>kylegill</name>
+            <uri>https://news.ycombinator.com/user?id=kylegill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本如何挽救東京鐵路網的崩潰（第一部分，1945-1982）。]]></title>
         <id>https://news.ycombinator.com/item?id=30228327</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>kofejnik</name>
             <uri>https://news.ycombinator.com/user?id=kofejnik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不僅僅是數字拷貝。解釋地圖的地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30084641</id>
-        <link href="https://news.ycombinator.com/item?id=30084641"/>
-        <updated>2022-01-26T12:21:36.000Z</updated>
-        <summary type="html"><![CDATA[More Than Digital Copies: Maps That Interpret Maps]]></summary>
-        <author>
-            <name>mxfh</name>
-            <uri>https://news.ycombinator.com/user?id=mxfh</uri>
         </author>
     </entry>
 </feed>
