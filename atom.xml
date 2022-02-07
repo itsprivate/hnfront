@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T13:30:29.097Z</updated>
+    <updated>2022-02-07T14:08:47.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MAME 25岁了]]></title>
+        <id>https://news.ycombinator.com/item?id=30244449</id>
+        <link href="https://news.ycombinator.com/item?id=30244449"/>
+        <updated>2022-02-07T13:23:10.000Z</updated>
+        <summary type="html"><![CDATA[MAME Turns 25]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对PAIP的回顾 (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=30230364</id>
+        <link href="https://news.ycombinator.com/item?id=30230364"/>
+        <updated>2022-02-06T07:50:39.000Z</updated>
+        <summary type="html"><![CDATA[A Retrospective on PAIP (2002)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[此应用程序不支持App Store的私人和安全支付系统]]></title>
         <id>https://news.ycombinator.com/item?id=30244276</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>treycopeland</name>
             <uri>https://news.ycombinator.com/user?id=treycopeland</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝塞尔曲线的入门知识]]></title>
-        <id>https://news.ycombinator.com/item?id=30100427</id>
-        <link href="https://news.ycombinator.com/item?id=30100427"/>
-        <updated>2022-01-27T13:42:46.000Z</updated>
-        <summary type="html"><![CDATA[A Primer on Bézier Curves]]></summary>
-        <author>
-            <name>s1291</name>
-            <uri>https://news.ycombinator.com/user?id=s1291</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优化障碍物的生命]]></title>
-        <id>https://news.ycombinator.com/item?id=30084636</id>
-        <link href="https://news.ycombinator.com/item?id=30084636"/>
-        <updated>2022-01-26T12:20:49.000Z</updated>
-        <summary type="html"><![CDATA[The Life of an Optimization Barrier]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
