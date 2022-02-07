@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T03:28:54.348Z</updated>
+    <updated>2022-02-07T03:37:43.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國正在考慮為今天的數字世界對美元進行徹底的反思]]></title>
+        <id>https://news.ycombinator.com/item?id=30239803</id>
+        <link href="https://news.ycombinator.com/item?id=30239803"/>
+        <updated>2022-02-07T03:05:11.000Z</updated>
+        <summary type="html"><![CDATA[U.S. is considering a radical rethinking of the dollar for today's digital world]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民意調查：你喜歡辦公室還是在家工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30239441</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>activatedgeek</name>
             <uri>https://news.ycombinator.com/user?id=activatedgeek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT 6.S081 - 操作系統工程]]></title>
-        <id>https://news.ycombinator.com/item?id=30094376</id>
-        <link href="https://news.ycombinator.com/item?id=30094376"/>
-        <updated>2022-01-27T00:39:15.000Z</updated>
-        <summary type="html"><![CDATA[MIT 6.S081 – Operating System Engineering]]></summary>
-        <author>
-            <name>lnsp</name>
-            <uri>https://news.ycombinator.com/user?id=lnsp</uri>
         </author>
     </entry>
 </feed>
