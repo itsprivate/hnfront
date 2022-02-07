@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T22:49:26.725Z</updated>
+    <updated>2022-02-07T23:28:59.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冰钉。在冰箱里能找到的奇怪的东西]]></title>
+        <id>https://news.ycombinator.com/item?id=30236408</id>
+        <link href="https://news.ycombinator.com/item?id=30236408"/>
+        <updated>2022-02-06T20:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Ice Spikes: Strange things you can find in your freezer]]></summary>
+        <author>
+            <name>mmastrac</name>
+            <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌向联想智能显示器推送更新，禁止浏览网站]]></title>
         <id>https://news.ycombinator.com/item?id=30252297</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>malshe</name>
             <uri>https://news.ycombinator.com/user?id=malshe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羊杂碎的历史]]></title>
-        <id>https://news.ycombinator.com/item?id=30080881</id>
-        <link href="https://news.ycombinator.com/item?id=30080881"/>
-        <updated>2022-01-26T02:21:31.000Z</updated>
-        <summary type="html"><![CDATA[A History of Haggis]]></summary>
-        <author>
-            <name>tintinnabula</name>
-            <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
         </author>
     </entry>
 </feed>
