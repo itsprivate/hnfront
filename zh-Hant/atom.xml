@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T17:29:05.459Z</updated>
+    <updated>2022-02-07T17:49:11.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Richard Matthew Stallman]]></title>
+        <id>https://news.ycombinator.com/item?id=30247926</id>
+        <link href="https://news.ycombinator.com/item?id=30247926"/>
+        <updated>2022-02-07T17:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Richard Matthew Stallman]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Basis（YC S21）正在招聘開發人員，以重構現代數據棧]]></title>
         <id>https://news.ycombinator.com/item?id=30247569</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人力資本是真實的，有些人比其他人更聰明]]></title>
-        <id>https://news.ycombinator.com/item?id=30102738</id>
-        <link href="https://news.ycombinator.com/item?id=30102738"/>
-        <updated>2022-01-27T16:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Human Capital Is Real, and Some People Are Smarter Than Other People]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
