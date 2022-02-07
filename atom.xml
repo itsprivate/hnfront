@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-06T23:49:15.747Z</updated>
+    <updated>2022-02-07T00:27:13.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[量子摩擦解释了水在纳米管中流动的奇怪方式]]></title>
+        <id>https://news.ycombinator.com/item?id=30227139</id>
+        <link href="https://news.ycombinator.com/item?id=30227139"/>
+        <updated>2022-02-05T22:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Quantum friction explains strange way water flows through nanotubes]]></summary>
+        <author>
+            <name>elorant</name>
+            <uri>https://news.ycombinator.com/user?id=elorant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不使用JavaScript的指纹识别]]></title>
         <id>https://news.ycombinator.com/item?id=30237846</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>cameron_b</name>
             <uri>https://news.ycombinator.com/user?id=cameron_b</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对长期主义的批判：为什么你不应该担心遥远的未来？]]></title>
-        <id>https://news.ycombinator.com/item?id=30091974</id>
-        <link href="https://news.ycombinator.com/item?id=30091974"/>
-        <updated>2022-01-26T21:14:46.000Z</updated>
-        <summary type="html"><![CDATA[A critique of longtermism: why you shouldn't worry about the far future]]></summary>
-        <author>
-            <name>gautamcgoel</name>
-            <uri>https://news.ycombinator.com/user?id=gautamcgoel</uri>
         </author>
     </entry>
 </feed>
