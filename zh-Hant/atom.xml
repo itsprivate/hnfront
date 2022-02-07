@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T20:25:47.430Z</updated>
+    <updated>2022-02-07T20:34:55.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jürgen Schmidhuber的主頁]]></title>
+        <id>https://news.ycombinator.com/item?id=30250395</id>
+        <link href="https://news.ycombinator.com/item?id=30250395"/>
+        <updated>2022-02-07T20:17:35.000Z</updated>
+        <summary type="html"><![CDATA[Jürgen Schmidhuber's Home Page]]></summary>
+        <author>
+            <name>kkoncevicius</name>
+            <uri>https://news.ycombinator.com/user?id=kkoncevicius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你可以改變你的號碼]]></title>
         <id>https://news.ycombinator.com/item?id=30250215</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>paulgb</name>
             <uri>https://news.ycombinator.com/user?id=paulgb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是聰聰]]></title>
-        <id>https://news.ycombinator.com/item?id=30105970</id>
-        <link href="https://news.ycombinator.com/item?id=30105970"/>
-        <updated>2022-01-27T20:24:49.000Z</updated>
-        <summary type="html"><![CDATA[I Am Satoshi]]></summary>
-        <author>
-            <name>revskill</name>
-            <uri>https://news.ycombinator.com/user?id=revskill</uri>
         </author>
     </entry>
 </feed>
