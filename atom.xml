@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T07:08:47.256Z</updated>
+    <updated>2022-02-07T07:26:49.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[华尔街是GameStop传奇的真正赢家]]></title>
+        <id>https://news.ycombinator.com/item?id=30240823</id>
+        <link href="https://news.ycombinator.com/item?id=30240823"/>
+        <updated>2022-02-07T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Wall Street was the real winner of the GameStop saga]]></summary>
+        <author>
+            <name>planetjones</name>
+            <uri>https://news.ycombinator.com/user?id=planetjones</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitmovin（YC S15）正在招聘产品营销副总裁（美国/欧洲/远程）。]]></title>
         <id>https://news.ycombinator.com/item?id=30241259</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>jacquesm</name>
             <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可持续使用50年的计算机]]></title>
-        <id>https://news.ycombinator.com/item?id=30096321</id>
-        <link href="https://news.ycombinator.com/item?id=30096321"/>
-        <updated>2022-01-27T04:46:26.000Z</updated>
-        <summary type="html"><![CDATA[The computer built to last 50 years]]></summary>
-        <author>
-            <name>ecliptik</name>
-            <uri>https://news.ycombinator.com/user?id=ecliptik</uri>
         </author>
     </entry>
 </feed>
