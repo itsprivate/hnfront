@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T11:49:33.088Z</updated>
+    <updated>2022-02-07T12:12:43.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fleek (YC W22) 正在招聘]]></title>
+        <id>https://news.ycombinator.com/item?id=30243606</id>
+        <link href="https://news.ycombinator.com/item?id=30243606"/>
+        <updated>2022-02-07T12:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Fleek (YC W22) Is Hiring]]></summary>
+        <author>
+            <name>snktagarwal</name>
+            <uri>https://news.ycombinator.com/user?id=snktagarwal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿爾巴尼亞的目標是打造 "歐洲第一個野生河流國家公園"]]></title>
+        <id>https://news.ycombinator.com/item?id=30231454</id>
+        <link href="https://news.ycombinator.com/item?id=30231454"/>
+        <updated>2022-02-06T11:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Albania’s Goal of Making “The First Wild River National Park in Europe”]]></summary>
+        <author>
+            <name>dnetesn</name>
+            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科裡-多克託羅的《Uber的終結》--對汽車的戰爭]]></title>
         <id>https://news.ycombinator.com/item?id=30242935</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>CapitalistCartr</name>
             <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臉書承諾貧窮國家免費上網。人們還是被收費了]]></title>
-        <id>https://news.ycombinator.com/item?id=30099648</id>
-        <link href="https://news.ycombinator.com/item?id=30099648"/>
-        <updated>2022-01-27T12:22:06.000Z</updated>
-        <summary type="html"><![CDATA[Facebook promised poor countries free internet: People got charged anyway]]></summary>
-        <author>
-            <name>SQL2219</name>
-            <uri>https://news.ycombinator.com/user?id=SQL2219</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis的腳本不以原子方式過期密鑰]]></title>
-        <id>https://news.ycombinator.com/item?id=30099572</id>
-        <link href="https://news.ycombinator.com/item?id=30099572"/>
-        <updated>2022-01-27T12:14:03.000Z</updated>
-        <summary type="html"><![CDATA[Redis scripts do not expire keys atomically]]></summary>
-        <author>
-            <name>stichers</name>
-            <uri>https://news.ycombinator.com/user?id=stichers</uri>
         </author>
     </entry>
 </feed>
