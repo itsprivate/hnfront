@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T03:08:45.549Z</updated>
+    <updated>2022-02-07T03:28:54.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[民意調查：你喜歡辦公室還是在家工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30239441</id>
+        <link href="https://news.ycombinator.com/item?id=30239441"/>
+        <updated>2022-02-07T02:22:51.000Z</updated>
+        <summary type="html"><![CDATA[Poll: Do you prefer the office or work from home?]]></summary>
+        <author>
+            <name>alfiedotwtf</name>
+            <uri>https://news.ycombinator.com/user?id=alfiedotwtf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[波音737 Max災難在軟件開發人員眼中是怎樣的？]]></title>
         <id>https://news.ycombinator.com/item?id=30238255</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>lnsp</name>
             <uri>https://news.ycombinator.com/user?id=lnsp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麥克明縣禁止普利策獎獲獎作品《毛斯》，即大屠殺書籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30094295</id>
-        <link href="https://news.ycombinator.com/item?id=30094295"/>
-        <updated>2022-01-27T00:30:09.000Z</updated>
-        <summary type="html"><![CDATA[McMinn County Bans “Maus”, Pulitzer Prize Winning Holocaust Book]]></summary>
-        <author>
-            <name>b0sk</name>
-            <uri>https://news.ycombinator.com/user?id=b0sk</uri>
         </author>
     </entry>
 </feed>
