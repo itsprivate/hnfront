@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T08:10:29.964Z</updated>
+    <updated>2022-02-07T08:33:30.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[梅塔威胁要关闭欧洲的Facebook和Instagram]]></title>
+        <id>https://news.ycombinator.com/item?id=30241635</id>
+        <link href="https://news.ycombinator.com/item?id=30241635"/>
+        <updated>2022-02-07T07:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Meta threatens to shut down Facebook and Instagram in Europe]]></summary>
+        <author>
+            <name>ChemSpider</name>
+            <uri>https://news.ycombinator.com/user?id=ChemSpider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neutralinojs - 跨平台的桌面应用开发框架]]></title>
         <id>https://news.ycombinator.com/item?id=30240936</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>summoned</name>
             <uri>https://news.ycombinator.com/user?id=summoned</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一张大型BBS的老照片]]></title>
-        <id>https://news.ycombinator.com/item?id=30096565</id>
-        <link href="https://news.ycombinator.com/item?id=30096565"/>
-        <updated>2022-01-27T05:25:35.000Z</updated>
-        <summary type="html"><![CDATA[An old photo of a large BBS]]></summary>
-        <author>
-            <name>guiambros</name>
-            <uri>https://news.ycombinator.com/user?id=guiambros</uri>
         </author>
     </entry>
 </feed>
