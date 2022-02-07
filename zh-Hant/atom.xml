@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T01:38:09.499Z</updated>
+    <updated>2022-02-07T02:18:13.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬克-扎克伯格的災難正帶著硅谷走。]]></title>
+        <id>https://news.ycombinator.com/item?id=30239071</id>
+        <link href="https://news.ycombinator.com/item?id=30239071"/>
+        <updated>2022-02-07T01:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Mark Zuckerberg’s Disaster Is Taking Silicon Valley with It]]></summary>
+        <author>
+            <name>vanusa</name>
+            <uri>https://news.ycombinator.com/user?id=vanusa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1918年流感時學校關閉對教育或職業成就沒有影響]]></title>
         <id>https://news.ycombinator.com/item?id=30238973</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>josephscott</name>
             <uri>https://news.ycombinator.com/user?id=josephscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抽象，它們的算法，以及它們的編譯器]]></title>
-        <id>https://news.ycombinator.com/item?id=30084470</id>
-        <link href="https://news.ycombinator.com/item?id=30084470"/>
-        <updated>2022-01-26T11:57:51.000Z</updated>
-        <summary type="html"><![CDATA[Abstractions, Their Algorithms, and Their Compilers]]></summary>
-        <author>
-            <name>yarapavan</name>
-            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
         </author>
     </entry>
 </feed>
