@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T13:04:29.446Z</updated>
+    <updated>2022-02-07T13:30:29.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[此應用程序不支持App Store的私人和安全支付系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30244276</id>
+        <link href="https://news.ycombinator.com/item?id=30244276"/>
+        <updated>2022-02-07T13:05:29.000Z</updated>
+        <summary type="html"><![CDATA[This app does not support the App Store’s private and secure payment system]]></summary>
+        <author>
+            <name>tiagoleifert</name>
+            <uri>https://news.ycombinator.com/user?id=tiagoleifert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[謝謝你，Valve]]></title>
+        <id>https://news.ycombinator.com/item?id=30244195</id>
+        <link href="https://news.ycombinator.com/item?id=30244195"/>
+        <updated>2022-02-07T12:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Thank You, Valve]]></summary>
+        <author>
+            <name>kinduff</name>
+            <uri>https://news.ycombinator.com/user?id=kinduff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當M1 Mac mini比M1 Pro更快時：爭奪和核心分配]]></title>
         <id>https://news.ycombinator.com/item?id=30242509</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[儘管經歷了數十年的黑客攻擊，企業仍對敏感數據不加保護]]></title>
-        <id>https://news.ycombinator.com/item?id=30099747</id>
-        <link href="https://news.ycombinator.com/item?id=30099747"/>
-        <updated>2022-01-27T12:33:52.000Z</updated>
-        <summary type="html"><![CDATA[Despite Decades of Hacking Attacks, Companies Leave Sensitive Data Unprotected]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與天文學家之前所見不同的神秘物體]]></title>
-        <id>https://news.ycombinator.com/item?id=30099010</id>
-        <link href="https://news.ycombinator.com/item?id=30099010"/>
-        <updated>2022-01-27T11:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Mysterious object unlike anything astronomers have seen before]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
