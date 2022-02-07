@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T20:34:55.659Z</updated>
+    <updated>2022-02-07T20:49:03.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯蒂芬-沃爾弗拉姆。一種新的科學]]></title>
+        <id>https://news.ycombinator.com/item?id=30250341</id>
+        <link href="https://news.ycombinator.com/item?id=30250341"/>
+        <updated>2022-02-07T20:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Stephen Wolfram: A New Kind of Science]]></summary>
+        <author>
+            <name>verdverm</name>
+            <uri>https://news.ycombinator.com/user?id=verdverm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jürgen Schmidhuber的主頁]]></title>
         <id>https://news.ycombinator.com/item?id=30250395</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>thcipriani</name>
             <uri>https://news.ycombinator.com/user?id=thcipriani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[會話期的應用後端]]></title>
-        <id>https://news.ycombinator.com/item?id=30106187</id>
-        <link href="https://news.ycombinator.com/item?id=30106187"/>
-        <updated>2022-01-27T20:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Session-lived Application Backends]]></summary>
-        <author>
-            <name>paulgb</name>
-            <uri>https://news.ycombinator.com/user?id=paulgb</uri>
         </author>
     </entry>
 </feed>
