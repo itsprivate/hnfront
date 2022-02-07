@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T23:28:59.582Z</updated>
+    <updated>2022-02-07T23:49:21.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找两个无符号整数的平均数而不溢出]]></title>
+        <id>https://news.ycombinator.com/item?id=30252263</id>
+        <link href="https://news.ycombinator.com/item?id=30252263"/>
+        <updated>2022-02-07T22:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Finding the average of two unsigned integers without overflow]]></summary>
+        <author>
+            <name>mlex</name>
+            <uri>https://news.ycombinator.com/user?id=mlex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学、文学和艺术的图标百科全书》（1851年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30251503</id>
+        <link href="https://news.ycombinator.com/item?id=30251503"/>
+        <updated>2022-02-07T21:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Iconographic Encyclopædia of Science, Literature, and Art (1851)]]></summary>
+        <author>
+            <name>snee</name>
+            <uri>https://news.ycombinator.com/user?id=snee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冰钉。在冰箱里能找到的奇怪的东西]]></title>
         <id>https://news.ycombinator.com/item?id=30236408</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布莱恩-克尼根谈Unix的起源]]></title>
-        <id>https://news.ycombinator.com/item?id=30109955</id>
-        <link href="https://news.ycombinator.com/item?id=30109955"/>
-        <updated>2022-01-28T02:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Brian Kernighan on the Origins of Unix]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回归和其他故事》，作者：安德鲁-格尔曼、珍妮弗-希尔、阿基-维塔里]]></title>
-        <id>https://news.ycombinator.com/item?id=30109480</id>
-        <link href="https://news.ycombinator.com/item?id=30109480"/>
-        <updated>2022-01-28T01:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari]]></summary>
-        <author>
-            <name>malshe</name>
-            <uri>https://news.ycombinator.com/user?id=malshe</uri>
         </author>
     </entry>
 </feed>
