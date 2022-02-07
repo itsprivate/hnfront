@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T21:51:19.538Z</updated>
+    <updated>2022-02-07T22:09:33.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[閱讀 "數據與現實"]]></title>
+        <id>https://news.ycombinator.com/item?id=30251747</id>
+        <link href="https://news.ycombinator.com/item?id=30251747"/>
+        <updated>2022-02-07T21:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Read “Data and Reality”]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 3作為新的默認值]]></title>
+        <id>https://news.ycombinator.com/item?id=30251115</id>
+        <link href="https://news.ycombinator.com/item?id=30251115"/>
+        <updated>2022-02-07T21:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Vue 3 as the New Default]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學習一個技術科目]]></title>
+        <id>https://news.ycombinator.com/item?id=30231761</id>
+        <link href="https://news.ycombinator.com/item?id=30231761"/>
+        <updated>2022-02-06T12:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Learning a Technical Subject]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第82空降部隊開始抵達波蘭]]></title>
         <id>https://news.ycombinator.com/item?id=30251535</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>galfarragem</name>
             <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xcode的發展歷程]]></title>
-        <id>https://news.ycombinator.com/item?id=30083245</id>
-        <link href="https://news.ycombinator.com/item?id=30083245"/>
-        <updated>2022-01-26T08:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Xcode Through the Years]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔法追蹤。用英特爾處理器跟蹤診斷棘手的性能問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30107750</id>
-        <link href="https://news.ycombinator.com/item?id=30107750"/>
-        <updated>2022-01-27T22:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Magic-trace: Diagnose tricky performance issues with Intel Processor Trace]]></summary>
-        <author>
-            <name>trishume</name>
-            <uri>https://news.ycombinator.com/user?id=trishume</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特倫斯-陶的數學思維大師班]]></title>
-        <id>https://news.ycombinator.com/item?id=30107687</id>
-        <link href="https://news.ycombinator.com/item?id=30107687"/>
-        <updated>2022-01-27T22:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Masterclass on mathematical thinking by Terrence Tao]]></summary>
-        <author>
-            <name>harmonicseq</name>
-            <uri>https://news.ycombinator.com/user?id=harmonicseq</uri>
         </author>
     </entry>
 </feed>
