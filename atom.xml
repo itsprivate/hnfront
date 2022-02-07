@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T03:37:43.161Z</updated>
+    <updated>2022-02-07T03:48:45.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[了解全球芯片短缺问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30228178</id>
+        <link href="https://news.ycombinator.com/item?id=30228178"/>
+        <updated>2022-02-06T01:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the Global Chip Shortages]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国正在考虑为今天的数字世界对美元进行彻底的反思]]></title>
         <id>https://news.ycombinator.com/item?id=30239803</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>killjoywashere</name>
             <uri>https://news.ycombinator.com/user?id=killjoywashere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[道德机器]]></title>
-        <id>https://news.ycombinator.com/item?id=30094488</id>
-        <link href="https://news.ycombinator.com/item?id=30094488"/>
-        <updated>2022-01-27T00:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Moral Machine]]></summary>
-        <author>
-            <name>activatedgeek</name>
-            <uri>https://news.ycombinator.com/user?id=activatedgeek</uri>
         </author>
     </entry>
 </feed>
