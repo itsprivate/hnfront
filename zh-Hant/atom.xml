@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T05:49:17.518Z</updated>
+    <updated>2022-02-07T06:52:54.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特德演講是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30203478</id>
+        <link href="https://news.ycombinator.com/item?id=30203478"/>
+        <updated>2022-02-04T06:19:12.000Z</updated>
+        <summary type="html"><![CDATA[What Was the Ted Talk?]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聚苯乙烯打破模具]]></title>
         <id>https://news.ycombinator.com/item?id=30229344</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>FinnKuhn</name>
             <uri>https://news.ycombinator.com/user?id=FinnKuhn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是如何建立一個日期選擇器的]]></title>
-        <id>https://news.ycombinator.com/item?id=30065226</id>
-        <link href="https://news.ycombinator.com/item?id=30065226"/>
-        <updated>2022-01-24T22:52:40.000Z</updated>
-        <summary type="html"><![CDATA[How I built a date picker]]></summary>
-        <author>
-            <name>zsbenke</name>
-            <uri>https://news.ycombinator.com/user?id=zsbenke</uri>
         </author>
     </entry>
 </feed>
