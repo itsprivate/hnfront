@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T19:34:14.305Z</updated>
+    <updated>2022-02-07T19:49:44.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我利用自動化工具躲避重複性工作的三十年曆程]]></title>
+        <id>https://news.ycombinator.com/item?id=30249518</id>
+        <link href="https://news.ycombinator.com/item?id=30249518"/>
+        <updated>2022-02-07T19:10:28.000Z</updated>
+        <summary type="html"><![CDATA[My Thirty Years of Dodging Repetitive Work with Automation Tools]]></summary>
+        <author>
+            <name>conoro</name>
+            <uri>https://news.ycombinator.com/user?id=conoro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雅馬哈DX7芯片逆向工程，第六部分：控制寄存器]]></title>
         <id>https://news.ycombinator.com/item?id=30249628</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>malermeister</name>
             <uri>https://news.ycombinator.com/user?id=malermeister</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習發生在睡著的嬰兒的大腦中]]></title>
-        <id>https://news.ycombinator.com/item?id=30085550</id>
-        <link href="https://news.ycombinator.com/item?id=30085550"/>
-        <updated>2022-01-26T14:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Learning happens in the brains of sleeping babes]]></summary>
-        <author>
-            <name>Hooke</name>
-            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
         </author>
     </entry>
 </feed>
