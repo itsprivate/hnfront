@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T12:44:21.623Z</updated>
+    <updated>2022-02-07T13:04:29.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當M1 Mac mini比M1 Pro更快時：爭奪和核心分配]]></title>
+        <id>https://news.ycombinator.com/item?id=30242509</id>
+        <link href="https://news.ycombinator.com/item?id=30242509"/>
+        <updated>2022-02-07T09:51:05.000Z</updated>
+        <summary type="html"><![CDATA[When an M1 Mac mini is faster than an M1 Pro: contention and core allocation]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將複合數分解成幾乎相等的因數]]></title>
+        <id>https://news.ycombinator.com/item?id=30231189</id>
+        <link href="https://news.ycombinator.com/item?id=30231189"/>
+        <updated>2022-02-06T10:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Factoring composite numbers into nearly equal factors]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nim與Rust的基準測試]]></title>
         <id>https://news.ycombinator.com/item?id=30243219</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>signa11</name>
             <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摺紙和材料的結構]]></title>
-        <id>https://news.ycombinator.com/item?id=30099877</id>
-        <link href="https://news.ycombinator.com/item?id=30099877"/>
-        <updated>2022-01-27T12:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Origami and the Structure of Materials]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們用箱子郵寄自己的奇怪的成功歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=30099740</id>
-        <link href="https://news.ycombinator.com/item?id=30099740"/>
-        <updated>2022-01-27T12:32:43.000Z</updated>
-        <summary type="html"><![CDATA[The Strangely Successful History of People Mailing Themselves in Boxes]]></summary>
-        <author>
-            <name>IAmGraydon</name>
-            <uri>https://news.ycombinator.com/user?id=IAmGraydon</uri>
         </author>
     </entry>
 </feed>
