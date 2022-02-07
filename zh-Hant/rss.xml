@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 07 Feb 2022 11:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 11:49:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[科裡-多克託羅的《Uber的終結》--對汽車的戰爭]]></title>
+            <link>https://news.ycombinator.com/item?id=30242935</link>
+            <guid>https://news.ycombinator.com/item?id=30242935</guid>
+            <pubDate>Mon, 07 Feb 2022 10:41:53 GMT</pubDate>
+            <description><![CDATA[The End of Uber with Cory Doctorow – The War on Cars]]></description>
+        </item>
         <item>
             <title><![CDATA[現代通信系統中的數字信號處理]]></title>
             <link>https://news.ycombinator.com/item?id=30242990</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30099572</guid>
             <pubDate>Thu, 27 Jan 2022 12:14:03 GMT</pubDate>
             <description><![CDATA[Redis scripts do not expire keys atomically]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於Go的可嵌入的Prolog腳本語言]]></title>
-            <link>https://news.ycombinator.com/item?id=30091291</link>
-            <guid>https://news.ycombinator.com/item?id=30091291</guid>
-            <pubDate>Wed, 26 Jan 2022 20:28:57 GMT</pubDate>
-            <description><![CDATA[An embeddable Prolog scripting language for Go]]></description>
         </item>
     </channel>
 </rss>

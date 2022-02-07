@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T11:34:17.460Z</updated>
+    <updated>2022-02-07T11:49:32.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科里-多克托罗的《Uber的终结》--对汽车的战争]]></title>
+        <id>https://news.ycombinator.com/item?id=30242935</id>
+        <link href="https://news.ycombinator.com/item?id=30242935"/>
+        <updated>2022-02-07T10:41:53.000Z</updated>
+        <summary type="html"><![CDATA[The End of Uber with Cory Doctorow – The War on Cars]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现代通信系统中的数字信号处理]]></title>
         <id>https://news.ycombinator.com/item?id=30242990</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>stichers</name>
             <uri>https://news.ycombinator.com/user?id=stichers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于Go的可嵌入的Prolog脚本语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30091291</id>
-        <link href="https://news.ycombinator.com/item?id=30091291"/>
-        <updated>2022-01-26T20:28:57.000Z</updated>
-        <summary type="html"><![CDATA[An embeddable Prolog scripting language for Go]]></summary>
-        <author>
-            <name>triska</name>
-            <uri>https://news.ycombinator.com/user?id=triska</uri>
         </author>
     </entry>
 </feed>
