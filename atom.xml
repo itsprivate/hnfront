@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T14:26:42.021Z</updated>
+    <updated>2022-02-08T14:34:46.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用宜家的罐子和乐高积木制作的潜水艇]]></title>
+        <id>https://news.ycombinator.com/item?id=30258081</id>
+        <link href="https://news.ycombinator.com/item?id=30258081"/>
+        <updated>2022-02-08T13:26:18.000Z</updated>
+        <summary type="html"><![CDATA[A submarine made from IKEA jar and legos]]></summary>
+        <author>
+            <name>miohtama</name>
+            <uri>https://news.ycombinator.com/user?id=miohtama</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[版本矢量不是矢量时钟 (2011)]]></title>
         <id>https://news.ycombinator.com/item?id=30243286</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>jayflux</name>
             <uri>https://news.ycombinator.com/user?id=jayflux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo起诉州DMV，要求对机器人出租车的安全细节保密]]></title>
-        <id>https://news.ycombinator.com/item?id=30115642</id>
-        <link href="https://news.ycombinator.com/item?id=30115642"/>
-        <updated>2022-01-28T15:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Waymo sues state DMV to keep robotaxi safety details secret]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
         </author>
     </entry>
 </feed>
