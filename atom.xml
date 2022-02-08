@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T03:28:53.041Z</updated>
+    <updated>2022-02-08T03:37:46.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有些错误Rust并没有发现]]></title>
+        <id>https://news.ycombinator.com/item?id=30253426</id>
+        <link href="https://news.ycombinator.com/item?id=30253426"/>
+        <updated>2022-02-08T00:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Some mistakes Rust doesn't catch]]></summary>
+        <author>
+            <name>jacobwg</name>
+            <uri>https://news.ycombinator.com/user?id=jacobwg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个美国黑客突然间攻陷了朝鲜的互联网--所有的互联网]]></title>
+        <id>https://news.ycombinator.com/item?id=30241917</id>
+        <link href="https://news.ycombinator.com/item?id=30241917"/>
+        <updated>2022-02-07T08:35:57.000Z</updated>
+        <summary type="html"><![CDATA[One American Hacker Suddenly Took Down North Korea’s Internet–All of It]]></summary>
+        <author>
+            <name>newswasboring</name>
+            <uri>https://news.ycombinator.com/user?id=newswasboring</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒砖在禁酒令期间拯救了美国的葡萄酒业]]></title>
         <id>https://news.ycombinator.com/item?id=30254234</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>shankr</name>
             <uri>https://news.ycombinator.com/user?id=shankr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塔比的星星]]></title>
-        <id>https://news.ycombinator.com/item?id=30094665</id>
-        <link href="https://news.ycombinator.com/item?id=30094665"/>
-        <updated>2022-01-27T01:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Tabby's Star]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怀旧的计算中心]]></title>
-        <id>https://news.ycombinator.com/item?id=30111884</id>
-        <link href="https://news.ycombinator.com/item?id=30111884"/>
-        <updated>2022-01-28T07:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Nostalgic Computing Center]]></summary>
-        <author>
-            <name>elvis70</name>
-            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
         </author>
     </entry>
 </feed>
