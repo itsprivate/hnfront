@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T14:49:15.118Z</updated>
+    <updated>2022-02-08T15:30:53.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司通过iPhone上的 "轻触支付 "推出非接触式支付方式]]></title>
+        <id>https://news.ycombinator.com/item?id=30259183</id>
+        <link href="https://news.ycombinator.com/item?id=30259183"/>
+        <updated>2022-02-08T15:03:21.000Z</updated>
+        <summary type="html"><![CDATA[Apple unveils contactless payments via Tap to Pay on iPhone]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个古老的几何学问题落入新的数学技术之手]]></title>
+        <id>https://news.ycombinator.com/item?id=30259170</id>
+        <link href="https://news.ycombinator.com/item?id=30259170"/>
+        <updated>2022-02-08T15:02:49.000Z</updated>
+        <summary type="html"><![CDATA[An Ancient Geometry Problem Falls to New Mathematical Techniques]]></summary>
+        <author>
+            <name>theafh</name>
+            <uri>https://news.ycombinator.com/user?id=theafh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MadMax：分析智能合约的气外世界（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30258438</id>
+        <link href="https://news.ycombinator.com/item?id=30258438"/>
+        <updated>2022-02-08T14:01:43.000Z</updated>
+        <summary type="html"><![CDATA[MadMax: Analyzing the Out-of-Gas World of Smart Contracts (2020)]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Django代码库的重新格式化与黑色]]></title>
         <id>https://news.ycombinator.com/item?id=30258812</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>robfig</name>
             <uri>https://news.ycombinator.com/user?id=robfig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对Firecracker和gVisor的研究 (2020) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30116611</id>
-        <link href="https://news.ycombinator.com/item?id=30116611"/>
-        <updated>2022-01-28T16:18:30.000Z</updated>
-        <summary type="html"><![CDATA[A Study of Firecracker and gVisor (2020) [pdf]]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在一周之内用无代码工具执行你的商业想法]]></title>
-        <id>https://news.ycombinator.com/item?id=30116513</id>
-        <link href="https://news.ycombinator.com/item?id=30116513"/>
-        <updated>2022-01-28T16:11:50.000Z</updated>
-        <summary type="html"><![CDATA[How to execute your business ideas with no-code tools in less than a week]]></summary>
-        <author>
-            <name>data_analyst</name>
-            <uri>https://news.ycombinator.com/user?id=data_analyst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：IBM免费z/OS课程回归，低价许可可完成]]></title>
-        <id>https://news.ycombinator.com/item?id=30116199</id>
-        <link href="https://news.ycombinator.com/item?id=30116199"/>
-        <updated>2022-01-28T15:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: IBM free z/OS classes return, low-cost license available on completing]]></summary>
-        <author>
-            <name>Karunamon</name>
-            <uri>https://news.ycombinator.com/user?id=Karunamon</uri>
         </author>
     </entry>
 </feed>
