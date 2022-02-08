@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 08 Feb 2022 22:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 23:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德州电力危机暴露了市场设计中的缺陷]]></title>
+            <link>https://news.ycombinator.com/item?id=30265327</link>
+            <guid>https://news.ycombinator.com/item?id=30265327</guid>
+            <pubDate>Tue, 08 Feb 2022 21:54:35 GMT</pubDate>
+            <description><![CDATA[Texas power crisis revealed flaw in market’s design]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌向我的大学承诺的无限存储正在停止。]]></title>
             <link>https://news.ycombinator.com/item?id=30264617</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30121476</guid>
             <pubDate>Fri, 28 Jan 2022 22:42:33 GMT</pubDate>
             <description><![CDATA[Right to Repair Fight]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于Rust中的自我修改的可执行文件]]></title>
-            <link>https://news.ycombinator.com/item?id=30121045</link>
-            <guid>https://news.ycombinator.com/item?id=30121045</guid>
-            <pubDate>Fri, 28 Jan 2022 22:04:05 GMT</pubDate>
-            <description><![CDATA[On self-modifying executables in Rust]]></description>
         </item>
     </channel>
 </rss>
