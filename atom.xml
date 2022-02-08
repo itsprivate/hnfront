@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-07T23:49:21.108Z</updated>
+    <updated>2022-02-08T00:27:38.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[天空中的火焰：流星学的历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30251885</id>
+        <link href="https://news.ycombinator.com/item?id=30251885"/>
+        <updated>2022-02-07T21:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Fire in the sky: a history of meteoritics]]></summary>
+        <author>
+            <name>swarmy</name>
+            <uri>https://news.ycombinator.com/user?id=swarmy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE：一个漂亮的瓷砖环境和一个令人惊讶的DE]]></title>
+        <id>https://news.ycombinator.com/item?id=30251867</id>
+        <link href="https://news.ycombinator.com/item?id=30251867"/>
+        <updated>2022-02-07T21:55:06.000Z</updated>
+        <summary type="html"><![CDATA[KDE: A Nice Tiling Environment and a Surprisingly Awesome DE]]></summary>
+        <author>
+            <name>jrepinc</name>
+            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寻找两个无符号整数的平均数而不溢出]]></title>
         <id>https://news.ycombinator.com/item?id=30252263</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国联合航空公司完成了100%使用可持续航空燃料（SAF）的飞行]]></title>
-        <id>https://news.ycombinator.com/item?id=30109879</id>
-        <link href="https://news.ycombinator.com/item?id=30109879"/>
-        <updated>2022-01-28T02:05:56.000Z</updated>
-        <summary type="html"><![CDATA[United Airlines completes flight using 100% sustainable aviation fuel (SAF)]]></summary>
-        <author>
-            <name>hbarka</name>
-            <uri>https://news.ycombinator.com/user?id=hbarka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 "树状物 "进行轻量级打毛]]></title>
-        <id>https://news.ycombinator.com/item?id=30097261</id>
-        <link href="https://news.ycombinator.com/item?id=30097261"/>
-        <updated>2022-01-27T07:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Lightweight Linting with Tree-Sitter]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
