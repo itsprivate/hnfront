@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T10:30:44.200Z</updated>
+    <updated>2022-02-08T10:41:07.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Garage，我们自我托管的分布式对象存储解决方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30256753</id>
+        <link href="https://news.ycombinator.com/item?id=30256753"/>
+        <updated>2022-02-08T10:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Garage, our self-hosted distributed object storage solution]]></summary>
+        <author>
+            <name>lxpz</name>
+            <uri>https://news.ycombinator.com/user?id=lxpz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过模拟退火法生成具有相同统计量的数据集（2017年）]]></title>
         <id>https://news.ycombinator.com/item?id=30231754</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ryan_j_naughton</name>
             <uri>https://news.ycombinator.com/user?id=ryan_j_naughton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客主义和国家支持的模仿品。欺骗性黑客行动的归属]]></title>
-        <id>https://news.ycombinator.com/item?id=30114344</id>
-        <link href="https://news.ycombinator.com/item?id=30114344"/>
-        <updated>2022-01-28T13:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Hacktivism and State-Sponsored Knock-Offs. Attributing Deceptive Hack Operations]]></summary>
-        <author>
-            <name>hippich</name>
-            <uri>https://news.ycombinator.com/user?id=hippich</uri>
         </author>
     </entry>
 </feed>
