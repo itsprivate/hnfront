@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T02:19:46.465Z</updated>
+    <updated>2022-02-08T02:50:03.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CR+LF拥有悠久的历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30253968</id>
+        <link href="https://news.ycombinator.com/item?id=30253968"/>
+        <updated>2022-02-08T01:39:19.000Z</updated>
+        <summary type="html"><![CDATA[CR+LF Has a Long History]]></summary>
+        <author>
+            <name>rhabarba</name>
+            <uri>https://news.ycombinator.com/user?id=rhabarba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：Udacity黑暗模式取消订阅]]></title>
         <id>https://news.ycombinator.com/item?id=30253785</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通往今天人工耳蜗的漫长道路]]></title>
-        <id>https://news.ycombinator.com/item?id=30110816</id>
-        <link href="https://news.ycombinator.com/item?id=30110816"/>
-        <updated>2022-01-28T04:53:05.000Z</updated>
-        <summary type="html"><![CDATA[The Long Road to Today’s Cochlear Implant]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
