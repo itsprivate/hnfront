@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T04:36:05.779Z</updated>
+    <updated>2022-02-08T05:25:25.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將項目連接在一起的壞方法(2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=30240834</id>
+        <link href="https://news.ycombinator.com/item?id=30240834"/>
+        <updated>2022-02-07T05:32:32.000Z</updated>
+        <summary type="html"><![CDATA[A Badass Way to Connect Programs Together (2016)]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[硒可能解釋了運動對大腦的促進作用]]></title>
         <id>https://news.ycombinator.com/item?id=30254526</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bobbiechen</name>
             <uri>https://news.ycombinator.com/user?id=bobbiechen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atari System V Unix - 非官方網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30112664</id>
-        <link href="https://news.ycombinator.com/item?id=30112664"/>
-        <updated>2022-01-28T09:56:44.000Z</updated>
-        <summary type="html"><![CDATA[Atari System V Unix – Unofficial Website]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
