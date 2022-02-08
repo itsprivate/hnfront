@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T10:41:07.720Z</updated>
+    <updated>2022-02-08T11:26:15.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奥莱利动物的简短历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30241852</id>
+        <link href="https://news.ycombinator.com/item?id=30241852"/>
+        <updated>2022-02-07T08:25:36.000Z</updated>
+        <summary type="html"><![CDATA[A short history of the O’Reilly animals]]></summary>
+        <author>
+            <name>neamar</name>
+            <uri>https://news.ycombinator.com/user?id=neamar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Garage，我们自我托管的分布式对象存储解决方案]]></title>
         <id>https://news.ycombinator.com/item?id=30256753</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>robalicious</name>
             <uri>https://news.ycombinator.com/user?id=robalicious</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将纽约市的一千辆地铁车厢沉入大西洋以制造暗礁的做法没有按计划进行]]></title>
-        <id>https://news.ycombinator.com/item?id=30114459</id>
-        <link href="https://news.ycombinator.com/item?id=30114459"/>
-        <updated>2022-01-28T13:44:31.000Z</updated>
-        <summary type="html"><![CDATA[Sinking 1K NYC subway cars in the Atlantic to create a reef didn’t go as planned]]></summary>
-        <author>
-            <name>ryan_j_naughton</name>
-            <uri>https://news.ycombinator.com/user?id=ryan_j_naughton</uri>
         </author>
     </entry>
 </feed>
