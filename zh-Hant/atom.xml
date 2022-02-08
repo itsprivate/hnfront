@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T09:10:27.772Z</updated>
+    <updated>2022-02-08T09:29:21.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天的肖像畫家比老大師們更好嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30244253</id>
+        <link href="https://news.ycombinator.com/item?id=30244253"/>
+        <updated>2022-02-07T13:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Are Today’s Portraitists Better Than the Old Masters?]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當停滯不前走向虛擬]]></title>
         <id>https://news.ycombinator.com/item?id=30256050</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ahelwer</name>
             <uri>https://news.ycombinator.com/user?id=ahelwer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淪為海盜的國王]]></title>
-        <id>https://news.ycombinator.com/item?id=30096955</id>
-        <link href="https://news.ycombinator.com/item?id=30096955"/>
-        <updated>2022-01-27T06:31:59.000Z</updated>
-        <summary type="html"><![CDATA[The King Who Became a Pirate]]></summary>
-        <author>
-            <name>emptybits</name>
-            <uri>https://news.ycombinator.com/user?id=emptybits</uri>
         </author>
     </entry>
 </feed>
