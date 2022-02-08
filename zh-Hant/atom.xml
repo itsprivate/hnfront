@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T14:34:46.647Z</updated>
+    <updated>2022-02-08T14:49:15.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Django代碼庫的重新格式化與黑色]]></title>
+        <id>https://news.ycombinator.com/item?id=30258812</id>
+        <link href="https://news.ycombinator.com/item?id=30258812"/>
+        <updated>2022-02-08T14:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Django Codebase Reformatted with Black]]></summary>
+        <author>
+            <name>collinmanderson</name>
+            <uri>https://news.ycombinator.com/user?id=collinmanderson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用黑色的格式化代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30258530</id>
+        <link href="https://news.ycombinator.com/item?id=30258530"/>
+        <updated>2022-02-08T14:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Formatting Code with Black]]></summary>
+        <author>
+            <name>tams</name>
+            <uri>https://news.ycombinator.com/user?id=tams</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用宜家的罐子和樂高積木製作的潛水艇]]></title>
         <id>https://news.ycombinator.com/item?id=30258081</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>Karunamon</name>
             <uri>https://news.ycombinator.com/user?id=Karunamon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的應用引擎標準Java運行時]]></title>
-        <id>https://news.ycombinator.com/item?id=30082661</id>
-        <link href="https://news.ycombinator.com/item?id=30082661"/>
-        <updated>2022-01-26T07:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Open Sourcing the App Engine Standard Java Runtime]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2022年加快VSCode擴展的速度]]></title>
-        <id>https://news.ycombinator.com/item?id=30103421</id>
-        <link href="https://news.ycombinator.com/item?id=30103421"/>
-        <updated>2022-01-27T17:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Speeding up VSCode extensions in 2022]]></summary>
-        <author>
-            <name>jayflux</name>
-            <uri>https://news.ycombinator.com/user?id=jayflux</uri>
         </author>
     </entry>
 </feed>
