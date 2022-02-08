@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T23:08:22.332Z</updated>
+    <updated>2022-02-08T23:38:00.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凱利標準。如何確定賭注大小]]></title>
+        <id>https://news.ycombinator.com/item?id=30265797</id>
+        <link href="https://news.ycombinator.com/item?id=30265797"/>
+        <updated>2022-02-08T22:32:15.000Z</updated>
+        <summary type="html"><![CDATA[The Kelly Criterion: How to size bets]]></summary>
+        <author>
+            <name>airstrike</name>
+            <uri>https://news.ycombinator.com/user?id=airstrike</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德州電力危機暴露了市場設計中的缺陷]]></title>
         <id>https://news.ycombinator.com/item?id=30265327</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>stsewd</name>
             <uri>https://news.ycombinator.com/user?id=stsewd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維修權之爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30121476</id>
-        <link href="https://news.ycombinator.com/item?id=30121476"/>
-        <updated>2022-01-28T22:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Right to Repair Fight]]></summary>
-        <author>
-            <name>zelon88</name>
-            <uri>https://news.ycombinator.com/user?id=zelon88</uri>
         </author>
     </entry>
 </feed>
