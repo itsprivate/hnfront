@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T09:29:21.340Z</updated>
+    <updated>2022-02-08T10:30:44.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过模拟退火法生成具有相同统计量的数据集（2017年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30231754</id>
+        <link href="https://news.ycombinator.com/item?id=30231754"/>
+        <updated>2022-02-06T12:01:37.000Z</updated>
+        <summary type="html"><![CDATA[Generating Datasets with Identical Statistics Through Simulated Annealing (2017)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天的肖像画家比老大师们更好吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30244253</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>hippich</name>
             <uri>https://news.ycombinator.com/user?id=hippich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：没有账户的Twitter越来越不能用了]]></title>
-        <id>https://news.ycombinator.com/item?id=30114173</id>
-        <link href="https://news.ycombinator.com/item?id=30114173"/>
-        <updated>2022-01-28T13:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Twitter is growing increasingly unusable without an account]]></summary>
-        <author>
-            <name>ahelwer</name>
-            <uri>https://news.ycombinator.com/user?id=ahelwer</uri>
         </author>
     </entry>
 </feed>
