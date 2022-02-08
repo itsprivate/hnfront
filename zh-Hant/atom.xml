@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T07:09:01.339Z</updated>
+    <updated>2022-02-08T07:26:34.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更多的門鈴歷險記]]></title>
+        <id>https://news.ycombinator.com/item?id=30254822</id>
+        <link href="https://news.ycombinator.com/item?id=30254822"/>
+        <updated>2022-02-08T04:11:09.000Z</updated>
+        <summary type="html"><![CDATA[More Doorbell Adventures]]></summary>
+        <author>
+            <name>JNRowe</name>
+            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PhotoRoom (YC S20) 正在招聘一名高級網站開發員（巴黎，遠程±1小時）]]></title>
         <id>https://news.ycombinator.com/item?id=30255662</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>cebert</name>
             <uri>https://news.ycombinator.com/user?id=cebert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Covid-19的伊維菌素預防法]]></title>
-        <id>https://news.ycombinator.com/item?id=30109294</id>
-        <link href="https://news.ycombinator.com/item?id=30109294"/>
-        <updated>2022-01-28T00:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Ivermectin Prophylaxis Used for Covid-19]]></summary>
-        <author>
-            <name>tamaharbor</name>
-            <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
         </author>
     </entry>
 </feed>
