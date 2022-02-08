@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T20:30:29.693Z</updated>
+    <updated>2022-02-08T20:36:52.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亲爱的加拿大人]]></title>
+        <id>https://news.ycombinator.com/item?id=30264046</id>
+        <link href="https://news.ycombinator.com/item?id=30264046"/>
+        <updated>2022-02-08T20:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Dear Canadians]]></summary>
+        <author>
+            <name>friendlyname</name>
+            <uri>https://news.ycombinator.com/user?id=friendlyname</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我所惧怕和厌恶的苯乙胺类药物]]></title>
+        <id>https://news.ycombinator.com/item?id=30230772</id>
+        <link href="https://news.ycombinator.com/item?id=30230772"/>
+        <updated>2022-02-06T09:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Phenethylamines I have feared and loathed]]></summary>
+        <author>
+            <name>kvee</name>
+            <uri>https://news.ycombinator.com/user?id=kvee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每台M1 Mac都将在2022年进行更新，配备更快的M2芯片和新设计]]></title>
         <id>https://news.ycombinator.com/item?id=30263829</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>cglong</name>
             <uri>https://news.ycombinator.com/user?id=cglong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：我们有责任大声反对区块链技术]]></title>
-        <id>https://news.ycombinator.com/item?id=30120437</id>
-        <link href="https://news.ycombinator.com/item?id=30120437"/>
-        <updated>2022-01-28T21:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: We have a responsibility to speak out against blockchain technologies]]></summary>
-        <author>
-            <name>doedoedoedoe</name>
-            <uri>https://news.ycombinator.com/user?id=doedoedoedoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiverse（YC W20）正在招聘一名工程经理，以打造桌面RPG游戏的未来]]></title>
-        <id>https://news.ycombinator.com/item?id=30120296</id>
-        <link href="https://news.ycombinator.com/item?id=30120296"/>
-        <updated>2022-01-28T21:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Multiverse (YC W20) Is Hiring an Eng Manager to Build the Future of Tabletop RPGs]]></summary>
-        <author>
-            <name>trq_</name>
-            <uri>https://news.ycombinator.com/user?id=trq_</uri>
         </author>
     </entry>
 </feed>
