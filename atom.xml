@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T13:36:05.431Z</updated>
+    <updated>2022-02-08T13:49:11.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Cloudflare Tunnel暴露一个网络服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30257978</id>
+        <link href="https://news.ycombinator.com/item?id=30257978"/>
+        <updated>2022-02-08T13:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Exposing a web service with Cloudflare Tunnel]]></summary>
+        <author>
+            <name>geostyx</name>
+            <uri>https://news.ycombinator.com/user?id=geostyx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德国和法国部长说，没有Facebook我们也很好 [Bloomberg]]]></title>
         <id>https://news.ycombinator.com/item?id=30257812</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ContrarianBrit</name>
             <uri>https://news.ycombinator.com/user?id=ContrarianBrit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蜂巢。一个全球分布的键/值存储 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30115350</id>
-        <link href="https://news.ycombinator.com/item?id=30115350"/>
-        <updated>2022-01-28T14:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Hive: A Globally-Distributed Key/Value Store [pdf]]]></summary>
-        <author>
-            <name>wut42</name>
-            <uri>https://news.ycombinator.com/user?id=wut42</uri>
         </author>
     </entry>
 </feed>
