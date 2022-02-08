@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T21:25:35.565Z</updated>
+    <updated>2022-02-08T21:35:01.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ZFS的Raid-Z扩展功能正式启用]]></title>
+        <id>https://news.ycombinator.com/item?id=30256349</id>
+        <link href="https://news.ycombinator.com/item?id=30256349"/>
+        <updated>2022-02-08T09:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Raid-Z Expansion Feature for ZFS Goes Live]]></summary>
+        <author>
+            <name>chungy</name>
+            <uri>https://news.ycombinator.com/user?id=chungy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9200个树种可能仍未被发现]]></title>
         <id>https://news.ycombinator.com/item?id=30264593</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ciconia</name>
             <uri>https://news.ycombinator.com/user?id=ciconia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wonderland Crypto联合创始人被曝是臭名昭著的诈骗犯，投资者感到震惊]]></title>
-        <id>https://news.ycombinator.com/item?id=30120762</id>
-        <link href="https://news.ycombinator.com/item?id=30120762"/>
-        <updated>2022-01-28T21:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Wonderland Crypto Co-Founder Revealed to Be Infamous Fraudster, Investors Shaken]]></summary>
-        <author>
-            <name>Centigonal</name>
-            <uri>https://news.ycombinator.com/user?id=Centigonal</uri>
         </author>
     </entry>
 </feed>
