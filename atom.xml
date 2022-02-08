@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T19:08:00.632Z</updated>
+    <updated>2022-02-08T19:35:07.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[达利。立体图像。三维的绘画]]></title>
+        <id>https://news.ycombinator.com/item?id=30242612</id>
+        <link href="https://news.ycombinator.com/item?id=30242612"/>
+        <updated>2022-02-07T10:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Dalí. Stereoscopic images. Painting in three dimensions]]></summary>
+        <author>
+            <name>wslh</name>
+            <uri>https://news.ycombinator.com/user?id=wslh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你无法以公平、可复制和有代表性的方式对错误信息进行监管]]></title>
         <id>https://news.ycombinator.com/item?id=30262602</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bl4ckneon</name>
             <uri>https://news.ycombinator.com/user?id=bl4ckneon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NeoGeo的Universe BIOS]]></title>
-        <id>https://news.ycombinator.com/item?id=30119421</id>
-        <link href="https://news.ycombinator.com/item?id=30119421"/>
-        <updated>2022-01-28T19:45:48.000Z</updated>
-        <summary type="html"><![CDATA[Universe BIOS for NeoGeo]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
