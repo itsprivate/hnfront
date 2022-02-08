@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T13:49:11.913Z</updated>
+    <updated>2022-02-08T14:26:42.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[版本矢量不是矢量时钟 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=30243286</id>
+        <link href="https://news.ycombinator.com/item?id=30243286"/>
+        <updated>2022-02-07T11:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Version Vectors are not Vector Clocks (2011)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Cloudflare Tunnel暴露一个网络服务]]></title>
         <id>https://news.ycombinator.com/item?id=30257978</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>georgecmu</name>
             <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有正义暴动的理论？]]></title>
-        <id>https://news.ycombinator.com/item?id=30115410</id>
-        <link href="https://news.ycombinator.com/item?id=30115410"/>
-        <updated>2022-01-28T15:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Why is there no theory of the just riot?]]></summary>
-        <author>
-            <name>ContrarianBrit</name>
-            <uri>https://news.ycombinator.com/user?id=ContrarianBrit</uri>
         </author>
     </entry>
 </feed>
