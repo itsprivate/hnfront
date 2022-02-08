@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-08T12:43:39.535Z</updated>
+    <updated>2022-02-08T13:02:43.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉削减了一些汽车的转向部件，但没有告诉客户]]></title>
+        <id>https://news.ycombinator.com/item?id=30257420</id>
+        <link href="https://news.ycombinator.com/item?id=30257420"/>
+        <updated>2022-02-08T11:57:18.000Z</updated>
+        <summary type="html"><![CDATA[Tesla cut a steering component from some cars, didn’t tell customers]]></summary>
+        <author>
+            <name>19h</name>
+            <uri>https://news.ycombinator.com/user?id=19h</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可否认的数据库(PDDB)]]></title>
         <id>https://news.ycombinator.com/item?id=30257056</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修复我的电脑 "的呼声在社交媒体上回荡；空军首席信息官作出回应]]></title>
-        <id>https://news.ycombinator.com/item?id=30115187</id>
-        <link href="https://news.ycombinator.com/item?id=30115187"/>
-        <updated>2022-01-28T14:44:20.000Z</updated>
-        <summary type="html"><![CDATA[‘Fix My Computer’ Cry Echos on Social Media; Air Force CIO Responds]]></summary>
-        <author>
-            <name>nradov</name>
-            <uri>https://news.ycombinator.com/user?id=nradov</uri>
         </author>
     </entry>
 </feed>
