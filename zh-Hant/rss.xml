@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 08 Feb 2022 17:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 17:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MPW1定製ASIC的推出]]></title>
+            <link>https://news.ycombinator.com/item?id=30230339</link>
+            <guid>https://news.ycombinator.com/item?id=30230339</guid>
+            <pubDate>Sun, 06 Feb 2022 07:46:02 GMT</pubDate>
+            <description><![CDATA[MPW1 Custom ASIC Bringup]]></description>
+        </item>
         <item>
             <title><![CDATA[兩人因涉嫌共謀清洗45億美元的被盜加密貨幣而被逮捕]]></title>
             <link>https://news.ycombinator.com/item?id=30260987</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30118686</guid>
             <pubDate>Fri, 28 Jan 2022 18:43:37 GMT</pubDate>
             <description><![CDATA[I got an FBI record at age 11 from dabbling in cryptography]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pulumi和MinIO--創造多雲奇蹟]]></title>
-            <link>https://news.ycombinator.com/item?id=30118560</link>
-            <guid>https://news.ycombinator.com/item?id=30118560</guid>
-            <pubDate>Fri, 28 Jan 2022 18:34:11 GMT</pubDate>
-            <description><![CDATA[Pulumi and MinIO – Making Multi-Cloud Magic]]></description>
         </item>
     </channel>
 </rss>
