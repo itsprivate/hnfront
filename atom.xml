@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T13:31:03.201Z</updated>
+    <updated>2022-02-09T13:38:25.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧洲研究人员实现核聚变能源记录]]></title>
+        <id>https://news.ycombinator.com/item?id=30272109</id>
+        <link href="https://news.ycombinator.com/item?id=30272109"/>
+        <updated>2022-02-09T13:01:32.000Z</updated>
+        <summary type="html"><![CDATA[European researchers achieve fusion energy record]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尿液革命：回收尿液如何有助于拯救世界]]></title>
         <id>https://news.ycombinator.com/item?id=30272019</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>smk_</name>
             <uri>https://news.ycombinator.com/user?id=smk_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prolog的50年及以后]]></title>
-        <id>https://news.ycombinator.com/item?id=30096930</id>
-        <link href="https://news.ycombinator.com/item?id=30096930"/>
-        <updated>2022-01-27T06:27:50.000Z</updated>
-        <summary type="html"><![CDATA[50 Years of Prolog and Beyond]]></summary>
-        <author>
-            <name>elvis70</name>
-            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
         </author>
     </entry>
 </feed>
