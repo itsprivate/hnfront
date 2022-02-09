@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T14:08:18.369Z</updated>
+    <updated>2022-02-09T14:34:15.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TikTok分享你的數據比任何其他應用程序都多，而且不清楚它的去向]]></title>
+        <id>https://news.ycombinator.com/item?id=30272682</id>
+        <link href="https://news.ycombinator.com/item?id=30272682"/>
+        <updated>2022-02-09T14:01:24.000Z</updated>
+        <summary type="html"><![CDATA[TikTok shares your data more than any other app and it’s unclear where it goes]]></summary>
+        <author>
+            <name>underscore_ku</name>
+            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我決定建造一臺九位計算機]]></title>
         <id>https://news.ycombinator.com/item?id=30272496</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>oumua_don17</name>
             <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Si78c: 在C語言中對太空入侵者進行內存精確的重新實現]]></title>
-        <id>https://news.ycombinator.com/item?id=30126291</id>
-        <link href="https://news.ycombinator.com/item?id=30126291"/>
-        <updated>2022-01-29T13:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Si78c: Memory-accurate reimplementation of Space Invaders in C]]></summary>
-        <author>
-            <name>antismarm</name>
-            <uri>https://news.ycombinator.com/user?id=antismarm</uri>
         </author>
     </entry>
 </feed>
