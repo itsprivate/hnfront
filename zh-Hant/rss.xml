@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 09 Feb 2022 13:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 14:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我決定建造一臺九位計算機]]></title>
+            <link>https://news.ycombinator.com/item?id=30272496</link>
+            <guid>https://news.ycombinator.com/item?id=30272496</guid>
+            <pubDate>Wed, 09 Feb 2022 13:44:03 GMT</pubDate>
+            <description><![CDATA[I decided to build a nine-bit computer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[危險的玩具。任何東西都可以給ed25519（SSH密鑰）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30256864</link>
+            <guid>https://news.ycombinator.com/item?id=30256864</guid>
+            <pubDate>Tue, 08 Feb 2022 10:34:42 GMT</pubDate>
+            <description><![CDATA[Dangerous toys: Anything to ed25519 (SSH Keys)]]></description>
+        </item>
         <item>
             <title><![CDATA[歐洲研究人員實現核聚變能源記錄]]></title>
             <link>https://news.ycombinator.com/item?id=30272109</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30126291</guid>
             <pubDate>Sat, 29 Jan 2022 13:55:52 GMT</pubDate>
             <description><![CDATA[Si78c: Memory-accurate reimplementation of Space Invaders in C]]></description>
-        </item>
-        <item>
-            <title><![CDATA[超過10%的特斯拉S型電動車3年後未能通過德國的嚴格檢查]]></title>
-            <link>https://news.ycombinator.com/item?id=30126171</link>
-            <guid>https://news.ycombinator.com/item?id=30126171</guid>
-            <pubDate>Sat, 29 Jan 2022 13:38:52 GMT</pubDate>
-            <description><![CDATA[Over 10% of Tesla Model S EVs Fail Germany’s Strict Inspection After 3 Years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[計算機能否應付人類的比賽？]]></title>
-            <link>https://news.ycombinator.com/item?id=30126390</link>
-            <guid>https://news.ycombinator.com/item?id=30126390</guid>
-            <pubDate>Sat, 29 Jan 2022 14:10:23 GMT</pubDate>
-            <description><![CDATA[Can computers cope with human races?]]></description>
         </item>
     </channel>
 </rss>

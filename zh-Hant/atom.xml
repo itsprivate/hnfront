@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T13:38:25.189Z</updated>
+    <updated>2022-02-09T14:08:18.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我決定建造一臺九位計算機]]></title>
+        <id>https://news.ycombinator.com/item?id=30272496</id>
+        <link href="https://news.ycombinator.com/item?id=30272496"/>
+        <updated>2022-02-09T13:44:03.000Z</updated>
+        <summary type="html"><![CDATA[I decided to build a nine-bit computer]]></summary>
+        <author>
+            <name>mad_ned</name>
+            <uri>https://news.ycombinator.com/user?id=mad_ned</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[危險的玩具。任何東西都可以給ed25519（SSH密鑰）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30256864</id>
+        <link href="https://news.ycombinator.com/item?id=30256864"/>
+        <updated>2022-02-08T10:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Dangerous toys: Anything to ed25519 (SSH Keys)]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐洲研究人員實現核聚變能源記錄]]></title>
         <id>https://news.ycombinator.com/item?id=30272109</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>antismarm</name>
             <uri>https://news.ycombinator.com/user?id=antismarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超過10%的特斯拉S型電動車3年後未能通過德國的嚴格檢查]]></title>
-        <id>https://news.ycombinator.com/item?id=30126171</id>
-        <link href="https://news.ycombinator.com/item?id=30126171"/>
-        <updated>2022-01-29T13:38:52.000Z</updated>
-        <summary type="html"><![CDATA[Over 10% of Tesla Model S EVs Fail Germany’s Strict Inspection After 3 Years]]></summary>
-        <author>
-            <name>ourmandave</name>
-            <uri>https://news.ycombinator.com/user?id=ourmandave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[計算機能否應付人類的比賽？]]></title>
-        <id>https://news.ycombinator.com/item?id=30126390</id>
-        <link href="https://news.ycombinator.com/item?id=30126390"/>
-        <updated>2022-01-29T14:10:23.000Z</updated>
-        <summary type="html"><![CDATA[Can computers cope with human races?]]></summary>
-        <author>
-            <name>smk_</name>
-            <uri>https://news.ycombinator.com/user?id=smk_</uri>
         </author>
     </entry>
 </feed>
