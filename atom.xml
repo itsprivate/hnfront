@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T07:49:04.741Z</updated>
+    <updated>2022-02-09T08:11:26.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开放的薪资与公平数据库]]></title>
+        <id>https://news.ycombinator.com/item?id=30269953</id>
+        <link href="https://news.ycombinator.com/item?id=30269953"/>
+        <updated>2022-02-09T07:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Open Salary and Equity Database]]></summary>
+        <author>
+            <name>bspear</name>
+            <uri>https://news.ycombinator.com/user?id=bspear</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鼓励你的孩子学习代码的有趣的资源]]></title>
         <id>https://news.ycombinator.com/item?id=30242727</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>kiyanwang</name>
             <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫步美国。华盛顿特区（阿纳科斯蒂亚和亚历山大）]]></title>
-        <id>https://news.ycombinator.com/item?id=30107133</id>
-        <link href="https://news.ycombinator.com/item?id=30107133"/>
-        <updated>2022-01-27T21:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Walking America: Washington, DC (Anacostia and Alexandria)]]></summary>
-        <author>
-            <name>blegh</name>
-            <uri>https://news.ycombinator.com/user?id=blegh</uri>
         </author>
     </entry>
 </feed>
