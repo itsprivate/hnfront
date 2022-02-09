@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T03:49:29.417Z</updated>
+    <updated>2022-02-09T04:36:28.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[停止使用餅狀圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30236171</id>
+        <link href="https://news.ycombinator.com/item?id=30236171"/>
+        <updated>2022-02-06T19:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Stop Using Pie-Charts]]></summary>
+        <author>
+            <name>t_christensen</name>
+            <uri>https://news.ycombinator.com/user?id=t_christensen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudpilot，一個用於網絡的PalmOS仿真器]]></title>
         <id>https://news.ycombinator.com/item?id=30241462</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ggcdn</name>
             <uri>https://news.ycombinator.com/user?id=ggcdn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網上購物門戶和中小微企業部門的增長]]></title>
-        <id>https://news.ycombinator.com/item?id=30100137</id>
-        <link href="https://news.ycombinator.com/item?id=30100137"/>
-        <updated>2022-01-27T13:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Online Shopping Portals and the Growth of MSME Sector]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
