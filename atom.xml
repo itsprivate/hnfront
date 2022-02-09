@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T10:09:50.367Z</updated>
+    <updated>2022-02-09T11:07:05.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[像90年代一样消费内容]]></title>
+        <id>https://news.ycombinator.com/item?id=30236251</id>
+        <link href="https://news.ycombinator.com/item?id=30236251"/>
+        <updated>2022-02-06T19:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Consuming content like it's the 90s]]></summary>
+        <author>
+            <name>aftergibson</name>
+            <uri>https://news.ycombinator.com/user?id=aftergibson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国数学学会的开放教科书倡议]]></title>
         <id>https://news.ycombinator.com/item?id=30270705</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>abelr</name>
             <uri>https://news.ycombinator.com/user?id=abelr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胡椒薄荷帮助台解决方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30116023</id>
-        <link href="https://news.ycombinator.com/item?id=30116023"/>
-        <updated>2022-01-28T15:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Peppermint Help Desk Solution]]></summary>
-        <author>
-            <name>peppermintLabs</name>
-            <uri>https://news.ycombinator.com/user?id=peppermintLabs</uri>
         </author>
     </entry>
 </feed>
