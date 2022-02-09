@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T17:41:49.473Z</updated>
+    <updated>2022-02-09T18:10:14.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当私募基金成为你的房东时]]></title>
+        <id>https://news.ycombinator.com/item?id=30275193</id>
+        <link href="https://news.ycombinator.com/item?id=30275193"/>
+        <updated>2022-02-09T17:18:07.000Z</updated>
+        <summary type="html"><![CDATA[When Private Equity Becomes Your Landlord]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在就获得模拟面试，找到下一份工作后再付款]]></title>
         <id>https://news.ycombinator.com/item?id=30273288</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>TheresNoTime</name>
             <uri>https://news.ycombinator.com/user?id=TheresNoTime</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cray模拟器（X-MP, Y-MP-el, J90, SV1）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30126706</id>
-        <link href="https://news.ycombinator.com/item?id=30126706"/>
-        <updated>2022-01-29T14:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Cray Simulator (X-MP, Y-MP-el, J90, SV1)]]></summary>
-        <author>
-            <name>throwawaybutwhy</name>
-            <uri>https://news.ycombinator.com/user?id=throwawaybutwhy</uri>
         </author>
     </entry>
 </feed>
