@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 06:34:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在50Mbps的上行链路上，在黑客新闻的头版上生存下来]]></title>
+            <link>https://news.ycombinator.com/item?id=30269421</link>
+            <guid>https://news.ycombinator.com/item?id=30269421</guid>
+            <pubDate>Wed, 09 Feb 2022 05:54:42 GMT</pubDate>
+            <description><![CDATA[Surviving the front page of Hacker News on a 50 Mbps uplink]]></description>
+        </item>
         <item>
             <title><![CDATA[巫术在Elixir中的功能编程]]></title>
             <link>https://news.ycombinator.com/item?id=30257542</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30124401</guid>
             <pubDate>Sat, 29 Jan 2022 07:00:00 GMT</pubDate>
             <description><![CDATA[Etleap (YC W13) Is Hiring a Software Engineer – San Francisco/London]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你收到一个你在编码面试中已经见过的问题，该怎么办？]]></title>
-            <link>https://news.ycombinator.com/item?id=30124062</link>
-            <guid>https://news.ycombinator.com/item?id=30124062</guid>
-            <pubDate>Sat, 29 Jan 2022 05:37:41 GMT</pubDate>
-            <description><![CDATA[What to do if you get a question you've already seen in a coding interview]]></description>
         </item>
     </channel>
 </rss>
