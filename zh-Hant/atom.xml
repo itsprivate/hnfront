@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T15:31:01.692Z</updated>
+    <updated>2022-02-09T16:11:22.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果正在開發RealityOS]]></title>
+        <id>https://news.ycombinator.com/item?id=30273933</id>
+        <link href="https://news.ycombinator.com/item?id=30273933"/>
+        <updated>2022-02-09T15:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Apple Is Working on RealityOS]]></summary>
+        <author>
+            <name>axg11</name>
+            <uri>https://news.ycombinator.com/user?id=axg11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羅馬格式化和Rust更新]]></title>
+        <id>https://news.ycombinator.com/item?id=30272671</id>
+        <link href="https://news.ycombinator.com/item?id=30272671"/>
+        <updated>2022-02-09T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Rome Formatter and Rust Update]]></summary>
+        <author>
+            <name>hardwaregeek</name>
+            <uri>https://news.ycombinator.com/user?id=hardwaregeek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為階梯的API]]></title>
+        <id>https://news.ycombinator.com/item?id=30246212</id>
+        <link href="https://news.ycombinator.com/item?id=30246212"/>
+        <updated>2022-02-07T15:33:48.000Z</updated>
+        <summary type="html"><![CDATA[APIs as Ladders]]></summary>
+        <author>
+            <name>swyx</name>
+            <uri>https://news.ycombinator.com/user?id=swyx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用量子計算機破解256位的橢圓曲線加密技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30272059</id>
+        <link href="https://news.ycombinator.com/item?id=30272059"/>
+        <updated>2022-02-09T12:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Breaking 256-Bit Elliptic Curve Encryption with a Quantum Computer]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[語義代碼註釋的ASCII藝術]]></title>
         <id>https://news.ycombinator.com/item?id=30273299</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>ContrarianBrit</name>
             <uri>https://news.ycombinator.com/user?id=ContrarianBrit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用反向傳播法訓練的深度物理神經網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30127289</id>
-        <link href="https://news.ycombinator.com/item?id=30127289"/>
-        <updated>2022-01-29T15:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Deep physical neural networks trained with backpropagation]]></summary>
-        <author>
-            <name>groar</name>
-            <uri>https://news.ycombinator.com/user?id=groar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nova - 埃爾朗網絡框架發佈0.9.2版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30111578</id>
-        <link href="https://news.ycombinator.com/item?id=30111578"/>
-        <updated>2022-01-28T07:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Nova – Erlang Web Framework released version 0.9.2]]></summary>
-        <author>
-            <name>taure</name>
-            <uri>https://news.ycombinator.com/user?id=taure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拖延時間。基於PostgreSQL的Python任務隊列]]></title>
-        <id>https://news.ycombinator.com/item?id=30126152</id>
-        <link href="https://news.ycombinator.com/item?id=30126152"/>
-        <updated>2022-01-29T13:36:48.000Z</updated>
-        <summary type="html"><![CDATA[Procrastinate: PostgreSQL-Based Task Queue for Python]]></summary>
-        <author>
-            <name>noodlesUK</name>
-            <uri>https://news.ycombinator.com/user?id=noodlesUK</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一塊雙子座電池使特斯拉S型車的續航能力幾乎翻倍]]></title>
-        <id>https://news.ycombinator.com/item?id=30127088</id>
-        <link href="https://news.ycombinator.com/item?id=30127088"/>
-        <updated>2022-01-29T15:32:12.000Z</updated>
-        <summary type="html"><![CDATA[One Gemini Battery Nearly Doubles Tesla Model S Range]]></summary>
-        <author>
-            <name>hardmaru</name>
-            <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
         </author>
     </entry>
 </feed>
