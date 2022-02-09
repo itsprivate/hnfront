@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T18:33:57.914Z</updated>
+    <updated>2022-02-09T19:22:56.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的CEO在Glassdoor上的评分非常糟糕，以至于我们得到的都是低劣的雇员。]]></title>
+        <id>https://news.ycombinator.com/item?id=30276057</id>
+        <link href="https://news.ycombinator.com/item?id=30276057"/>
+        <updated>2022-02-09T18:16:37.000Z</updated>
+        <summary type="html"><![CDATA[My CEO’s rating on Glassdoor is so bad that all we are getting are shitty hires]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国科学不再领先于世界。以下是国家应该如何回应]]></title>
+        <id>https://news.ycombinator.com/item?id=30274993</id>
+        <link href="https://news.ycombinator.com/item?id=30274993"/>
+        <updated>2022-02-09T17:02:51.000Z</updated>
+        <summary type="html"><![CDATA[U.S. science no longer leads the world. Here’s how nation should respond]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过使用FreeMind(2012)，使程序超越你的实际能力]]></title>
+        <id>https://news.ycombinator.com/item?id=30256492</id>
+        <link href="https://news.ycombinator.com/item?id=30256492"/>
+        <updated>2022-02-08T09:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Program above and beyond your actual ability by using FreeMind (2012)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的最佳估计是，燃气灶的预期寿命平均减少53天。]]></title>
         <id>https://news.ycombinator.com/item?id=30275953</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>Apocryphon</name>
             <uri>https://news.ycombinator.com/user?id=Apocryphon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为Game Boy开发选择工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30129027</id>
-        <link href="https://news.ycombinator.com/item?id=30129027"/>
-        <updated>2022-01-29T18:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Choosing tools for Game Boy development]]></summary>
-        <author>
-            <name>detaro</name>
-            <uri>https://news.ycombinator.com/user?id=detaro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大气层折射的模拟]]></title>
-        <id>https://news.ycombinator.com/item?id=30128435</id>
-        <link href="https://news.ycombinator.com/item?id=30128435"/>
-        <updated>2022-01-29T17:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Simulation of Atmospheric Refraction]]></summary>
-        <author>
-            <name>davidbarker</name>
-            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃及国王阿蒙霍特普三世的狮身人面像在卢克索出土，失传已久。]]></title>
-        <id>https://news.ycombinator.com/item?id=30107669</id>
-        <link href="https://news.ycombinator.com/item?id=30107669"/>
-        <updated>2022-01-27T22:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Long-lost sphinxes of Egyptian king Amenhotep III unearthed at Luxor]]></summary>
-        <author>
-            <name>diodorus</name>
-            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
         </author>
     </entry>
 </feed>
