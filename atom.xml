@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T15:09:25.444Z</updated>
+    <updated>2022-02-09T15:31:01.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[语义代码注释的ASCII艺术]]></title>
+        <id>https://news.ycombinator.com/item?id=30273299</id>
+        <link href="https://news.ycombinator.com/item?id=30273299"/>
+        <updated>2022-02-09T14:55:41.000Z</updated>
+        <summary type="html"><![CDATA[ASCII art for semantic code commenting]]></summary>
+        <author>
+            <name>anonymous_they</name>
+            <uri>https://news.ycombinator.com/user?id=anonymous_they</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID19危机期间的数据误报。政治机构的作用]]></title>
+        <id>https://news.ycombinator.com/item?id=30272441</id>
+        <link href="https://news.ycombinator.com/item?id=30272441"/>
+        <updated>2022-02-09T13:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Data misreporting during the COVID19 crisis: The role of political institutions]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自家制造的布加迪复制品[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=30257424</id>
+        <link href="https://news.ycombinator.com/item?id=30257424"/>
+        <updated>2022-02-08T11:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Home-built Bugatti replica [video]]]></summary>
+        <author>
+            <name>jnord</name>
+            <uri>https://news.ycombinator.com/user?id=jnord</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[困扰一位受人喜爱的意大利诗人的未解决的谋杀案]]></title>
         <id>https://news.ycombinator.com/item?id=30244991</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>hardmaru</name>
             <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust的扩展特性、greppability和IDEs]]></title>
-        <id>https://news.ycombinator.com/item?id=30126839</id>
-        <link href="https://news.ycombinator.com/item?id=30126839"/>
-        <updated>2022-01-29T15:07:19.000Z</updated>
-        <summary type="html"><![CDATA[Rust extension traits, greppability and IDEs]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[琼-迪迪安。论自尊》（1961）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30119891</id>
-        <link href="https://news.ycombinator.com/item?id=30119891"/>
-        <updated>2022-01-28T20:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Joan Didion: On Self-Respect (1961)]]></summary>
-        <author>
-            <name>smartmic</name>
-            <uri>https://news.ycombinator.com/user?id=smartmic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Rust和WASM重现最短的数学论文]]></title>
-        <id>https://news.ycombinator.com/item?id=30126602</id>
-        <link href="https://news.ycombinator.com/item?id=30126602"/>
-        <updated>2022-01-29T14:39:09.000Z</updated>
-        <summary type="html"><![CDATA[Recreating the Shortest Math Paper with Rust and WASM]]></summary>
-        <author>
-            <name>kibwen</name>
-            <uri>https://news.ycombinator.com/user?id=kibwen</uri>
         </author>
     </entry>
 </feed>
