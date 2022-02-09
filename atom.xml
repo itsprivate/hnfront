@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T13:04:37.439Z</updated>
+    <updated>2022-02-09T13:31:03.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尿液革命：回收尿液如何有助于拯救世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30272019</id>
+        <link href="https://news.ycombinator.com/item?id=30272019"/>
+        <updated>2022-02-09T12:52:19.000Z</updated>
+        <summary type="html"><![CDATA[The urine revolution: how recycling pee could help to save the world]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[着陆一个新的系统调用，第一部分。什么是futex？]]></title>
+        <id>https://news.ycombinator.com/item?id=30271902</id>
+        <link href="https://news.ycombinator.com/item?id=30271902"/>
+        <updated>2022-02-09T12:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Landing a new syscall, part 1: What is futex?]]></summary>
+        <author>
+            <name>1_player</name>
+            <uri>https://news.ycombinator.com/user?id=1_player</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高地位、低工资工作的危险性]]></title>
         <id>https://news.ycombinator.com/item?id=30272037</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>elvis70</name>
             <uri>https://news.ycombinator.com/user?id=elvis70</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rust/coreutils的更新：一些二进制文件的速度明显快于GNU]]></title>
-        <id>https://news.ycombinator.com/item?id=30125970</id>
-        <link href="https://news.ycombinator.com/item?id=30125970"/>
-        <updated>2022-01-29T13:09:58.000Z</updated>
-        <summary type="html"><![CDATA[An update on rust/coreutils: some binaries are significantly faster than GNU]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌终止简单键盘开发者的Play Store账户]]></title>
-        <id>https://news.ycombinator.com/item?id=30125829</id>
-        <link href="https://news.ycombinator.com/item?id=30125829"/>
-        <updated>2022-01-29T12:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Google terminates Play Store account of Simple Keyboard developer]]></summary>
-        <author>
-            <name>commoner</name>
-            <uri>https://news.ycombinator.com/user?id=commoner</uri>
         </author>
     </entry>
 </feed>
