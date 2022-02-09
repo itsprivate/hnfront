@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T20:29:40.621Z</updated>
+    <updated>2022-02-09T20:49:01.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亿万富翁彼得-蒂尔资助的 "网络战争 "创业公司与NSO集团类似]]></title>
+        <id>https://news.ycombinator.com/item?id=30277568</id>
+        <link href="https://news.ycombinator.com/item?id=30277568"/>
+        <updated>2022-02-09T19:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Billionaire Peter Thiel Funded ‘Cyber Warfare’ Startup similar to NSO Group]]></summary>
+        <author>
+            <name>notRobot</name>
+            <uri>https://news.ycombinator.com/user?id=notRobot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究人员利用微小的磁力漩涡生成真正的随机数]]></title>
         <id>https://news.ycombinator.com/item?id=30257304</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个JavaScript文件中关于编译器的动态教程(2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30129911</id>
-        <link href="https://news.ycombinator.com/item?id=30129911"/>
-        <updated>2022-01-29T20:12:38.000Z</updated>
-        <summary type="html"><![CDATA[A dynamic tutorial about a compiler in one JavaScript file (2016)]]></summary>
-        <author>
-            <name>roramigator</name>
-            <uri>https://news.ycombinator.com/user?id=roramigator</uri>
         </author>
     </entry>
 </feed>
