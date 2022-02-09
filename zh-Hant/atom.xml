@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T03:09:19.946Z</updated>
+    <updated>2022-02-09T03:49:29.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloudpilot，一個用於網絡的PalmOS仿真器]]></title>
+        <id>https://news.ycombinator.com/item?id=30241462</id>
+        <link href="https://news.ycombinator.com/item?id=30241462"/>
+        <updated>2022-02-07T07:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Cloudpilot, a PalmOS Emulator for the Web]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[意外的內爆產生了對海洋最深點的新測量結果]]></title>
         <id>https://news.ycombinator.com/item?id=30268017</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>rustoo</name>
             <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tor瀏覽器：推進私人瀏覽創新的遺產]]></title>
-        <id>https://news.ycombinator.com/item?id=30123982</id>
-        <link href="https://news.ycombinator.com/item?id=30123982"/>
-        <updated>2022-01-29T05:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Tor Browser: a legacy of advancing private browsing innovation]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
