@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T04:36:28.316Z</updated>
+    <updated>2022-02-09T04:54:48.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[旅行是無法治癒心靈的 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30235262</id>
+        <link href="https://news.ycombinator.com/item?id=30235262"/>
+        <updated>2022-02-06T18:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Travel is no cure for the mind (2018)]]></summary>
+        <author>
+            <name>wallflower</name>
+            <uri>https://news.ycombinator.com/user?id=wallflower</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[停止使用餅狀圖]]></title>
         <id>https://news.ycombinator.com/item?id=30236171</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>dwohnitmok</name>
             <uri>https://news.ycombinator.com/user?id=dwohnitmok</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保護蓋蒂藝術免受地震影響的隱藏工程]]></title>
-        <id>https://news.ycombinator.com/item?id=30124021</id>
-        <link href="https://news.ycombinator.com/item?id=30124021"/>
-        <updated>2022-01-29T05:24:22.000Z</updated>
-        <summary type="html"><![CDATA[The Hidden Engineering Protecting Getty Art from Earthquakes]]></summary>
-        <author>
-            <name>ggcdn</name>
-            <uri>https://news.ycombinator.com/user?id=ggcdn</uri>
         </author>
     </entry>
 </feed>
