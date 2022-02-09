@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T04:54:48.741Z</updated>
+    <updated>2022-02-09T05:48:51.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[巫術在Elixir中的功能編程]]></title>
+        <id>https://news.ycombinator.com/item?id=30257542</id>
+        <link href="https://news.ycombinator.com/item?id=30257542"/>
+        <updated>2022-02-08T12:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Functional Programming in Elixir with Witchcraft]]></summary>
+        <author>
+            <name>unripe_syntax</name>
+            <uri>https://news.ycombinator.com/user?id=unripe_syntax</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旅行是無法治癒心靈的 (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=30235262</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>danielgh7</name>
             <uri>https://news.ycombinator.com/user?id=danielgh7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拉丁語是她說的。古典主義者如何自欺欺人]]></title>
-        <id>https://news.ycombinator.com/item?id=30124101</id>
-        <link href="https://news.ycombinator.com/item?id=30124101"/>
-        <updated>2022-01-29T05:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Latin as She Is Spoke: How Classicists Tricked Themselves]]></summary>
-        <author>
-            <name>dwohnitmok</name>
-            <uri>https://news.ycombinator.com/user?id=dwohnitmok</uri>
         </author>
     </entry>
 </feed>
