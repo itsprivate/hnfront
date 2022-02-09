@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T21:49:03.994Z</updated>
+    <updated>2022-02-09T22:09:09.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenSCAD三维渲染的速度提高了一个数量级]]></title>
+        <id>https://news.ycombinator.com/item?id=30277356</id>
+        <link href="https://news.ycombinator.com/item?id=30277356"/>
+        <updated>2022-02-09T19:38:22.000Z</updated>
+        <summary type="html"><![CDATA[OpenSCAD 3D rendering just got an order of magnitude faster]]></summary>
+        <author>
+            <name>voussoir</name>
+            <uri>https://news.ycombinator.com/user?id=voussoir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从3月10日开始，你需要一个微软账户来玩《Minecraft》JavaEdition]]></title>
         <id>https://news.ycombinator.com/item?id=30278313</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bratao</name>
             <uri>https://news.ycombinator.com/user?id=bratao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的自由主义，你的独裁主义]]></title>
-        <id>https://news.ycombinator.com/item?id=30130265</id>
-        <link href="https://news.ycombinator.com/item?id=30130265"/>
-        <updated>2022-01-29T20:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Libertarianism for Me, Authoritarianism for Thee]]></summary>
-        <author>
-            <name>Outofthebot</name>
-            <uri>https://news.ycombinator.com/user?id=Outofthebot</uri>
         </author>
     </entry>
 </feed>
