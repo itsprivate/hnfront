@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T01:46:04.259Z</updated>
+    <updated>2022-02-09T02:23:59.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星联公司因地磁暴损失40颗卫星]]></title>
+        <id>https://news.ycombinator.com/item?id=30267587</id>
+        <link href="https://news.ycombinator.com/item?id=30267587"/>
+        <updated>2022-02-09T01:46:16.000Z</updated>
+        <summary type="html"><![CDATA[Starlink lost 40 satellites to a geomagnetic storm]]></summary>
+        <author>
+            <name>ortusdux</name>
+            <uri>https://news.ycombinator.com/user?id=ortusdux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么在不开会的时候，Zoom应用程序会监听我的麦克风？]]></title>
         <id>https://news.ycombinator.com/item?id=30266894</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>caaqil</name>
             <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通常的算术混淆现象]]></title>
-        <id>https://news.ycombinator.com/item?id=30096997</id>
-        <link href="https://news.ycombinator.com/item?id=30096997"/>
-        <updated>2022-01-27T06:38:44.000Z</updated>
-        <summary type="html"><![CDATA[The Usual Arithmetic Confusions]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
