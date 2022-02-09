@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-09T22:28:07.909Z</updated>
+    <updated>2022-02-09T22:49:10.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Netflix会衰败]]></title>
+        <id>https://news.ycombinator.com/item?id=30278974</id>
+        <link href="https://news.ycombinator.com/item?id=30278974"/>
+        <updated>2022-02-09T21:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Why Netflix Will Falter]]></summary>
+        <author>
+            <name>peasantking</name>
+            <uri>https://news.ycombinator.com/user?id=peasantking</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[样品中发现的早期 "实验室生长 "的Covid病毒为武汉理论提供了依据]]></title>
         <id>https://news.ycombinator.com/item?id=30279180</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>aspenmayer</name>
             <uri>https://news.ycombinator.com/user?id=aspenmayer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯粹的Go嵌入式SQL数据库]]></title>
-        <id>https://news.ycombinator.com/item?id=30130938</id>
-        <link href="https://news.ycombinator.com/item?id=30130938"/>
-        <updated>2022-01-29T21:55:20.000Z</updated>
-        <summary type="html"><![CDATA[A pure Go embedded SQL database]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
         </author>
     </entry>
 </feed>
