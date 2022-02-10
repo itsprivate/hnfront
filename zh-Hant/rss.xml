@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 10 Feb 2022 07:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 07:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[丟失發現，以便其他人能夠找到它們]]></title>
+            <link>https://news.ycombinator.com/item?id=30278162</link>
+            <guid>https://news.ycombinator.com/item?id=30278162</guid>
+            <pubDate>Wed, 09 Feb 2022 20:38:34 GMT</pubDate>
+            <description><![CDATA[Losing discoveries so others can find them]]></description>
+        </item>
         <item>
             <title><![CDATA[每日圖表。全球民主的新低點]]></title>
             <link>https://news.ycombinator.com/item?id=30282939</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30134058</guid>
             <pubDate>Sun, 30 Jan 2022 04:34:20 GMT</pubDate>
             <description><![CDATA[tofuproxy – web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於寫作。一個阿貝卡人]]></title>
-            <link>https://news.ycombinator.com/item?id=30103179</link>
-            <guid>https://news.ycombinator.com/item?id=30103179</guid>
-            <pubDate>Thu, 27 Jan 2022 17:16:00 GMT</pubDate>
-            <description><![CDATA[On Writing: An Abecedarian]]></description>
         </item>
     </channel>
 </rss>
