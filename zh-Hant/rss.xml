@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 10 Feb 2022 22:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 22:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Linux 5.18的RNG中更安全的熵積累]]></title>
+            <link>https://news.ycombinator.com/item?id=30273964</link>
+            <guid>https://news.ycombinator.com/item?id=30273964</guid>
+            <pubDate>Wed, 09 Feb 2022 15:43:23 GMT</pubDate>
+            <description><![CDATA[Safer entropy accumulation in Linux 5.18's RNG]]></description>
+        </item>
         <item>
             <title><![CDATA[鞋帶預算下的交叉偏振掃描（2017）。]]></title>
             <link>https://news.ycombinator.com/item?id=30292135</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30141171</guid>
             <pubDate>Sun, 30 Jan 2022 21:15:44 GMT</pubDate>
             <description><![CDATA[Deep symbolic regression for recurrent sequences]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一位用戶體驗設計師走進特斯拉酒吧]]></title>
-            <link>https://news.ycombinator.com/item?id=30140984</link>
-            <guid>https://news.ycombinator.com/item?id=30140984</guid>
-            <pubDate>Sun, 30 Jan 2022 20:55:21 GMT</pubDate>
-            <description><![CDATA[A UX designer walks into a Tesla Bar]]></description>
         </item>
     </channel>
 </rss>

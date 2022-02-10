@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T22:08:15.334Z</updated>
+    <updated>2022-02-10T22:26:27.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.18的RNG中更安全的熵積累]]></title>
+        <id>https://news.ycombinator.com/item?id=30273964</id>
+        <link href="https://news.ycombinator.com/item?id=30273964"/>
+        <updated>2022-02-09T15:43:23.000Z</updated>
+        <summary type="html"><![CDATA[Safer entropy accumulation in Linux 5.18's RNG]]></summary>
+        <author>
+            <name>zx2c4</name>
+            <uri>https://news.ycombinator.com/user?id=zx2c4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鞋帶預算下的交叉偏振掃描（2017）。]]></title>
         <id>https://news.ycombinator.com/item?id=30292135</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ShamelessC</name>
             <uri>https://news.ycombinator.com/user?id=ShamelessC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位用戶體驗設計師走進特斯拉酒吧]]></title>
-        <id>https://news.ycombinator.com/item?id=30140984</id>
-        <link href="https://news.ycombinator.com/item?id=30140984"/>
-        <updated>2022-01-30T20:55:21.000Z</updated>
-        <summary type="html"><![CDATA[A UX designer walks into a Tesla Bar]]></summary>
-        <author>
-            <name>radley</name>
-            <uri>https://news.ycombinator.com/user?id=radley</uri>
         </author>
     </entry>
 </feed>
