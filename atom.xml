@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T23:09:30.953Z</updated>
+    <updated>2022-02-10T23:28:28.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[经过长达一个世纪的探索，发现了湍流方程式]]></title>
+        <id>https://news.ycombinator.com/item?id=30282944</id>
+        <link href="https://news.ycombinator.com/item?id=30282944"/>
+        <updated>2022-02-10T06:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Turbulence Equations Discovered After Century-Long Quest]]></summary>
+        <author>
+            <name>solarmist</name>
+            <uri>https://news.ycombinator.com/user?id=solarmist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艺术界的蜘蛛侠]]></title>
+        <id>https://news.ycombinator.com/item?id=30278254</id>
+        <link href="https://news.ycombinator.com/item?id=30278254"/>
+        <updated>2022-02-09T20:46:50.000Z</updated>
+        <summary type="html"><![CDATA[The Art World’s Spider Man]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordle现在重定向到纽约时报]]></title>
         <id>https://news.ycombinator.com/item?id=30293297</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>gok</name>
             <uri>https://news.ycombinator.com/user?id=gok</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要忘记微软]]></title>
-        <id>https://news.ycombinator.com/item?id=30141192</id>
-        <link href="https://news.ycombinator.com/item?id=30141192"/>
-        <updated>2022-01-30T21:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Don't forget Microsoft]]></summary>
-        <author>
-            <name>SamvitJ</name>
-            <uri>https://news.ycombinator.com/user?id=SamvitJ</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FunctionStomping--一种新的壳代码注入技术]]></title>
-        <id>https://news.ycombinator.com/item?id=30135190</id>
-        <link href="https://news.ycombinator.com/item?id=30135190"/>
-        <updated>2022-01-30T09:00:22.000Z</updated>
-        <summary type="html"><![CDATA[FunctionStomping – A new shellcode injection technique]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
