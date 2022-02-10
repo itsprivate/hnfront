@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T14:09:10.201Z</updated>
+    <updated>2022-02-10T14:27:13.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西部數據稱汙染影響了日本工廠的生產]]></title>
+        <id>https://news.ycombinator.com/item?id=30286134</id>
+        <link href="https://news.ycombinator.com/item?id=30286134"/>
+        <updated>2022-02-10T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Western Digital says contamination impacting production at Japanese facilities]]></summary>
+        <author>
+            <name>elorant</name>
+            <uri>https://news.ycombinator.com/user?id=elorant</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid-19對心臟健康造成嚴重損害--康復後一整年]]></title>
+        <id>https://news.ycombinator.com/item?id=30285992</id>
+        <link href="https://news.ycombinator.com/item?id=30285992"/>
+        <updated>2022-02-10T13:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Covid-19 takes serious toll on heart health–a full year after recovery]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userfaultfd(2) - 創建一個文件描述符來處理用戶空間的頁面故障]]></title>
+        <id>https://news.ycombinator.com/item?id=30285317</id>
+        <link href="https://news.ycombinator.com/item?id=30285317"/>
+        <updated>2022-02-10T12:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Userfaultfd(2) – create a file descriptor for handling page faults in user space]]></summary>
+        <author>
+            <name>phab</name>
+            <uri>https://news.ycombinator.com/user?id=phab</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每個離開蘋果的員工都會成為 "合夥人"。]]></title>
         <id>https://news.ycombinator.com/item?id=30285682</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>drrlvn</name>
             <uri>https://news.ycombinator.com/user?id=drrlvn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoSTL。Go的算法和數據結構庫，類似於C++的STL]]></title>
-        <id>https://news.ycombinator.com/item?id=30136969</id>
-        <link href="https://news.ycombinator.com/item?id=30136969"/>
-        <updated>2022-01-30T13:25:45.000Z</updated>
-        <summary type="html"><![CDATA[GoSTL: Algorithm and datastructure library for Go similar to C++ STL]]></summary>
-        <author>
-            <name>gmgn</name>
-            <uri>https://news.ycombinator.com/user?id=gmgn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼是Forge？]]></title>
-        <id>https://news.ycombinator.com/item?id=30111373</id>
-        <link href="https://news.ycombinator.com/item?id=30111373"/>
-        <updated>2022-01-28T06:37:20.000Z</updated>
-        <summary type="html"><![CDATA[What Is Forge?]]></summary>
-        <author>
-            <name>manicennui</name>
-            <uri>https://news.ycombinator.com/user?id=manicennui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在日本的城堡廢墟中發現可能的忍者武器原型]]></title>
-        <id>https://news.ycombinator.com/item?id=30110655</id>
-        <link href="https://news.ycombinator.com/item?id=30110655"/>
-        <updated>2022-01-28T04:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
         </author>
     </entry>
 </feed>

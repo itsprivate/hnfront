@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 10 Feb 2022 14:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 14:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[西部数据称污染影响了日本工厂的生产]]></title>
+            <link>https://news.ycombinator.com/item?id=30286134</link>
+            <guid>https://news.ycombinator.com/item?id=30286134</guid>
+            <pubDate>Thu, 10 Feb 2022 14:06:43 GMT</pubDate>
+            <description><![CDATA[Western Digital says contamination impacting production at Japanese facilities]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19对心脏健康造成严重损害--康复后一整年]]></title>
+            <link>https://news.ycombinator.com/item?id=30285992</link>
+            <guid>https://news.ycombinator.com/item?id=30285992</guid>
+            <pubDate>Thu, 10 Feb 2022 13:55:26 GMT</pubDate>
+            <description><![CDATA[Covid-19 takes serious toll on heart health–a full year after recovery]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Userfaultfd(2) - 创建一个文件描述符来处理用户空间的页面故障]]></title>
+            <link>https://news.ycombinator.com/item?id=30285317</link>
+            <guid>https://news.ycombinator.com/item?id=30285317</guid>
+            <pubDate>Thu, 10 Feb 2022 12:49:52 GMT</pubDate>
+            <description><![CDATA[Userfaultfd(2) – create a file descriptor for handling page faults in user space]]></description>
+        </item>
         <item>
             <title><![CDATA[每个离开苹果的员工都会成为 "合伙人"。]]></title>
             <link>https://news.ycombinator.com/item?id=30285682</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30135758</guid>
             <pubDate>Sun, 30 Jan 2022 10:51:45 GMT</pubDate>
             <description><![CDATA[Uninitialized Memory: Unsafe Rust Is Too Hard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GoSTL。Go的算法和数据结构库，类似于C++的STL]]></title>
-            <link>https://news.ycombinator.com/item?id=30136969</link>
-            <guid>https://news.ycombinator.com/item?id=30136969</guid>
-            <pubDate>Sun, 30 Jan 2022 13:25:45 GMT</pubDate>
-            <description><![CDATA[GoSTL: Algorithm and datastructure library for Go similar to C++ STL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是Forge？]]></title>
-            <link>https://news.ycombinator.com/item?id=30111373</link>
-            <guid>https://news.ycombinator.com/item?id=30111373</guid>
-            <pubDate>Fri, 28 Jan 2022 06:37:20 GMT</pubDate>
-            <description><![CDATA[What Is Forge?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在日本的城堡废墟中发现可能的忍者武器原型]]></title>
-            <link>https://news.ycombinator.com/item?id=30110655</link>
-            <guid>https://news.ycombinator.com/item?id=30110655</guid>
-            <pubDate>Fri, 28 Jan 2022 04:16:38 GMT</pubDate>
-            <description><![CDATA[Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan]]></description>
         </item>
     </channel>
 </rss>
