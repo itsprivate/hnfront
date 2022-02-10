@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T19:21:36.075Z</updated>
+    <updated>2022-02-10T19:34:14.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于睡眠的论文 - Alexey Guzey]]></title>
+        <id>https://news.ycombinator.com/item?id=30289642</id>
+        <link href="https://news.ycombinator.com/item?id=30289642"/>
+        <updated>2022-02-10T17:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Theses on Sleep – Alexey Guzey]]></summary>
+        <author>
+            <name>wosk</name>
+            <uri>https://news.ycombinator.com/user?id=wosk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于猫的图片]]></title>
         <id>https://news.ycombinator.com/item?id=30277065</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mccorrinall</name>
             <uri>https://news.ycombinator.com/user?id=mccorrinall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大学研究发现减少不平等可以扭转政治极化]]></title>
-        <id>https://news.ycombinator.com/item?id=30139764</id>
-        <link href="https://news.ycombinator.com/item?id=30139764"/>
-        <updated>2022-01-30T18:37:08.000Z</updated>
-        <summary type="html"><![CDATA[University Study Finds Reducing Inequality Can Reverse Political Polarisation]]></summary>
-        <author>
-            <name>krigath</name>
-            <uri>https://news.ycombinator.com/user?id=krigath</uri>
         </author>
     </entry>
 </feed>
