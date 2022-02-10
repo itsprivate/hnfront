@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T12:43:49.519Z</updated>
+    <updated>2022-02-10T13:01:57.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法国数据保护机构宣布使用谷歌分析为非法行为]]></title>
+        <id>https://news.ycombinator.com/item?id=30284820</id>
+        <link href="https://news.ycombinator.com/item?id=30284820"/>
+        <updated>2022-02-10T11:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Use of Google Analytics declared illegal by French data protection authority]]></summary>
+        <author>
+            <name>domffc1</name>
+            <uri>https://news.ycombinator.com/user?id=domffc1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL 线路兼容的世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30284538</id>
+        <link href="https://news.ycombinator.com/item?id=30284538"/>
+        <updated>2022-02-10T10:42:16.000Z</updated>
+        <summary type="html"><![CDATA[The world of PostgreSQL wire compatibility]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNIL、法国DPA、谷歌分析和非法的美国数据转移]]></title>
+        <id>https://news.ycombinator.com/item?id=30284372</id>
+        <link href="https://news.ycombinator.com/item?id=30284372"/>
+        <updated>2022-02-10T10:18:08.000Z</updated>
+        <summary type="html"><![CDATA[CNIL, the French DPA, Google Analytics and Illegal US Data Transfers]]></summary>
+        <author>
+            <name>guillem_lefait</name>
+            <uri>https://news.ycombinator.com/user?id=guillem_lefait</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BBC加密货币纪录片在最后一刻被撤下播出]]></title>
         <id>https://news.ycombinator.com/item?id=30285111</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>williamsmj</name>
             <uri>https://news.ycombinator.com/user?id=williamsmj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amiga 500的RAM可能是如何工作的]]></title>
-        <id>https://news.ycombinator.com/item?id=30125730</id>
-        <link href="https://news.ycombinator.com/item?id=30125730"/>
-        <updated>2022-01-29T12:21:57.000Z</updated>
-        <summary type="html"><![CDATA[How Amiga 500 RAM Probably Works]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taloflow (YC W21)正在招聘QA工程师和项目经理]]></title>
-        <id>https://news.ycombinator.com/item?id=30136320</id>
-        <link href="https://news.ycombinator.com/item?id=30136320"/>
-        <updated>2022-01-30T12:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Taloflow (YC W21) Is Hiring a QA Engineer and Project Manager]]></summary>
-        <author>
-            <name>cloudfalcon</name>
-            <uri>https://news.ycombinator.com/user?id=cloudfalcon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["合法招标 "的决定]]></title>
-        <id>https://news.ycombinator.com/item?id=30119970</id>
-        <link href="https://news.ycombinator.com/item?id=30119970"/>
-        <updated>2022-01-28T20:34:01.000Z</updated>
-        <summary type="html"><![CDATA[The “Legal Tender” Decision]]></summary>
-        <author>
-            <name>omarfarooq</name>
-            <uri>https://news.ycombinator.com/user?id=omarfarooq</uri>
         </author>
     </entry>
 </feed>
