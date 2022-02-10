@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T15:30:49.057Z</updated>
+    <updated>2022-02-10T15:50:08.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[uBlock 1.41.0版]]></title>
+        <id>https://news.ycombinator.com/item?id=30287172</id>
+        <link href="https://news.ycombinator.com/item?id=30287172"/>
+        <updated>2022-02-10T15:11:23.000Z</updated>
+        <summary type="html"><![CDATA[uBlock Release 1.41.0]]></summary>
+        <author>
+            <name>favourable</name>
+            <uri>https://news.ycombinator.com/user?id=favourable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年警察致命槍擊1055人，是開始追蹤以來的最高總數]]></title>
         <id>https://news.ycombinator.com/item?id=30287108</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>melissalobos</name>
             <uri>https://news.ycombinator.com/user?id=melissalobos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為無趣的網絡辯護]]></title>
-        <id>https://news.ycombinator.com/item?id=30137681</id>
-        <link href="https://news.ycombinator.com/item?id=30137681"/>
-        <updated>2022-01-30T14:52:31.000Z</updated>
-        <summary type="html"><![CDATA[In Defence of the Boring Web]]></summary>
-        <author>
-            <name>Topolomancer</name>
-            <uri>https://news.ycombinator.com/user?id=Topolomancer</uri>
         </author>
     </entry>
 </feed>
