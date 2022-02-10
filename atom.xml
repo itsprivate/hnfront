@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T09:37:43.649Z</updated>
+    <updated>2022-02-10T10:11:01.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年使用的顶级网络黑客技术]]></title>
+        <id>https://news.ycombinator.com/item?id=30284022</id>
+        <link href="https://news.ycombinator.com/item?id=30284022"/>
+        <updated>2022-02-10T09:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Top web hacking techniques used in 2021]]></summary>
+        <author>
+            <name>adrianomartins</name>
+            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幻影：持久的操作系统]]></title>
         <id>https://news.ycombinator.com/item?id=30283864</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>redbell</name>
             <uri>https://news.ycombinator.com/user?id=redbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何避免网页字体引起的布局偏移]]></title>
-        <id>https://news.ycombinator.com/item?id=30129571</id>
-        <link href="https://news.ycombinator.com/item?id=30129571"/>
-        <updated>2022-01-29T19:30:44.000Z</updated>
-        <summary type="html"><![CDATA[How to avoid layout shifts caused by web fonts]]></summary>
-        <author>
-            <name>joshbetz</name>
-            <uri>https://news.ycombinator.com/user?id=joshbetz</uri>
         </author>
     </entry>
 </feed>

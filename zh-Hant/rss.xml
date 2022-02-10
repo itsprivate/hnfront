@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 10 Feb 2022 09:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 10:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2021年使用的頂級網絡黑客技術]]></title>
+            <link>https://news.ycombinator.com/item?id=30284022</link>
+            <guid>https://news.ycombinator.com/item?id=30284022</guid>
+            <pubDate>Thu, 10 Feb 2022 09:23:15 GMT</pubDate>
+            <description><![CDATA[Top web hacking techniques used in 2021]]></description>
+        </item>
         <item>
             <title><![CDATA[幻影：持久的操作系統]]></title>
             <link>https://news.ycombinator.com/item?id=30283864</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30134916</guid>
             <pubDate>Sun, 30 Jan 2022 07:43:28 GMT</pubDate>
             <description><![CDATA[Applying Offensive Reverse Engineering to Facebook Gameroom (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何避免網頁字體引起的佈局偏移]]></title>
-            <link>https://news.ycombinator.com/item?id=30129571</link>
-            <guid>https://news.ycombinator.com/item?id=30129571</guid>
-            <pubDate>Sat, 29 Jan 2022 19:30:44 GMT</pubDate>
-            <description><![CDATA[How to avoid layout shifts caused by web fonts]]></description>
         </item>
     </channel>
 </rss>
