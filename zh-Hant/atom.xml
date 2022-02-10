@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T20:09:00.436Z</updated>
+    <updated>2022-02-10T20:29:16.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特自2013年上市以來下跌了10.4%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30291646</id>
+        <link href="https://news.ycombinator.com/item?id=30291646"/>
+        <updated>2022-02-10T20:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is down 10.4% since IPO in 2013]]></summary>
+        <author>
+            <name>2022whoknew</name>
+            <uri>https://news.ycombinator.com/user?id=2022whoknew</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法國將建造六座新的核反應堆]]></title>
+        <id>https://news.ycombinator.com/item?id=30291135</id>
+        <link href="https://news.ycombinator.com/item?id=30291135"/>
+        <updated>2022-02-10T19:22:50.000Z</updated>
+        <summary type="html"><![CDATA[France to Build Six New Nuclear Reactors]]></summary>
+        <author>
+            <name>cyrksoft</name>
+            <uri>https://news.ycombinator.com/user?id=cyrksoft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MIPI CSI-2 v4.0增加了永遠在線、低功率機器視覺應用的功能]]></title>
         <id>https://news.ycombinator.com/item?id=30275099</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>panic</name>
             <uri>https://news.ycombinator.com/user?id=panic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非常遙遠的Lisp調試的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30139643</id>
-        <link href="https://news.ycombinator.com/item?id=30139643"/>
-        <updated>2022-01-30T18:24:17.000Z</updated>
-        <summary type="html"><![CDATA[Very Remote Lisp Debugging Story]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用樹形數據結構來實現終端分割窗格]]></title>
-        <id>https://news.ycombinator.com/item?id=30120901</id>
-        <link href="https://news.ycombinator.com/item?id=30120901"/>
-        <updated>2022-01-28T21:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Using tree data structures to implement terminal split panes]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
         </author>
     </entry>
 </feed>
