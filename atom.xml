@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T10:11:01.794Z</updated>
+    <updated>2022-02-10T10:30:59.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[事件驱动的跑步后进入我的家门]]></title>
+        <id>https://news.ycombinator.com/item?id=30257776</id>
+        <link href="https://news.ycombinator.com/item?id=30257776"/>
+        <updated>2022-02-08T12:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Event-Driven Access to My Home After a Run]]></summary>
+        <author>
+            <name>rwestergren</name>
+            <uri>https://news.ycombinator.com/user?id=rwestergren</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年使用的顶级网络黑客技术]]></title>
         <id>https://news.ycombinator.com/item?id=30284022</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>olegious</name>
             <uri>https://news.ycombinator.com/user?id=olegious</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将进攻性逆向工程应用于Facebook游戏室（2021）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30134916</id>
-        <link href="https://news.ycombinator.com/item?id=30134916"/>
-        <updated>2022-01-30T07:43:28.000Z</updated>
-        <summary type="html"><![CDATA[Applying Offensive Reverse Engineering to Facebook Gameroom (2021)]]></summary>
-        <author>
-            <name>redbell</name>
-            <uri>https://news.ycombinator.com/user?id=redbell</uri>
         </author>
     </entry>
 </feed>
