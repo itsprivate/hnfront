@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T11:34:04.727Z</updated>
+    <updated>2022-02-10T12:12:38.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Padlet（YC W13）正在舊金山招聘高級Elixir工程師]]></title>
+        <id>https://news.ycombinator.com/item?id=30284992</id>
+        <link href="https://news.ycombinator.com/item?id=30284992"/>
+        <updated>2022-02-10T12:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Padlet (YC W13) Is Hiring Senior Elixir Engineers in San Francisco]]></summary>
+        <author>
+            <name>coffeebite</name>
+            <uri>https://news.ycombinator.com/user?id=coffeebite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[R7RS指數]]></title>
         <id>https://news.ycombinator.com/item?id=30272007</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>sitting_duck</name>
             <uri>https://news.ycombinator.com/user?id=sitting_duck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇觀的社會]]></title>
-        <id>https://news.ycombinator.com/item?id=30114787</id>
-        <link href="https://news.ycombinator.com/item?id=30114787"/>
-        <updated>2022-01-28T14:14:15.000Z</updated>
-        <summary type="html"><![CDATA[The Society of the Spectacle]]></summary>
-        <author>
-            <name>raldu</name>
-            <uri>https://news.ycombinator.com/user?id=raldu</uri>
         </author>
     </entry>
 </feed>
