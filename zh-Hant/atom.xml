@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T06:09:56.813Z</updated>
+    <updated>2022-02-10T06:33:13.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在美國比在英國更出名的詞，反之亦然]]></title>
+        <id>https://news.ycombinator.com/item?id=30281520</id>
+        <link href="https://news.ycombinator.com/item?id=30281520"/>
+        <updated>2022-02-10T01:51:55.000Z</updated>
+        <summary type="html"><![CDATA[Words known better in the US than in the UK, and vice versa]]></summary>
+        <author>
+            <name>yurivish</name>
+            <uri>https://news.ycombinator.com/user?id=yurivish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拉爾夫-阿默 - 讓我思考]]></title>
+        <id>https://news.ycombinator.com/item?id=30269350</id>
+        <link href="https://news.ycombinator.com/item?id=30269350"/>
+        <updated>2022-02-09T05:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Ralph Ammer – Make Me Think]]></summary>
+        <author>
+            <name>rileyphone</name>
+            <uri>https://news.ycombinator.com/user?id=rileyphone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nukemap的10年]]></title>
         <id>https://news.ycombinator.com/item?id=30282649</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我還沒有被I: 論費爾南多-佩索阿（2021年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30120732</id>
-        <link href="https://news.ycombinator.com/item?id=30120732"/>
-        <updated>2022-01-28T21:40:06.000Z</updated>
-        <summary type="html"><![CDATA[I haven’t been I: On Fernando Pessoa (2021)]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[backend.sql 和 frontend.js = ♥]]></title>
-        <id>https://news.ycombinator.com/item?id=30132947</id>
-        <link href="https://news.ycombinator.com/item?id=30132947"/>
-        <updated>2022-01-30T01:49:21.000Z</updated>
-        <summary type="html"><![CDATA[backend.sql and frontend.js = ♥]]></summary>
-        <author>
-            <name>nileshtrivedi</name>
-            <uri>https://news.ycombinator.com/user?id=nileshtrivedi</uri>
         </author>
     </entry>
 </feed>
