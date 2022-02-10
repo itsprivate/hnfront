@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T02:46:03.494Z</updated>
+    <updated>2022-02-10T02:53:42.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[山羊男孩的崛起 (1993)]]></title>
+        <id>https://news.ycombinator.com/item?id=30281451</id>
+        <link href="https://news.ycombinator.com/item?id=30281451"/>
+        <updated>2022-02-10T01:42:13.000Z</updated>
+        <summary type="html"><![CDATA[The Goat Boy Rises (1993)]]></summary>
+        <author>
+            <name>dearwell</name>
+            <uri>https://news.ycombinator.com/user?id=dearwell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大邦尼的酋長傳統]]></title>
         <id>https://news.ycombinator.com/item?id=30270256</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>stoicanalyst</name>
             <uri>https://news.ycombinator.com/user?id=stoicanalyst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大膽地走。星際迷航與分詞不定式]]></title>
-        <id>https://news.ycombinator.com/item?id=30126584</id>
-        <link href="https://news.ycombinator.com/item?id=30126584"/>
-        <updated>2022-01-29T14:37:36.000Z</updated>
-        <summary type="html"><![CDATA[To Boldly Go: Star Trek and the Split Infinitive]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
         </author>
     </entry>
 </feed>
