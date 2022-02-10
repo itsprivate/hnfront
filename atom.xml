@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T22:49:06.440Z</updated>
+    <updated>2022-02-10T23:09:30.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wordle现在重定向到纽约时报]]></title>
+        <id>https://news.ycombinator.com/item?id=30293297</id>
+        <link href="https://news.ycombinator.com/item?id=30293297"/>
+        <updated>2022-02-10T22:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Wordle Now Redirects to NYT]]></summary>
+        <author>
+            <name>klohto</name>
+            <uri>https://news.ycombinator.com/user?id=klohto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反对OOP的案例被低估了，而不是夸大了]]></title>
         <id>https://news.ycombinator.com/item?id=30293622</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxis软件的故事 (1999)]]></title>
-        <id>https://news.ycombinator.com/item?id=30141278</id>
-        <link href="https://news.ycombinator.com/item?id=30141278"/>
-        <updated>2022-01-30T21:25:13.000Z</updated>
-        <summary type="html"><![CDATA[The Story of Maxis Software (1999)]]></summary>
-        <author>
-            <name>ecliptik</name>
-            <uri>https://news.ycombinator.com/user?id=ecliptik</uri>
         </author>
     </entry>
 </feed>
