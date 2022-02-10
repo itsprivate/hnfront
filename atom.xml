@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T10:30:59.324Z</updated>
+    <updated>2022-02-10T11:07:10.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Cloudflare Tunnel从任何地方免费SSH进入你的私人机器]]></title>
+        <id>https://news.ycombinator.com/item?id=30283987</id>
+        <link href="https://news.ycombinator.com/item?id=30283987"/>
+        <updated>2022-02-10T09:18:51.000Z</updated>
+        <summary type="html"><![CDATA[SSH into your private machines from anywhere, for free, using Cloudflare Tunnel]]></summary>
+        <author>
+            <name>SpaghettiX</name>
+            <uri>https://news.ycombinator.com/user?id=SpaghettiX</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事件驱动的跑步后进入我的家门]]></title>
         <id>https://news.ycombinator.com/item?id=30257776</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>piinbinary</name>
             <uri>https://news.ycombinator.com/user?id=piinbinary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刚刚失去了50万美金吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30134500</id>
-        <link href="https://news.ycombinator.com/item?id=30134500"/>
-        <updated>2022-01-30T05:59:44.000Z</updated>
-        <summary type="html"><![CDATA[Did I just lose half a million dollars]]></summary>
-        <author>
-            <name>olegious</name>
-            <uri>https://news.ycombinator.com/user?id=olegious</uri>
         </author>
     </entry>
 </feed>
