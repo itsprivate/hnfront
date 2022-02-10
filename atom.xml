@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T15:09:56.976Z</updated>
+    <updated>2022-02-10T15:30:48.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年警察致命枪击1055人，是开始追踪以来的最高总数]]></title>
+        <id>https://news.ycombinator.com/item?id=30287108</id>
+        <link href="https://news.ycombinator.com/item?id=30287108"/>
+        <updated>2022-02-10T15:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Police fatally shot 1,055 people in 2021, highest total since tracking began]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5.4万年前现代人侵入尼安德特人的领地曼德林]]></title>
         <id>https://news.ycombinator.com/item?id=30286971</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Topolomancer</name>
             <uri>https://news.ycombinator.com/user?id=Topolomancer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世嘉在50年后退出街机业务]]></title>
-        <id>https://news.ycombinator.com/item?id=30122128</id>
-        <link href="https://news.ycombinator.com/item?id=30122128"/>
-        <updated>2022-01-28T23:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Sega quits arcade business after 50 years]]></summary>
-        <author>
-            <name>atombender</name>
-            <uri>https://news.ycombinator.com/user?id=atombender</uri>
         </author>
     </entry>
 </feed>
