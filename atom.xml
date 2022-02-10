@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T17:15:00.567Z</updated>
+    <updated>2022-02-10T17:31:20.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比尔-盖茨 我的大流行病新书即将问世]]></title>
+        <id>https://news.ycombinator.com/item?id=30287412</id>
+        <link href="https://news.ycombinator.com/item?id=30287412"/>
+        <updated>2022-02-10T15:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Bill Gates: My new pandemic book is coming soon]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Union54 (YC S21)正在招聘人员]]></title>
         <id>https://news.ycombinator.com/item?id=30289078</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>JNRowe</name>
             <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneSignal（YC S11）正在招聘有分布式系统经验的工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=30138797</id>
-        <link href="https://news.ycombinator.com/item?id=30138797"/>
-        <updated>2022-01-30T17:00:12.000Z</updated>
-        <summary type="html"><![CDATA[OneSignal (YC S11) is hiring engineers with distributed systems experience]]></summary>
-        <author>
-            <name>gdeglin</name>
-            <uri>https://news.ycombinator.com/user?id=gdeglin</uri>
         </author>
     </entry>
 </feed>
