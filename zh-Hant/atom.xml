@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-10T13:36:54.001Z</updated>
+    <updated>2022-02-10T14:09:10.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每個離開蘋果的員工都會成為 "合夥人"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30285682</id>
+        <link href="https://news.ycombinator.com/item?id=30285682"/>
+        <updated>2022-02-10T13:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Every employee who leaves Apple becomes an ‘associate’]]></summary>
+        <author>
+            <name>semiquaver</name>
+            <uri>https://news.ycombinator.com/user?id=semiquaver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我改變了對廣告的看法]]></title>
+        <id>https://news.ycombinator.com/item?id=30270450</id>
+        <link href="https://news.ycombinator.com/item?id=30270450"/>
+        <updated>2022-02-09T08:50:16.000Z</updated>
+        <summary type="html"><![CDATA[I changed my mind about advertising]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這是 "加農炮 "的終點嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30285291</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>drdee</name>
             <uri>https://news.ycombinator.com/user?id=drdee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新李森科主義]]></title>
-        <id>https://news.ycombinator.com/item?id=30137031</id>
-        <link href="https://news.ycombinator.com/item?id=30137031"/>
-        <updated>2022-01-30T13:33:57.000Z</updated>
-        <summary type="html"><![CDATA[The New Lysenkoism]]></summary>
-        <author>
-            <name>syntaxfree</name>
-            <uri>https://news.ycombinator.com/user?id=syntaxfree</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解耦交易。在抖動的服務器上進行低尾延時的交易]]></title>
-        <id>https://news.ycombinator.com/item?id=30123773</id>
-        <link href="https://news.ycombinator.com/item?id=30123773"/>
-        <updated>2022-01-29T04:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Decoupled Transactions: Low Tail Latency Transactions Atop Jittery Servers]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
