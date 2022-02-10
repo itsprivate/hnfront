@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 11:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[R7RS指数]]></title>
+            <link>https://news.ycombinator.com/item?id=30272007</link>
+            <guid>https://news.ycombinator.com/item?id=30272007</guid>
+            <pubDate>Wed, 09 Feb 2022 12:51:09 GMT</pubDate>
+            <description><![CDATA[R7RS Index]]></description>
+        </item>
         <item>
             <title><![CDATA[当我们谈论技术债务时，我们听起来像个傻瓜]]></title>
             <link>https://news.ycombinator.com/item?id=30284643</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30114787</guid>
             <pubDate>Fri, 28 Jan 2022 14:14:15 GMT</pubDate>
             <description><![CDATA[The Society of the Spectacle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只用电源线控制RGB LED。剖析圣诞灯串]]></title>
-            <link>https://news.ycombinator.com/item?id=30128379</link>
-            <guid>https://news.ycombinator.com/item?id=30128379</guid>
-            <pubDate>Sat, 29 Jan 2022 17:37:09 GMT</pubDate>
-            <description><![CDATA[Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string]]></description>
         </item>
     </channel>
 </rss>
