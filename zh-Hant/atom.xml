@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T01:43:07.317Z</updated>
+    <updated>2022-02-11T02:20:53.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星艦更新]]></title>
+        <id>https://news.ycombinator.com/item?id=30295923</id>
+        <link href="https://news.ycombinator.com/item?id=30295923"/>
+        <updated>2022-02-11T02:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Starship Update]]></summary>
+        <author>
+            <name>ofou</name>
+            <uri>https://news.ycombinator.com/user?id=ofou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的解密文件揭示了以前秘密的中情局批量收集的情況]]></title>
+        <id>https://news.ycombinator.com/item?id=30295532</id>
+        <link href="https://news.ycombinator.com/item?id=30295532"/>
+        <updated>2022-02-11T01:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Newly Declassified Docs Reveal Previously Secret CIA Bulk Collection]]></summary>
+        <author>
+            <name>sneak</name>
+            <uri>https://news.ycombinator.com/user?id=sneak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[塗鴉移動電話（Graffiti Mobili]]></title>
+        <id>https://news.ycombinator.com/item?id=30276031</id>
+        <link href="https://news.ycombinator.com/item?id=30276031"/>
+        <updated>2022-02-09T18:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Graffiti Mobili]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atlas (YC W22) 正在招聘 - UIUX設計師]]></title>
         <id>https://news.ycombinator.com/item?id=30295364</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>stargrave</name>
             <uri>https://news.ycombinator.com/user?id=stargrave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遊戲性能優化--來自工業閒置的實際案例]]></title>
-        <id>https://news.ycombinator.com/item?id=30131387</id>
-        <link href="https://news.ycombinator.com/item?id=30131387"/>
-        <updated>2022-01-29T22:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Game performance optimization – A practical example from Industry Idle]]></summary>
-        <author>
-            <name>insraq</name>
-            <uri>https://news.ycombinator.com/user?id=insraq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤利西斯在100年：現代的誕生]]></title>
-        <id>https://news.ycombinator.com/item?id=30141426</id>
-        <link href="https://news.ycombinator.com/item?id=30141426"/>
-        <updated>2022-01-30T21:43:22.000Z</updated>
-        <summary type="html"><![CDATA[Ulysses at 100: The Birth of the Modern]]></summary>
-        <author>
-            <name>kkwteh</name>
-            <uri>https://news.ycombinator.com/user?id=kkwteh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狡猾的SQL。使用本地PostgreSQL的消息隊列]]></title>
-        <id>https://news.ycombinator.com/item?id=30119285</id>
-        <link href="https://news.ycombinator.com/item?id=30119285"/>
-        <updated>2022-01-28T19:33:57.000Z</updated>
-        <summary type="html"><![CDATA[Devious SQL: Message Queuing Using Native PostgreSQL]]></summary>
-        <author>
-            <name>Scramblejams</name>
-            <uri>https://news.ycombinator.com/user?id=Scramblejams</uri>
         </author>
     </entry>
 </feed>
