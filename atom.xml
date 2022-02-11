@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T17:28:59.546Z</updated>
+    <updated>2022-02-11T17:49:27.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LaserShark: 建立快速、双向的通信，进入气隙系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30304161</id>
+        <link href="https://news.ycombinator.com/item?id=30304161"/>
+        <updated>2022-02-11T17:26:55.000Z</updated>
+        <summary type="html"><![CDATA[LaserShark: Establish Fast, Bidirectional Communication into Air-Gapped Systems]]></summary>
+        <author>
+            <name>dloss</name>
+            <uri>https://news.ycombinator.com/user?id=dloss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30304053</id>
+        <link href="https://news.ycombinator.com/item?id=30304053"/>
+        <updated>2022-02-11T17:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Problems?]]></summary>
+        <author>
+            <name>stygiansonic</name>
+            <uri>https://news.ycombinator.com/user?id=stygiansonic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[零经验的应届毕业生如何被聘为高级工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30303891</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>Swizec</name>
             <uri>https://news.ycombinator.com/user?id=Swizec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[艰难地学习Elisp (2011)]]></title>
-        <id>https://news.ycombinator.com/item?id=30149213</id>
-        <link href="https://news.ycombinator.com/item?id=30149213"/>
-        <updated>2022-01-31T15:44:31.000Z</updated>
-        <summary type="html"><![CDATA[Learn Elisp the Hard Way (2011)]]></summary>
-        <author>
-            <name>AndroidKitKat</name>
-            <uri>https://news.ycombinator.com/user?id=AndroidKitKat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xorg更新添加触摸板手势和可变刷新支持（2021年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30149129</id>
-        <link href="https://news.ycombinator.com/item?id=30149129"/>
-        <updated>2022-01-31T15:37:52.000Z</updated>
-        <summary type="html"><![CDATA[Xorg update adds touchpad gestures and variable refresh support (2021)]]></summary>
-        <author>
-            <name>irthomasthomas</name>
-            <uri>https://news.ycombinator.com/user?id=irthomasthomas</uri>
         </author>
     </entry>
 </feed>
