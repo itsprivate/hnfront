@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T14:09:11.370Z</updated>
+    <updated>2022-02-11T14:26:12.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Apache Kafka构建实时ETL管道]]></title>
+        <id>https://news.ycombinator.com/item?id=30301375</id>
+        <link href="https://news.ycombinator.com/item?id=30301375"/>
+        <updated>2022-02-11T13:44:38.000Z</updated>
+        <summary type="html"><![CDATA[Building real-time ETL pipelines with Apache Kafka]]></summary>
+        <author>
+            <name>flippingbits</name>
+            <uri>https://news.ycombinator.com/user?id=flippingbits</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个优化的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30301324</id>
+        <link href="https://news.ycombinator.com/item?id=30301324"/>
+        <updated>2022-02-11T13:40:42.000Z</updated>
+        <summary type="html"><![CDATA[An Optimization Story]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我使用苹果AirTags、瓷砖和GPS追踪器来监视我丈夫的一举一动]]></title>
+        <id>https://news.ycombinator.com/item?id=30301271</id>
+        <link href="https://news.ycombinator.com/item?id=30301271"/>
+        <updated>2022-02-11T13:35:17.000Z</updated>
+        <summary type="html"><![CDATA[I Used Apple AirTags, Tiles and a GPS Tracker to Watch My Husband’s Every Move]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何知道你是否上瘾了]]></title>
         <id>https://news.ycombinator.com/item?id=30301309</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>DiabloD3</name>
             <uri>https://news.ycombinator.com/user?id=DiabloD3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雇用自觉性的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30124927</id>
-        <link href="https://news.ycombinator.com/item?id=30124927"/>
-        <updated>2022-01-29T09:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Hiring for Conscientiousness]]></summary>
-        <author>
-            <name>rognjen</name>
-            <uri>https://news.ycombinator.com/user?id=rognjen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1k周期的锂硫电池可使电动汽车的续航能力提高五倍]]></title>
-        <id>https://news.ycombinator.com/item?id=30146843</id>
-        <link href="https://news.ycombinator.com/item?id=30146843"/>
-        <updated>2022-01-31T11:20:54.000Z</updated>
-        <summary type="html"><![CDATA[1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges]]></summary>
-        <author>
-            <name>maeln</name>
-            <uri>https://news.ycombinator.com/user?id=maeln</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convictional（YC W19）正在招聘工程师，以建立B2B贸易的未来。]]></title>
-        <id>https://news.ycombinator.com/item?id=30147052</id>
-        <link href="https://news.ycombinator.com/item?id=30147052"/>
-        <updated>2022-01-31T12:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote]]></summary>
-        <author>
-            <name>rogerkirkness</name>
-            <uri>https://news.ycombinator.com/user?id=rogerkirkness</uri>
         </author>
     </entry>
 </feed>
