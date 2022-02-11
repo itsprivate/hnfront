@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T11:08:25.418Z</updated>
+    <updated>2022-02-11T11:25:04.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nike.com的robots.txt]]></title>
+        <id>https://news.ycombinator.com/item?id=30299731</id>
+        <link href="https://news.ycombinator.com/item?id=30299731"/>
+        <updated>2022-02-11T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Nike.com's robots.txt]]></summary>
+        <author>
+            <name>r_singh</name>
+            <uri>https://news.ycombinator.com/user?id=r_singh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YSFlight - 唯一的免费飞行模拟器，一切皆有可能]]></title>
         <id>https://news.ycombinator.com/item?id=30299850</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>indigodaddy</name>
             <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请制造一辆笨重的汽车]]></title>
-        <id>https://news.ycombinator.com/item?id=30144101</id>
-        <link href="https://news.ycombinator.com/item?id=30144101"/>
-        <updated>2022-01-31T03:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Please Make a Dumb Car]]></summary>
-        <author>
-            <name>wrycoder</name>
-            <uri>https://news.ycombinator.com/user?id=wrycoder</uri>
         </author>
     </entry>
 </feed>
