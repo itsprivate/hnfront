@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T19:07:22.080Z</updated>
+    <updated>2022-02-11T19:22:40.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tim O'Reilly談Web3："準備好迎接崩潰"]]></title>
+        <id>https://news.ycombinator.com/item?id=30305408</id>
+        <link href="https://news.ycombinator.com/item?id=30305408"/>
+        <updated>2022-02-11T18:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Tim O'Reilly on Web3: “Get ready for the crash”]]></summary>
+        <author>
+            <name>kordlessagain</name>
+            <uri>https://news.ycombinator.com/user?id=kordlessagain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[談到為什麼Linaro每年會構建、啟動和測試超過一百萬個Linux內核，以及如何構建、啟動和測試這些內核。]]></title>
+        <id>https://news.ycombinator.com/item?id=30284689</id>
+        <link href="https://news.ycombinator.com/item?id=30284689"/>
+        <updated>2022-02-10T11:11:55.000Z</updated>
+        <summary type="html"><![CDATA[How and why Linaro builds, boots and tests over a million Linux kernels per year]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotify看到取消頁面的流量激增。一週比一週增長196%。]]></title>
         <id>https://news.ycombinator.com/item?id=30305123</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>JNRowe</name>
             <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svix（YC W21）正在招聘Rust後端工程師（遠程）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30150282</id>
-        <link href="https://news.ycombinator.com/item?id=30150282"/>
-        <updated>2022-01-31T17:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Svix (YC W21) Is Hiring a Rust Back End Engineer (Remote)]]></summary>
-        <author>
-            <name>tasn</name>
-            <uri>https://news.ycombinator.com/user?id=tasn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何處理技術債務並對其進行優先排序]]></title>
-        <id>https://news.ycombinator.com/item?id=30149864</id>
-        <link href="https://news.ycombinator.com/item?id=30149864"/>
-        <updated>2022-01-31T16:31:29.000Z</updated>
-        <summary type="html"><![CDATA[How to Approach and Prioritize Technical Debt]]></summary>
-        <author>
-            <name>ochronus</name>
-            <uri>https://news.ycombinator.com/user?id=ochronus</uri>
         </author>
     </entry>
 </feed>
