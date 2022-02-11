@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 11 Feb 2022 04:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[測試分佈式系統]]></title>
+            <link>https://news.ycombinator.com/item?id=30296770</link>
+            <guid>https://news.ycombinator.com/item?id=30296770</guid>
+            <pubDate>Fri, 11 Feb 2022 03:59:27 GMT</pubDate>
+            <description><![CDATA[Testing Distributed Systems]]></description>
+        </item>
+        <item>
+            <title><![CDATA[可以幫助你寫出更好的JavaScript的FP技術]]></title>
+            <link>https://news.ycombinator.com/item?id=30283361</link>
+            <guid>https://news.ycombinator.com/item?id=30283361</guid>
+            <pubDate>Thu, 10 Feb 2022 07:33:59 GMT</pubDate>
+            <description><![CDATA[FP techniques that will help you write better JavaScript]]></description>
+        </item>
         <item>
             <title><![CDATA[教育的未來看起來很像TikTok和Twitter]]></title>
             <link>https://news.ycombinator.com/item?id=30296727</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30143375</guid>
             <pubDate>Mon, 31 Jan 2022 01:29:38 GMT</pubDate>
             <description><![CDATA[Lizard Scale Patterns Described with Antiferromagnetic Model]]></description>
-        </item>
-        <item>
-            <title><![CDATA[網絡的現狀。靜態網站生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30142558</link>
-            <guid>https://news.ycombinator.com/item?id=30142558</guid>
-            <pubDate>Sun, 30 Jan 2022 23:47:43 GMT</pubDate>
-            <description><![CDATA[State of the Web: Static Site Generators]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於浸泡]]></title>
-            <link>https://news.ycombinator.com/item?id=30128193</link>
-            <guid>https://news.ycombinator.com/item?id=30128193</guid>
-            <pubDate>Sat, 29 Jan 2022 17:23:26 GMT</pubDate>
-            <description><![CDATA[On Immersion]]></description>
         </item>
     </channel>
 </rss>

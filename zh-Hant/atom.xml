@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T04:36:14.799Z</updated>
+    <updated>2022-02-11T04:53:22.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[測試分佈式系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30296770</id>
+        <link href="https://news.ycombinator.com/item?id=30296770"/>
+        <updated>2022-02-11T03:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Testing Distributed Systems]]></summary>
+        <author>
+            <name>ngaut</name>
+            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可以幫助你寫出更好的JavaScript的FP技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30283361</id>
+        <link href="https://news.ycombinator.com/item?id=30283361"/>
+        <updated>2022-02-10T07:33:59.000Z</updated>
+        <summary type="html"><![CDATA[FP techniques that will help you write better JavaScript]]></summary>
+        <author>
+            <name>sunilsandhu</name>
+            <uri>https://news.ycombinator.com/user?id=sunilsandhu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教育的未來看起來很像TikTok和Twitter]]></title>
         <id>https://news.ycombinator.com/item?id=30296727</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>shusaku</name>
             <uri>https://news.ycombinator.com/user?id=shusaku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡的現狀。靜態網站生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30142558</id>
-        <link href="https://news.ycombinator.com/item?id=30142558"/>
-        <updated>2022-01-30T23:47:43.000Z</updated>
-        <summary type="html"><![CDATA[State of the Web: Static Site Generators]]></summary>
-        <author>
-            <name>AsyncBanana</name>
-            <uri>https://news.ycombinator.com/user?id=AsyncBanana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於浸泡]]></title>
-        <id>https://news.ycombinator.com/item?id=30128193</id>
-        <link href="https://news.ycombinator.com/item?id=30128193"/>
-        <updated>2022-01-29T17:23:26.000Z</updated>
-        <summary type="html"><![CDATA[On Immersion]]></summary>
-        <author>
-            <name>artmare</name>
-            <uri>https://news.ycombinator.com/user?id=artmare</uri>
         </author>
     </entry>
 </feed>
