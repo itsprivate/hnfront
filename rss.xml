@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 11 Feb 2022 13:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 13:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[风力发电站激增，涡轮机对希腊岛民的 "折磨"]]></title>
+            <link>https://news.ycombinator.com/item?id=30300551</link>
+            <guid>https://news.ycombinator.com/item?id=30300551</guid>
+            <pubDate>Fri, 11 Feb 2022 12:21:17 GMT</pubDate>
+            <description><![CDATA[Turbine “torture” for Greek islanders as wind farms proliferate]]></description>
+        </item>
         <item>
             <title><![CDATA[osmf: 一个简单的命令行工具来探索OSM数据]]></title>
             <link>https://news.ycombinator.com/item?id=30300693</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30146019</guid>
             <pubDate>Mon, 31 Jan 2022 09:04:12 GMT</pubDate>
             <description><![CDATA[Boyfriend Alert]]></description>
-        </item>
-        <item>
-            <title><![CDATA[异步Rust。恐慌与取消]]></title>
-            <link>https://news.ycombinator.com/item?id=30114822</link>
-            <guid>https://news.ycombinator.com/item?id=30114822</guid>
-            <pubDate>Fri, 28 Jan 2022 14:16:43 GMT</pubDate>
-            <description><![CDATA[Async Rust: Panics vs. Cancellation]]></description>
         </item>
     </channel>
 </rss>
