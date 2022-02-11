@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 11 Feb 2022 08:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 08:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特十年來的重大緩存事件]]></title>
+            <link>https://news.ycombinator.com/item?id=30295542</link>
+            <guid>https://news.ycombinator.com/item?id=30295542</guid>
+            <pubDate>Fri, 11 Feb 2022 01:22:15 GMT</pubDate>
+            <description><![CDATA[A decade of major cache incidents at Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[舊金山生病了]]></title>
             <link>https://news.ycombinator.com/item?id=30297662</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30129565</guid>
             <pubDate>Sat, 29 Jan 2022 19:30:11 GMT</pubDate>
             <description><![CDATA[Static-Let, or how I Learned to stop worrying and love Load-Time-Value]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用AlphaZero重新想象國際象棋]]></title>
-            <link>https://news.ycombinator.com/item?id=30144108</link>
-            <guid>https://news.ycombinator.com/item?id=30144108</guid>
-            <pubDate>Mon, 31 Jan 2022 03:25:37 GMT</pubDate>
-            <description><![CDATA[Reimagining Chess with AlphaZero]]></description>
         </item>
     </channel>
 </rss>
