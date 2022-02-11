@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T10:09:29.611Z</updated>
+    <updated>2022-02-11T10:30:24.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[60FPS變成了Slint]]></title>
+        <id>https://news.ycombinator.com/item?id=30298534</id>
+        <link href="https://news.ycombinator.com/item?id=30298534"/>
+        <updated>2022-02-11T08:11:14.000Z</updated>
+        <summary type="html"><![CDATA[SixtyFPS Becomes Slint]]></summary>
+        <author>
+            <name>tronical</name>
+            <uri>https://news.ycombinator.com/user?id=tronical</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[類似地球的行星被發現圍繞太陽最近的恆星運行]]></title>
+        <id>https://news.ycombinator.com/item?id=30298474</id>
+        <link href="https://news.ycombinator.com/item?id=30298474"/>
+        <updated>2022-02-11T08:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Earth-like planet spotted orbiting Sun’s closest star]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3的算術題答案]]></title>
         <id>https://news.ycombinator.com/item?id=30299360</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些城市的房租上漲40%，迫使數百萬人搬遷]]></title>
-        <id>https://news.ycombinator.com/item?id=30144083</id>
-        <link href="https://news.ycombinator.com/item?id=30144083"/>
-        <updated>2022-01-31T03:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Rents are up 40 percent in some cities, forcing millions to move]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由於缺乏對合適的工廠的投資，導致芯片短缺]]></title>
-        <id>https://news.ycombinator.com/item?id=30124457</id>
-        <link href="https://news.ycombinator.com/item?id=30124457"/>
-        <updated>2022-01-29T07:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Chip shortages due to lack of investment in right fabs]]></summary>
-        <author>
-            <name>laktak</name>
-            <uri>https://news.ycombinator.com/user?id=laktak</uri>
         </author>
     </entry>
 </feed>
