@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T04:53:22.525Z</updated>
+    <updated>2022-02-11T05:48:55.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的植物来源的复合材料像骨头一样坚硬，像铝一样坚硬]]></title>
+        <id>https://news.ycombinator.com/item?id=30297169</id>
+        <link href="https://news.ycombinator.com/item?id=30297169"/>
+        <updated>2022-02-11T04:55:44.000Z</updated>
+        <summary type="html"><![CDATA[New plant-derived composite is tough as bone and hard as aluminum]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试分布式系统]]></title>
         <id>https://news.ycombinator.com/item?id=30296770</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用反铁磁模型描述的蜥蜴鳞片图案]]></title>
-        <id>https://news.ycombinator.com/item?id=30143375</id>
-        <link href="https://news.ycombinator.com/item?id=30143375"/>
-        <updated>2022-01-31T01:29:38.000Z</updated>
-        <summary type="html"><![CDATA[Lizard Scale Patterns Described with Antiferromagnetic Model]]></summary>
-        <author>
-            <name>shusaku</name>
-            <uri>https://news.ycombinator.com/user?id=shusaku</uri>
         </author>
     </entry>
 </feed>
