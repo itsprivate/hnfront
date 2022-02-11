@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T02:20:53.310Z</updated>
+    <updated>2022-02-11T02:49:04.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戰地的發明]]></title>
+        <id>https://news.ycombinator.com/item?id=30295688</id>
+        <link href="https://news.ycombinator.com/item?id=30295688"/>
+        <updated>2022-02-11T01:40:08.000Z</updated>
+        <summary type="html"><![CDATA[The Invention of Battlezone]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美能達X-700光圈優先模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30282766</id>
+        <link href="https://news.ycombinator.com/item?id=30282766"/>
+        <updated>2022-02-10T05:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Minolta X-700 Aperture Priority Mode]]></summary>
+        <author>
+            <name>ynac</name>
+            <uri>https://news.ycombinator.com/user?id=ynac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星艦更新]]></title>
         <id>https://news.ycombinator.com/item?id=30295923</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>basementcat</name>
             <uri>https://news.ycombinator.com/user?id=basementcat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈代、拉馬努揚和出租車1729號]]></title>
-        <id>https://news.ycombinator.com/item?id=30140835</id>
-        <link href="https://news.ycombinator.com/item?id=30140835"/>
-        <updated>2022-01-30T20:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Hardy, Ramanujan and Taxi No. 1729]]></summary>
-        <author>
-            <name>johncarlosbaez</name>
-            <uri>https://news.ycombinator.com/user?id=johncarlosbaez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我不使用Let's Encrypt？]]></title>
-        <id>https://news.ycombinator.com/item?id=30141646</id>
-        <link href="https://news.ycombinator.com/item?id=30141646"/>
-        <updated>2022-01-30T22:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Why I won’t use Let’s Encrypt]]></summary>
-        <author>
-            <name>stargrave</name>
-            <uri>https://news.ycombinator.com/user?id=stargrave</uri>
         </author>
     </entry>
 </feed>
