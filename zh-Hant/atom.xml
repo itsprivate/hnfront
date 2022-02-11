@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T11:25:04.141Z</updated>
+    <updated>2022-02-11T11:49:19.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從Netlify遷移到Cloudflare工人網站以獲得2倍的性能（2020）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30299786</id>
+        <link href="https://news.ycombinator.com/item?id=30299786"/>
+        <updated>2022-02-11T10:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Migrating from Netlify to Cloudflare Workers Sites for 2x Performance (2020)]]></summary>
+        <author>
+            <name>indigodaddy</name>
+            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nike.com的robots.txt]]></title>
         <id>https://news.ycombinator.com/item?id=30299731</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Caddy從Markdown文件生成靜態網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30145237</id>
-        <link href="https://news.ycombinator.com/item?id=30145237"/>
-        <updated>2022-01-31T06:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Generate Static Sites from Markdown Files with Caddy]]></summary>
-        <author>
-            <name>indigodaddy</name>
-            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
         </author>
     </entry>
 </feed>
