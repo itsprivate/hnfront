@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T12:42:43.296Z</updated>
+    <updated>2022-02-11T13:18:48.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[osmf: 一个简单的命令行工具来探索OSM数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30300693</id>
+        <link href="https://news.ycombinator.com/item?id=30300693"/>
+        <updated>2022-02-11T12:37:32.000Z</updated>
+        <summary type="html"><![CDATA[osmf: A simple command-line tool to explore OSM data]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年，"所有原因的死亡 "意外地增加了40%。]]></title>
         <id>https://news.ycombinator.com/item?id=30300485</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芬兰外交官的手机感染NSO集团Pegasus间谍软件]]></title>
-        <id>https://news.ycombinator.com/item?id=30146042</id>
-        <link href="https://news.ycombinator.com/item?id=30146042"/>
-        <updated>2022-01-31T09:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Finnish diplomats’ phones infected with NSO Group Pegasus spyware]]></summary>
-        <author>
-            <name>beermonster</name>
-            <uri>https://news.ycombinator.com/user?id=beermonster</uri>
         </author>
     </entry>
 </feed>
