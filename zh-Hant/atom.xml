@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T07:34:21.816Z</updated>
+    <updated>2022-02-11T08:31:53.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[舊金山生病了]]></title>
+        <id>https://news.ycombinator.com/item?id=30297662</id>
+        <link href="https://news.ycombinator.com/item?id=30297662"/>
+        <updated>2022-02-11T06:07:24.000Z</updated>
+        <summary type="html"><![CDATA[San Francisco Is Sick]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Booking.com剛剛解僱了世界各地的數千人]]></title>
         <id>https://news.ycombinator.com/item?id=30297890</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>joak</name>
             <uri>https://news.ycombinator.com/user?id=joak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[進化健身房。進化軟體機器人的大規模基準]]></title>
-        <id>https://news.ycombinator.com/item?id=30141605</id>
-        <link href="https://news.ycombinator.com/item?id=30141605"/>
-        <updated>2022-01-30T22:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
         </author>
     </entry>
 </feed>
