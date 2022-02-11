@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T18:09:56.893Z</updated>
+    <updated>2022-02-11T19:07:22.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Spotify看到取消页面的流量激增。一周比一周增长196%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30305123</id>
+        <link href="https://news.ycombinator.com/item?id=30305123"/>
+        <updated>2022-02-11T18:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Spotify sees spike in traffic to cancellation page: 196% week-on-week]]></summary>
+        <author>
+            <name>onpedrof</name>
+            <uri>https://news.ycombinator.com/user?id=onpedrof</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特似乎有一些问题]]></title>
         <id>https://news.ycombinator.com/item?id=30304655</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ochronus</name>
             <uri>https://news.ycombinator.com/user?id=ochronus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨大的Pyrosome]]></title>
-        <id>https://news.ycombinator.com/item?id=30149844</id>
-        <link href="https://news.ycombinator.com/item?id=30149844"/>
-        <updated>2022-01-31T16:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Giant Pyrosome]]></summary>
-        <author>
-            <name>integrale</name>
-            <uri>https://news.ycombinator.com/user?id=integrale</uri>
         </author>
     </entry>
 </feed>
