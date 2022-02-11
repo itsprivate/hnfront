@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T22:08:51.461Z</updated>
+    <updated>2022-02-11T22:27:18.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[愛因斯坦是如何得出他的廣義相對論的]]></title>
+        <id>https://news.ycombinator.com/item?id=30306190</id>
+        <link href="https://news.ycombinator.com/item?id=30306190"/>
+        <updated>2022-02-11T19:50:45.000Z</updated>
+        <summary type="html"><![CDATA[How Einstein arrived at his theory of general relativity]]></summary>
+        <author>
+            <name>8ytecoder</name>
+            <uri>https://news.ycombinator.com/user?id=8ytecoder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BeyondCorp已死，BeyondCorp萬歲]]></title>
+        <id>https://news.ycombinator.com/item?id=30278470</id>
+        <link href="https://news.ycombinator.com/item?id=30278470"/>
+        <updated>2022-02-09T21:06:15.000Z</updated>
+        <summary type="html"><![CDATA[BeyondCorp is dead, long live BeyondCorp]]></summary>
+        <author>
+            <name>tptacek</name>
+            <uri>https://news.ycombinator.com/user?id=tptacek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德諾的介紹。它比Node.js好嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30307409</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>WallyFunk</name>
             <uri>https://news.ycombinator.com/user?id=WallyFunk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一對一的不合理的有效性]]></title>
-        <id>https://news.ycombinator.com/item?id=30152268</id>
-        <link href="https://news.ycombinator.com/item?id=30152268"/>
-        <updated>2022-01-31T18:47:46.000Z</updated>
-        <summary type="html"><![CDATA[The unreasonable effectiveness of one-on-ones]]></summary>
-        <author>
-            <name>sebg</name>
-            <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夫婦發現115年曆史的建築牆後藏有兩幅60英尺長的壁畫]]></title>
-        <id>https://news.ycombinator.com/item?id=30129652</id>
-        <link href="https://news.ycombinator.com/item?id=30129652"/>
-        <updated>2022-01-29T19:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Couple discovers two 60-foot-long murals hidden behind walls of 115-yo building]]></summary>
-        <author>
-            <name>wglb</name>
-            <uri>https://news.ycombinator.com/user?id=wglb</uri>
         </author>
     </entry>
 </feed>
