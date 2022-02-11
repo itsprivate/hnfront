@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-11T22:35:42.714Z</updated>
+    <updated>2022-02-11T23:27:40.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由人類心臟細胞製成的生物雜交魚能像心臟一樣游泳]]></title>
+        <id>https://news.ycombinator.com/item?id=30299775</id>
+        <link href="https://news.ycombinator.com/item?id=30299775"/>
+        <updated>2022-02-11T10:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Biohybrid fish made from human cardiac cells swims like the heart beats]]></summary>
+        <author>
+            <name>yeellow</name>
+            <uri>https://news.ycombinator.com/user?id=yeellow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核心戰爭]]></title>
         <id>https://news.ycombinator.com/item?id=30299617</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>nserrino</name>
             <uri>https://news.ycombinator.com/user?id=nserrino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亨利三世的金便士為何失敗]]></title>
-        <id>https://news.ycombinator.com/item?id=30153547</id>
-        <link href="https://news.ycombinator.com/item?id=30153547"/>
-        <updated>2022-01-31T20:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Why Henry III's gold penny failed]]></summary>
-        <author>
-            <name>maxwell</name>
-            <uri>https://news.ycombinator.com/user?id=maxwell</uri>
         </author>
     </entry>
 </feed>
