@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T22:12:11.871Z</updated>
+    <updated>2022-02-12T22:49:00.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Rust中製作一個Lox解釋器，第一部分]]></title>
+        <id>https://news.ycombinator.com/item?id=30301835</id>
+        <link href="https://news.ycombinator.com/item?id=30301835"/>
+        <updated>2022-02-11T14:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Crafting a Lox Interpreter in Rust, Part 1]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dino 0.3: 視頻通話和會議 - 加密的和點對點的]]></title>
         <id>https://news.ycombinator.com/item?id=30316755</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位天體物理學博士如何思考數據問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30166395</id>
-        <link href="https://news.ycombinator.com/item?id=30166395"/>
-        <updated>2022-02-01T17:56:14.000Z</updated>
-        <summary type="html"><![CDATA[How a PhD astrophysicist thinks about data]]></summary>
-        <author>
-            <name>izzymiller</name>
-            <uri>https://news.ycombinator.com/user?id=izzymiller</uri>
         </author>
     </entry>
 </feed>
