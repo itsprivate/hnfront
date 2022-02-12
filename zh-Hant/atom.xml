@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T03:48:58.412Z</updated>
+    <updated>2022-02-12T04:10:35.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DoltLab v0.2.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30309498</id>
+        <link href="https://news.ycombinator.com/item?id=30309498"/>
+        <updated>2022-02-12T02:54:27.000Z</updated>
+        <summary type="html"><![CDATA[DoltLab v0.2.0]]></summary>
+        <author>
+            <name>mjangle1985</name>
+            <uri>https://news.ycombinator.com/user?id=mjangle1985</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事故。2022年2月10日，亞洲航空公司A320在古晉附近，飛機上有蛇。]]></title>
         <id>https://news.ycombinator.com/item?id=30309644</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>jesprenj</name>
             <uri>https://news.ycombinator.com/user?id=jesprenj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SimpleDB: 一個從零開始的基本RDBMS]]></title>
-        <id>https://news.ycombinator.com/item?id=30156048</id>
-        <link href="https://news.ycombinator.com/item?id=30156048"/>
-        <updated>2022-01-31T23:03:33.000Z</updated>
-        <summary type="html"><![CDATA[SimpleDB: A Basic RDBMS Built from Scratch]]></summary>
-        <author>
-            <name>hackthesystem</name>
-            <uri>https://news.ycombinator.com/user?id=hackthesystem</uri>
         </author>
     </entry>
 </feed>
