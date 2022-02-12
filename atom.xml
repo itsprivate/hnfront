@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T17:49:23.559Z</updated>
+    <updated>2022-02-12T18:10:04.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Sci-Hub的统计数据和数据库现在可用]]></title>
+        <id>https://news.ycombinator.com/item?id=30314601</id>
+        <link href="https://news.ycombinator.com/item?id=30314601"/>
+        <updated>2022-02-12T17:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Sci-Hub statistics and database are now available]]></summary>
+        <author>
+            <name>NmAmDa</name>
+            <uri>https://news.ycombinator.com/user?id=NmAmDa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信号反思。为什么联合协议不起作用]]></title>
         <id>https://news.ycombinator.com/item?id=30314454</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>throwawayffffas</name>
             <uri>https://news.ycombinator.com/user?id=throwawayffffas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetch API已经登陆到Node.js中了]]></title>
-        <id>https://news.ycombinator.com/item?id=30161626</id>
-        <link href="https://news.ycombinator.com/item?id=30161626"/>
-        <updated>2022-02-01T12:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Fetch API has landed into Node.js]]></summary>
-        <author>
-            <name>yamafaktory</name>
-            <uri>https://news.ycombinator.com/user?id=yamafaktory</uri>
         </author>
     </entry>
 </feed>
