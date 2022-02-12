@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T23:08:42.641Z</updated>
+    <updated>2022-02-12T23:27:12.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[實現可互操作的FPGA工具的FPGA互換格式]]></title>
+        <id>https://news.ycombinator.com/item?id=30317317</id>
+        <link href="https://news.ycombinator.com/item?id=30317317"/>
+        <updated>2022-02-12T23:11:38.000Z</updated>
+        <summary type="html"><![CDATA[FPGA Interchange format to enable interoperable FPGA tooling]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP/3：關於下一代網絡協議你需要知道的一切]]></title>
+        <id>https://news.ycombinator.com/item?id=30317218</id>
+        <link href="https://news.ycombinator.com/item?id=30317218"/>
+        <updated>2022-02-12T22:57:08.000Z</updated>
+        <summary type="html"><![CDATA[HTTP/3: Everything you need to know about the next-generation web protocol]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mutt 2.2.0]]></title>
         <id>https://news.ycombinator.com/item?id=30317229</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>a_t48</name>
             <uri>https://news.ycombinator.com/user?id=a_t48</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雲訪問管理的新範式]]></title>
-        <id>https://news.ycombinator.com/item?id=30166186</id>
-        <link href="https://news.ycombinator.com/item?id=30166186"/>
-        <updated>2022-02-01T17:42:15.000Z</updated>
-        <summary type="html"><![CDATA[A new paradigm for cloud access management]]></summary>
-        <author>
-            <name>yasyfm</name>
-            <uri>https://news.ycombinator.com/user?id=yasyfm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國政府計劃讓軟件公司對漏洞造成的損失承擔責任]]></title>
-        <id>https://news.ycombinator.com/item?id=30166915</id>
-        <link href="https://news.ycombinator.com/item?id=30166915"/>
-        <updated>2022-02-01T18:29:06.000Z</updated>
-        <summary type="html"><![CDATA[German gov plans software company's liability for damages caused by vulns]]></summary>
-        <author>
-            <name>sva_</name>
-            <uri>https://news.ycombinator.com/user?id=sva_</uri>
         </author>
     </entry>
 </feed>
