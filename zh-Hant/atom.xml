@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T10:48:48.198Z</updated>
+    <updated>2022-02-12T11:24:02.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於Flutter開發你應該知道的一切]]></title>
+        <id>https://news.ycombinator.com/item?id=30311329</id>
+        <link href="https://news.ycombinator.com/item?id=30311329"/>
+        <updated>2022-02-12T09:24:13.000Z</updated>
+        <summary type="html"><![CDATA[All you should know about Flutter development]]></summary>
+        <author>
+            <name>xsnepaul</name>
+            <uri>https://news.ycombinator.com/user?id=xsnepaul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否在一個宗教團體中？接受測試]]></title>
         <id>https://news.ycombinator.com/item?id=30311535</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[容器不只適用於Kubernetes]]></title>
-        <id>https://news.ycombinator.com/item?id=30158894</id>
-        <link href="https://news.ycombinator.com/item?id=30158894"/>
-        <updated>2022-02-01T05:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Containers are not just for Kubernetes]]></summary>
-        <author>
-            <name>intrepidsoldier</name>
-            <uri>https://news.ycombinator.com/user?id=intrepidsoldier</uri>
         </author>
     </entry>
 </feed>

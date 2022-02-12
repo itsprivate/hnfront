@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Feb 2022 10:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 11:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於Flutter開發你應該知道的一切]]></title>
+            <link>https://news.ycombinator.com/item?id=30311329</link>
+            <guid>https://news.ycombinator.com/item?id=30311329</guid>
+            <pubDate>Sat, 12 Feb 2022 09:24:13 GMT</pubDate>
+            <description><![CDATA[All you should know about Flutter development]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否在一個宗教團體中？接受測試]]></title>
             <link>https://news.ycombinator.com/item?id=30311535</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30158901</guid>
             <pubDate>Tue, 01 Feb 2022 05:17:11 GMT</pubDate>
             <description><![CDATA[A Transistor for Sound Points Toward Whole New Electronics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[容器不只適用於Kubernetes]]></title>
-            <link>https://news.ycombinator.com/item?id=30158894</link>
-            <guid>https://news.ycombinator.com/item?id=30158894</guid>
-            <pubDate>Tue, 01 Feb 2022 05:15:10 GMT</pubDate>
-            <description><![CDATA[Containers are not just for Kubernetes]]></description>
         </item>
     </channel>
 </rss>
