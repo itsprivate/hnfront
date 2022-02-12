@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Feb 2022 15:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 15:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[把想法變成文字]]></title>
+            <link>https://news.ycombinator.com/item?id=30313438</link>
+            <guid>https://news.ycombinator.com/item?id=30313438</guid>
+            <pubDate>Sat, 12 Feb 2022 15:21:42 GMT</pubDate>
+            <description><![CDATA[Putting Ideas into Words]]></description>
+        </item>
+        <item>
+            <title><![CDATA[鏽蝕的可持續性]]></title>
+            <link>https://news.ycombinator.com/item?id=30313102</link>
+            <guid>https://news.ycombinator.com/item?id=30313102</guid>
+            <pubDate>Sat, 12 Feb 2022 14:38:25 GMT</pubDate>
+            <description><![CDATA[Sustainability with Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼彼得-泰爾要尋找改變現實的 "秘密"？]]></title>
             <link>https://news.ycombinator.com/item?id=30312735</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30160413</guid>
             <pubDate>Tue, 01 Feb 2022 09:40:56 GMT</pubDate>
             <description><![CDATA[Austrian DPA Ruling Against Google Paves the Way to EU-Based Cloud Services]]></description>
-        </item>
-        <item>
-            <title><![CDATA[湯加的火山爆炸摧毀了一個島嶼並創造了許多謎團]]></title>
-            <link>https://news.ycombinator.com/item?id=30134416</link>
-            <guid>https://news.ycombinator.com/item?id=30134416</guid>
-            <pubDate>Sun, 30 Jan 2022 05:41:41 GMT</pubDate>
-            <description><![CDATA[The volcanic explosion in Tonga destroyed an island and created many mysteries]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安裝每一個Arch軟件包]]></title>
-            <link>https://news.ycombinator.com/item?id=30160191</link>
-            <guid>https://news.ycombinator.com/item?id=30160191</guid>
-            <pubDate>Tue, 01 Feb 2022 09:03:07 GMT</pubDate>
-            <description><![CDATA[Installing Every Arch Package]]></description>
         </item>
     </channel>
 </rss>
