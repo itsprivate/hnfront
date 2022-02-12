@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Feb 2022 04:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 05:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個關於Unix進程相互 "感染 "的好故事]]></title>
+            <link>https://news.ycombinator.com/item?id=30284704</link>
+            <guid>https://news.ycombinator.com/item?id=30284704</guid>
+            <pubDate>Thu, 10 Feb 2022 11:15:04 GMT</pubDate>
+            <description><![CDATA[A nice story about Unix processes “infecting” each other]]></description>
+        </item>
         <item>
             <title><![CDATA[大麻加速了與HPV相關的頭頸部癌症的增長（2020）。]]></title>
             <link>https://news.ycombinator.com/item?id=30309981</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30136835</guid>
             <pubDate>Sun, 30 Jan 2022 13:05:24 GMT</pubDate>
             <description><![CDATA[New engine could save internal combustion from the scrap heap]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bottles - 在Linux上運行Windows軟件和遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30156683</link>
-            <guid>https://news.ycombinator.com/item?id=30156683</guid>
-            <pubDate>Tue, 01 Feb 2022 00:00:24 GMT</pubDate>
-            <description><![CDATA[Bottles – Run Windows software and games on Linux]]></description>
         </item>
     </channel>
 </rss>
