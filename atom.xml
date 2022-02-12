@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T06:45:39.579Z</updated>
+    <updated>2022-02-12T07:08:26.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Etleap（YC W13）正在招聘一名软件工程师（旧金山/伦敦）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30310581</id>
+        <link href="https://news.ycombinator.com/item?id=30310581"/>
+        <updated>2022-02-12T07:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Etleap (YC W13) Is Hiring a Software Engineer (San Francisco / London)]]></summary>
+        <author>
+            <name>romming</name>
+            <uri>https://news.ycombinator.com/user?id=romming</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学的不合理性是与背景无关的]]></title>
         <id>https://news.ycombinator.com/item?id=30310383</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>jbegley</name>
             <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第六次大规模灭绝：事实、虚构还是猜测？]]></title>
-        <id>https://news.ycombinator.com/item?id=30157269</id>
-        <link href="https://news.ycombinator.com/item?id=30157269"/>
-        <updated>2022-02-01T01:02:52.000Z</updated>
-        <summary type="html"><![CDATA[The Sixth Mass Extinction: fact, fiction or speculation?]]></summary>
-        <author>
-            <name>khaled_ismaeel</name>
-            <uri>https://news.ycombinator.com/user?id=khaled_ismaeel</uri>
         </author>
     </entry>
 </feed>
