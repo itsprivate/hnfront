@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T21:24:45.541Z</updated>
+    <updated>2022-02-12T21:35:33.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你這麼聰明，為什麼你不快樂？]]></title>
+        <id>https://news.ycombinator.com/item?id=30316333</id>
+        <link href="https://news.ycombinator.com/item?id=30316333"/>
+        <updated>2022-02-12T20:55:17.000Z</updated>
+        <summary type="html"><![CDATA[If You’re So Smart, Why Aren’t You Happy?]]></summary>
+        <author>
+            <name>sandes</name>
+            <uri>https://news.ycombinator.com/user?id=sandes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真實-庫根。用於動漫圖像超分辨率的真實級聯U型網]]></title>
+        <id>https://news.ycombinator.com/item?id=30313239</id>
+        <link href="https://news.ycombinator.com/item?id=30313239"/>
+        <updated>2022-02-12T14:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Real-Cugan: Real Cascade U-Nets for Anime Image Super Resolution]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[論民俗定理 (1980)]]></title>
         <id>https://news.ycombinator.com/item?id=30311899</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>soapdog</name>
             <uri>https://news.ycombinator.com/user?id=soapdog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[語義網的Python工具，概述]]></title>
-        <id>https://news.ycombinator.com/item?id=30166198</id>
-        <link href="https://news.ycombinator.com/item?id=30166198"/>
-        <updated>2022-02-01T17:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Python Tools for the Semantic Web, an Overview]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個將串行設備的輸出寫入帶有時間戳的日誌文件的小工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30166185</id>
-        <link href="https://news.ycombinator.com/item?id=30166185"/>
-        <updated>2022-02-01T17:42:13.000Z</updated>
-        <summary type="html"><![CDATA[A small utility to write a serial device's output to a log file with timestamps]]></summary>
-        <author>
-            <name>weejewel</name>
-            <uri>https://news.ycombinator.com/user?id=weejewel</uri>
         </author>
     </entry>
 </feed>
