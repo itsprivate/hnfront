@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T22:49:00.592Z</updated>
+    <updated>2022-02-12T23:08:42.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mutt 2.2.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30317229</id>
+        <link href="https://news.ycombinator.com/item?id=30317229"/>
+        <updated>2022-02-12T22:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Mutt 2.2.0]]></summary>
+        <author>
+            <name>ackyshake</name>
+            <uri>https://news.ycombinator.com/user?id=ackyshake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Rust中製作一個Lox解釋器，第一部分]]></title>
         <id>https://news.ycombinator.com/item?id=30301835</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>sva_</name>
             <uri>https://news.ycombinator.com/user?id=sva_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嚴重的Samba漏洞帶來代碼執行威脅]]></title>
-        <id>https://news.ycombinator.com/item?id=30166953</id>
-        <link href="https://news.ycombinator.com/item?id=30166953"/>
-        <updated>2022-02-01T18:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Critical Samba flaw presents code execution threat]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
