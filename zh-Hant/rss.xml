@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Feb 2022 21:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 21:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[論民俗定理 (1980)]]></title>
+            <link>https://news.ycombinator.com/item?id=30311899</link>
+            <guid>https://news.ycombinator.com/item?id=30311899</guid>
+            <pubDate>Sat, 12 Feb 2022 11:18:28 GMT</pubDate>
+            <description><![CDATA[On Folk Theorems (1980)]]></description>
+        </item>
         <item>
             <title><![CDATA[Motion（YC W20）正在招聘React Native工程師。]]></title>
             <link>https://news.ycombinator.com/item?id=30316409</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30166185</guid>
             <pubDate>Tue, 01 Feb 2022 17:42:13 GMT</pubDate>
             <description><![CDATA[A small utility to write a serial device's output to a log file with timestamps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將LXC容器的拉動速度提高到3倍以上]]></title>
-            <link>https://news.ycombinator.com/item?id=30166077</link>
-            <guid>https://news.ycombinator.com/item?id=30166077</guid>
-            <pubDate>Tue, 01 Feb 2022 17:34:46 GMT</pubDate>
-            <description><![CDATA[Speeding up LXC container pull by up to 3x]]></description>
         </item>
     </channel>
 </rss>
