@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T14:48:59.323Z</updated>
+    <updated>2022-02-12T15:08:35.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[服务器发送的事件：你应该使用的WebSockets的替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30312897</id>
+        <link href="https://news.ycombinator.com/item?id=30312897"/>
+        <updated>2022-02-12T14:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Server-Sent Events: the alternative to WebSockets you should be using]]></summary>
+        <author>
+            <name>tyrion</name>
+            <uri>https://news.ycombinator.com/user?id=tyrion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用pytest运行C单元测试]]></title>
         <id>https://news.ycombinator.com/item?id=30301880</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以石头为媒介，以海滩为画布]]></title>
-        <id>https://news.ycombinator.com/item?id=30142970</id>
-        <link href="https://news.ycombinator.com/item?id=30142970"/>
-        <updated>2022-01-31T00:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Stones as Medium, Beach as Canvas]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
         </author>
     </entry>
 </feed>

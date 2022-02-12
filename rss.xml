@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Feb 2022 14:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 15:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[服务器发送的事件：你应该使用的WebSockets的替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=30312897</link>
+            <guid>https://news.ycombinator.com/item?id=30312897</guid>
+            <pubDate>Sat, 12 Feb 2022 14:05:14 GMT</pubDate>
+            <description><![CDATA[Server-Sent Events: the alternative to WebSockets you should be using]]></description>
+        </item>
         <item>
             <title><![CDATA[用pytest运行C单元测试]]></title>
             <link>https://news.ycombinator.com/item?id=30301880</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30160102</guid>
             <pubDate>Tue, 01 Feb 2022 08:49:59 GMT</pubDate>
             <description><![CDATA[468 Capital raises $400M to back European startups]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以石头为媒介，以海滩为画布]]></title>
-            <link>https://news.ycombinator.com/item?id=30142970</link>
-            <guid>https://news.ycombinator.com/item?id=30142970</guid>
-            <pubDate>Mon, 31 Jan 2022 00:41:07 GMT</pubDate>
-            <description><![CDATA[Stones as Medium, Beach as Canvas]]></description>
         </item>
     </channel>
 </rss>
