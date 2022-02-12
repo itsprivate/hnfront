@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Feb 2022 23:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 23:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在蘋果Silicon Mac上的虛擬機中運行macOS]]></title>
+            <link>https://news.ycombinator.com/item?id=30317260</link>
+            <guid>https://news.ycombinator.com/item?id=30317260</guid>
+            <pubDate>Sat, 12 Feb 2022 23:03:00 GMT</pubDate>
+            <description><![CDATA[Running macOS in a Virtual Machine on Apple Silicon Macs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[禁忌的Emacs Lisp知識。塊狀註釋]]></title>
+            <link>https://news.ycombinator.com/item?id=30317088</link>
+            <guid>https://news.ycombinator.com/item?id=30317088</guid>
+            <pubDate>Sat, 12 Feb 2022 22:34:42 GMT</pubDate>
+            <description><![CDATA[Forbidden Emacs Lisp Knowledge: Block Comments]]></description>
+        </item>
         <item>
             <title><![CDATA[實現可互操作的FPGA工具的FPGA互換格式]]></title>
             <link>https://news.ycombinator.com/item?id=30317317</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30167969</guid>
             <pubDate>Tue, 01 Feb 2022 19:37:50 GMT</pubDate>
             <description><![CDATA[Mozilla is bringing popular privacy features to its desktop and mobile VPN]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於Sqlite的可嵌入、可複製和容錯的SQL引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30135401</link>
-            <guid>https://news.ycombinator.com/item?id=30135401</guid>
-            <pubDate>Sun, 30 Jan 2022 09:41:05 GMT</pubDate>
-            <description><![CDATA[Embeddable, replicated and fault tolerant SQL engine based on Sqlite]]></description>
-        </item>
-        <item>
-            <title><![CDATA[弗利奧薩的喂貓器]]></title>
-            <link>https://news.ycombinator.com/item?id=30167605</link>
-            <guid>https://news.ycombinator.com/item?id=30167605</guid>
-            <pubDate>Tue, 01 Feb 2022 19:14:43 GMT</pubDate>
-            <description><![CDATA[Furiosa's Cat Feeder]]></description>
         </item>
     </channel>
 </rss>
