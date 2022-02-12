@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T21:35:33.790Z</updated>
+    <updated>2022-02-12T21:49:18.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[洗脑是巫术]]></title>
+        <id>https://news.ycombinator.com/item?id=30316739</id>
+        <link href="https://news.ycombinator.com/item?id=30316739"/>
+        <updated>2022-02-12T21:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Brainwashing Is Sorcery]]></summary>
+        <author>
+            <name>cinquemb</name>
+            <uri>https://news.ycombinator.com/user?id=cinquemb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过自动化重复性任务为Hacker News节省100多个小时的程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30315280</id>
+        <link href="https://news.ycombinator.com/item?id=30315280"/>
+        <updated>2022-02-12T19:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Programs that have saved Hacker News 100+ hours by automating repetitive tasks]]></summary>
+        <author>
+            <name>dshacker</name>
+            <uri>https://news.ycombinator.com/user?id=dshacker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你这么聪明，为什么你不快乐？]]></title>
         <id>https://news.ycombinator.com/item?id=30316333</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>haberdasher</name>
             <uri>https://news.ycombinator.com/user?id=haberdasher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从头开始写一个玩具traceroute]]></title>
-        <id>https://news.ycombinator.com/item?id=30140380</id>
-        <link href="https://news.ycombinator.com/item?id=30140380"/>
-        <updated>2022-01-30T19:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Writing a toy traceroute from scratch]]></summary>
-        <author>
-            <name>otras</name>
-            <uri>https://news.ycombinator.com/user?id=otras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：无法从Firefox登录HN，一个爱的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30166448</id>
-        <link href="https://news.ycombinator.com/item?id=30166448"/>
-        <updated>2022-02-01T17:59:36.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Unable to login to HN from Firefox, a lovecraftian tale]]></summary>
-        <author>
-            <name>soapdog</name>
-            <uri>https://news.ycombinator.com/user?id=soapdog</uri>
         </author>
     </entry>
 </feed>
