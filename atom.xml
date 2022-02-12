@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T23:35:05.198Z</updated>
+    <updated>2022-02-12T23:49:11.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[D语言中的编译时排序]]></title>
+        <id>https://news.ycombinator.com/item?id=30317408</id>
+        <link href="https://news.ycombinator.com/item?id=30317408"/>
+        <updated>2022-02-12T23:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Compile-Time Sort in D]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SikuliX - 将你在电脑显示器上看到的东西自动化]]></title>
+        <id>https://news.ycombinator.com/item?id=30317313</id>
+        <link href="https://news.ycombinator.com/item?id=30317313"/>
+        <updated>2022-02-12T23:10:41.000Z</updated>
+        <summary type="html"><![CDATA[SikuliX – Automate what you see on a computer monitor]]></summary>
+        <author>
+            <name>notamy</name>
+            <uri>https://news.ycombinator.com/user?id=notamy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在苹果Silicon Mac上的虚拟机中运行macOS]]></title>
         <id>https://news.ycombinator.com/item?id=30317260</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>AshleysBrain</name>
             <uri>https://news.ycombinator.com/user?id=AshleysBrain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列推出激光防御系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30167224</id>
-        <link href="https://news.ycombinator.com/item?id=30167224"/>
-        <updated>2022-02-01T18:50:11.000Z</updated>
-        <summary type="html"><![CDATA[Israel Rolls Out Laser Defense System]]></summary>
-        <author>
-            <name>Anonymous4272</name>
-            <uri>https://news.ycombinator.com/user?id=Anonymous4272</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla正在为其桌面和移动VPN带来流行的隐私功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30167969</id>
-        <link href="https://news.ycombinator.com/item?id=30167969"/>
-        <updated>2022-02-01T19:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla is bringing popular privacy features to its desktop and mobile VPN]]></summary>
-        <author>
-            <name>alexrustic</name>
-            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
         </author>
     </entry>
 </feed>
