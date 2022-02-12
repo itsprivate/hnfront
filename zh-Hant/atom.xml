@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T17:27:42.774Z</updated>
+    <updated>2022-02-12T17:49:23.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[信號反思。為什麼聯合協議不起作用]]></title>
+        <id>https://news.ycombinator.com/item?id=30314454</id>
+        <link href="https://news.ycombinator.com/item?id=30314454"/>
+        <updated>2022-02-12T17:23:34.000Z</updated>
+        <summary type="html"><![CDATA[Signal Reflections: Why federated protocols don't work]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個不科學的SQLite與文件系統（btrfs）的基準測試]]></title>
+        <id>https://news.ycombinator.com/item?id=30314326</id>
+        <link href="https://news.ycombinator.com/item?id=30314326"/>
+        <updated>2022-02-12T17:09:54.000Z</updated>
+        <summary type="html"><![CDATA[An unscientific benchmark of SQLite vs. the file system (btrfs)]]></summary>
+        <author>
+            <name>leeoniya</name>
+            <uri>https://news.ycombinator.com/user?id=leeoniya</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過Python輕鬆地處理CLI操作，而不是普通的Bash程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30302955</id>
+        <link href="https://news.ycombinator.com/item?id=30302955"/>
+        <updated>2022-02-11T16:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Easily handle CLI operation via Python instead of regular Bash programs]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菱形的狀態[編程語言]]]></title>
         <id>https://news.ycombinator.com/item?id=30314109</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>yamafaktory</name>
             <uri>https://news.ycombinator.com/user?id=yamafaktory</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swift和C++互操作性工作組公告]]></title>
-        <id>https://news.ycombinator.com/item?id=30160501</id>
-        <link href="https://news.ycombinator.com/item?id=30160501"/>
-        <updated>2022-02-01T09:54:36.000Z</updated>
-        <summary type="html"><![CDATA[Swift and C++ interoperability workgroup announcement]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完善麻省理工學院對言論自由的書面承諾]]></title>
-        <id>https://news.ycombinator.com/item?id=30161762</id>
-        <link href="https://news.ycombinator.com/item?id=30161762"/>
-        <updated>2022-02-01T12:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Improving MIT’s written commitment to freedom of expression]]></summary>
-        <author>
-            <name>ondrejzabojnik</name>
-            <uri>https://news.ycombinator.com/user?id=ondrejzabojnik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當用MSAL保護你的Angular應用程序時，重定向到一個自定義的登錄頁面]]></title>
-        <id>https://news.ycombinator.com/item?id=30161614</id>
-        <link href="https://news.ycombinator.com/item?id=30161614"/>
-        <updated>2022-02-01T12:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Redirect to a custom login page when securing your Angular app with MSAL]]></summary>
-        <author>
-            <name>waldekm</name>
-            <uri>https://news.ycombinator.com/user?id=waldekm</uri>
         </author>
     </entry>
 </feed>

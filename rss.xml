@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Feb 2022 17:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 17:49:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[信号反思。为什么联合协议不起作用]]></title>
+            <link>https://news.ycombinator.com/item?id=30314454</link>
+            <guid>https://news.ycombinator.com/item?id=30314454</guid>
+            <pubDate>Sat, 12 Feb 2022 17:23:34 GMT</pubDate>
+            <description><![CDATA[Signal Reflections: Why federated protocols don't work]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个不科学的SQLite与文件系统（btrfs）的基准测试]]></title>
+            <link>https://news.ycombinator.com/item?id=30314326</link>
+            <guid>https://news.ycombinator.com/item?id=30314326</guid>
+            <pubDate>Sat, 12 Feb 2022 17:09:54 GMT</pubDate>
+            <description><![CDATA[An unscientific benchmark of SQLite vs. the file system (btrfs)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通过Python轻松地处理CLI操作，而不是普通的Bash程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30302955</link>
+            <guid>https://news.ycombinator.com/item?id=30302955</guid>
+            <pubDate>Fri, 11 Feb 2022 16:01:58 GMT</pubDate>
+            <description><![CDATA[Easily handle CLI operation via Python instead of regular Bash programs]]></description>
+        </item>
         <item>
             <title><![CDATA[菱形的状态[编程语言]]]></title>
             <link>https://news.ycombinator.com/item?id=30314109</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30161626</guid>
             <pubDate>Tue, 01 Feb 2022 12:31:47 GMT</pubDate>
             <description><![CDATA[Fetch API has landed into Node.js]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Swift和C++互操作性工作组公告]]></title>
-            <link>https://news.ycombinator.com/item?id=30160501</link>
-            <guid>https://news.ycombinator.com/item?id=30160501</guid>
-            <pubDate>Tue, 01 Feb 2022 09:54:36 GMT</pubDate>
-            <description><![CDATA[Swift and C++ interoperability workgroup announcement]]></description>
-        </item>
-        <item>
-            <title><![CDATA[完善麻省理工学院对言论自由的书面承诺]]></title>
-            <link>https://news.ycombinator.com/item?id=30161762</link>
-            <guid>https://news.ycombinator.com/item?id=30161762</guid>
-            <pubDate>Tue, 01 Feb 2022 12:50:16 GMT</pubDate>
-            <description><![CDATA[Improving MIT’s written commitment to freedom of expression]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当用MSAL保护你的Angular应用程序时，重定向到一个自定义的登录页面]]></title>
-            <link>https://news.ycombinator.com/item?id=30161614</link>
-            <guid>https://news.ycombinator.com/item?id=30161614</guid>
-            <pubDate>Tue, 01 Feb 2022 12:30:55 GMT</pubDate>
-            <description><![CDATA[Redirect to a custom login page when securing your Angular app with MSAL]]></description>
         </item>
     </channel>
 </rss>
