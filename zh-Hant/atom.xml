@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T05:34:05.017Z</updated>
+    <updated>2022-02-12T06:09:43.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歐洲各地的土地使用變化與黑死病期間的死亡率有關]]></title>
+        <id>https://news.ycombinator.com/item?id=30310099</id>
+        <link href="https://news.ycombinator.com/item?id=30310099"/>
+        <updated>2022-02-12T05:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Land-use changes across Europe linked to mortality during the Black Death]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個關於Unix進程相互 "感染 "的好故事]]></title>
         <id>https://news.ycombinator.com/item?id=30284704</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>app4soft</name>
             <uri>https://news.ycombinator.com/user?id=app4soft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新發動機可將內燃機從廢品堆中拯救出來]]></title>
-        <id>https://news.ycombinator.com/item?id=30136835</id>
-        <link href="https://news.ycombinator.com/item?id=30136835"/>
-        <updated>2022-01-30T13:05:24.000Z</updated>
-        <summary type="html"><![CDATA[New engine could save internal combustion from the scrap heap]]></summary>
-        <author>
-            <name>bobajeff</name>
-            <uri>https://news.ycombinator.com/user?id=bobajeff</uri>
         </author>
     </entry>
 </feed>
