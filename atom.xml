@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T21:49:18.542Z</updated>
+    <updated>2022-02-12T22:12:11.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dino 0.3: 视频通话和会议 - 加密的和点对点的]]></title>
+        <id>https://news.ycombinator.com/item?id=30316755</id>
+        <link href="https://news.ycombinator.com/item?id=30316755"/>
+        <updated>2022-02-12T21:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Dino 0.3: Video calls and conferences – encrypted and peer-to-peer]]></summary>
+        <author>
+            <name>larma</name>
+            <uri>https://news.ycombinator.com/user?id=larma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当Postgres阻塞时：处理锁的技巧]]></title>
+        <id>https://news.ycombinator.com/item?id=30316653</id>
+        <link href="https://news.ycombinator.com/item?id=30316653"/>
+        <updated>2022-02-12T21:25:19.000Z</updated>
+        <summary type="html"><![CDATA[When Postgres blocks: tips for dealing with locks]]></summary>
+        <author>
+            <name>saisrirampur</name>
+            <uri>https://news.ycombinator.com/user?id=saisrirampur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洗脑是巫术]]></title>
         <id>https://news.ycombinator.com/item?id=30316739</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>izzymiller</name>
             <uri>https://news.ycombinator.com/user?id=izzymiller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麦克纳马拉谬误：测量不是理解]]></title>
-        <id>https://news.ycombinator.com/item?id=30166488</id>
-        <link href="https://news.ycombinator.com/item?id=30166488"/>
-        <updated>2022-02-01T18:02:14.000Z</updated>
-        <summary type="html"><![CDATA[The McNamara Fallacy: measurement is not understanding]]></summary>
-        <author>
-            <name>wenc</name>
-            <uri>https://news.ycombinator.com/user?id=wenc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索拉纳支付]]></title>
-        <id>https://news.ycombinator.com/item?id=30166632</id>
-        <link href="https://news.ycombinator.com/item?id=30166632"/>
-        <updated>2022-02-01T18:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Solana Pay]]></summary>
-        <author>
-            <name>haberdasher</name>
-            <uri>https://news.ycombinator.com/user?id=haberdasher</uri>
         </author>
     </entry>
 </feed>
