@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Feb 2022 04:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 04:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AWS宣佈AWS CloudFormation Hooks的普遍可用性]]></title>
+            <link>https://news.ycombinator.com/item?id=30309379</link>
+            <guid>https://news.ycombinator.com/item?id=30309379</guid>
+            <pubDate>Sat, 12 Feb 2022 02:32:19 GMT</pubDate>
+            <description><![CDATA[AWS Announces the General Availability of AWS CloudFormation Hooks]]></description>
+        </item>
         <item>
             <title><![CDATA[DoltLab v0.2.0]]></title>
             <link>https://news.ycombinator.com/item?id=30309498</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30156572</guid>
             <pubDate>Mon, 31 Jan 2022 23:49:44 GMT</pubDate>
             <description><![CDATA[A short introduction to the undeciphered Aegean writing systems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yggdrasil P2P網狀E2EE IPv6網絡]]></title>
-            <link>https://news.ycombinator.com/item?id=30156551</link>
-            <guid>https://news.ycombinator.com/item?id=30156551</guid>
-            <pubDate>Mon, 31 Jan 2022 23:48:09 GMT</pubDate>
-            <description><![CDATA[Yggdrasil P2P mesh E2EE IPv6 network]]></description>
         </item>
     </channel>
 </rss>
