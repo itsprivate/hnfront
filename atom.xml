@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T12:11:39.958Z</updated>
+    <updated>2022-02-12T12:42:01.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Discord是一个信息黑洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30311982</id>
+        <link href="https://news.ycombinator.com/item?id=30311982"/>
+        <updated>2022-02-12T11:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Discord is a black hole for information]]></summary>
+        <author>
+            <name>Prestoon</name>
+            <uri>https://news.ycombinator.com/user?id=Prestoon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XMVM手术]]></title>
+        <id>https://news.ycombinator.com/item?id=30302978</id>
+        <link href="https://news.ycombinator.com/item?id=30302978"/>
+        <updated>2022-02-11T16:03:38.000Z</updated>
+        <summary type="html"><![CDATA[XMVM Surgery]]></summary>
+        <author>
+            <name>kencausey</name>
+            <uri>https://news.ycombinator.com/user?id=kencausey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[布鲁姆技术学院（YC S17）正在招聘一名高级Salesforce工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30312131</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>sofixa</name>
             <uri>https://news.ycombinator.com/user?id=sofixa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大多数网站在设计时都隐含着较短的使用寿命]]></title>
-        <id>https://news.ycombinator.com/item?id=30159297</id>
-        <link href="https://news.ycombinator.com/item?id=30159297"/>
-        <updated>2022-02-01T06:31:34.000Z</updated>
-        <summary type="html"><![CDATA[Most websites are implicitly designed with a short lifetime]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[射频信号发生器]]></title>
-        <id>https://news.ycombinator.com/item?id=30159043</id>
-        <link href="https://news.ycombinator.com/item?id=30159043"/>
-        <updated>2022-02-01T05:46:32.000Z</updated>
-        <summary type="html"><![CDATA[RF Signal Generator]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
