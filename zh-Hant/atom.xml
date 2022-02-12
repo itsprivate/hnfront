@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T17:09:38.654Z</updated>
+    <updated>2022-02-12T17:27:42.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[菱形的狀態[編程語言]]]></title>
+        <id>https://news.ycombinator.com/item?id=30314109</id>
+        <link href="https://news.ycombinator.com/item?id=30314109"/>
+        <updated>2022-02-12T16:45:38.000Z</updated>
+        <summary type="html"><![CDATA[State of Rhombus [Programming Language]]]></summary>
+        <author>
+            <name>Decabytes</name>
+            <uri>https://news.ycombinator.com/user?id=Decabytes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[經過5個月的沙漠生活，對高原沙漠的一些結論]]></title>
+        <id>https://news.ycombinator.com/item?id=30313889</id>
+        <link href="https://news.ycombinator.com/item?id=30313889"/>
+        <updated>2022-02-12T16:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Some Conclusions About the High Desert After 5 Months of Desert Life]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[證據（YC S21）正在招聘工程師為數據團隊建立一個網絡框架]]></title>
         <id>https://news.ycombinator.com/item?id=30314242</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>waldekm</name>
             <uri>https://news.ycombinator.com/user?id=waldekm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推送通知、WebXR和更好的PWA支持將出現在iOS上]]></title>
-        <id>https://news.ycombinator.com/item?id=30160680</id>
-        <link href="https://news.ycombinator.com/item?id=30160680"/>
-        <updated>2022-02-01T10:18:20.000Z</updated>
-        <summary type="html"><![CDATA[Push Notifications, WebXR, and better PWA support coming to iOS]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Muse (YC W12)正在招聘一名高級React工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30161410</id>
-        <link href="https://news.ycombinator.com/item?id=30161410"/>
-        <updated>2022-02-01T12:00:33.000Z</updated>
-        <summary type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior React Engineer]]></summary>
-        <author>
-            <name>KMinshew</name>
-            <uri>https://news.ycombinator.com/user?id=KMinshew</uri>
         </author>
     </entry>
 </feed>
