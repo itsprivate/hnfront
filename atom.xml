@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T16:58:38.091Z</updated>
+    <updated>2022-02-12T17:09:38.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[证据（YC S21）正在招聘工程师为数据团队建立一个网络框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30314242</id>
+        <link href="https://news.ycombinator.com/item?id=30314242"/>
+        <updated>2022-02-12T17:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Evidence (YC S21) Is hiring engineers to build a web framework for data teams]]></summary>
+        <author>
+            <name>amcaskill</name>
+            <uri>https://news.ycombinator.com/user?id=amcaskill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["达美航空欠下SkyMiles会员价值76亿美元的旅行"]]></title>
         <id>https://news.ycombinator.com/item?id=30313788</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>KMinshew</name>
             <uri>https://news.ycombinator.com/user?id=KMinshew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Radix Sort进行线性O(N)排序(2000)]]></title>
-        <id>https://news.ycombinator.com/item?id=30135440</id>
-        <link href="https://news.ycombinator.com/item?id=30135440"/>
-        <updated>2022-01-30T09:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Linear O(N) sorting with Radix Sort (2000)]]></summary>
-        <author>
-            <name>Radim</name>
-            <uri>https://news.ycombinator.com/user?id=Radim</uri>
         </author>
     </entry>
 </feed>
