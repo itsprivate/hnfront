@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T11:34:25.704Z</updated>
+    <updated>2022-02-12T11:49:11.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於Firefox分析器的Rust API]]></title>
+        <id>https://news.ycombinator.com/item?id=30299508</id>
+        <link href="https://news.ycombinator.com/item?id=30299508"/>
+        <updated>2022-02-11T10:05:55.000Z</updated>
+        <summary type="html"><![CDATA[Rust API for the Firefox Profiler]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個圖像中的Git]]></title>
         <id>https://news.ycombinator.com/item?id=30311713</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>prismatic</name>
             <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的身外之物體驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30158850</id>
-        <link href="https://news.ycombinator.com/item?id=30158850"/>
-        <updated>2022-02-01T05:06:37.000Z</updated>
-        <summary type="html"><![CDATA[My Out-of-Body Experience]]></summary>
-        <author>
-            <name>terrycody</name>
-            <uri>https://news.ycombinator.com/user?id=terrycody</uri>
         </author>
     </entry>
 </feed>
