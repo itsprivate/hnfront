@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T13:49:30.798Z</updated>
+    <updated>2022-02-12T14:48:59.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用pytest運行C單元測試]]></title>
+        <id>https://news.ycombinator.com/item?id=30301880</id>
+        <link href="https://news.ycombinator.com/item?id=30301880"/>
+        <updated>2022-02-11T14:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Running C unit tests with pytest]]></summary>
+        <author>
+            <name>p403n1x87</name>
+            <uri>https://news.ycombinator.com/user?id=p403n1x87</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從種子開始種植芒果樹--一年的時間推移]]></title>
         <id>https://news.ycombinator.com/item?id=30312694</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>prismatic</name>
             <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界之言]]></title>
-        <id>https://news.ycombinator.com/item?id=30159713</id>
-        <link href="https://news.ycombinator.com/item?id=30159713"/>
-        <updated>2022-02-01T07:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Wordles of the World]]></summary>
-        <author>
-            <name>skilled</name>
-            <uri>https://news.ycombinator.com/user?id=skilled</uri>
         </author>
     </entry>
 </feed>
