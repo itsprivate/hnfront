@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T03:28:02.523Z</updated>
+    <updated>2022-02-12T03:48:58.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[事故。2022年2月10日，亚洲航空公司A320在古晋附近，飞机上有蛇。]]></title>
+        <id>https://news.ycombinator.com/item?id=30309644</id>
+        <link href="https://news.ycombinator.com/item?id=30309644"/>
+        <updated>2022-02-12T03:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Incident: Air Asia A320 near Kuching on Feb 10th 2022, snake on the plane]]></summary>
+        <author>
+            <name>jhugo</name>
+            <uri>https://news.ycombinator.com/user?id=jhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lingua-Go，最准确的围棋语言检测]]></title>
         <id>https://news.ycombinator.com/item?id=30309534</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>hackthesystem</name>
             <uri>https://news.ycombinator.com/user?id=hackthesystem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红灯 绿灯]]></title>
-        <id>https://news.ycombinator.com/item?id=30155927</id>
-        <link href="https://news.ycombinator.com/item?id=30155927"/>
-        <updated>2022-01-31T22:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Red Light Green Light]]></summary>
-        <author>
-            <name>aseattledev1234</name>
-            <uri>https://news.ycombinator.com/user?id=aseattledev1234</uri>
         </author>
     </entry>
 </feed>
