@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-12T13:28:46.909Z</updated>
+    <updated>2022-02-12T13:49:30.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从种子开始种植芒果树--一年的时间推移]]></title>
+        <id>https://news.ycombinator.com/item?id=30312694</id>
+        <link href="https://news.ycombinator.com/item?id=30312694"/>
+        <updated>2022-02-12T13:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Growing a mango tree from seed – one year time lapse]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glibc 2.35中的可重启序列]]></title>
+        <id>https://news.ycombinator.com/item?id=30285032</id>
+        <link href="https://news.ycombinator.com/item?id=30285032"/>
+        <updated>2022-02-10T12:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Restartable Sequences in Glibc 2.35]]></summary>
+        <author>
+            <name>jrepinc</name>
+            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3人工智能可以写喜剧吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30312182</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>skilled</name>
             <uri>https://news.ycombinator.com/user?id=skilled</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vectorscan - hyperscan的可移植分叉 - 高性能的重码匹配库]]></title>
-        <id>https://news.ycombinator.com/item?id=30159660</id>
-        <link href="https://news.ycombinator.com/item?id=30159660"/>
-        <updated>2022-02-01T07:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Vectorscan – portable fork of hyperscan – high-performance regex matching lib]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我写了一个脚本来自动修正100个Grammarly的更正]]></title>
-        <id>https://news.ycombinator.com/item?id=30159764</id>
-        <link href="https://news.ycombinator.com/item?id=30159764"/>
-        <updated>2022-02-01T07:57:51.000Z</updated>
-        <summary type="html"><![CDATA[I wrote a script to automatically fix 100s of Grammarly corrections]]></summary>
-        <author>
-            <name>isneu</name>
-            <uri>https://news.ycombinator.com/user?id=isneu</uri>
         </author>
     </entry>
 </feed>
