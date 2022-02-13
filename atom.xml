@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T11:24:27.834Z</updated>
+    <updated>2022-02-13T11:49:22.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SPARKNaCl: 一个经过验证的、快速的对TweetNaCl的重新实现]]></title>
+        <id>https://news.ycombinator.com/item?id=30320801</id>
+        <link href="https://news.ycombinator.com/item?id=30320801"/>
+        <updated>2022-02-13T10:40:34.000Z</updated>
+        <summary type="html"><![CDATA[SPARKNaCl: A verified, fast re-implementation of TweetNaCl]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[即将撞击月球的物体是来自嫦娥五号，而不是SpaceX]]></title>
         <id>https://news.ycombinator.com/item?id=30320642</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Argorak</name>
             <uri>https://news.ycombinator.com/user?id=Argorak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共识的现实]]></title>
-        <id>https://news.ycombinator.com/item?id=30157176</id>
-        <link href="https://news.ycombinator.com/item?id=30157176"/>
-        <updated>2022-02-01T00:53:39.000Z</updated>
-        <summary type="html"><![CDATA[Reality by Consensus]]></summary>
-        <author>
-            <name>tomlockwood</name>
-            <uri>https://news.ycombinator.com/user?id=tomlockwood</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Feb 2022 11:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 11:49:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SPARKNaCl: 一个经过验证的、快速的对TweetNaCl的重新实现]]></title>
+            <link>https://news.ycombinator.com/item?id=30320801</link>
+            <guid>https://news.ycombinator.com/item?id=30320801</guid>
+            <pubDate>Sun, 13 Feb 2022 10:40:34 GMT</pubDate>
+            <description><![CDATA[SPARKNaCl: A verified, fast re-implementation of TweetNaCl]]></description>
+        </item>
         <item>
             <title><![CDATA[即将撞击月球的物体是来自嫦娥五号，而不是SpaceX]]></title>
             <link>https://news.ycombinator.com/item?id=30320642</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30174827</guid>
             <pubDate>Wed, 02 Feb 2022 07:36:28 GMT</pubDate>
             <description><![CDATA[AdaCore and Ferrous Systems Joining Forces to Support Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[共识的现实]]></title>
-            <link>https://news.ycombinator.com/item?id=30157176</link>
-            <guid>https://news.ycombinator.com/item?id=30157176</guid>
-            <pubDate>Tue, 01 Feb 2022 00:53:39 GMT</pubDate>
-            <description><![CDATA[Reality by Consensus]]></description>
         </item>
     </channel>
 </rss>
