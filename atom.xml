@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T11:08:03.281Z</updated>
+    <updated>2022-02-13T11:24:27.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[即将撞击月球的物体是来自嫦娥五号，而不是SpaceX]]></title>
+        <id>https://news.ycombinator.com/item?id=30320642</id>
+        <link href="https://news.ycombinator.com/item?id=30320642"/>
+        <updated>2022-02-13T09:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Object about to hit moon is from Chang'e 5, not SpaceX]]></summary>
+        <author>
+            <name>mpitt</name>
+            <uri>https://news.ycombinator.com/user?id=mpitt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单的XMPP命令行客户端]]></title>
+        <id>https://news.ycombinator.com/item?id=30320582</id>
+        <link href="https://news.ycombinator.com/item?id=30320582"/>
+        <updated>2022-02-13T09:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Simple XMPP command line client]]></summary>
+        <author>
+            <name>matthias_hmb</name>
+            <uri>https://news.ycombinator.com/user?id=matthias_hmb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RISC-V的一个重要星期]]></title>
         <id>https://news.ycombinator.com/item?id=30301551</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>tomlockwood</name>
             <uri>https://news.ycombinator.com/user?id=tomlockwood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用50行Bash编写的Wordle克隆程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30174112</id>
-        <link href="https://news.ycombinator.com/item?id=30174112"/>
-        <updated>2022-02-02T05:33:21.000Z</updated>
-        <summary type="html"><![CDATA[A Wordle clone in 50 lines of Bash]]></summary>
-        <author>
-            <name>huydotnet</name>
-            <uri>https://news.ycombinator.com/user?id=huydotnet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[变异的神经细胞自动机]]></title>
-        <id>https://news.ycombinator.com/item?id=30174038</id>
-        <link href="https://news.ycombinator.com/item?id=30174038"/>
-        <updated>2022-02-02T05:20:28.000Z</updated>
-        <summary type="html"><![CDATA[Variational Neural Cellular Automata]]></summary>
-        <author>
-            <name>winkywooster</name>
-            <uri>https://news.ycombinator.com/user?id=winkywooster</uri>
         </author>
     </entry>
 </feed>
