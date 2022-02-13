@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T16:42:12.373Z</updated>
+    <updated>2022-02-13T16:58:35.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[社会工程骗局，差点让我失去所有的ETH]]></title>
+        <id>https://news.ycombinator.com/item?id=30322715</id>
+        <link href="https://news.ycombinator.com/item?id=30322715"/>
+        <updated>2022-02-13T16:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Social engineering scam that nearly cost me all of my ETH]]></summary>
+        <author>
+            <name>floetic</name>
+            <uri>https://news.ycombinator.com/user?id=floetic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[土壤中的生命被认为是无声的。如果它不是这样呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30322853</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pankajtanwar</name>
             <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在树莓派上运行你的家庭]]></title>
-        <id>https://news.ycombinator.com/item?id=30177362</id>
-        <link href="https://news.ycombinator.com/item?id=30177362"/>
-        <updated>2022-02-02T13:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Run Your Home on a Raspberry Pi]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
-            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
         </author>
     </entry>
 </feed>
