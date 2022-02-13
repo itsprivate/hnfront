@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Feb 2022 03:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 03:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我从来没有读过商业计划书或资产负债表]]></title>
+            <link>https://news.ycombinator.com/item?id=30318634</link>
+            <guid>https://news.ycombinator.com/item?id=30318634</guid>
+            <pubDate>Sun, 13 Feb 2022 02:45:42 GMT</pubDate>
+            <description><![CDATA[I have never read a business plan or balance sheet]]></description>
+        </item>
         <item>
             <title><![CDATA[单对以太网（SPE）--技术上的飞跃]]></title>
             <link>https://news.ycombinator.com/item?id=30318559</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30169435</guid>
             <pubDate>Tue, 01 Feb 2022 21:17:53 GMT</pubDate>
             <description><![CDATA[Twitter stores original account names, dox vulnerability via Twitter Spaces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我反转了一个Node.js恶意软件，发现作者]]></title>
-            <link>https://news.ycombinator.com/item?id=30146520</link>
-            <guid>https://news.ycombinator.com/item?id=30146520</guid>
-            <pubDate>Mon, 31 Jan 2022 10:24:36 GMT</pubDate>
-            <description><![CDATA[I reversed a Node.js malware and found the author]]></description>
         </item>
     </channel>
 </rss>

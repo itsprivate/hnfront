@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T03:37:09.297Z</updated>
+    <updated>2022-02-13T03:49:08.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我从来没有读过商业计划书或资产负债表]]></title>
+        <id>https://news.ycombinator.com/item?id=30318634</id>
+        <link href="https://news.ycombinator.com/item?id=30318634"/>
+        <updated>2022-02-13T02:45:42.000Z</updated>
+        <summary type="html"><![CDATA[I have never read a business plan or balance sheet]]></summary>
+        <author>
+            <name>loteck</name>
+            <uri>https://news.ycombinator.com/user?id=loteck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单对以太网（SPE）--技术上的飞跃]]></title>
         <id>https://news.ycombinator.com/item?id=30318559</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>steelstraw</name>
             <uri>https://news.ycombinator.com/user?id=steelstraw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我反转了一个Node.js恶意软件，发现作者]]></title>
-        <id>https://news.ycombinator.com/item?id=30146520</id>
-        <link href="https://news.ycombinator.com/item?id=30146520"/>
-        <updated>2022-01-31T10:24:36.000Z</updated>
-        <summary type="html"><![CDATA[I reversed a Node.js malware and found the author]]></summary>
-        <author>
-            <name>khorne</name>
-            <uri>https://news.ycombinator.com/user?id=khorne</uri>
         </author>
     </entry>
 </feed>
