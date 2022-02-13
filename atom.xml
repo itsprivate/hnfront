@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T15:08:36.065Z</updated>
+    <updated>2022-02-13T15:29:46.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[香港难民遭受的创伤]]></title>
+        <id>https://news.ycombinator.com/item?id=30321949</id>
+        <link href="https://news.ycombinator.com/item?id=30321949"/>
+        <updated>2022-02-13T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong Refugees Traumatized]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Pixel 6和Android 13 DP1上使用KVM的虚拟机]]></title>
         <id>https://news.ycombinator.com/item?id=30322035</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>apophatic</name>
             <uri>https://news.ycombinator.com/user?id=apophatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube限制小型频道所能获得的浏览量]]></title>
-        <id>https://news.ycombinator.com/item?id=30177256</id>
-        <link href="https://news.ycombinator.com/item?id=30177256"/>
-        <updated>2022-02-02T13:35:22.000Z</updated>
-        <summary type="html"><![CDATA[YouTube limiting the amount of views small Channel can get]]></summary>
-        <author>
-            <name>wylie39</name>
-            <uri>https://news.ycombinator.com/user?id=wylie39</uri>
         </author>
     </entry>
 </feed>
