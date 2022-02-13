@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Feb 2022 02:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 02:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们失去了什么]]></title>
+            <link>https://news.ycombinator.com/item?id=30318079</link>
+            <guid>https://news.ycombinator.com/item?id=30318079</guid>
+            <pubDate>Sun, 13 Feb 2022 01:10:51 GMT</pubDate>
+            <description><![CDATA[What We Lost]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CJSON - ANSI C语言的超轻量级JSON解析器]]></title>
+            <link>https://news.ycombinator.com/item?id=30302933</link>
+            <guid>https://news.ycombinator.com/item?id=30302933</guid>
+            <pubDate>Fri, 11 Feb 2022 16:00:23 GMT</pubDate>
+            <description><![CDATA[CJSON – Ultralightweight JSON parser in ANSI C]]></description>
+        </item>
         <item>
             <title><![CDATA[检察官不会起诉揭发数据库漏洞的记者]]></title>
             <link>https://news.ycombinator.com/item?id=30318208</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30169472</guid>
             <pubDate>Tue, 01 Feb 2022 21:20:25 GMT</pubDate>
             <description><![CDATA[America’s Covid job-saving programme gave most of its cash to the rich]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雷达跌落检测和呼吸速率低于40美元]]></title>
-            <link>https://news.ycombinator.com/item?id=30146374</link>
-            <guid>https://news.ycombinator.com/item?id=30146374</guid>
-            <pubDate>Mon, 31 Jan 2022 10:00:24 GMT</pubDate>
-            <description><![CDATA[Radar fall detection and breath rate under $40]]></description>
-        </item>
-        <item>
-            <title><![CDATA[锥齿轮。锈迹斑斑的透明C]]></title>
-            <link>https://news.ycombinator.com/item?id=30169263</link>
-            <guid>https://news.ycombinator.com/item?id=30169263</guid>
-            <pubDate>Tue, 01 Feb 2022 21:06:55 GMT</pubDate>
-            <description><![CDATA[C2rust: Transpile C to Rust]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T02:21:25.856Z</updated>
+    <updated>2022-02-13T02:48:07.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们失去了什么]]></title>
+        <id>https://news.ycombinator.com/item?id=30318079</id>
+        <link href="https://news.ycombinator.com/item?id=30318079"/>
+        <updated>2022-02-13T01:10:51.000Z</updated>
+        <summary type="html"><![CDATA[What We Lost]]></summary>
+        <author>
+            <name>tylerchr</name>
+            <uri>https://news.ycombinator.com/user?id=tylerchr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CJSON - ANSI C语言的超轻量级JSON解析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30302933</id>
+        <link href="https://news.ycombinator.com/item?id=30302933"/>
+        <updated>2022-02-11T16:00:23.000Z</updated>
+        <summary type="html"><![CDATA[CJSON – Ultralightweight JSON parser in ANSI C]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[检察官不会起诉揭发数据库漏洞的记者]]></title>
         <id>https://news.ycombinator.com/item?id=30318208</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷达跌落检测和呼吸速率低于40美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30146374</id>
-        <link href="https://news.ycombinator.com/item?id=30146374"/>
-        <updated>2022-01-31T10:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Radar fall detection and breath rate under $40]]></summary>
-        <author>
-            <name>GameOfKnowing</name>
-            <uri>https://news.ycombinator.com/user?id=GameOfKnowing</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锥齿轮。锈迹斑斑的透明C]]></title>
-        <id>https://news.ycombinator.com/item?id=30169263</id>
-        <link href="https://news.ycombinator.com/item?id=30169263"/>
-        <updated>2022-02-01T21:06:55.000Z</updated>
-        <summary type="html"><![CDATA[C2rust: Transpile C to Rust]]></summary>
-        <author>
-            <name>juancampa</name>
-            <uri>https://news.ycombinator.com/user?id=juancampa</uri>
         </author>
     </entry>
 </feed>
