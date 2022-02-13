@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T03:28:54.690Z</updated>
+    <updated>2022-02-13T03:37:09.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[单对以太网（SPE）--技术上的飞跃]]></title>
+        <id>https://news.ycombinator.com/item?id=30318559</id>
+        <link href="https://news.ycombinator.com/item?id=30318559"/>
+        <updated>2022-02-13T02:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Single Pair Ethernet (SPE) – a leap forward in technology]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脸书支付]]></title>
         <id>https://news.ycombinator.com/item?id=30318704</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>khorne</name>
             <uri>https://news.ycombinator.com/user?id=khorne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于Wordle、《纽约时报》和反托拉斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30169714</id>
-        <link href="https://news.ycombinator.com/item?id=30169714"/>
-        <updated>2022-02-01T21:36:34.000Z</updated>
-        <summary type="html"><![CDATA[On Wordle, the NYT, and Antitrust]]></summary>
-        <author>
-            <name>semioticthrowa</name>
-            <uri>https://news.ycombinator.com/user?id=semioticthrowa</uri>
         </author>
     </entry>
 </feed>
