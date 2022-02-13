@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Feb 2022 13:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 14:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Python進行自動音樂創作]]></title>
+            <link>https://news.ycombinator.com/item?id=30321645</link>
+            <guid>https://news.ycombinator.com/item?id=30321645</guid>
+            <pubDate>Sun, 13 Feb 2022 13:33:00 GMT</pubDate>
+            <description><![CDATA[Automatic Musical Composition with Python]]></description>
+        </item>
         <item>
             <title><![CDATA[白帽黑客因修復ETH創建漏洞獲200萬美元獎金]]></title>
             <link>https://news.ycombinator.com/item?id=30321347</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30176635</guid>
             <pubDate>Wed, 02 Feb 2022 12:32:43 GMT</pubDate>
             <description><![CDATA[Tesla admits its sales figures where wrong]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Postman現在支持gRPC]]></title>
-            <link>https://news.ycombinator.com/item?id=30176745</link>
-            <guid>https://news.ycombinator.com/item?id=30176745</guid>
-            <pubDate>Wed, 02 Feb 2022 12:45:58 GMT</pubDate>
-            <description><![CDATA[Postman Now Supports gRPC]]></description>
         </item>
     </channel>
 </rss>
