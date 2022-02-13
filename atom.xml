@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T13:00:46.077Z</updated>
+    <updated>2022-02-13T13:28:29.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[白帽黑客因修复ETH创建漏洞获200万美元奖金]]></title>
+        <id>https://news.ycombinator.com/item?id=30321347</id>
+        <link href="https://news.ycombinator.com/item?id=30321347"/>
+        <updated>2022-02-13T12:42:53.000Z</updated>
+        <summary type="html"><![CDATA[White Hat Hacker Awarded $2M for Fixing ETH-Creation Bug]]></summary>
+        <author>
+            <name>cristiandima</name>
+            <uri>https://news.ycombinator.com/user?id=cristiandima</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用Rust编写和编译壳牌代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30321305</id>
+        <link href="https://news.ycombinator.com/item?id=30321305"/>
+        <updated>2022-02-13T12:34:56.000Z</updated>
+        <summary type="html"><![CDATA[How to Write and Compile Shellcodes in Rust]]></summary>
+        <author>
+            <name>sylvain_kerkour</name>
+            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只有14例。几内亚蠕虫病接近根除]]></title>
+        <id>https://news.ycombinator.com/item?id=30321133</id>
+        <link href="https://news.ycombinator.com/item?id=30321133"/>
+        <updated>2022-02-13T11:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Just 14 cases: Guinea worm disease nears eradication]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弃用和删除offscreenBuffering的意图]]></title>
         <id>https://news.ycombinator.com/item?id=30321289</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>ace33</name>
             <uri>https://news.ycombinator.com/user?id=ace33</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDPR执行者裁定IAB欧洲的同意弹出窗口是非法的]]></title>
-        <id>https://news.ycombinator.com/item?id=30176712</id>
-        <link href="https://news.ycombinator.com/item?id=30176712"/>
-        <updated>2022-02-02T12:42:50.000Z</updated>
-        <summary type="html"><![CDATA[GDPR enforcer rules that IAB Europe’s consent popups are unlawful]]></summary>
-        <author>
-            <name>bajtos</name>
-            <uri>https://news.ycombinator.com/user?id=bajtos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MagicBell (YC W21)正在招聘一名Ruby on Rails的创始工程师[远程]。]]></title>
-        <id>https://news.ycombinator.com/item?id=30176412</id>
-        <link href="https://news.ycombinator.com/item?id=30176412"/>
-        <updated>2022-02-02T12:00:13.000Z</updated>
-        <summary type="html"><![CDATA[MagicBell (YC W21) Is Hiring a Founding Ruby on Rails Engineer [Remote]]]></summary>
-        <author>
-            <name>unamashana</name>
-            <uri>https://news.ycombinator.com/user?id=unamashana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 7.3]]></title>
-        <id>https://news.ycombinator.com/item?id=30176283</id>
-        <link href="https://news.ycombinator.com/item?id=30176283"/>
-        <updated>2022-02-02T11:42:45.000Z</updated>
-        <summary type="html"><![CDATA[LibreOffice 7.3]]></summary>
-        <author>
-            <name>jrepinc</name>
-            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
         </author>
     </entry>
 </feed>

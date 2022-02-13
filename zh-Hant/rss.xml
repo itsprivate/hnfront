@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Feb 2022 13:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 13:28:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[白帽黑客因修復ETH創建漏洞獲200萬美元獎金]]></title>
+            <link>https://news.ycombinator.com/item?id=30321347</link>
+            <guid>https://news.ycombinator.com/item?id=30321347</guid>
+            <pubDate>Sun, 13 Feb 2022 12:42:53 GMT</pubDate>
+            <description><![CDATA[White Hat Hacker Awarded $2M for Fixing ETH-Creation Bug]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何用Rust編寫和編譯殼牌代碼]]></title>
+            <link>https://news.ycombinator.com/item?id=30321305</link>
+            <guid>https://news.ycombinator.com/item?id=30321305</guid>
+            <pubDate>Sun, 13 Feb 2022 12:34:56 GMT</pubDate>
+            <description><![CDATA[How to Write and Compile Shellcodes in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[只有14例。幾內亞蠕蟲病接近根除]]></title>
+            <link>https://news.ycombinator.com/item?id=30321133</link>
+            <guid>https://news.ycombinator.com/item?id=30321133</guid>
+            <pubDate>Sun, 13 Feb 2022 11:56:25 GMT</pubDate>
+            <description><![CDATA[Just 14 cases: Guinea worm disease nears eradication]]></description>
+        </item>
         <item>
             <title><![CDATA[棄用和刪除offscreenBuffering的意圖]]></title>
             <link>https://news.ycombinator.com/item?id=30321289</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30176745</guid>
             <pubDate>Wed, 02 Feb 2022 12:45:58 GMT</pubDate>
             <description><![CDATA[Postman Now Supports gRPC]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GDPR執行者裁定IAB歐洲的同意彈出窗口是非法的]]></title>
-            <link>https://news.ycombinator.com/item?id=30176712</link>
-            <guid>https://news.ycombinator.com/item?id=30176712</guid>
-            <pubDate>Wed, 02 Feb 2022 12:42:50 GMT</pubDate>
-            <description><![CDATA[GDPR enforcer rules that IAB Europe’s consent popups are unlawful]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MagicBell (YC W21)正在招聘一名Ruby on Rails的創始工程師[遠程]。]]></title>
-            <link>https://news.ycombinator.com/item?id=30176412</link>
-            <guid>https://news.ycombinator.com/item?id=30176412</guid>
-            <pubDate>Wed, 02 Feb 2022 12:00:13 GMT</pubDate>
-            <description><![CDATA[MagicBell (YC W21) Is Hiring a Founding Ruby on Rails Engineer [Remote]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[LibreOffice 7.3]]></title>
-            <link>https://news.ycombinator.com/item?id=30176283</link>
-            <guid>https://news.ycombinator.com/item?id=30176283</guid>
-            <pubDate>Wed, 02 Feb 2022 11:42:45 GMT</pubDate>
-            <description><![CDATA[LibreOffice 7.3]]></description>
         </item>
     </channel>
 </rss>
