@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T21:08:37.658Z</updated>
+    <updated>2022-02-13T22:09:26.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[漫畫家荷蘭-舒爾茨的遺言(2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=30318080</id>
+        <link href="https://news.ycombinator.com/item?id=30318080"/>
+        <updated>2022-02-13T01:10:53.000Z</updated>
+        <summary type="html"><![CDATA[The Last Words of Dutch Schultz, the Cartoon (2014)]]></summary>
+        <author>
+            <name>samclemens</name>
+            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EasyPost (YC S13) 正在招聘遠程人員]]></title>
         <id>https://news.ycombinator.com/item?id=30325642</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啟動HN：Sieve (YC W22) - 視頻搜索的可插拔API]]></title>
-        <id>https://news.ycombinator.com/item?id=30181676</id>
-        <link href="https://news.ycombinator.com/item?id=30181676"/>
-        <updated>2022-02-02T18:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Sieve (YC W22) – Pluggable APIs for Video Search]]></summary>
-        <author>
-            <name>mvoodarla</name>
-            <uri>https://news.ycombinator.com/user?id=mvoodarla</uri>
         </author>
     </entry>
 </feed>
