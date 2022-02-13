@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T14:49:47.168Z</updated>
+    <updated>2022-02-13T15:08:36.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Pixel 6和Android 13 DP1上使用KVM的虛擬機]]></title>
+        <id>https://news.ycombinator.com/item?id=30322035</id>
+        <link href="https://news.ycombinator.com/item?id=30322035"/>
+        <updated>2022-02-13T14:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Virtual machines with KVM on Pixel 6 and Android 13 DP1]]></summary>
+        <author>
+            <name>farmerbb</name>
+            <uri>https://news.ycombinator.com/user?id=farmerbb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對社會和技術的發展方向感到幻滅]]></title>
         <id>https://news.ycombinator.com/item?id=30321888</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>wylie39</name>
             <uri>https://news.ycombinator.com/user?id=wylie39</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube的新審查策略是限制太受歡迎的流媒體]]></title>
-        <id>https://news.ycombinator.com/item?id=30177216</id>
-        <link href="https://news.ycombinator.com/item?id=30177216"/>
-        <updated>2022-02-02T13:32:13.000Z</updated>
-        <summary type="html"><![CDATA[YouTube’s new censorship tactic is to limit streams that are too popular]]></summary>
-        <author>
-            <name>huntermeyer</name>
-            <uri>https://news.ycombinator.com/user?id=huntermeyer</uri>
         </author>
     </entry>
 </feed>
