@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T09:08:51.145Z</updated>
+    <updated>2022-02-13T09:49:10.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[金融化-全球化的代價。你失去了50萬美元，得到了137.13美元]]></title>
+        <id>https://news.ycombinator.com/item?id=30320271</id>
+        <link href="https://news.ycombinator.com/item?id=30320271"/>
+        <updated>2022-02-13T08:35:48.000Z</updated>
+        <summary type="html"><![CDATA[The Cost of Financialization-Globalization: You Lost $500k and Gained $137.13]]></summary>
+        <author>
+            <name>Melchizedek</name>
+            <uri>https://news.ycombinator.com/user?id=Melchizedek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CORS不是用來保護API端點的。]]></title>
         <id>https://news.ycombinator.com/item?id=30320113</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bpierre</name>
             <uri>https://news.ycombinator.com/user?id=bpierre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCaml實驗室加入Tarides]]></title>
-        <id>https://news.ycombinator.com/item?id=30173075</id>
-        <link href="https://news.ycombinator.com/item?id=30173075"/>
-        <updated>2022-02-02T02:55:44.000Z</updated>
-        <summary type="html"><![CDATA[OCaml Labs Joins Tarides]]></summary>
-        <author>
-            <name>S4M</name>
-            <uri>https://news.ycombinator.com/user?id=S4M</uri>
         </author>
     </entry>
 </feed>
