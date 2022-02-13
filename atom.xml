@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T05:33:53.593Z</updated>
+    <updated>2022-02-13T05:49:04.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL的时间戳和时区。你需要知道什么--你不需要知道什么]]></title>
+        <id>https://news.ycombinator.com/item?id=30318751</id>
+        <link href="https://news.ycombinator.com/item?id=30318751"/>
+        <updated>2022-02-13T03:09:27.000Z</updated>
+        <summary type="html"><![CDATA[PostgreSQL Timestamps and Timezones: What You Need to Know–and What You Don’t]]></summary>
+        <author>
+            <name>lobo_tuerto</name>
+            <uri>https://news.ycombinator.com/user?id=lobo_tuerto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何退学]]></title>
         <id>https://news.ycombinator.com/item?id=30318285</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>elteto</name>
             <uri>https://news.ycombinator.com/user?id=elteto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPIE AR/VR/MR 2022上对Magic Leap 2的分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30170924</id>
-        <link href="https://news.ycombinator.com/item?id=30170924"/>
-        <updated>2022-02-01T23:05:19.000Z</updated>
-        <summary type="html"><![CDATA[Analysis of Magic Leap 2 at SPIE AR/VR/Mr 2022]]></summary>
-        <author>
-            <name>kguttag</name>
-            <uri>https://news.ycombinator.com/user?id=kguttag</uri>
         </author>
     </entry>
 </feed>
