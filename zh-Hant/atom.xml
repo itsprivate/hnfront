@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T19:07:13.396Z</updated>
+    <updated>2022-02-13T19:49:29.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為拖延症患者復活古老的Wordle]]></title>
+        <id>https://news.ycombinator.com/item?id=30324771</id>
+        <link href="https://news.ycombinator.com/item?id=30324771"/>
+        <updated>2022-02-13T19:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Resurrecting the Old Wordle for Procrastinators]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鐵路的興起催生了第一張組織結構圖(2017)]]></title>
         <id>https://news.ycombinator.com/item?id=30323355</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Gabriel_h</name>
             <uri>https://news.ycombinator.com/user?id=Gabriel_h</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[發佈GPT-NeoX-20B]]></title>
-        <id>https://news.ycombinator.com/item?id=30179398</id>
-        <link href="https://news.ycombinator.com/item?id=30179398"/>
-        <updated>2022-02-02T16:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Announcing GPT-NeoX-20B]]></summary>
-        <author>
-            <name>jscob</name>
-            <uri>https://news.ycombinator.com/user?id=jscob</uri>
         </author>
     </entry>
 </feed>
