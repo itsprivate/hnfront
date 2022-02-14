@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T01:35:48.224Z</updated>
+    <updated>2022-02-14T02:38:51.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們在著名的公司改用了$Hyped_technology。]]></title>
+        <id>https://news.ycombinator.com/item?id=30322623</id>
+        <link href="https://news.ycombinator.com/item?id=30322623"/>
+        <updated>2022-02-13T16:02:08.000Z</updated>
+        <summary type="html"><![CDATA[We at $Famous_company Switched to $Hyped_technology]]></summary>
+        <author>
+            <name>WayToDoor</name>
+            <uri>https://news.ycombinator.com/user?id=WayToDoor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12英尺梯子的未來]]></title>
         <id>https://news.ycombinator.com/item?id=30327050</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bristle（YC W21）正在招聘一名前端工程師，以改善口腔健康護理]]></title>
-        <id>https://news.ycombinator.com/item?id=30184003</id>
-        <link href="https://news.ycombinator.com/item?id=30184003"/>
-        <updated>2022-02-02T21:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Bristle (YC W21) Is Hiring a Front-end Engineer to improve oral health care]]></summary>
-        <author>
-            <name>david_l_lin</name>
-            <uri>https://news.ycombinator.com/user?id=david_l_lin</uri>
         </author>
     </entry>
 </feed>
