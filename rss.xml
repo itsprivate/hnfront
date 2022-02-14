@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 14 Feb 2022 15:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 15:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Covid19病例/死亡人数的分散性不足，可能表明有数据操作。]]></title>
+            <link>https://news.ycombinator.com/item?id=30332761</link>
+            <guid>https://news.ycombinator.com/item?id=30332761</guid>
+            <pubDate>Mon, 14 Feb 2022 15:00:44 GMT</pubDate>
+            <description><![CDATA[Underdispersion in the Covid19 case/death numbers may suggest data manipulations]]></description>
+        </item>
         <item>
             <title><![CDATA[推出HN：Fogbender (YC W22) - 为客户团队设计的B2B支持软件]]></title>
             <link>https://news.ycombinator.com/item?id=30332448</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30191854</guid>
             <pubDate>Thu, 03 Feb 2022 13:01:14 GMT</pubDate>
             <description><![CDATA[SnapFuzz: New fuzzing tool speeds up testing of network applications]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Web3不会改变世界]]></title>
-            <link>https://news.ycombinator.com/item?id=30191681</link>
-            <guid>https://news.ycombinator.com/item?id=30191681</guid>
-            <pubDate>Thu, 03 Feb 2022 12:39:14 GMT</pubDate>
-            <description><![CDATA[Web3 is not going to change the world]]></description>
         </item>
     </channel>
 </rss>
