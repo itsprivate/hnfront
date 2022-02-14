@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 14 Feb 2022 18:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 18:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何在不進行微觀管理的情況下管理軟件開發人員]]></title>
+            <link>https://news.ycombinator.com/item?id=30332172</link>
+            <guid>https://news.ycombinator.com/item?id=30332172</guid>
+            <pubDate>Mon, 14 Feb 2022 14:10:57 GMT</pubDate>
+            <description><![CDATA[How to manage software developers without micromanaging]]></description>
+        </item>
         <item>
             <title><![CDATA[一個壞東西的數據庫，以確定常見的故障模式和如何修復它們]]></title>
             <link>https://news.ycombinator.com/item?id=30335314</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30195191</guid>
             <pubDate>Thu, 03 Feb 2022 17:12:01 GMT</pubDate>
             <description><![CDATA[Launch HN: Ploomber (YC W22) – Quickly deploy data pipelines from Jupyter/VSCode]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苦樂參半的Symfony。開發人員不小心關閉了PHP框架中的CSRF保護功能]]></title>
-            <link>https://news.ycombinator.com/item?id=30195024</link>
-            <guid>https://news.ycombinator.com/item?id=30195024</guid>
-            <pubDate>Thu, 03 Feb 2022 17:01:55 GMT</pubDate>
-            <description><![CDATA[Bittersweet Symfony: Devs accidentally turn off CSRF protection in PHP framework]]></description>
         </item>
     </channel>
 </rss>

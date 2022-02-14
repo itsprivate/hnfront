@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T18:10:04.224Z</updated>
+    <updated>2022-02-14T18:50:36.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在不進行微觀管理的情況下管理軟件開發人員]]></title>
+        <id>https://news.ycombinator.com/item?id=30332172</id>
+        <link href="https://news.ycombinator.com/item?id=30332172"/>
+        <updated>2022-02-14T14:10:57.000Z</updated>
+        <summary type="html"><![CDATA[How to manage software developers without micromanaging]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個壞東西的數據庫，以確定常見的故障模式和如何修復它們]]></title>
         <id>https://news.ycombinator.com/item?id=30335314</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>edublancas</name>
             <uri>https://news.ycombinator.com/user?id=edublancas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苦樂參半的Symfony。開發人員不小心關閉了PHP框架中的CSRF保護功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30195024</id>
-        <link href="https://news.ycombinator.com/item?id=30195024"/>
-        <updated>2022-02-03T17:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Bittersweet Symfony: Devs accidentally turn off CSRF protection in PHP framework]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
