@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-13T23:49:24.322Z</updated>
+    <updated>2022-02-14T00:27:58.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那些大量写笔记的人很少有严肃的使用背景]]></title>
+        <id>https://news.ycombinator.com/item?id=30326942</id>
+        <link href="https://news.ycombinator.com/item?id=30326942"/>
+        <updated>2022-02-14T00:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Those writing extensively on note-writing rarely have a serious context of use]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基本网络故障排除]]></title>
+        <id>https://news.ycombinator.com/item?id=30317540</id>
+        <link href="https://news.ycombinator.com/item?id=30317540"/>
+        <updated>2022-02-12T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Basic Network Troubleshooting]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SARS-CoV-2在完全接种者中的传播性]]></title>
         <id>https://news.ycombinator.com/item?id=30326692</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>xx_ns</name>
             <uri>https://news.ycombinator.com/user?id=xx_ns</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么数学中没有复制危机？]]></title>
-        <id>https://news.ycombinator.com/item?id=30181696</id>
-        <link href="https://news.ycombinator.com/item?id=30181696"/>
-        <updated>2022-02-02T18:26:33.000Z</updated>
-        <summary type="html"><![CDATA[Why isn't there a replication crisis in math?]]></summary>
-        <author>
-            <name>jseliger</name>
-            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana Incident。为你的团队提供智能的事件管理]]></title>
-        <id>https://news.ycombinator.com/item?id=30181452</id>
-        <link href="https://news.ycombinator.com/item?id=30181452"/>
-        <updated>2022-02-02T18:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Grafana Incident: Smart incident management for your teams]]></summary>
-        <author>
-            <name>matryer</name>
-            <uri>https://news.ycombinator.com/user?id=matryer</uri>
         </author>
     </entry>
 </feed>
