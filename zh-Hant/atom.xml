@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T19:24:36.872Z</updated>
+    <updated>2022-02-14T19:34:37.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MonoLisa - 專為開發人員設計的字體]]></title>
+        <id>https://news.ycombinator.com/item?id=30336809</id>
+        <link href="https://news.ycombinator.com/item?id=30336809"/>
+        <updated>2022-02-14T19:15:28.000Z</updated>
+        <summary type="html"><![CDATA[MonoLisa – A Font Designed for Developers]]></summary>
+        <author>
+            <name>qubitcoder</name>
+            <uri>https://news.ycombinator.com/user?id=qubitcoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MikroTik認證揭秘]]></title>
         <id>https://news.ycombinator.com/item?id=30334291</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>homarp</name>
             <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[應用商店法案在參議院司法委員會順利通過]]></title>
-        <id>https://news.ycombinator.com/item?id=30195167</id>
-        <link href="https://news.ycombinator.com/item?id=30195167"/>
-        <updated>2022-02-03T17:10:51.000Z</updated>
-        <summary type="html"><![CDATA[App store bill sails out of Senate Judiciary Committee]]></summary>
-        <author>
-            <name>mark-ruwt</name>
-            <uri>https://news.ycombinator.com/user?id=mark-ruwt</uri>
         </author>
     </entry>
 </feed>
