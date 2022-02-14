@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T17:10:13.727Z</updated>
+    <updated>2022-02-14T17:28:42.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宠物小精灵GAN]]></title>
+        <id>https://news.ycombinator.com/item?id=30334399</id>
+        <link href="https://news.ycombinator.com/item?id=30334399"/>
+        <updated>2022-02-14T17:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Pokemon GAN]]></summary>
+        <author>
+            <name>aliabd</name>
+            <uri>https://news.ycombinator.com/user?id=aliabd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Mermaid在你的Markdown文件中包含图表]]></title>
+        <id>https://news.ycombinator.com/item?id=30334338</id>
+        <link href="https://news.ycombinator.com/item?id=30334338"/>
+        <updated>2022-02-14T16:58:19.000Z</updated>
+        <summary type="html"><![CDATA[Include diagrams in your Markdown files with Mermaid]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freshpaint（YC S19）去年增长8倍，正在招聘软件工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30334371</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>hokumguru</name>
             <uri>https://news.ycombinator.com/user?id=hokumguru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电价是个谎言]]></title>
-        <id>https://news.ycombinator.com/item?id=30193521</id>
-        <link href="https://news.ycombinator.com/item?id=30193521"/>
-        <updated>2022-02-03T15:20:01.000Z</updated>
-        <summary type="html"><![CDATA[Electricity Prices Are a Lie]]></summary>
-        <author>
-            <name>snewman</name>
-            <uri>https://news.ycombinator.com/user?id=snewman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么美国和欧洲的半挂车如此不同？]]></title>
-        <id>https://news.ycombinator.com/item?id=30193469</id>
-        <link href="https://news.ycombinator.com/item?id=30193469"/>
-        <updated>2022-02-03T15:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Why semi-trucks in US and Europe are so different?]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>
