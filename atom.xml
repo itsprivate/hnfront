@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T18:50:36.393Z</updated>
+    <updated>2022-02-14T19:24:36.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MikroTik认证揭秘]]></title>
+        <id>https://news.ycombinator.com/item?id=30334291</id>
+        <link href="https://news.ycombinator.com/item?id=30334291"/>
+        <updated>2022-02-14T16:55:03.000Z</updated>
+        <summary type="html"><![CDATA[MikroTik Authentication Revealed]]></summary>
+        <author>
+            <name>aaronsdevera</name>
+            <uri>https://news.ycombinator.com/user?id=aaronsdevera</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在不进行微观管理的情况下管理软件开发人员]]></title>
         <id>https://news.ycombinator.com/item?id=30332172</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mark-ruwt</name>
             <uri>https://news.ycombinator.com/user?id=mark-ruwt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Ploomber（YC W22）--从Jupyter/VSCode快速部署数据管线]]></title>
-        <id>https://news.ycombinator.com/item?id=30195191</id>
-        <link href="https://news.ycombinator.com/item?id=30195191"/>
-        <updated>2022-02-03T17:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Ploomber (YC W22) – Quickly deploy data pipelines from Jupyter/VSCode]]></summary>
-        <author>
-            <name>edublancas</name>
-            <uri>https://news.ycombinator.com/user?id=edublancas</uri>
         </author>
     </entry>
 </feed>
