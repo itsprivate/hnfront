@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T03:09:36.385Z</updated>
+    <updated>2022-02-14T03:38:13.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TclTutor 3: 用於學習Tcl語言的計算機輔助教學包]]></title>
+        <id>https://news.ycombinator.com/item?id=30327945</id>
+        <link href="https://news.ycombinator.com/item?id=30327945"/>
+        <updated>2022-02-14T02:58:40.000Z</updated>
+        <summary type="html"><![CDATA[TclTutor 3: Computer aided instruction package for learning the Tcl language]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perl拯救了人類基因組計劃 (1996)]]></title>
         <id>https://news.ycombinator.com/item?id=30327812</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Zanni</name>
             <uri>https://news.ycombinator.com/user?id=Zanni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直言不諱地指出。缺少睡眠的影響]]></title>
-        <id>https://news.ycombinator.com/item?id=30184796</id>
-        <link href="https://news.ycombinator.com/item?id=30184796"/>
-        <updated>2022-02-02T22:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Bluntly Stated: The Impacts of Lack of Sleep]]></summary>
-        <author>
-            <name>belkarx</name>
-            <uri>https://news.ycombinator.com/user?id=belkarx</uri>
         </author>
     </entry>
 </feed>
