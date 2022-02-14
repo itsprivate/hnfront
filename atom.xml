@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T10:10:01.281Z</updated>
+    <updated>2022-02-14T11:25:29.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[.NET的20年]]></title>
+        <id>https://news.ycombinator.com/item?id=30330565</id>
+        <link href="https://news.ycombinator.com/item?id=30330565"/>
+        <updated>2022-02-14T10:58:19.000Z</updated>
+        <summary type="html"><![CDATA[20 Years of .NET]]></summary>
+        <author>
+            <name>dustinmoris</name>
+            <uri>https://news.ycombinator.com/user?id=dustinmoris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文本渲染憎恨你]]></title>
         <id>https://news.ycombinator.com/item?id=30330144</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>rukshn</name>
             <uri>https://news.ycombinator.com/user?id=rukshn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：Brave不希望你使用VPN。这样做可能会给你贴上 "可疑 "的标签]]></title>
-        <id>https://news.ycombinator.com/item?id=30189935</id>
-        <link href="https://news.ycombinator.com/item?id=30189935"/>
-        <updated>2022-02-03T08:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Brave doesn't want you to use a VPN. Doing so may label you "suspect"]]></summary>
-        <author>
-            <name>jamesdwilson</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdwilson</uri>
         </author>
     </entry>
 </feed>
