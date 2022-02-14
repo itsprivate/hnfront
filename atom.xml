@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T08:33:00.999Z</updated>
+    <updated>2022-02-14T08:49:13.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go语言的第一次提交（1972年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30329279</id>
+        <link href="https://news.ycombinator.com/item?id=30329279"/>
+        <updated>2022-02-14T07:41:48.000Z</updated>
+        <summary type="html"><![CDATA[The Go language's first commit (1972)]]></summary>
+        <author>
+            <name>arraypad</name>
+            <uri>https://news.ycombinator.com/user?id=arraypad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我用来与数百人保持联系的简单系统]]></title>
         <id>https://news.ycombinator.com/item?id=30329475</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>sirodoht</name>
             <uri>https://news.ycombinator.com/user?id=sirodoht</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个像素的颜色]]></title>
-        <id>https://news.ycombinator.com/item?id=30162709</id>
-        <link href="https://news.ycombinator.com/item?id=30162709"/>
-        <updated>2022-02-01T14:20:05.000Z</updated>
-        <summary type="html"><![CDATA[A Pixel's Color]]></summary>
-        <author>
-            <name>pantalaimon</name>
-            <uri>https://news.ycombinator.com/user?id=pantalaimon</uri>
         </author>
     </entry>
 </feed>
