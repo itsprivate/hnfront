@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T04:53:50.297Z</updated>
+    <updated>2022-02-14T05:34:02.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼字母的形狀是這樣的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30320909</id>
+        <link href="https://news.ycombinator.com/item?id=30320909"/>
+        <updated>2022-02-13T11:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Why are letters shaped the way they are?]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[看一看學習加密貨幣的低風險方法]]></title>
         <id>https://news.ycombinator.com/item?id=30328312</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>prismatic</name>
             <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徒步匈牙利藍道的官僚主義]]></title>
-        <id>https://news.ycombinator.com/item?id=30169656</id>
-        <link href="https://news.ycombinator.com/item?id=30169656"/>
-        <updated>2022-02-01T21:32:47.000Z</updated>
-        <summary type="html"><![CDATA[The bureaucracy of hiking Hungary's Blue Trail]]></summary>
-        <author>
-            <name>redeemed</name>
-            <uri>https://news.ycombinator.com/user?id=redeemed</uri>
         </author>
     </entry>
 </feed>
