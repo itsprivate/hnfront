@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T15:30:43.958Z</updated>
+    <updated>2022-02-14T15:40:39.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Spodcast，一個Spotify播客到RSS的代理。]]></title>
+        <id>https://news.ycombinator.com/item?id=30332141</id>
+        <link href="https://news.ycombinator.com/item?id=30332141"/>
+        <updated>2022-02-14T14:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Spodcast, a Spotify podcast to RSS proxy]]></summary>
+        <author>
+            <name>Ourgon</name>
+            <uri>https://news.ycombinator.com/user?id=Ourgon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dango視圖小抄]]></title>
+        <id>https://news.ycombinator.com/item?id=30330851</id>
+        <link href="https://news.ycombinator.com/item?id=30330851"/>
+        <updated>2022-02-14T11:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Dango Views Cheatsheets]]></summary>
+        <author>
+            <name>punnerud</name>
+            <uri>https://news.ycombinator.com/user?id=punnerud</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Covid19病例/死亡人數的分散性不足，可能表明有數據操作。]]></title>
         <id>https://news.ycombinator.com/item?id=30332761</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>rowid</name>
             <uri>https://news.ycombinator.com/user?id=rowid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩轉Matplotlib樣式表]]></title>
-        <id>https://news.ycombinator.com/item?id=30192032</id>
-        <link href="https://news.ycombinator.com/item?id=30192032"/>
-        <updated>2022-02-03T13:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Playing with Matplotlib style sheets]]></summary>
-        <author>
-            <name>data21_io</name>
-            <uri>https://news.ycombinator.com/user?id=data21_io</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SnapFuzz。新的模糊測試工具加速了對網絡應用的測試]]></title>
-        <id>https://news.ycombinator.com/item?id=30191854</id>
-        <link href="https://news.ycombinator.com/item?id=30191854"/>
-        <updated>2022-02-03T13:01:14.000Z</updated>
-        <summary type="html"><![CDATA[SnapFuzz: New fuzzing tool speeds up testing of network applications]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
