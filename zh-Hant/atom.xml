@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T21:09:28.324Z</updated>
+    <updated>2022-02-14T21:22:36.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[X一代標記的位置]]></title>
+        <id>https://news.ycombinator.com/item?id=30338253</id>
+        <link href="https://news.ycombinator.com/item?id=30338253"/>
+        <updated>2022-02-14T20:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Gen X Marks the Spot]]></summary>
+        <author>
+            <name>andrenth</name>
+            <uri>https://news.ycombinator.com/user?id=andrenth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneSignal（YC S11）正在招聘一名對產品主導型增長感興趣的產品經理]]></title>
         <id>https://news.ycombinator.com/item?id=30338277</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>hkmaxpro</name>
             <uri>https://news.ycombinator.com/user?id=hkmaxpro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國立法者提出 "維修權 "法案以刺激競爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30193995</id>
-        <link href="https://news.ycombinator.com/item?id=30193995"/>
-        <updated>2022-02-03T15:55:34.000Z</updated>
-        <summary type="html"><![CDATA[U.S. lawmakers introduce 'Right to Repair' bills to spur competition]]></summary>
-        <author>
-            <name>mark-ruwt</name>
-            <uri>https://news.ycombinator.com/user?id=mark-ruwt</uri>
         </author>
     </entry>
 </feed>
