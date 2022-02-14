@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T05:34:02.884Z</updated>
+    <updated>2022-02-14T05:49:03.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[穩健性原則的有害後果]]></title>
+        <id>https://news.ycombinator.com/item?id=30328446</id>
+        <link href="https://news.ycombinator.com/item?id=30328446"/>
+        <updated>2022-02-14T04:44:20.000Z</updated>
+        <summary type="html"><![CDATA[The Harmful Consequences of the Robustness Principle]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼字母的形狀是這樣的？]]></title>
         <id>https://news.ycombinator.com/item?id=30320909</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過一個業餘愛好者的相機安靜地瞥見世紀之交的紐約市。]]></title>
-        <id>https://news.ycombinator.com/item?id=30149472</id>
-        <link href="https://news.ycombinator.com/item?id=30149472"/>
-        <updated>2022-01-31T16:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Quiet glimpses of the turn of the century NYC through an amateur’s camera]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
         </author>
     </entry>
 </feed>
