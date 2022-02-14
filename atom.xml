@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T14:50:15.761Z</updated>
+    <updated>2022-02-14T15:09:08.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推出HN：Fogbender (YC W22) - 为客户团队设计的B2B支持软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30332448</id>
+        <link href="https://news.ycombinator.com/item?id=30332448"/>
+        <updated>2022-02-14T14:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Fogbender (YC W22) – B2B support software designed for customer teams]]></summary>
+        <author>
+            <name>rekoros</name>
+            <uri>https://news.ycombinator.com/user?id=rekoros</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么没有人愿意教她数学？]]></title>
+        <id>https://news.ycombinator.com/item?id=30332128</id>
+        <link href="https://news.ycombinator.com/item?id=30332128"/>
+        <updated>2022-02-14T14:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Why Won’t Anyone Teach Her Math?]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[积家的发明和记录]]></title>
         <id>https://news.ycombinator.com/item?id=30331943</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>cal2016</name>
             <uri>https://news.ycombinator.com/user?id=cal2016</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Erlang OTP中设计和原型实现一个IRC聊天服务器]]></title>
-        <id>https://news.ycombinator.com/item?id=30191742</id>
-        <link href="https://news.ycombinator.com/item?id=30191742"/>
-        <updated>2022-02-03T12:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Design and Prototypical Implementation of an IRC Chat Server in Erlang OTP]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是的，我可以在CSS中连接到一个数据库。]]></title>
-        <id>https://news.ycombinator.com/item?id=30191729</id>
-        <link href="https://news.ycombinator.com/item?id=30191729"/>
-        <updated>2022-02-03T12:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Yes, I can connect to a DB in CSS]]></summary>
-        <author>
-            <name>skilled</name>
-            <uri>https://news.ycombinator.com/user?id=skilled</uri>
         </author>
     </entry>
 </feed>
