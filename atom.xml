@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T00:27:58.224Z</updated>
+    <updated>2022-02-14T01:35:48.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[12英尺梯子的未来]]></title>
+        <id>https://news.ycombinator.com/item?id=30327050</id>
+        <link href="https://news.ycombinator.com/item?id=30327050"/>
+        <updated>2022-02-14T00:18:17.000Z</updated>
+        <summary type="html"><![CDATA[The Future of 12ft Ladder]]></summary>
+        <author>
+            <name>jackdaw12</name>
+            <uri>https://news.ycombinator.com/user?id=jackdaw12</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那些大量写笔记的人很少有严肃的使用背景]]></title>
         <id>https://news.ycombinator.com/item?id=30326942</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>david_l_lin</name>
             <uri>https://news.ycombinator.com/user?id=david_l_lin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要相信评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30154121</id>
-        <link href="https://news.ycombinator.com/item?id=30154121"/>
-        <updated>2022-01-31T20:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Don't trust comments]]></summary>
-        <author>
-            <name>xx_ns</name>
-            <uri>https://news.ycombinator.com/user?id=xx_ns</uri>
         </author>
     </entry>
 </feed>
