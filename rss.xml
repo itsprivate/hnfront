@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 14 Feb 2022 16:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 16:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[戴尔在这里发布链接后删除了Latitude的CPU节流问题]]></title>
+            <link>https://news.ycombinator.com/item?id=30333956</link>
+            <guid>https://news.ycombinator.com/item?id=30333956</guid>
+            <pubDate>Mon, 14 Feb 2022 16:29:09 GMT</pubDate>
+            <description><![CDATA[Dell deletes Latitude CPU Throttling issue after link is posted here]]></description>
+        </item>
+        <item>
+            <title><![CDATA[创作口译员--网络版]]></title>
+            <link>https://news.ycombinator.com/item?id=30332368</link>
+            <guid>https://news.ycombinator.com/item?id=30332368</guid>
+            <pubDate>Mon, 14 Feb 2022 14:26:31 GMT</pubDate>
+            <description><![CDATA[Crafting Interpreters – Web Version]]></description>
+        </item>
+        <item>
+            <title><![CDATA[C++模板。如何通过std:tuple进行迭代：std:apply及更多]]></title>
+            <link>https://news.ycombinator.com/item?id=30332031</link>
+            <guid>https://news.ycombinator.com/item?id=30332031</guid>
+            <pubDate>Mon, 14 Feb 2022 13:57:45 GMT</pubDate>
+            <description><![CDATA[C++ Templates: How to Iterate through std:tuple: std:apply and More]]></description>
+        </item>
         <item>
             <title><![CDATA[Rust中的Stacks 2.0区块链实现]]></title>
             <link>https://news.ycombinator.com/item?id=30333578</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30192209</guid>
             <pubDate>Thu, 03 Feb 2022 13:39:00 GMT</pubDate>
             <description><![CDATA[Last-resort cancer therapy holds back disease for more than a decade]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么没有CS学位很了不起 (2019)]]></title>
-            <link>https://news.ycombinator.com/item?id=30192120</link>
-            <guid>https://news.ycombinator.com/item?id=30192120</guid>
-            <pubDate>Thu, 03 Feb 2022 13:30:34 GMT</pubDate>
-            <description><![CDATA[Why Not Having a CS Degree Is Awesome (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[容器化的隐藏成本]]></title>
-            <link>https://news.ycombinator.com/item?id=30183745</link>
-            <guid>https://news.ycombinator.com/item?id=30183745</guid>
-            <pubDate>Wed, 02 Feb 2022 20:41:44 GMT</pubDate>
-            <description><![CDATA[The Hidden Costs of Containerization]]></description>
-        </item>
-        <item>
-            <title><![CDATA[iPhone漏洞被第二家以色列间谍公司利用]]></title>
-            <link>https://news.ycombinator.com/item?id=30192743</link>
-            <guid>https://news.ycombinator.com/item?id=30192743</guid>
-            <pubDate>Thu, 03 Feb 2022 14:23:41 GMT</pubDate>
-            <description><![CDATA[iPhone flaw exploited by second Israeli spy firm]]></description>
         </item>
     </channel>
 </rss>
