@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T09:49:12.858Z</updated>
+    <updated>2022-02-14T10:10:01.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[文本渲染憎恨你]]></title>
+        <id>https://news.ycombinator.com/item?id=30330144</id>
+        <link href="https://news.ycombinator.com/item?id=30330144"/>
+        <updated>2022-02-14T09:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Text Rendering Hates You]]></summary>
+        <author>
+            <name>WayToDoor</name>
+            <uri>https://news.ycombinator.com/user?id=WayToDoor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件缺陷导致英国法律史上最广泛的司法不公]]></title>
+        <id>https://news.ycombinator.com/item?id=30329668</id>
+        <link href="https://news.ycombinator.com/item?id=30329668"/>
+        <updated>2022-02-14T08:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Software flaw lead to most widespread miscarriage of justice in UK legal history]]></summary>
+        <author>
+            <name>nickdothutton</name>
+            <uri>https://news.ycombinator.com/user?id=nickdothutton</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对TikTok上个性化因素的实证调查(2022)]]></title>
         <id>https://news.ycombinator.com/item?id=30329265</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>jamesdwilson</name>
             <uri>https://news.ycombinator.com/user?id=jamesdwilson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[染色体 "构造 "揭示早期动物进化]]></title>
-        <id>https://news.ycombinator.com/item?id=30182692</id>
-        <link href="https://news.ycombinator.com/item?id=30182692"/>
-        <updated>2022-02-02T19:26:42.000Z</updated>
-        <summary type="html"><![CDATA[Early animal evolution revealed by chromosome ‘tectonics’]]></summary>
-        <author>
-            <name>digital55</name>
-            <uri>https://news.ycombinator.com/user?id=digital55</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密西西比州成为第37个将医用大麻合法化的州]]></title>
-        <id>https://news.ycombinator.com/item?id=30187793</id>
-        <link href="https://news.ycombinator.com/item?id=30187793"/>
-        <updated>2022-02-03T02:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Mississippi is 37th state to legalize medical marijuana]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
         </author>
     </entry>
 </feed>
