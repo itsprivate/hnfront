@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T04:10:14.724Z</updated>
+    <updated>2022-02-14T04:36:24.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[72条规则]]></title>
+        <id>https://news.ycombinator.com/item?id=30320835</id>
+        <link href="https://news.ycombinator.com/item?id=30320835"/>
+        <updated>2022-02-13T10:50:31.000Z</updated>
+        <summary type="html"><![CDATA[The Rule of 72]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要在Reddit等网络论坛上贡献任何相关内容]]></title>
         <id>https://news.ycombinator.com/item?id=30328120</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Naac</name>
             <uri>https://news.ycombinator.com/user?id=Naac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook母公司Meta Platforms股价因第四季度盈利不佳而下跌20%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30185214</id>
-        <link href="https://news.ycombinator.com/item?id=30185214"/>
-        <updated>2022-02-02T22:46:08.000Z</updated>
-        <summary type="html"><![CDATA[Facebook Parent Meta Platforms Shares Tank 20% on Q4 Earnings Miss]]></summary>
-        <author>
-            <name>unboxedvariable</name>
-            <uri>https://news.ycombinator.com/user?id=unboxedvariable</uri>
         </author>
     </entry>
 </feed>
