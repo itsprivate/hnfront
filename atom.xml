@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T16:42:14.128Z</updated>
+    <updated>2022-02-14T16:58:11.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[据报道，加拿大卡车车队捐赠者的名字在黑客攻击后被泄露。]]></title>
+        <id>https://news.ycombinator.com/item?id=30334094</id>
+        <link href="https://news.ycombinator.com/item?id=30334094"/>
+        <updated>2022-02-14T16:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Names of Canada truck convoy donors leaked after reported hack]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戴尔在这里发布链接后删除了Latitude的CPU节流问题]]></title>
         <id>https://news.ycombinator.com/item?id=30333956</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>elvis70</name>
             <uri>https://news.ycombinator.com/user?id=elvis70</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最后手段的癌症治疗将疾病阻挡了十多年]]></title>
-        <id>https://news.ycombinator.com/item?id=30192209</id>
-        <link href="https://news.ycombinator.com/item?id=30192209"/>
-        <updated>2022-02-03T13:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Last-resort cancer therapy holds back disease for more than a decade]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
