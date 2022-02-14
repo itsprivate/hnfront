@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-14T23:27:43.337Z</updated>
+    <updated>2022-02-14T23:36:04.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們為什麼要拐彎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30339670</id>
+        <link href="https://news.ycombinator.com/item?id=30339670"/>
+        <updated>2022-02-14T23:04:09.000Z</updated>
+        <summary type="html"><![CDATA[Why do we round corners?]]></summary>
+        <author>
+            <name>openknot</name>
+            <uri>https://news.ycombinator.com/user?id=openknot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我已經建立了一個設計系統的模板]]></title>
+        <id>https://news.ycombinator.com/item?id=30339382</id>
+        <link href="https://news.ycombinator.com/item?id=30339382"/>
+        <updated>2022-02-14T22:37:26.000Z</updated>
+        <summary type="html"><![CDATA[I've built a design system boilerplate]]></summary>
+        <author>
+            <name>flexdinesh</name>
+            <uri>https://news.ycombinator.com/user?id=flexdinesh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[該跑還是該走？你的身體知道答案]]></title>
         <id>https://news.ycombinator.com/item?id=30331457</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>benlumen</name>
             <uri>https://news.ycombinator.com/user?id=benlumen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slackware 15.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30200134</id>
-        <link href="https://news.ycombinator.com/item?id=30200134"/>
-        <updated>2022-02-03T22:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Slackware 15.0]]></summary>
-        <author>
-            <name>kdtsh</name>
-            <uri>https://news.ycombinator.com/user?id=kdtsh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同化。適用於Mac OS 9的Flood-It遊戲，於2021年發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30176448</id>
-        <link href="https://news.ycombinator.com/item?id=30176448"/>
-        <updated>2022-02-02T12:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Assimilate: A Flood-It game for Mac OS 9, released in 2021]]></summary>
-        <author>
-            <name>namu-313</name>
-            <uri>https://news.ycombinator.com/user?id=namu-313</uri>
         </author>
     </entry>
 </feed>
