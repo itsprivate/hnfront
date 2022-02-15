@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Feb 2022 19:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 19:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最終性不存在於支付中]]></title>
+            <link>https://news.ycombinator.com/item?id=30350547</link>
+            <guid>https://news.ycombinator.com/item?id=30350547</guid>
+            <pubDate>Tue, 15 Feb 2022 18:25:55 GMT</pubDate>
+            <description><![CDATA[Finality does not exist in payments]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼你應該在2022年使用Jax？]]></title>
             <link>https://news.ycombinator.com/item?id=30349687</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30210999</guid>
             <pubDate>Fri, 04 Feb 2022 18:36:18 GMT</pubDate>
             <description><![CDATA[Protons are probably smaller than long thought]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們用Wasm運行時間建立了我們的數據轉換引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30209706</link>
-            <guid>https://news.ycombinator.com/item?id=30209706</guid>
-            <pubDate>Fri, 04 Feb 2022 17:24:40 GMT</pubDate>
-            <description><![CDATA[We built our data transformation engine with the Wasm runtime]]></description>
         </item>
     </channel>
 </rss>
