@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Feb 2022 07:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 07:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Frawk: 一個用Rust編寫的快速、JIT化、靜態類型的AWK]]></title>
+            <link>https://news.ycombinator.com/item?id=30343373</link>
+            <guid>https://news.ycombinator.com/item?id=30343373</guid>
+            <pubDate>Tue, 15 Feb 2022 06:14:18 GMT</pubDate>
+            <description><![CDATA[Frawk: A fast, JITted, statically-typed AWK written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[爸爸70歲生日快樂]]></title>
             <link>https://news.ycombinator.com/item?id=30320908</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30190338</guid>
             <pubDate>Thu, 03 Feb 2022 09:05:06 GMT</pubDate>
             <description><![CDATA[Why Are Mathematicians So Bad at Arithmetic? (2017)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有一個比大辭典更大的問題]]></title>
-            <link>https://news.ycombinator.com/item?id=30203203</link>
-            <guid>https://news.ycombinator.com/item?id=30203203</guid>
-            <pubDate>Fri, 04 Feb 2022 05:21:42 GMT</pubDate>
-            <description><![CDATA[There Is a Much Larger Problem Than the Great Resignation]]></description>
         </item>
     </channel>
 </rss>

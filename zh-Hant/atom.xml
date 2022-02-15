@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T07:34:07.117Z</updated>
+    <updated>2022-02-15T07:49:05.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Frawk: 一個用Rust編寫的快速、JIT化、靜態類型的AWK]]></title>
+        <id>https://news.ycombinator.com/item?id=30343373</id>
+        <link href="https://news.ycombinator.com/item?id=30343373"/>
+        <updated>2022-02-15T06:14:18.000Z</updated>
+        <summary type="html"><![CDATA[Frawk: A fast, JITted, statically-typed AWK written in Rust]]></summary>
+        <author>
+            <name>benhoyt</name>
+            <uri>https://news.ycombinator.com/user?id=benhoyt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爸爸70歲生日快樂]]></title>
         <id>https://news.ycombinator.com/item?id=30320908</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tomerv</name>
             <uri>https://news.ycombinator.com/user?id=tomerv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有一個比大辭典更大的問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30203203</id>
-        <link href="https://news.ycombinator.com/item?id=30203203"/>
-        <updated>2022-02-04T05:21:42.000Z</updated>
-        <summary type="html"><![CDATA[There Is a Much Larger Problem Than the Great Resignation]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
