@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T16:10:20.014Z</updated>
+    <updated>2022-02-15T16:56:58.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zig 0.9.1版发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30348012</id>
+        <link href="https://news.ycombinator.com/item?id=30348012"/>
+        <updated>2022-02-15T15:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Zig 0.9.1 Released]]></summary>
+        <author>
+            <name>wyldfire</name>
+            <uri>https://news.ycombinator.com/user?id=wyldfire</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支持实时编码的CSS滚动扣式幻灯片]]></title>
+        <id>https://news.ycombinator.com/item?id=30344486</id>
+        <link href="https://news.ycombinator.com/item?id=30344486"/>
+        <updated>2022-02-15T09:44:53.000Z</updated>
+        <summary type="html"><![CDATA[CSS Scroll Snap Slide Deck That Supports Live Coding]]></summary>
+        <author>
+            <name>damir</name>
+            <uri>https://news.ycombinator.com/user?id=damir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荷兰基金会就苹果、谷歌应用支付问题寻求消费者赔偿]]></title>
         <id>https://news.ycombinator.com/item?id=30347760</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现代硬件的速成课程 (2010)]]></title>
-        <id>https://news.ycombinator.com/item?id=30207612</id>
-        <link href="https://news.ycombinator.com/item?id=30207612"/>
-        <updated>2022-02-04T15:04:53.000Z</updated>
-        <summary type="html"><![CDATA[A Crash Course in Modern Hardware (2010)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术讨论中的精确性]]></title>
-        <id>https://news.ycombinator.com/item?id=30207429</id>
-        <link href="https://news.ycombinator.com/item?id=30207429"/>
-        <updated>2022-02-04T14:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Precision in Technical Discussions]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
