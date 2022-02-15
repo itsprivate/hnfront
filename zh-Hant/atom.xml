@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T18:33:33.798Z</updated>
+    <updated>2022-02-15T18:50:20.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個不請自來的流媒體應用程序規格]]></title>
+        <id>https://news.ycombinator.com/item?id=30350591</id>
+        <link href="https://news.ycombinator.com/item?id=30350591"/>
+        <updated>2022-02-15T18:28:35.000Z</updated>
+        <summary type="html"><![CDATA[An Unsolicited Streaming App Spec]]></summary>
+        <author>
+            <name>jmsflknr</name>
+            <uri>https://news.ycombinator.com/user?id=jmsflknr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於密碼的思考]]></title>
+        <id>https://news.ycombinator.com/item?id=30320694</id>
+        <link href="https://news.ycombinator.com/item?id=30320694"/>
+        <updated>2022-02-13T10:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Thinking about Passwords]]></summary>
+        <author>
+            <name>HermanMartinus</name>
+            <uri>https://news.ycombinator.com/user?id=HermanMartinus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Chrome和Firefox中的版本100]]></title>
         <id>https://news.ycombinator.com/item?id=30350310</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>asicsp</name>
             <uri>https://news.ycombinator.com/user?id=asicsp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雅馬哈DX7芯片反向工程，第五部分：輸出電路]]></title>
-        <id>https://news.ycombinator.com/item?id=30209608</id>
-        <link href="https://news.ycombinator.com/item?id=30209608"/>
-        <updated>2022-02-04T17:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Yamaha DX7 chip reverse-engineering, part V: the output circuitry]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特在全球範圍內擴大降權測試]]></title>
-        <id>https://news.ycombinator.com/item?id=30208240</id>
-        <link href="https://news.ycombinator.com/item?id=30208240"/>
-        <updated>2022-02-04T15:44:23.000Z</updated>
-        <summary type="html"><![CDATA[Twitter expands downvote test worldwide]]></summary>
-        <author>
-            <name>gnicholas</name>
-            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
         </author>
     </entry>
 </feed>

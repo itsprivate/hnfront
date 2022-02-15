@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Feb 2022 18:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 18:50:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个不请自来的流媒体应用程序规格]]></title>
+            <link>https://news.ycombinator.com/item?id=30350591</link>
+            <guid>https://news.ycombinator.com/item?id=30350591</guid>
+            <pubDate>Tue, 15 Feb 2022 18:28:35 GMT</pubDate>
+            <description><![CDATA[An Unsolicited Streaming App Spec]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于密码的思考]]></title>
+            <link>https://news.ycombinator.com/item?id=30320694</link>
+            <guid>https://news.ycombinator.com/item?id=30320694</guid>
+            <pubDate>Sun, 13 Feb 2022 10:13:40 GMT</pubDate>
+            <description><![CDATA[Thinking about Passwords]]></description>
+        </item>
         <item>
             <title><![CDATA[在Chrome和Firefox中的版本100]]></title>
             <link>https://news.ycombinator.com/item?id=30350310</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30191567</guid>
             <pubDate>Thu, 03 Feb 2022 12:26:06 GMT</pubDate>
             <description><![CDATA[Sockets for Dummies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雅马哈DX7芯片反向工程，第五部分：输出电路]]></title>
-            <link>https://news.ycombinator.com/item?id=30209608</link>
-            <guid>https://news.ycombinator.com/item?id=30209608</guid>
-            <pubDate>Fri, 04 Feb 2022 17:16:39 GMT</pubDate>
-            <description><![CDATA[Yamaha DX7 chip reverse-engineering, part V: the output circuitry]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特在全球范围内扩大降权测试]]></title>
-            <link>https://news.ycombinator.com/item?id=30208240</link>
-            <guid>https://news.ycombinator.com/item?id=30208240</guid>
-            <pubDate>Fri, 04 Feb 2022 15:44:23 GMT</pubDate>
-            <description><![CDATA[Twitter expands downvote test worldwide]]></description>
         </item>
     </channel>
 </rss>
