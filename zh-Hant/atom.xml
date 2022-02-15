@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T04:37:39.812Z</updated>
+    <updated>2022-02-15T05:09:04.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[機器學習馴服了量子的複雜性]]></title>
+        <id>https://news.ycombinator.com/item?id=30329110</id>
+        <link href="https://news.ycombinator.com/item?id=30329110"/>
+        <updated>2022-02-14T07:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Quantum Complexity Tamed by Machine Learning]]></summary>
+        <author>
+            <name>georgehill</name>
+            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ProteusISC - JTAG控制器抽象庫]]></title>
         <id>https://news.ycombinator.com/item?id=30342414</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pjmlp</name>
             <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維吾爾族孩子詳述中國新疆寄宿學校的虐待行為]]></title>
-        <id>https://news.ycombinator.com/item?id=30202384</id>
-        <link href="https://news.ycombinator.com/item?id=30202384"/>
-        <updated>2022-02-04T03:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Uyghur kids detail abuse at China's boarding schools in Xinjiang]]></summary>
-        <author>
-            <name>gclef</name>
-            <uri>https://news.ycombinator.com/user?id=gclef</uri>
         </author>
     </entry>
 </feed>
