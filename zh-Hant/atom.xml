@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T10:40:45.728Z</updated>
+    <updated>2022-02-15T11:34:13.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當 "自由 "出現問題時，討論就結束了]]></title>
+        <id>https://news.ycombinator.com/item?id=30344967</id>
+        <link href="https://news.ycombinator.com/item?id=30344967"/>
+        <updated>2022-02-15T10:55:05.000Z</updated>
+        <summary type="html"><![CDATA[When “Freedom” Is Problematic, Discussion Ends]]></summary>
+        <author>
+            <name>h2odragon</name>
+            <uri>https://news.ycombinator.com/user?id=h2odragon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普萊福的舞蹈大師(1651-1728)]]></title>
         <id>https://news.ycombinator.com/item?id=30329574</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack 15發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30204365</id>
-        <link href="https://news.ycombinator.com/item?id=30204365"/>
-        <updated>2022-02-04T08:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Slack 15 Released]]></summary>
-        <author>
-            <name>jbverschoor</name>
-            <uri>https://news.ycombinator.com/user?id=jbverschoor</uri>
         </author>
     </entry>
 </feed>
