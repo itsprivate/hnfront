@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T14:26:56.791Z</updated>
+    <updated>2022-02-15T14:34:10.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美人魚。使用Markdown的靈感創建複雜的圖表]]></title>
+        <id>https://news.ycombinator.com/item?id=30346598</id>
+        <link href="https://news.ycombinator.com/item?id=30346598"/>
+        <updated>2022-02-15T14:10:14.000Z</updated>
+        <summary type="html"><![CDATA[Mermaid: Create complex diagrams using Markdown-inspired]]></summary>
+        <author>
+            <name>luispa</name>
+            <uri>https://news.ycombinator.com/user?id=luispa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["錯誤信息問題 "似乎是錯誤信息]]></title>
         <id>https://news.ycombinator.com/item?id=30346558</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>consumer451</name>
             <uri>https://news.ycombinator.com/user?id=consumer451</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們不願意經營自己的銀行]]></title>
-        <id>https://news.ycombinator.com/item?id=30206069</id>
-        <link href="https://news.ycombinator.com/item?id=30206069"/>
-        <updated>2022-02-04T12:42:37.000Z</updated>
-        <summary type="html"><![CDATA[People Don't Want to Run Their Own Bank]]></summary>
-        <author>
-            <name>M2Ys4U</name>
-            <uri>https://news.ycombinator.com/user?id=M2Ys4U</uri>
         </author>
     </entry>
 </feed>
