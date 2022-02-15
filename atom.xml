@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T02:30:05.178Z</updated>
+    <updated>2022-02-15T03:29:31.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通用智能（YC S17）正在招聘系统工程师（远程，SF）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30342319</id>
+        <link href="https://news.ycombinator.com/item?id=30342319"/>
+        <updated>2022-02-15T03:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Generally Intelligent (YC S17) Is Hiring Systems Engineers (Remote, SF)]]></summary>
+        <author>
+            <name>kanjun</name>
+            <uri>https://news.ycombinator.com/user?id=kanjun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开始使用文件系统访问API]]></title>
         <id>https://news.ycombinator.com/item?id=30341558</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>BerislavLopac</name>
             <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么不是ZFS（2021）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30200339</id>
-        <link href="https://news.ycombinator.com/item?id=30200339"/>
-        <updated>2022-02-03T23:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Why Not ZFS (2021)]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
