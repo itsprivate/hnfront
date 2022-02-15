@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T13:48:58.814Z</updated>
+    <updated>2022-02-15T14:09:12.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比利時批准實行四天工作制]]></title>
+        <id>https://news.ycombinator.com/item?id=30346239</id>
+        <link href="https://news.ycombinator.com/item?id=30346239"/>
+        <updated>2022-02-15T13:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Belgium approves four-day week]]></summary>
+        <author>
+            <name>achow</name>
+            <uri>https://news.ycombinator.com/user?id=achow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜彈性文件系統更新--次毫秒級的讀取延時]]></title>
         <id>https://news.ycombinator.com/item?id=30345921</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mudro_zboris</name>
             <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國水域的沉船被確認為庫克船長的奮進號]]></title>
-        <id>https://news.ycombinator.com/item?id=30188043</id>
-        <link href="https://news.ycombinator.com/item?id=30188043"/>
-        <updated>2022-02-03T03:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Wreck in US Waters Identified as Captain Cook’s Endeavour]]></summary>
-        <author>
-            <name>sofixa</name>
-            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
         </author>
     </entry>
 </feed>
