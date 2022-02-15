@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T15:09:11.601Z</updated>
+    <updated>2022-02-15T15:50:21.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[巫术 - 一个Minecraft服务器，用Bash写的]]></title>
+        <id>https://news.ycombinator.com/item?id=30347501</id>
+        <link href="https://news.ycombinator.com/item?id=30347501"/>
+        <updated>2022-02-15T15:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Witchcraft – a Minecraft server, written in Bash]]></summary>
+        <author>
+            <name>jscob</name>
+            <uri>https://news.ycombinator.com/user?id=jscob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国人因生活水平和廉价医疗而退休到越南。]]></title>
+        <id>https://news.ycombinator.com/item?id=30347005</id>
+        <link href="https://news.ycombinator.com/item?id=30347005"/>
+        <updated>2022-02-15T14:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Americans retiring to Vietnam for standard of living and cheap healthcare]]></summary>
+        <author>
+            <name>newsthrowa</name>
+            <uri>https://news.ycombinator.com/user?id=newsthrowa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeoFS--一个基于Cesium WebGL虚拟地球的飞行模拟器]]></title>
+        <id>https://news.ycombinator.com/item?id=30345760</id>
+        <link href="https://news.ycombinator.com/item?id=30345760"/>
+        <updated>2022-02-15T12:49:55.000Z</updated>
+        <summary type="html"><![CDATA[GeoFS – a flight simulator based on Cesium WebGL Virtual Globe]]></summary>
+        <author>
+            <name>ghgr</name>
+            <uri>https://news.ycombinator.com/user?id=ghgr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用设备树覆盖，BeagleBone板上的例子]]></title>
+        <id>https://news.ycombinator.com/item?id=30342948</id>
+        <link href="https://news.ycombinator.com/item?id=30342948"/>
+        <updated>2022-02-15T04:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Using Device Tree Overlays, Example on BeagleBone Boards]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我使用本福德定律分析了113个国家的Covid-19（2020）。]]></title>
         <id>https://news.ycombinator.com/item?id=30347072</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>Gys</name>
             <uri>https://news.ycombinator.com/user?id=Gys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本与传真机的情缘 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30188674</id>
-        <link href="https://news.ycombinator.com/item?id=30188674"/>
-        <updated>2022-02-03T04:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Japan’s love affair with the fax machine (2021)]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要让我思考，或为什么我从JavaScript SPA转到Rails]]></title>
-        <id>https://news.ycombinator.com/item?id=30206989</id>
-        <link href="https://news.ycombinator.com/item?id=30206989"/>
-        <updated>2022-02-04T14:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Don't make me think, or why I switched to Rails from JavaScript SPAs]]></summary>
-        <author>
-            <name>vdemedes</name>
-            <uri>https://news.ycombinator.com/user?id=vdemedes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧米茄的分子结构可以帮助解释它的全球接管问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30206755</id>
-        <link href="https://news.ycombinator.com/item?id=30206755"/>
-        <updated>2022-02-04T13:53:44.000Z</updated>
-        <summary type="html"><![CDATA[Omicron’s molecular structure could help explain its global takeover]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付之舞]]></title>
-        <id>https://news.ycombinator.com/item?id=30206821</id>
-        <link href="https://news.ycombinator.com/item?id=30206821"/>
-        <updated>2022-02-04T14:00:15.000Z</updated>
-        <summary type="html"><![CDATA[The Payment Dance]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
         </author>
     </entry>
 </feed>
