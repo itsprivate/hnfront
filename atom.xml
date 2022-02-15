@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T18:50:20.649Z</updated>
+    <updated>2022-02-15T19:07:17.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么你应该在2022年使用Jax？]]></title>
+        <id>https://news.ycombinator.com/item?id=30349687</id>
+        <link href="https://news.ycombinator.com/item?id=30349687"/>
+        <updated>2022-02-15T17:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Why You Should Be Using Jax in 2022]]></summary>
+        <author>
+            <name>SleekEagle</name>
+            <uri>https://news.ycombinator.com/user?id=SleekEagle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个不请自来的流媒体应用程序规格]]></title>
         <id>https://news.ycombinator.com/item?id=30350591</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>sorenbs</name>
             <uri>https://news.ycombinator.com/user?id=sorenbs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傻瓜式插座]]></title>
-        <id>https://news.ycombinator.com/item?id=30191567</id>
-        <link href="https://news.ycombinator.com/item?id=30191567"/>
-        <updated>2022-02-03T12:26:06.000Z</updated>
-        <summary type="html"><![CDATA[Sockets for Dummies]]></summary>
-        <author>
-            <name>asicsp</name>
-            <uri>https://news.ycombinator.com/user?id=asicsp</uri>
         </author>
     </entry>
 </feed>
