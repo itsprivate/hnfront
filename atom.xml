@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T08:32:47.208Z</updated>
+    <updated>2022-02-15T08:49:02.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纯粹数学的语义表述(2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=30329478</id>
+        <link href="https://news.ycombinator.com/item?id=30329478"/>
+        <updated>2022-02-14T08:05:21.000Z</updated>
+        <summary type="html"><![CDATA[The Semantic Representation of Pure Mathematics (2016)]]></summary>
+        <author>
+            <name>leonry</name>
+            <uri>https://news.ycombinator.com/user?id=leonry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla基金会在《纽约时报》上刊登了两页的宣传广告 (2004)]]></title>
         <id>https://news.ycombinator.com/item?id=30343748</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>kiyanwang</name>
             <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊管道恐怖故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30203581</id>
-        <link href="https://news.ycombinator.com/item?id=30203581"/>
-        <updated>2022-02-04T06:43:37.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Pip Horror Story]]></summary>
-        <author>
-            <name>vikinghckr</name>
-            <uri>https://news.ycombinator.com/user?id=vikinghckr</uri>
         </author>
     </entry>
 </feed>
