@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T17:27:59.090Z</updated>
+    <updated>2022-02-15T17:35:23.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為更大的利益，給你輸入一個演員的運行時間]]></title>
+        <id>https://news.ycombinator.com/item?id=30322927</id>
+        <link href="https://news.ycombinator.com/item?id=30322927"/>
+        <updated>2022-02-13T16:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Type you an actor runtime for greater good]]></summary>
+        <author>
+            <name>evacchi</name>
+            <uri>https://news.ycombinator.com/user?id=evacchi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我愛你，黑客新聞，但你是有毒的]]></title>
         <id>https://news.ycombinator.com/item?id=30349222</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tectonic</name>
             <uri>https://news.ycombinator.com/user?id=tectonic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戴明的紅珠實驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30208184</id>
-        <link href="https://news.ycombinator.com/item?id=30208184"/>
-        <updated>2022-02-04T15:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Deming's Red Bead Experiment]]></summary>
-        <author>
-            <name>gkop</name>
-            <uri>https://news.ycombinator.com/user?id=gkop</uri>
         </author>
     </entry>
 </feed>
