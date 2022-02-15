@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Feb 2022 01:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開始使用文件系統訪問API]]></title>
+            <link>https://news.ycombinator.com/item?id=30341558</link>
+            <guid>https://news.ycombinator.com/item?id=30341558</guid>
+            <pubDate>Tue, 15 Feb 2022 01:51:19 GMT</pubDate>
+            <description><![CDATA[Getting Started with the File System Access API]]></description>
+        </item>
         <item>
             <title><![CDATA[軟銀對 "物聯網 "的昂貴押注如何在Arm公司起了反作用]]></title>
             <link>https://news.ycombinator.com/item?id=30341092</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30200339</guid>
             <pubDate>Thu, 03 Feb 2022 23:07:01 GMT</pubDate>
             <description><![CDATA[Why Not ZFS (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的贊助商專用庫，自定義金額，以及更多]]></title>
-            <link>https://news.ycombinator.com/item?id=30200052</link>
-            <guid>https://news.ycombinator.com/item?id=30200052</guid>
-            <pubDate>Thu, 03 Feb 2022 22:39:33 GMT</pubDate>
-            <description><![CDATA[New sponsors-only repositories, custom amounts, and more]]></description>
         </item>
     </channel>
 </rss>
