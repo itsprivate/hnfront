@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T17:49:25.293Z</updated>
+    <updated>2022-02-15T18:10:08.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丘比特--為了歡樂的編碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30349775</id>
+        <link href="https://news.ycombinator.com/item?id=30349775"/>
+        <updated>2022-02-15T17:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Cupid – For Joyful Coding]]></summary>
+        <author>
+            <name>dustinmoris</name>
+            <uri>https://news.ycombinator.com/user?id=dustinmoris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對抗越來越多的用戶敵意的網絡]]></title>
         <id>https://news.ycombinator.com/item?id=30349587</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>dr_dshiv</name>
             <uri>https://news.ycombinator.com/user?id=dr_dshiv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持和反對類比的案例]]></title>
-        <id>https://news.ycombinator.com/item?id=30209066</id>
-        <link href="https://news.ycombinator.com/item?id=30209066"/>
-        <updated>2022-02-04T16:38:24.000Z</updated>
-        <summary type="html"><![CDATA[The Case for and Against Analogies]]></summary>
-        <author>
-            <name>ggoo</name>
-            <uri>https://news.ycombinator.com/user?id=ggoo</uri>
         </author>
     </entry>
 </feed>
