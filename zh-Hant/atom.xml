@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T03:29:31.196Z</updated>
+    <updated>2022-02-15T04:37:39.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ProteusISC - JTAG控制器抽象庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30342414</id>
+        <link href="https://news.ycombinator.com/item?id=30342414"/>
+        <updated>2022-02-15T03:34:44.000Z</updated>
+        <summary type="html"><![CDATA[ProteusISC – JTAG Controller Abstraction Library]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通用智能（YC S17）正在招聘系統工程師（遠程，SF）。]]></title>
         <id>https://news.ycombinator.com/item?id=30342319</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>gclef</name>
             <uri>https://news.ycombinator.com/user?id=gclef</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件的正確性很像使用牙線]]></title>
-        <id>https://news.ycombinator.com/item?id=30202190</id>
-        <link href="https://news.ycombinator.com/item?id=30202190"/>
-        <updated>2022-02-04T02:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Software correctness is a lot like flossing]]></summary>
-        <author>
-            <name>BerislavLopac</name>
-            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
         </author>
     </entry>
 </feed>
