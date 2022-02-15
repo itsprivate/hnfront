@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T09:37:03.618Z</updated>
+    <updated>2022-02-15T09:49:47.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[因使用VPN而導致Reddit賬戶被取消/暫停使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30344379</id>
+        <link href="https://news.ycombinator.com/item?id=30344379"/>
+        <updated>2022-02-15T09:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Reddit accounts cancellation/suspension caused by VPN usage]]></summary>
+        <author>
+            <name>netfortius</name>
+            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筆記類應用程序是想法消失的地方。這很好。]]></title>
         <id>https://news.ycombinator.com/item?id=30344237</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理解意識有什麼難的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30190875</id>
-        <link href="https://news.ycombinator.com/item?id=30190875"/>
-        <updated>2022-02-03T10:44:17.000Z</updated>
-        <summary type="html"><![CDATA[What’s So Hard About Understanding Consciousness?]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
-            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
         </author>
     </entry>
 </feed>
