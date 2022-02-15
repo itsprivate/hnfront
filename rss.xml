@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Feb 2022 11:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 12:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pachyderm正在招聘一名DevRel负责人，负责开拓现代MLOps堆栈。]]></title>
+            <link>https://news.ycombinator.com/item?id=30345353</link>
+            <guid>https://news.ycombinator.com/item?id=30345353</guid>
+            <pubDate>Tue, 15 Feb 2022 12:00:29 GMT</pubDate>
+            <description><![CDATA[Pachyderm is hiring a DevRel Lead to pioneer the modern MLOps stack]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ReCAPTCHA（谷歌的一项服务）的隐私问题]]></title>
+            <link>https://news.ycombinator.com/item?id=30345204</link>
+            <guid>https://news.ycombinator.com/item?id=30345204</guid>
+            <pubDate>Tue, 15 Feb 2022 11:33:49 GMT</pubDate>
+            <description><![CDATA[ReCAPTCHA (A Google Service) Privacy Concerns]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们应该拥有我们支付的免费东西吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30345201</link>
+            <guid>https://news.ycombinator.com/item?id=30345201</guid>
+            <pubDate>Tue, 15 Feb 2022 11:33:46 GMT</pubDate>
+            <description><![CDATA[Should we own the free stuff we pay for?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我让我6岁的女儿设计我的网站]]></title>
+            <link>https://news.ycombinator.com/item?id=30344989</link>
+            <guid>https://news.ycombinator.com/item?id=30344989</guid>
+            <pubDate>Tue, 15 Feb 2022 10:59:32 GMT</pubDate>
+            <description><![CDATA[I let my 6 y.o. daughter design my website]]></description>
+        </item>
+        <item>
+            <title><![CDATA[德州起诉Meta，称其滥用面部识别数据]]></title>
+            <link>https://news.ycombinator.com/item?id=30344902</link>
+            <guid>https://news.ycombinator.com/item?id=30344902</guid>
+            <pubDate>Tue, 15 Feb 2022 10:47:12 GMT</pubDate>
+            <description><![CDATA[Texas sues Meta, saying it misused facial recognition data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[剪贴画：有语义的物体素描]]></title>
+            <link>https://news.ycombinator.com/item?id=30329955</link>
+            <guid>https://news.ycombinator.com/item?id=30329955</guid>
+            <pubDate>Mon, 14 Feb 2022 09:18:59 GMT</pubDate>
+            <description><![CDATA[CLIPasso: Semantically-Aware Object Sketching]]></description>
+        </item>
         <item>
             <title><![CDATA[当 "自由 "出现问题时，讨论就结束了]]></title>
             <link>https://news.ycombinator.com/item?id=30344967</link>
@@ -6971,48 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30205190</guid>
             <pubDate>Fri, 04 Feb 2022 10:49:46 GMT</pubDate>
             <description><![CDATA[Play audio only on YouTube and save bandwidth]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：在现代软件开发中没有臭皮匠的空间]]></title>
-            <link>https://news.ycombinator.com/item?id=30204839</link>
-            <guid>https://news.ycombinator.com/item?id=30204839</guid>
-            <pubDate>Fri, 04 Feb 2022 10:00:38 GMT</pubDate>
-            <description><![CDATA[Tell HN: There’s no room for skunkworks in modern software development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何从数据存储中获得更强的一致性（2019年）]]></title>
-            <link>https://news.ycombinator.com/item?id=30186703</link>
-            <guid>https://news.ycombinator.com/item?id=30186703</guid>
-            <pubDate>Thu, 03 Feb 2022 00:42:34 GMT</pubDate>
-            <description><![CDATA[How to Get Stronger Consistency Out of a Datastore (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[技术官僚的支配：当政府资助科学时，它就控制了科学]]></title>
-            <link>https://news.ycombinator.com/item?id=30204879</link>
-            <guid>https://news.ycombinator.com/item?id=30204879</guid>
-            <pubDate>Fri, 04 Feb 2022 10:05:43 GMT</pubDate>
-            <description><![CDATA[Technocratic domination: when government funds science, it controls science]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司的隐私保护措施如何使美达公司损失100亿美元]]></title>
-            <link>https://news.ycombinator.com/item?id=30204862</link>
-            <guid>https://news.ycombinator.com/item?id=30204862</guid>
-            <pubDate>Fri, 04 Feb 2022 10:03:41 GMT</pubDate>
-            <description><![CDATA[How Apple's privacy push cost Meta $10bn]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Inja：现代C++的模板引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30190254</link>
-            <guid>https://news.ycombinator.com/item?id=30190254</guid>
-            <pubDate>Thu, 03 Feb 2022 08:54:03 GMT</pubDate>
-            <description><![CDATA[Inja: A Template Engine for Modern C++]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果将对荷兰的替代支付系统收取27%的佣金]]></title>
-            <link>https://news.ycombinator.com/item?id=30204604</link>
-            <guid>https://news.ycombinator.com/item?id=30204604</guid>
-            <pubDate>Fri, 04 Feb 2022 09:25:00 GMT</pubDate>
-            <description><![CDATA[Apple will charge 27% commission for alternative payment systems in Netherlands]]></description>
         </item>
     </channel>
 </rss>
