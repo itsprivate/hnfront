@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T21:01:22.240Z</updated>
+    <updated>2022-02-15T21:08:08.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Smarking（YC W15）正在招聘工程主管，以實現655億美元的停車業數字化]]></title>
+        <id>https://news.ycombinator.com/item?id=30352655</id>
+        <link href="https://news.ycombinator.com/item?id=30352655"/>
+        <updated>2022-02-15T21:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Smarking (YC W15) Is Hiring Head of Eng to digitize $655B parking industry]]></summary>
+        <author>
+            <name>sangwen</name>
+            <uri>https://news.ycombinator.com/user?id=sangwen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PDf、ePub、mobi格式的免費公共領域電子書]]></title>
         <id>https://news.ycombinator.com/item?id=30352207</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pkdpic</name>
             <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ctl: C語言的STL]]></title>
-        <id>https://news.ycombinator.com/item?id=30211484</id>
-        <link href="https://news.ycombinator.com/item?id=30211484"/>
-        <updated>2022-02-04T19:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Ctl: STL in C]]></summary>
-        <author>
-            <name>synergy20</name>
-            <uri>https://news.ycombinator.com/user?id=synergy20</uri>
         </author>
     </entry>
 </feed>
