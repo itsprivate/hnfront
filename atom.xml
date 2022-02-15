@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T13:30:12.011Z</updated>
+    <updated>2022-02-15T13:48:58.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊弹性文件系统更新--次毫秒级的读取延时]]></title>
+        <id>https://news.ycombinator.com/item?id=30345921</id>
+        <link href="https://news.ycombinator.com/item?id=30345921"/>
+        <updated>2022-02-15T13:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic File System Update – Sub-Millisecond Read Latency]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特鲁多宣布打算冻结抗议者的银行账户]]></title>
         <id>https://news.ycombinator.com/item?id=30345886</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>sofixa</name>
             <uri>https://news.ycombinator.com/user?id=sofixa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光明（YC W15）--招聘一名影响力驱动的前端工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=30205709</id>
-        <link href="https://news.ycombinator.com/item?id=30205709"/>
-        <updated>2022-02-04T12:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Bright (YC W15) – Hiring an Impact Driven Front-End Engineer]]></summary>
-        <author>
-            <name>JGreenberger</name>
-            <uri>https://news.ycombinator.com/user?id=JGreenberger</uri>
         </author>
     </entry>
 </feed>
