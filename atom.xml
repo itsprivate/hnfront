@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-15T17:08:26.292Z</updated>
+    <updated>2022-02-15T17:27:59.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我爱你，黑客新闻，但你是有毒的]]></title>
+        <id>https://news.ycombinator.com/item?id=30349222</id>
+        <link href="https://news.ycombinator.com/item?id=30349222"/>
+        <updated>2022-02-15T17:05:20.000Z</updated>
+        <summary type="html"><![CDATA[I love you, Hacker News, but you’re toxic]]></summary>
+        <author>
+            <name>kashnote</name>
+            <uri>https://news.ycombinator.com/user?id=kashnote</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub泄露了私人仓库的名称与页面]]></title>
+        <id>https://news.ycombinator.com/item?id=30348980</id>
+        <link href="https://news.ycombinator.com/item?id=30348980"/>
+        <updated>2022-02-15T16:48:33.000Z</updated>
+        <summary type="html"><![CDATA[GitHub leaked names of private repos with pages]]></summary>
+        <author>
+            <name>cillian64</name>
+            <uri>https://news.ycombinator.com/user?id=cillian64</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉格威（YC W16）正在招聘中]]></title>
         <id>https://news.ycombinator.com/item?id=30349166</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>gkop</name>
             <uri>https://news.ycombinator.com/user?id=gkop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[费希尔规则。对所有显示的方程式进行编号 (1989)]]></title>
-        <id>https://news.ycombinator.com/item?id=30192131</id>
-        <link href="https://news.ycombinator.com/item?id=30192131"/>
-        <updated>2022-02-03T13:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Fisher's rule: Number all displayed equations (1989)]]></summary>
-        <author>
-            <name>sieste</name>
-            <uri>https://news.ycombinator.com/user?id=sieste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux内核中处理argc==0]]></title>
-        <id>https://news.ycombinator.com/item?id=30190654</id>
-        <link href="https://news.ycombinator.com/item?id=30190654"/>
-        <updated>2022-02-03T10:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Handling argc==0 in the Linux kernel]]></summary>
-        <author>
-            <name>rwmj</name>
-            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
         </author>
     </entry>
 </feed>

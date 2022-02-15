@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Feb 2022 17:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 17:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我爱你，黑客新闻，但你是有毒的]]></title>
+            <link>https://news.ycombinator.com/item?id=30349222</link>
+            <guid>https://news.ycombinator.com/item?id=30349222</guid>
+            <pubDate>Tue, 15 Feb 2022 17:05:20 GMT</pubDate>
+            <description><![CDATA[I love you, Hacker News, but you’re toxic]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GitHub泄露了私人仓库的名称与页面]]></title>
+            <link>https://news.ycombinator.com/item?id=30348980</link>
+            <guid>https://news.ycombinator.com/item?id=30348980</guid>
+            <pubDate>Tue, 15 Feb 2022 16:48:33 GMT</pubDate>
+            <description><![CDATA[GitHub leaked names of private repos with pages]]></description>
+        </item>
         <item>
             <title><![CDATA[吉格威（YC W16）正在招聘中]]></title>
             <link>https://news.ycombinator.com/item?id=30349166</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30208184</guid>
             <pubDate>Fri, 04 Feb 2022 15:40:42 GMT</pubDate>
             <description><![CDATA[Deming's Red Bead Experiment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[费希尔规则。对所有显示的方程式进行编号 (1989)]]></title>
-            <link>https://news.ycombinator.com/item?id=30192131</link>
-            <guid>https://news.ycombinator.com/item?id=30192131</guid>
-            <pubDate>Thu, 03 Feb 2022 13:32:07 GMT</pubDate>
-            <description><![CDATA[Fisher's rule: Number all displayed equations (1989)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Linux内核中处理argc==0]]></title>
-            <link>https://news.ycombinator.com/item?id=30190654</link>
-            <guid>https://news.ycombinator.com/item?id=30190654</guid>
-            <pubDate>Thu, 03 Feb 2022 10:01:03 GMT</pubDate>
-            <description><![CDATA[Handling argc==0 in the Linux kernel]]></description>
         </item>
     </channel>
 </rss>
