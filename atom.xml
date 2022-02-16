@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-16T20:52:58.474Z</updated>
+    <updated>2022-02-16T22:02:06.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[给时态用户社区的一封公开信]]></title>
+        <id>https://news.ycombinator.com/item?id=30365301</id>
+        <link href="https://news.ycombinator.com/item?id=30365301"/>
+        <updated>2022-02-16T20:32:50.000Z</updated>
+        <summary type="html"><![CDATA[An Open Letter to the Temporal User Community]]></summary>
+        <author>
+            <name>roopakv</name>
+            <uri>https://news.ycombinator.com/user?id=roopakv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约现在使用带麦克风的摄像头对大声喧哗的汽车开罚单]]></title>
+        <id>https://news.ycombinator.com/item?id=30364669</id>
+        <link href="https://news.ycombinator.com/item?id=30364669"/>
+        <updated>2022-02-16T19:38:14.000Z</updated>
+        <summary type="html"><![CDATA[New York Is Now Using Cameras with Microphones to Ticket Loud Cars]]></summary>
+        <author>
+            <name>KoftaBob</name>
+            <uri>https://news.ycombinator.com/user?id=KoftaBob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为计算的类型检查]]></title>
+        <id>https://news.ycombinator.com/item?id=30356493</id>
+        <link href="https://news.ycombinator.com/item?id=30356493"/>
+        <updated>2022-02-16T04:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Type Checking as Calculation]]></summary>
+        <author>
+            <name>MississippiGary</name>
+            <uri>https://news.ycombinator.com/user?id=MississippiGary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClusterSSH for iTerm2]]></title>
         <id>https://news.ycombinator.com/item?id=30364682</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>kennandavison</name>
             <uri>https://news.ycombinator.com/user?id=kennandavison</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对分布式密钥生成协议的攻击和修复 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30192242</id>
-        <link href="https://news.ycombinator.com/item?id=30192242"/>
-        <updated>2022-02-03T13:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Attacks and fixes on distributed key generation protocols [pdf]]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代数几何学的维基百科将永远是不完整的]]></title>
-        <id>https://news.ycombinator.com/item?id=30222302</id>
-        <link href="https://news.ycombinator.com/item?id=30222302"/>
-        <updated>2022-02-05T15:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Wikipedia of Algebraic Geometry Will Forever Be Incomplete]]></summary>
-        <author>
-            <name>mathgenius</name>
-            <uri>https://news.ycombinator.com/user?id=mathgenius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django Admin的直接替换]]></title>
-        <id>https://news.ycombinator.com/item?id=30224838</id>
-        <link href="https://news.ycombinator.com/item?id=30224838"/>
-        <updated>2022-02-05T19:24:40.000Z</updated>
-        <summary type="html"><![CDATA[A drop-in replacement of Django Admin]]></summary>
-        <author>
-            <name>sambalbadjak</name>
-            <uri>https://news.ycombinator.com/user?id=sambalbadjak</uri>
         </author>
     </entry>
 </feed>
