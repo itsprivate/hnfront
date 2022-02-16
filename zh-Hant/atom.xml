@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-16T13:53:00.620Z</updated>
+    <updated>2022-02-16T15:01:50.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我把蘋果標誌的咬痕從我的iPhone上剪掉了]]></title>
+        <id>https://news.ycombinator.com/item?id=30359741</id>
+        <link href="https://news.ycombinator.com/item?id=30359741"/>
+        <updated>2022-02-16T13:38:44.000Z</updated>
+        <summary type="html"><![CDATA[I cut the bite of the Apple logo out of my iPhone]]></summary>
+        <author>
+            <name>kuuunst</name>
+            <uri>https://news.ycombinator.com/user?id=kuuunst</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIR輕量級JIT編譯器的代碼專用化]]></title>
+        <id>https://news.ycombinator.com/item?id=30359705</id>
+        <link href="https://news.ycombinator.com/item?id=30359705"/>
+        <updated>2022-02-16T13:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Code specialization for the MIR lightweight JIT compiler]]></summary>
+        <author>
+            <name>compilersfun</name>
+            <uri>https://news.ycombinator.com/user?id=compilersfun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於高頻電子的鑽石上的石墨烯FET（2021）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30359673</id>
+        <link href="https://news.ycombinator.com/item?id=30359673"/>
+        <updated>2022-02-16T13:31:26.000Z</updated>
+        <summary type="html"><![CDATA[Graphene FET on diamond for high-frequency electronics (2021)]]></summary>
+        <author>
+            <name>nynx</name>
+            <uri>https://news.ycombinator.com/user?id=nynx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於SSH和Git的1Password]]></title>
+        <id>https://news.ycombinator.com/item?id=30359430</id>
+        <link href="https://news.ycombinator.com/item?id=30359430"/>
+        <updated>2022-02-16T13:01:17.000Z</updated>
+        <summary type="html"><![CDATA[1Password for SSH and Git]]></summary>
+        <author>
+            <name>lkurtz</name>
+            <uri>https://news.ycombinator.com/user?id=lkurtz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於6D人類姿態估計的方向關鍵點]]></title>
+        <id>https://news.ycombinator.com/item?id=30359421</id>
+        <link href="https://news.ycombinator.com/item?id=30359421"/>
+        <updated>2022-02-16T12:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Orientation Keypoints for 6D Human Pose Estimation]]></summary>
+        <author>
+            <name>winkywooster</name>
+            <uri>https://news.ycombinator.com/user?id=winkywooster</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只在週五語法正確的Perl代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30359309</id>
+        <link href="https://news.ycombinator.com/item?id=30359309"/>
+        <updated>2022-02-16T12:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Perl code that is syntactically correct only on Fridays]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用TCP數據包進行大數據處理]]></title>
+        <id>https://news.ycombinator.com/item?id=30342926</id>
+        <link href="https://news.ycombinator.com/item?id=30342926"/>
+        <updated>2022-02-15T04:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Going Big with TCP Packets]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的單體是什麼顏色]]></title>
+        <id>https://news.ycombinator.com/item?id=30330909</id>
+        <link href="https://news.ycombinator.com/item?id=30330909"/>
+        <updated>2022-02-14T11:49:21.000Z</updated>
+        <summary type="html"><![CDATA[What Color Is Your Monad]]></summary>
+        <author>
+            <name>patrickthebold</name>
+            <uri>https://news.ycombinator.com/user?id=patrickthebold</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們被告知的關於網站身份保證的一切是錯誤的]]></title>
         <id>https://news.ycombinator.com/item?id=30359245</id>
@@ -10925,94 +11013,6 @@
         <author>
             <name>Kinrany</name>
             <uri>https://news.ycombinator.com/user?id=Kinrany</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOSDEM 2022正在進行中]]></title>
-        <id>https://news.ycombinator.com/item?id=30220443</id>
-        <link href="https://news.ycombinator.com/item?id=30220443"/>
-        <updated>2022-02-05T12:38:27.000Z</updated>
-        <summary type="html"><![CDATA[FOSDEM 2022 is going on now]]></summary>
-        <author>
-            <name>makapuf</name>
-            <uri>https://news.ycombinator.com/user?id=makapuf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊麗莎白-泰勒如何改寫老年小說]]></title>
-        <id>https://news.ycombinator.com/item?id=30198604</id>
-        <link href="https://news.ycombinator.com/item?id=30198604"/>
-        <updated>2022-02-03T20:49:07.000Z</updated>
-        <summary type="html"><![CDATA[How Elizabeth Taylor Remade the Novel of Old Age]]></summary>
-        <author>
-            <name>lermontov</name>
-            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Retroarch的Sharp-Bilinear Shaders]]></title>
-        <id>https://news.ycombinator.com/item?id=30220317</id>
-        <link href="https://news.ycombinator.com/item?id=30220317"/>
-        <updated>2022-02-05T12:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Sharp-Bilinear Shaders for Retroarch]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA的半衰期為521年 (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=30220248</id>
-        <link href="https://news.ycombinator.com/item?id=30220248"/>
-        <updated>2022-02-05T11:56:00.000Z</updated>
-        <summary type="html"><![CDATA[DNA has a 521-year half-life (2012)]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分佈式點對點的不良行為人IP地址和電話號碼列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30220208</id>
-        <link href="https://news.ycombinator.com/item?id=30220208"/>
-        <updated>2022-02-05T11:47:46.000Z</updated>
-        <summary type="html"><![CDATA[A distributed peer to peer list of bad actor IP addresses and phone numbers]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[施萊普失明症（2012）]]></title>
-        <id>https://news.ycombinator.com/item?id=30200333</id>
-        <link href="https://news.ycombinator.com/item?id=30200333"/>
-        <updated>2022-02-03T23:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Schlep Blindness (2012)]]></summary>
-        <author>
-            <name>enigmatic02</name>
-            <uri>https://news.ycombinator.com/user?id=enigmatic02</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初探：訪問Kubernetes中的服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30220291</id>
-        <link href="https://news.ycombinator.com/item?id=30220291"/>
-        <updated>2022-02-05T12:09:02.000Z</updated>
-        <summary type="html"><![CDATA[A Primer: Accessing Services in Kubernetes]]></summary>
-        <author>
-            <name>alexellisuk</name>
-            <uri>https://news.ycombinator.com/user?id=alexellisuk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網信息傳遞與擁擠的網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30220207</id>
-        <link href="https://news.ycombinator.com/item?id=30220207"/>
-        <updated>2022-02-05T11:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Internet Messaging vs. Congested Network]]></summary>
-        <author>
-            <name>zaik</name>
-            <uri>https://news.ycombinator.com/user?id=zaik</uri>
         </author>
     </entry>
 </feed>
