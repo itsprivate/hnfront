@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T18:15:35.111Z</updated>
+    <updated>2022-02-17T18:39:07.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[KeePassXC - 跨平臺密碼管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30376509</id>
+        <link href="https://news.ycombinator.com/item?id=30376509"/>
+        <updated>2022-02-17T18:11:17.000Z</updated>
+        <summary type="html"><![CDATA[KeePassXC – Cross-Platform Password Manager]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ThinkPad T460s上的FreeBSD 13]]></title>
+        <id>https://news.ycombinator.com/item?id=30376508</id>
+        <link href="https://news.ycombinator.com/item?id=30376508"/>
+        <updated>2022-02-17T18:11:13.000Z</updated>
+        <summary type="html"><![CDATA[FreeBSD 13 on ThinkPad T460s]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靜態B型樹。一種用於快速二進制搜索的數據結構]]></title>
+        <id>https://news.ycombinator.com/item?id=30376140</id>
+        <link href="https://news.ycombinator.com/item?id=30376140"/>
+        <updated>2022-02-17T17:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Static B-Trees: A data structure for faster binary search]]></summary>
+        <author>
+            <name>sereja</name>
+            <uri>https://news.ycombinator.com/user?id=sereja</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阻止和刪除來自DuckDuckGo、Google和其他山寨網站的過濾器。]]></title>
+        <id>https://news.ycombinator.com/item?id=30374905</id>
+        <link href="https://news.ycombinator.com/item?id=30374905"/>
+        <updated>2022-02-17T16:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Filters to block and remove copycat-websites from DuckDuckGo, Google and other]]></summary>
+        <author>
+            <name>gleb_the_human</name>
+            <uri>https://news.ycombinator.com/user?id=gleb_the_human</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞭解AIX Power SMT系統的CPU]]></title>
+        <id>https://news.ycombinator.com/item?id=30354228</id>
+        <link href="https://news.ycombinator.com/item?id=30354228"/>
+        <updated>2022-02-15T23:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Understanding CPU on AIX Power SMT Systems]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中情局與權力的新話語]]></title>
         <id>https://news.ycombinator.com/item?id=30376260</id>
@@ -10958,61 +11013,6 @@
         <author>
             <name>emreb</name>
             <uri>https://news.ycombinator.com/user?id=emreb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的安全帶判斷法則]]></title>
-        <id>https://news.ycombinator.com/item?id=30237457</id>
-        <link href="https://news.ycombinator.com/item?id=30237457"/>
-        <updated>2022-02-06T22:01:31.000Z</updated>
-        <summary type="html"><![CDATA[My Seatbelt Rule for Judgment]]></summary>
-        <author>
-            <name>dguo</name>
-            <uri>https://news.ycombinator.com/user?id=dguo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於構建30K Debian軟件包]]></title>
-        <id>https://news.ycombinator.com/item?id=30237483</id>
-        <link href="https://news.ycombinator.com/item?id=30237483"/>
-        <updated>2022-02-06T22:05:12.000Z</updated>
-        <summary type="html"><![CDATA[On Building 30K Debian Packages]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渥太華已經失去了對自己的控制]]></title>
-        <id>https://news.ycombinator.com/item?id=30237369</id>
-        <link href="https://news.ycombinator.com/item?id=30237369"/>
-        <updated>2022-02-06T21:50:10.000Z</updated>
-        <summary type="html"><![CDATA[Ottawa has lost control of itself]]></summary>
-        <author>
-            <name>kkwteh</name>
-            <uri>https://news.ycombinator.com/user?id=kkwteh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rescale (YC W12)正在招聘軟件工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30236951</id>
-        <link href="https://news.ycombinator.com/item?id=30236951"/>
-        <updated>2022-02-06T21:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Rescale (YC W12) Is Hiring Software Engineers]]></summary>
-        <author>
-            <name>amckenzie</name>
-            <uri>https://news.ycombinator.com/user?id=amckenzie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM西蒙]]></title>
-        <id>https://news.ycombinator.com/item?id=30190579</id>
-        <link href="https://news.ycombinator.com/item?id=30190579"/>
-        <updated>2022-02-03T09:47:34.000Z</updated>
-        <summary type="html"><![CDATA[IBM Simon]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
