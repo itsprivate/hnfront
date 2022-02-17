@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T02:06:17.323Z</updated>
+    <updated>2022-02-17T02:17:35.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为99%的开发者建设]]></title>
+        <id>https://news.ycombinator.com/item?id=30367781</id>
+        <link href="https://news.ycombinator.com/item?id=30367781"/>
+        <updated>2022-02-17T00:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Building for the 99% Developers]]></summary>
+        <author>
+            <name>bdburns</name>
+            <uri>https://news.ycombinator.com/user?id=bdburns</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[咦？是一个通用词吗？语言项目的趋同演变（2013年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30360185</id>
+        <link href="https://news.ycombinator.com/item?id=30360185"/>
+        <updated>2022-02-16T14:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Is “Huh?” A Universal Word? The Convergent Evolution of Linguistic Items (2013)]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flexport公司正在招聘曾建立物流技术的高级软件工程师。]]></title>
         <id>https://news.ycombinator.com/item?id=30368257</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>shekarramaswamy</name>
             <uri>https://news.ycombinator.com/user?id=shekarramaswamy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年1月的可重复性构建]]></title>
-        <id>https://news.ycombinator.com/item?id=30229189</id>
-        <link href="https://news.ycombinator.com/item?id=30229189"/>
-        <updated>2022-02-06T03:45:15.000Z</updated>
-        <summary type="html"><![CDATA[Reproducible Builds in January 2022]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为Debian Linux内核团队提供CI]]></title>
-        <id>https://news.ycombinator.com/item?id=30229192</id>
-        <link href="https://news.ycombinator.com/item?id=30229192"/>
-        <updated>2022-02-06T03:45:37.000Z</updated>
-        <summary type="html"><![CDATA[CI for the Debian Linux kernel team]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
