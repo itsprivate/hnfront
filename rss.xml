@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 17 Feb 2022 15:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 15:55:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我试图发明一个新的查询语言功能，但失败了]]></title>
+            <link>https://news.ycombinator.com/item?id=30374181</link>
+            <guid>https://news.ycombinator.com/item?id=30374181</guid>
+            <pubDate>Thu, 17 Feb 2022 15:35:16 GMT</pubDate>
+            <description><![CDATA[I tried to invent a new query language feature and failed]]></description>
+        </item>
         <item>
             <title><![CDATA[Gmail - 一个新的综合布局]]></title>
             <link>https://news.ycombinator.com/item?id=30374226</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30234518</guid>
             <pubDate>Sun, 06 Feb 2022 17:18:34 GMT</pubDate>
             <description><![CDATA[On Being Broke]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧洲。数字通信隐私的终结]]></title>
-            <link>https://news.ycombinator.com/item?id=30234478</link>
-            <guid>https://news.ycombinator.com/item?id=30234478</guid>
-            <pubDate>Sun, 06 Feb 2022 17:14:53 GMT</pubDate>
-            <description><![CDATA[Europe: The End of the Privacy of Digital Correspondence]]></description>
         </item>
     </channel>
 </rss>

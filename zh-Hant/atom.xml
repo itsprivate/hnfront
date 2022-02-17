@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T15:47:41.966Z</updated>
+    <updated>2022-02-17T15:55:02.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我試圖發明一個新的查詢語言功能，但失敗了]]></title>
+        <id>https://news.ycombinator.com/item?id=30374181</id>
+        <link href="https://news.ycombinator.com/item?id=30374181"/>
+        <updated>2022-02-17T15:35:16.000Z</updated>
+        <summary type="html"><![CDATA[I tried to invent a new query language feature and failed]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gmail - 一個新的綜合佈局]]></title>
         <id>https://news.ycombinator.com/item?id=30374226</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>vitabenes</name>
             <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐洲。數字通信隱私的終結]]></title>
-        <id>https://news.ycombinator.com/item?id=30234478</id>
-        <link href="https://news.ycombinator.com/item?id=30234478"/>
-        <updated>2022-02-06T17:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Europe: The End of the Privacy of Digital Correspondence]]></summary>
-        <author>
-            <name>donutloop</name>
-            <uri>https://news.ycombinator.com/user?id=donutloop</uri>
         </author>
     </entry>
 </feed>
