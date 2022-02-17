@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T17:21:33.167Z</updated>
+    <updated>2022-02-17T18:15:35.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中情局與權力的新話語]]></title>
+        <id>https://news.ycombinator.com/item?id=30376260</id>
+        <link href="https://news.ycombinator.com/item?id=30376260"/>
+        <updated>2022-02-17T17:52:20.000Z</updated>
+        <summary type="html"><![CDATA[The CIA and the New Dialect of Power]]></summary>
+        <author>
+            <name>tablespoon</name>
+            <uri>https://news.ycombinator.com/user?id=tablespoon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ReadMe（YC W15）正在招聘一名熱愛開發工具的CTO]]></title>
         <id>https://news.ycombinator.com/item?id=30375466</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何為軟件開發挑選一個好的顯示器]]></title>
-        <id>https://news.ycombinator.com/item?id=30236067</id>
-        <link href="https://news.ycombinator.com/item?id=30236067"/>
-        <updated>2022-02-06T19:32:33.000Z</updated>
-        <summary type="html"><![CDATA[How to Pick a Good Monitor for Software Development]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
