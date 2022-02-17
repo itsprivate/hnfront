@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 17 Feb 2022 19:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 19:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我什麼時候做TDD，什麼時候不做]]></title>
+            <link>https://news.ycombinator.com/item?id=30358248</link>
+            <guid>https://news.ycombinator.com/item?id=30358248</guid>
+            <pubDate>Wed, 16 Feb 2022 10:20:14 GMT</pubDate>
+            <description><![CDATA[When I do TDD and when I don’t]]></description>
+        </item>
         <item>
             <title><![CDATA[告訴HN：我們能不能把M1 Mac的滯後/軟弱的光標和滾動錯誤浮出水面？]]></title>
             <link>https://news.ycombinator.com/item?id=30376907</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30219940</guid>
             <pubDate>Sat, 05 Feb 2022 10:53:59 GMT</pubDate>
             <description><![CDATA[CadQuery Comes of Age]]></description>
-        </item>
-        <item>
-            <title><![CDATA[量子摩擦解釋了水在納米管中流動的奇怪方式]]></title>
-            <link>https://news.ycombinator.com/item?id=30227139</link>
-            <guid>https://news.ycombinator.com/item?id=30227139</guid>
-            <pubDate>Sat, 05 Feb 2022 22:51:39 GMT</pubDate>
-            <description><![CDATA[Quantum friction explains strange way water flows through nanotubes]]></description>
         </item>
     </channel>
 </rss>

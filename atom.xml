@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T19:13:42.922Z</updated>
+    <updated>2022-02-17T19:27:40.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我什么时候做TDD，什么时候不做]]></title>
+        <id>https://news.ycombinator.com/item?id=30358248</id>
+        <link href="https://news.ycombinator.com/item?id=30358248"/>
+        <updated>2022-02-16T10:20:14.000Z</updated>
+        <summary type="html"><![CDATA[When I do TDD and when I don’t]]></summary>
+        <author>
+            <name>adrianomartins</name>
+            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：我们能不能把M1 Mac的滞后/软弱的光标和滚动错误浮出水面？]]></title>
         <id>https://news.ycombinator.com/item?id=30376907</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>watchdogtimer</name>
             <uri>https://news.ycombinator.com/user?id=watchdogtimer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子摩擦解释了水在纳米管中流动的奇怪方式]]></title>
-        <id>https://news.ycombinator.com/item?id=30227139</id>
-        <link href="https://news.ycombinator.com/item?id=30227139"/>
-        <updated>2022-02-05T22:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Quantum friction explains strange way water flows through nanotubes]]></summary>
-        <author>
-            <name>elorant</name>
-            <uri>https://news.ycombinator.com/user?id=elorant</uri>
         </author>
     </entry>
 </feed>
