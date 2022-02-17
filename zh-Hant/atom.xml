@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T19:27:40.107Z</updated>
+    <updated>2022-02-17T19:38:50.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Otter.ai為記者們節省了抄寫採訪內容的時間。注意事項]]></title>
+        <id>https://news.ycombinator.com/item?id=30377058</id>
+        <link href="https://news.ycombinator.com/item?id=30377058"/>
+        <updated>2022-02-17T18:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Otter.ai has saved reporters hours transcribing interviews. Caveat emptor]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我什麼時候做TDD，什麼時候不做]]></title>
         <id>https://news.ycombinator.com/item?id=30358248</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tagoregrtst</name>
             <uri>https://news.ycombinator.com/user?id=tagoregrtst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CadQuery的時代到來了]]></title>
-        <id>https://news.ycombinator.com/item?id=30219940</id>
-        <link href="https://news.ycombinator.com/item?id=30219940"/>
-        <updated>2022-02-05T10:53:59.000Z</updated>
-        <summary type="html"><![CDATA[CadQuery Comes of Age]]></summary>
-        <author>
-            <name>watchdogtimer</name>
-            <uri>https://news.ycombinator.com/user?id=watchdogtimer</uri>
         </author>
     </entry>
 </feed>
