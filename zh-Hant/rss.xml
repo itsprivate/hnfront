@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 17 Feb 2022 07:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 07:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[NATSpeech: 帶有HuggingFace演示的高質量文本到語音實現]]></title>
+            <link>https://news.ycombinator.com/item?id=30369968</link>
+            <guid>https://news.ycombinator.com/item?id=30369968</guid>
+            <pubDate>Thu, 17 Feb 2022 05:52:08 GMT</pubDate>
+            <description><![CDATA[NATSpeech: High Quality Text-to-Speech Implementation with HuggingFace Demo]]></description>
+        </item>
         <item>
             <title><![CDATA[Meticulous（YC S21）正在倫敦招聘2號創始工程師（10萬-15萬英鎊，2%以上）。]]></title>
             <link>https://news.ycombinator.com/item?id=30370297</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30230846</guid>
             <pubDate>Sun, 06 Feb 2022 09:30:30 GMT</pubDate>
             <description><![CDATA[A Quick Introduction to R]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高斯過程迴歸演示]]></title>
-            <link>https://news.ycombinator.com/item?id=30209859</link>
-            <guid>https://news.ycombinator.com/item?id=30209859</guid>
-            <pubDate>Fri, 04 Feb 2022 17:33:26 GMT</pubDate>
-            <description><![CDATA[Gaussian Process Regression Demo]]></description>
         </item>
     </channel>
 </rss>

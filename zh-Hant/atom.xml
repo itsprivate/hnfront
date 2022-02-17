@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T07:13:14.539Z</updated>
+    <updated>2022-02-17T07:30:57.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NATSpeech: 帶有HuggingFace演示的高質量文本到語音實現]]></title>
+        <id>https://news.ycombinator.com/item?id=30369968</id>
+        <link href="https://news.ycombinator.com/item?id=30369968"/>
+        <updated>2022-02-17T05:52:08.000Z</updated>
+        <summary type="html"><![CDATA[NATSpeech: High Quality Text-to-Speech Implementation with HuggingFace Demo]]></summary>
+        <author>
+            <name>smusamashah</name>
+            <uri>https://news.ycombinator.com/user?id=smusamashah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meticulous（YC S21）正在倫敦招聘2號創始工程師（10萬-15萬英鎊，2%以上）。]]></title>
         <id>https://news.ycombinator.com/item?id=30370297</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>kkoncevicius</name>
             <uri>https://news.ycombinator.com/user?id=kkoncevicius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高斯過程迴歸演示]]></title>
-        <id>https://news.ycombinator.com/item?id=30209859</id>
-        <link href="https://news.ycombinator.com/item?id=30209859"/>
-        <updated>2022-02-04T17:33:26.000Z</updated>
-        <summary type="html"><![CDATA[Gaussian Process Regression Demo]]></summary>
-        <author>
-            <name>alemelis</name>
-            <uri>https://news.ycombinator.com/user?id=alemelis</uri>
         </author>
     </entry>
 </feed>
