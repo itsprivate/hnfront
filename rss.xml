@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 17 Feb 2022 21:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 21:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[写一个光线跟踪器需要多少模板代码？]]></title>
+            <link>https://news.ycombinator.com/item?id=30378900</link>
+            <guid>https://news.ycombinator.com/item?id=30378900</guid>
+            <pubDate>Thu, 17 Feb 2022 21:26:25 GMT</pubDate>
+            <description><![CDATA[How much boilerplate code you need to write a ray-tracer?]]></description>
+        </item>
         <item>
             <title><![CDATA[S2n-QUIC（QUIC的Rust实现）。]]></title>
             <link>https://news.ycombinator.com/item?id=30378383</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30239162</guid>
             <pubDate>Mon, 07 Feb 2022 01:48:01 GMT</pubDate>
             <description><![CDATA[HN Users with Most Karma]]></description>
-        </item>
-        <item>
-            <title><![CDATA[描绘未来的规划社区（1939年）]]></title>
-            <link>https://news.ycombinator.com/item?id=30236104</link>
-            <guid>https://news.ycombinator.com/item?id=30236104</guid>
-            <pubDate>Sun, 06 Feb 2022 19:35:13 GMT</pubDate>
-            <description><![CDATA[Democracity a planned community of the future (1939)]]></description>
         </item>
     </channel>
 </rss>
