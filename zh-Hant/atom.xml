@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T20:32:57.890Z</updated>
+    <updated>2022-02-17T20:53:21.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在一個上鎖的房間內實施謀殺]]></title>
+        <id>https://news.ycombinator.com/item?id=30378165</id>
+        <link href="https://news.ycombinator.com/item?id=30378165"/>
+        <updated>2022-02-17T20:24:46.000Z</updated>
+        <summary type="html"><![CDATA[How to commit murder inside a locked room]]></summary>
+        <author>
+            <name>hooboy</name>
+            <uri>https://news.ycombinator.com/user?id=hooboy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NOAA 2022年海平面上升技術報告]]></title>
         <id>https://news.ycombinator.com/item?id=30378001</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tiagobraw</name>
             <uri>https://news.ycombinator.com/user?id=tiagobraw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彼得-蒂爾悖論]]></title>
-        <id>https://news.ycombinator.com/item?id=30238620</id>
-        <link href="https://news.ycombinator.com/item?id=30238620"/>
-        <updated>2022-02-07T00:26:43.000Z</updated>
-        <summary type="html"><![CDATA[The Peter Thiel Paradox]]></summary>
-        <author>
-            <name>VieEnCode</name>
-            <uri>https://news.ycombinator.com/user?id=VieEnCode</uri>
         </author>
     </entry>
 </feed>
