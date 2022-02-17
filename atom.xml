@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T22:42:12.909Z</updated>
+    <updated>2022-02-17T22:53:37.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火狐设计：编码重写没有必要，因为大多数mojibake仍然可读]]></title>
+        <id>https://news.ycombinator.com/item?id=30379655</id>
+        <link href="https://news.ycombinator.com/item?id=30379655"/>
+        <updated>2022-02-17T22:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Firefox dev: Encoding override not necessary since most mojibake still legible]]></summary>
+        <author>
+            <name>serentty</name>
+            <uri>https://news.ycombinator.com/user?id=serentty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[转基因发光鱼入侵巴西溪流]]></title>
+        <id>https://news.ycombinator.com/item?id=30379434</id>
+        <link href="https://news.ycombinator.com/item?id=30379434"/>
+        <updated>2022-02-17T22:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Transgenic glowing fish invades Brazilian streams]]></summary>
+        <author>
+            <name>teepo</name>
+            <uri>https://news.ycombinator.com/user?id=teepo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18 RC1已经发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30378838</id>
+        <link href="https://news.ycombinator.com/item?id=30378838"/>
+        <updated>2022-02-17T21:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Go 1.18 RC1 is out]]></summary>
+        <author>
+            <name>nappy-doo</name>
+            <uri>https://news.ycombinator.com/user?id=nappy-doo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["谁最后触及它，谁就拥有它"。关于Unix先锋Lorinda Cherry的去世]]></title>
         <id>https://news.ycombinator.com/item?id=30379327</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>jseliger</name>
             <uri>https://news.ycombinator.com/user?id=jseliger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堪萨斯州立大学C.S.系教师编写的教科书]]></title>
-        <id>https://news.ycombinator.com/item?id=30239749</id>
-        <link href="https://news.ycombinator.com/item?id=30239749"/>
-        <updated>2022-02-07T02:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Textbooks by the Faculty of the C.S. Department of Kansas State University]]></summary>
-        <author>
-            <name>theastrowolfe</name>
-            <uri>https://news.ycombinator.com/user?id=theastrowolfe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[矩阵。一个安全的、去中心化的通信开放网络]]></title>
-        <id>https://news.ycombinator.com/item?id=30239737</id>
-        <link href="https://news.ycombinator.com/item?id=30239737"/>
-        <updated>2022-02-07T02:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Matrix: An open network for secure, decentralized communication]]></summary>
-        <author>
-            <name>tentacleuno</name>
-            <uri>https://news.ycombinator.com/user?id=tentacleuno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解全球芯片短缺问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30228178</id>
-        <link href="https://news.ycombinator.com/item?id=30228178"/>
-        <updated>2022-02-06T01:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the Global Chip Shortages]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>
