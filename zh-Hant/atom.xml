@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T05:13:20.137Z</updated>
+    <updated>2022-02-17T06:15:36.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[莽撞的OpenBSD指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30333831</id>
+        <link href="https://news.ycombinator.com/item?id=30333831"/>
+        <updated>2022-02-14T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A Reckless Guide to OpenBSD]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Haskell錯誤信息。來吧]]></title>
         <id>https://news.ycombinator.com/item?id=30369497</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的小氣鬼評論系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30206330</id>
-        <link href="https://news.ycombinator.com/item?id=30206330"/>
-        <updated>2022-02-04T13:10:16.000Z</updated>
-        <summary type="html"><![CDATA[My cheapskate commenting system]]></summary>
-        <author>
-            <name>bradley_taunt</name>
-            <uri>https://news.ycombinator.com/user?id=bradley_taunt</uri>
         </author>
     </entry>
 </feed>
