@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T13:34:35.042Z</updated>
+    <updated>2022-02-17T13:53:33.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C# 原始字符串字面建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30372784</id>
+        <link href="https://news.ycombinator.com/item?id=30372784"/>
+        <updated>2022-02-17T13:26:44.000Z</updated>
+        <summary type="html"><![CDATA[C# Raw String Literal Proposal]]></summary>
+        <author>
+            <name>nikbackm</name>
+            <uri>https://news.ycombinator.com/user?id=nikbackm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL的内部结构]]></title>
+        <id>https://news.ycombinator.com/item?id=30372750</id>
+        <link href="https://news.ycombinator.com/item?id=30372750"/>
+        <updated>2022-02-17T13:22:02.000Z</updated>
+        <summary type="html"><![CDATA[The Internals of PostgreSQL]]></summary>
+        <author>
+            <name>hjnkk</name>
+            <uri>https://news.ycombinator.com/user?id=hjnkk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁在抢占IPv4地址？]]></title>
+        <id>https://news.ycombinator.com/item?id=30372741</id>
+        <link href="https://news.ycombinator.com/item?id=30372741"/>
+        <updated>2022-02-17T13:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Who is squatting IPv4 addresses?]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lisp外星人3D模型]]></title>
         <id>https://news.ycombinator.com/item?id=30372056</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>susam</name>
             <uri>https://news.ycombinator.com/user?id=susam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从你的终端播放Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30233472</id>
-        <link href="https://news.ycombinator.com/item?id=30233472"/>
-        <updated>2022-02-06T15:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Play Wordle from Your Terminal]]></summary>
-        <author>
-            <name>conradludgate</name>
-            <uri>https://news.ycombinator.com/user?id=conradludgate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大卫-查尔默斯的模拟世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30233447</id>
-        <link href="https://news.ycombinator.com/item?id=30233447"/>
-        <updated>2022-02-06T15:39:30.000Z</updated>
-        <summary type="html"><![CDATA[The Simulated World According to David Chalmers]]></summary>
-        <author>
-            <name>martinlaz</name>
-            <uri>https://news.ycombinator.com/user?id=martinlaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trustix - 共识和投票]]></title>
-        <id>https://news.ycombinator.com/item?id=30190739</id>
-        <link href="https://news.ycombinator.com/item?id=30190739"/>
-        <updated>2022-02-03T10:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Trustix – Consensus and Voting]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
