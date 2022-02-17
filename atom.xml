@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T21:15:35.604Z</updated>
+    <updated>2022-02-17T21:31:52.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[S2n-QUIC（QUIC的Rust实现）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30378383</id>
+        <link href="https://news.ycombinator.com/item?id=30378383"/>
+        <updated>2022-02-17T20:43:00.000Z</updated>
+        <summary type="html"><![CDATA[S2n-QUIC (Rust implementation of QUIC)]]></summary>
+        <author>
+            <name>jeffbarr</name>
+            <uri>https://news.ycombinator.com/user?id=jeffbarr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要立即指出错误的东西]]></title>
+        <id>https://news.ycombinator.com/item?id=30356177</id>
+        <link href="https://news.ycombinator.com/item?id=30356177"/>
+        <updated>2022-02-16T03:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Don’t point out something wrong immediately]]></summary>
+        <author>
+            <name>uvdn7</name>
+            <uri>https://news.ycombinator.com/user?id=uvdn7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fetch（YC S15）正在招聘高级软件工程师（亚特兰大，混合）。]]></title>
         <id>https://news.ycombinator.com/item?id=30378604</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>samclemens</name>
             <uri>https://news.ycombinator.com/user?id=samclemens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一种显示N维超级物体的计算机技术 (1967) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30205656</id>
-        <link href="https://news.ycombinator.com/item?id=30205656"/>
-        <updated>2022-02-04T11:55:10.000Z</updated>
-        <summary type="html"><![CDATA[A Computer Technique for Displaying N-Dimensional Hyperobjects (1967) [pdf]]]></summary>
-        <author>
-            <name>O__________O</name>
-            <uri>https://news.ycombinator.com/user?id=O__________O</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马克-扎克伯格的灾难正带着硅谷走。]]></title>
-        <id>https://news.ycombinator.com/item?id=30239071</id>
-        <link href="https://news.ycombinator.com/item?id=30239071"/>
-        <updated>2022-02-07T01:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Mark Zuckerberg’s Disaster Is Taking Silicon Valley with It]]></summary>
-        <author>
-            <name>vanusa</name>
-            <uri>https://news.ycombinator.com/user?id=vanusa</uri>
         </author>
     </entry>
 </feed>
