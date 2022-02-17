@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-17T14:53:50.688Z</updated>
+    <updated>2022-02-17T15:13:23.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從Glitch部署到DigitalOcean]]></title>
+        <id>https://news.ycombinator.com/item?id=30373613</id>
+        <link href="https://news.ycombinator.com/item?id=30373613"/>
+        <updated>2022-02-17T14:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Deploy to DigitalOcean from Glitch]]></summary>
+        <author>
+            <name>beardicus</name>
+            <uri>https://news.ycombinator.com/user?id=beardicus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用激光熱力推進的快速轉場火星任務的設計]]></title>
+        <id>https://news.ycombinator.com/item?id=30373608</id>
+        <link href="https://news.ycombinator.com/item?id=30373608"/>
+        <updated>2022-02-17T14:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Design of a rapid transit to Mars mission using laser-thermal propulsion]]></summary>
+        <author>
+            <name>nixass</name>
+            <uri>https://news.ycombinator.com/user?id=nixass</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：1Password共享你不希望共享的密碼]]></title>
         <id>https://news.ycombinator.com/item?id=30373475</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>sshah1983</name>
             <uri>https://news.ycombinator.com/user?id=sshah1983</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯合太平洋公司將購買20輛電池電力機車]]></title>
-        <id>https://news.ycombinator.com/item?id=30233199</id>
-        <link href="https://news.ycombinator.com/item?id=30233199"/>
-        <updated>2022-02-06T15:14:39.000Z</updated>
-        <summary type="html"><![CDATA[Union Pacific to Buy 20 Battery-Electric Locomotives]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[璽氏(YC W22)正在招聘]]></title>
-        <id>https://news.ycombinator.com/item?id=30234320</id>
-        <link href="https://news.ycombinator.com/item?id=30234320"/>
-        <updated>2022-02-06T17:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Seis (YC W22) Is Hiring]]></summary>
-        <author>
-            <name>trevmckendrick</name>
-            <uri>https://news.ycombinator.com/user?id=trevmckendrick</uri>
         </author>
     </entry>
 </feed>
