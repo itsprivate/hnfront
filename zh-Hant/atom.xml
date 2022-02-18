@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T23:13:53.075Z</updated>
+    <updated>2022-02-18T23:32:15.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[玫瑰山莊之行]]></title>
+        <id>https://news.ycombinator.com/item?id=30390473</id>
+        <link href="https://news.ycombinator.com/item?id=30390473"/>
+        <updated>2022-02-18T20:14:51.000Z</updated>
+        <summary type="html"><![CDATA[The Trip to Rose Cottage]]></summary>
+        <author>
+            <name>robbybaron</name>
+            <uri>https://news.ycombinator.com/user?id=robbybaron</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[進展中的作品》已加入Stripe]]></title>
         <id>https://news.ycombinator.com/item?id=30391792</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>lumpa</name>
             <uri>https://news.ycombinator.com/user?id=lumpa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CR+LF擁有悠久的歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=30253968</id>
-        <link href="https://news.ycombinator.com/item?id=30253968"/>
-        <updated>2022-02-08T01:39:19.000Z</updated>
-        <summary type="html"><![CDATA[CR+LF Has a Long History]]></summary>
-        <author>
-            <name>rhabarba</name>
-            <uri>https://news.ycombinator.com/user?id=rhabarba</uri>
         </author>
     </entry>
 </feed>
