@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T16:47:46.600Z</updated>
+    <updated>2022-02-18T17:05:04.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软赢得数据编码专利后发出警报]]></title>
+        <id>https://news.ycombinator.com/item?id=30387833</id>
+        <link href="https://news.ycombinator.com/item?id=30387833"/>
+        <updated>2022-02-18T16:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Alarm raised after Microsoft wins data-encoding patent]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决整个毫米级原子样本的引力红移问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30387818</id>
+        <link href="https://news.ycombinator.com/item?id=30387818"/>
+        <updated>2022-02-18T16:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Resolving the gravitational redshift across a millimetre-scale atomic sample]]></summary>
+        <author>
+            <name>ISL</name>
+            <uri>https://news.ycombinator.com/user?id=ISL</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zabbix Web前端的关键漏洞允许绕过认证]]></title>
+        <id>https://news.ycombinator.com/item?id=30386364</id>
+        <link href="https://news.ycombinator.com/item?id=30386364"/>
+        <updated>2022-02-18T14:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Critical vulnerabilities in Zabbix Web Front end allow authentication bypass]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年在OCamlPro]]></title>
         <id>https://news.ycombinator.com/item?id=30386388</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>ritwikgupta</name>
             <uri>https://news.ycombinator.com/user?id=ritwikgupta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid-19的长期心血管疾病结果]]></title>
-        <id>https://news.ycombinator.com/item?id=30249618</id>
-        <link href="https://news.ycombinator.com/item?id=30249618"/>
-        <updated>2022-02-07T19:17:59.000Z</updated>
-        <summary type="html"><![CDATA[Long-term cardiovascular outcomes of Covid-19]]></summary>
-        <author>
-            <name>dv_dt</name>
-            <uri>https://news.ycombinator.com/user?id=dv_dt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我利用自动化工具躲避重复性工作的三十年历程]]></title>
-        <id>https://news.ycombinator.com/item?id=30249518</id>
-        <link href="https://news.ycombinator.com/item?id=30249518"/>
-        <updated>2022-02-07T19:10:28.000Z</updated>
-        <summary type="html"><![CDATA[My Thirty Years of Dodging Repetitive Work with Automation Tools]]></summary>
-        <author>
-            <name>conoro</name>
-            <uri>https://news.ycombinator.com/user?id=conoro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雅马哈DX7芯片逆向工程，第六部分：控制寄存器]]></title>
-        <id>https://news.ycombinator.com/item?id=30249628</id>
-        <link href="https://news.ycombinator.com/item?id=30249628"/>
-        <updated>2022-02-07T19:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Yamaha DX7 chip reverse-engineering, part 6: the control registers]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
