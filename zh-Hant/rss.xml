@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 18 Feb 2022 08:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 09:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Littlefs - 一個為微控制器設計的小的故障安全文件系統]]></title>
+            <link>https://news.ycombinator.com/item?id=30383567</link>
+            <guid>https://news.ycombinator.com/item?id=30383567</guid>
+            <pubDate>Fri, 18 Feb 2022 09:00:26 GMT</pubDate>
+            <description><![CDATA[Littlefs – A little fail-safe filesystem designed for microcontrollers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的遠程暴徒編程經驗]]></title>
+            <link>https://news.ycombinator.com/item?id=30383382</link>
+            <guid>https://news.ycombinator.com/item?id=30383382</guid>
+            <pubDate>Fri, 18 Feb 2022 08:29:07 GMT</pubDate>
+            <description><![CDATA[My Remote Mob Programming Experience]]></description>
+        </item>
         <item>
             <title><![CDATA[二維碼使用率飆升，FBI敲響警鐘]]></title>
             <link>https://news.ycombinator.com/item?id=30383063</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30242509</guid>
             <pubDate>Mon, 07 Feb 2022 09:51:05 GMT</pubDate>
             <description><![CDATA[When an M1 Mac mini is faster than an M1 Pro: contention and core allocation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將複合數分解成幾乎相等的因數]]></title>
-            <link>https://news.ycombinator.com/item?id=30231189</link>
-            <guid>https://news.ycombinator.com/item?id=30231189</guid>
-            <pubDate>Sun, 06 Feb 2022 10:30:48 GMT</pubDate>
-            <description><![CDATA[Factoring composite numbers into nearly equal factors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nim與Rust的基準測試]]></title>
-            <link>https://news.ycombinator.com/item?id=30243219</link>
-            <guid>https://news.ycombinator.com/item?id=30243219</guid>
-            <pubDate>Mon, 07 Feb 2022 11:17:39 GMT</pubDate>
-            <description><![CDATA[Nim vs Rust Benchmarks]]></description>
         </item>
     </channel>
 </rss>

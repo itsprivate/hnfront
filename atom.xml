@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T08:53:28.736Z</updated>
+    <updated>2022-02-18T09:32:43.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Littlefs - 一个为微控制器设计的小的故障安全文件系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30383567</id>
+        <link href="https://news.ycombinator.com/item?id=30383567"/>
+        <updated>2022-02-18T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Littlefs – A little fail-safe filesystem designed for microcontrollers]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的远程暴徒编程经验]]></title>
+        <id>https://news.ycombinator.com/item?id=30383382</id>
+        <link href="https://news.ycombinator.com/item?id=30383382"/>
+        <updated>2022-02-18T08:29:07.000Z</updated>
+        <summary type="html"><![CDATA[My Remote Mob Programming Experience]]></summary>
+        <author>
+            <name>zufallsheld</name>
+            <uri>https://news.ycombinator.com/user?id=zufallsheld</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二维码使用率飙升，FBI敲响警钟]]></title>
         <id>https://news.ycombinator.com/item?id=30383063</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将复合数分解成几乎相等的因数]]></title>
-        <id>https://news.ycombinator.com/item?id=30231189</id>
-        <link href="https://news.ycombinator.com/item?id=30231189"/>
-        <updated>2022-02-06T10:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Factoring composite numbers into nearly equal factors]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nim与Rust的基准测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30243219</id>
-        <link href="https://news.ycombinator.com/item?id=30243219"/>
-        <updated>2022-02-07T11:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Nim vs Rust Benchmarks]]></summary>
-        <author>
-            <name>conorbros</name>
-            <uri>https://news.ycombinator.com/user?id=conorbros</uri>
         </author>
     </entry>
 </feed>
