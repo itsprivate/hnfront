@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T10:46:01.692Z</updated>
+    <updated>2022-02-18T11:12:25.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从macOS到FreeBSD]]></title>
+        <id>https://news.ycombinator.com/item?id=30384138</id>
+        <link href="https://news.ycombinator.com/item?id=30384138"/>
+        <updated>2022-02-18T10:34:47.000Z</updated>
+        <summary type="html"><![CDATA[From macOS to FreeBSD]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能克服了大脑启发式硬件的绊脚石]]></title>
+        <id>https://news.ycombinator.com/item?id=30384116</id>
+        <link href="https://news.ycombinator.com/item?id=30384116"/>
+        <updated>2022-02-18T10:30:28.000Z</updated>
+        <summary type="html"><![CDATA[AI Overcomes Stumbling Block on Brain-Inspired Hardware]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为观众设计奥林匹克运动]]></title>
         <id>https://news.ycombinator.com/item?id=30378157</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对PAIP的回顾 (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=30230364</id>
-        <link href="https://news.ycombinator.com/item?id=30230364"/>
-        <updated>2022-02-06T07:50:39.000Z</updated>
-        <summary type="html"><![CDATA[A Retrospective on PAIP (2002)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[此应用程序不支持App Store的私人和安全支付系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30244276</id>
-        <link href="https://news.ycombinator.com/item?id=30244276"/>
-        <updated>2022-02-07T13:05:29.000Z</updated>
-        <summary type="html"><![CDATA[This app does not support the App Store’s private and secure payment system]]></summary>
-        <author>
-            <name>tiagoleifert</name>
-            <uri>https://news.ycombinator.com/user?id=tiagoleifert</uri>
         </author>
     </entry>
 </feed>
