@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T17:18:35.476Z</updated>
+    <updated>2022-02-18T17:34:10.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GStreamer 1.20：嵌入式和WebRTC引领潮流]]></title>
+        <id>https://news.ycombinator.com/item?id=30388300</id>
+        <link href="https://news.ycombinator.com/item?id=30388300"/>
+        <updated>2022-02-18T17:09:02.000Z</updated>
+        <summary type="html"><![CDATA[GStreamer 1.20: Embedded and WebRTC lead the way]]></summary>
+        <author>
+            <name>mfilion</name>
+            <uri>https://news.ycombinator.com/user?id=mfilion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kodable正在招聘一名高级游戏开发人员，帮助我们教孩子们编程]]></title>
         <id>https://news.ycombinator.com/item?id=30388182</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify的首席执行官就乔-罗根的争议向员工道歉]]></title>
-        <id>https://news.ycombinator.com/item?id=30250111</id>
-        <link href="https://news.ycombinator.com/item?id=30250111"/>
-        <updated>2022-02-07T19:55:09.000Z</updated>
-        <summary type="html"><![CDATA[Spotify’s CEO apologizes to employees over Joe Rogan controversy]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
         </author>
     </entry>
 </feed>
