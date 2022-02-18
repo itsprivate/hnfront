@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T06:39:21.432Z</updated>
+    <updated>2022-02-18T06:57:15.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多功能的開源在線SVG路徑編輯器]]></title>
+        <id>https://news.ycombinator.com/item?id=30382577</id>
+        <link href="https://news.ycombinator.com/item?id=30382577"/>
+        <updated>2022-02-18T06:01:40.000Z</updated>
+        <summary type="html"><![CDATA[Versatile Open Source online SVG path editor]]></summary>
+        <author>
+            <name>sandreas</name>
+            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在離線的三天裡學到了什麼]]></title>
         <id>https://news.ycombinator.com/item?id=30382331</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bitigchi</name>
             <uri>https://news.ycombinator.com/user?id=bitigchi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密貨幣的反擊正在蓬勃發展]]></title>
-        <id>https://news.ycombinator.com/item?id=30242937</id>
-        <link href="https://news.ycombinator.com/item?id=30242937"/>
-        <updated>2022-02-07T10:42:21.000Z</updated>
-        <summary type="html"><![CDATA[The Crypto Backlash Is Booming]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
