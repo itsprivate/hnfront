@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T22:42:55.767Z</updated>
+    <updated>2022-02-18T22:52:49.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[塔维斯托克信件在163年后终于被破解了]]></title>
+        <id>https://news.ycombinator.com/item?id=30392069</id>
+        <link href="https://news.ycombinator.com/item?id=30392069"/>
+        <updated>2022-02-18T22:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Tavistock Letter has been decoded finally after 163 years]]></summary>
+        <author>
+            <name>chenster</name>
+            <uri>https://news.ycombinator.com/user?id=chenster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我们禁止使用乐高积木]]></title>
         <id>https://news.ycombinator.com/item?id=30391724</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>torritest</name>
             <uri>https://news.ycombinator.com/user?id=torritest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MHDDoS - 带有36种方法的DDoS攻击脚本]]></title>
-        <id>https://news.ycombinator.com/item?id=30253293</id>
-        <link href="https://news.ycombinator.com/item?id=30253293"/>
-        <updated>2022-02-08T00:00:24.000Z</updated>
-        <summary type="html"><![CDATA[MHDDoS – DDoS Attack Script with 36 Method]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
