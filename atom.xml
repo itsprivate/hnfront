@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T12:50:56.614Z</updated>
+    <updated>2022-02-18T13:42:02.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特币矿工复兴了一个垂死的化石燃料工厂--然后二氧化碳排放量飙升]]></title>
+        <id>https://news.ycombinator.com/item?id=30384927</id>
+        <link href="https://news.ycombinator.com/item?id=30384927"/>
+        <updated>2022-02-18T12:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin miners revived a dying fossil fuel plant – then CO2 emissions soared]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迪拜的债务陷阱]]></title>
         <id>https://news.ycombinator.com/item?id=30384338</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>cstanley</name>
             <uri>https://news.ycombinator.com/user?id=cstanley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unikraft是一个快速、安全和开源的Unikernel开发工具包。]]></title>
-        <id>https://news.ycombinator.com/item?id=30247022</id>
-        <link href="https://news.ycombinator.com/item?id=30247022"/>
-        <updated>2022-02-07T16:28:45.000Z</updated>
-        <summary type="html"><![CDATA[Unikraft is a fast, secure and open-source Unikernel Development Kit]]></summary>
-        <author>
-            <name>nderjung</name>
-            <uri>https://news.ycombinator.com/user?id=nderjung</uri>
         </author>
     </entry>
 </feed>
