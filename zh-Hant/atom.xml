@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T17:34:10.281Z</updated>
+    <updated>2022-02-18T18:15:48.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[貌似可拒絕的加密]]></title>
+        <id>https://news.ycombinator.com/item?id=30388812</id>
+        <link href="https://news.ycombinator.com/item?id=30388812"/>
+        <updated>2022-02-18T17:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Plausibly Deniable Encryption]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Outlook剛剛問我是否要升級到更大的廣告"]]></title>
+        <id>https://news.ycombinator.com/item?id=30388788</id>
+        <link href="https://news.ycombinator.com/item?id=30388788"/>
+        <updated>2022-02-18T17:48:16.000Z</updated>
+        <summary type="html"><![CDATA[“Outlook just asked me if I want to upgrade to bigger ads”]]></summary>
+        <author>
+            <name>tech234a</name>
+            <uri>https://news.ycombinator.com/user?id=tech234a</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GStreamer 1.20：嵌入式和WebRTC引領潮流]]></title>
         <id>https://news.ycombinator.com/item?id=30388300</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>verdverm</name>
             <uri>https://news.ycombinator.com/user?id=verdverm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jürgen Schmidhuber的主頁]]></title>
-        <id>https://news.ycombinator.com/item?id=30250395</id>
-        <link href="https://news.ycombinator.com/item?id=30250395"/>
-        <updated>2022-02-07T20:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Jürgen Schmidhuber's Home Page]]></summary>
-        <author>
-            <name>kkoncevicius</name>
-            <uri>https://news.ycombinator.com/user?id=kkoncevicius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可以改變你的號碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30250215</id>
-        <link href="https://news.ycombinator.com/item?id=30250215"/>
-        <updated>2022-02-07T20:03:24.000Z</updated>
-        <summary type="html"><![CDATA[You Can Change Your Number]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
