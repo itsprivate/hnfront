@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T21:30:31.195Z</updated>
+    <updated>2022-02-18T21:39:29.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：TIL，Trayvon Martin是我们中的一员]]></title>
+        <id>https://news.ycombinator.com/item?id=30391343</id>
+        <link href="https://news.ycombinator.com/item?id=30391343"/>
+        <updated>2022-02-18T21:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: TIL that Trayvon Martin was one of us]]></summary>
+        <author>
+            <name>givemeethekeys</name>
+            <uri>https://news.ycombinator.com/user?id=givemeethekeys</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究结果不支持对Covid-19患者使用伊维菌素。]]></title>
+        <id>https://news.ycombinator.com/item?id=30390865</id>
+        <link href="https://news.ycombinator.com/item?id=30390865"/>
+        <updated>2022-02-18T20:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Study findings do not support the use of ivermectin for patients with Covid-19]]></summary>
+        <author>
+            <name>barbazoo</name>
+            <uri>https://news.ycombinator.com/user?id=barbazoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡尔-爱克力与豹子的生死搏斗（1923年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30390457</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>Stratoscope</name>
             <uri>https://news.ycombinator.com/user?id=Stratoscope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭开不服从命令的面纱]]></title>
-        <id>https://news.ycombinator.com/item?id=30251824</id>
-        <link href="https://news.ycombinator.com/item?id=30251824"/>
-        <updated>2022-02-07T21:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Unmasking Insubordination]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用语言模型组成红队的语言模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30251689</id>
-        <link href="https://news.ycombinator.com/item?id=30251689"/>
-        <updated>2022-02-07T21:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Red Teaming Language Models with Language Models]]></summary>
-        <author>
-            <name>nmca</name>
-            <uri>https://news.ycombinator.com/user?id=nmca</uri>
         </author>
     </entry>
 </feed>
