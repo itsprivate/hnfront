@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 04:58:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Arch Linux上的编程语言受欢迎程度]]></title>
+            <link>https://news.ycombinator.com/item?id=30382059</link>
+            <guid>https://news.ycombinator.com/item?id=30382059</guid>
+            <pubDate>Fri, 18 Feb 2022 04:12:19 GMT</pubDate>
+            <description><![CDATA[Popularity of Programming Languages on Arch Linux]]></description>
+        </item>
         <item>
             <title><![CDATA[巫师与羊 (2017)]]></title>
             <link>https://news.ycombinator.com/item?id=30377814</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30242495</guid>
             <pubDate>Mon, 07 Feb 2022 09:49:34 GMT</pubDate>
             <description><![CDATA[Chip Red Pill: Arbitrary [Micro]Code Execution Inside Intel Atom CPUs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linux上不到10%的Firefox用户在运行Wayland]]></title>
-            <link>https://news.ycombinator.com/item?id=30242166</link>
-            <guid>https://news.ycombinator.com/item?id=30242166</guid>
-            <pubDate>Mon, 07 Feb 2022 09:08:31 GMT</pubDate>
-            <description><![CDATA[Less Than 10% of Firefox Users on Linux Are Running Wayland]]></description>
         </item>
     </channel>
 </rss>

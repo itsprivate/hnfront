@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T04:41:14.119Z</updated>
+    <updated>2022-02-18T04:58:37.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Arch Linux上的编程语言受欢迎程度]]></title>
+        <id>https://news.ycombinator.com/item?id=30382059</id>
+        <link href="https://news.ycombinator.com/item?id=30382059"/>
+        <updated>2022-02-18T04:12:19.000Z</updated>
+        <summary type="html"><![CDATA[Popularity of Programming Languages on Arch Linux]]></summary>
+        <author>
+            <name>Shadonototra</name>
+            <uri>https://news.ycombinator.com/user?id=Shadonototra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巫师与羊 (2017)]]></title>
         <id>https://news.ycombinator.com/item?id=30377814</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>blopeur</name>
             <uri>https://news.ycombinator.com/user?id=blopeur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux上不到10%的Firefox用户在运行Wayland]]></title>
-        <id>https://news.ycombinator.com/item?id=30242166</id>
-        <link href="https://news.ycombinator.com/item?id=30242166"/>
-        <updated>2022-02-07T09:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Less Than 10% of Firefox Users on Linux Are Running Wayland]]></summary>
-        <author>
-            <name>Tajnymag</name>
-            <uri>https://news.ycombinator.com/user?id=Tajnymag</uri>
         </author>
     </entry>
 </feed>
