@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-18T22:34:20.418Z</updated>
+    <updated>2022-02-18T22:42:55.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我们禁止使用乐高积木]]></title>
+        <id>https://news.ycombinator.com/item?id=30391724</id>
+        <link href="https://news.ycombinator.com/item?id=30391724"/>
+        <updated>2022-02-18T22:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Why We Banned Legos]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊从其慈善平台上暂停了 "黑人命案"。]]></title>
         <id>https://news.ycombinator.com/item?id=30391600</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构建API文档]]></title>
-        <id>https://news.ycombinator.com/item?id=30248702</id>
-        <link href="https://news.ycombinator.com/item?id=30248702"/>
-        <updated>2022-02-07T18:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Building API Docs]]></summary>
-        <author>
-            <name>polyrand</name>
-            <uri>https://news.ycombinator.com/user?id=polyrand</uri>
         </author>
     </entry>
 </feed>
