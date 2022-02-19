@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T11:12:36.590Z</updated>
+    <updated>2022-02-19T11:38:36.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[格雷德是一個來自安全地獄的邪惡噩夢產品]]></title>
+        <id>https://news.ycombinator.com/item?id=30396156</id>
+        <link href="https://news.ycombinator.com/item?id=30396156"/>
+        <updated>2022-02-19T11:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Plaid is an evil nightmare product from Security Hell]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助HN：無法打開童年的文件]]></title>
         <id>https://news.ycombinator.com/item?id=30396042</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django代碼庫的重新格式化與黑色]]></title>
-        <id>https://news.ycombinator.com/item?id=30258812</id>
-        <link href="https://news.ycombinator.com/item?id=30258812"/>
-        <updated>2022-02-08T14:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Django Codebase Reformatted with Black]]></summary>
-        <author>
-            <name>collinmanderson</name>
-            <uri>https://news.ycombinator.com/user?id=collinmanderson</uri>
         </author>
     </entry>
 </feed>

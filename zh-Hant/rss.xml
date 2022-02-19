@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 19 Feb 2022 11:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 11:38:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[格雷德是一個來自安全地獄的邪惡噩夢產品]]></title>
+            <link>https://news.ycombinator.com/item?id=30396156</link>
+            <guid>https://news.ycombinator.com/item?id=30396156</guid>
+            <pubDate>Sat, 19 Feb 2022 11:01:55 GMT</pubDate>
+            <description><![CDATA[Plaid is an evil nightmare product from Security Hell]]></description>
+        </item>
         <item>
             <title><![CDATA[幫助HN：無法打開童年的文件]]></title>
             <link>https://news.ycombinator.com/item?id=30396042</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30258438</guid>
             <pubDate>Tue, 08 Feb 2022 14:01:43 GMT</pubDate>
             <description><![CDATA[MadMax: Analyzing the Out-of-Gas World of Smart Contracts (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Django代碼庫的重新格式化與黑色]]></title>
-            <link>https://news.ycombinator.com/item?id=30258812</link>
-            <guid>https://news.ycombinator.com/item?id=30258812</guid>
-            <pubDate>Tue, 08 Feb 2022 14:34:36 GMT</pubDate>
-            <description><![CDATA[Django Codebase Reformatted with Black]]></description>
         </item>
     </channel>
 </rss>
