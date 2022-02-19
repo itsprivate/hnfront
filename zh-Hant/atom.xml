@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T16:46:15.372Z</updated>
+    <updated>2022-02-19T17:03:39.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pyrite - 開源視頻會議]]></title>
+        <id>https://news.ycombinator.com/item?id=30398192</id>
+        <link href="https://news.ycombinator.com/item?id=30398192"/>
+        <updated>2022-02-19T16:18:49.000Z</updated>
+        <summary type="html"><![CDATA[Pyrite – open-source video conferencing]]></summary>
+        <author>
+            <name>jvanveen</name>
+            <uri>https://news.ycombinator.com/user?id=jvanveen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PinePhone Pro - 開始使用]]></title>
         <id>https://news.ycombinator.com/item?id=30398202</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>youcould</name>
             <uri>https://news.ycombinator.com/user?id=youcould</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特爾，曾經的微芯片之王，現在已遠遠落後於競爭對手]]></title>
-        <id>https://news.ycombinator.com/item?id=30262597</id>
-        <link href="https://news.ycombinator.com/item?id=30262597"/>
-        <updated>2022-02-08T18:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Intel, once king of microchips, is now far behind competitors]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
         </author>
     </entry>
 </feed>
