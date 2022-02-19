@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T18:14:51.017Z</updated>
+    <updated>2022-02-19T18:36:44.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對Crypto/Web3的精彩評論]]></title>
+        <id>https://news.ycombinator.com/item?id=30398131</id>
+        <link href="https://news.ycombinator.com/item?id=30398131"/>
+        <updated>2022-02-19T16:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Awesome Critique of Crypto/Web3]]></summary>
+        <author>
+            <name>labrador</name>
+            <uri>https://news.ycombinator.com/user?id=labrador</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jujutsu - 一個與Git兼容的DVCS，既簡單又強大]]></title>
         <id>https://news.ycombinator.com/item?id=30398662</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mudro_zboris</name>
             <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[親愛的加拿大人]]></title>
-        <id>https://news.ycombinator.com/item?id=30264046</id>
-        <link href="https://news.ycombinator.com/item?id=30264046"/>
-        <updated>2022-02-08T20:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Dear Canadians]]></summary>
-        <author>
-            <name>friendlyname</name>
-            <uri>https://news.ycombinator.com/user?id=friendlyname</uri>
         </author>
     </entry>
 </feed>
