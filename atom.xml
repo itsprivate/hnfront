@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T05:38:13.606Z</updated>
+    <updated>2022-02-19T05:53:46.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚各州为亚马逊承包商规定最低工资，这是具有里程碑意义的一步]]></title>
+        <id>https://news.ycombinator.com/item?id=30394456</id>
+        <link href="https://news.ycombinator.com/item?id=30394456"/>
+        <updated>2022-02-19T04:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Australian state sets minimum pay for Amazon contractors in landmark step]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Ping的玩具Traceroute]]></title>
         <id>https://news.ycombinator.com/item?id=30394424</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>yanmaani</name>
             <uri>https://news.ycombinator.com/user?id=yanmaani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想找一份编写Haskell的工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30256012</id>
-        <link href="https://news.ycombinator.com/item?id=30256012"/>
-        <updated>2022-02-08T08:11:06.000Z</updated>
-        <summary type="html"><![CDATA[I would like a job writing Haskell]]></summary>
-        <author>
-            <name>Rerarom</name>
-            <uri>https://news.ycombinator.com/user?id=Rerarom</uri>
         </author>
     </entry>
 </feed>
