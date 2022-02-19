@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T20:34:06.662Z</updated>
+    <updated>2022-02-19T20:53:35.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自動推理的溫和介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=30399612</id>
+        <link href="https://news.ycombinator.com/item?id=30399612"/>
+        <updated>2022-02-19T19:10:57.000Z</updated>
+        <summary type="html"><![CDATA[A gentle introduction to automated reasoning]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戒掉咖啡因？之前和之後的軼事]]></title>
         <id>https://news.ycombinator.com/item?id=30400121</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Nokinside</name>
             <uri>https://news.ycombinator.com/user?id=Nokinside</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半導體生態系統的解釋]]></title>
-        <id>https://news.ycombinator.com/item?id=30264038</id>
-        <link href="https://news.ycombinator.com/item?id=30264038"/>
-        <updated>2022-02-08T20:20:24.000Z</updated>
-        <summary type="html"><![CDATA[The Semiconductor Ecosystem Explained]]></summary>
-        <author>
-            <name>55873445216111</name>
-            <uri>https://news.ycombinator.com/user?id=55873445216111</uri>
         </author>
     </entry>
 </feed>
