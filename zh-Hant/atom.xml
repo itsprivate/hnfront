@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T14:12:42.776Z</updated>
+    <updated>2022-02-19T14:29:56.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用Hugo和Cloudflare建立一個博客（以及為什麼你應該這樣做）]]></title>
+        <id>https://news.ycombinator.com/item?id=30396935</id>
+        <link href="https://news.ycombinator.com/item?id=30396935"/>
+        <updated>2022-02-19T13:18:31.000Z</updated>
+        <summary type="html"><![CDATA[How to set up a blog with Hugo and Cloudflare (and why you should)]]></summary>
+        <author>
+            <name>smallerfish</name>
+            <uri>https://news.ycombinator.com/user?id=smallerfish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大腦對身體狀態的解讀是心理健康的關鍵]]></title>
+        <id>https://news.ycombinator.com/item?id=30395583</id>
+        <link href="https://news.ycombinator.com/item?id=30395583"/>
+        <updated>2022-02-19T09:07:27.000Z</updated>
+        <summary type="html"><![CDATA[The brain’s reading of the body’s state is key to mental health]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[扎克伯格燒掉了5000億美元，把Facebook變成了Meta]]></title>
         <id>https://news.ycombinator.com/item?id=30397094</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>lermontov</name>
             <uri>https://news.ycombinator.com/user?id=lermontov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gyroflow。先進的開源陀螺儀輔助視頻穩定系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30259771</id>
-        <link href="https://news.ycombinator.com/item?id=30259771"/>
-        <updated>2022-02-08T15:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Gyroflow: Advanced open-source gyro-assisted video stabilization]]></summary>
-        <author>
-            <name>jonbaer</name>
-            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2018年HN在單箱上運行有什麼變化嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30257487</id>
-        <link href="https://news.ycombinator.com/item?id=30257487"/>
-        <updated>2022-02-08T12:09:24.000Z</updated>
-        <summary type="html"><![CDATA[HN ran on a single box in 2018 has anything changed?]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
         </author>
     </entry>
 </feed>
