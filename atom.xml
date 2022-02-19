@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T11:38:36.444Z</updated>
+    <updated>2022-02-19T12:17:43.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你觉得在大型分布式系统上工作很累吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30396454</id>
+        <link href="https://news.ycombinator.com/item?id=30396454"/>
+        <updated>2022-02-19T11:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you find working on large distributed systems exhausting?]]></summary>
+        <author>
+            <name>wreath</name>
+            <uri>https://news.ycombinator.com/user?id=wreath</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[格雷德是一个来自安全地狱的邪恶噩梦产品]]></title>
         <id>https://news.ycombinator.com/item?id=30396156</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>theafh</name>
             <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MadMax：分析智能合约的气外世界（2020年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30258438</id>
-        <link href="https://news.ycombinator.com/item?id=30258438"/>
-        <updated>2022-02-08T14:01:43.000Z</updated>
-        <summary type="html"><![CDATA[MadMax: Analyzing the Out-of-Gas World of Smart Contracts (2020)]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
         </author>
     </entry>
 </feed>
