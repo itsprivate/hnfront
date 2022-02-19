@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T22:15:01.399Z</updated>
+    <updated>2022-02-19T22:33:20.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只采用IPv6]]></title>
+        <id>https://news.ycombinator.com/item?id=30400785</id>
+        <link href="https://news.ycombinator.com/item?id=30400785"/>
+        <updated>2022-02-19T21:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Going IPv6 Only]]></summary>
+        <author>
+            <name>MartijnBraam</name>
+            <uri>https://news.ycombinator.com/user?id=MartijnBraam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员称人工智能生成的面孔比真实面孔更值得信赖]]></title>
+        <id>https://news.ycombinator.com/item?id=30399909</id>
+        <link href="https://news.ycombinator.com/item?id=30399909"/>
+        <updated>2022-02-19T19:48:32.000Z</updated>
+        <summary type="html"><![CDATA[AI generated faces are more trustworthy than real faces say researchers]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arduino 6502控制器]]></title>
         <id>https://news.ycombinator.com/item?id=30399129</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>mangala_murti</name>
             <uri>https://news.ycombinator.com/user?id=mangala_murti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的阅读年 Lemmishly]]></title>
-        <id>https://news.ycombinator.com/item?id=30240502</id>
-        <link href="https://news.ycombinator.com/item?id=30240502"/>
-        <updated>2022-02-07T04:38:33.000Z</updated>
-        <summary type="html"><![CDATA[My Year of Reading Lemmishly]]></summary>
-        <author>
-            <name>lermontov</name>
-            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与链接器外星人一起冲浪：Solaris链接和ELF博客]]></title>
-        <id>https://news.ycombinator.com/item?id=30230363</id>
-        <link href="https://news.ycombinator.com/item?id=30230363"/>
-        <updated>2022-02-06T07:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Surfing with the Linker Aliens: Solaris Linking and ELF Blogs]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>

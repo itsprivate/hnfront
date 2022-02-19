@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 19 Feb 2022 22:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 22:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[只采用IPv6]]></title>
+            <link>https://news.ycombinator.com/item?id=30400785</link>
+            <guid>https://news.ycombinator.com/item?id=30400785</guid>
+            <pubDate>Sat, 19 Feb 2022 21:39:31 GMT</pubDate>
+            <description><![CDATA[Going IPv6 Only]]></description>
+        </item>
+        <item>
+            <title><![CDATA[研究人员称人工智能生成的面孔比真实面孔更值得信赖]]></title>
+            <link>https://news.ycombinator.com/item?id=30399909</link>
+            <guid>https://news.ycombinator.com/item?id=30399909</guid>
+            <pubDate>Sat, 19 Feb 2022 19:48:32 GMT</pubDate>
+            <description><![CDATA[AI generated faces are more trustworthy than real faces say researchers]]></description>
+        </item>
         <item>
             <title><![CDATA[Arduino 6502控制器]]></title>
             <link>https://news.ycombinator.com/item?id=30399129</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30266894</guid>
             <pubDate>Wed, 09 Feb 2022 00:28:03 GMT</pubDate>
             <description><![CDATA[Why is the Zoom app listening on my microphone when not in a meeting?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的阅读年 Lemmishly]]></title>
-            <link>https://news.ycombinator.com/item?id=30240502</link>
-            <guid>https://news.ycombinator.com/item?id=30240502</guid>
-            <pubDate>Mon, 07 Feb 2022 04:38:33 GMT</pubDate>
-            <description><![CDATA[My Year of Reading Lemmishly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[与链接器外星人一起冲浪：Solaris链接和ELF博客]]></title>
-            <link>https://news.ycombinator.com/item?id=30230363</link>
-            <guid>https://news.ycombinator.com/item?id=30230363</guid>
-            <pubDate>Sun, 06 Feb 2022 07:50:15 GMT</pubDate>
-            <description><![CDATA[Surfing with the Linker Aliens: Solaris Linking and ELF Blogs]]></description>
         </item>
     </channel>
 </rss>
