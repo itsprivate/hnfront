@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T21:38:32.829Z</updated>
+    <updated>2022-02-19T22:15:01.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Arduino 6502控制器]]></title>
+        <id>https://news.ycombinator.com/item?id=30399129</id>
+        <link href="https://news.ycombinator.com/item?id=30399129"/>
+        <updated>2022-02-19T18:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Arduino 6502 Controller]]></summary>
+        <author>
+            <name>billziss</name>
+            <uri>https://news.ycombinator.com/user?id=billziss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java中的併發性--我想出了一個我覺得舒服的設計]]></title>
+        <id>https://news.ycombinator.com/item?id=30396483</id>
+        <link href="https://news.ycombinator.com/item?id=30396483"/>
+        <updated>2022-02-19T12:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Concurrency in Java – I came up with a design I feel comfortable with]]></summary>
+        <author>
+            <name>seinecle</name>
+            <uri>https://news.ycombinator.com/user?id=seinecle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜歡的小說書是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30400572</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孤獨的宇宙]]></title>
-        <id>https://news.ycombinator.com/item?id=30266396</id>
-        <link href="https://news.ycombinator.com/item?id=30266396"/>
-        <updated>2022-02-08T23:31:27.000Z</updated>
-        <summary type="html"><![CDATA[A Lonely Universe]]></summary>
-        <author>
-            <name>related</name>
-            <uri>https://news.ycombinator.com/user?id=related</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉FSD測試版向騎車人衝去]]></title>
-        <id>https://news.ycombinator.com/item?id=30266226</id>
-        <link href="https://news.ycombinator.com/item?id=30266226"/>
-        <updated>2022-02-08T23:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Tesla FSD Beta Lunges Toward Bicyclist]]></summary>
-        <author>
-            <name>camjohnson26</name>
-            <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
         </author>
     </entry>
 </feed>
