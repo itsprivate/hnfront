@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T15:14:17.499Z</updated>
+    <updated>2022-02-19T15:34:22.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究人员利用光使一个小托盘悬浮起来]]></title>
+        <id>https://news.ycombinator.com/item?id=30396568</id>
+        <link href="https://news.ycombinator.com/item?id=30396568"/>
+        <updated>2022-02-19T12:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Researchers levitated a small tray using light]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肠道细菌价值理论]]></title>
         <id>https://news.ycombinator.com/item?id=30397551</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>dzink</name>
             <uri>https://news.ycombinator.com/user?id=dzink</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联邦调查局逮捕了一对夫妇，扣押了36亿美元的黑客比特币资金]]></title>
-        <id>https://news.ycombinator.com/item?id=30260787</id>
-        <link href="https://news.ycombinator.com/item?id=30260787"/>
-        <updated>2022-02-08T16:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Feds arrest couple, seize $3.6B in hacked Bitcoin funds]]></summary>
-        <author>
-            <name>mikeyouse</name>
-            <uri>https://news.ycombinator.com/user?id=mikeyouse</uri>
         </author>
     </entry>
 </feed>
