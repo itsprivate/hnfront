@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T06:37:38.217Z</updated>
+    <updated>2022-02-19T07:13:08.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Raycast（YC W20）正在招聘，以使工作無障礙（歐洲的遠程）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30394973</id>
+        <link href="https://news.ycombinator.com/item?id=30394973"/>
+        <updated>2022-02-19T07:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)]]></summary>
+        <author>
+            <name>thomaspaulmann</name>
+            <uri>https://news.ycombinator.com/user?id=thomaspaulmann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safari現在支持具有私人來源的文件系統訪問API]]></title>
         <id>https://news.ycombinator.com/item?id=30394737</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>lxpz</name>
             <uri>https://news.ycombinator.com/user?id=lxpz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過模擬退火法生成具有相同統計量的數據集（2017年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30231754</id>
-        <link href="https://news.ycombinator.com/item?id=30231754"/>
-        <updated>2022-02-06T12:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Generating Datasets with Identical Statistics Through Simulated Annealing (2017)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
