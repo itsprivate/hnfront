@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T07:13:08.767Z</updated>
+    <updated>2022-02-19T07:38:08.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[簡單的 "人工智能 "可以預測銀行經理的貸款決定，準確率超過95%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30394731</id>
+        <link href="https://news.ycombinator.com/item?id=30394731"/>
+        <updated>2022-02-19T05:49:34.000Z</updated>
+        <summary type="html"><![CDATA[‘Simple’ AI Can Anticipate Bank Managers’ Loan Decisions to over 95% Accuracy]]></summary>
+        <author>
+            <name>Hard_Space</name>
+            <uri>https://news.ycombinator.com/user?id=Hard_Space</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raycast（YC W20）正在招聘，以使工作無障礙（歐洲的遠程）。]]></title>
         <id>https://news.ycombinator.com/item?id=30394973</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>neamar</name>
             <uri>https://news.ycombinator.com/user?id=neamar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garage，我們自我託管的分佈式對象存儲解決方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30256753</id>
-        <link href="https://news.ycombinator.com/item?id=30256753"/>
-        <updated>2022-02-08T10:20:13.000Z</updated>
-        <summary type="html"><![CDATA[Garage, our self-hosted distributed object storage solution]]></summary>
-        <author>
-            <name>lxpz</name>
-            <uri>https://news.ycombinator.com/user?id=lxpz</uri>
         </author>
     </entry>
 </feed>
