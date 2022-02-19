@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T05:29:50.407Z</updated>
+    <updated>2022-02-19T05:38:13.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Ping的玩具Traceroute]]></title>
+        <id>https://news.ycombinator.com/item?id=30394424</id>
+        <link href="https://news.ycombinator.com/item?id=30394424"/>
+        <updated>2022-02-19T04:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Toy Traceroute with Ping]]></summary>
+        <author>
+            <name>nreece</name>
+            <uri>https://news.ycombinator.com/user?id=nreece</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大腦直到60多歲才會變慢--比我們想象的要晚]]></title>
         <id>https://news.ycombinator.com/item?id=30394136</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Rerarom</name>
             <uri>https://news.ycombinator.com/user?id=Rerarom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球有史以來最熱的時候是什麼時候？]]></title>
-        <id>https://news.ycombinator.com/item?id=30255546</id>
-        <link href="https://news.ycombinator.com/item?id=30255546"/>
-        <updated>2022-02-08T06:36:49.000Z</updated>
-        <summary type="html"><![CDATA[What’s the hottest the Earth’s ever been?]]></summary>
-        <author>
-            <name>throwaway2474</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway2474</uri>
         </author>
     </entry>
 </feed>
