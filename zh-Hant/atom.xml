@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T13:40:46.091Z</updated>
+    <updated>2022-02-19T14:12:42.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[扎克伯格燒掉了5000億美元，把Facebook變成了Meta]]></title>
+        <id>https://news.ycombinator.com/item?id=30397094</id>
+        <link href="https://news.ycombinator.com/item?id=30397094"/>
+        <updated>2022-02-19T13:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Zuckerberg Has Burned $500B Turning Facebook to Meta]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事件驅動系統中不同類型的事件]]></title>
         <id>https://news.ycombinator.com/item?id=30396873</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peloton更換CEO並裁員2800人]]></title>
-        <id>https://news.ycombinator.com/item?id=30259609</id>
-        <link href="https://news.ycombinator.com/item?id=30259609"/>
-        <updated>2022-02-08T15:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Peloton replaces CEO and lays off 2,800 people]]></summary>
-        <author>
-            <name>colinprince</name>
-            <uri>https://news.ycombinator.com/user?id=colinprince</uri>
         </author>
     </entry>
 </feed>
