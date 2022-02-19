@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T06:15:09.664Z</updated>
+    <updated>2022-02-19T06:37:38.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Safari現在支持具有私人來源的文件系統訪問API]]></title>
+        <id>https://news.ycombinator.com/item?id=30394737</id>
+        <link href="https://news.ycombinator.com/item?id=30394737"/>
+        <updated>2022-02-19T05:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Safari now supports File System Access API with private origin]]></summary>
+        <author>
+            <name>jvican</name>
+            <uri>https://news.ycombinator.com/user?id=jvican</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我從黑客新聞中學到的東西]]></title>
+        <id>https://news.ycombinator.com/item?id=30394474</id>
+        <link href="https://news.ycombinator.com/item?id=30394474"/>
+        <updated>2022-02-19T04:41:07.000Z</updated>
+        <summary type="html"><![CDATA[What I've Learned from Hacker News]]></summary>
+        <author>
+            <name>duck</name>
+            <uri>https://news.ycombinator.com/user?id=duck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[銀河系中部分戴森球體的上限]]></title>
         <id>https://news.ycombinator.com/item?id=30394605</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天的肖像畫家比老大師們更好嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30244253</id>
-        <link href="https://news.ycombinator.com/item?id=30244253"/>
-        <updated>2022-02-07T13:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Are Today’s Portraitists Better Than the Old Masters?]]></summary>
-        <author>
-            <name>Kaibeezy</name>
-            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當停滯不前走向虛擬]]></title>
-        <id>https://news.ycombinator.com/item?id=30256050</id>
-        <link href="https://news.ycombinator.com/item?id=30256050"/>
-        <updated>2022-02-08T08:22:25.000Z</updated>
-        <summary type="html"><![CDATA[When the Stagnation Goes Virtual]]></summary>
-        <author>
-            <name>adharmad</name>
-            <uri>https://news.ycombinator.com/user?id=adharmad</uri>
         </author>
     </entry>
 </feed>
