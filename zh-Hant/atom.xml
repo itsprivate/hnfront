@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-19T23:33:05.141Z</updated>
+    <updated>2022-02-19T23:40:46.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從SQLite中榨取性能。解讀虛擬機]]></title>
+        <id>https://news.ycombinator.com/item?id=30400648</id>
+        <link href="https://news.ycombinator.com/item?id=30400648"/>
+        <updated>2022-02-19T21:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Squeezing Performance from SQLite: EXPLAINing the Virtual Machine]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為了你的安全而被囚禁]]></title>
         <id>https://news.ycombinator.com/item?id=30401385</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>wallflower</name>
             <uri>https://news.ycombinator.com/user?id=wallflower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停止使用餅狀圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30236171</id>
-        <link href="https://news.ycombinator.com/item?id=30236171"/>
-        <updated>2022-02-06T19:40:58.000Z</updated>
-        <summary type="html"><![CDATA[Stop Using Pie-Charts]]></summary>
-        <author>
-            <name>t_christensen</name>
-            <uri>https://news.ycombinator.com/user?id=t_christensen</uri>
         </author>
     </entry>
 </feed>

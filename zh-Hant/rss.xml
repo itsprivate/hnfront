@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 19 Feb 2022 23:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 23:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[從SQLite中榨取性能。解讀虛擬機]]></title>
+            <link>https://news.ycombinator.com/item?id=30400648</link>
+            <guid>https://news.ycombinator.com/item?id=30400648</guid>
+            <pubDate>Sat, 19 Feb 2022 21:21:26 GMT</pubDate>
+            <description><![CDATA[Squeezing Performance from SQLite: EXPLAINing the Virtual Machine]]></description>
+        </item>
         <item>
             <title><![CDATA[為了你的安全而被囚禁]]></title>
             <link>https://news.ycombinator.com/item?id=30401385</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30235262</guid>
             <pubDate>Sun, 06 Feb 2022 18:19:09 GMT</pubDate>
             <description><![CDATA[Travel is no cure for the mind (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[停止使用餅狀圖]]></title>
-            <link>https://news.ycombinator.com/item?id=30236171</link>
-            <guid>https://news.ycombinator.com/item?id=30236171</guid>
-            <pubDate>Sun, 06 Feb 2022 19:40:58 GMT</pubDate>
-            <description><![CDATA[Stop Using Pie-Charts]]></description>
         </item>
     </channel>
 </rss>
