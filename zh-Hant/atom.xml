@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T13:03:42.128Z</updated>
+    <updated>2022-02-20T13:52:31.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[十大富豪的財富是最貧窮的31B人的六倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30405395</id>
+        <link href="https://news.ycombinator.com/item?id=30405395"/>
+        <updated>2022-02-20T13:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Ten richest men have six times more wealth than the poorest 3.1B people]]></summary>
+        <author>
+            <name>melenaboija</name>
+            <uri>https://news.ycombinator.com/user?id=melenaboija</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTP（網絡時間協議）是如何工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30404415</id>
+        <link href="https://news.ycombinator.com/item?id=30404415"/>
+        <updated>2022-02-20T09:25:48.000Z</updated>
+        <summary type="html"><![CDATA[How Does NTP (Network Time Protocol) Work?]]></summary>
+        <author>
+            <name>aemreunal</name>
+            <uri>https://news.ycombinator.com/user?id=aemreunal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AuREUS: 奧羅拉可再生能源]]></title>
+        <id>https://news.ycombinator.com/item?id=30399379</id>
+        <link href="https://news.ycombinator.com/item?id=30399379"/>
+        <updated>2022-02-19T18:43:37.000Z</updated>
+        <summary type="html"><![CDATA[AuREUS: Aurora Renewable Energy]]></summary>
+        <author>
+            <name>cconstantin</name>
+            <uri>https://news.ycombinator.com/user?id=cconstantin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓我們為Bash建立Checkstyle？]]></title>
         <id>https://news.ycombinator.com/item?id=30405177</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果正在開發RealityOS]]></title>
-        <id>https://news.ycombinator.com/item?id=30273933</id>
-        <link href="https://news.ycombinator.com/item?id=30273933"/>
-        <updated>2022-02-09T15:41:37.000Z</updated>
-        <summary type="html"><![CDATA[Apple Is Working on RealityOS]]></summary>
-        <author>
-            <name>axg11</name>
-            <uri>https://news.ycombinator.com/user?id=axg11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅馬格式化和Rust更新]]></title>
-        <id>https://news.ycombinator.com/item?id=30272671</id>
-        <link href="https://news.ycombinator.com/item?id=30272671"/>
-        <updated>2022-02-09T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Rome Formatter and Rust Update]]></summary>
-        <author>
-            <name>hardwaregeek</name>
-            <uri>https://news.ycombinator.com/user?id=hardwaregeek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為階梯的API]]></title>
-        <id>https://news.ycombinator.com/item?id=30246212</id>
-        <link href="https://news.ycombinator.com/item?id=30246212"/>
-        <updated>2022-02-07T15:33:48.000Z</updated>
-        <summary type="html"><![CDATA[APIs as Ladders]]></summary>
-        <author>
-            <name>swyx</name>
-            <uri>https://news.ycombinator.com/user?id=swyx</uri>
         </author>
     </entry>
 </feed>
