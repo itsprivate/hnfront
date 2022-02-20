@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T18:15:31.193Z</updated>
+    <updated>2022-02-20T18:37:26.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何优化Docker镜像的安全性、大小和构建速度]]></title>
+        <id>https://news.ycombinator.com/item?id=30406076</id>
+        <link href="https://news.ycombinator.com/item?id=30406076"/>
+        <updated>2022-02-20T14:44:26.000Z</updated>
+        <summary type="html"><![CDATA[How to optimize the security, size and build speed of Docker images]]></summary>
+        <author>
+            <name>mshekow</name>
+            <uri>https://news.ycombinator.com/user?id=mshekow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[过去很容易，但现在很难的事情]]></title>
         <id>https://news.ycombinator.com/item?id=30407547</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司的利润总是优先考虑--无论成本如何]]></title>
-        <id>https://news.ycombinator.com/item?id=30276147</id>
-        <link href="https://news.ycombinator.com/item?id=30276147"/>
-        <updated>2022-02-09T18:21:53.000Z</updated>
-        <summary type="html"><![CDATA[Apple’s profit is always the priority–no matter the cost]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
         </author>
     </entry>
 </feed>
