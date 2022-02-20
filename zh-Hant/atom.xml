@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T12:46:49.641Z</updated>
+    <updated>2022-02-20T13:03:42.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓我們為Bash建立Checkstyle？]]></title>
+        <id>https://news.ycombinator.com/item?id=30405177</id>
+        <link href="https://news.ycombinator.com/item?id=30405177"/>
+        <updated>2022-02-20T12:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Let's build Checkstyle for Bash?]]></summary>
+        <author>
+            <name>a-t-0</name>
+            <uri>https://news.ycombinator.com/user?id=a-t-0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼沒有小型安卓手機？]]></title>
         <id>https://news.ycombinator.com/item?id=30405011</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>swyx</name>
             <uri>https://news.ycombinator.com/user?id=swyx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用量子計算機破解256位的橢圓曲線加密技術]]></title>
-        <id>https://news.ycombinator.com/item?id=30272059</id>
-        <link href="https://news.ycombinator.com/item?id=30272059"/>
-        <updated>2022-02-09T12:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Breaking 256-Bit Elliptic Curve Encryption with a Quantum Computer]]></summary>
-        <author>
-            <name>Sami_Lehtinen</name>
-            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
         </author>
     </entry>
 </feed>
