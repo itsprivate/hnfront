@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T06:47:57.326Z</updated>
+    <updated>2022-02-20T07:51:13.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[商品房歷史第八部分-Amiga 1000 [視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=30394446</id>
+        <link href="https://news.ycombinator.com/item?id=30394446"/>
+        <updated>2022-02-19T04:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Commodore History Part 8-The Amiga 1000 [video]]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過程的死亡]]></title>
         <id>https://news.ycombinator.com/item?id=30394344</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[著陸一個新的系統調用，第一部分。什麼是futex？]]></title>
-        <id>https://news.ycombinator.com/item?id=30271902</id>
-        <link href="https://news.ycombinator.com/item?id=30271902"/>
-        <updated>2022-02-09T12:36:30.000Z</updated>
-        <summary type="html"><![CDATA[Landing a new syscall, part 1: What is futex?]]></summary>
-        <author>
-            <name>1_player</name>
-            <uri>https://news.ycombinator.com/user?id=1_player</uri>
         </author>
     </entry>
 </feed>
