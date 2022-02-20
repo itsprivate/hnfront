@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T20:32:49.679Z</updated>
+    <updated>2022-02-20T20:51:20.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歌德色彩的制作 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30406797</id>
+        <link href="https://news.ycombinator.com/item?id=30406797"/>
+        <updated>2022-02-20T16:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Making of Goethe’s Colours (2020)]]></summary>
+        <author>
+            <name>amanuensis</name>
+            <uri>https://news.ycombinator.com/user?id=amanuensis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Newser，用go语言编写的实用程序，用于生成带有新闻内容的pdf。]]></title>
         <id>https://news.ycombinator.com/item?id=30408276</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>craigkerstiens</name>
             <uri>https://news.ycombinator.com/user?id=craigkerstiens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Netflix会衰败]]></title>
-        <id>https://news.ycombinator.com/item?id=30278974</id>
-        <link href="https://news.ycombinator.com/item?id=30278974"/>
-        <updated>2022-02-09T21:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Why Netflix Will Falter]]></summary>
-        <author>
-            <name>peasantking</name>
-            <uri>https://news.ycombinator.com/user?id=peasantking</uri>
         </author>
     </entry>
 </feed>
