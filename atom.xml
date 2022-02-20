@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T09:52:04.018Z</updated>
+    <updated>2022-02-20T10:33:21.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows命令行解析的狂野西部]]></title>
+        <id>https://news.ycombinator.com/item?id=30395189</id>
+        <link href="https://news.ycombinator.com/item?id=30395189"/>
+        <updated>2022-02-19T07:48:34.000Z</updated>
+        <summary type="html"><![CDATA[The Wild West of Windows command line parsing]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究率先发现维京人武器的化学指纹]]></title>
         <id>https://news.ycombinator.com/item?id=30394651</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>cwwc</name>
             <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok分享你的数据比任何其他应用程序都多，而且不清楚它的去向]]></title>
-        <id>https://news.ycombinator.com/item?id=30272682</id>
-        <link href="https://news.ycombinator.com/item?id=30272682"/>
-        <updated>2022-02-09T14:01:24.000Z</updated>
-        <summary type="html"><![CDATA[TikTok shares your data more than any other app and it’s unclear where it goes]]></summary>
-        <author>
-            <name>underscore_ku</name>
-            <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
         </author>
     </entry>
 </feed>
