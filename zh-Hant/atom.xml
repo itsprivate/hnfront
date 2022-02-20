@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T08:50:46.939Z</updated>
+    <updated>2022-02-20T09:52:04.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究率先發現維京人武器的化學指紋]]></title>
+        <id>https://news.ycombinator.com/item?id=30394651</id>
+        <link href="https://news.ycombinator.com/item?id=30394651"/>
+        <updated>2022-02-19T05:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Study spearheads the chemical fingerprint of Viking weapons]]></summary>
+        <author>
+            <name>drdee</name>
+            <uri>https://news.ycombinator.com/user?id=drdee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為一個痴迷於吉百利的國家創造優質巧克力的追求(2017)]]></title>
         <id>https://news.ycombinator.com/item?id=30397315</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>underscore_ku</name>
             <uri>https://news.ycombinator.com/user?id=underscore_ku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我決定建造一臺九位計算機]]></title>
-        <id>https://news.ycombinator.com/item?id=30272496</id>
-        <link href="https://news.ycombinator.com/item?id=30272496"/>
-        <updated>2022-02-09T13:44:03.000Z</updated>
-        <summary type="html"><![CDATA[I decided to build a nine-bit computer]]></summary>
-        <author>
-            <name>mad_ned</name>
-            <uri>https://news.ycombinator.com/user?id=mad_ned</uri>
         </author>
     </entry>
 </feed>
