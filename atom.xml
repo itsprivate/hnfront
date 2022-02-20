@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T10:33:21.149Z</updated>
+    <updated>2022-02-20T11:11:56.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个在新加坡森林中生活了30年的人]]></title>
+        <id>https://news.ycombinator.com/item?id=30404631</id>
+        <link href="https://news.ycombinator.com/item?id=30404631"/>
+        <updated>2022-02-20T10:12:45.000Z</updated>
+        <summary type="html"><![CDATA[A man who lived in a Singapore forest for 30 years]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows命令行解析的狂野西部]]></title>
         <id>https://news.ycombinator.com/item?id=30395189</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佩洛西屈服，推动股票交易禁令]]></title>
-        <id>https://news.ycombinator.com/item?id=30272571</id>
-        <link href="https://news.ycombinator.com/item?id=30272571"/>
-        <updated>2022-02-09T13:50:56.000Z</updated>
-        <summary type="html"><![CDATA[Pelosi buckles, pushes stock-trading ban]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
