@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T21:28:35.907Z</updated>
+    <updated>2022-02-20T21:51:48.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們正經歷著定義的崩潰]]></title>
+        <id>https://news.ycombinator.com/item?id=30408960</id>
+        <link href="https://news.ycombinator.com/item?id=30408960"/>
+        <updated>2022-02-20T20:21:38.000Z</updated>
+        <summary type="html"><![CDATA[We Are Experiencing Definitional Collapse]]></summary>
+        <author>
+            <name>steelstraw</name>
+            <uri>https://news.ycombinator.com/user?id=steelstraw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[激烈的DS仿真器從Google Play商店被撤下]]></title>
         <id>https://news.ycombinator.com/item?id=30409307</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>bwidlar</name>
             <uri>https://news.ycombinator.com/user?id=bwidlar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS的長寬比是很好的]]></title>
-        <id>https://news.ycombinator.com/item?id=30280210</id>
-        <link href="https://news.ycombinator.com/item?id=30280210"/>
-        <updated>2022-02-09T23:23:22.000Z</updated>
-        <summary type="html"><![CDATA[CSS Aspect Ratio Is Great]]></summary>
-        <author>
-            <name>damir</name>
-            <uri>https://news.ycombinator.com/user?id=damir</uri>
         </author>
     </entry>
 </feed>
