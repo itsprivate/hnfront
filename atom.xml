@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T15:42:59.602Z</updated>
+    <updated>2022-02-20T15:51:23.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[过去很难的事情，现在很容易了]]></title>
+        <id>https://news.ycombinator.com/item?id=30406201</id>
+        <link href="https://news.ycombinator.com/item?id=30406201"/>
+        <updated>2022-02-20T15:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Things that used to be hard and are now easy]]></summary>
+        <author>
+            <name>pingiun</name>
+            <uri>https://news.ycombinator.com/user?id=pingiun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MISP - 开源威胁情报和共享平台]]></title>
         <id>https://news.ycombinator.com/item?id=30405700</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当私募基金成为你的房东时]]></title>
-        <id>https://news.ycombinator.com/item?id=30275193</id>
-        <link href="https://news.ycombinator.com/item?id=30275193"/>
-        <updated>2022-02-09T17:18:07.000Z</updated>
-        <summary type="html"><![CDATA[When Private Equity Becomes Your Landlord]]></summary>
-        <author>
-            <name>jbegley</name>
-            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
         </author>
     </entry>
 </feed>
