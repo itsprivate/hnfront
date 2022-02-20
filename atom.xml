@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T05:36:12.631Z</updated>
+    <updated>2022-02-20T05:51:19.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马克-诺丁汉 服务器发送的事件、WebSockets和HTTP]]></title>
+        <id>https://news.ycombinator.com/item?id=30403438</id>
+        <link href="https://news.ycombinator.com/item?id=30403438"/>
+        <updated>2022-02-20T05:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Mark Nottingham: Server-Sent Events, WebSockets, and HTTP]]></summary>
+        <author>
+            <name>grappler</name>
+            <uri>https://news.ycombinator.com/user?id=grappler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heline - 现代开发者的代码搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30403143</id>
+        <link href="https://news.ycombinator.com/item?id=30403143"/>
+        <updated>2022-02-20T04:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Heline – Code search for modern developer]]></summary>
+        <author>
+            <name>ahmadrosid</name>
+            <uri>https://news.ycombinator.com/user?id=ahmadrosid</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[动漫摄影在Cel时代的应用]]></title>
         <id>https://news.ycombinator.com/item?id=30403219</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>jger15</name>
             <uri>https://news.ycombinator.com/user?id=jger15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[触摸的力量，特别是对男性而言]]></title>
-        <id>https://news.ycombinator.com/item?id=30271813</id>
-        <link href="https://news.ycombinator.com/item?id=30271813"/>
-        <updated>2022-02-09T12:22:42.000Z</updated>
-        <summary type="html"><![CDATA[The Power of Touch, Especially for Men]]></summary>
-        <author>
-            <name>clockworksoul</name>
-            <uri>https://news.ycombinator.com/user?id=clockworksoul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牛津大学的JET实验室打破了核聚变能量输出记录]]></title>
-        <id>https://news.ycombinator.com/item?id=30271694</id>
-        <link href="https://news.ycombinator.com/item?id=30271694"/>
-        <updated>2022-02-09T12:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Oxford's JET lab smashes nuclear fusion energy output record]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
