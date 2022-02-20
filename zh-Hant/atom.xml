@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T05:51:19.461Z</updated>
+    <updated>2022-02-20T06:47:57.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[過程的死亡]]></title>
+        <id>https://news.ycombinator.com/item?id=30394344</id>
+        <link href="https://news.ycombinator.com/item?id=30394344"/>
+        <updated>2022-02-19T04:05:24.000Z</updated>
+        <summary type="html"><![CDATA[The Death of Process]]></summary>
+        <author>
+            <name>mbellotti</name>
+            <uri>https://news.ycombinator.com/user?id=mbellotti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[馬克-諾丁漢 服務器發送的事件、WebSockets和HTTP]]></title>
         <id>https://news.ycombinator.com/item?id=30403438</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>1_player</name>
             <uri>https://news.ycombinator.com/user?id=1_player</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高地位、低工資工作的危險性]]></title>
-        <id>https://news.ycombinator.com/item?id=30272037</id>
-        <link href="https://news.ycombinator.com/item?id=30272037"/>
-        <updated>2022-02-09T12:54:45.000Z</updated>
-        <summary type="html"><![CDATA[The dangers of high status, low wage jobs]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
         </author>
     </entry>
 </feed>

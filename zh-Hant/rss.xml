@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 06:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[過程的死亡]]></title>
+            <link>https://news.ycombinator.com/item?id=30394344</link>
+            <guid>https://news.ycombinator.com/item?id=30394344</guid>
+            <pubDate>Sat, 19 Feb 2022 04:05:24 GMT</pubDate>
+            <description><![CDATA[The Death of Process]]></description>
+        </item>
         <item>
             <title><![CDATA[馬克-諾丁漢 服務器發送的事件、WebSockets和HTTP]]></title>
             <link>https://news.ycombinator.com/item?id=30403438</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30271902</guid>
             <pubDate>Wed, 09 Feb 2022 12:36:30 GMT</pubDate>
             <description><![CDATA[Landing a new syscall, part 1: What is futex?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高地位、低工資工作的危險性]]></title>
-            <link>https://news.ycombinator.com/item?id=30272037</link>
-            <guid>https://news.ycombinator.com/item?id=30272037</guid>
-            <pubDate>Wed, 09 Feb 2022 12:54:45 GMT</pubDate>
-            <description><![CDATA[The dangers of high status, low wage jobs]]></description>
         </item>
     </channel>
 </rss>
