@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T12:16:02.883Z</updated>
+    <updated>2022-02-20T12:46:49.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼沒有小型安卓手機？]]></title>
+        <id>https://news.ycombinator.com/item?id=30405011</id>
+        <link href="https://news.ycombinator.com/item?id=30405011"/>
+        <updated>2022-02-20T11:49:14.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why is there no small Android phone?]]></summary>
+        <author>
+            <name>fxtentacle</name>
+            <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.env文件的勝利和悲劇]]></title>
         <id>https://news.ycombinator.com/item?id=30404826</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Sami_Lehtinen</name>
             <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[語義代碼註釋的ASCII藝術]]></title>
-        <id>https://news.ycombinator.com/item?id=30273299</id>
-        <link href="https://news.ycombinator.com/item?id=30273299"/>
-        <updated>2022-02-09T14:55:41.000Z</updated>
-        <summary type="html"><![CDATA[ASCII art for semantic code commenting]]></summary>
-        <author>
-            <name>anonymous_they</name>
-            <uri>https://news.ycombinator.com/user?id=anonymous_they</uri>
         </author>
     </entry>
 </feed>

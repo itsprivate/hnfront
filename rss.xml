@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 20 Feb 2022 12:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 12:46:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么没有小型安卓手机？]]></title>
+            <link>https://news.ycombinator.com/item?id=30405011</link>
+            <guid>https://news.ycombinator.com/item?id=30405011</guid>
+            <pubDate>Sun, 20 Feb 2022 11:49:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why is there no small Android phone?]]></description>
+        </item>
         <item>
             <title><![CDATA[.env文件的胜利和悲剧]]></title>
             <link>https://news.ycombinator.com/item?id=30404826</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30272059</guid>
             <pubDate>Wed, 09 Feb 2022 12:57:14 GMT</pubDate>
             <description><![CDATA[Breaking 256-Bit Elliptic Curve Encryption with a Quantum Computer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[语义代码注释的ASCII艺术]]></title>
-            <link>https://news.ycombinator.com/item?id=30273299</link>
-            <guid>https://news.ycombinator.com/item?id=30273299</guid>
-            <pubDate>Wed, 09 Feb 2022 14:55:41 GMT</pubDate>
-            <description><![CDATA[ASCII art for semantic code commenting]]></description>
         </item>
     </channel>
 </rss>
