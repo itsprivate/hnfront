@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T18:48:27.416Z</updated>
+    <updated>2022-02-20T19:13:45.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[计算和云计算对生态环境的影响令人震惊]]></title>
+        <id>https://news.ycombinator.com/item?id=30408251</id>
+        <link href="https://news.ycombinator.com/item?id=30408251"/>
+        <updated>2022-02-20T18:56:06.000Z</updated>
+        <summary type="html"><![CDATA[The Staggering Ecological Impacts of Computation and the Cloud]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新人的欢迎礼包。格陵兰岛图勒空军基地 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30408226</id>
+        <link href="https://news.ycombinator.com/item?id=30408226"/>
+        <updated>2022-02-20T18:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Newcomer's Welcome Package: Thule Air Base, Greenland [pdf]]]></summary>
+        <author>
+            <name>troydavis</name>
+            <uri>https://news.ycombinator.com/user?id=troydavis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改进DuckDuckGo (2019年)]]></title>
+        <id>https://news.ycombinator.com/item?id=30407776</id>
+        <link href="https://news.ycombinator.com/item?id=30407776"/>
+        <updated>2022-02-20T18:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Improving DuckDuckGo (2019)]]></summary>
+        <author>
+            <name>freedomben</name>
+            <uri>https://news.ycombinator.com/user?id=freedomben</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Penpot (开源的Sketch - Figma - XD)]]></title>
         <id>https://news.ycombinator.com/item?id=30407913</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>url</name>
             <uri>https://news.ycombinator.com/user?id=url</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这需要进行一些严格的检查... (第1029行)]]></title>
-        <id>https://news.ycombinator.com/item?id=30277457</id>
-        <link href="https://news.ycombinator.com/item?id=30277457"/>
-        <updated>2022-02-09T19:46:24.000Z</updated>
-        <summary type="html"><![CDATA[This needs some heavy checking... (line 1029)]]></summary>
-        <author>
-            <name>dennis_moore</name>
-            <uri>https://news.ycombinator.com/user?id=dennis_moore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于iPhone Sideloading。没关系，我正在改变我的想法]]></title>
-        <id>https://news.ycombinator.com/item?id=30276657</id>
-        <link href="https://news.ycombinator.com/item?id=30276657"/>
-        <updated>2022-02-09T18:48:35.000Z</updated>
-        <summary type="html"><![CDATA[On iPhone Sideloading: It’s OK, I’m Changing My Mind]]></summary>
-        <author>
-            <name>keleftheriou</name>
-            <uri>https://news.ycombinator.com/user?id=keleftheriou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亿万富翁彼得-蒂尔资助的 "网络战争 "创业公司与NSO集团类似]]></title>
-        <id>https://news.ycombinator.com/item?id=30277568</id>
-        <link href="https://news.ycombinator.com/item?id=30277568"/>
-        <updated>2022-02-09T19:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Billionaire Peter Thiel Funded ‘Cyber Warfare’ Startup similar to NSO Group]]></summary>
-        <author>
-            <name>notRobot</name>
-            <uri>https://news.ycombinator.com/user?id=notRobot</uri>
         </author>
     </entry>
 </feed>
