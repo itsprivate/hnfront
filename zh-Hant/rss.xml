@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 20 Feb 2022 20:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 20:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Newser，用go語言編寫的實用程序，用於生成帶有新聞內容的pdf。]]></title>
+            <link>https://news.ycombinator.com/item?id=30408276</link>
+            <guid>https://news.ycombinator.com/item?id=30408276</guid>
+            <pubDate>Sun, 20 Feb 2022 18:58:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Newser, utility written in go to generate a pdf with news content]]></description>
+        </item>
         <item>
             <title><![CDATA[微軟YARP]]></title>
             <link>https://news.ycombinator.com/item?id=30408481</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30278974</guid>
             <pubDate>Wed, 09 Feb 2022 21:45:13 GMT</pubDate>
             <description><![CDATA[Why Netflix Will Falter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[樣品中發現的早期 "實驗室生長 "的Covid病毒為武漢理論提供了依據]]></title>
-            <link>https://news.ycombinator.com/item?id=30279180</link>
-            <guid>https://news.ycombinator.com/item?id=30279180</guid>
-            <pubDate>Wed, 09 Feb 2022 22:03:10 GMT</pubDate>
-            <description><![CDATA[Early ‘lab-grown’ Covid virus found in sample lends weight to Wuhan theory]]></description>
         </item>
     </channel>
 </rss>
