@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T21:51:48.879Z</updated>
+    <updated>2022-02-20T22:12:03.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TurboTax是如何擺脫黑暗模式的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30409523</id>
+        <link href="https://news.ycombinator.com/item?id=30409523"/>
+        <updated>2022-02-20T21:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does TurboTax get away with dark patterns?]]></summary>
+        <author>
+            <name>cebert</name>
+            <uri>https://news.ycombinator.com/user?id=cebert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們正經歷著定義的崩潰]]></title>
         <id>https://news.ycombinator.com/item?id=30408960</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>benbreen</name>
             <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Racket v8.4]]></title>
-        <id>https://news.ycombinator.com/item?id=30280584</id>
-        <link href="https://news.ycombinator.com/item?id=30280584"/>
-        <updated>2022-02-09T23:55:34.000Z</updated>
-        <summary type="html"><![CDATA[Racket v8.4]]></summary>
-        <author>
-            <name>bwidlar</name>
-            <uri>https://news.ycombinator.com/user?id=bwidlar</uri>
         </author>
     </entry>
 </feed>
