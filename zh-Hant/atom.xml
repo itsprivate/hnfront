@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-20T14:51:48.496Z</updated>
+    <updated>2022-02-20T15:12:20.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個五角大樓的人獲得了根基--一步一步的例子]]></title>
+        <id>https://news.ycombinator.com/item?id=30405959</id>
+        <link href="https://news.ycombinator.com/item?id=30405959"/>
+        <updated>2022-02-20T14:27:59.000Z</updated>
+        <summary type="html"><![CDATA[A Pentester Gets Root - Step by Step Example]]></summary>
+        <author>
+            <name>Jaruzel</name>
+            <uri>https://news.ycombinator.com/user?id=Jaruzel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最快的GIF是不存在的]]></title>
+        <id>https://news.ycombinator.com/item?id=30405815</id>
+        <link href="https://news.ycombinator.com/item?id=30405815"/>
+        <updated>2022-02-20T14:11:14.000Z</updated>
+        <summary type="html"><![CDATA[The Fastest GIF Does Not Exist]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京及其隨行人員為何想要戰爭？]]></title>
         <id>https://news.ycombinator.com/item?id=30405782</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>Matth3wMarshall</name>
             <uri>https://news.ycombinator.com/user?id=Matth3wMarshall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[單一依賴性堆棧]]></title>
-        <id>https://news.ycombinator.com/item?id=30274886</id>
-        <link href="https://news.ycombinator.com/item?id=30274886"/>
-        <updated>2022-02-09T16:53:29.000Z</updated>
-        <summary type="html"><![CDATA[Single Dependency Stacks]]></summary>
-        <author>
-            <name>jeffreyrogers</name>
-            <uri>https://news.ycombinator.com/user?id=jeffreyrogers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們能不能在這個版本庫上找回主分支？]]></title>
-        <id>https://news.ycombinator.com/item?id=30274835</id>
-        <link href="https://news.ycombinator.com/item?id=30274835"/>
-        <updated>2022-02-09T16:48:47.000Z</updated>
-        <summary type="html"><![CDATA[Could we please get back the master-branch on this repository?]]></summary>
-        <author>
-            <name>TeeMassive</name>
-            <uri>https://news.ycombinator.com/user?id=TeeMassive</uri>
         </author>
     </entry>
 </feed>
