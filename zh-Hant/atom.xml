@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T08:15:11.871Z</updated>
+    <updated>2022-02-21T08:36:45.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自動融合。一個類似於JSON的數據結構（一個CRDT），可以被併發修改]]></title>
+        <id>https://news.ycombinator.com/item?id=30412550</id>
+        <link href="https://news.ycombinator.com/item?id=30412550"/>
+        <updated>2022-02-21T06:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幫助我不能成為一個數字遊民，我有太多的東西。]]></title>
+        <id>https://news.ycombinator.com/item?id=30411974</id>
+        <link href="https://news.ycombinator.com/item?id=30411974"/>
+        <updated>2022-02-21T04:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Help I can't become a digital nomad, I have too much stuff]]></summary>
+        <author>
+            <name>SoftwarePatent</name>
+            <uri>https://news.ycombinator.com/user?id=SoftwarePatent</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於Markdown的思考]]></title>
         <id>https://news.ycombinator.com/item?id=30395130</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>coffeebite</name>
             <uri>https://news.ycombinator.com/user?id=coffeebite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R7RS指數]]></title>
-        <id>https://news.ycombinator.com/item?id=30272007</id>
-        <link href="https://news.ycombinator.com/item?id=30272007"/>
-        <updated>2022-02-09T12:51:09.000Z</updated>
-        <summary type="html"><![CDATA[R7RS Index]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當我們談論技術債務時，我們聽起來像個傻瓜]]></title>
-        <id>https://news.ycombinator.com/item?id=30284643</id>
-        <link href="https://news.ycombinator.com/item?id=30284643"/>
-        <updated>2022-02-10T11:03:07.000Z</updated>
-        <summary type="html"><![CDATA[We sound like idiots when we talk about technical debt]]></summary>
-        <author>
-            <name>seekayel</name>
-            <uri>https://news.ycombinator.com/user?id=seekayel</uri>
         </author>
     </entry>
 </feed>

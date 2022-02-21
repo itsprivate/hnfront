@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 21 Feb 2022 08:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 08:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自动融合。一个类似于JSON的数据结构（一个CRDT），可以被并发修改]]></title>
+            <link>https://news.ycombinator.com/item?id=30412550</link>
+            <guid>https://news.ycombinator.com/item?id=30412550</guid>
+            <pubDate>Mon, 21 Feb 2022 06:35:17 GMT</pubDate>
+            <description><![CDATA[Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently]]></description>
+        </item>
+        <item>
+            <title><![CDATA[帮助我不能成为一个数字游民，我有太多的东西。]]></title>
+            <link>https://news.ycombinator.com/item?id=30411974</link>
+            <guid>https://news.ycombinator.com/item?id=30411974</guid>
+            <pubDate>Mon, 21 Feb 2022 04:25:27 GMT</pubDate>
+            <description><![CDATA[Help I can't become a digital nomad, I have too much stuff]]></description>
+        </item>
         <item>
             <title><![CDATA[关于Markdown的思考]]></title>
             <link>https://news.ycombinator.com/item?id=30395130</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30284992</guid>
             <pubDate>Thu, 10 Feb 2022 12:00:14 GMT</pubDate>
             <description><![CDATA[Padlet (YC W13) Is Hiring Senior Elixir Engineers in San Francisco]]></description>
-        </item>
-        <item>
-            <title><![CDATA[R7RS指数]]></title>
-            <link>https://news.ycombinator.com/item?id=30272007</link>
-            <guid>https://news.ycombinator.com/item?id=30272007</guid>
-            <pubDate>Wed, 09 Feb 2022 12:51:09 GMT</pubDate>
-            <description><![CDATA[R7RS Index]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当我们谈论技术债务时，我们听起来像个傻瓜]]></title>
-            <link>https://news.ycombinator.com/item?id=30284643</link>
-            <guid>https://news.ycombinator.com/item?id=30284643</guid>
-            <pubDate>Thu, 10 Feb 2022 11:03:07 GMT</pubDate>
-            <description><![CDATA[We sound like idiots when we talk about technical debt]]></description>
         </item>
     </channel>
 </rss>
