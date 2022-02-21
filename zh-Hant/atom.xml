@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T19:28:31.299Z</updated>
+    <updated>2022-02-21T19:38:29.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[巴倫西亞的灌溉系統現在是可持續耕作的典範]]></title>
+        <id>https://news.ycombinator.com/item?id=30419451</id>
+        <link href="https://news.ycombinator.com/item?id=30419451"/>
+        <updated>2022-02-21T19:11:20.000Z</updated>
+        <summary type="html"><![CDATA[Valencia's irrigation system is now a model for sustainable farming]]></summary>
+        <author>
+            <name>dsnr</name>
+            <uri>https://news.ycombinator.com/user?id=dsnr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個精心設計的騙局，騙取了幾十人為一個假的設計機構工作]]></title>
         <id>https://news.ycombinator.com/item?id=30418842</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>klohto</name>
             <uri>https://news.ycombinator.com/user?id=klohto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反對OOP的案例被低估了，而不是誇大了]]></title>
-        <id>https://news.ycombinator.com/item?id=30293622</id>
-        <link href="https://news.ycombinator.com/item?id=30293622"/>
-        <updated>2022-02-10T22:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Case against OOP is understated, not overstated]]></summary>
-        <author>
-            <name>tejohnso</name>
-            <uri>https://news.ycombinator.com/user?id=tejohnso</uri>
         </author>
     </entry>
 </feed>
