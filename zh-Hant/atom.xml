@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T08:51:59.368Z</updated>
+    <updated>2022-02-21T09:13:07.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LoC主題標題。前與後的協調及相關問題 (2007) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30383337</id>
+        <link href="https://news.ycombinator.com/item?id=30383337"/>
+        <updated>2022-02-18T08:20:28.000Z</updated>
+        <summary type="html"><![CDATA[LoC Subject Headings: Pre- vs. Post-Coordination and Related Issues (2007) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：Airbnb剛剛偷走了我5分鐘的時間，加入了骰子]]></title>
         <id>https://news.ycombinator.com/item?id=30413228</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>nemoniac</name>
             <uri>https://news.ycombinator.com/user?id=nemoniac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNIL（法國）決定歐盟-美國向谷歌分析的數據傳輸是非法的]]></title>
-        <id>https://news.ycombinator.com/item?id=30284905</id>
-        <link href="https://news.ycombinator.com/item?id=30284905"/>
-        <updated>2022-02-10T11:47:20.000Z</updated>
-        <summary type="html"><![CDATA[CNIL (France) decides EU-US data transfer to Google Analytics illegal]]></summary>
-        <author>
-            <name>rpadovani</name>
-            <uri>https://news.ycombinator.com/user?id=rpadovani</uri>
         </author>
     </entry>
 </feed>
