@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T07:12:46.798Z</updated>
+    <updated>2022-02-21T08:15:11.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于Markdown的思考]]></title>
+        <id>https://news.ycombinator.com/item?id=30395130</id>
+        <link href="https://news.ycombinator.com/item?id=30395130"/>
+        <updated>2022-02-19T07:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts on Markdown]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Piepacker (YC S20) 正在招聘全栈开发人员（欧洲/远程）。]]></title>
         <id>https://news.ycombinator.com/item?id=30412684</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>seekayel</name>
             <uri>https://news.ycombinator.com/user?id=seekayel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大脑中新的意义地图改变了关于记忆的想法]]></title>
-        <id>https://news.ycombinator.com/item?id=30284533</id>
-        <link href="https://news.ycombinator.com/item?id=30284533"/>
-        <updated>2022-02-10T10:41:12.000Z</updated>
-        <summary type="html"><![CDATA[New Map of Meaning in the Brain Changes Ideas About Memory]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
         </author>
     </entry>
 </feed>
