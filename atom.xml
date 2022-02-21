@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T08:36:45.205Z</updated>
+    <updated>2022-02-21T08:51:59.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：Airbnb刚刚偷走了我5分钟的时间，加入了骰子]]></title>
+        <id>https://news.ycombinator.com/item?id=30413228</id>
+        <link href="https://news.ycombinator.com/item?id=30413228"/>
+        <updated>2022-02-21T08:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Airbnb just stole me 5 minutes of my time adding dices]]></summary>
+        <author>
+            <name>JeanMarcS</name>
+            <uri>https://news.ycombinator.com/user?id=JeanMarcS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恶性循环。骑自行车的人的危险的非人化]]></title>
+        <id>https://news.ycombinator.com/item?id=30412960</id>
+        <link href="https://news.ycombinator.com/item?id=30412960"/>
+        <updated>2022-02-21T07:44:43.000Z</updated>
+        <summary type="html"><![CDATA[A Vicious Cycle: The Dangerous Dehumanisation of Cyclists]]></summary>
+        <author>
+            <name>pharmakom</name>
+            <uri>https://news.ycombinator.com/user?id=pharmakom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自动融合。一个类似于JSON的数据结构（一个CRDT），可以被并发修改]]></title>
         <id>https://news.ycombinator.com/item?id=30412550</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>rpadovani</name>
             <uri>https://news.ycombinator.com/user?id=rpadovani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后端语言正在向前端发展]]></title>
-        <id>https://news.ycombinator.com/item?id=30269161</id>
-        <link href="https://news.ycombinator.com/item?id=30269161"/>
-        <updated>2022-02-09T05:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Back-end languages are coming to the front-end]]></summary>
-        <author>
-            <name>deznu</name>
-            <uri>https://news.ycombinator.com/user?id=deznu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padlet（YC W13）正在旧金山招聘高级Elixir工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=30284992</id>
-        <link href="https://news.ycombinator.com/item?id=30284992"/>
-        <updated>2022-02-10T12:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Padlet (YC W13) Is Hiring Senior Elixir Engineers in San Francisco]]></summary>
-        <author>
-            <name>coffeebite</name>
-            <uri>https://news.ycombinator.com/user?id=coffeebite</uri>
         </author>
     </entry>
 </feed>
