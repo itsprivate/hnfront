@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 21 Feb 2022 20:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 20:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你正在從事什麼令人興奮的工作？]]></title>
+            <link>https://news.ycombinator.com/item?id=30419926</link>
+            <guid>https://news.ycombinator.com/item?id=30419926</guid>
+            <pubDate>Mon, 21 Feb 2022 20:04:44 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is something exciting you're working on?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[標準。一個跨平臺的C和C++單元測試框架]]></title>
+            <link>https://news.ycombinator.com/item?id=30419723</link>
+            <guid>https://news.ycombinator.com/item?id=30419723</guid>
+            <pubDate>Mon, 21 Feb 2022 19:41:22 GMT</pubDate>
+            <description><![CDATA[Criterion: A cross-platform C and C++ unit testing framework]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我測試了四家供應商的NVMe固態硬盤--一半在斷電時丟失FLUSH的數據]]></title>
+            <link>https://news.ycombinator.com/item?id=30419618</link>
+            <guid>https://news.ycombinator.com/item?id=30419618</guid>
+            <pubDate>Mon, 21 Feb 2022 19:29:37 GMT</pubDate>
+            <description><![CDATA[I tested four NVMe SSDs from four vendors – half lose FLUSH’d data on power loss]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Linux系統的Snap-confine功能中發現多個漏洞]]></title>
+            <link>https://news.ycombinator.com/item?id=30395470</link>
+            <guid>https://news.ycombinator.com/item?id=30395470</guid>
+            <pubDate>Sat, 19 Feb 2022 08:44:15 GMT</pubDate>
+            <description><![CDATA[Multiple vulnerabilities found in Snap-confine function on Linux systems]]></description>
+        </item>
         <item>
             <title><![CDATA[Hyperloop公司裁員一半，因為它的工作重心不再是乘客旅行]]></title>
             <link>https://news.ycombinator.com/item?id=30419809</link>
@@ -6985,34 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30276031</guid>
             <pubDate>Wed, 09 Feb 2022 18:15:14 GMT</pubDate>
             <description><![CDATA[Graffiti Mobili]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Atlas (YC W22) 正在招聘 - UIUX設計師]]></title>
-            <link>https://news.ycombinator.com/item?id=30295364</link>
-            <guid>https://news.ycombinator.com/item?id=30295364</guid>
-            <pubDate>Fri, 11 Feb 2022 01:00:35 GMT</pubDate>
-            <description><![CDATA[Atlas (YC W22) Is Hiring – UIUX Designer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[應用程序搶佔了古老的外賣理念]]></title>
-            <link>https://news.ycombinator.com/item?id=30275702</link>
-            <guid>https://news.ycombinator.com/item?id=30275702</guid>
-            <pubDate>Wed, 09 Feb 2022 17:53:51 GMT</pubDate>
-            <description><![CDATA[Apps commandeered the age-old idea of takeout]]></description>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亞間諜機構擾亂外國選舉干擾活動]]></title>
-            <link>https://news.ycombinator.com/item?id=30293423</link>
-            <guid>https://news.ycombinator.com/item?id=30293423</guid>
-            <pubDate>Thu, 10 Feb 2022 22:12:15 GMT</pubDate>
-            <description><![CDATA[Australian spy agency disrupts foreign election interference]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SSD耐力]]></title>
-            <link>https://news.ycombinator.com/item?id=30275139</link>
-            <guid>https://news.ycombinator.com/item?id=30275139</guid>
-            <pubDate>Wed, 09 Feb 2022 17:13:59 GMT</pubDate>
-            <description><![CDATA[SSD Endurance]]></description>
         </item>
     </channel>
 </rss>
