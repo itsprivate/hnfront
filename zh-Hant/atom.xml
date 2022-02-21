@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T18:15:39.751Z</updated>
+    <updated>2022-02-21T18:38:06.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件開發的著名法則]]></title>
+        <id>https://news.ycombinator.com/item?id=30418757</id>
+        <link href="https://news.ycombinator.com/item?id=30418757"/>
+        <updated>2022-02-21T18:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Famous Laws of Software Development]]></summary>
+        <author>
+            <name>legrande</name>
+            <uri>https://news.ycombinator.com/user?id=legrande</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼要學習Racket？一個學生的觀點]]></title>
+        <id>https://news.ycombinator.com/item?id=30402408</id>
+        <link href="https://news.ycombinator.com/item?id=30402408"/>
+        <updated>2022-02-20T01:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Why learn Racket? A student's perspective]]></summary>
+        <author>
+            <name>hydroxideOH-</name>
+            <uri>https://news.ycombinator.com/user?id=hydroxideOH-</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[計算機什麼時候對你來說變得 "足夠快 "了？]]></title>
         <id>https://news.ycombinator.com/item?id=30418445</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>systemvoltage</name>
             <uri>https://news.ycombinator.com/user?id=systemvoltage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有用的拖延症]]></title>
-        <id>https://news.ycombinator.com/item?id=30292440</id>
-        <link href="https://news.ycombinator.com/item?id=30292440"/>
-        <updated>2022-02-10T21:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Procrastination That Works]]></summary>
-        <author>
-            <name>rnjailamba</name>
-            <uri>https://news.ycombinator.com/user?id=rnjailamba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qvin (YC W16)正在招聘一名女性健康D2C產品負責人]]></title>
-        <id>https://news.ycombinator.com/item?id=30292444</id>
-        <link href="https://news.ycombinator.com/item?id=30292444"/>
-        <updated>2022-02-10T21:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Qvin (YC W16) Is Hiring a Women's Health D2C Product Lead]]></summary>
-        <author>
-            <name>sorent</name>
-            <uri>https://news.ycombinator.com/user?id=sorent</uri>
         </author>
     </entry>
 </feed>
