@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T17:03:40.021Z</updated>
+    <updated>2022-02-21T17:17:33.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Unix中服務管理的歷史（某種程度上）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30417968</id>
+        <link href="https://news.ycombinator.com/item?id=30417968"/>
+        <updated>2022-02-21T17:01:11.000Z</updated>
+        <summary type="html"><![CDATA[The history (sort of) of service management in Unix]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dendron（YC W21）正在招聘React/TS專家，以建立更好的思想工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30417956</id>
+        <link href="https://news.ycombinator.com/item?id=30417956"/>
+        <updated>2022-02-21T17:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought]]></summary>
+        <author>
+            <name>kevinslin</name>
+            <uri>https://news.ycombinator.com/user?id=kevinslin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果的錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30417819</id>
+        <link href="https://news.ycombinator.com/item?id=30417819"/>
+        <updated>2022-02-21T16:47:01.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s Mistake]]></summary>
+        <author>
+            <name>keleftheriou</name>
+            <uri>https://news.ycombinator.com/user?id=keleftheriou</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拉特納。斯威夫特核心團隊的毒害和離開]]></title>
+        <id>https://news.ycombinator.com/item?id=30417780</id>
+        <link href="https://news.ycombinator.com/item?id=30417780"/>
+        <updated>2022-02-21T16:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Lattner: Swift Core Team toxic and departure]]></summary>
+        <author>
+            <name>anaerobicover</name>
+            <uri>https://news.ycombinator.com/user?id=anaerobicover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C 可移植性的教訓來自奇怪的機器]]></title>
         <id>https://news.ycombinator.com/item?id=30417802</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>hourislate</name>
             <uri>https://news.ycombinator.com/user?id=hourislate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貝蒂-戴維斯已經去世]]></title>
-        <id>https://news.ycombinator.com/item?id=30291432</id>
-        <link href="https://news.ycombinator.com/item?id=30291432"/>
-        <updated>2022-02-10T19:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Betty Davis has died]]></summary>
-        <author>
-            <name>neonate</name>
-            <uri>https://news.ycombinator.com/user?id=neonate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN："上傳你的簡歷然後打出來 "正在傷害你的公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30291081</id>
-        <link href="https://news.ycombinator.com/item?id=30291081"/>
-        <updated>2022-02-10T19:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: "Upload your resume and then type it out” is hurting your company]]></summary>
-        <author>
-            <name>valar_m</name>
-            <uri>https://news.ycombinator.com/user?id=valar_m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於AirTag和不受歡迎的追蹤的最新情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30290043</id>
-        <link href="https://news.ycombinator.com/item?id=30290043"/>
-        <updated>2022-02-10T18:00:17.000Z</updated>
-        <summary type="html"><![CDATA[An update on AirTag and unwanted tracking]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特自2013年上市以來下跌了10.4%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30291646</id>
-        <link href="https://news.ycombinator.com/item?id=30291646"/>
-        <updated>2022-02-10T20:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Twitter is down 10.4% since IPO in 2013]]></summary>
-        <author>
-            <name>2022whoknew</name>
-            <uri>https://news.ycombinator.com/user?id=2022whoknew</uri>
         </author>
     </entry>
 </feed>
