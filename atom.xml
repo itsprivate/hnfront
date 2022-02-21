@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T17:17:33.795Z</updated>
+    <updated>2022-02-21T17:33:50.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[过去50年中最重要的统计学思想是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30417811</id>
+        <link href="https://news.ycombinator.com/item?id=30417811"/>
+        <updated>2022-02-21T16:46:13.000Z</updated>
+        <summary type="html"><![CDATA[What Are the Most Important Statistical Ideas of the Past 50 Years?]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unix中服务管理的历史（某种程度上）。]]></title>
         <id>https://news.ycombinator.com/item?id=30417968</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脂肪组织在健康和疾病中的可塑性]]></title>
-        <id>https://news.ycombinator.com/item?id=30291782</id>
-        <link href="https://news.ycombinator.com/item?id=30291782"/>
-        <updated>2022-02-10T20:11:34.000Z</updated>
-        <summary type="html"><![CDATA[Adipose-tissue plasticity in health and disease]]></summary>
-        <author>
-            <name>hourislate</name>
-            <uri>https://news.ycombinator.com/user?id=hourislate</uri>
         </author>
     </entry>
 </feed>
