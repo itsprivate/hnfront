@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T15:47:44.720Z</updated>
+    <updated>2022-02-21T16:16:04.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Prisma Python - 一個完全類型化的Python ORM]]></title>
+        <id>https://news.ycombinator.com/item?id=30416531</id>
+        <link href="https://news.ycombinator.com/item?id=30416531"/>
+        <updated>2022-02-21T14:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Prisma Python – A fully typed ORM for Python]]></summary>
+        <author>
+            <name>probablyrobert</name>
+            <uri>https://news.ycombinator.com/user?id=probablyrobert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特朗普的真相社交只能讓馬思純更強大]]></title>
         <id>https://news.ycombinator.com/item?id=30416952</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>daegloe</name>
             <uri>https://news.ycombinator.com/user?id=daegloe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比爾-蓋茨 我的大流行病新書即將問世]]></title>
-        <id>https://news.ycombinator.com/item?id=30287412</id>
-        <link href="https://news.ycombinator.com/item?id=30287412"/>
-        <updated>2022-02-10T15:25:07.000Z</updated>
-        <summary type="html"><![CDATA[Bill Gates: My new pandemic book is coming soon]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
         </author>
     </entry>
 </feed>
