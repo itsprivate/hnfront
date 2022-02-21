@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T09:13:06.989Z</updated>
+    <updated>2022-02-21T09:52:04.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nacirema]]></title>
+        <id>https://news.ycombinator.com/item?id=30412981</id>
+        <link href="https://news.ycombinator.com/item?id=30412981"/>
+        <updated>2022-02-21T07:46:51.000Z</updated>
+        <summary type="html"><![CDATA[Nacirema]]></summary>
+        <author>
+            <name>polm23</name>
+            <uri>https://news.ycombinator.com/user?id=polm23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LoC主题标题。前与后的协调及相关问题 (2007) [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30383337</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>guillem_lefait</name>
             <uri>https://news.ycombinator.com/user?id=guillem_lefait</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC加密货币纪录片在最后一刻被撤下播出]]></title>
-        <id>https://news.ycombinator.com/item?id=30285111</id>
-        <link href="https://news.ycombinator.com/item?id=30285111"/>
-        <updated>2022-02-10T12:16:04.000Z</updated>
-        <summary type="html"><![CDATA[BBC cryptocurrency documentary pulled from air at last minute]]></summary>
-        <author>
-            <name>nemoniac</name>
-            <uri>https://news.ycombinator.com/user?id=nemoniac</uri>
         </author>
     </entry>
 </feed>
