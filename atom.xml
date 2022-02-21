@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T09:52:04.088Z</updated>
+    <updated>2022-02-21T10:37:31.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes纪录片。批评性评论]]></title>
+        <id>https://news.ycombinator.com/item?id=30413263</id>
+        <link href="https://news.ycombinator.com/item?id=30413263"/>
+        <updated>2022-02-21T08:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes Documentary: A Critical Review]]></summary>
+        <author>
+            <name>riccardomc</name>
+            <uri>https://news.ycombinator.com/user?id=riccardomc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在科技的黄金时代，什么是更好的（又称暴躁线）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30413629</id>
+        <link href="https://news.ycombinator.com/item?id=30413629"/>
+        <updated>2022-02-21T09:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What was better in the golden age of tech (a.k.a. the grumpy thread)]]></summary>
+        <author>
+            <name>rixed</name>
+            <uri>https://news.ycombinator.com/user?id=rixed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最终幻想7：口述历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30396134</id>
+        <link href="https://news.ycombinator.com/item?id=30396134"/>
+        <updated>2022-02-19T10:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Final Fantasy 7: An oral history]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nacirema]]></title>
         <id>https://news.ycombinator.com/item?id=30412981</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>arnvald</name>
             <uri>https://news.ycombinator.com/user?id=arnvald</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国数据保护机构宣布使用谷歌分析为非法行为]]></title>
-        <id>https://news.ycombinator.com/item?id=30284820</id>
-        <link href="https://news.ycombinator.com/item?id=30284820"/>
-        <updated>2022-02-10T11:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Use of Google Analytics declared illegal by French data protection authority]]></summary>
-        <author>
-            <name>domffc1</name>
-            <uri>https://news.ycombinator.com/user?id=domffc1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL 线路兼容的世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30284538</id>
-        <link href="https://news.ycombinator.com/item?id=30284538"/>
-        <updated>2022-02-10T10:42:16.000Z</updated>
-        <summary type="html"><![CDATA[The world of PostgreSQL wire compatibility]]></summary>
-        <author>
-            <name>EntICOnc</name>
-            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNIL、法国DPA、谷歌分析和非法的美国数据转移]]></title>
-        <id>https://news.ycombinator.com/item?id=30284372</id>
-        <link href="https://news.ycombinator.com/item?id=30284372"/>
-        <updated>2022-02-10T10:18:08.000Z</updated>
-        <summary type="html"><![CDATA[CNIL, the French DPA, Google Analytics and Illegal US Data Transfers]]></summary>
-        <author>
-            <name>guillem_lefait</name>
-            <uri>https://news.ycombinator.com/user?id=guillem_lefait</uri>
         </author>
     </entry>
 </feed>
