@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T11:52:43.775Z</updated>
+    <updated>2022-02-21T12:18:52.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Algolia正在招聘全栈工程师，帮助我们研究一种新的搜索方式]]></title>
+        <id>https://news.ycombinator.com/item?id=30414821</id>
+        <link href="https://news.ycombinator.com/item?id=30414821"/>
+        <updated>2022-02-21T12:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Algolia is hiring full-stack engineers to help us research a new kind of search]]></summary>
+        <author>
+            <name>jlemoine</name>
+            <uri>https://news.ycombinator.com/user?id=jlemoine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关系满意度如何在你的一生中变化]]></title>
+        <id>https://news.ycombinator.com/item?id=30394701</id>
+        <link href="https://news.ycombinator.com/item?id=30394701"/>
+        <updated>2022-02-19T05:39:25.000Z</updated>
+        <summary type="html"><![CDATA[How Relationship Satisfaction Changes Across Your Lifetime]]></summary>
+        <author>
+            <name>terrycody</name>
+            <uri>https://news.ycombinator.com/user?id=terrycody</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla准备在2022年3月推出MDN Plus]]></title>
         <id>https://news.ycombinator.com/item?id=30414637</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>elorant</name>
             <uri>https://news.ycombinator.com/user?id=elorant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid-19对心脏健康造成严重损害--康复后一整年]]></title>
-        <id>https://news.ycombinator.com/item?id=30285992</id>
-        <link href="https://news.ycombinator.com/item?id=30285992"/>
-        <updated>2022-02-10T13:55:26.000Z</updated>
-        <summary type="html"><![CDATA[Covid-19 takes serious toll on heart health–a full year after recovery]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Userfaultfd(2) - 创建一个文件描述符来处理用户空间的页面故障]]></title>
-        <id>https://news.ycombinator.com/item?id=30285317</id>
-        <link href="https://news.ycombinator.com/item?id=30285317"/>
-        <updated>2022-02-10T12:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Userfaultfd(2) – create a file descriptor for handling page faults in user space]]></summary>
-        <author>
-            <name>phab</name>
-            <uri>https://news.ycombinator.com/user?id=phab</uri>
         </author>
     </entry>
 </feed>
