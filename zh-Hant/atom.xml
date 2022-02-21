@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T17:33:51.065Z</updated>
+    <updated>2022-02-21T17:41:31.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[扭曲：麻省理工學院的量子編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30395676</id>
+        <link href="https://news.ycombinator.com/item?id=30395676"/>
+        <updated>2022-02-19T09:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Twist: MIT’s Quantum Programming Language]]></summary>
+        <author>
+            <name>georgehill</name>
+            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過去50年中最重要的統計學思想是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30417811</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>binarynate</name>
             <uri>https://news.ycombinator.com/user?id=binarynate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現在還值得在FOSS上工作嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30291919</id>
-        <link href="https://news.ycombinator.com/item?id=30291919"/>
-        <updated>2022-02-10T20:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Is It Even Worth Working on FOSS Anymore?]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
