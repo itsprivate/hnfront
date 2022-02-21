@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T18:55:08.845Z</updated>
+    <updated>2022-02-21T19:28:31.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個精心設計的騙局，騙取了幾十人為一個假的設計機構工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30418842</id>
+        <link href="https://news.ycombinator.com/item?id=30418842"/>
+        <updated>2022-02-21T18:14:10.000Z</updated>
+        <summary type="html"><![CDATA[An elaborate con that tricked dozens into working for a fake design agency]]></summary>
+        <author>
+            <name>bhartzer</name>
+            <uri>https://news.ycombinator.com/user?id=bhartzer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果零售業員工組織工會，使用安卓手機防止間諜活動]]></title>
         <id>https://news.ycombinator.com/item?id=30419007</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>tejohnso</name>
             <uri>https://news.ycombinator.com/user?id=tejohnso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.18的RNG中更安全的熵積累]]></title>
-        <id>https://news.ycombinator.com/item?id=30273964</id>
-        <link href="https://news.ycombinator.com/item?id=30273964"/>
-        <updated>2022-02-09T15:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Safer entropy accumulation in Linux 5.18's RNG]]></summary>
-        <author>
-            <name>zx2c4</name>
-            <uri>https://news.ycombinator.com/user?id=zx2c4</uri>
         </author>
     </entry>
 </feed>

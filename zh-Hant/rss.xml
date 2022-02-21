@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 21 Feb 2022 18:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 19:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個精心設計的騙局，騙取了幾十人為一個假的設計機構工作]]></title>
+            <link>https://news.ycombinator.com/item?id=30418842</link>
+            <guid>https://news.ycombinator.com/item?id=30418842</guid>
+            <pubDate>Mon, 21 Feb 2022 18:14:10 GMT</pubDate>
+            <description><![CDATA[An elaborate con that tricked dozens into working for a fake design agency]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果零售業員工組織工會，使用安卓手機防止間諜活動]]></title>
             <link>https://news.ycombinator.com/item?id=30419007</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30293622</guid>
             <pubDate>Thu, 10 Feb 2022 22:29:19 GMT</pubDate>
             <description><![CDATA[Case against OOP is understated, not overstated]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linux 5.18的RNG中更安全的熵積累]]></title>
-            <link>https://news.ycombinator.com/item?id=30273964</link>
-            <guid>https://news.ycombinator.com/item?id=30273964</guid>
-            <pubDate>Wed, 09 Feb 2022 15:43:23 GMT</pubDate>
-            <description><![CDATA[Safer entropy accumulation in Linux 5.18's RNG]]></description>
         </item>
     </channel>
 </rss>
