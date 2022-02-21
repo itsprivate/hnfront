@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 21 Feb 2022 13:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 13:53:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個新的每日字謎]]></title>
+            <link>https://news.ycombinator.com/item?id=30415053</link>
+            <guid>https://news.ycombinator.com/item?id=30415053</guid>
+            <pubDate>Mon, 21 Feb 2022 12:21:58 GMT</pubDate>
+            <description><![CDATA[Show HN: A new daily word puzzle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一個線形圖製作器]]></title>
+            <link>https://news.ycombinator.com/item?id=30415003</link>
+            <guid>https://news.ycombinator.com/item?id=30415003</guid>
+            <pubDate>Mon, 21 Feb 2022 12:17:11 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a Line graph maker]]></description>
+        </item>
         <item>
             <title><![CDATA[JDK飛行記錄儀的文件格式]]></title>
             <link>https://news.ycombinator.com/item?id=30415450</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30286971</guid>
             <pubDate>Thu, 10 Feb 2022 14:58:04 GMT</pubDate>
             <description><![CDATA[Modern human incursion into Neanderthal territories 54,000 years ago at Mandrin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Node.js增加了對直接無註冊表的HTTPS導入的支持]]></title>
-            <link>https://news.ycombinator.com/item?id=30286568</link>
-            <guid>https://news.ycombinator.com/item?id=30286568</guid>
-            <pubDate>Thu, 10 Feb 2022 14:36:47 GMT</pubDate>
-            <description><![CDATA[Node.js adds support for direct registry-less HTTPS imports]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AMD收購賽靈思獲得批准]]></title>
-            <link>https://news.ycombinator.com/item?id=30285837</link>
-            <guid>https://news.ycombinator.com/item?id=30285837</guid>
-            <pubDate>Thu, 10 Feb 2022 13:42:54 GMT</pubDate>
-            <description><![CDATA[AMD Receives Approval for Acquisition of Xilinx]]></description>
         </item>
     </channel>
 </rss>

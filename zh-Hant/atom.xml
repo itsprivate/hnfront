@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T13:35:46.714Z</updated>
+    <updated>2022-02-21T13:53:16.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個新的每日字謎]]></title>
+        <id>https://news.ycombinator.com/item?id=30415053</id>
+        <link href="https://news.ycombinator.com/item?id=30415053"/>
+        <updated>2022-02-21T12:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A new daily word puzzle]]></summary>
+        <author>
+            <name>danieltait</name>
+            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個線形圖製作器]]></title>
+        <id>https://news.ycombinator.com/item?id=30415003</id>
+        <link href="https://news.ycombinator.com/item?id=30415003"/>
+        <updated>2022-02-21T12:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a Line graph maker]]></summary>
+        <author>
+            <name>karansope</name>
+            <uri>https://news.ycombinator.com/user?id=karansope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JDK飛行記錄儀的文件格式]]></title>
         <id>https://news.ycombinator.com/item?id=30415450</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>mzs</name>
             <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js增加了對直接無註冊表的HTTPS導入的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30286568</id>
-        <link href="https://news.ycombinator.com/item?id=30286568"/>
-        <updated>2022-02-10T14:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Node.js adds support for direct registry-less HTTPS imports]]></summary>
-        <author>
-            <name>inglor</name>
-            <uri>https://news.ycombinator.com/user?id=inglor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD收購賽靈思獲得批准]]></title>
-        <id>https://news.ycombinator.com/item?id=30285837</id>
-        <link href="https://news.ycombinator.com/item?id=30285837"/>
-        <updated>2022-02-10T13:42:54.000Z</updated>
-        <summary type="html"><![CDATA[AMD Receives Approval for Acquisition of Xilinx]]></summary>
-        <author>
-            <name>transpute</name>
-            <uri>https://news.ycombinator.com/user?id=transpute</uri>
         </author>
     </entry>
 </feed>
