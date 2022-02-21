@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T02:22:16.264Z</updated>
+    <updated>2022-02-21T02:48:27.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[95%-ile並不那麼好]]></title>
+        <id>https://news.ycombinator.com/item?id=30411160</id>
+        <link href="https://news.ycombinator.com/item?id=30411160"/>
+        <updated>2022-02-21T02:04:24.000Z</updated>
+        <summary type="html"><![CDATA[95%-ile isn't that good]]></summary>
+        <author>
+            <name>DantesKite</name>
+            <uri>https://news.ycombinator.com/user?id=DantesKite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌標籤管理器，新的反廣告屏蔽武器]]></title>
         <id>https://news.ycombinator.com/item?id=30411049</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>collate</name>
             <uri>https://news.ycombinator.com/user?id=collate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日圖表。全球民主的新低點]]></title>
-        <id>https://news.ycombinator.com/item?id=30282939</id>
-        <link href="https://news.ycombinator.com/item?id=30282939"/>
-        <updated>2022-02-10T06:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Daily chart: A new low for global democracy]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
-            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
         </author>
     </entry>
 </feed>
