@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T18:16:21.904Z</updated>
+    <updated>2022-02-22T18:41:27.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Bpftrace檢測Monero礦工]]></title>
+        <id>https://news.ycombinator.com/item?id=30431098</id>
+        <link href="https://news.ycombinator.com/item?id=30431098"/>
+        <updated>2022-02-22T17:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Detecting Monero Miners with Bpftrace]]></summary>
+        <author>
+            <name>philkuz</name>
+            <uri>https://news.ycombinator.com/user?id=philkuz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國國稅局。現在可以選擇自拍，生物識別數據將被刪除]]></title>
+        <id>https://news.ycombinator.com/item?id=30431033</id>
+        <link href="https://news.ycombinator.com/item?id=30431033"/>
+        <updated>2022-02-22T17:54:18.000Z</updated>
+        <summary type="html"><![CDATA[IRS: Selfies Now Optional, Biometric Data to Be Deleted]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國稅局將採用Login.gov作為用戶認證工具]]></title>
         <id>https://news.ycombinator.com/item?id=30430851</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>xyzwave</name>
             <uri>https://news.ycombinator.com/user?id=xyzwave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS宣佈AWS CloudFormation Hooks的普遍可用性]]></title>
-        <id>https://news.ycombinator.com/item?id=30309379</id>
-        <link href="https://news.ycombinator.com/item?id=30309379"/>
-        <updated>2022-02-12T02:32:19.000Z</updated>
-        <summary type="html"><![CDATA[AWS Announces the General Availability of AWS CloudFormation Hooks]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DoltLab v0.2.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30309498</id>
-        <link href="https://news.ycombinator.com/item?id=30309498"/>
-        <updated>2022-02-12T02:54:27.000Z</updated>
-        <summary type="html"><![CDATA[DoltLab v0.2.0]]></summary>
-        <author>
-            <name>mjangle1985</name>
-            <uri>https://news.ycombinator.com/user?id=mjangle1985</uri>
         </author>
     </entry>
 </feed>

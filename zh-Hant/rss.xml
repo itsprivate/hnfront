@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 22 Feb 2022 18:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 18:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Bpftrace檢測Monero礦工]]></title>
+            <link>https://news.ycombinator.com/item?id=30431098</link>
+            <guid>https://news.ycombinator.com/item?id=30431098</guid>
+            <pubDate>Tue, 22 Feb 2022 17:59:30 GMT</pubDate>
+            <description><![CDATA[Detecting Monero Miners with Bpftrace]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美國國稅局。現在可以選擇自拍，生物識別數據將被刪除]]></title>
+            <link>https://news.ycombinator.com/item?id=30431033</link>
+            <guid>https://news.ycombinator.com/item?id=30431033</guid>
+            <pubDate>Tue, 22 Feb 2022 17:54:18 GMT</pubDate>
+            <description><![CDATA[IRS: Selfies Now Optional, Biometric Data to Be Deleted]]></description>
+        </item>
         <item>
             <title><![CDATA[國稅局將採用Login.gov作為用戶認證工具]]></title>
             <link>https://news.ycombinator.com/item?id=30430851</link>
@@ -6999,20 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30309981</guid>
             <pubDate>Sat, 12 Feb 2022 04:36:54 GMT</pubDate>
             <description><![CDATA[Marijuana Accelerates Growth of HPV-Related Head and Neck Cancer (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AWS宣佈AWS CloudFormation Hooks的普遍可用性]]></title>
-            <link>https://news.ycombinator.com/item?id=30309379</link>
-            <guid>https://news.ycombinator.com/item?id=30309379</guid>
-            <pubDate>Sat, 12 Feb 2022 02:32:19 GMT</pubDate>
-            <description><![CDATA[AWS Announces the General Availability of AWS CloudFormation Hooks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DoltLab v0.2.0]]></title>
-            <link>https://news.ycombinator.com/item?id=30309498</link>
-            <guid>https://news.ycombinator.com/item?id=30309498</guid>
-            <pubDate>Sat, 12 Feb 2022 02:54:27 GMT</pubDate>
-            <description><![CDATA[DoltLab v0.2.0]]></description>
         </item>
     </channel>
 </rss>
