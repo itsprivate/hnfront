@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T09:41:28.760Z</updated>
+    <updated>2022-02-22T10:15:25.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你怎么能相信一个磁盘能写入数据？]]></title>
+        <id>https://news.ycombinator.com/item?id=30384585</id>
+        <link href="https://news.ycombinator.com/item?id=30384585"/>
+        <updated>2022-02-18T11:52:30.000Z</updated>
+        <summary type="html"><![CDATA[How can you trust a disk to write data?]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[喜鹊通过互相帮助移除追踪装置而骗过了科学家]]></title>
         <id>https://news.ycombinator.com/item?id=30425643</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>pedrodelfino</name>
             <uri>https://news.ycombinator.com/user?id=pedrodelfino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因特里奥的心态]]></title>
-        <id>https://news.ycombinator.com/item?id=30302607</id>
-        <link href="https://news.ycombinator.com/item?id=30302607"/>
-        <updated>2022-02-11T15:35:57.000Z</updated>
-        <summary type="html"><![CDATA[The Factorio Mindset]]></summary>
-        <author>
-            <name>Ariarule</name>
-            <uri>https://news.ycombinator.com/user?id=Ariarule</uri>
         </author>
     </entry>
 </feed>
