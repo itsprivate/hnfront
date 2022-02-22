@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T12:22:02.427Z</updated>
+    <updated>2022-02-22T13:20:20.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德國拔掉北溪2號管道的插頭]]></title>
+        <id>https://news.ycombinator.com/item?id=30426934</id>
+        <link href="https://news.ycombinator.com/item?id=30426934"/>
+        <updated>2022-02-22T12:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Germany pulls plug on Nord Stream 2 pipeline]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[引導器基礎知識]]></title>
+        <id>https://news.ycombinator.com/item?id=30416100</id>
+        <link href="https://news.ycombinator.com/item?id=30416100"/>
+        <updated>2022-02-21T14:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Bootloader Basics]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Centaur實驗室（YC W19）正在招聘一名產品設計師]]></title>
         <id>https://news.ycombinator.com/item?id=30426810</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>randomperson_24</name>
             <uri>https://news.ycombinator.com/user?id=randomperson_24</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVE-2022-0435：Linux內核中的遠程堆棧溢出]]></title>
-        <id>https://news.ycombinator.com/item?id=30304238</id>
-        <link href="https://news.ycombinator.com/item?id=30304238"/>
-        <updated>2022-02-11T17:31:17.000Z</updated>
-        <summary type="html"><![CDATA[CVE-2022-0435: A Remote Stack Overflow in the Linux Kernel]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模擬。一個簡單的生產力系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30303211</id>
-        <link href="https://news.ycombinator.com/item?id=30303211"/>
-        <updated>2022-02-11T16:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Analog: A simple productivity system]]></summary>
-        <author>
-            <name>kkoncevicius</name>
-            <uri>https://news.ycombinator.com/user?id=kkoncevicius</uri>
         </author>
     </entry>
 </feed>
