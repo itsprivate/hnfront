@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T02:23:18.318Z</updated>
+    <updated>2022-02-22T02:50:46.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[获得更好的睡眠 - 轶事和睡眠技术]]></title>
+        <id>https://news.ycombinator.com/item?id=30410310</id>
+        <link href="https://news.ycombinator.com/item?id=30410310"/>
+        <updated>2022-02-20T23:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Get better sleep – Anecdata and sleep tech]]></summary>
+        <author>
+            <name>abalaji</name>
+            <uri>https://news.ycombinator.com/user?id=abalaji</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可映射--原始文本到API只需30分钟]]></title>
         <id>https://news.ycombinator.com/item?id=30423065</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>amasad</name>
             <uri>https://news.ycombinator.com/user?id=amasad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Netlify迁移到Cloudflare工人网站以获得2倍的性能（2020）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30299786</id>
-        <link href="https://news.ycombinator.com/item?id=30299786"/>
-        <updated>2022-02-11T10:41:25.000Z</updated>
-        <summary type="html"><![CDATA[Migrating from Netlify to Cloudflare Workers Sites for 2x Performance (2020)]]></summary>
-        <author>
-            <name>indigodaddy</name>
-            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
         </author>
     </entry>
 </feed>

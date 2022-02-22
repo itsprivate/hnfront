@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[获得更好的睡眠 - 轶事和睡眠技术]]></title>
+            <link>https://news.ycombinator.com/item?id=30410310</link>
+            <guid>https://news.ycombinator.com/item?id=30410310</guid>
+            <pubDate>Sun, 20 Feb 2022 23:35:20 GMT</pubDate>
+            <description><![CDATA[Get better sleep – Anecdata and sleep tech]]></description>
+        </item>
         <item>
             <title><![CDATA[可映射--原始文本到API只需30分钟]]></title>
             <link>https://news.ycombinator.com/item?id=30423065</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30300376</guid>
             <pubDate>Fri, 11 Feb 2022 12:00:58 GMT</pubDate>
             <description><![CDATA[Replit (YC W18) Is Hiring Engineers to Make Delightful Programming Environments]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从Netlify迁移到Cloudflare工人网站以获得2倍的性能（2020）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30299786</link>
-            <guid>https://news.ycombinator.com/item?id=30299786</guid>
-            <pubDate>Fri, 11 Feb 2022 10:41:25 GMT</pubDate>
-            <description><![CDATA[Migrating from Netlify to Cloudflare Workers Sites for 2x Performance (2020)]]></description>
         </item>
     </channel>
 </rss>
