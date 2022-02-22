@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T15:20:39.621Z</updated>
+    <updated>2022-02-22T15:49:48.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Constructor - 小型团队的简单问题跟踪，灵感来自Trello]]></title>
+        <id>https://news.ycombinator.com/item?id=30428996</id>
+        <link href="https://news.ycombinator.com/item?id=30428996"/>
+        <updated>2022-02-22T15:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Constructor – simple issue tracking for small teams, inspired by Trello]]></summary>
+        <author>
+            <name>t3e</name>
+            <uri>https://news.ycombinator.com/user?id=t3e</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部分用户的Slack出现故障]]></title>
+        <id>https://news.ycombinator.com/item?id=30428788</id>
+        <link href="https://news.ycombinator.com/item?id=30428788"/>
+        <updated>2022-02-22T15:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Slack is down for some users]]></summary>
+        <author>
+            <name>mrpadie</name>
+            <uri>https://news.ycombinator.com/user?id=mrpadie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[难道只有我一个人对Twitter的长期使用感到困惑吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30428652</id>
+        <link href="https://news.ycombinator.com/item?id=30428652"/>
+        <updated>2022-02-22T14:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Am I the only one baffled by the long term usage of Twitter?]]></summary>
+        <author>
+            <name>recvonline</name>
+            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[窗口管理的方法论]]></title>
+        <id>https://news.ycombinator.com/item?id=30427914</id>
+        <link href="https://news.ycombinator.com/item?id=30427914"/>
+        <updated>2022-02-22T13:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Methodology of Window Management]]></summary>
+        <author>
+            <name>gnufx</name>
+            <uri>https://news.ycombinator.com/user?id=gnufx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个终结职业生涯的错误]]></title>
         <id>https://news.ycombinator.com/item?id=30428602</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫步在 "零点计划 "的衡量标准中]]></title>
-        <id>https://news.ycombinator.com/item?id=30289206</id>
-        <link href="https://news.ycombinator.com/item?id=30289206"/>
-        <updated>2022-02-10T17:07:42.000Z</updated>
-        <summary type="html"><![CDATA[A walk through Project Zero metrics]]></summary>
-        <author>
-            <name>arkadiyt</name>
-            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警方与飞马公司合作入侵内塔尼亚胡审判的关键证人引爆丑闻]]></title>
-        <id>https://news.ycombinator.com/item?id=30306926</id>
-        <link href="https://news.ycombinator.com/item?id=30306926"/>
-        <updated>2022-02-11T20:59:39.000Z</updated>
-        <summary type="html"><![CDATA[Police hacking with Pegasus of key Netanyahu trial witness explodes into scandal]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩尔不够用：计算的4个新规律]]></title>
-        <id>https://news.ycombinator.com/item?id=30284714</id>
-        <link href="https://news.ycombinator.com/item?id=30284714"/>
-        <updated>2022-02-10T11:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Moore’s Not Enough: 4 New Laws of Computing]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevCycle（YC W14）正在帮助团队粉碎他们的DORA指标--来加入吧]]></title>
-        <id>https://news.ycombinator.com/item?id=30306932</id>
-        <link href="https://news.ycombinator.com/item?id=30306932"/>
-        <updated>2022-02-11T21:00:06.000Z</updated>
-        <summary type="html"><![CDATA[DevCycle (YC W14) is helping teams crush their DORA metrics – come join]]></summary>
-        <author>
-            <name>aglazer</name>
-            <uri>https://news.ycombinator.com/user?id=aglazer</uri>
         </author>
     </entry>
 </feed>
