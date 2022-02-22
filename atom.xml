@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T23:40:43.633Z</updated>
+    <updated>2022-02-22T23:52:03.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[群众，而不是阶级 - 欧文-柏林]]></title>
+        <id>https://news.ycombinator.com/item?id=30419914</id>
+        <link href="https://news.ycombinator.com/item?id=30419914"/>
+        <updated>2022-02-21T20:03:35.000Z</updated>
+        <summary type="html"><![CDATA[The Masses, Not the Classes – Irving Berlin]]></summary>
+        <author>
+            <name>portobello</name>
+            <uri>https://news.ycombinator.com/user?id=portobello</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在我们的无现金社会，我们需要认真对待数字监狱]]></title>
         <id>https://news.ycombinator.com/item?id=30435215</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sirodoht</name>
             <uri>https://news.ycombinator.com/user?id=sirodoht</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[针对MS Office 365用户的MFA疲劳攻击活动]]></title>
-        <id>https://news.ycombinator.com/item?id=30363537</id>
-        <link href="https://news.ycombinator.com/item?id=30363537"/>
-        <updated>2022-02-16T18:17:07.000Z</updated>
-        <summary type="html"><![CDATA[MFA Fatigue Attack Campaign Targeting MS Office 365 Users]]></summary>
-        <author>
-            <name>WaitWaitWha</name>
-            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
         </author>
     </entry>
 </feed>
