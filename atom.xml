@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T08:16:16.712Z</updated>
+    <updated>2022-02-22T08:36:20.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Markdown中对PDF进行注释]]></title>
+        <id>https://news.ycombinator.com/item?id=30424873</id>
+        <link href="https://news.ycombinator.com/item?id=30424873"/>
+        <updated>2022-02-22T07:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Annotate PDFs in Markdown]]></summary>
+        <author>
+            <name>bx376</name>
+            <uri>https://news.ycombinator.com/user?id=bx376</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宅男的滑雪板。终极指南 (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=30408158</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>apollinaire</name>
             <uri>https://news.ycombinator.com/user?id=apollinaire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有人教我数学？]]></title>
-        <id>https://news.ycombinator.com/item?id=30302079</id>
-        <link href="https://news.ycombinator.com/item?id=30302079"/>
-        <updated>2022-02-11T14:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Why won’t anyone teach me math?]]></summary>
-        <author>
-            <name>mathgenius</name>
-            <uri>https://news.ycombinator.com/user?id=mathgenius</uri>
         </author>
     </entry>
 </feed>
