@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T06:37:41.063Z</updated>
+    <updated>2022-02-22T06:55:01.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SQL中的时间序列预测]]></title>
+        <id>https://news.ycombinator.com/item?id=30424575</id>
+        <link href="https://news.ycombinator.com/item?id=30424575"/>
+        <updated>2022-02-22T06:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Time Series Forecasting in SQL]]></summary>
+        <author>
+            <name>aicoding</name>
+            <uri>https://news.ycombinator.com/user?id=aicoding</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOSAiC北极探险队]]></title>
+        <id>https://news.ycombinator.com/item?id=30405219</id>
+        <link href="https://news.ycombinator.com/item?id=30405219"/>
+        <updated>2022-02-20T12:37:40.000Z</updated>
+        <summary type="html"><![CDATA[MOSAiC Arctic Expedition]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现场直播Macintosh Plus]]></title>
         <id>https://news.ycombinator.com/item?id=30424387</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>bobcostas55</name>
             <uri>https://news.ycombinator.com/user?id=bobcostas55</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Apache Kafka构建实时ETL管道]]></title>
-        <id>https://news.ycombinator.com/item?id=30301375</id>
-        <link href="https://news.ycombinator.com/item?id=30301375"/>
-        <updated>2022-02-11T13:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Building real-time ETL pipelines with Apache Kafka]]></summary>
-        <author>
-            <name>flippingbits</name>
-            <uri>https://news.ycombinator.com/user?id=flippingbits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个优化的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30301324</id>
-        <link href="https://news.ycombinator.com/item?id=30301324"/>
-        <updated>2022-02-11T13:40:42.000Z</updated>
-        <summary type="html"><![CDATA[An Optimization Story]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
         </author>
     </entry>
 </feed>
