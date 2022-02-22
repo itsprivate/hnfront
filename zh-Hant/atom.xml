@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T07:12:16.988Z</updated>
+    <updated>2022-02-22T08:16:16.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宅男的滑雪板。終極指南 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30408158</id>
+        <link href="https://news.ycombinator.com/item?id=30408158"/>
+        <updated>2022-02-20T18:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Snowboarding for Geeks: An Ultimate Guide (2018)]]></summary>
+        <author>
+            <name>wallflower</name>
+            <uri>https://news.ycombinator.com/user?id=wallflower</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deepnote (YC S19)正在招聘一名首席工程師，以建立一個更好的筆記本（歐洲）。]]></title>
         <id>https://news.ycombinator.com/item?id=30424797</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>mathgenius</name>
             <uri>https://news.ycombinator.com/user?id=mathgenius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我差點被黑客新聞禁言]]></title>
-        <id>https://news.ycombinator.com/item?id=30294144</id>
-        <link href="https://news.ycombinator.com/item?id=30294144"/>
-        <updated>2022-02-10T23:12:38.000Z</updated>
-        <summary type="html"><![CDATA[I almost got banned from Hacker News]]></summary>
-        <author>
-            <name>geerlingguy</name>
-            <uri>https://news.ycombinator.com/user?id=geerlingguy</uri>
         </author>
     </entry>
 </feed>
