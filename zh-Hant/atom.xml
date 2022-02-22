@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-21T23:52:30.379Z</updated>
+    <updated>2022-02-22T00:36:22.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Das.Test - 一個用F#語言編寫的用於F#的單元測試庫。]]></title>
+        <id>https://news.ycombinator.com/item?id=30422317</id>
+        <link href="https://news.ycombinator.com/item?id=30422317"/>
+        <updated>2022-02-21T23:49:09.000Z</updated>
+        <summary type="html"><![CDATA[Das.Test – An opinionated unit testing library written in F# for F#]]></summary>
+        <author>
+            <name>Fervicus</name>
+            <uri>https://news.ycombinator.com/user?id=Fervicus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDBWave - 一個基於模擬後波形的RISC-V GDB調試服務器]]></title>
+        <id>https://news.ycombinator.com/item?id=30422287</id>
+        <link href="https://news.ycombinator.com/item?id=30422287"/>
+        <updated>2022-02-21T23:46:22.000Z</updated>
+        <summary type="html"><![CDATA[GDBWave – A Post-Simulation Waveform-Based RISC-V GDB Debugging Server]]></summary>
+        <author>
+            <name>X-Cubed</name>
+            <uri>https://news.ycombinator.com/user?id=X-Cubed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1695年以來釘子的價格。觀察經濟變化的一個窗口]]></title>
+        <id>https://news.ycombinator.com/item?id=30421682</id>
+        <link href="https://news.ycombinator.com/item?id=30421682"/>
+        <updated>2022-02-21T22:41:03.000Z</updated>
+        <summary type="html"><![CDATA[The Price of Nails Since 1695: A Window into Economic Change]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wallabag。用於保存網頁和文章的可自我託管的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30421036</id>
+        <link href="https://news.ycombinator.com/item?id=30421036"/>
+        <updated>2022-02-21T21:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Wallabag: Self-hostable application for saving web pages and articles]]></summary>
+        <author>
+            <name>xz18r</name>
+            <uri>https://news.ycombinator.com/user?id=xz18r</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工業增強現實技術--誰在使用它？]]></title>
         <id>https://news.ycombinator.com/item?id=30421751</id>
@@ -10969,50 +11013,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60FPS變成了Slint]]></title>
-        <id>https://news.ycombinator.com/item?id=30298534</id>
-        <link href="https://news.ycombinator.com/item?id=30298534"/>
-        <updated>2022-02-11T08:11:14.000Z</updated>
-        <summary type="html"><![CDATA[SixtyFPS Becomes Slint]]></summary>
-        <author>
-            <name>tronical</name>
-            <uri>https://news.ycombinator.com/user?id=tronical</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[類似地球的行星被發現圍繞太陽最近的恆星運行]]></title>
-        <id>https://news.ycombinator.com/item?id=30298474</id>
-        <link href="https://news.ycombinator.com/item?id=30298474"/>
-        <updated>2022-02-11T08:04:57.000Z</updated>
-        <summary type="html"><![CDATA[Earth-like planet spotted orbiting Sun’s closest star]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3的算術題答案]]></title>
-        <id>https://news.ycombinator.com/item?id=30299360</id>
-        <link href="https://news.ycombinator.com/item?id=30299360"/>
-        <updated>2022-02-11T09:45:56.000Z</updated>
-        <summary type="html"><![CDATA[GPT-3's answers to arithmetic questions]]></summary>
-        <author>
-            <name>nandhinianand</name>
-            <uri>https://news.ycombinator.com/user?id=nandhinianand</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNES開發第一部分。入門]]></title>
-        <id>https://news.ycombinator.com/item?id=30299060</id>
-        <link href="https://news.ycombinator.com/item?id=30299060"/>
-        <updated>2022-02-11T09:06:31.000Z</updated>
-        <summary type="html"><![CDATA[SNES Development Part 1: Getting Started]]></summary>
-        <author>
-            <name>muterad_murilax</name>
-            <uri>https://news.ycombinator.com/user?id=muterad_murilax</uri>
         </author>
     </entry>
 </feed>
