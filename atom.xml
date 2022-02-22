@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T09:14:55.134Z</updated>
+    <updated>2022-02-22T09:31:56.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们能不能禁止Twitter的链接，拜托？]]></title>
+        <id>https://news.ycombinator.com/item?id=30425409</id>
+        <link href="https://news.ycombinator.com/item?id=30425409"/>
+        <updated>2022-02-22T08:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can we ban Twitter links, please?]]></summary>
+        <author>
+            <name>whyoh</name>
+            <uri>https://news.ycombinator.com/user?id=whyoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在土耳其东南部的caesarea germanicia发现的描绘盛宴的罗马镶嵌画]]></title>
         <id>https://news.ycombinator.com/item?id=30403118</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个无限大的餐巾纸 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30302291</id>
-        <link href="https://news.ycombinator.com/item?id=30302291"/>
-        <updated>2022-02-11T15:09:50.000Z</updated>
-        <summary type="html"><![CDATA[An Infinitely Large Napkin [pdf]]]></summary>
-        <author>
-            <name>benstrumental</name>
-            <uri>https://news.ycombinator.com/user?id=benstrumental</uri>
         </author>
     </entry>
 </feed>
