@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T20:18:16.120Z</updated>
+    <updated>2022-02-22T20:35:15.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个工具来创建最好的产品教程]]></title>
+        <id>https://news.ycombinator.com/item?id=30433145</id>
+        <link href="https://news.ycombinator.com/item?id=30433145"/>
+        <updated>2022-02-22T20:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a tool to create the best product tutorials]]></summary>
+        <author>
+            <name>Outofthebot</name>
+            <uri>https://news.ycombinator.com/user?id=Outofthebot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[启动HN: Hyperbeam API (YC W22) - 任何网站的多人嵌入]]></title>
+        <id>https://news.ycombinator.com/item?id=30433104</id>
+        <link href="https://news.ycombinator.com/item?id=30433104"/>
+        <updated>2022-02-22T20:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Hyperbeam API (YC W22) – Multiplayer embeds of any website]]></summary>
+        <author>
+            <name>declan_g</name>
+            <uri>https://news.ycombinator.com/user?id=declan_g</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器学习对软件工程师来说还是太难了]]></title>
+        <id>https://news.ycombinator.com/item?id=30432987</id>
+        <link href="https://news.ycombinator.com/item?id=30432987"/>
+        <updated>2022-02-22T20:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Machine Learning Is Still Too Hard for Software Engineers]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[细菌将碳废料循环利用为有价值的化学品]]></title>
         <id>https://news.ycombinator.com/item?id=30432512</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>colinprince</name>
             <uri>https://news.ycombinator.com/user?id=colinprince</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带SIMD的前缀和]]></title>
-        <id>https://news.ycombinator.com/item?id=30311112</id>
-        <link href="https://news.ycombinator.com/item?id=30311112"/>
-        <updated>2022-02-12T08:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Prefix Sum with SIMD]]></summary>
-        <author>
-            <name>gbrown_</name>
-            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[制作预算Pascal编译器到WebAssembly]]></title>
-        <id>https://news.ycombinator.com/item?id=30298818</id>
-        <link href="https://news.ycombinator.com/item?id=30298818"/>
-        <updated>2022-02-11T08:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Making a Budget Pascal Compiler to WebAssembly]]></summary>
-        <author>
-            <name>aldidoanta</name>
-            <uri>https://news.ycombinator.com/user?id=aldidoanta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Pinebook Pro上使用OpenBSD的完整白痴指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30310699</id>
-        <link href="https://news.ycombinator.com/item?id=30310699"/>
-        <updated>2022-02-12T07:27:59.000Z</updated>
-        <summary type="html"><![CDATA[The complete idiot's guide to OpenBSD on the Pinebook Pro]]></summary>
-        <author>
-            <name>senzilla</name>
-            <uri>https://news.ycombinator.com/user?id=senzilla</uri>
         </author>
     </entry>
 </feed>
