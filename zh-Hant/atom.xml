@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T21:37:49.108Z</updated>
+    <updated>2022-02-22T22:32:15.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AutoRIFT：一個用於尋找兩幅圖像之間像素位移的Python模塊]]></title>
+        <id>https://news.ycombinator.com/item?id=30434375</id>
+        <link href="https://news.ycombinator.com/item?id=30434375"/>
+        <updated>2022-02-22T21:49:39.000Z</updated>
+        <summary type="html"><![CDATA[AutoRIFT: A Python module for finding the pixel displacement between two images]]></summary>
+        <author>
+            <name>wh313</name>
+            <uri>https://news.ycombinator.com/user?id=wh313</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬拉維發現五年來非洲首例野生小兒麻痺症病例]]></title>
+        <id>https://news.ycombinator.com/item?id=30434115</id>
+        <link href="https://news.ycombinator.com/item?id=30434115"/>
+        <updated>2022-02-22T21:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Malawi finds Africa’s first wild polio case in five years]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不缺夢想。MSSR as Mem (1967-1968)]]></title>
         <id>https://news.ycombinator.com/item?id=30414664</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>austenallred</name>
             <uri>https://news.ycombinator.com/user?id=austenallred</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Firefox分析器的Rust API]]></title>
-        <id>https://news.ycombinator.com/item?id=30299508</id>
-        <link href="https://news.ycombinator.com/item?id=30299508"/>
-        <updated>2022-02-11T10:05:55.000Z</updated>
-        <summary type="html"><![CDATA[Rust API for the Firefox Profiler]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個圖像中的Git]]></title>
-        <id>https://news.ycombinator.com/item?id=30311713</id>
-        <link href="https://news.ycombinator.com/item?id=30311713"/>
-        <updated>2022-02-12T10:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Git in one image]]></summary>
-        <author>
-            <name>guptarohit</name>
-            <uri>https://news.ycombinator.com/user?id=guptarohit</uri>
         </author>
     </entry>
 </feed>
