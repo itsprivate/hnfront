@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T22:32:15.969Z</updated>
+    <updated>2022-02-22T22:40:41.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[向大理石拱門丘學習]]></title>
+        <id>https://news.ycombinator.com/item?id=30426841</id>
+        <link href="https://news.ycombinator.com/item?id=30426841"/>
+        <updated>2022-02-22T12:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Learning from Marble Arch Mound]]></summary>
+        <author>
+            <name>nvarsj</name>
+            <uri>https://news.ycombinator.com/user?id=nvarsj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AutoRIFT：一個用於尋找兩幅圖像之間像素位移的Python模塊]]></title>
         <id>https://news.ycombinator.com/item?id=30434375</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>kencausey</name>
             <uri>https://news.ycombinator.com/user?id=kencausey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布魯姆技術學院（YC S17）正在招聘一名高級Salesforce工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30312131</id>
-        <link href="https://news.ycombinator.com/item?id=30312131"/>
-        <updated>2022-02-12T12:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Bloom Institute of Technology (YC S17) Is Hiring a Senior Salesforce Engineer]]></summary>
-        <author>
-            <name>austenallred</name>
-            <uri>https://news.ycombinator.com/user?id=austenallred</uri>
         </author>
     </entry>
 </feed>
