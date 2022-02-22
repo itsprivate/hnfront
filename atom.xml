@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T17:36:04.559Z</updated>
+    <updated>2022-02-22T17:44:49.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[运行了六年的私人邮件服务器，轻松自如]]></title>
+        <id>https://news.ycombinator.com/item?id=30428882</id>
+        <link href="https://news.ycombinator.com/item?id=30428882"/>
+        <updated>2022-02-22T15:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Running a private mail server for six years, easy peasy]]></summary>
+        <author>
+            <name>lazyweb</name>
+            <uri>https://news.ycombinator.com/user?id=lazyweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加拿大的房地产市场是一个巨大的金字塔计划]]></title>
         <id>https://news.ycombinator.com/item?id=30428877</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>valprop1</name>
             <uri>https://news.ycombinator.com/user?id=valprop1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nimble (YC S17) 招聘产品设计师（PT或FT，远程）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30308933</id>
-        <link href="https://news.ycombinator.com/item?id=30308933"/>
-        <updated>2022-02-12T01:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Nimble (YC S17) Seeks Product Designer (PT or FT, Remote)]]></summary>
-        <author>
-            <name>Nimble2017</name>
-            <uri>https://news.ycombinator.com/user?id=Nimble2017</uri>
         </author>
     </entry>
 </feed>
