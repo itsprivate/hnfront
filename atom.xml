@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T04:39:50.063Z</updated>
+    <updated>2022-02-22T04:57:03.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尝试Clojure - 浏览器中的互动教程]]></title>
+        <id>https://news.ycombinator.com/item?id=30423856</id>
+        <link href="https://news.ycombinator.com/item?id=30423856"/>
+        <updated>2022-02-22T04:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Try Clojure – An interactive tutorial in the browser]]></summary>
+        <author>
+            <name>elias94</name>
+            <uri>https://news.ycombinator.com/user?id=elias94</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为网络项目提供简单的无密码认证]]></title>
+        <id>https://news.ycombinator.com/item?id=30410001</id>
+        <link href="https://news.ycombinator.com/item?id=30410001"/>
+        <updated>2022-02-20T22:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Simple passwordless authentication for web projects]]></summary>
+        <author>
+            <name>matthewfcarlson</name>
+            <uri>https://news.ycombinator.com/user?id=matthewfcarlson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["我很高兴气候不是一个危机......"]]></title>
         <id>https://news.ycombinator.com/item?id=30423868</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从2023年开始，谷歌正计划逐步关闭Google Currents。]]></title>
-        <id>https://news.ycombinator.com/item?id=30301211</id>
-        <link href="https://news.ycombinator.com/item?id=30301211"/>
-        <updated>2022-02-11T13:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Starting in 2023 Google is planning to wind down Google Currents]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Csv.vim。一个用于CSV文件的文件类型插件]]></title>
-        <id>https://news.ycombinator.com/item?id=30301058</id>
-        <link href="https://news.ycombinator.com/item?id=30301058"/>
-        <updated>2022-02-11T13:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Csv.vim: A Filetype plugin for CSV files]]></summary>
-        <author>
-            <name>s1291</name>
-            <uri>https://news.ycombinator.com/user?id=s1291</uri>
         </author>
     </entry>
 </feed>
