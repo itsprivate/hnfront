@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T04:57:03.241Z</updated>
+    <updated>2022-02-22T05:51:47.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[绩优者有一种超能力：幸福感]]></title>
+        <id>https://news.ycombinator.com/item?id=30424181</id>
+        <link href="https://news.ycombinator.com/item?id=30424181"/>
+        <updated>2022-02-22T05:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Top Performers Have a Superpower: Happiness]]></summary>
+        <author>
+            <name>pella</name>
+            <uri>https://news.ycombinator.com/user?id=pella</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尝试Clojure - 浏览器中的互动教程]]></title>
         <id>https://news.ycombinator.com/item?id=30423856</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>openknot</name>
             <uri>https://news.ycombinator.com/user?id=openknot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在PinePhone Quectel EG25-G调制解调器上通过AT命令以root身份执行代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30301240</id>
-        <link href="https://news.ycombinator.com/item?id=30301240"/>
-        <updated>2022-02-11T13:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Code execution as root via AT commands on the PinePhone Quectel EG25-G modem]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
