@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T19:39:43.369Z</updated>
+    <updated>2022-02-22T19:53:52.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个新的网络优化库]]></title>
+        <id>https://news.ycombinator.com/item?id=30432326</id>
+        <link href="https://news.ycombinator.com/item?id=30432326"/>
+        <updated>2022-02-22T19:22:01.000Z</updated>
+        <summary type="html"><![CDATA[A New Library for Network Optimization]]></summary>
+        <author>
+            <name>chmaynard</name>
+            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无透镜成像的最新进展]]></title>
         <id>https://news.ycombinator.com/item?id=30432059</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>achow</name>
             <uri>https://news.ycombinator.com/user?id=achow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个可以一口气下到海里的女人]]></title>
-        <id>https://news.ycombinator.com/item?id=30299785</id>
-        <link href="https://news.ycombinator.com/item?id=30299785"/>
-        <updated>2022-02-11T10:41:24.000Z</updated>
-        <summary type="html"><![CDATA[A woman who can descend into the sea on one breath]]></summary>
-        <author>
-            <name>arkj</name>
-            <uri>https://news.ycombinator.com/user?id=arkj</uri>
         </author>
     </entry>
 </feed>
