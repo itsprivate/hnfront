@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T10:37:22.080Z</updated>
+    <updated>2022-02-23T11:13:11.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[擁抱冒名頂替症候群]]></title>
+        <id>https://news.ycombinator.com/item?id=30426840</id>
+        <link href="https://news.ycombinator.com/item?id=30426840"/>
+        <updated>2022-02-22T12:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Embracing Imposter Syndrome]]></summary>
+        <author>
+            <name>iamjfu</name>
+            <uri>https://news.ycombinator.com/user?id=iamjfu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讚揚寫作 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30439482</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ericson2314</name>
             <uri>https://news.ycombinator.com/user?id=Ericson2314</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正確的事情卻有錯誤的理由。FLOSS並不意味著安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30350504</id>
-        <link href="https://news.ycombinator.com/item?id=30350504"/>
-        <updated>2022-02-15T18:22:48.000Z</updated>
-        <summary type="html"><![CDATA[The right thing for the wrong reasons: FLOSS doesn't imply security]]></summary>
-        <author>
-            <name>Seirdy</name>
-            <uri>https://news.ycombinator.com/user?id=Seirdy</uri>
         </author>
     </entry>
 </feed>
