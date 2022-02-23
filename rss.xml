@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 19:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 19:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RoarVM - Manycore SqueakVM]]></title>
+            <link>https://news.ycombinator.com/item?id=30445138</link>
+            <guid>https://news.ycombinator.com/item?id=30445138</guid>
+            <pubDate>Wed, 23 Feb 2022 19:22:40 GMT</pubDate>
+            <description><![CDATA[RoarVM – The Manycore SqueakVM]]></description>
+        </item>
         <item>
             <title><![CDATA[昂热（Ngrok）替代产品]]></title>
             <link>https://news.ycombinator.com/item?id=30443747</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30374905</guid>
             <pubDate>Thu, 17 Feb 2022 16:27:51 GMT</pubDate>
             <description><![CDATA[Filters to block and remove copycat-websites from DuckDuckGo, Google and other]]></description>
-        </item>
-        <item>
-            <title><![CDATA[了解AIX Power SMT系统的CPU]]></title>
-            <link>https://news.ycombinator.com/item?id=30354228</link>
-            <guid>https://news.ycombinator.com/item?id=30354228</guid>
-            <pubDate>Tue, 15 Feb 2022 23:14:02 GMT</pubDate>
-            <description><![CDATA[Understanding CPU on AIX Power SMT Systems]]></description>
         </item>
     </channel>
 </rss>
