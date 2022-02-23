@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T19:40:16.151Z</updated>
+    <updated>2022-02-23T19:53:23.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[電子書如何毒害了電子墨水]]></title>
+        <id>https://news.ycombinator.com/item?id=30445156</id>
+        <link href="https://news.ycombinator.com/item?id=30445156"/>
+        <updated>2022-02-23T19:24:27.000Z</updated>
+        <summary type="html"><![CDATA[How Ebooks Have Poisoned Electronic Ink]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果警察在攔截時試圖掃描你的臉，該怎麼辦？]]></title>
+        <id>https://news.ycombinator.com/item?id=30444212</id>
+        <link href="https://news.ycombinator.com/item?id=30444212"/>
+        <updated>2022-02-23T18:07:06.000Z</updated>
+        <summary type="html"><![CDATA[What to Do If a Cop Tries to Scan Your Face During a Traffic Stop]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RoarVM - Manycore SqueakVM]]></title>
         <id>https://news.ycombinator.com/item?id=30445138</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靜態B型樹。一種用於快速二進制搜索的數據結構]]></title>
-        <id>https://news.ycombinator.com/item?id=30376140</id>
-        <link href="https://news.ycombinator.com/item?id=30376140"/>
-        <updated>2022-02-17T17:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Static B-Trees: A data structure for faster binary search]]></summary>
-        <author>
-            <name>sereja</name>
-            <uri>https://news.ycombinator.com/user?id=sereja</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阻止和刪除來自DuckDuckGo、Google和其他山寨網站的過濾器。]]></title>
-        <id>https://news.ycombinator.com/item?id=30374905</id>
-        <link href="https://news.ycombinator.com/item?id=30374905"/>
-        <updated>2022-02-17T16:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Filters to block and remove copycat-websites from DuckDuckGo, Google and other]]></summary>
-        <author>
-            <name>gleb_the_human</name>
-            <uri>https://news.ycombinator.com/user?id=gleb_the_human</uri>
         </author>
     </entry>
 </feed>

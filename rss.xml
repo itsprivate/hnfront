@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 19:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 19:53:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[电子书如何毒害了电子墨水]]></title>
+            <link>https://news.ycombinator.com/item?id=30445156</link>
+            <guid>https://news.ycombinator.com/item?id=30445156</guid>
+            <pubDate>Wed, 23 Feb 2022 19:24:27 GMT</pubDate>
+            <description><![CDATA[How Ebooks Have Poisoned Electronic Ink]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果警察在拦截时试图扫描你的脸，该怎么办？]]></title>
+            <link>https://news.ycombinator.com/item?id=30444212</link>
+            <guid>https://news.ycombinator.com/item?id=30444212</guid>
+            <pubDate>Wed, 23 Feb 2022 18:07:06 GMT</pubDate>
+            <description><![CDATA[What to Do If a Cop Tries to Scan Your Face During a Traffic Stop]]></description>
+        </item>
         <item>
             <title><![CDATA[RoarVM - Manycore SqueakVM]]></title>
             <link>https://news.ycombinator.com/item?id=30445138</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30376508</guid>
             <pubDate>Thu, 17 Feb 2022 18:11:13 GMT</pubDate>
             <description><![CDATA[FreeBSD 13 on ThinkPad T460s]]></description>
-        </item>
-        <item>
-            <title><![CDATA[静态B型树。一种用于快速二进制搜索的数据结构]]></title>
-            <link>https://news.ycombinator.com/item?id=30376140</link>
-            <guid>https://news.ycombinator.com/item?id=30376140</guid>
-            <pubDate>Thu, 17 Feb 2022 17:42:37 GMT</pubDate>
-            <description><![CDATA[Static B-Trees: A data structure for faster binary search]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阻止和删除来自DuckDuckGo、Google和其他山寨网站的过滤器。]]></title>
-            <link>https://news.ycombinator.com/item?id=30374905</link>
-            <guid>https://news.ycombinator.com/item?id=30374905</guid>
-            <pubDate>Thu, 17 Feb 2022 16:27:51 GMT</pubDate>
-            <description><![CDATA[Filters to block and remove copycat-websites from DuckDuckGo, Google and other]]></description>
         </item>
     </channel>
 </rss>
