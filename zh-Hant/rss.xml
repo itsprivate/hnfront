@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 22:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 22:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國郵政不顧環保局對電動車的要求，繼續使用汽油動力的郵車]]></title>
+            <link>https://news.ycombinator.com/item?id=30447065</link>
+            <guid>https://news.ycombinator.com/item?id=30447065</guid>
+            <pubDate>Wed, 23 Feb 2022 21:55:09 GMT</pubDate>
+            <description><![CDATA[USPS Forges Ahead with Gas-Powered Mail Trucks Despite EPA's Desire for EVs]]></description>
+        </item>
         <item>
             <title><![CDATA[我設計並建造了一輛電動自行車]]></title>
             <link>https://news.ycombinator.com/item?id=30446960</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30357909</guid>
             <pubDate>Wed, 16 Feb 2022 09:25:45 GMT</pubDate>
             <description><![CDATA[6 months of working at a hypergrowth startup]]></description>
-        </item>
-        <item>
-            <title><![CDATA[寫一個光線跟蹤器需要多少模板代碼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30378900</link>
-            <guid>https://news.ycombinator.com/item?id=30378900</guid>
-            <pubDate>Thu, 17 Feb 2022 21:26:25 GMT</pubDate>
-            <description><![CDATA[How much boilerplate code you need to write a ray-tracer?]]></description>
         </item>
     </channel>
 </rss>
