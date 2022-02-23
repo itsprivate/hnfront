@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T09:37:02.604Z</updated>
+    <updated>2022-02-23T10:14:19.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於Anki的數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30427549</id>
+        <link href="https://news.ycombinator.com/item?id=30427549"/>
+        <updated>2022-02-22T13:18:33.000Z</updated>
+        <summary type="html"><![CDATA[On Anki's Database]]></summary>
+        <author>
+            <name>Theaetetus</name>
+            <uri>https://news.ycombinator.com/user?id=Theaetetus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我改變了我的屋頂，減少了1.5噸的二氧化碳排放量]]></title>
         <id>https://news.ycombinator.com/item?id=30439211</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rukshn</name>
             <uri>https://news.ycombinator.com/user?id=rukshn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獎金]]></title>
-        <id>https://news.ycombinator.com/item?id=30369144</id>
-        <link href="https://news.ycombinator.com/item?id=30369144"/>
-        <updated>2022-02-17T03:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Brrr.money]]></summary>
-        <author>
-            <name>Acrobatic_Road</name>
-            <uri>https://news.ycombinator.com/user?id=Acrobatic_Road</uri>
         </author>
     </entry>
 </feed>
