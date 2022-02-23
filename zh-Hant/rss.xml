@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 18:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 18:57:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Buf CLI，一個用於Protobuf開發的一體化工具，已經達到V1.0版本。]]></title>
+            <link>https://news.ycombinator.com/item?id=30442843</link>
+            <guid>https://news.ycombinator.com/item?id=30442843</guid>
+            <pubDate>Wed, 23 Feb 2022 16:30:46 GMT</pubDate>
+            <description><![CDATA[The Buf CLI, an all-in-one tool for Protobuf development, has reached v1.0]]></description>
+        </item>
         <item>
             <title><![CDATA[首先優化簡單性]]></title>
             <link>https://news.ycombinator.com/item?id=30442446</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30375206</guid>
             <pubDate>Thu, 17 Feb 2022 16:45:35 GMT</pubDate>
             <description><![CDATA[Launch HN: 1Flow (YC W22) – In-product user feedback for web/mobile apps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitBOM是一個簡約的方案，用於構建工具構建一個緊湊的工件樹]]></title>
-            <link>https://news.ycombinator.com/item?id=30374558</link>
-            <guid>https://news.ycombinator.com/item?id=30374558</guid>
-            <pubDate>Thu, 17 Feb 2022 16:03:25 GMT</pubDate>
-            <description><![CDATA[GitBOM is a minimalistic scheme for build tools to build a compact artifact tree]]></description>
         </item>
     </channel>
 </rss>

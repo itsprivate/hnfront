@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T18:41:09.668Z</updated>
+    <updated>2022-02-23T18:57:16.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Buf CLI，一個用於Protobuf開發的一體化工具，已經達到V1.0版本。]]></title>
+        <id>https://news.ycombinator.com/item?id=30442843</id>
+        <link href="https://news.ycombinator.com/item?id=30442843"/>
+        <updated>2022-02-23T16:30:46.000Z</updated>
+        <summary type="html"><![CDATA[The Buf CLI, an all-in-one tool for Protobuf development, has reached v1.0]]></summary>
+        <author>
+            <name>biggestlou</name>
+            <uri>https://news.ycombinator.com/user?id=biggestlou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首先優化簡單性]]></title>
         <id>https://news.ycombinator.com/item?id=30442446</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fengjiabo2400</name>
             <uri>https://news.ycombinator.com/user?id=fengjiabo2400</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitBOM是一個簡約的方案，用於構建工具構建一個緊湊的工件樹]]></title>
-        <id>https://news.ycombinator.com/item?id=30374558</id>
-        <link href="https://news.ycombinator.com/item?id=30374558"/>
-        <updated>2022-02-17T16:03:25.000Z</updated>
-        <summary type="html"><![CDATA[GitBOM is a minimalistic scheme for build tools to build a compact artifact tree]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
