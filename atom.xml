@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T08:13:47.102Z</updated>
+    <updated>2022-02-23T08:38:03.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于布鲁姆的两个西格玛问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30438273</id>
+        <link href="https://news.ycombinator.com/item?id=30438273"/>
+        <updated>2022-02-23T06:21:03.000Z</updated>
+        <summary type="html"><![CDATA[On Bloom's two sigma problem]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[节俭的计算 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30419832</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>merlinscholz</name>
             <uri>https://news.ycombinator.com/user?id=merlinscholz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为99%的开发者建设]]></title>
-        <id>https://news.ycombinator.com/item?id=30367781</id>
-        <link href="https://news.ycombinator.com/item?id=30367781"/>
-        <updated>2022-02-17T00:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Building for the 99% Developers]]></summary>
-        <author>
-            <name>bdburns</name>
-            <uri>https://news.ycombinator.com/user?id=bdburns</uri>
         </author>
     </entry>
 </feed>
