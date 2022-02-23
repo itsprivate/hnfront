@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T09:29:27.519Z</updated>
+    <updated>2022-02-23T09:37:02.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我改变了我的屋顶，减少了1.5吨的二氧化碳排放量]]></title>
+        <id>https://news.ycombinator.com/item?id=30439211</id>
+        <link href="https://news.ycombinator.com/item?id=30439211"/>
+        <updated>2022-02-23T09:09:50.000Z</updated>
+        <summary type="html"><![CDATA[I changed my roof and cut 1.5 tons of CO2e]]></summary>
+        <author>
+            <name>Lemaxoxo</name>
+            <uri>https://news.ycombinator.com/user?id=Lemaxoxo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高通公司将把所有的3纳米AP代工工作交给台积电而不是三星]]></title>
         <id>https://news.ycombinator.com/item?id=30437579</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Acrobatic_Road</name>
             <uri>https://news.ycombinator.com/user?id=Acrobatic_Road</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三角形很容易，四面体很难]]></title>
-        <id>https://news.ycombinator.com/item?id=30354589</id>
-        <link href="https://news.ycombinator.com/item?id=30354589"/>
-        <updated>2022-02-15T23:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Triangles are easy and tetrahedra are hard]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
