@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-22T23:52:03.878Z</updated>
+    <updated>2022-02-23T00:40:56.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wordle在許多微妙的方面都非常聰明]]></title>
+        <id>https://news.ycombinator.com/item?id=30435522</id>
+        <link href="https://news.ycombinator.com/item?id=30435522"/>
+        <updated>2022-02-22T23:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Wordle is pretty damn smart in many subtle ways]]></summary>
+        <author>
+            <name>vaghetti</name>
+            <uri>https://news.ycombinator.com/user?id=vaghetti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避免Nginx配置的最大錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30435282</id>
+        <link href="https://news.ycombinator.com/item?id=30435282"/>
+        <updated>2022-02-22T23:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Avoiding the Top Nginx Configuration Mistakes]]></summary>
+        <author>
+            <name>anotherevan</name>
+            <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羔羊報]]></title>
+        <id>https://news.ycombinator.com/item?id=30435059</id>
+        <link href="https://news.ycombinator.com/item?id=30435059"/>
+        <updated>2022-02-22T22:56:21.000Z</updated>
+        <summary type="html"><![CDATA[The Lamb Paper]]></summary>
+        <author>
+            <name>jelliclesfarm</name>
+            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[群眾，而不是階級 - 歐文-柏林]]></title>
         <id>https://news.ycombinator.com/item?id=30419914</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ionychal</name>
             <uri>https://news.ycombinator.com/user?id=ionychal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[緩存編程風格的要素(2000)]]></title>
-        <id>https://news.ycombinator.com/item?id=30356292</id>
-        <link href="https://news.ycombinator.com/item?id=30356292"/>
-        <updated>2022-02-16T04:17:20.000Z</updated>
-        <summary type="html"><![CDATA[The Elements of Cache Programming Style (2000)]]></summary>
-        <author>
-            <name>rramadass</name>
-            <uri>https://news.ycombinator.com/user?id=rramadass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們常說，分析引擎是在它的時代之前。]]></title>
-        <id>https://news.ycombinator.com/item?id=30354976</id>
-        <link href="https://news.ycombinator.com/item?id=30354976"/>
-        <updated>2022-02-16T00:41:07.000Z</updated>
-        <summary type="html"><![CDATA[It's often said that the Analytical Engine was before its time]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godocs.io一年後]]></title>
-        <id>https://news.ycombinator.com/item?id=30345522</id>
-        <link href="https://news.ycombinator.com/item?id=30345522"/>
-        <updated>2022-02-15T12:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Godocs.io One Year Later]]></summary>
-        <author>
-            <name>sirodoht</name>
-            <uri>https://news.ycombinator.com/user?id=sirodoht</uri>
         </author>
     </entry>
 </feed>
