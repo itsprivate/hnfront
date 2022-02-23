@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T03:15:20.748Z</updated>
+    <updated>2022-02-23T03:34:36.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clear - 開源FPGA ASIC]]></title>
+        <id>https://news.ycombinator.com/item?id=30437021</id>
+        <link href="https://news.ycombinator.com/item?id=30437021"/>
+        <updated>2022-02-23T02:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Clear – The Open Source FPGA ASIC]]></summary>
+        <author>
+            <name>krasin</name>
+            <uri>https://news.ycombinator.com/user?id=krasin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USB是如何誕生的]]></title>
         <id>https://news.ycombinator.com/item?id=30436852</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>EthanHeilman</name>
             <uri>https://news.ycombinator.com/user?id=EthanHeilman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用Bazel和Clang使用C++20模塊]]></title>
-        <id>https://news.ycombinator.com/item?id=30345701</id>
-        <link href="https://news.ycombinator.com/item?id=30345701"/>
-        <updated>2022-02-15T12:42:34.000Z</updated>
-        <summary type="html"><![CDATA[How to Use C++20 Modules with Bazel and Clang]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
         </author>
     </entry>
 </feed>
