@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T10:14:19.187Z</updated>
+    <updated>2022-02-23T10:37:22.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讚揚寫作 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30439482</id>
+        <link href="https://news.ycombinator.com/item?id=30439482"/>
+        <updated>2022-02-23T09:54:11.000Z</updated>
+        <summary type="html"><![CDATA[In Praise of Writing (2021)]]></summary>
+        <author>
+            <name>crcastle</name>
+            <uri>https://news.ycombinator.com/user?id=crcastle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於Anki的數據庫]]></title>
         <id>https://news.ycombinator.com/item?id=30427549</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Seirdy</name>
             <uri>https://news.ycombinator.com/user?id=Seirdy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit無法建立一個更好的搜索引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30369402</id>
-        <link href="https://news.ycombinator.com/item?id=30369402"/>
-        <updated>2022-02-17T04:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Reddit can't build a better search engine]]></summary>
-        <author>
-            <name>rukshn</name>
-            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
         </author>
     </entry>
 </feed>
