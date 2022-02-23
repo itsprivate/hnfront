@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 14:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[英特尔收购Linutronix公司]]></title>
+            <link>https://news.ycombinator.com/item?id=30441513</link>
+            <guid>https://news.ycombinator.com/item?id=30441513</guid>
+            <pubDate>Wed, 23 Feb 2022 14:45:19 GMT</pubDate>
+            <description><![CDATA[Intel Acquires Linutronix]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是时候删除reiserfs了吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30441507</link>
+            <guid>https://news.ycombinator.com/item?id=30441507</guid>
+            <pubDate>Wed, 23 Feb 2022 14:44:44 GMT</pubDate>
+            <description><![CDATA[Is it time to remove reiserfs?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个着色器的技巧]]></title>
+            <link>https://news.ycombinator.com/item?id=30438541</link>
+            <guid>https://news.ycombinator.com/item?id=30438541</guid>
+            <pubDate>Wed, 23 Feb 2022 07:15:53 GMT</pubDate>
+            <description><![CDATA[A Shader Trick]]></description>
+        </item>
         <item>
             <title><![CDATA[Simula One - 便携式Linux VR计算机]]></title>
             <link>https://news.ycombinator.com/item?id=30440828</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30371604</guid>
             <pubDate>Thu, 17 Feb 2022 10:32:28 GMT</pubDate>
             <description><![CDATA[AWS S3: Why sometimes you should press the $100k button]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PipeWire 0.3.46]]></title>
-            <link>https://news.ycombinator.com/item?id=30372257</link>
-            <guid>https://news.ycombinator.com/item?id=30372257</guid>
-            <pubDate>Thu, 17 Feb 2022 12:15:30 GMT</pubDate>
-            <description><![CDATA[PipeWire 0.3.46]]></description>
-        </item>
-        <item>
-            <title><![CDATA[丝带健康（YC S17）正在为我们的API平台招聘工程总监]]></title>
-            <link>https://news.ycombinator.com/item?id=30372181</link>
-            <guid>https://news.ycombinator.com/item?id=30372181</guid>
-            <pubDate>Thu, 17 Feb 2022 12:00:08 GMT</pubDate>
-            <description><![CDATA[Ribbon Health (YC S17) Is Hiring a Director of Engineering for Our API Platform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在OpenBSD上调试一个Ioctl问题]]></title>
-            <link>https://news.ycombinator.com/item?id=30371989</link>
-            <guid>https://news.ycombinator.com/item?id=30371989</guid>
-            <pubDate>Thu, 17 Feb 2022 11:31:52 GMT</pubDate>
-            <description><![CDATA[Debugging an Ioctl Problem on OpenBSD]]></description>
         </item>
     </channel>
 </rss>

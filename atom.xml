@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T14:31:26.883Z</updated>
+    <updated>2022-02-23T15:15:53.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特尔收购Linutronix公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30441513</id>
+        <link href="https://news.ycombinator.com/item?id=30441513"/>
+        <updated>2022-02-23T14:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Intel Acquires Linutronix]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是时候删除reiserfs了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30441507</id>
+        <link href="https://news.ycombinator.com/item?id=30441507"/>
+        <updated>2022-02-23T14:44:44.000Z</updated>
+        <summary type="html"><![CDATA[Is it time to remove reiserfs?]]></summary>
+        <author>
+            <name>thestoicattack</name>
+            <uri>https://news.ycombinator.com/user?id=thestoicattack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个着色器的技巧]]></title>
+        <id>https://news.ycombinator.com/item?id=30438541</id>
+        <link href="https://news.ycombinator.com/item?id=30438541"/>
+        <updated>2022-02-23T07:15:53.000Z</updated>
+        <summary type="html"><![CDATA[A Shader Trick]]></summary>
+        <author>
+            <name>tobr</name>
+            <uri>https://news.ycombinator.com/user?id=tobr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simula One - 便携式Linux VR计算机]]></title>
         <id>https://news.ycombinator.com/item?id=30440828</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>korostelevm</name>
             <uri>https://news.ycombinator.com/user?id=korostelevm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipeWire 0.3.46]]></title>
-        <id>https://news.ycombinator.com/item?id=30372257</id>
-        <link href="https://news.ycombinator.com/item?id=30372257"/>
-        <updated>2022-02-17T12:15:30.000Z</updated>
-        <summary type="html"><![CDATA[PipeWire 0.3.46]]></summary>
-        <author>
-            <name>jrepinc</name>
-            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丝带健康（YC S17）正在为我们的API平台招聘工程总监]]></title>
-        <id>https://news.ycombinator.com/item?id=30372181</id>
-        <link href="https://news.ycombinator.com/item?id=30372181"/>
-        <updated>2022-02-17T12:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Ribbon Health (YC S17) Is Hiring a Director of Engineering for Our API Platform]]></summary>
-        <author>
-            <name>Yertis</name>
-            <uri>https://news.ycombinator.com/user?id=Yertis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在OpenBSD上调试一个Ioctl问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30371989</id>
-        <link href="https://news.ycombinator.com/item?id=30371989"/>
-        <updated>2022-02-17T11:31:52.000Z</updated>
-        <summary type="html"><![CDATA[Debugging an Ioctl Problem on OpenBSD]]></summary>
-        <author>
-            <name>hucste</name>
-            <uri>https://news.ycombinator.com/user?id=hucste</uri>
         </author>
     </entry>
 </feed>
