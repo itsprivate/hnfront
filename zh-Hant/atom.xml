@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T18:14:31.378Z</updated>
+    <updated>2022-02-23T18:41:09.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[首先優化簡單性]]></title>
+        <id>https://news.ycombinator.com/item?id=30442446</id>
+        <link href="https://news.ycombinator.com/item?id=30442446"/>
+        <updated>2022-02-23T15:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Optimize for Simplicity First]]></summary>
+        <author>
+            <name>wagslane</name>
+            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[後座自制GPS追蹤器的汽車被盜]]></title>
+        <id>https://news.ycombinator.com/item?id=30442044</id>
+        <link href="https://news.ycombinator.com/item?id=30442044"/>
+        <updated>2022-02-23T15:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Car stolen with homemade GPS tracker in backseat]]></summary>
+        <author>
+            <name>sipacate</name>
+            <uri>https://news.ycombinator.com/user?id=sipacate</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[詩意的許可]]></title>
         <id>https://news.ycombinator.com/item?id=30438200</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投資者在2021年購買的美國房屋份額創下新高]]></title>
-        <id>https://news.ycombinator.com/item?id=30374372</id>
-        <link href="https://news.ycombinator.com/item?id=30374372"/>
-        <updated>2022-02-17T15:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Investors bought a record share of U.S. homes in 2021]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主持黑客新聞的孤獨工作(2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30374040</id>
-        <link href="https://news.ycombinator.com/item?id=30374040"/>
-        <updated>2022-02-17T15:24:35.000Z</updated>
-        <summary type="html"><![CDATA[The Lonely Work of Moderating Hacker News (2019)]]></summary>
-        <author>
-            <name>nicolast</name>
-            <uri>https://news.ycombinator.com/user?id=nicolast</uri>
         </author>
     </entry>
 </feed>
