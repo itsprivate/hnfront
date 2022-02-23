@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是什麼讓寫作更具有可讀性？]]></title>
+            <link>https://news.ycombinator.com/item?id=30441773</link>
+            <guid>https://news.ycombinator.com/item?id=30441773</guid>
+            <pubDate>Wed, 23 Feb 2022 15:04:59 GMT</pubDate>
+            <description><![CDATA[What makes writing more readable?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Russ Cox："用Rust的可持續發展 "一文對Go的誤導]]></title>
+            <link>https://news.ycombinator.com/item?id=30441771</link>
+            <guid>https://news.ycombinator.com/item?id=30441771</guid>
+            <pubDate>Wed, 23 Feb 2022 15:04:55 GMT</pubDate>
+            <description><![CDATA[Russ Cox: “Sustainability with Rust” post misleading about Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pornhub內部]]></title>
+            <link>https://news.ycombinator.com/item?id=30441276</link>
+            <guid>https://news.ycombinator.com/item?id=30441276</guid>
+            <pubDate>Wed, 23 Feb 2022 14:26:36 GMT</pubDate>
+            <description><![CDATA[Inside Pornhub]]></description>
+        </item>
         <item>
             <title><![CDATA[用SIMD解析整數系列]]></title>
             <link>https://news.ycombinator.com/item?id=30441766</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30370083</guid>
             <pubDate>Thu, 17 Feb 2022 06:14:20 GMT</pubDate>
             <description><![CDATA[Unnatural Selection: Emil Schachtzabel’s Pigeon Prachtwerk]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科倫坡》展示了多問一句話的好處]]></title>
-            <link>https://news.ycombinator.com/item?id=30362856</link>
-            <guid>https://news.ycombinator.com/item?id=30362856</guid>
-            <pubDate>Wed, 16 Feb 2022 17:31:32 GMT</pubDate>
-            <description><![CDATA[‘Columbo’ shows the benefits of asking just one more thing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C# 原始字符串字面建議]]></title>
-            <link>https://news.ycombinator.com/item?id=30372784</link>
-            <guid>https://news.ycombinator.com/item?id=30372784</guid>
-            <pubDate>Thu, 17 Feb 2022 13:26:44 GMT</pubDate>
-            <description><![CDATA[C# Raw String Literal Proposal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PostgreSQL的內部結構]]></title>
-            <link>https://news.ycombinator.com/item?id=30372750</link>
-            <guid>https://news.ycombinator.com/item?id=30372750</guid>
-            <pubDate>Thu, 17 Feb 2022 13:22:02 GMT</pubDate>
-            <description><![CDATA[The Internals of PostgreSQL]]></description>
         </item>
     </channel>
 </rss>
