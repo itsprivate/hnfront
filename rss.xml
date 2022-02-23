@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 16:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[利用浏览器内的远程桌面进行网络钓鱼]]></title>
+            <link>https://news.ycombinator.com/item?id=30435326</link>
+            <guid>https://news.ycombinator.com/item?id=30435326</guid>
+            <pubDate>Tue, 22 Feb 2022 23:26:41 GMT</pubDate>
+            <description><![CDATA[Phishing with an In-Browser Remote Desktop]]></description>
+        </item>
         <item>
             <title><![CDATA[是什么让写作更具有可读性？]]></title>
             <link>https://news.ycombinator.com/item?id=30441773</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30373279</guid>
             <pubDate>Thu, 17 Feb 2022 14:18:48 GMT</pubDate>
             <description><![CDATA[13yo kid builds TinyML powered “e-nose” to diagnose pneumonia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[非自然的选择：埃米尔-沙赫特扎贝尔的鸽子的宏伟作品]]></title>
-            <link>https://news.ycombinator.com/item?id=30370083</link>
-            <guid>https://news.ycombinator.com/item?id=30370083</guid>
-            <pubDate>Thu, 17 Feb 2022 06:14:20 GMT</pubDate>
-            <description><![CDATA[Unnatural Selection: Emil Schachtzabel’s Pigeon Prachtwerk]]></description>
         </item>
     </channel>
 </rss>

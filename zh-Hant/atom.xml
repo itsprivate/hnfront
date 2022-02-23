@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T15:47:11.599Z</updated>
+    <updated>2022-02-23T16:17:20.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[利用瀏覽器內的遠程桌面進行網絡釣魚]]></title>
+        <id>https://news.ycombinator.com/item?id=30435326</id>
+        <link href="https://news.ycombinator.com/item?id=30435326"/>
+        <updated>2022-02-22T23:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Phishing with an In-Browser Remote Desktop]]></summary>
+        <author>
+            <name>jsnell</name>
+            <uri>https://news.ycombinator.com/user?id=jsnell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是什麼讓寫作更具有可讀性？]]></title>
         <id>https://news.ycombinator.com/item?id=30441773</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kartben_</name>
             <uri>https://news.ycombinator.com/user?id=kartben_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非自然的選擇：埃米爾-沙赫特扎貝爾的鴿子的宏偉作品]]></title>
-        <id>https://news.ycombinator.com/item?id=30370083</id>
-        <link href="https://news.ycombinator.com/item?id=30370083"/>
-        <updated>2022-02-17T06:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Unnatural Selection: Emil Schachtzabel’s Pigeon Prachtwerk]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
         </author>
     </entry>
 </feed>
