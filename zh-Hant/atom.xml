@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T23:14:30.946Z</updated>
+    <updated>2022-02-23T23:34:21.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare將以1.62億美元收購Area 1 Security公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30447842</id>
+        <link href="https://news.ycombinator.com/item?id=30447842"/>
+        <updated>2022-02-23T23:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare to Acquire Area 1 Security for $162m]]></summary>
+        <author>
+            <name>marc__1</name>
+            <uri>https://news.ycombinator.com/user?id=marc__1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sqlite-utils - 用於操作SQLite數據庫的CLI和Python實用函數]]></title>
         <id>https://news.ycombinator.com/item?id=30446530</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>axiomdata316</name>
             <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃裡克-施密特計劃向人工智能研究人員提供1.25億美元的資金]]></title>
-        <id>https://news.ycombinator.com/item?id=30379207</id>
-        <link href="https://news.ycombinator.com/item?id=30379207"/>
-        <updated>2022-02-17T21:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Eric Schmidt plans to give A.I. researchers $125M]]></summary>
-        <author>
-            <name>EMM_386</name>
-            <uri>https://news.ycombinator.com/user?id=EMM_386</uri>
         </author>
     </entry>
 </feed>
