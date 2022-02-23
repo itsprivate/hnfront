@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[违反宪法的层层蛋糕]]></title>
+            <link>https://news.ycombinator.com/item?id=30437342</link>
+            <guid>https://news.ycombinator.com/item?id=30437342</guid>
+            <pubDate>Wed, 23 Feb 2022 03:47:40 GMT</pubDate>
+            <description><![CDATA[‘A layer cake of constitutional violations’]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
+            <link>https://news.ycombinator.com/item?id=30437257</link>
+            <guid>https://news.ycombinator.com/item?id=30437257</guid>
+            <pubDate>Wed, 23 Feb 2022 03:31:59 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an iOS app recording RGBD videos and a webapp playing them]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用三叉戟优化Postgres文本搜索]]></title>
+            <link>https://news.ycombinator.com/item?id=30433269</link>
+            <guid>https://news.ycombinator.com/item?id=30433269</guid>
+            <pubDate>Tue, 22 Feb 2022 20:29:07 GMT</pubDate>
+            <description><![CDATA[Optimizing Postgres text search with trigrams]]></description>
+        </item>
         <item>
             <title><![CDATA[绘制匹兹堡所有446座桥梁的地图，希望能避免未来的坍塌事故]]></title>
             <link>https://news.ycombinator.com/item?id=30433009</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30343086</guid>
             <pubDate>Tue, 15 Feb 2022 05:18:16 GMT</pubDate>
             <description><![CDATA[Crossing the Blood Meridian: Cormac McCarthy and American History]]></description>
-        </item>
-        <item>
-            <title><![CDATA["名称服务器 "和 "DNS解析器 "的多重含义]]></title>
-            <link>https://news.ycombinator.com/item?id=30337597</link>
-            <guid>https://news.ycombinator.com/item?id=30337597</guid>
-            <pubDate>Mon, 14 Feb 2022 20:11:19 GMT</pubDate>
-            <description><![CDATA[The multiple meanings of “nameserver” and “DNS resolver”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Elastic与亚马逊就商标侵权诉讼案达成协议]]></title>
-            <link>https://news.ycombinator.com/item?id=30366026</link>
-            <guid>https://news.ycombinator.com/item?id=30366026</guid>
-            <pubDate>Wed, 16 Feb 2022 21:33:27 GMT</pubDate>
-            <description><![CDATA[Elastic and Amazon reach agreement on trademark infringement lawsuit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌云架构图工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30365985</link>
-            <guid>https://news.ycombinator.com/item?id=30365985</guid>
-            <pubDate>Wed, 16 Feb 2022 21:30:29 GMT</pubDate>
-            <description><![CDATA[Google Cloud architecture diagramming tool]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T03:53:03.925Z</updated>
+    <updated>2022-02-23T04:14:27.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[违反宪法的层层蛋糕]]></title>
+        <id>https://news.ycombinator.com/item?id=30437342</id>
+        <link href="https://news.ycombinator.com/item?id=30437342"/>
+        <updated>2022-02-23T03:47:40.000Z</updated>
+        <summary type="html"><![CDATA[‘A layer cake of constitutional violations’]]></summary>
+        <author>
+            <name>busymom0</name>
+            <uri>https://news.ycombinator.com/user?id=busymom0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30437257</id>
+        <link href="https://news.ycombinator.com/item?id=30437257"/>
+        <updated>2022-02-23T03:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an iOS app recording RGBD videos and a webapp playing them]]></summary>
+        <author>
+            <name>hanseul</name>
+            <uri>https://news.ycombinator.com/user?id=hanseul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用三叉戟优化Postgres文本搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30433269</id>
+        <link href="https://news.ycombinator.com/item?id=30433269"/>
+        <updated>2022-02-22T20:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing Postgres text search with trigrams]]></summary>
+        <author>
+            <name>petercooper</name>
+            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[绘制匹兹堡所有446座桥梁的地图，希望能避免未来的坍塌事故]]></title>
         <id>https://news.ycombinator.com/item?id=30433009</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>samclemens</name>
             <uri>https://news.ycombinator.com/user?id=samclemens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["名称服务器 "和 "DNS解析器 "的多重含义]]></title>
-        <id>https://news.ycombinator.com/item?id=30337597</id>
-        <link href="https://news.ycombinator.com/item?id=30337597"/>
-        <updated>2022-02-14T20:11:19.000Z</updated>
-        <summary type="html"><![CDATA[The multiple meanings of “nameserver” and “DNS resolver”]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elastic与亚马逊就商标侵权诉讼案达成协议]]></title>
-        <id>https://news.ycombinator.com/item?id=30366026</id>
-        <link href="https://news.ycombinator.com/item?id=30366026"/>
-        <updated>2022-02-16T21:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Elastic and Amazon reach agreement on trademark infringement lawsuit]]></summary>
-        <author>
-            <name>dhd415</name>
-            <uri>https://news.ycombinator.com/user?id=dhd415</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌云架构图工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30365985</id>
-        <link href="https://news.ycombinator.com/item?id=30365985"/>
-        <updated>2022-02-16T21:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud architecture diagramming tool]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
