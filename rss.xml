@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:55:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[USB是如何诞生的]]></title>
+            <link>https://news.ycombinator.com/item?id=30436852</link>
+            <guid>https://news.ycombinator.com/item?id=30436852</guid>
+            <pubDate>Wed, 23 Feb 2022 02:27:45 GMT</pubDate>
+            <description><![CDATA[How USB Came to Be]]></description>
+        </item>
         <item>
             <title><![CDATA[普塔霍特普的格言（约公元前2350年）]]></title>
             <link>https://news.ycombinator.com/item?id=30425039</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30345701</guid>
             <pubDate>Tue, 15 Feb 2022 12:42:34 GMT</pubDate>
             <description><![CDATA[How to Use C++20 Modules with Bazel and Clang]]></description>
-        </item>
-        <item>
-            <title><![CDATA[给时态用户社区的一封公开信]]></title>
-            <link>https://news.ycombinator.com/item?id=30365301</link>
-            <guid>https://news.ycombinator.com/item?id=30365301</guid>
-            <pubDate>Wed, 16 Feb 2022 20:32:50 GMT</pubDate>
-            <description><![CDATA[An Open Letter to the Temporal User Community]]></description>
         </item>
     </channel>
 </rss>

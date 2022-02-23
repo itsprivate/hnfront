@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T02:55:06.803Z</updated>
+    <updated>2022-02-23T03:15:20.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[USB是如何诞生的]]></title>
+        <id>https://news.ycombinator.com/item?id=30436852</id>
+        <link href="https://news.ycombinator.com/item?id=30436852"/>
+        <updated>2022-02-23T02:27:45.000Z</updated>
+        <summary type="html"><![CDATA[How USB Came to Be]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普塔霍特普的格言（约公元前2350年）]]></title>
         <id>https://news.ycombinator.com/item?id=30425039</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pjmlp</name>
             <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给时态用户社区的一封公开信]]></title>
-        <id>https://news.ycombinator.com/item?id=30365301</id>
-        <link href="https://news.ycombinator.com/item?id=30365301"/>
-        <updated>2022-02-16T20:32:50.000Z</updated>
-        <summary type="html"><![CDATA[An Open Letter to the Temporal User Community]]></summary>
-        <author>
-            <name>roopakv</name>
-            <uri>https://news.ycombinator.com/user?id=roopakv</uri>
         </author>
     </entry>
 </feed>
