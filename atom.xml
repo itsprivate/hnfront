@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T23:43:37.082Z</updated>
+    <updated>2022-02-23T23:53:14.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[生物锚。可能或不可能奏效的伎俩]]></title>
+        <id>https://news.ycombinator.com/item?id=30447865</id>
+        <link href="https://news.ycombinator.com/item?id=30447865"/>
+        <updated>2022-02-23T23:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Biological Anchors: A Trick That Might or Might Not Work]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[70-90%的精英学校教授在精英学校获得博士学位]]></title>
         <id>https://news.ycombinator.com/item?id=30448083</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>teepo</name>
             <uri>https://news.ycombinator.com/user?id=teepo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.18 RC1已经发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30378838</id>
-        <link href="https://news.ycombinator.com/item?id=30378838"/>
-        <updated>2022-02-17T21:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Go 1.18 RC1 is out]]></summary>
-        <author>
-            <name>nappy-doo</name>
-            <uri>https://news.ycombinator.com/user?id=nappy-doo</uri>
         </author>
     </entry>
 </feed>
