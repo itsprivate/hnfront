@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T12:52:58.566Z</updated>
+    <updated>2022-02-23T13:20:22.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歐盟將強制要求所有招聘信息公開化 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30440211</id>
+        <link href="https://news.ycombinator.com/item?id=30440211"/>
+        <updated>2022-02-23T12:11:27.000Z</updated>
+        <summary type="html"><![CDATA[EU to mandate public salary information for all job postings [pdf]]]></summary>
+        <author>
+            <name>pimterry</name>
+            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[矢量數據庫的溫和介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=30425599</id>
+        <link href="https://news.ycombinator.com/item?id=30425599"/>
+        <updated>2022-02-22T09:05:23.000Z</updated>
+        <summary type="html"><![CDATA[A Gentle Introduction to Vector Databases]]></summary>
+        <author>
+            <name>mrintellectual</name>
+            <uri>https://news.ycombinator.com/user?id=mrintellectual</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supernotes 2 - 一個快速的、用於記事和分享的Markdown筆記應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30440275</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將IP與服務和套接字脫鉤，以解決敏捷性問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30356665</id>
-        <link href="https://news.ycombinator.com/item?id=30356665"/>
-        <updated>2022-02-16T05:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Decoupling IP from services and sockets for addressing agility]]></summary>
-        <author>
-            <name>mlerner</name>
-            <uri>https://news.ycombinator.com/user?id=mlerner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果的定製NVMs速度驚人--如果你不關心數據完整性的話]]></title>
-        <id>https://news.ycombinator.com/item?id=30370551</id>
-        <link href="https://news.ycombinator.com/item?id=30370551"/>
-        <updated>2022-02-17T07:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Apple's custom NVMes are amazingly fast – if you don't care about data integrity]]></summary>
-        <author>
-            <name>omnibrain</name>
-            <uri>https://news.ycombinator.com/user?id=omnibrain</uri>
         </author>
     </entry>
 </feed>
