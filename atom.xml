@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T04:58:44.975Z</updated>
+    <updated>2022-02-23T05:30:38.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要改变你的工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30437733</id>
+        <link href="https://news.ycombinator.com/item?id=30437733"/>
+        <updated>2022-02-23T04:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Do Not Change Your Job]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不推荐。用户提供的主键]]></title>
         <id>https://news.ycombinator.com/item?id=30429280</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>losfair</name>
             <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我辞去工作，制作免费网络工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30357192</id>
-        <link href="https://news.ycombinator.com/item?id=30357192"/>
-        <updated>2022-02-16T07:18:58.000Z</updated>
-        <summary type="html"><![CDATA[I quit my job to make free web tools]]></summary>
-        <author>
-            <name>pul</name>
-            <uri>https://news.ycombinator.com/user?id=pul</uri>
         </author>
     </entry>
 </feed>
