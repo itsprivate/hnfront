@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T04:40:28.933Z</updated>
+    <updated>2022-02-23T04:58:44.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不推荐。用户提供的主键]]></title>
+        <id>https://news.ycombinator.com/item?id=30429280</id>
+        <link href="https://news.ycombinator.com/item?id=30429280"/>
+        <updated>2022-02-22T15:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Do Not Recommend: User Provided Primary Keys]]></summary>
+        <author>
+            <name>tempodox</name>
+            <uri>https://news.ycombinator.com/user?id=tempodox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[唱片公司（Distribunomicon） (2012)]]></title>
         <id>https://news.ycombinator.com/item?id=30437502</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pul</name>
             <uri>https://news.ycombinator.com/user?id=pul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脸书员工现在被称为 "Metamates"]]></title>
-        <id>https://news.ycombinator.com/item?id=30355738</id>
-        <link href="https://news.ycombinator.com/item?id=30355738"/>
-        <updated>2022-02-16T02:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Facebook staff now to be known as “Metamates”]]></summary>
-        <author>
-            <name>thereare5lights</name>
-            <uri>https://news.ycombinator.com/user?id=thereare5lights</uri>
         </author>
     </entry>
 </feed>
