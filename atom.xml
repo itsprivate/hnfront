@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T09:13:47.949Z</updated>
+    <updated>2022-02-23T09:29:27.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高通公司将把所有的3纳米AP代工工作交给台积电而不是三星]]></title>
+        <id>https://news.ycombinator.com/item?id=30437579</id>
+        <link href="https://news.ycombinator.com/item?id=30437579"/>
+        <updated>2022-02-23T04:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Qualcomm to give all its 3nm AP foundry work to TSMC instead of Samsung]]></summary>
+        <author>
+            <name>jrwan</name>
+            <uri>https://news.ycombinator.com/user?id=jrwan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[东海岸与西海岸黄油--有什么区别？(2019)]]></title>
         <id>https://news.ycombinator.com/item?id=30424543</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nerdle]]></title>
-        <id>https://news.ycombinator.com/item?id=30368889</id>
-        <link href="https://news.ycombinator.com/item?id=30368889"/>
-        <updated>2022-02-17T02:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Nerdle]]></summary>
-        <author>
-            <name>kevmo314</name>
-            <uri>https://news.ycombinator.com/user?id=kevmo314</uri>
         </author>
     </entry>
 </feed>
