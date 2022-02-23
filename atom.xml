@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T05:30:38.608Z</updated>
+    <updated>2022-02-23T06:16:05.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FLAC 1.3.4]]></title>
+        <id>https://news.ycombinator.com/item?id=30437926</id>
+        <link href="https://news.ycombinator.com/item?id=30437926"/>
+        <updated>2022-02-23T05:15:29.000Z</updated>
+        <summary type="html"><![CDATA[FLAC 1.3.4]]></summary>
+        <author>
+            <name>libele</name>
+            <uri>https://news.ycombinator.com/user?id=libele</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海王星操作系统：seL4微内核的WinNT个性]]></title>
+        <id>https://news.ycombinator.com/item?id=30436993</id>
+        <link href="https://news.ycombinator.com/item?id=30436993"/>
+        <updated>2022-02-23T02:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Neptune OS: a WinNT personality of the seL4 microkernel]]></summary>
+        <author>
+            <name>themk</name>
+            <uri>https://news.ycombinator.com/user?id=themk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纺织品标记语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30414554</id>
+        <link href="https://news.ycombinator.com/item?id=30414554"/>
+        <updated>2022-02-21T11:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Textile Markup Language]]></summary>
+        <author>
+            <name>john-doe</name>
+            <uri>https://news.ycombinator.com/user?id=john-doe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要改变你的工作]]></title>
         <id>https://news.ycombinator.com/item?id=30437733</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抗击蜱虫病的斗争中取得了基因编辑的突破]]></title>
-        <id>https://news.ycombinator.com/item?id=30363175</id>
-        <link href="https://news.ycombinator.com/item?id=30363175"/>
-        <updated>2022-02-16T17:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Gene-editing breakthrough made in the battle against tick-borne diseases]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追踪负责污染全局范围的JavaScript代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30359640</id>
-        <link href="https://news.ycombinator.com/item?id=30359640"/>
-        <updated>2022-02-16T13:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Track down the JavaScript code responsible for polluting the global scope]]></summary>
-        <author>
-            <name>mmazzarolo</name>
-            <uri>https://news.ycombinator.com/user?id=mmazzarolo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melody - 一种可以编译成正则表达式的语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30358554</id>
-        <link href="https://news.ycombinator.com/item?id=30358554"/>
-        <updated>2022-02-16T11:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Melody – a language that compiles to regular expressions]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
         </author>
     </entry>
 </feed>
