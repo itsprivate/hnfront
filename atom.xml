@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T21:38:55.171Z</updated>
+    <updated>2022-02-23T22:14:47.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我设计并建造了一辆电动自行车]]></title>
+        <id>https://news.ycombinator.com/item?id=30446960</id>
+        <link href="https://news.ycombinator.com/item?id=30446960"/>
+        <updated>2022-02-23T21:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Designed and Built an eBike]]></summary>
+        <author>
+            <name>gkasev</name>
+            <uri>https://news.ycombinator.com/user?id=gkasev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[骨骼，骨骼。如何阐明鲸鱼的情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30436259</id>
+        <link href="https://news.ycombinator.com/item?id=30436259"/>
+        <updated>2022-02-23T01:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Bones, Bones: How to articulate a whale]]></summary>
+        <author>
+            <name>axiomdata316</name>
+            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于小型计算机的字节码解释器 (2007)]]></title>
+        <id>https://news.ycombinator.com/item?id=30421621</id>
+        <link href="https://news.ycombinator.com/item?id=30421621"/>
+        <updated>2022-02-21T22:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Bytecode interpreters for tiny computers (2007)]]></summary>
+        <author>
+            <name>mwcampbell</name>
+            <uri>https://news.ycombinator.com/user?id=mwcampbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardboard：一个可滚动的平铺窗口管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30402358</id>
+        <link href="https://news.ycombinator.com/item?id=30402358"/>
+        <updated>2022-02-20T01:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Cardboard: a scrollable tiling window manager]]></summary>
+        <author>
+            <name>SamWhited</name>
+            <uri>https://news.ycombinator.com/user?id=SamWhited</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司称萨根为 "屁股头天文学家 "是正确的 (1994)]]></title>
         <id>https://news.ycombinator.com/item?id=30446200</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S2n-QUIC（QUIC的Rust实现）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30378383</id>
-        <link href="https://news.ycombinator.com/item?id=30378383"/>
-        <updated>2022-02-17T20:43:00.000Z</updated>
-        <summary type="html"><![CDATA[S2n-QUIC (Rust implementation of QUIC)]]></summary>
-        <author>
-            <name>jeffbarr</name>
-            <uri>https://news.ycombinator.com/user?id=jeffbarr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要立即指出错误的东西]]></title>
-        <id>https://news.ycombinator.com/item?id=30356177</id>
-        <link href="https://news.ycombinator.com/item?id=30356177"/>
-        <updated>2022-02-16T03:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Don’t point out something wrong immediately]]></summary>
-        <author>
-            <name>uvdn7</name>
-            <uri>https://news.ycombinator.com/user?id=uvdn7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetch（YC S15）正在招聘高级软件工程师（亚特兰大，混合）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30378604</id>
-        <link href="https://news.ycombinator.com/item?id=30378604"/>
-        <updated>2022-02-17T21:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Fetch (YC S15) is hiring senior software engineers (Atlanta, hybrid)]]></summary>
-        <author>
-            <name>Adams472</name>
-            <uri>https://news.ycombinator.com/user?id=Adams472</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波特兰初创公司仅用滑尺和绘图纸开采手工比特币]]></title>
-        <id>https://news.ycombinator.com/item?id=30378195</id>
-        <link href="https://news.ycombinator.com/item?id=30378195"/>
-        <updated>2022-02-17T20:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Portland Startup to Mine Artisanal Bitcoin Using Only Slide Rule and Graph Paper]]></summary>
-        <author>
-            <name>matthewsinclair</name>
-            <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
         </author>
     </entry>
 </feed>
