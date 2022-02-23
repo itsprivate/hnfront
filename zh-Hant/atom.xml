@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T15:15:53.674Z</updated>
+    <updated>2022-02-23T15:39:14.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用SIMD解析整數系列]]></title>
+        <id>https://news.ycombinator.com/item?id=30441766</id>
+        <link href="https://news.ycombinator.com/item?id=30441766"/>
+        <updated>2022-02-23T15:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Parsing Series of Integers with SIMD]]></summary>
+        <author>
+            <name>tanelpoder</name>
+            <uri>https://news.ycombinator.com/user?id=tanelpoder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超越《巨人的陰影》的翻拍。技術視角]]></title>
+        <id>https://news.ycombinator.com/item?id=30441456</id>
+        <link href="https://news.ycombinator.com/item?id=30441456"/>
+        <updated>2022-02-23T14:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Beyond the Remake of 'Shadow of the Colossus': A Technical Perspective]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夜間生活的超級內向者]]></title>
+        <id>https://news.ycombinator.com/item?id=30441223</id>
+        <link href="https://news.ycombinator.com/item?id=30441223"/>
+        <updated>2022-02-23T14:22:11.000Z</updated>
+        <summary type="html"><![CDATA[The Ultra-Introverts Who Live Nocturnally]]></summary>
+        <author>
+            <name>petercooper</name>
+            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特爾收購Linutronix公司]]></title>
         <id>https://news.ycombinator.com/item?id=30441513</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>hjnkk</name>
             <uri>https://news.ycombinator.com/user?id=hjnkk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰在搶佔IPv4地址？]]></title>
-        <id>https://news.ycombinator.com/item?id=30372741</id>
-        <link href="https://news.ycombinator.com/item?id=30372741"/>
-        <updated>2022-02-17T13:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Who is squatting IPv4 addresses?]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lisp外星人3D模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30372056</id>
-        <link href="https://news.ycombinator.com/item?id=30372056"/>
-        <updated>2022-02-17T11:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Lisp Alien 3D Model]]></summary>
-        <author>
-            <name>kikytokamuro</name>
-            <uri>https://news.ycombinator.com/user?id=kikytokamuro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS S3。為什麼有時你應該按下10萬美元的按鈕]]></title>
-        <id>https://news.ycombinator.com/item?id=30371604</id>
-        <link href="https://news.ycombinator.com/item?id=30371604"/>
-        <updated>2022-02-17T10:32:28.000Z</updated>
-        <summary type="html"><![CDATA[AWS S3: Why sometimes you should press the $100k button]]></summary>
-        <author>
-            <name>korostelevm</name>
-            <uri>https://news.ycombinator.com/user?id=korostelevm</uri>
         </author>
     </entry>
 </feed>

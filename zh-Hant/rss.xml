@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:39:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用SIMD解析整數系列]]></title>
+            <link>https://news.ycombinator.com/item?id=30441766</link>
+            <guid>https://news.ycombinator.com/item?id=30441766</guid>
+            <pubDate>Wed, 23 Feb 2022 15:04:32 GMT</pubDate>
+            <description><![CDATA[Parsing Series of Integers with SIMD]]></description>
+        </item>
+        <item>
+            <title><![CDATA[超越《巨人的陰影》的翻拍。技術視角]]></title>
+            <link>https://news.ycombinator.com/item?id=30441456</link>
+            <guid>https://news.ycombinator.com/item?id=30441456</guid>
+            <pubDate>Wed, 23 Feb 2022 14:41:05 GMT</pubDate>
+            <description><![CDATA[Beyond the Remake of 'Shadow of the Colossus': A Technical Perspective]]></description>
+        </item>
+        <item>
+            <title><![CDATA[夜間生活的超級內向者]]></title>
+            <link>https://news.ycombinator.com/item?id=30441223</link>
+            <guid>https://news.ycombinator.com/item?id=30441223</guid>
+            <pubDate>Wed, 23 Feb 2022 14:22:11 GMT</pubDate>
+            <description><![CDATA[The Ultra-Introverts Who Live Nocturnally]]></description>
+        </item>
         <item>
             <title><![CDATA[英特爾收購Linutronix公司]]></title>
             <link>https://news.ycombinator.com/item?id=30441513</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30372750</guid>
             <pubDate>Thu, 17 Feb 2022 13:22:02 GMT</pubDate>
             <description><![CDATA[The Internals of PostgreSQL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰在搶佔IPv4地址？]]></title>
-            <link>https://news.ycombinator.com/item?id=30372741</link>
-            <guid>https://news.ycombinator.com/item?id=30372741</guid>
-            <pubDate>Thu, 17 Feb 2022 13:21:14 GMT</pubDate>
-            <description><![CDATA[Who is squatting IPv4 addresses?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lisp外星人3D模型]]></title>
-            <link>https://news.ycombinator.com/item?id=30372056</link>
-            <guid>https://news.ycombinator.com/item?id=30372056</guid>
-            <pubDate>Thu, 17 Feb 2022 11:43:39 GMT</pubDate>
-            <description><![CDATA[Lisp Alien 3D Model]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AWS S3。為什麼有時你應該按下10萬美元的按鈕]]></title>
-            <link>https://news.ycombinator.com/item?id=30371604</link>
-            <guid>https://news.ycombinator.com/item?id=30371604</guid>
-            <pubDate>Thu, 17 Feb 2022 10:32:28 GMT</pubDate>
-            <description><![CDATA[AWS S3: Why sometimes you should press the $100k button]]></description>
         </item>
     </channel>
 </rss>
