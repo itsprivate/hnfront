@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T17:07:15.618Z</updated>
+    <updated>2022-02-23T17:38:41.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我很抱歉，各位。或者說：我為什麼要改用Cloudflare？]]></title>
+        <id>https://news.ycombinator.com/item?id=30443178</id>
+        <link href="https://news.ycombinator.com/item?id=30443178"/>
+        <updated>2022-02-23T16:56:15.000Z</updated>
+        <summary type="html"><![CDATA[I'm so sorry everyone. Or: why I'm switching to Cloudflare]]></summary>
+        <author>
+            <name>smbv</name>
+            <uri>https://news.ycombinator.com/user?id=smbv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿什比（YC W19）在北美招聘SRE，幫助我們擴大規模]]></title>
         <id>https://news.ycombinator.com/item?id=30443230</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail - 一個新的綜合佈局]]></title>
-        <id>https://news.ycombinator.com/item?id=30374226</id>
-        <link href="https://news.ycombinator.com/item?id=30374226"/>
-        <updated>2022-02-17T15:39:46.000Z</updated>
-        <summary type="html"><![CDATA[Gmail – A New Integrated Layout]]></summary>
-        <author>
-            <name>sendilkumarn</name>
-            <uri>https://news.ycombinator.com/user?id=sendilkumarn</uri>
         </author>
     </entry>
 </feed>
