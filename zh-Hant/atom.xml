@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T21:13:58.100Z</updated>
+    <updated>2022-02-23T21:32:04.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[128位處理器的前景]]></title>
+        <id>https://news.ycombinator.com/item?id=30446415</id>
+        <link href="https://news.ycombinator.com/item?id=30446415"/>
+        <updated>2022-02-23T21:04:50.000Z</updated>
+        <summary type="html"><![CDATA[The prospects for 128 bit processors]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["在點火後10分鐘內遏制野火 "的啟動程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30445776</id>
+        <link href="https://news.ycombinator.com/item?id=30445776"/>
+        <updated>2022-02-23T20:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Startup that “contains wildfires within 10 minutes of ignition”]]></summary>
+        <author>
+            <name>jessenichols</name>
+            <uri>https://news.ycombinator.com/user?id=jessenichols</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesorio (YC S15)正在招聘工程副總裁、營銷副總裁和財務副總裁]]></title>
         <id>https://news.ycombinator.com/item?id=30446385</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hooboy</name>
             <uri>https://news.ycombinator.com/user?id=hooboy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOAA 2022年海平面上升技術報告]]></title>
-        <id>https://news.ycombinator.com/item?id=30378001</id>
-        <link href="https://news.ycombinator.com/item?id=30378001"/>
-        <updated>2022-02-17T20:08:33.000Z</updated>
-        <summary type="html"><![CDATA[NOAA 2022 Sea Level Rise Technical Report]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從Firefox iOS中刪除cookie同意請求]]></title>
-        <id>https://news.ycombinator.com/item?id=30377201</id>
-        <link href="https://news.ycombinator.com/item?id=30377201"/>
-        <updated>2022-02-17T19:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Removing cookie consent requests from Firefox iOS]]></summary>
-        <author>
-            <name>rchaves</name>
-            <uri>https://news.ycombinator.com/user?id=rchaves</uri>
         </author>
     </entry>
 </feed>
