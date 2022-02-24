@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T08:17:22.186Z</updated>
+    <updated>2022-02-24T08:38:17.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我15年前打开的一个漏洞在4小时前被关闭了]]></title>
+        <id>https://news.ycombinator.com/item?id=30451962</id>
+        <link href="https://news.ycombinator.com/item?id=30451962"/>
+        <updated>2022-02-24T07:57:43.000Z</updated>
+        <summary type="html"><![CDATA[A bug I opened 15 years ago was closed 4 hours ago]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绝望引起的关注]]></title>
+        <id>https://news.ycombinator.com/item?id=30439930</id>
+        <link href="https://news.ycombinator.com/item?id=30439930"/>
+        <updated>2022-02-23T11:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Desperation-Induced Focus]]></summary>
+        <author>
+            <name>deadcoder0904</name>
+            <uri>https://news.ycombinator.com/user?id=deadcoder0904</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebSockets的一个愚蠢的用例]]></title>
         <id>https://news.ycombinator.com/item?id=30451943</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hecubus</name>
             <uri>https://news.ycombinator.com/user?id=hecubus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50亿美元并购后的经验教训]]></title>
-        <id>https://news.ycombinator.com/item?id=30377931</id>
-        <link href="https://news.ycombinator.com/item?id=30377931"/>
-        <updated>2022-02-17T20:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Lessons Learned after $5B of M&A]]></summary>
-        <author>
-            <name>ttunguz</name>
-            <uri>https://news.ycombinator.com/user?id=ttunguz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Littlefs - 一个为微控制器设计的小的故障安全文件系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30383567</id>
-        <link href="https://news.ycombinator.com/item?id=30383567"/>
-        <updated>2022-02-18T09:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Littlefs – A little fail-safe filesystem designed for microcontrollers]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
