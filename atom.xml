@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T20:33:41.371Z</updated>
+    <updated>2022-02-24T20:41:55.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大科技公司下了一个大赌注。办公室仍然是未来的趋势]]></title>
+        <id>https://news.ycombinator.com/item?id=30459392</id>
+        <link href="https://news.ycombinator.com/item?id=30459392"/>
+        <updated>2022-02-24T19:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech Makes a Big Bet: Offices Are Still the Future]]></summary>
+        <author>
+            <name>jedberg</name>
+            <uri>https://news.ycombinator.com/user?id=jedberg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客新闻的无记录功能和行为清单]]></title>
+        <id>https://news.ycombinator.com/item?id=30459276</id>
+        <link href="https://news.ycombinator.com/item?id=30459276"/>
+        <updated>2022-02-24T19:44:28.000Z</updated>
+        <summary type="html"><![CDATA[A List of Hacker News's Undocumented Features and Behaviors]]></summary>
+        <author>
+            <name>JonathanBuchh</name>
+            <uri>https://news.ycombinator.com/user?id=JonathanBuchh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将Linux内核转移到现代C语言]]></title>
         <id>https://news.ycombinator.com/item?id=30459634</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>aussieguy1234</name>
             <uri>https://news.ycombinator.com/user?id=aussieguy1234</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDE驱动开发的问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30389108</id>
-        <link href="https://news.ycombinator.com/item?id=30389108"/>
-        <updated>2022-02-18T18:13:38.000Z</updated>
-        <summary type="html"><![CDATA[Problem with IDE Driven Development]]></summary>
-        <author>
-            <name>tbonesteaks</name>
-            <uri>https://news.ycombinator.com/user?id=tbonesteaks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球上最圆的国家是什么？(2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30390881</id>
-        <link href="https://news.ycombinator.com/item?id=30390881"/>
-        <updated>2022-02-18T20:48:59.000Z</updated>
-        <summary type="html"><![CDATA[What's the roundest country on earth? (2016)]]></summary>
-        <author>
-            <name>acqbu</name>
-            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
         </author>
     </entry>
 </feed>
