@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T03:12:39.882Z</updated>
+    <updated>2022-02-24T03:32:20.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欲望的原子习性]]></title>
+        <id>https://news.ycombinator.com/item?id=30439884</id>
+        <link href="https://news.ycombinator.com/item?id=30439884"/>
+        <updated>2022-02-23T11:07:20.000Z</updated>
+        <summary type="html"><![CDATA[Atomic Habits of Desire]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我把那个文件放在哪里了？替换文件系统的时机已经到来]]></title>
         <id>https://news.ycombinator.com/item?id=30449263</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go的新模糊系统的内部构造]]></title>
-        <id>https://news.ycombinator.com/item?id=30380994</id>
-        <link href="https://news.ycombinator.com/item?id=30380994"/>
-        <updated>2022-02-18T01:04:52.000Z</updated>
-        <summary type="html"><![CDATA[Internals of Go's new fuzzing system]]></summary>
-        <author>
-            <name>boyter</name>
-            <uri>https://news.ycombinator.com/user?id=boyter</uri>
         </author>
     </entry>
 </feed>

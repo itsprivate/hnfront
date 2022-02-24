@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 03:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[慾望的原子習性]]></title>
+            <link>https://news.ycombinator.com/item?id=30439884</link>
+            <guid>https://news.ycombinator.com/item?id=30439884</guid>
+            <pubDate>Wed, 23 Feb 2022 11:07:20 GMT</pubDate>
+            <description><![CDATA[Atomic Habits of Desire]]></description>
+        </item>
         <item>
             <title><![CDATA[我把那個文件放在哪裡了？替換文件系統的時機已經到來]]></title>
             <link>https://news.ycombinator.com/item?id=30449263</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30381000</guid>
             <pubDate>Fri, 18 Feb 2022 01:05:37 GMT</pubDate>
             <description><![CDATA[Scientist busts myths about how humans burn calories–and why]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go的新模糊系統的內部構造]]></title>
-            <link>https://news.ycombinator.com/item?id=30380994</link>
-            <guid>https://news.ycombinator.com/item?id=30380994</guid>
-            <pubDate>Fri, 18 Feb 2022 01:04:52 GMT</pubDate>
-            <description><![CDATA[Internals of Go's new fuzzing system]]></description>
         </item>
     </channel>
 </rss>
