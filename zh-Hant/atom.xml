@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T14:38:53.277Z</updated>
+    <updated>2022-02-24T14:54:04.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國對17000名學生的研究。三分之一的人在封鎖期間感到更快樂]]></title>
+        <id>https://news.ycombinator.com/item?id=30455168</id>
+        <link href="https://news.ycombinator.com/item?id=30455168"/>
+        <updated>2022-02-24T14:35:02.000Z</updated>
+        <summary type="html"><![CDATA[UK study of 17,000 students: One in three felt happier during lockdown]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自定義JavaScript控件無法捕捉表單字段的細微差別(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30454881</id>
+        <link href="https://news.ycombinator.com/item?id=30454881"/>
+        <updated>2022-02-24T14:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Custom JavaScript controls can't capture the nuance of form fields (2021)]]></summary>
+        <author>
+            <name>nitsky</name>
+            <uri>https://news.ycombinator.com/user?id=nitsky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[參考：新聞網站可能有一個為低帶寬用戶提供的 "精簡 "版本]]></title>
+        <id>https://news.ycombinator.com/item?id=30454852</id>
+        <link href="https://news.ycombinator.com/item?id=30454852"/>
+        <updated>2022-02-24T14:10:13.000Z</updated>
+        <summary type="html"><![CDATA[FYI: News sites may have a “lite” version for low-bandwidth users]]></summary>
+        <author>
+            <name>SamuelAdams</name>
+            <uri>https://news.ycombinator.com/user?id=SamuelAdams</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用ATTINY85的原始戴爾充電器的仿真器]]></title>
+        <id>https://news.ycombinator.com/item?id=30454796</id>
+        <link href="https://news.ycombinator.com/item?id=30454796"/>
+        <updated>2022-02-24T14:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Emulator of Original Dell Charger Using ATTINY85]]></summary>
+        <author>
+            <name>tentacleuno</name>
+            <uri>https://news.ycombinator.com/user?id=tentacleuno</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鳥類捕食者對模仿性獵物的味覺排斥與信號的可靠性有關]]></title>
+        <id>https://news.ycombinator.com/item?id=30454644</id>
+        <link href="https://news.ycombinator.com/item?id=30454644"/>
+        <updated>2022-02-24T13:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Avian predators taste reject mimetic prey in relation to signal reliability]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在開放源碼許可證中加入非商業條款]]></title>
         <id>https://news.ycombinator.com/item?id=30454986</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fullmoon - 基於Redbean的Lua網絡框架，以單一文件形式部署]]></title>
-        <id>https://news.ycombinator.com/item?id=30385759</id>
-        <link href="https://news.ycombinator.com/item?id=30385759"/>
-        <updated>2022-02-18T14:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Fullmoon – Redbean-based Lua web framework deployed as single file]]></summary>
-        <author>
-            <name>keb_</name>
-            <uri>https://news.ycombinator.com/user?id=keb_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為用戶會話使用WWW-Authenticate HTTP標頭]]></title>
-        <id>https://news.ycombinator.com/item?id=30385666</id>
-        <link href="https://news.ycombinator.com/item?id=30385666"/>
-        <updated>2022-02-18T13:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Using the WWW-Authenticate HTTP header for user sessions]]></summary>
-        <author>
-            <name>blmayer</name>
-            <uri>https://news.ycombinator.com/user?id=blmayer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LXC vs. Docker。哪種容器平臺適合你？]]></title>
-        <id>https://news.ycombinator.com/item?id=30385580</id>
-        <link href="https://news.ycombinator.com/item?id=30385580"/>
-        <updated>2022-02-18T13:45:51.000Z</updated>
-        <summary type="html"><![CDATA[LXC vs. Docker: Which Container Platform Is Right for You?]]></summary>
-        <author>
-            <name>lycopodiopsida</name>
-            <uri>https://news.ycombinator.com/user?id=lycopodiopsida</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙丘。香料戰爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30385486</id>
-        <link href="https://news.ycombinator.com/item?id=30385486"/>
-        <updated>2022-02-18T13:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Dune: Spice Wars]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[校園裡的困難情況。自動送餐機器人的交通堵塞]]></title>
-        <id>https://news.ycombinator.com/item?id=30385421</id>
-        <link href="https://news.ycombinator.com/item?id=30385421"/>
-        <updated>2022-02-18T13:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Difficult situation on campus. Traffic jam of automated food delivery robots]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
