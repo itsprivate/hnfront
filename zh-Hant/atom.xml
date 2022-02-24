@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T07:52:06.978Z</updated>
+    <updated>2022-02-24T08:17:22.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WebSockets的一個愚蠢的用例]]></title>
+        <id>https://news.ycombinator.com/item?id=30451943</id>
+        <link href="https://news.ycombinator.com/item?id=30451943"/>
+        <updated>2022-02-24T07:56:07.000Z</updated>
+        <summary type="html"><![CDATA[A Silly Usecase for WebSockets]]></summary>
+        <author>
+            <name>quintussss</name>
+            <uri>https://news.ycombinator.com/user?id=quintussss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[按軟件執行]]></title>
+        <id>https://news.ycombinator.com/item?id=30451624</id>
+        <link href="https://news.ycombinator.com/item?id=30451624"/>
+        <updated>2022-02-24T07:15:52.000Z</updated>
+        <summary type="html"><![CDATA[Enforcement by Software]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS上的Tun和Tap VPN的未來]]></title>
         <id>https://news.ycombinator.com/item?id=30451406</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的遠程暴徒編程經驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30383382</id>
-        <link href="https://news.ycombinator.com/item?id=30383382"/>
-        <updated>2022-02-18T08:29:07.000Z</updated>
-        <summary type="html"><![CDATA[My Remote Mob Programming Experience]]></summary>
-        <author>
-            <name>zufallsheld</name>
-            <uri>https://news.ycombinator.com/user?id=zufallsheld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二維碼使用率飆升，FBI敲響警鐘]]></title>
-        <id>https://news.ycombinator.com/item?id=30383063</id>
-        <link href="https://news.ycombinator.com/item?id=30383063"/>
-        <updated>2022-02-18T07:32:42.000Z</updated>
-        <summary type="html"><![CDATA[FBI sounds alarm as QR code usage soars]]></summary>
-        <author>
-            <name>sofixa</name>
-            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
         </author>
     </entry>
 </feed>
