@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T19:12:14.216Z</updated>
+    <updated>2022-02-24T19:57:19.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[快速的Wordle，現在處於測試階段]]></title>
+        <id>https://news.ycombinator.com/item?id=30459184</id>
+        <link href="https://news.ycombinator.com/item?id=30459184"/>
+        <updated>2022-02-24T19:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Speed Wordle, Now in Beta]]></summary>
+        <author>
+            <name>aghilmort</name>
+            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[熱情地重新僱用]]></title>
         <id>https://news.ycombinator.com/item?id=30451580</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>barbazoo</name>
             <uri>https://news.ycombinator.com/user?id=barbazoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡爾-愛克力與豹子的生死搏鬥（1923年）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30390457</id>
-        <link href="https://news.ycombinator.com/item?id=30390457"/>
-        <updated>2022-02-18T20:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Carl Akeley’s fight to the death with a leopard (1923)]]></summary>
-        <author>
-            <name>gofiggy</name>
-            <uri>https://news.ycombinator.com/user?id=gofiggy</uri>
         </author>
     </entry>
 </feed>
