@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 22:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 22:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Servo是一個用Rust編寫的實驗性並行網絡瀏覽器]]></title>
+            <link>https://news.ycombinator.com/item?id=30460850</link>
+            <guid>https://news.ycombinator.com/item?id=30460850</guid>
+            <pubDate>Thu, 24 Feb 2022 21:56:29 GMT</pubDate>
+            <description><![CDATA[Servo is an experimental parallel web browser written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[第一場TikTok戰爭來了]]></title>
             <link>https://news.ycombinator.com/item?id=30460742</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30384121</guid>
             <pubDate>Fri, 18 Feb 2022 10:31:07 GMT</pubDate>
             <description><![CDATA[Nix: An idea whose time has come]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於NIST素域上橢圓曲線加密的高速處理器]]></title>
-            <link>https://news.ycombinator.com/item?id=30383278</link>
-            <guid>https://news.ycombinator.com/item?id=30383278</guid>
-            <pubDate>Fri, 18 Feb 2022 08:08:00 GMT</pubDate>
-            <description><![CDATA[A high speed processor for elliptic curve cryptography over NIST prime field]]></description>
         </item>
     </channel>
 </rss>
