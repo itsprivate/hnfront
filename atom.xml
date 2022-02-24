@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T12:54:11.320Z</updated>
+    <updated>2022-02-24T13:20:22.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌是否正在逐步淘汰Authenticator/TOTP？]]></title>
+        <id>https://news.ycombinator.com/item?id=30454104</id>
+        <link href="https://news.ycombinator.com/item?id=30454104"/>
+        <updated>2022-02-24T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Google phasing out Authenticator/TOTP?]]></summary>
+        <author>
+            <name>prometheon1</name>
+            <uri>https://news.ycombinator.com/user?id=prometheon1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加拿大结束紧急权力]]></title>
         <id>https://news.ycombinator.com/item?id=30452828</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hownottowrite</name>
             <uri>https://news.ycombinator.com/user?id=hownottowrite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使巨型项目更加模块化]]></title>
-        <id>https://news.ycombinator.com/item?id=30378177</id>
-        <link href="https://news.ycombinator.com/item?id=30378177"/>
-        <updated>2022-02-17T20:25:46.000Z</updated>
-        <summary type="html"><![CDATA[Make megaprojects more modular]]></summary>
-        <author>
-            <name>howsilly</name>
-            <uri>https://news.ycombinator.com/user?id=howsilly</uri>
         </author>
     </entry>
 </feed>
