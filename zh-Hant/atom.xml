@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T21:54:15.819Z</updated>
+    <updated>2022-02-24T22:14:17.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第一場TikTok戰爭來了]]></title>
+        <id>https://news.ycombinator.com/item?id=30460742</id>
+        <link href="https://news.ycombinator.com/item?id=30460742"/>
+        <updated>2022-02-24T21:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Here comes the first TikTok war]]></summary>
+        <author>
+            <name>CrankyBear</name>
+            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS規範的制定者們所做的事情是正確的]]></title>
+        <id>https://news.ycombinator.com/item?id=30460238</id>
+        <link href="https://news.ycombinator.com/item?id=30460238"/>
+        <updated>2022-02-24T21:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Things the CSS spec folks got right]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python中的壓縮傳感(2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=30450560</id>
+        <link href="https://news.ycombinator.com/item?id=30450560"/>
+        <updated>2022-02-24T05:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Compressed Sensing in Python (2016)]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[譜和代數圖論]]></title>
         <id>https://news.ycombinator.com/item?id=30460122</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rajnathani</name>
             <uri>https://news.ycombinator.com/user?id=rajnathani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼谷歌不能找到答案，儘管它們就在它的鼻子下面？]]></title>
-        <id>https://news.ycombinator.com/item?id=30392320</id>
-        <link href="https://news.ycombinator.com/item?id=30392320"/>
-        <updated>2022-02-18T23:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Why can't Google find answers though they are right under it's nose?]]></summary>
-        <author>
-            <name>wakahiu</name>
-            <uri>https://news.ycombinator.com/user?id=wakahiu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grist - Airtable和谷歌表格的免費開源替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30392227</id>
-        <link href="https://news.ycombinator.com/item?id=30392227"/>
-        <updated>2022-02-18T22:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Grist – Free open source alternative to Airtable and Google Sheets]]></summary>
-        <author>
-            <name>paulfitz</name>
-            <uri>https://news.ycombinator.com/user?id=paulfitz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玫瑰山莊之行]]></title>
-        <id>https://news.ycombinator.com/item?id=30390473</id>
-        <link href="https://news.ycombinator.com/item?id=30390473"/>
-        <updated>2022-02-18T20:14:51.000Z</updated>
-        <summary type="html"><![CDATA[The Trip to Rose Cottage]]></summary>
-        <author>
-            <name>robbybaron</name>
-            <uri>https://news.ycombinator.com/user?id=robbybaron</uri>
         </author>
     </entry>
 </feed>
