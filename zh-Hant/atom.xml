@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T02:00:17.153Z</updated>
+    <updated>2022-02-24T02:37:39.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Postgres Planner介紹（2019年）[視頻]。]]></title>
+        <id>https://news.ycombinator.com/item?id=30444281</id>
+        <link href="https://news.ycombinator.com/item?id=30444281"/>
+        <updated>2022-02-23T18:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Intro to Postgres Planner (2019) [video]]]></summary>
+        <author>
+            <name>pelt</name>
+            <uri>https://news.ycombinator.com/user?id=pelt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月光品牌(YC W21)正在招聘人員]]></title>
         <id>https://news.ycombinator.com/item?id=30448991</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>beepbooptheory</name>
             <uri>https://news.ycombinator.com/user?id=beepbooptheory</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跳過 - 一種編程語言，可以跳過你已經計算過的東西]]></title>
-        <id>https://news.ycombinator.com/item?id=30380747</id>
-        <link href="https://news.ycombinator.com/item?id=30380747"/>
-        <updated>2022-02-18T00:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Skip · A programming language to skip the things you have already computed]]></summary>
-        <author>
-            <name>bpierre</name>
-            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
         </author>
     </entry>
 </feed>
