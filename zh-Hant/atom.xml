@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T13:20:22.412Z</updated>
+    <updated>2022-02-24T13:36:56.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[迄今為止發現的最大的細菌具有出乎意料的複雜細胞]]></title>
+        <id>https://news.ycombinator.com/item?id=30454045</id>
+        <link href="https://news.ycombinator.com/item?id=30454045"/>
+        <updated>2022-02-24T12:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Largest bacterium ever discovered has unexpectedly complex cells]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails增加了對光纖安全的ActiveRecord連接池的支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30454043</id>
+        <link href="https://news.ycombinator.com/item?id=30454043"/>
+        <updated>2022-02-24T12:50:31.000Z</updated>
+        <summary type="html"><![CDATA[Rails adds support for Fiber-safe ActiveRecord ConnectionPools]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SARS-CoV-2含有部分專利基因序列]]></title>
+        <id>https://news.ycombinator.com/item?id=30454022</id>
+        <link href="https://news.ycombinator.com/item?id=30454022"/>
+        <updated>2022-02-24T12:48:14.000Z</updated>
+        <summary type="html"><![CDATA[SARS-CoV-2 contains part of a patented genetic sequence]]></summary>
+        <author>
+            <name>johndcook</name>
+            <uri>https://news.ycombinator.com/user?id=johndcook</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stockfish.js]]></title>
+        <id>https://news.ycombinator.com/item?id=30454021</id>
+        <link href="https://news.ycombinator.com/item?id=30454021"/>
+        <updated>2022-02-24T12:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Stockfish.js]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用ZFS的NFS共享]]></title>
+        <id>https://news.ycombinator.com/item?id=30452830</id>
+        <link href="https://news.ycombinator.com/item?id=30452830"/>
+        <updated>2022-02-24T09:46:38.000Z</updated>
+        <summary type="html"><![CDATA[NFS Shares with ZFS]]></summary>
+        <author>
+            <name>veronica_avram</name>
+            <uri>https://news.ycombinator.com/user?id=veronica_avram</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌是否正在逐步淘汰Authenticator/TOTP？]]></title>
         <id>https://news.ycombinator.com/item?id=30454104</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>qualudeheart</name>
             <uri>https://news.ycombinator.com/user?id=qualudeheart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[繆斯（YC W12）正在招聘一名高級平臺工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30384633</id>
-        <link href="https://news.ycombinator.com/item?id=30384633"/>
-        <updated>2022-02-18T12:00:58.000Z</updated>
-        <summary type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior Platform Engineer]]></summary>
-        <author>
-            <name>KMinshew</name>
-            <uri>https://news.ycombinator.com/user?id=KMinshew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惠通]]></title>
-        <id>https://news.ycombinator.com/item?id=30384505</id>
-        <link href="https://news.ycombinator.com/item?id=30384505"/>
-        <updated>2022-02-18T11:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Huetone]]></summary>
-        <author>
-            <name>john-doe</name>
-            <uri>https://news.ycombinator.com/user?id=john-doe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用React Native重寫的Windows 11設置]]></title>
-        <id>https://news.ycombinator.com/item?id=30384494</id>
-        <link href="https://news.ycombinator.com/item?id=30384494"/>
-        <updated>2022-02-18T11:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 settings rewritten in React Native]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新聞15歲生日快樂]]></title>
-        <id>https://news.ycombinator.com/item?id=30384506</id>
-        <link href="https://news.ycombinator.com/item?id=30384506"/>
-        <updated>2022-02-18T11:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Happy 15th birthday Hacker News]]></summary>
-        <author>
-            <name>andrelaszlo</name>
-            <uri>https://news.ycombinator.com/user?id=andrelaszlo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反對結對編程]]></title>
-        <id>https://news.ycombinator.com/item?id=30384454</id>
-        <link href="https://news.ycombinator.com/item?id=30384454"/>
-        <updated>2022-02-18T11:29:07.000Z</updated>
-        <summary type="html"><![CDATA[Against Pair Programming]]></summary>
-        <author>
-            <name>hownottowrite</name>
-            <uri>https://news.ycombinator.com/user?id=hownottowrite</uri>
         </author>
     </entry>
 </feed>
