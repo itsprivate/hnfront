@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 22:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 23:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PostgreSQL模式改变指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30458580</link>
+            <guid>https://news.ycombinator.com/item?id=30458580</guid>
+            <pubDate>Thu, 24 Feb 2022 18:47:44 GMT</pubDate>
+            <description><![CDATA[PostgreSQL Schema Change Guide]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的量子飞跃]]></title>
+            <link>https://news.ycombinator.com/item?id=30453588</link>
+            <guid>https://news.ycombinator.com/item?id=30453588</guid>
+            <pubDate>Thu, 24 Feb 2022 11:37:31 GMT</pubDate>
+            <description><![CDATA[My Quantum Leap]]></description>
+        </item>
+        <item>
+            <title><![CDATA[查克-克罗斯特曼谈书写过去和回味现在]]></title>
+            <link>https://news.ycombinator.com/item?id=30449281</link>
+            <guid>https://news.ycombinator.com/item?id=30449281</guid>
+            <pubDate>Thu, 24 Feb 2022 01:44:38 GMT</pubDate>
+            <description><![CDATA[Chuck Klosterman on writing the past and relishing the present]]></description>
+        </item>
         <item>
             <title><![CDATA[Servo是一个用Rust编写的实验性并行网络浏览器]]></title>
             <link>https://news.ycombinator.com/item?id=30460850</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30392849</guid>
             <pubDate>Fri, 18 Feb 2022 23:54:25 GMT</pubDate>
             <description><![CDATA[How we use Notion as a startup]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Numba更快地进行Python计算]]></title>
-            <link>https://news.ycombinator.com/item?id=30392367</link>
-            <guid>https://news.ycombinator.com/item?id=30392367</guid>
-            <pubDate>Fri, 18 Feb 2022 23:06:21 GMT</pubDate>
-            <description><![CDATA[Faster Python calculations with Numba]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每个程序员都必须知道的编码问题]]></title>
-            <link>https://news.ycombinator.com/item?id=30384223</link>
-            <guid>https://news.ycombinator.com/item?id=30384223</guid>
-            <pubDate>Fri, 18 Feb 2022 10:47:40 GMT</pubDate>
-            <description><![CDATA[What Every Programmer Absolutely, Positively Needs To Know About Encodings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尼克斯。一个时代已经到来的想法]]></title>
-            <link>https://news.ycombinator.com/item?id=30384121</link>
-            <guid>https://news.ycombinator.com/item?id=30384121</guid>
-            <pubDate>Fri, 18 Feb 2022 10:31:07 GMT</pubDate>
-            <description><![CDATA[Nix: An idea whose time has come]]></description>
         </item>
     </channel>
 </rss>
