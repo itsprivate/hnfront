@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 07:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 07:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[規模化的服務器端渲染]]></title>
+            <link>https://news.ycombinator.com/item?id=30444184</link>
+            <guid>https://news.ycombinator.com/item?id=30444184</guid>
+            <pubDate>Wed, 23 Feb 2022 18:05:08 GMT</pubDate>
+            <description><![CDATA[Server Side Rendering at scale]]></description>
+        </item>
         <item>
             <title><![CDATA[Bitmovin（YC S15）正在招聘軟件開發人員，以構建視頻的未來]]></title>
             <link>https://news.ycombinator.com/item?id=30451515</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30382520</guid>
             <pubDate>Fri, 18 Feb 2022 05:48:57 GMT</pubDate>
             <description><![CDATA[No one cares about your redesign]]></description>
-        </item>
-        <item>
-            <title><![CDATA[這裡的大測驗]]></title>
-            <link>https://news.ycombinator.com/item?id=30370602</link>
-            <guid>https://news.ycombinator.com/item?id=30370602</guid>
-            <pubDate>Thu, 17 Feb 2022 08:03:49 GMT</pubDate>
-            <description><![CDATA[The Big Here Quiz]]></description>
         </item>
     </channel>
 </rss>

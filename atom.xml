@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T07:13:35.141Z</updated>
+    <updated>2022-02-24T07:31:51.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[规模化的服务器端渲染]]></title>
+        <id>https://news.ycombinator.com/item?id=30444184</id>
+        <link href="https://news.ycombinator.com/item?id=30444184"/>
+        <updated>2022-02-23T18:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Server Side Rendering at scale]]></summary>
+        <author>
+            <name>epberry</name>
+            <uri>https://news.ycombinator.com/user?id=epberry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitmovin（YC S15）正在招聘软件开发人员，以构建视频的未来]]></title>
         <id>https://news.ycombinator.com/item?id=30451515</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ar1hant</name>
             <uri>https://news.ycombinator.com/user?id=ar1hant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这里的大测验]]></title>
-        <id>https://news.ycombinator.com/item?id=30370602</id>
-        <link href="https://news.ycombinator.com/item?id=30370602"/>
-        <updated>2022-02-17T08:03:49.000Z</updated>
-        <summary type="html"><![CDATA[The Big Here Quiz]]></summary>
-        <author>
-            <name>sni</name>
-            <uri>https://news.ycombinator.com/user?id=sni</uri>
         </author>
     </entry>
 </feed>
