@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-23T23:53:14.266Z</updated>
+    <updated>2022-02-24T00:37:33.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[热抽吸式可充电电池纤维实现无孔不入的供电]]></title>
+        <id>https://news.ycombinator.com/item?id=30448234</id>
+        <link href="https://news.ycombinator.com/item?id=30448234"/>
+        <updated>2022-02-23T23:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Thermally drawn rechargeable battery fiber enables pervasive power]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(如何编写(Lisp)解释器(用Python)》(2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=30443949</id>
+        <link href="https://news.ycombinator.com/item?id=30443949"/>
+        <updated>2022-02-23T17:48:17.000Z</updated>
+        <summary type="html"><![CDATA[(How to Write a (Lisp) Interpreter (In Python)) (2010)]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于软件抽象化的说明（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30439262</id>
+        <link href="https://news.ycombinator.com/item?id=30439262"/>
+        <updated>2022-02-23T09:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Notes on software abstraction (2020)]]></summary>
+        <author>
+            <name>Ambolia</name>
+            <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滑雪芭蕾舞团的兴衰]]></title>
+        <id>https://news.ycombinator.com/item?id=30438065</id>
+        <link href="https://news.ycombinator.com/item?id=30438065"/>
+        <updated>2022-02-23T05:44:22.000Z</updated>
+        <summary type="html"><![CDATA[The Rise and Fall of Ski Ballet]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一份50万美元的拨款提案是什么样子]]></title>
+        <id>https://news.ycombinator.com/item?id=30418562</id>
+        <link href="https://news.ycombinator.com/item?id=30418562"/>
+        <updated>2022-02-21T17:51:19.000Z</updated>
+        <summary type="html"><![CDATA[What a $500k grant proposal looks like]]></summary>
+        <author>
+            <name>azhenley</name>
+            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生物锚。可能或不可能奏效的伎俩]]></title>
         <id>https://news.ycombinator.com/item?id=30447865</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国现在是能源独立的国家]]></title>
-        <id>https://news.ycombinator.com/item?id=30378481</id>
-        <link href="https://news.ycombinator.com/item?id=30378481"/>
-        <updated>2022-02-17T20:51:38.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. is now energy independent]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用强化学习控制托卡马克中的核聚变等离子体]]></title>
-        <id>https://news.ycombinator.com/item?id=30379973</id>
-        <link href="https://news.ycombinator.com/item?id=30379973"/>
-        <updated>2022-02-17T23:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Controlling the nuclear fusion plasma in a tokamak with reinforcement learning]]></summary>
-        <author>
-            <name>317070</name>
-            <uri>https://news.ycombinator.com/user?id=317070</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack狂热可以通过系统化的纪律来治愈吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30356901</id>
-        <link href="https://news.ycombinator.com/item?id=30356901"/>
-        <updated>2022-02-16T06:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Can Slack-mania be cured with systemized discipline?]]></summary>
-        <author>
-            <name>ciprian_craciun</name>
-            <uri>https://news.ycombinator.com/user?id=ciprian_craciun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐设计：编码重写没有必要，因为大多数mojibake仍然可读]]></title>
-        <id>https://news.ycombinator.com/item?id=30379655</id>
-        <link href="https://news.ycombinator.com/item?id=30379655"/>
-        <updated>2022-02-17T22:38:26.000Z</updated>
-        <summary type="html"><![CDATA[Firefox dev: Encoding override not necessary since most mojibake still legible]]></summary>
-        <author>
-            <name>serentty</name>
-            <uri>https://news.ycombinator.com/user?id=serentty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[转基因发光鱼入侵巴西溪流]]></title>
-        <id>https://news.ycombinator.com/item?id=30379434</id>
-        <link href="https://news.ycombinator.com/item?id=30379434"/>
-        <updated>2022-02-17T22:17:46.000Z</updated>
-        <summary type="html"><![CDATA[Transgenic glowing fish invades Brazilian streams]]></summary>
-        <author>
-            <name>teepo</name>
-            <uri>https://news.ycombinator.com/user?id=teepo</uri>
         </author>
     </entry>
 </feed>
