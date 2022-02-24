@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T12:19:10.896Z</updated>
+    <updated>2022-02-24T12:54:11.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加拿大結束緊急權力]]></title>
+        <id>https://news.ycombinator.com/item?id=30452828</id>
+        <link href="https://news.ycombinator.com/item?id=30452828"/>
+        <updated>2022-02-24T09:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Canada Ends Emergency Powers]]></summary>
+        <author>
+            <name>thinkingemote</name>
+            <uri>https://news.ycombinator.com/user?id=thinkingemote</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新故事（YC S15）正在招聘直接建造的高級經理。]]></title>
         <id>https://news.ycombinator.com/item?id=30453732</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>howsilly</name>
             <uri>https://news.ycombinator.com/user?id=howsilly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反思級別、晉升和薪資問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30384286</id>
-        <link href="https://news.ycombinator.com/item?id=30384286"/>
-        <updated>2022-02-18T10:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Rethinking Levels, Promotions and Salaries]]></summary>
-        <author>
-            <name>vr000m</name>
-            <uri>https://news.ycombinator.com/user?id=vr000m</uri>
         </author>
     </entry>
 </feed>
