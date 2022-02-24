@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T17:35:24.101Z</updated>
+    <updated>2022-02-24T17:52:40.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰是霓虹灯气体的主要生产国，对用于芯片制造的激光器至关重要。]]></title>
+        <id>https://news.ycombinator.com/item?id=30457490</id>
+        <link href="https://news.ycombinator.com/item?id=30457490"/>
+        <updated>2022-02-24T17:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine is a major producer of neon gas, critical for lasers used in chipmaking]]></summary>
+        <author>
+            <name>swores</name>
+            <uri>https://news.ycombinator.com/user?id=swores</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：Reddit的系统导致了回声室的出现]]></title>
+        <id>https://news.ycombinator.com/item?id=30456957</id>
+        <link href="https://news.ycombinator.com/item?id=30456957"/>
+        <updated>2022-02-24T16:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Reddit's system leads to echo chambers]]></summary>
+        <author>
+            <name>tabtab</name>
+            <uri>https://news.ycombinator.com/user?id=tabtab</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust 1.59.0，支持内联汇编等]]></title>
         <id>https://news.ycombinator.com/item?id=30457261</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Jimmc414</name>
             <uri>https://news.ycombinator.com/user?id=Jimmc414</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[选择镗孔技术 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30389591</id>
-        <link href="https://news.ycombinator.com/item?id=30389591"/>
-        <updated>2022-02-18T18:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Choose Boring Technology (2015)]]></summary>
-        <author>
-            <name>lord_sudo</name>
-            <uri>https://news.ycombinator.com/user?id=lord_sudo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LTE上行链路的解调]]></title>
-        <id>https://news.ycombinator.com/item?id=30389335</id>
-        <link href="https://news.ycombinator.com/item?id=30389335"/>
-        <updated>2022-02-18T18:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Demodulation of LTE Uplink]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
