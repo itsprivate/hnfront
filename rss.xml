@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 10:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 11:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[网页浏览器中的IPFS连接指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30440410</link>
+            <guid>https://news.ycombinator.com/item?id=30440410</guid>
+            <pubDate>Wed, 23 Feb 2022 12:50:14 GMT</pubDate>
+            <description><![CDATA[A guide to IPFS connectivity in web browsers]]></description>
+        </item>
         <item>
             <title><![CDATA[基于Twitter的俄罗斯部队移动地图]]></title>
             <link>https://news.ycombinator.com/item?id=30452685</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30384191</guid>
             <pubDate>Fri, 18 Feb 2022 10:42:10 GMT</pubDate>
             <description><![CDATA[The Day AppGet Died]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Covid测试公司 "向第三方出售携带客户DNA的棉签]]></title>
-            <link>https://news.ycombinator.com/item?id=30384164</link>
-            <guid>https://news.ycombinator.com/item?id=30384164</guid>
-            <pubDate>Fri, 18 Feb 2022 10:38:18 GMT</pubDate>
-            <description><![CDATA[Covid testing firm ‘selling swabs carrying customers’ DNA’ to third parties]]></description>
         </item>
     </channel>
 </rss>
