@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T23:42:23.967Z</updated>
+    <updated>2022-02-24T23:53:18.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[掌握Dyalog APL (2009) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30453919</id>
+        <link href="https://news.ycombinator.com/item?id=30453919"/>
+        <updated>2022-02-24T12:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Mastering Dyalog APL (2009) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找特洛伊]]></title>
         <id>https://news.ycombinator.com/item?id=30461701</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>retromania</name>
             <uri>https://news.ycombinator.com/user?id=retromania</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Twitter上登錄]]></title>
-        <id>https://news.ycombinator.com/item?id=30393683</id>
-        <link href="https://news.ycombinator.com/item?id=30393683"/>
-        <updated>2022-02-19T01:51:13.000Z</updated>
-        <summary type="html"><![CDATA[Logging at Twitter]]></summary>
-        <author>
-            <name>manikandaraj</name>
-            <uri>https://news.ycombinator.com/user?id=manikandaraj</uri>
         </author>
     </entry>
 </feed>
