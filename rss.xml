@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 20:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 20:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[将Linux内核转移到现代C语言]]></title>
+            <link>https://news.ycombinator.com/item?id=30459634</link>
+            <guid>https://news.ycombinator.com/item?id=30459634</guid>
+            <pubDate>Thu, 24 Feb 2022 20:10:33 GMT</pubDate>
+            <description><![CDATA[Moving the Linux Kernel to Modern C]]></description>
+        </item>
+        <item>
+            <title><![CDATA[分散分销]]></title>
+            <link>https://news.ycombinator.com/item?id=30458679</link>
+            <guid>https://news.ycombinator.com/item?id=30458679</guid>
+            <pubDate>Thu, 24 Feb 2022 18:54:42 GMT</pubDate>
+            <description><![CDATA[Decentralizing Distribution]]></description>
+        </item>
         <item>
             <title><![CDATA[布里斯托尔大学的学生得到了死去的教授预先录制的讲座]]></title>
             <link>https://news.ycombinator.com/item?id=30458803</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30390881</guid>
             <pubDate>Fri, 18 Feb 2022 20:48:59 GMT</pubDate>
             <description><![CDATA[What's the roundest country on earth? (2016)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你还在使用真实数据来训练你的人工智能吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30384263</link>
-            <guid>https://news.ycombinator.com/item?id=30384263</guid>
-            <pubDate>Fri, 18 Feb 2022 10:54:26 GMT</pubDate>
-            <description><![CDATA[Are You Still Using Real Data to Train Your AI?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[证明Gnat Light Runtime的正确性 - The AdaCore Blog]]></title>
-            <link>https://news.ycombinator.com/item?id=30384018</link>
-            <guid>https://news.ycombinator.com/item?id=30384018</guid>
-            <pubDate>Fri, 18 Feb 2022 10:11:25 GMT</pubDate>
-            <description><![CDATA[Proving the Correctness of Gnat Light Runtime – The AdaCore Blog]]></description>
         </item>
     </channel>
 </rss>

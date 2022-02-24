@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T20:14:14.666Z</updated>
+    <updated>2022-02-24T20:33:41.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將Linux內核轉移到現代C語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30459634</id>
+        <link href="https://news.ycombinator.com/item?id=30459634"/>
+        <updated>2022-02-24T20:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Moving the Linux Kernel to Modern C]]></summary>
+        <author>
+            <name>chmaynard</name>
+            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分散分銷]]></title>
+        <id>https://news.ycombinator.com/item?id=30458679</id>
+        <link href="https://news.ycombinator.com/item?id=30458679"/>
+        <updated>2022-02-24T18:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Decentralizing Distribution]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[布里斯托爾大學的學生得到了死去的教授預先錄製的講座]]></title>
         <id>https://news.ycombinator.com/item?id=30458803</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>acqbu</name>
             <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你還在使用真實數據來訓練你的人工智能嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30384263</id>
-        <link href="https://news.ycombinator.com/item?id=30384263"/>
-        <updated>2022-02-18T10:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Are You Still Using Real Data to Train Your AI?]]></summary>
-        <author>
-            <name>headalgorithm</name>
-            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[證明Gnat Light Runtime的正確性 - The AdaCore Blog]]></title>
-        <id>https://news.ycombinator.com/item?id=30384018</id>
-        <link href="https://news.ycombinator.com/item?id=30384018"/>
-        <updated>2022-02-18T10:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Proving the Correctness of Gnat Light Runtime – The AdaCore Blog]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
