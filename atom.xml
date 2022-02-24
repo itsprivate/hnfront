@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T23:16:34.748Z</updated>
+    <updated>2022-02-24T23:42:23.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找特洛伊]]></title>
+        <id>https://news.ycombinator.com/item?id=30461701</id>
+        <link href="https://news.ycombinator.com/item?id=30461701"/>
+        <updated>2022-02-24T23:19:40.000Z</updated>
+        <summary type="html"><![CDATA[In Search of Troy]]></summary>
+        <author>
+            <name>furtively</name>
+            <uri>https://news.ycombinator.com/user?id=furtively</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么谷歌仍然有 "我感觉很幸运 "的按钮？]]></title>
+        <id>https://news.ycombinator.com/item?id=30461675</id>
+        <link href="https://news.ycombinator.com/item?id=30461675"/>
+        <updated>2022-02-24T23:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Why does Google still have the “I’m Feeling Lucky” button?]]></summary>
+        <author>
+            <name>everbody</name>
+            <uri>https://news.ycombinator.com/user?id=everbody</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PostgreSQL模式改变指南]]></title>
         <id>https://news.ycombinator.com/item?id=30458580</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>manikandaraj</name>
             <uri>https://news.ycombinator.com/user?id=manikandaraj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名沙特妇女的iPhone被揭露在世界各地被黑客攻击]]></title>
-        <id>https://news.ycombinator.com/item?id=30393530</id>
-        <link href="https://news.ycombinator.com/item?id=30393530"/>
-        <updated>2022-02-19T01:26:40.000Z</updated>
-        <summary type="html"><![CDATA[A Saudi woman's iPhone revealed hacking around the world]]></summary>
-        <author>
-            <name>arunc</name>
-            <uri>https://news.ycombinator.com/user?id=arunc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们如何使用Notion作为一个创业公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30392849</id>
-        <link href="https://news.ycombinator.com/item?id=30392849"/>
-        <updated>2022-02-18T23:54:25.000Z</updated>
-        <summary type="html"><![CDATA[How we use Notion as a startup]]></summary>
-        <author>
-            <name>rayshan</name>
-            <uri>https://news.ycombinator.com/user?id=rayshan</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 23:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 23:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[寻找特洛伊]]></title>
+            <link>https://news.ycombinator.com/item?id=30461701</link>
+            <guid>https://news.ycombinator.com/item?id=30461701</guid>
+            <pubDate>Thu, 24 Feb 2022 23:19:40 GMT</pubDate>
+            <description><![CDATA[In Search of Troy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么谷歌仍然有 "我感觉很幸运 "的按钮？]]></title>
+            <link>https://news.ycombinator.com/item?id=30461675</link>
+            <guid>https://news.ycombinator.com/item?id=30461675</guid>
+            <pubDate>Thu, 24 Feb 2022 23:17:25 GMT</pubDate>
+            <description><![CDATA[Why does Google still have the “I’m Feeling Lucky” button?]]></description>
+        </item>
         <item>
             <title><![CDATA[PostgreSQL模式改变指南]]></title>
             <link>https://news.ycombinator.com/item?id=30458580</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30393683</guid>
             <pubDate>Sat, 19 Feb 2022 01:51:13 GMT</pubDate>
             <description><![CDATA[Logging at Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一名沙特妇女的iPhone被揭露在世界各地被黑客攻击]]></title>
-            <link>https://news.ycombinator.com/item?id=30393530</link>
-            <guid>https://news.ycombinator.com/item?id=30393530</guid>
-            <pubDate>Sat, 19 Feb 2022 01:26:40 GMT</pubDate>
-            <description><![CDATA[A Saudi woman's iPhone revealed hacking around the world]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们如何使用Notion作为一个创业公司]]></title>
-            <link>https://news.ycombinator.com/item?id=30392849</link>
-            <guid>https://news.ycombinator.com/item?id=30392849</guid>
-            <pubDate>Fri, 18 Feb 2022 23:54:25 GMT</pubDate>
-            <description><![CDATA[How we use Notion as a startup]]></description>
         </item>
     </channel>
 </rss>
