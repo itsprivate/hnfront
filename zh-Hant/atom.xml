@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T17:22:51.260Z</updated>
+    <updated>2022-02-24T17:35:24.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.59.0，支持內聯彙編等]]></title>
+        <id>https://news.ycombinator.com/item?id=30457261</id>
+        <link href="https://news.ycombinator.com/item?id=30457261"/>
+        <updated>2022-02-24T17:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Rust 1.59.0 with Inline assembly support etc]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Union54 (YC S21)正在招聘人員]]></title>
         <id>https://news.ycombinator.com/item?id=30457160</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美達公司解除全球社區發展負責人的職務，使其捲入未成年性行為事件中]]></title>
-        <id>https://news.ycombinator.com/item?id=30389248</id>
-        <link href="https://news.ycombinator.com/item?id=30389248"/>
-        <updated>2022-02-18T18:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta axes head of global community development embroiled in underage sex sting]]></summary>
-        <author>
-            <name>spenvo</name>
-            <uri>https://news.ycombinator.com/user?id=spenvo</uri>
         </author>
     </entry>
 </feed>
