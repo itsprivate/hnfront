@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T14:33:04.709Z</updated>
+    <updated>2022-02-24T14:38:53.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在開放源碼許可證中加入非商業條款]]></title>
+        <id>https://news.ycombinator.com/item?id=30454986</id>
+        <link href="https://news.ycombinator.com/item?id=30454986"/>
+        <updated>2022-02-24T14:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Adding non-commercial clause to open source license]]></summary>
+        <author>
+            <name>freeloaderz</name>
+            <uri>https://news.ycombinator.com/user?id=freeloaderz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snipd - 人工智能播客播放器，用於突出顯示和記錄成績單的內容]]></title>
         <id>https://news.ycombinator.com/item?id=30454639</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼年輕人的性生活如此少？]]></title>
-        <id>https://news.ycombinator.com/item?id=30385292</id>
-        <link href="https://news.ycombinator.com/item?id=30385292"/>
-        <updated>2022-02-18T13:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Why Are Young People Having So Little Sex?]]></summary>
-        <author>
-            <name>gerbilly</name>
-            <uri>https://news.ycombinator.com/user?id=gerbilly</uri>
         </author>
     </entry>
 </feed>
