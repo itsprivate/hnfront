@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-24T07:31:51.344Z</updated>
+    <updated>2022-02-24T07:38:08.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Supershields.io - 智能的、由Lua驱动的SVG状态徽章]]></title>
+        <id>https://news.ycombinator.com/item?id=30451402</id>
+        <link href="https://news.ycombinator.com/item?id=30451402"/>
+        <updated>2022-02-24T06:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Supershields.io – smart, Lua-powered SVG status badges]]></summary>
+        <author>
+            <name>rlonn</name>
+            <uri>https://news.ycombinator.com/user?id=rlonn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[规模化的服务器端渲染]]></title>
         <id>https://news.ycombinator.com/item?id=30444184</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>intunderflow</name>
             <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有人关心你的重新设计]]></title>
-        <id>https://news.ycombinator.com/item?id=30382520</id>
-        <link href="https://news.ycombinator.com/item?id=30382520"/>
-        <updated>2022-02-18T05:48:57.000Z</updated>
-        <summary type="html"><![CDATA[No one cares about your redesign]]></summary>
-        <author>
-            <name>ar1hant</name>
-            <uri>https://news.ycombinator.com/user?id=ar1hant</uri>
         </author>
     </entry>
 </feed>
