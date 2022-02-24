@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:58:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我把那个文件放在哪里了？替换文件系统的时机已经到来]]></title>
+            <link>https://news.ycombinator.com/item?id=30449263</link>
+            <guid>https://news.ycombinator.com/item?id=30449263</guid>
+            <pubDate>Thu, 24 Feb 2022 01:39:50 GMT</pubDate>
+            <description><![CDATA[Where Did I Put That File? The time has come to replace file systems]]></description>
+        </item>
         <item>
             <title><![CDATA[用于云、边缘和物联网的可编程网络代理]]></title>
             <link>https://news.ycombinator.com/item?id=30449536</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30380994</guid>
             <pubDate>Fri, 18 Feb 2022 01:04:52 GMT</pubDate>
             <description><![CDATA[Internals of Go's new fuzzing system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SuperTokens (YC S20) 正在招聘一名前端工程师（远程）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30380969</link>
-            <guid>https://news.ycombinator.com/item?id=30380969</guid>
-            <pubDate>Fri, 18 Feb 2022 01:00:35 GMT</pubDate>
-            <description><![CDATA[SuperTokens (YC S20) Is Hiring a frontent engineer (remote)]]></description>
         </item>
     </channel>
 </rss>
