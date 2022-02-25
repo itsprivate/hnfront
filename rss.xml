@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 22:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 23:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[乌克兰人的免费Tarsnap备份]]></title>
+            <link>https://news.ycombinator.com/item?id=30473005</link>
+            <guid>https://news.ycombinator.com/item?id=30473005</guid>
+            <pubDate>Fri, 25 Feb 2022 22:15:27 GMT</pubDate>
+            <description><![CDATA[Free Tarsnap Backups for Ukrainians]]></description>
+        </item>
         <item>
             <title><![CDATA[在Postgres上进行偏执的SQL执行]]></title>
             <link>https://news.ycombinator.com/item?id=30447025</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30401882</guid>
             <pubDate>Sun, 20 Feb 2022 00:18:59 GMT</pubDate>
             <description><![CDATA[Why babies cry in the first three months, how to tell them apart, and what to do]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Datalog是一种用于授权的好语言吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30400886</link>
-            <guid>https://news.ycombinator.com/item?id=30400886</guid>
-            <pubDate>Sat, 19 Feb 2022 21:53:23 GMT</pubDate>
-            <description><![CDATA[Is Datalog a good language for authorization?]]></description>
         </item>
     </channel>
 </rss>

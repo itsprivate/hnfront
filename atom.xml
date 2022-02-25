@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T22:52:29.838Z</updated>
+    <updated>2022-02-25T23:13:24.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰人的免费Tarsnap备份]]></title>
+        <id>https://news.ycombinator.com/item?id=30473005</id>
+        <link href="https://news.ycombinator.com/item?id=30473005"/>
+        <updated>2022-02-25T22:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Free Tarsnap Backups for Ukrainians]]></summary>
+        <author>
+            <name>ghewgill</name>
+            <uri>https://news.ycombinator.com/user?id=ghewgill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Postgres上进行偏执的SQL执行]]></title>
         <id>https://news.ycombinator.com/item?id=30447025</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datalog是一种用于授权的好语言吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30400886</id>
-        <link href="https://news.ycombinator.com/item?id=30400886"/>
-        <updated>2022-02-19T21:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Is Datalog a good language for authorization?]]></summary>
-        <author>
-            <name>triska</name>
-            <uri>https://news.ycombinator.com/user?id=triska</uri>
         </author>
     </entry>
 </feed>
