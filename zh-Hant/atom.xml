@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T15:47:38.685Z</updated>
+    <updated>2022-02-25T16:15:57.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[簡要介紹一下什麼是SWIFT以及它為什麼重要]]></title>
+        <id>https://news.ycombinator.com/item?id=30456026</id>
+        <link href="https://news.ycombinator.com/item?id=30456026"/>
+        <updated>2022-02-24T15:47:50.000Z</updated>
+        <summary type="html"><![CDATA[A quick breakdown of what SWIFT is and why it matters]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從鹽水中提取鋰的兩種新方法]]></title>
         <id>https://news.ycombinator.com/item?id=30467989</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lovelearning</name>
             <uri>https://news.ycombinator.com/user?id=lovelearning</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在週末停止思考工作和軟件工程的問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30398085</id>
-        <link href="https://news.ycombinator.com/item?id=30398085"/>
-        <updated>2022-02-19T16:05:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to stop thinking about work and software engineering on the weekend?]]></summary>
-        <author>
-            <name>dondraper36</name>
-            <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
         </author>
     </entry>
 </feed>
