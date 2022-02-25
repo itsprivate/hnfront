@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 03:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 04:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Piet-GPU的进展。剪切]]></title>
+            <link>https://news.ycombinator.com/item?id=30462322</link>
+            <guid>https://news.ycombinator.com/item?id=30462322</guid>
+            <pubDate>Fri, 25 Feb 2022 00:34:06 GMT</pubDate>
+            <description><![CDATA[Piet-GPU Progress: Clipping]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哥德尔不完备性定理，在Bash]]></title>
+            <link>https://news.ycombinator.com/item?id=30460458</link>
+            <guid>https://news.ycombinator.com/item?id=30460458</guid>
+            <pubDate>Thu, 24 Feb 2022 21:20:51 GMT</pubDate>
+            <description><![CDATA[Gödel's Incompleteness Theorem, in Bash]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在没有多路径TCP的情况下走多路径]]></title>
+            <link>https://news.ycombinator.com/item?id=30454014</link>
+            <guid>https://news.ycombinator.com/item?id=30454014</guid>
+            <pubDate>Thu, 24 Feb 2022 12:46:36 GMT</pubDate>
+            <description><![CDATA[Going multipath without Multipath TCP]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jless - 一个命令行的JSON查看器（用Rust编写）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30452162</link>
+            <guid>https://news.ycombinator.com/item?id=30452162</guid>
+            <pubDate>Thu, 24 Feb 2022 08:20:27 GMT</pubDate>
+            <description><![CDATA[Jless – a command-line JSON viewer (written in Rust)]]></description>
+        </item>
         <item>
             <title><![CDATA[分析鱼类新鲜度的电子舌 (2008) [pdf]]]></title>
             <link>https://news.ycombinator.com/item?id=29048079</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30394918</guid>
             <pubDate>Sat, 19 Feb 2022 06:44:41 GMT</pubDate>
             <description><![CDATA[Thoughts on Intel software-defined silicon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我搬离了概念]]></title>
-            <link>https://news.ycombinator.com/item?id=30394713</link>
-            <guid>https://news.ycombinator.com/item?id=30394713</guid>
-            <pubDate>Sat, 19 Feb 2022 05:42:36 GMT</pubDate>
-            <description><![CDATA[I Moved Away from Notion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[简单的 "人工智能 "可以预测银行经理的贷款决定，准确率超过95%。]]></title>
-            <link>https://news.ycombinator.com/item?id=30394731</link>
-            <guid>https://news.ycombinator.com/item?id=30394731</guid>
-            <pubDate>Sat, 19 Feb 2022 05:49:34 GMT</pubDate>
-            <description><![CDATA[‘Simple’ AI Can Anticipate Bank Managers’ Loan Decisions to over 95% Accuracy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Raycast（YC W20）正在招聘，以使工作无障碍（欧洲的远程）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30394973</link>
-            <guid>https://news.ycombinator.com/item?id=30394973</guid>
-            <pubDate>Sat, 19 Feb 2022 07:00:08 GMT</pubDate>
-            <description><![CDATA[Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Safari现在支持具有私人来源的文件系统访问API]]></title>
-            <link>https://news.ycombinator.com/item?id=30394737</link>
-            <guid>https://news.ycombinator.com/item?id=30394737</guid>
-            <pubDate>Sat, 19 Feb 2022 05:51:19 GMT</pubDate>
-            <description><![CDATA[Safari now supports File System Access API with private origin]]></description>
         </item>
     </channel>
 </rss>

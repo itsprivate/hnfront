@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T03:51:27.004Z</updated>
+    <updated>2022-02-25T04:39:55.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Piet-GPU的進展。剪切]]></title>
+        <id>https://news.ycombinator.com/item?id=30462322</id>
+        <link href="https://news.ycombinator.com/item?id=30462322"/>
+        <updated>2022-02-25T00:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Piet-GPU Progress: Clipping]]></summary>
+        <author>
+            <name>raphlinus</name>
+            <uri>https://news.ycombinator.com/user?id=raphlinus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哥德爾不完備性定理，在Bash]]></title>
+        <id>https://news.ycombinator.com/item?id=30460458</id>
+        <link href="https://news.ycombinator.com/item?id=30460458"/>
+        <updated>2022-02-24T21:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Gödel's Incompleteness Theorem, in Bash]]></summary>
+        <author>
+            <name>lacker</name>
+            <uri>https://news.ycombinator.com/user?id=lacker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在沒有多路徑TCP的情況下走多路徑]]></title>
+        <id>https://news.ycombinator.com/item?id=30454014</id>
+        <link href="https://news.ycombinator.com/item?id=30454014"/>
+        <updated>2022-02-24T12:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Going multipath without Multipath TCP]]></summary>
+        <author>
+            <name>FiloSottile</name>
+            <uri>https://news.ycombinator.com/user?id=FiloSottile</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jless - 一個命令行的JSON查看器（用Rust編寫）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30452162</id>
+        <link href="https://news.ycombinator.com/item?id=30452162"/>
+        <updated>2022-02-24T08:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Jless – a command-line JSON viewer (written in Rust)]]></summary>
+        <author>
+            <name>vicek22</name>
+            <uri>https://news.ycombinator.com/user?id=vicek22</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分析魚類新鮮度的電子舌 (2008) [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=29048079</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我搬離了概念]]></title>
-        <id>https://news.ycombinator.com/item?id=30394713</id>
-        <link href="https://news.ycombinator.com/item?id=30394713"/>
-        <updated>2022-02-19T05:42:36.000Z</updated>
-        <summary type="html"><![CDATA[I Moved Away from Notion]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[簡單的 "人工智能 "可以預測銀行經理的貸款決定，準確率超過95%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30394731</id>
-        <link href="https://news.ycombinator.com/item?id=30394731"/>
-        <updated>2022-02-19T05:49:34.000Z</updated>
-        <summary type="html"><![CDATA[‘Simple’ AI Can Anticipate Bank Managers’ Loan Decisions to over 95% Accuracy]]></summary>
-        <author>
-            <name>Hard_Space</name>
-            <uri>https://news.ycombinator.com/user?id=Hard_Space</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raycast（YC W20）正在招聘，以使工作無障礙（歐洲的遠程）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30394973</id>
-        <link href="https://news.ycombinator.com/item?id=30394973"/>
-        <updated>2022-02-19T07:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)]]></summary>
-        <author>
-            <name>thomaspaulmann</name>
-            <uri>https://news.ycombinator.com/user?id=thomaspaulmann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari現在支持具有私人來源的文件系統訪問API]]></title>
-        <id>https://news.ycombinator.com/item?id=30394737</id>
-        <link href="https://news.ycombinator.com/item?id=30394737"/>
-        <updated>2022-02-19T05:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Safari now supports File System Access API with private origin]]></summary>
-        <author>
-            <name>jvican</name>
-            <uri>https://news.ycombinator.com/user?id=jvican</uri>
         </author>
     </entry>
 </feed>
