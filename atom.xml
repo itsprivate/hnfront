@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T17:43:50.686Z</updated>
+    <updated>2022-02-25T18:16:19.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为初创企业争取谷歌工作空间的实用指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30469652</id>
+        <link href="https://news.ycombinator.com/item?id=30469652"/>
+        <updated>2022-02-25T17:23:28.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to securing Google Workspace for a startup]]></summary>
+        <author>
+            <name>gepeto42</name>
+            <uri>https://news.ycombinator.com/user?id=gepeto42</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阻止普京，阻挡俄罗斯进入斯威夫特]]></title>
         <id>https://news.ycombinator.com/item?id=30469630</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hammock</name>
             <uri>https://news.ycombinator.com/user?id=hammock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[碎片管理器。用于地理分布式应用的分片管理框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30400447</id>
-        <link href="https://news.ycombinator.com/item?id=30400447"/>
-        <updated>2022-02-19T20:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Shard Manager: A Shard Management Framework for Geo-Distributed Applications]]></summary>
-        <author>
-            <name>mlerner</name>
-            <uri>https://news.ycombinator.com/user?id=mlerner</uri>
         </author>
     </entry>
 </feed>
