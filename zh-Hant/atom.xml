@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T20:33:26.710Z</updated>
+    <updated>2022-02-25T20:53:34.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[愛的故事》的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30458329</id>
+        <link href="https://news.ycombinator.com/item?id=30458329"/>
+        <updated>2022-02-24T18:28:29.000Z</updated>
+        <summary type="html"><![CDATA[The Love Story Story]]></summary>
+        <author>
+            <name>pepys</name>
+            <uri>https://news.ycombinator.com/user?id=pepys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我需要學習什麼才能成為一個有用的黑客來保衛我的國家？]]></title>
         <id>https://news.ycombinator.com/item?id=30471631</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kencausey</name>
             <uri>https://news.ycombinator.com/user?id=kencausey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games正在將數百名臨時測試人員變成有福利的正式員工]]></title>
-        <id>https://news.ycombinator.com/item?id=30400882</id>
-        <link href="https://news.ycombinator.com/item?id=30400882"/>
-        <updated>2022-02-19T21:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Epic Games is making hundreds of temp testers into full employees with benefits]]></summary>
-        <author>
-            <name>orangebanana1</name>
-            <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
         </author>
     </entry>
 </feed>
