@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T23:32:40.871Z</updated>
+    <updated>2022-02-25T23:51:38.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从最终状态思考问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30464382</id>
+        <link href="https://news.ycombinator.com/item?id=30464382"/>
+        <updated>2022-02-25T06:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Thinking from the End State]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么经过科学验证的提高注意力的技巧吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30473322</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shmageggy</name>
             <uri>https://news.ycombinator.com/user?id=shmageggy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的第一个80天VR锻炼法]]></title>
-        <id>https://news.ycombinator.com/item?id=30402020</id>
-        <link href="https://news.ycombinator.com/item?id=30402020"/>
-        <updated>2022-02-20T00:40:25.000Z</updated>
-        <summary type="html"><![CDATA[My First 80 Days of VR for Exercise]]></summary>
-        <author>
-            <name>w1nter</name>
-            <uri>https://news.ycombinator.com/user?id=w1nter</uri>
         </author>
     </entry>
 </feed>
