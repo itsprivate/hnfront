@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 21:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 21:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奇怪的是缺乏Sprintf的擴展性]]></title>
+            <link>https://news.ycombinator.com/item?id=30472423</link>
+            <guid>https://news.ycombinator.com/item?id=30472423</guid>
+            <pubDate>Fri, 25 Feb 2022 21:11:23 GMT</pubDate>
+            <description><![CDATA[Curious Lack of Sprintf Scaling]]></description>
+        </item>
         <item>
             <title><![CDATA[DevCycle (YC W14)正在招聘各級別的工程師]]></title>
             <link>https://news.ycombinator.com/item?id=30472336</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30400648</guid>
             <pubDate>Sat, 19 Feb 2022 21:21:26 GMT</pubDate>
             <description><![CDATA[Squeezing Performance from SQLite: EXPLAINing the Virtual Machine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為了你的安全而被囚禁]]></title>
-            <link>https://news.ycombinator.com/item?id=30401385</link>
-            <guid>https://news.ycombinator.com/item?id=30401385</guid>
-            <pubDate>Sat, 19 Feb 2022 23:05:49 GMT</pubDate>
-            <description><![CDATA[Imprisoned for Your Safety]]></description>
         </item>
     </channel>
 </rss>
