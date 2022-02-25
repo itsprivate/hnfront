@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T10:12:46.868Z</updated>
+    <updated>2022-02-25T10:35:25.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[油墨/缝制]]></title>
+        <id>https://news.ycombinator.com/item?id=30465375</id>
+        <link href="https://news.ycombinator.com/item?id=30465375"/>
+        <updated>2022-02-25T09:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Ink/Stitch]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[未来是真菌的天下]]></title>
         <id>https://news.ycombinator.com/item?id=30451567</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wreath</name>
             <uri>https://news.ycombinator.com/user?id=wreath</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格雷德是一个来自安全地狱的邪恶噩梦产品]]></title>
-        <id>https://news.ycombinator.com/item?id=30396156</id>
-        <link href="https://news.ycombinator.com/item?id=30396156"/>
-        <updated>2022-02-19T11:01:55.000Z</updated>
-        <summary type="html"><![CDATA[Plaid is an evil nightmare product from Security Hell]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
