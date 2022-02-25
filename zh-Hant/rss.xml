@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 14:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 14:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在12個月內學會了法語]]></title>
+            <link>https://news.ycombinator.com/item?id=30467597</link>
+            <guid>https://news.ycombinator.com/item?id=30467597</guid>
+            <pubDate>Fri, 25 Feb 2022 14:24:37 GMT</pubDate>
+            <description><![CDATA[I Learned French in 12 Months]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通過編寫一個小的操作系統來學習Rust]]></title>
+            <link>https://news.ycombinator.com/item?id=30467572</link>
+            <guid>https://news.ycombinator.com/item?id=30467572</guid>
+            <pubDate>Fri, 25 Feb 2022 14:22:30 GMT</pubDate>
+            <description><![CDATA[Learn Rust by writing a small OS]]></description>
+        </item>
         <item>
             <title><![CDATA[關於我的工作的寫作]]></title>
             <link>https://news.ycombinator.com/item?id=30449181</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30397955</guid>
             <pubDate>Sat, 19 Feb 2022 15:50:42 GMT</pubDate>
             <description><![CDATA[The Wine Tasting Event: Distinguishing Reds from Whites (2014)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla Webmaker]]></title>
-            <link>https://news.ycombinator.com/item?id=30397839</link>
-            <guid>https://news.ycombinator.com/item?id=30397839</guid>
-            <pubDate>Sat, 19 Feb 2022 15:34:16 GMT</pubDate>
-            <description><![CDATA[Mozilla Webmaker]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何用Python寫出更好的科學代碼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30397485</link>
-            <guid>https://news.ycombinator.com/item?id=30397485</guid>
-            <pubDate>Sat, 19 Feb 2022 14:47:14 GMT</pubDate>
-            <description><![CDATA[How to write better scientific code in Python?]]></description>
         </item>
     </channel>
 </rss>

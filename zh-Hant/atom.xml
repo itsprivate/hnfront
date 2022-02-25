@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T14:30:27.359Z</updated>
+    <updated>2022-02-25T14:52:32.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在12個月內學會了法語]]></title>
+        <id>https://news.ycombinator.com/item?id=30467597</id>
+        <link href="https://news.ycombinator.com/item?id=30467597"/>
+        <updated>2022-02-25T14:24:37.000Z</updated>
+        <summary type="html"><![CDATA[I Learned French in 12 Months]]></summary>
+        <author>
+            <name>elamje</name>
+            <uri>https://news.ycombinator.com/user?id=elamje</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過編寫一個小的操作系統來學習Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=30467572</id>
+        <link href="https://news.ycombinator.com/item?id=30467572"/>
+        <updated>2022-02-25T14:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Learn Rust by writing a small OS]]></summary>
+        <author>
+            <name>elamje</name>
+            <uri>https://news.ycombinator.com/user?id=elamje</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於我的工作的寫作]]></title>
         <id>https://news.ycombinator.com/item?id=30449181</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>monort</name>
             <uri>https://news.ycombinator.com/user?id=monort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Webmaker]]></title>
-        <id>https://news.ycombinator.com/item?id=30397839</id>
-        <link href="https://news.ycombinator.com/item?id=30397839"/>
-        <updated>2022-02-19T15:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla Webmaker]]></summary>
-        <author>
-            <name>throwoutway</name>
-            <uri>https://news.ycombinator.com/user?id=throwoutway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用Python寫出更好的科學代碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30397485</id>
-        <link href="https://news.ycombinator.com/item?id=30397485"/>
-        <updated>2022-02-19T14:47:14.000Z</updated>
-        <summary type="html"><![CDATA[How to write better scientific code in Python?]]></summary>
-        <author>
-            <name>EntICOnc</name>
-            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
         </author>
     </entry>
 </feed>
