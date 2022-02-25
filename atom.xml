@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T06:15:13.484Z</updated>
+    <updated>2022-02-25T06:55:44.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在2022年加快Rust编译器的速度]]></title>
+        <id>https://news.ycombinator.com/item?id=30464050</id>
+        <link href="https://news.ycombinator.com/item?id=30464050"/>
+        <updated>2022-02-25T05:41:17.000Z</updated>
+        <summary type="html"><![CDATA[How to speed up the Rust compiler in 2022]]></summary>
+        <author>
+            <name>nnethercote</name>
+            <uri>https://news.ycombinator.com/user?id=nnethercote</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[朋克战略指南的逻辑思维过程（2019）。]]></title>
         <id>https://news.ycombinator.com/item?id=30457222</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C会议结束了。C23添加了以下内容。]]></title>
-        <id>https://news.ycombinator.com/item?id=30395016</id>
-        <link href="https://news.ycombinator.com/item?id=30395016"/>
-        <updated>2022-02-19T07:11:08.000Z</updated>
-        <summary type="html"><![CDATA[C meeting is over. C23 added the follow:]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 06:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 06:55:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何在2022年加快Rust编译器的速度]]></title>
+            <link>https://news.ycombinator.com/item?id=30464050</link>
+            <guid>https://news.ycombinator.com/item?id=30464050</guid>
+            <pubDate>Fri, 25 Feb 2022 05:41:17 GMT</pubDate>
+            <description><![CDATA[How to speed up the Rust compiler in 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[朋克战略指南的逻辑思维过程（2019）。]]></title>
             <link>https://news.ycombinator.com/item?id=30457222</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30394000</guid>
             <pubDate>Sat, 19 Feb 2022 02:53:37 GMT</pubDate>
             <description><![CDATA[Odin Programming Language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C会议结束了。C23添加了以下内容。]]></title>
-            <link>https://news.ycombinator.com/item?id=30395016</link>
-            <guid>https://news.ycombinator.com/item?id=30395016</guid>
-            <pubDate>Sat, 19 Feb 2022 07:11:08 GMT</pubDate>
-            <description><![CDATA[C meeting is over. C23 added the follow:]]></description>
         </item>
     </channel>
 </rss>
