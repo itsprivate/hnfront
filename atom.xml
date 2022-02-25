@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T12:19:22.957Z</updated>
+    <updated>2022-02-25T13:09:02.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ARJ软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30466484</id>
+        <link href="https://news.ycombinator.com/item?id=30466484"/>
+        <updated>2022-02-25T12:20:03.000Z</updated>
+        <summary type="html"><![CDATA[ARJ Software]]></summary>
+        <author>
+            <name>rdli</name>
+            <uri>https://news.ycombinator.com/user?id=rdli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学是量子纠缠保护的关键吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30465890</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>smallerfish</name>
             <uri>https://news.ycombinator.com/user?id=smallerfish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大脑对身体状态的解读是心理健康的关键]]></title>
-        <id>https://news.ycombinator.com/item?id=30395583</id>
-        <link href="https://news.ycombinator.com/item?id=30395583"/>
-        <updated>2022-02-19T09:07:27.000Z</updated>
-        <summary type="html"><![CDATA[The brain’s reading of the body’s state is key to mental health]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
