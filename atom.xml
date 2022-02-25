@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T14:52:32.495Z</updated>
+    <updated>2022-02-25T15:15:34.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：YouTube正在禁止支持乌克兰的账户]]></title>
+        <id>https://news.ycombinator.com/item?id=30467384</id>
+        <link href="https://news.ycombinator.com/item?id=30467384"/>
+        <updated>2022-02-25T14:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: YouTube is banning accounts that support Ukraine]]></summary>
+        <author>
+            <name>foxfluff</name>
+            <uri>https://news.ycombinator.com/user?id=foxfluff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在12个月内学会了法语]]></title>
         <id>https://news.ycombinator.com/item?id=30467597</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jvanveen</name>
             <uri>https://news.ycombinator.com/user?id=jvanveen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[葡萄酒品鉴会。区别红葡萄酒和白葡萄酒 (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=30397955</id>
-        <link href="https://news.ycombinator.com/item?id=30397955"/>
-        <updated>2022-02-19T15:50:42.000Z</updated>
-        <summary type="html"><![CDATA[The Wine Tasting Event: Distinguishing Reds from Whites (2014)]]></summary>
-        <author>
-            <name>monort</name>
-            <uri>https://news.ycombinator.com/user?id=monort</uri>
         </author>
     </entry>
 </feed>
