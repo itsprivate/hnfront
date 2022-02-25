@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 21:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 21:52:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[繪製流浪線。費爾南-德利尼的靜謐啟示》（2015年）]]></title>
+            <link>https://news.ycombinator.com/item?id=30449143</link>
+            <guid>https://news.ycombinator.com/item?id=30449143</guid>
+            <pubDate>Thu, 24 Feb 2022 01:18:24 GMT</pubDate>
+            <description><![CDATA[Mapping the Wander Lines: The Quiet Revelations of Fernand Deligny (2015)]]></description>
+        </item>
         <item>
             <title><![CDATA[奇怪的是缺乏Sprintf的擴展性]]></title>
             <link>https://news.ycombinator.com/item?id=30472423</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30394854</guid>
             <pubDate>Sat, 19 Feb 2022 06:27:52 GMT</pubDate>
             <description><![CDATA[Better Science (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從SQLite中榨取性能。解讀虛擬機]]></title>
-            <link>https://news.ycombinator.com/item?id=30400648</link>
-            <guid>https://news.ycombinator.com/item?id=30400648</guid>
-            <pubDate>Sat, 19 Feb 2022 21:21:26 GMT</pubDate>
-            <description><![CDATA[Squeezing Performance from SQLite: EXPLAINing the Virtual Machine]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T21:38:27.592Z</updated>
+    <updated>2022-02-25T21:52:13.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[绘制流浪线。费尔南-德利尼的静谧启示》（2015年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30449143</id>
+        <link href="https://news.ycombinator.com/item?id=30449143"/>
+        <updated>2022-02-24T01:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Mapping the Wander Lines: The Quiet Revelations of Fernand Deligny (2015)]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奇怪的是缺乏Sprintf的扩展性]]></title>
         <id>https://news.ycombinator.com/item?id=30472423</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从SQLite中榨取性能。解读虚拟机]]></title>
-        <id>https://news.ycombinator.com/item?id=30400648</id>
-        <link href="https://news.ycombinator.com/item?id=30400648"/>
-        <updated>2022-02-19T21:21:26.000Z</updated>
-        <summary type="html"><![CDATA[Squeezing Performance from SQLite: EXPLAINing the Virtual Machine]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
