@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T11:29:51.436Z</updated>
+    <updated>2022-02-25T12:19:23.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數學是量子糾纏保護的關鍵嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30465890</id>
+        <link href="https://news.ycombinator.com/item?id=30465890"/>
+        <updated>2022-02-25T10:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Is Math the Key to Quantum Entanglement Protection?]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個幾乎完美的rsync over SSH備份腳本]]></title>
+        <id>https://news.ycombinator.com/item?id=30465581</id>
+        <link href="https://news.ycombinator.com/item?id=30465581"/>
+        <updated>2022-02-25T10:06:13.000Z</updated>
+        <summary type="html"><![CDATA[A almost perfect rsync over SSH backup script]]></summary>
+        <author>
+            <name>bpasero</name>
+            <uri>https://news.ycombinator.com/user?id=bpasero</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二次方程]]></title>
+        <id>https://news.ycombinator.com/item?id=30453864</id>
+        <link href="https://news.ycombinator.com/item?id=30453864"/>
+        <updated>2022-02-24T12:24:04.000Z</updated>
+        <summary type="html"><![CDATA[The Quadratic Formula]]></summary>
+        <author>
+            <name>jamesfisher</name>
+            <uri>https://news.ycombinator.com/user?id=jamesfisher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要使用RAR]]></title>
         <id>https://news.ycombinator.com/item?id=30465933</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格燒掉了5000億美元，把Facebook變成了Meta]]></title>
-        <id>https://news.ycombinator.com/item?id=30397094</id>
-        <link href="https://news.ycombinator.com/item?id=30397094"/>
-        <updated>2022-02-19T13:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Zuckerberg Has Burned $500B Turning Facebook to Meta]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事件驅動系統中不同類型的事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30396873</id>
-        <link href="https://news.ycombinator.com/item?id=30396873"/>
-        <updated>2022-02-19T13:07:33.000Z</updated>
-        <summary type="html"><![CDATA[The different types of events in event-driven systems]]></summary>
-        <author>
-            <name>frankdejonge</name>
-            <uri>https://news.ycombinator.com/user?id=frankdejonge</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過DNS的Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30396690</id>
-        <link href="https://news.ycombinator.com/item?id=30396690"/>
-        <updated>2022-02-19T12:38:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordle over DNS]]></summary>
-        <author>
-            <name>dgl</name>
-            <uri>https://news.ycombinator.com/user?id=dgl</uri>
         </author>
     </entry>
 </feed>
