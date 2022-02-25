@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T10:35:25.675Z</updated>
+    <updated>2022-02-25T11:14:38.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们选择Rust，而不是Go、C++或Node.js]]></title>
+        <id>https://news.ycombinator.com/item?id=30465632</id>
+        <link href="https://news.ycombinator.com/item?id=30465632"/>
+        <updated>2022-02-25T10:13:18.000Z</updated>
+        <summary type="html"><![CDATA[We're choosing Rust, and not Go, C++, or Node.js]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索X11窗口和设备，模拟鼠标动作和击键]]></title>
+        <id>https://news.ycombinator.com/item?id=30438676</id>
+        <link href="https://news.ycombinator.com/item?id=30438676"/>
+        <updated>2022-02-23T07:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Exploring X11 windows and devices and emulating mouse movements and keystrokes]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[油墨/缝制]]></title>
         <id>https://news.ycombinator.com/item?id=30465375</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nyc111</name>
             <uri>https://news.ycombinator.com/user?id=nyc111</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有人赢得女子花样滑冰比赛]]></title>
-        <id>https://news.ycombinator.com/item?id=30396545</id>
-        <link href="https://news.ycombinator.com/item?id=30396545"/>
-        <updated>2022-02-19T12:13:25.000Z</updated>
-        <summary type="html"><![CDATA[Nobody Won Women’s Figure Skating]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你觉得在大型分布式系统上工作很累吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30396454</id>
-        <link href="https://news.ycombinator.com/item?id=30396454"/>
-        <updated>2022-02-19T11:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you find working on large distributed systems exhausting?]]></summary>
-        <author>
-            <name>wreath</name>
-            <uri>https://news.ycombinator.com/user?id=wreath</uri>
         </author>
     </entry>
 </feed>

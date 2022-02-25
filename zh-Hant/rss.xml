@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 10:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 11:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們選擇Rust，而不是Go、C++或Node.js]]></title>
+            <link>https://news.ycombinator.com/item?id=30465632</link>
+            <guid>https://news.ycombinator.com/item?id=30465632</guid>
+            <pubDate>Fri, 25 Feb 2022 10:13:18 GMT</pubDate>
+            <description><![CDATA[We're choosing Rust, and not Go, C++, or Node.js]]></description>
+        </item>
+        <item>
+            <title><![CDATA[探索X11窗口和設備，模擬鼠標動作和擊鍵]]></title>
+            <link>https://news.ycombinator.com/item?id=30438676</link>
+            <guid>https://news.ycombinator.com/item?id=30438676</guid>
+            <pubDate>Wed, 23 Feb 2022 07:41:21 GMT</pubDate>
+            <description><![CDATA[Exploring X11 windows and devices and emulating mouse movements and keystrokes]]></description>
+        </item>
         <item>
             <title><![CDATA[油墨/縫製]]></title>
             <link>https://news.ycombinator.com/item?id=30465375</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30396643</guid>
             <pubDate>Sat, 19 Feb 2022 12:30:55 GMT</pubDate>
             <description><![CDATA[Learn Awk with Emacs (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沒有人贏得女子花樣滑冰比賽]]></title>
-            <link>https://news.ycombinator.com/item?id=30396545</link>
-            <guid>https://news.ycombinator.com/item?id=30396545</guid>
-            <pubDate>Sat, 19 Feb 2022 12:13:25 GMT</pubDate>
-            <description><![CDATA[Nobody Won Women’s Figure Skating]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你覺得在大型分佈式系統上工作很累嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30396454</link>
-            <guid>https://news.ycombinator.com/item?id=30396454</guid>
-            <pubDate>Sat, 19 Feb 2022 11:58:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you find working on large distributed systems exhausting?]]></description>
         </item>
     </channel>
 </rss>
