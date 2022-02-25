@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T07:12:51.568Z</updated>
+    <updated>2022-02-25T07:36:30.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瞭解烏克蘭的戰爭]]></title>
+        <id>https://news.ycombinator.com/item?id=30464286</id>
+        <link href="https://news.ycombinator.com/item?id=30464286"/>
+        <updated>2022-02-25T06:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Understanding the War in Ukraine]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QuestDB (YC S20) 正在招聘一名高級後端Python工程師]]></title>
         <id>https://news.ycombinator.com/item?id=30464403</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>samwillis</name>
             <uri>https://news.ycombinator.com/user?id=samwillis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們不應該把積極的心態推給那些貧困的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30395256</id>
-        <link href="https://news.ycombinator.com/item?id=30395256"/>
-        <updated>2022-02-19T08:04:16.000Z</updated>
-        <summary type="html"><![CDATA[We shouldn’t push a positive mindset on those in poverty]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
         </author>
     </entry>
 </feed>
