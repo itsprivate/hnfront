@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T11:14:38.285Z</updated>
+    <updated>2022-02-25T11:29:51.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要使用RAR]]></title>
+        <id>https://news.ycombinator.com/item?id=30465933</id>
+        <link href="https://news.ycombinator.com/item?id=30465933"/>
+        <updated>2022-02-25T11:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Don't Use RAR]]></summary>
+        <author>
+            <name>vedranm</name>
+            <uri>https://news.ycombinator.com/user?id=vedranm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patreon阻止乌克兰志愿者的慈善账户]]></title>
+        <id>https://news.ycombinator.com/item?id=30465654</id>
+        <link href="https://news.ycombinator.com/item?id=30465654"/>
+        <updated>2022-02-25T10:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Patreon blocks Ukrainian volunteers charity account]]></summary>
+        <author>
+            <name>evvvvr</name>
+            <uri>https://news.ycombinator.com/user?id=evvvvr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们选择Rust，而不是Go、C++或Node.js]]></title>
         <id>https://news.ycombinator.com/item?id=30465632</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dgl</name>
             <uri>https://news.ycombinator.com/user?id=dgl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为1987年出版的《UNIX文本处理》一书重现了资料来源]]></title>
-        <id>https://news.ycombinator.com/item?id=30396667</id>
-        <link href="https://news.ycombinator.com/item?id=30396667"/>
-        <updated>2022-02-19T12:35:32.000Z</updated>
-        <summary type="html"><![CDATA[Recreated sources for the book “UNIX Text Processing,” published in 1987]]></summary>
-        <author>
-            <name>rdpintqogeogsaa</name>
-            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Emacs学习Awk (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30396643</id>
-        <link href="https://news.ycombinator.com/item?id=30396643"/>
-        <updated>2022-02-19T12:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Learn Awk with Emacs (2020)]]></summary>
-        <author>
-            <name>nyc111</name>
-            <uri>https://news.ycombinator.com/user?id=nyc111</uri>
         </author>
     </entry>
 </feed>
