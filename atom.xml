@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T03:44:03.583Z</updated>
+    <updated>2022-02-25T03:51:26.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分析鱼类新鲜度的电子舌 (2008) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=29048079</id>
+        <link href="https://news.ycombinator.com/item?id=29048079"/>
+        <updated>2021-10-30T11:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Electronic tongue to analyze fish freshness (2008) [pdf]]]></summary>
+        <author>
+            <name>antvo</name>
+            <uri>https://news.ycombinator.com/user?id=antvo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加利福尼亚野火烟雾在欧洲上空。气溶胶观测的第一个例子]]></title>
         <id>https://news.ycombinator.com/item?id=26531943</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jvican</name>
             <uri>https://news.ycombinator.com/user?id=jvican</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我从黑客新闻中学到的东西]]></title>
-        <id>https://news.ycombinator.com/item?id=30394474</id>
-        <link href="https://news.ycombinator.com/item?id=30394474"/>
-        <updated>2022-02-19T04:41:07.000Z</updated>
-        <summary type="html"><![CDATA[What I've Learned from Hacker News]]></summary>
-        <author>
-            <name>duck</name>
-            <uri>https://news.ycombinator.com/user?id=duck</uri>
         </author>
     </entry>
 </feed>
