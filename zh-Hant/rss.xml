@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 19:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 19:56:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[散文畫家]]></title>
+            <link>https://news.ycombinator.com/item?id=30470960</link>
+            <guid>https://news.ycombinator.com/item?id=30470960</guid>
+            <pubDate>Fri, 25 Feb 2022 19:12:34 GMT</pubDate>
+            <description><![CDATA[Prose Painter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[從16秒的音頻中克隆出一種樂器]]></title>
+            <link>https://news.ycombinator.com/item?id=30467328</link>
+            <guid>https://news.ycombinator.com/item?id=30467328</guid>
+            <pubDate>Fri, 25 Feb 2022 13:59:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Cloning a musical instrument from 16 seconds of audio]]></description>
+        </item>
         <item>
             <title><![CDATA[宣佈Actix Web v4.0 (Rust)]]></title>
             <link>https://news.ycombinator.com/item?id=30470809</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30400785</guid>
             <pubDate>Sat, 19 Feb 2022 21:39:31 GMT</pubDate>
             <description><![CDATA[Going IPv6 Only]]></description>
-        </item>
-        <item>
-            <title><![CDATA[研究人員稱人工智能生成的面孔比真實面孔更值得信賴]]></title>
-            <link>https://news.ycombinator.com/item?id=30399909</link>
-            <guid>https://news.ycombinator.com/item?id=30399909</guid>
-            <pubDate>Sat, 19 Feb 2022 19:48:32 GMT</pubDate>
-            <description><![CDATA[AI generated faces are more trustworthy than real faces say researchers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Arduino 6502控制器]]></title>
-            <link>https://news.ycombinator.com/item?id=30399129</link>
-            <guid>https://news.ycombinator.com/item?id=30399129</guid>
-            <pubDate>Sat, 19 Feb 2022 18:13:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Arduino 6502 Controller]]></description>
         </item>
     </channel>
 </rss>
