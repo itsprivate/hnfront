@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T21:52:13.796Z</updated>
+    <updated>2022-02-25T22:33:17.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[声称的效应大小比合理的要高十万倍。]]></title>
+        <id>https://news.ycombinator.com/item?id=30472947</id>
+        <link href="https://news.ycombinator.com/item?id=30472947"/>
+        <updated>2022-02-25T22:08:52.000Z</updated>
+        <summary type="html"><![CDATA[The claimed effect size is about a zillion times higher than is plausible]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[绘制流浪线。费尔南-德利尼的静谧启示》（2015年）]]></title>
         <id>https://news.ycombinator.com/item?id=30449143</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>firefly284</name>
             <uri>https://news.ycombinator.com/user?id=firefly284</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更好的科学 (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30394854</id>
-        <link href="https://news.ycombinator.com/item?id=30394854"/>
-        <updated>2022-02-19T06:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Better Science (2020)]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
