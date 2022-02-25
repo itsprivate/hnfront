@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-25T09:14:28.552Z</updated>
+    <updated>2022-02-25T10:12:46.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[未來是真菌的天下]]></title>
+        <id>https://news.ycombinator.com/item?id=30451567</id>
+        <link href="https://news.ycombinator.com/item?id=30451567"/>
+        <updated>2022-02-24T07:08:58.000Z</updated>
+        <summary type="html"><![CDATA[The Future Is Fungi]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[垃圾]]></title>
         <id>https://news.ycombinator.com/item?id=30453599</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TangerineDream</name>
             <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幫助HN：無法打開童年的文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30396042</id>
-        <link href="https://news.ycombinator.com/item?id=30396042"/>
-        <updated>2022-02-19T10:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Help HN: Can't Open Childhood Files]]></summary>
-        <author>
-            <name>twooclock</name>
-            <uri>https://news.ycombinator.com/user?id=twooclock</uri>
         </author>
     </entry>
 </feed>
