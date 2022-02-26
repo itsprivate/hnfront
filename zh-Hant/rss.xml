@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 07:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 07:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[eng.mil.ru正在返回HTTP 418]]></title>
+            <link>https://news.ycombinator.com/item?id=30475651</link>
+            <guid>https://news.ycombinator.com/item?id=30475651</guid>
+            <pubDate>Sat, 26 Feb 2022 06:45:04 GMT</pubDate>
+            <description><![CDATA[eng.mil.ru is returning HTTP 418]]></description>
+        </item>
         <item>
             <title><![CDATA[PhotoRoom (YC S20) 正在招聘一名高級React開發員（巴黎，遠程±1小時）]]></title>
             <link>https://news.ycombinator.com/item?id=30475698</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30404826</guid>
             <pubDate>Sun, 20 Feb 2022 11:00:45 GMT</pubDate>
             <description><![CDATA[The Triumph and Tragedy of .env Files]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國CISA提供的免費網絡安全服務和工具清單]]></title>
-            <link>https://news.ycombinator.com/item?id=30404819</link>
-            <guid>https://news.ycombinator.com/item?id=30404819</guid>
-            <pubDate>Sun, 20 Feb 2022 10:58:52 GMT</pubDate>
-            <description><![CDATA[List of free cybersecurity services and tools from US CISA]]></description>
         </item>
     </channel>
 </rss>
