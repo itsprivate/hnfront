@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T02:53:26.529Z</updated>
+    <updated>2022-02-26T03:13:45.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Asm-Lsp - 气体/NASM/Go汇编的语言服务器]]></title>
+        <id>https://news.ycombinator.com/item?id=30474671</id>
+        <link href="https://news.ycombinator.com/item?id=30474671"/>
+        <updated>2022-02-26T02:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Asm-Lsp – Language Server for Gas/NASM/Go Assembly]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[压缩剪贴板历史的日志存储]]></title>
         <id>https://news.ycombinator.com/item?id=30460234</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>grappler</name>
             <uri>https://news.ycombinator.com/user?id=grappler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heline - 现代开发者的代码搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30403143</id>
-        <link href="https://news.ycombinator.com/item?id=30403143"/>
-        <updated>2022-02-20T04:11:30.000Z</updated>
-        <summary type="html"><![CDATA[Heline – Code search for modern developer]]></summary>
-        <author>
-            <name>ahmadrosid</name>
-            <uri>https://news.ycombinator.com/user?id=ahmadrosid</uri>
         </author>
     </entry>
 </feed>
