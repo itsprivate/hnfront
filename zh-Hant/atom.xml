@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T19:13:29.609Z</updated>
+    <updated>2022-02-26T19:53:28.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub的安全顧問數據庫現已開放源代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30480862</id>
+        <link href="https://news.ycombinator.com/item?id=30480862"/>
+        <updated>2022-02-26T19:22:43.000Z</updated>
+        <summary type="html"><![CDATA[GitHub’s database of security advisories is now open source]]></summary>
+        <author>
+            <name>greysteil</name>
+            <uri>https://news.ycombinator.com/user?id=greysteil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水晶：Bdw-GC程序支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30479932</id>
+        <link href="https://news.ycombinator.com/item?id=30479932"/>
+        <updated>2022-02-26T17:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Crystal: Bdw-GC Coroutines Support]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭不能向歐盟暫時出租/出售邊境土地]]></title>
         <id>https://news.ycombinator.com/item?id=30480445</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>iddan</name>
             <uri>https://news.ycombinator.com/user?id=iddan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TurboTax是如何擺脫黑暗模式的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30409523</id>
-        <link href="https://news.ycombinator.com/item?id=30409523"/>
-        <updated>2022-02-20T21:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does TurboTax get away with dark patterns?]]></summary>
-        <author>
-            <name>cebert</name>
-            <uri>https://news.ycombinator.com/user?id=cebert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們正經歷著定義的崩潰]]></title>
-        <id>https://news.ycombinator.com/item?id=30408960</id>
-        <link href="https://news.ycombinator.com/item?id=30408960"/>
-        <updated>2022-02-20T20:21:38.000Z</updated>
-        <summary type="html"><![CDATA[We Are Experiencing Definitional Collapse]]></summary>
-        <author>
-            <name>steelstraw</name>
-            <uri>https://news.ycombinator.com/user?id=steelstraw</uri>
         </author>
     </entry>
 </feed>
