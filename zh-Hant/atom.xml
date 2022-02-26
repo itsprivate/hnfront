@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T16:48:43.842Z</updated>
+    <updated>2022-02-26T17:02:18.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有效的團隊不會保守秘密]]></title>
+        <id>https://news.ycombinator.com/item?id=30465120</id>
+        <link href="https://news.ycombinator.com/item?id=30465120"/>
+        <updated>2022-02-25T08:58:19.000Z</updated>
+        <summary type="html"><![CDATA[Effective Teams Don’t Keep Secrets]]></summary>
+        <author>
+            <name>adrianhoward</name>
+            <uri>https://news.ycombinator.com/user?id=adrianhoward</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[匿名者攻陷國防部、RT和克里姆林宮的網站]]></title>
         <id>https://news.ycombinator.com/item?id=30478657</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kashnote</name>
             <uri>https://news.ycombinator.com/user?id=kashnote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首個治療泰勒-薩克斯病的基因療法成功地給兩個孩子使用]]></title>
-        <id>https://news.ycombinator.com/item?id=30408104</id>
-        <link href="https://news.ycombinator.com/item?id=30408104"/>
-        <updated>2022-02-20T18:40:50.000Z</updated>
-        <summary type="html"><![CDATA[First Gene Therapy for Tay-Sachs Disease Successfully Given to Two Children]]></summary>
-        <author>
-            <name>daegloe</name>
-            <uri>https://news.ycombinator.com/user?id=daegloe</uri>
         </author>
     </entry>
 </feed>
