@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T19:53:27.987Z</updated>
+    <updated>2022-02-26T20:13:40.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最低限度的英语]]></title>
+        <id>https://news.ycombinator.com/item?id=30481036</id>
+        <link href="https://news.ycombinator.com/item?id=30481036"/>
+        <updated>2022-02-26T19:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Minimal English]]></summary>
+        <author>
+            <name>raldu</name>
+            <uri>https://news.ycombinator.com/user?id=raldu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数以千计的罗马尼亚人在汽车中等待在边境接载难民]]></title>
+        <id>https://news.ycombinator.com/item?id=30480558</id>
+        <link href="https://news.ycombinator.com/item?id=30480558"/>
+        <updated>2022-02-26T18:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of Romanians waiting in their cars to pick up refugees at the border]]></summary>
+        <author>
+            <name>dev_tty01</name>
+            <uri>https://news.ycombinator.com/user?id=dev_tty01</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migra。像Diff，但适用于PostgreSQL模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30464882</id>
+        <link href="https://news.ycombinator.com/item?id=30464882"/>
+        <updated>2022-02-25T08:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Migra: Like Diff but for PostgreSQL Schemas]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub的安全顾问数据库现已开放源代码]]></title>
         <id>https://news.ycombinator.com/item?id=30480862</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>truxs</name>
             <uri>https://news.ycombinator.com/user?id=truxs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我最喜欢的生活建议散文（2020年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30403874</id>
-        <link href="https://news.ycombinator.com/item?id=30403874"/>
-        <updated>2022-02-20T07:14:13.000Z</updated>
-        <summary type="html"><![CDATA[My favorite essays of life advice (2020)]]></summary>
-        <author>
-            <name>etherio</name>
-            <uri>https://news.ycombinator.com/user?id=etherio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PACSafe。在C/C++中利用ARM指针认证实现内存安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30409606</id>
-        <link href="https://news.ycombinator.com/item?id=30409606"/>
-        <updated>2022-02-20T21:53:50.000Z</updated>
-        <summary type="html"><![CDATA[PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 笔记本]]></title>
-        <id>https://news.ycombinator.com/item?id=30409432</id>
-        <link href="https://news.ycombinator.com/item?id=30409432"/>
-        <updated>2022-02-20T21:32:17.000Z</updated>
-        <summary type="html"><![CDATA[Node.js Notebooks]]></summary>
-        <author>
-            <name>iddan</name>
-            <uri>https://news.ycombinator.com/user?id=iddan</uri>
         </author>
     </entry>
 </feed>

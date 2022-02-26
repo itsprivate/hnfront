@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 19:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 20:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最低限度的英語]]></title>
+            <link>https://news.ycombinator.com/item?id=30481036</link>
+            <guid>https://news.ycombinator.com/item?id=30481036</guid>
+            <pubDate>Sat, 26 Feb 2022 19:38:17 GMT</pubDate>
+            <description><![CDATA[Minimal English]]></description>
+        </item>
+        <item>
+            <title><![CDATA[數以千計的羅馬尼亞人在汽車中等待在邊境接載難民]]></title>
+            <link>https://news.ycombinator.com/item?id=30480558</link>
+            <guid>https://news.ycombinator.com/item?id=30480558</guid>
+            <pubDate>Sat, 26 Feb 2022 18:55:52 GMT</pubDate>
+            <description><![CDATA[Thousands of Romanians waiting in their cars to pick up refugees at the border]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Migra。像Diff，但適用於PostgreSQL模式]]></title>
+            <link>https://news.ycombinator.com/item?id=30464882</link>
+            <guid>https://news.ycombinator.com/item?id=30464882</guid>
+            <pubDate>Fri, 25 Feb 2022 08:23:36 GMT</pubDate>
+            <description><![CDATA[Migra: Like Diff but for PostgreSQL Schemas]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub的安全顧問數據庫現已開放源代碼]]></title>
             <link>https://news.ycombinator.com/item?id=30480862</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30409249</guid>
             <pubDate>Sun, 20 Feb 2022 21:03:46 GMT</pubDate>
             <description><![CDATA[The Elite Hacker of the Fsb]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我最喜歡的生活建議散文（2020年）]]></title>
-            <link>https://news.ycombinator.com/item?id=30403874</link>
-            <guid>https://news.ycombinator.com/item?id=30403874</guid>
-            <pubDate>Sun, 20 Feb 2022 07:14:13 GMT</pubDate>
-            <description><![CDATA[My favorite essays of life advice (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PACSafe。在C/C++中利用ARM指針認證實現內存安全]]></title>
-            <link>https://news.ycombinator.com/item?id=30409606</link>
-            <guid>https://news.ycombinator.com/item?id=30409606</guid>
-            <pubDate>Sun, 20 Feb 2022 21:53:50 GMT</pubDate>
-            <description><![CDATA[PACSafe: Leveraging ARM Pointer Authentication for Memory Safety in C/C++]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Node.js 筆記本]]></title>
-            <link>https://news.ycombinator.com/item?id=30409432</link>
-            <guid>https://news.ycombinator.com/item?id=30409432</guid>
-            <pubDate>Sun, 20 Feb 2022 21:32:17 GMT</pubDate>
-            <description><![CDATA[Node.js Notebooks]]></description>
         </item>
     </channel>
 </rss>
