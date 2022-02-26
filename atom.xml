@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T18:05:46.450Z</updated>
+    <updated>2022-02-26T18:22:14.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[编码和混乱]]></title>
+        <id>https://news.ycombinator.com/item?id=30479708</id>
+        <link href="https://news.ycombinator.com/item?id=30479708"/>
+        <updated>2022-02-26T17:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Coding and Confusion]]></summary>
+        <author>
+            <name>joshbochu</name>
+            <uri>https://news.ycombinator.com/user?id=joshbochu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我们将供暖温度降低3°，我们在欧盟可以节省多少天然气？]]></title>
         <id>https://news.ycombinator.com/item?id=30479688</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gokhan</name>
             <uri>https://news.ycombinator.com/user?id=gokhan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从键盘快捷键中获得比特智慧]]></title>
-        <id>https://news.ycombinator.com/item?id=30408468</id>
-        <link href="https://news.ycombinator.com/item?id=30408468"/>
-        <updated>2022-02-20T19:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Gaining Bitwisdom from Keyboard Shortcuts]]></summary>
-        <author>
-            <name>codelikeawolf</name>
-            <uri>https://news.ycombinator.com/user?id=codelikeawolf</uri>
         </author>
     </entry>
 </feed>
