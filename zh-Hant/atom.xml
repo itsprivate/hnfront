@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T12:17:55.576Z</updated>
+    <updated>2022-02-26T12:48:03.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯和烏克蘭之間的軍事差距]]></title>
+        <id>https://news.ycombinator.com/item?id=30476824</id>
+        <link href="https://news.ycombinator.com/item?id=30476824"/>
+        <updated>2022-02-26T11:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Military gap between Russia and Ukraine]]></summary>
+        <author>
+            <name>fumblebee</name>
+            <uri>https://news.ycombinator.com/user?id=fumblebee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Etleap（YC W13）正在招聘一名軟件工程師（在舊金山和倫敦）。]]></title>
         <id>https://news.ycombinator.com/item?id=30476889</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Jaruzel</name>
             <uri>https://news.ycombinator.com/user?id=Jaruzel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最快的GIF是不存在的]]></title>
-        <id>https://news.ycombinator.com/item?id=30405815</id>
-        <link href="https://news.ycombinator.com/item?id=30405815"/>
-        <updated>2022-02-20T14:11:14.000Z</updated>
-        <summary type="html"><![CDATA[The Fastest GIF Does Not Exist]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
