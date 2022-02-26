@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T07:53:10.957Z</updated>
+    <updated>2022-02-26T08:13:19.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DJ表演重新混合人工智能創造的音樂，然後由第二個人工智能現場重新混合。]]></title>
+        <id>https://news.ycombinator.com/item?id=30475880</id>
+        <link href="https://news.ycombinator.com/item?id=30475880"/>
+        <updated>2022-02-26T07:44:22.000Z</updated>
+        <summary type="html"><![CDATA[DJ performance remixing AI-created music- which is then live-remixed by a 2nd AI]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eng.mil.ru正在返回HTTP 418]]></title>
         <id>https://news.ycombinator.com/item?id=30475651</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fxtentacle</name>
             <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.env文件的勝利和悲劇]]></title>
-        <id>https://news.ycombinator.com/item?id=30404826</id>
-        <link href="https://news.ycombinator.com/item?id=30404826"/>
-        <updated>2022-02-20T11:00:45.000Z</updated>
-        <summary type="html"><![CDATA[The Triumph and Tragedy of .env Files]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
         </author>
     </entry>
 </feed>
