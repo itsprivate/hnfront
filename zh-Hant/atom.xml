@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T11:51:34.400Z</updated>
+    <updated>2022-02-26T12:17:55.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Etleap（YC W13）正在招聘一名軟件工程師（在舊金山和倫敦）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30476889</id>
+        <link href="https://news.ycombinator.com/item?id=30476889"/>
+        <updated>2022-02-26T12:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Etleap (YC W13) Is Hiring a Software Engineer (In San Francisco and London)]]></summary>
+        <author>
+            <name>romming</name>
+            <uri>https://news.ycombinator.com/user?id=romming</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[因入侵烏克蘭而將俄羅斯從GitHub上砍掉]]></title>
         <id>https://news.ycombinator.com/item?id=30476721</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京及其隨行人員為何想要戰爭？]]></title>
-        <id>https://news.ycombinator.com/item?id=30405782</id>
-        <link href="https://news.ycombinator.com/item?id=30405782"/>
-        <updated>2022-02-20T14:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Why Vladimir Putin and his entourage want war]]></summary>
-        <author>
-            <name>mchan</name>
-            <uri>https://news.ycombinator.com/user?id=mchan</uri>
         </author>
     </entry>
 </feed>
