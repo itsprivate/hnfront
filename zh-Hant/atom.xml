@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T03:13:45.372Z</updated>
+    <updated>2022-02-26T03:34:42.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓Linux看起來像Windows 95]]></title>
+        <id>https://news.ycombinator.com/item?id=30474690</id>
+        <link href="https://news.ycombinator.com/item?id=30474690"/>
+        <updated>2022-02-26T02:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Make Linux look like Windows 95]]></summary>
+        <author>
+            <name>iio7</name>
+            <uri>https://news.ycombinator.com/user?id=iio7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asm-Lsp - 氣體/NASM/Go彙編的語言服務器]]></title>
         <id>https://news.ycombinator.com/item?id=30474671</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mbellotti</name>
             <uri>https://news.ycombinator.com/user?id=mbellotti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬克-諾丁漢 服務器發送的事件、WebSockets和HTTP]]></title>
-        <id>https://news.ycombinator.com/item?id=30403438</id>
-        <link href="https://news.ycombinator.com/item?id=30403438"/>
-        <updated>2022-02-20T05:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Mark Nottingham: Server-Sent Events, WebSockets, and HTTP]]></summary>
-        <author>
-            <name>grappler</name>
-            <uri>https://news.ycombinator.com/user?id=grappler</uri>
         </author>
     </entry>
 </feed>
