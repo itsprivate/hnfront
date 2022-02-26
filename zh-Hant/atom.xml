@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T02:26:23.355Z</updated>
+    <updated>2022-02-26T02:53:26.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[壓縮剪貼板歷史的日誌存儲]]></title>
+        <id>https://news.ycombinator.com/item?id=30460234</id>
+        <link href="https://news.ycombinator.com/item?id=30460234"/>
+        <updated>2022-02-24T21:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Compacting log storage for clipboard history]]></summary>
+        <author>
+            <name>SUPERCILEX</name>
+            <uri>https://news.ycombinator.com/user?id=SUPERCILEX</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["來自靈地的睡衣"。尋找威廉-詹姆斯]]></title>
         <id>https://news.ycombinator.com/item?id=30463956</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ahmadrosid</name>
             <uri>https://news.ycombinator.com/user?id=ahmadrosid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動漫攝影在Cel時代的應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30403219</id>
-        <link href="https://news.ycombinator.com/item?id=30403219"/>
-        <updated>2022-02-20T04:26:50.000Z</updated>
-        <summary type="html"><![CDATA[Anime Photography in the Cel Era]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
