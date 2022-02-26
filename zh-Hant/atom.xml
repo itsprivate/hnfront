@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T06:38:12.479Z</updated>
+    <updated>2022-02-26T06:55:17.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lua 虛擬化]]></title>
+        <id>https://news.ycombinator.com/item?id=30475616</id>
+        <link href="https://news.ycombinator.com/item?id=30475616"/>
+        <updated>2022-02-26T06:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Lua Devirtualization]]></summary>
+        <author>
+            <name>elvis70</name>
+            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你鑽得夠深，你可以在任何地方擁有地熱發電]]></title>
         <id>https://news.ycombinator.com/item?id=30465227</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>caaqil</name>
             <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows命令行解析的狂野西部]]></title>
-        <id>https://news.ycombinator.com/item?id=30395189</id>
-        <link href="https://news.ycombinator.com/item?id=30395189"/>
-        <updated>2022-02-19T07:48:34.000Z</updated>
-        <summary type="html"><![CDATA[The Wild West of Windows command line parsing]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
