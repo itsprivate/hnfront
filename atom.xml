@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T23:14:25.252Z</updated>
+    <updated>2022-02-26T23:33:53.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为人加热，而不是为空间加热 (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=30482790</id>
+        <link href="https://news.ycombinator.com/item?id=30482790"/>
+        <updated>2022-02-26T22:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Heat people, not spaces (2015)]]></summary>
+        <author>
+            <name>sealeck</name>
+            <uri>https://news.ycombinator.com/user?id=sealeck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[标普将俄罗斯的评级降至 "垃圾 "级别，穆迪发出垃圾警告]]></title>
         <id>https://news.ycombinator.com/item?id=30482357</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>georgecmu</name>
             <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真理社在苹果应用商店发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30412117</id>
-        <link href="https://news.ycombinator.com/item?id=30412117"/>
-        <updated>2022-02-21T04:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Truth Social Releases on the Apple App Store]]></summary>
-        <author>
-            <name>gillytech</name>
-            <uri>https://news.ycombinator.com/user?id=gillytech</uri>
         </author>
     </entry>
 </feed>
