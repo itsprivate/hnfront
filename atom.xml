@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T11:11:54.275Z</updated>
+    <updated>2022-02-26T11:28:48.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯如何接管克里米亚和乌克兰东部的互联网]]></title>
+        <id>https://news.ycombinator.com/item?id=30476684</id>
+        <link href="https://news.ycombinator.com/item?id=30476684"/>
+        <updated>2022-02-26T11:10:16.000Z</updated>
+        <summary type="html"><![CDATA[How Russia Took over the Internet in Crimea and Eastern Ukraine]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[葡萄牙宣布立即向乌克兰难民发放签证]]></title>
         <id>https://news.ycombinator.com/item?id=30476621</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>iron_coder</name>
             <uri>https://news.ycombinator.com/user?id=iron_coder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌表示，Linux开发者修补安全漏洞的速度比任何人都快]]></title>
-        <id>https://news.ycombinator.com/item?id=30405122</id>
-        <link href="https://news.ycombinator.com/item?id=30405122"/>
-        <updated>2022-02-20T12:15:12.000Z</updated>
-        <summary type="html"><![CDATA[Linux developers patch security holes faster than anyone else, says Google]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
