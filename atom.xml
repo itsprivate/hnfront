@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T20:34:37.759Z</updated>
+    <updated>2022-02-26T20:52:54.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德国软化对遏制俄罗斯进入SWIFT的立场]]></title>
+        <id>https://news.ycombinator.com/item?id=30480797</id>
+        <link href="https://news.ycombinator.com/item?id=30480797"/>
+        <updated>2022-02-26T19:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Germany softens stance on curbing Russian access to SWIFT]]></summary>
+        <author>
+            <name>dmarchuk</name>
+            <uri>https://news.ycombinator.com/user?id=dmarchuk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客新闻之首与Reddit之首--峰值流量比较]]></title>
         <id>https://news.ycombinator.com/item?id=30481230</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>azalemeth</name>
             <uri>https://news.ycombinator.com/user?id=azalemeth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当编程书籍出错时]]></title>
-        <id>https://news.ycombinator.com/item?id=30409691</id>
-        <link href="https://news.ycombinator.com/item?id=30409691"/>
-        <updated>2022-02-20T22:04:25.000Z</updated>
-        <summary type="html"><![CDATA[When programming books are wrong]]></summary>
-        <author>
-            <name>cenny</name>
-            <uri>https://news.ycombinator.com/user?id=cenny</uri>
         </author>
     </entry>
 </feed>
