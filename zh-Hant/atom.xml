@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T20:52:54.317Z</updated>
+    <updated>2022-02-26T21:13:54.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MetalNES：晶體管級NES模擬]]></title>
+        <id>https://news.ycombinator.com/item?id=30481762</id>
+        <link href="https://news.ycombinator.com/item?id=30481762"/>
+        <updated>2022-02-26T20:41:59.000Z</updated>
+        <summary type="html"><![CDATA[MetalNES: Transistor Level NES Simulation]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於字符串的模板與DSLs。各自的優點和缺點]]></title>
+        <id>https://news.ycombinator.com/item?id=30481601</id>
+        <link href="https://news.ycombinator.com/item?id=30481601"/>
+        <updated>2022-02-26T20:28:53.000Z</updated>
+        <summary type="html"><![CDATA[String-Based Templates vs. DSLs: The Pros and Cons of Each]]></summary>
+        <author>
+            <name>ciconia</name>
+            <uri>https://news.ycombinator.com/user?id=ciconia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[液體計算機的簡要歷史]]></title>
+        <id>https://news.ycombinator.com/item?id=30481148</id>
+        <link href="https://news.ycombinator.com/item?id=30481148"/>
+        <updated>2022-02-26T19:49:29.000Z</updated>
+        <summary type="html"><![CDATA[A brief history of liquid computers]]></summary>
+        <author>
+            <name>jsnell</name>
+            <uri>https://news.ycombinator.com/user?id=jsnell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先鋒CDJ指導手冊。CDJ和XDJ的比較和歷史]]></title>
+        <id>https://news.ycombinator.com/item?id=30476587</id>
+        <link href="https://news.ycombinator.com/item?id=30476587"/>
+        <updated>2022-02-26T10:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Pioneer CDJ Guidebook: A Comparison and History of CDJs and XDJs]]></summary>
+        <author>
+            <name>aligray</name>
+            <uri>https://news.ycombinator.com/user?id=aligray</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德國軟化對遏制俄羅斯進入SWIFT的立場]]></title>
         <id>https://news.ycombinator.com/item?id=30480797</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pfrrp</name>
             <uri>https://news.ycombinator.com/user?id=pfrrp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想象一下，如果檸檬法對學校的爛教育進行懲罰，會是怎樣的情況？]]></title>
-        <id>https://news.ycombinator.com/item?id=30410748</id>
-        <link href="https://news.ycombinator.com/item?id=30410748"/>
-        <updated>2022-02-21T00:48:36.000Z</updated>
-        <summary type="html"><![CDATA[Imagine if a lemon law penalized schools for rotten educations]]></summary>
-        <author>
-            <name>mudro_zboris</name>
-            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python中更直觀的部分函數應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30405346</id>
-        <link href="https://news.ycombinator.com/item?id=30405346"/>
-        <updated>2022-02-20T13:02:50.000Z</updated>
-        <summary type="html"><![CDATA[More intuitive partial function application in Python]]></summary>
-        <author>
-            <name>cgrimm1994</name>
-            <uri>https://news.ycombinator.com/user?id=cgrimm1994</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臉書/梅塔問："死了不是很好嗎？"]]></title>
-        <id>https://news.ycombinator.com/item?id=30410371</id>
-        <link href="https://news.ycombinator.com/item?id=30410371"/>
-        <updated>2022-02-20T23:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Facebook/Meta Asks: “Wouldn't It Be Nice to Die?”]]></summary>
-        <author>
-            <name>prawn</name>
-            <uri>https://news.ycombinator.com/user?id=prawn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於為我的DOCSIS調制解調器添加靜態路由的問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30410189</id>
-        <link href="https://news.ycombinator.com/item?id=30410189"/>
-        <updated>2022-02-20T23:15:07.000Z</updated>
-        <summary type="html"><![CDATA[About adding a static route to my DOCSIS modem]]></summary>
-        <author>
-            <name>azalemeth</name>
-            <uri>https://news.ycombinator.com/user?id=azalemeth</uri>
         </author>
     </entry>
 </feed>
