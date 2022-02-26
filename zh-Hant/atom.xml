@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T08:13:19.244Z</updated>
+    <updated>2022-02-26T08:36:21.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火星上的 "好奇號 "探測器捕捉到奇怪的植物狀結構]]></title>
+        <id>https://news.ycombinator.com/item?id=30476002</id>
+        <link href="https://news.ycombinator.com/item?id=30476002"/>
+        <updated>2022-02-26T08:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Strange plant-like formation captured by Curiosity rover on Mars]]></summary>
+        <author>
+            <name>dvh</name>
+            <uri>https://news.ycombinator.com/user?id=dvh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DJ表演重新混合人工智能創造的音樂，然後由第二個人工智能現場重新混合。]]></title>
         <id>https://news.ycombinator.com/item?id=30475880</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>a-t-0</name>
             <uri>https://news.ycombinator.com/user?id=a-t-0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有小型安卓手機？]]></title>
-        <id>https://news.ycombinator.com/item?id=30405011</id>
-        <link href="https://news.ycombinator.com/item?id=30405011"/>
-        <updated>2022-02-20T11:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there no small Android phone?]]></summary>
-        <author>
-            <name>fxtentacle</name>
-            <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
         </author>
     </entry>
 </feed>
