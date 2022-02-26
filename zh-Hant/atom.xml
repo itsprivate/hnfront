@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-26T11:28:48.698Z</updated>
+    <updated>2022-02-26T11:51:34.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[因入侵烏克蘭而將俄羅斯從GitHub上砍掉]]></title>
+        <id>https://news.ycombinator.com/item?id=30476721</id>
+        <link href="https://news.ycombinator.com/item?id=30476721"/>
+        <updated>2022-02-26T11:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Cut Russia from GitHub due to invasion of Ukraine]]></summary>
+        <author>
+            <name>jwieczorek</name>
+            <uri>https://news.ycombinator.com/user?id=jwieczorek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯如何接管克里米亞和烏克蘭東部的互聯網]]></title>
         <id>https://news.ycombinator.com/item?id=30476684</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mchan</name>
             <uri>https://news.ycombinator.com/user?id=mchan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最大限度地提高價值，而不是數量]]></title>
-        <id>https://news.ycombinator.com/item?id=30391742</id>
-        <link href="https://news.ycombinator.com/item?id=30391742"/>
-        <updated>2022-02-18T22:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Maximize value, not quantity]]></summary>
-        <author>
-            <name>iron_coder</name>
-            <uri>https://news.ycombinator.com/user?id=iron_coder</uri>
         </author>
     </entry>
 </feed>
