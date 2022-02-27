@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T23:31:22.344Z</updated>
+    <updated>2022-02-27T23:53:56.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jwz: 机器人战犬正在猎杀移民]]></title>
+        <id>https://news.ycombinator.com/item?id=30492982</id>
+        <link href="https://news.ycombinator.com/item?id=30492982"/>
+        <updated>2022-02-27T21:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Jwz: Robot war dogs hunting migrants now]]></summary>
+        <author>
+            <name>jka</name>
+            <uri>https://news.ycombinator.com/user?id=jka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[400字节的兰姆达微积分]]></title>
         <id>https://news.ycombinator.com/item?id=30493713</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>whyoh</name>
             <uri>https://news.ycombinator.com/user?id=whyoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在土耳其东南部的caesarea germanicia发现的描绘盛宴的罗马镶嵌画]]></title>
-        <id>https://news.ycombinator.com/item?id=30403118</id>
-        <link href="https://news.ycombinator.com/item?id=30403118"/>
-        <updated>2022-02-20T04:04:02.000Z</updated>
-        <summary type="html"><![CDATA[Roman mosaic depicting feast found in caesarea germanicia in southeastern Turkey]]></summary>
-        <author>
-            <name>diodorus</name>
-            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
         </author>
     </entry>
 </feed>
