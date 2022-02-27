@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T23:16:58.329Z</updated>
+    <updated>2022-02-27T23:31:22.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[400字節的蘭姆達微積分]]></title>
+        <id>https://news.ycombinator.com/item?id=30493713</id>
+        <link href="https://news.ycombinator.com/item?id=30493713"/>
+        <updated>2022-02-27T23:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Lambda Calculus in 400 Bytes]]></summary>
+        <author>
+            <name>mmphosis</name>
+            <uri>https://news.ycombinator.com/user?id=mmphosis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯下令阻止外國客戶競價出售俄羅斯證券]]></title>
+        <id>https://news.ycombinator.com/item?id=30493647</id>
+        <link href="https://news.ycombinator.com/item?id=30493647"/>
+        <updated>2022-02-27T22:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Russia orders block on foreign clients' bids to sell Russian securities]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超越獨立黑客]]></title>
         <id>https://news.ycombinator.com/item?id=30489109</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>diodorus</name>
             <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Notepad++的查找/替換中使用功能圖靈機]]></title>
-        <id>https://news.ycombinator.com/item?id=30425280</id>
-        <link href="https://news.ycombinator.com/item?id=30425280"/>
-        <updated>2022-02-22T08:18:35.000Z</updated>
-        <summary type="html"><![CDATA[Functional Turing Machine in Notepad++'s Find/Replace]]></summary>
-        <author>
-            <name>MarcellusDrum</name>
-            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Markdown中對PDF進行註釋]]></title>
-        <id>https://news.ycombinator.com/item?id=30424873</id>
-        <link href="https://news.ycombinator.com/item?id=30424873"/>
-        <updated>2022-02-22T07:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Annotate PDFs in Markdown]]></summary>
-        <author>
-            <name>bx376</name>
-            <uri>https://news.ycombinator.com/user?id=bx376</uri>
         </author>
     </entry>
 </feed>

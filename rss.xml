@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 27 Feb 2022 23:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 23:31:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[400字节的兰姆达微积分]]></title>
+            <link>https://news.ycombinator.com/item?id=30493713</link>
+            <guid>https://news.ycombinator.com/item?id=30493713</guid>
+            <pubDate>Sun, 27 Feb 2022 23:01:06 GMT</pubDate>
+            <description><![CDATA[Lambda Calculus in 400 Bytes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯下令阻止外国客户竞价出售俄罗斯证券]]></title>
+            <link>https://news.ycombinator.com/item?id=30493647</link>
+            <guid>https://news.ycombinator.com/item?id=30493647</guid>
+            <pubDate>Sun, 27 Feb 2022 22:54:56 GMT</pubDate>
+            <description><![CDATA[Russia orders block on foreign clients' bids to sell Russian securities]]></description>
+        </item>
         <item>
             <title><![CDATA[超越独立黑客]]></title>
             <link>https://news.ycombinator.com/item?id=30489109</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30403118</guid>
             <pubDate>Sun, 20 Feb 2022 04:04:02 GMT</pubDate>
             <description><![CDATA[Roman mosaic depicting feast found in caesarea germanicia in southeastern Turkey]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Notepad++的查找/替换中使用功能图灵机]]></title>
-            <link>https://news.ycombinator.com/item?id=30425280</link>
-            <guid>https://news.ycombinator.com/item?id=30425280</guid>
-            <pubDate>Tue, 22 Feb 2022 08:18:35 GMT</pubDate>
-            <description><![CDATA[Functional Turing Machine in Notepad++'s Find/Replace]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Markdown中对PDF进行注释]]></title>
-            <link>https://news.ycombinator.com/item?id=30424873</link>
-            <guid>https://news.ycombinator.com/item?id=30424873</guid>
-            <pubDate>Tue, 22 Feb 2022 07:12:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Annotate PDFs in Markdown]]></description>
         </item>
     </channel>
 </rss>
