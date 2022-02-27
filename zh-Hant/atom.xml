@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T11:52:15.702Z</updated>
+    <updated>2022-02-27T12:19:03.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯給烏克蘭決定在白俄羅斯進行會談的最後期限]]></title>
+        <id>https://news.ycombinator.com/item?id=30487269</id>
+        <link href="https://news.ycombinator.com/item?id=30487269"/>
+        <updated>2022-02-27T11:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Russia gives Ukraine deadline for decision on talks in Belarus]]></summary>
+        <author>
+            <name>maury91</name>
+            <uri>https://news.ycombinator.com/user?id=maury91</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德國承諾為國防開支提供1000億歐元]]></title>
         <id>https://news.ycombinator.com/item?id=30487351</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>probablyrobert</name>
             <uri>https://news.ycombinator.com/user?id=probablyrobert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普的真相社交只能讓馬思純更強大]]></title>
-        <id>https://news.ycombinator.com/item?id=30416952</id>
-        <link href="https://news.ycombinator.com/item?id=30416952"/>
-        <updated>2022-02-21T15:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Trump's Truth Social Can Only Make Mastodon Stronger]]></summary>
-        <author>
-            <name>carride</name>
-            <uri>https://news.ycombinator.com/user?id=carride</uri>
         </author>
     </entry>
 </feed>
