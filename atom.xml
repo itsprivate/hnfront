@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T16:47:51.214Z</updated>
+    <updated>2022-02-27T17:02:48.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[采访英特尔首席执行官帕特-盖尔辛格]]></title>
+        <id>https://news.ycombinator.com/item?id=30486711</id>
+        <link href="https://news.ycombinator.com/item?id=30486711"/>
+        <updated>2022-02-27T09:31:45.000Z</updated>
+        <summary type="html"><![CDATA[An Interview with Intel CEO Pat Gelsinger]]></summary>
+        <author>
+            <name>oumua_don17</name>
+            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据称全面倾销俄罗斯军事人员，包括身份证和SSNs]]></title>
         <id>https://news.ycombinator.com/item?id=30489749</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[囚禁了7000名日裔美国人的营地可能成为国家历史遗址]]></title>
-        <id>https://news.ycombinator.com/item?id=30420505</id>
-        <link href="https://news.ycombinator.com/item?id=30420505"/>
-        <updated>2022-02-21T20:56:02.000Z</updated>
-        <summary type="html"><![CDATA[Camp that imprisoned 7000 Japanese Americans could become National Historic Site]]></summary>
-        <author>
-            <name>sofixa</name>
-            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
         </author>
     </entry>
 </feed>
