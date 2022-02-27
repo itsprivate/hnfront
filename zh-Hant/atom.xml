@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T18:16:06.524Z</updated>
+    <updated>2022-02-27T18:38:15.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2038年的問題仍然存在，而且很好]]></title>
+        <id>https://news.ycombinator.com/item?id=30490817</id>
+        <link href="https://news.ycombinator.com/item?id=30490817"/>
+        <updated>2022-02-27T18:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Year 2038 problem is still alive and well]]></summary>
+        <author>
+            <name>protomyth</name>
+            <uri>https://news.ycombinator.com/user?id=protomyth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特爾變得更糟，但Power11可能會變得更好]]></title>
         <id>https://news.ycombinator.com/item?id=30490660</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sanqui</name>
             <uri>https://news.ycombinator.com/user?id=sanqui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毒藥文件。美國化學和殺蟲劑危害的隱藏曆史。]]></title>
-        <id>https://news.ycombinator.com/item?id=30420811</id>
-        <link href="https://news.ycombinator.com/item?id=30420811"/>
-        <updated>2022-02-21T21:25:09.000Z</updated>
-        <summary type="html"><![CDATA[The Poison Papers: Hidden History of Chemical and Pesticide Hazards in the U.S.]]></summary>
-        <author>
-            <name>BarrySeal</name>
-            <uri>https://news.ycombinator.com/user?id=BarrySeal</uri>
         </author>
     </entry>
 </feed>

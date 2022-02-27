@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 27 Feb 2022 18:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 18:38:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2038年的问题仍然存在，而且很好]]></title>
+            <link>https://news.ycombinator.com/item?id=30490817</link>
+            <guid>https://news.ycombinator.com/item?id=30490817</guid>
+            <pubDate>Sun, 27 Feb 2022 18:09:07 GMT</pubDate>
+            <description><![CDATA[Year 2038 problem is still alive and well]]></description>
+        </item>
         <item>
             <title><![CDATA[英特尔变得更糟，但Power11可能会变得更好]]></title>
             <link>https://news.ycombinator.com/item?id=30490660</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30404843</guid>
             <pubDate>Sun, 20 Feb 2022 11:06:30 GMT</pubDate>
             <description><![CDATA[Thoughts on Markdown]]></description>
-        </item>
-        <item>
-            <title><![CDATA[毒药文件。美国化学和杀虫剂危害的隐藏历史。]]></title>
-            <link>https://news.ycombinator.com/item?id=30420811</link>
-            <guid>https://news.ycombinator.com/item?id=30420811</guid>
-            <pubDate>Mon, 21 Feb 2022 21:25:09 GMT</pubDate>
-            <description><![CDATA[The Poison Papers: Hidden History of Chemical and Pesticide Hazards in the U.S.]]></description>
         </item>
     </channel>
 </rss>
