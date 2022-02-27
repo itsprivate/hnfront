@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T02:53:13.861Z</updated>
+    <updated>2022-02-27T03:13:29.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PHP中自我混淆的价值对象]]></title>
+        <id>https://news.ycombinator.com/item?id=30482712</id>
+        <link href="https://news.ycombinator.com/item?id=30482712"/>
+        <updated>2022-02-26T22:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Self-obfuscating value objects in PHP]]></summary>
+        <author>
+            <name>eamann</name>
+            <uri>https://news.ycombinator.com/user?id=eamann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[转运小组]]></title>
+        <id>https://news.ycombinator.com/item?id=30475410</id>
+        <link href="https://news.ycombinator.com/item?id=30475410"/>
+        <updated>2022-02-26T05:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Transit Panel]]></summary>
+        <author>
+            <name>KerrickStaley</name>
+            <uri>https://news.ycombinator.com/user?id=KerrickStaley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么网站上的字体这么小？]]></title>
         <id>https://news.ycombinator.com/item?id=30484656</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>CTOSian</name>
             <uri>https://news.ycombinator.com/user?id=CTOSian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes纪录片。批评性评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30413263</id>
-        <link href="https://news.ycombinator.com/item?id=30413263"/>
-        <updated>2022-02-21T08:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes Documentary: A Critical Review]]></summary>
-        <author>
-            <name>riccardomc</name>
-            <uri>https://news.ycombinator.com/user?id=riccardomc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在科技的黄金时代，什么是更好的（又称暴躁线）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30413629</id>
-        <link href="https://news.ycombinator.com/item?id=30413629"/>
-        <updated>2022-02-21T09:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What was better in the golden age of tech (a.k.a. the grumpy thread)]]></summary>
-        <author>
-            <name>rixed</name>
-            <uri>https://news.ycombinator.com/user?id=rixed</uri>
         </author>
     </entry>
 </feed>
