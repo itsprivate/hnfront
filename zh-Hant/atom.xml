@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T15:36:35.139Z</updated>
+    <updated>2022-02-27T15:44:04.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[J. 肯吉-洛佩斯-阿爾特說你做的飯很好吃]]></title>
+        <id>https://news.ycombinator.com/item?id=30488189</id>
+        <link href="https://news.ycombinator.com/item?id=30488189"/>
+        <updated>2022-02-27T13:26:12.000Z</updated>
+        <summary type="html"><![CDATA[J. Kenji López-Alt Says You’re Cooking Just Fine]]></summary>
+        <author>
+            <name>nkurz</name>
+            <uri>https://news.ycombinator.com/user?id=nkurz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[土耳其關閉黑海]]></title>
         <id>https://news.ycombinator.com/item?id=30489164</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>onpedrof</name>
             <uri>https://news.ycombinator.com/user?id=onpedrof</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[華納兄弟公司的 "黑客帝國 "法律糾紛暴露了好萊塢的優先事項的變化]]></title>
-        <id>https://news.ycombinator.com/item?id=30419482</id>
-        <link href="https://news.ycombinator.com/item?id=30419482"/>
-        <updated>2022-02-21T19:15:36.000Z</updated>
-        <summary type="html"><![CDATA[Warner Bros.’ ‘Matrix’ legal slugfest exposes Hollywood’s shifting priorities]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
         </author>
     </entry>
 </feed>
