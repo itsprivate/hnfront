@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T04:39:16.331Z</updated>
+    <updated>2022-02-27T05:37:04.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个Ableton Live Set是gzipped的XML+一个Ruby gem（2012）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30485195</id>
+        <link href="https://news.ycombinator.com/item?id=30485195"/>
+        <updated>2022-02-27T03:43:01.000Z</updated>
+        <summary type="html"><![CDATA[An Ableton Live Set is gzipped XML + a Ruby gem (2012)]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布兰登-桑德森对做难事的建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30482923</id>
+        <link href="https://news.ycombinator.com/item?id=30482923"/>
+        <updated>2022-02-26T23:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Brandon Sanderson’s Advice for Doing Hard Things]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年处理一个Cybiko经典的问题]]></title>
         <id>https://news.ycombinator.com/item?id=30485353</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lycopodiopsida</name>
             <uri>https://news.ycombinator.com/user?id=lycopodiopsida</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algolia正在招聘全栈工程师，帮助我们研究一种新的搜索方式]]></title>
-        <id>https://news.ycombinator.com/item?id=30414821</id>
-        <link href="https://news.ycombinator.com/item?id=30414821"/>
-        <updated>2022-02-21T12:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Algolia is hiring full-stack engineers to help us research a new kind of search]]></summary>
-        <author>
-            <name>jlemoine</name>
-            <uri>https://news.ycombinator.com/user?id=jlemoine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关系满意度如何在你的一生中变化]]></title>
-        <id>https://news.ycombinator.com/item?id=30394701</id>
-        <link href="https://news.ycombinator.com/item?id=30394701"/>
-        <updated>2022-02-19T05:39:25.000Z</updated>
-        <summary type="html"><![CDATA[How Relationship Satisfaction Changes Across Your Lifetime]]></summary>
-        <author>
-            <name>terrycody</name>
-            <uri>https://news.ycombinator.com/user?id=terrycody</uri>
         </author>
     </entry>
 </feed>
