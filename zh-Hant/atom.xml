@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T05:37:04.602Z</updated>
+    <updated>2022-02-27T06:13:51.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在數學和/或CS方面對你有幫助的那本書]]></title>
+        <id>https://news.ycombinator.com/item?id=30485544</id>
+        <link href="https://news.ycombinator.com/item?id=30485544"/>
+        <updated>2022-02-27T04:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: The book that did it for you in Math and/or CS]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個Ableton Live Set是gzipped的XML+一個Ruby gem（2012）。]]></title>
         <id>https://news.ycombinator.com/item?id=30485195</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mudro_zboris</name>
             <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為什麼喜歡Java (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=30395807</id>
-        <link href="https://news.ycombinator.com/item?id=30395807"/>
-        <updated>2022-02-19T09:54:57.000Z</updated>
-        <summary type="html"><![CDATA[Why I Like Java (2014)]]></summary>
-        <author>
-            <name>lycopodiopsida</name>
-            <uri>https://news.ycombinator.com/user?id=lycopodiopsida</uri>
         </author>
     </entry>
 </feed>
