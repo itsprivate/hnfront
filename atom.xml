@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T09:12:38.586Z</updated>
+    <updated>2022-02-27T09:31:24.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过乌克兰银行直接支持乌克兰军队的账户]]></title>
+        <id>https://news.ycombinator.com/item?id=30486613</id>
+        <link href="https://news.ycombinator.com/item?id=30486613"/>
+        <updated>2022-02-27T09:13:25.000Z</updated>
+        <summary type="html"><![CDATA[Accounts to Support Ukrainian Army Directly via Bank of Ukraine]]></summary>
+        <author>
+            <name>rmind</name>
+            <uri>https://news.ycombinator.com/user?id=rmind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星链传输成为空袭的信标]]></title>
         <id>https://news.ycombinator.com/item?id=30486387</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>devlop</name>
             <uri>https://news.ycombinator.com/user?id=devlop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Mathematica之前有一个时代 (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=30395285</id>
-        <link href="https://news.ycombinator.com/item?id=30395285"/>
-        <updated>2022-02-19T08:07:33.000Z</updated>
-        <summary type="html"><![CDATA[There Was a Time before Mathematica (2013)]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
         </author>
     </entry>
 </feed>
