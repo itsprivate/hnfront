@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T07:37:42.895Z</updated>
+    <updated>2022-02-27T08:35:01.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要寫程序語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30485604</id>
+        <link href="https://news.ycombinator.com/item?id=30485604"/>
+        <updated>2022-02-27T05:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Don't Write a Programming Language]]></summary>
+        <author>
+            <name>ghoward</name>
+            <uri>https://news.ycombinator.com/user?id=ghoward</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Depict.ai (YC S20)正在招聘工程師]]></title>
         <id>https://news.ycombinator.com/item?id=30486194</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>robbiet480</name>
             <uri>https://news.ycombinator.com/user?id=robbiet480</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個新的每日字謎]]></title>
-        <id>https://news.ycombinator.com/item?id=30415053</id>
-        <link href="https://news.ycombinator.com/item?id=30415053"/>
-        <updated>2022-02-21T12:21:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A new daily word puzzle]]></summary>
-        <author>
-            <name>danieltait</name>
-            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
         </author>
     </entry>
 </feed>
