@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T13:40:49.816Z</updated>
+    <updated>2022-02-27T14:14:27.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京掌握着一个重要的软实力武器，用天然气和石油配给来帮助削弱它吧]]></title>
+        <id>https://news.ycombinator.com/item?id=30488448</id>
+        <link href="https://news.ycombinator.com/item?id=30488448"/>
+        <updated>2022-02-27T13:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Putin holds a major soft power weapon, help weaken it with gas and oil rationing]]></summary>
+        <author>
+            <name>jaltekruse</name>
+            <uri>https://news.ycombinator.com/user?id=jaltekruse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：卡斯帕罗夫2015年的书应该是很多人的必读之作]]></title>
+        <id>https://news.ycombinator.com/item?id=30488300</id>
+        <link href="https://news.ycombinator.com/item?id=30488300"/>
+        <updated>2022-02-27T13:39:10.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Kasparov's 2015 book should have been a must read for many]]></summary>
+        <author>
+            <name>netfortius</name>
+            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[600多名俄罗斯科学家签署公开信反对与乌克兰开战]]></title>
+        <id>https://news.ycombinator.com/item?id=30488197</id>
+        <link href="https://news.ycombinator.com/item?id=30488197"/>
+        <updated>2022-02-27T13:27:29.000Z</updated>
+        <summary type="html"><![CDATA[More than 600 Russian scientists sign open letter against war with Ukraine]]></summary>
+        <author>
+            <name>based2</name>
+            <uri>https://news.ycombinator.com/user?id=based2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯进行城市战争的方式对基辅来说是个坏兆头]]></title>
+        <id>https://news.ycombinator.com/item?id=30488070</id>
+        <link href="https://news.ycombinator.com/item?id=30488070"/>
+        <updated>2022-02-27T13:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Russia’s way of conducting urban warfare bodes ill for Kyiv]]></summary>
+        <author>
+            <name>nindalf</name>
+            <uri>https://news.ycombinator.com/user?id=nindalf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用尼姆进行计算机编程]]></title>
         <id>https://news.ycombinator.com/item?id=30487486</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dendron（YC W21）正在招聘React/TS专家，以建立更好的思想工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30417956</id>
-        <link href="https://news.ycombinator.com/item?id=30417956"/>
-        <updated>2022-02-21T17:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Dendron (YC W21) Is Hiring React/TS Expert to Build Better Tools for Thought]]></summary>
-        <author>
-            <name>kevinslin</name>
-            <uri>https://news.ycombinator.com/user?id=kevinslin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果的错误]]></title>
-        <id>https://news.ycombinator.com/item?id=30417819</id>
-        <link href="https://news.ycombinator.com/item?id=30417819"/>
-        <updated>2022-02-21T16:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Apple’s Mistake]]></summary>
-        <author>
-            <name>keleftheriou</name>
-            <uri>https://news.ycombinator.com/user?id=keleftheriou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拉特纳。斯威夫特核心团队的毒害和离开]]></title>
-        <id>https://news.ycombinator.com/item?id=30417780</id>
-        <link href="https://news.ycombinator.com/item?id=30417780"/>
-        <updated>2022-02-21T16:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Lattner: Swift Core Team toxic and departure]]></summary>
-        <author>
-            <name>anaerobicover</name>
-            <uri>https://news.ycombinator.com/user?id=anaerobicover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C 可移植性的教训来自奇怪的机器]]></title>
-        <id>https://news.ycombinator.com/item?id=30417802</id>
-        <link href="https://news.ycombinator.com/item?id=30417802"/>
-        <updated>2022-02-21T16:45:31.000Z</updated>
-        <summary type="html"><![CDATA[C Portability Lessons from Weird Machines]]></summary>
-        <author>
-            <name>rsecora</name>
-            <uri>https://news.ycombinator.com/user?id=rsecora</uri>
         </author>
     </entry>
 </feed>
