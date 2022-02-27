@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T17:53:48.472Z</updated>
+    <updated>2022-02-27T18:16:06.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特尔变得更糟，但Power11可能会变得更好]]></title>
+        <id>https://news.ycombinator.com/item?id=30490660</id>
+        <link href="https://news.ycombinator.com/item?id=30490660"/>
+        <updated>2022-02-27T17:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Intel gets worse, but Power11 might get better]]></summary>
+        <author>
+            <name>classichasclass</name>
+            <uri>https://news.ycombinator.com/user?id=classichasclass</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录2022年俄罗斯入侵乌克兰期间的设备损失]]></title>
+        <id>https://news.ycombinator.com/item?id=30490658</id>
+        <link href="https://news.ycombinator.com/item?id=30490658"/>
+        <updated>2022-02-27T17:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Documenting Equipment Losses During the 2022 Russian Invasion of Ukraine]]></summary>
+        <author>
+            <name>jacquesm</name>
+            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你为什么不为你的副业收钱？]]></title>
+        <id>https://news.ycombinator.com/item?id=30490637</id>
+        <link href="https://news.ycombinator.com/item?id=30490637"/>
+        <updated>2022-02-27T17:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Why aren't you charging money for your side project?]]></summary>
+        <author>
+            <name>curious-mind</name>
+            <uri>https://news.ycombinator.com/user?id=curious-mind</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么不雇用兼职开发人员？]]></title>
+        <id>https://news.ycombinator.com/item?id=30490563</id>
+        <link href="https://news.ycombinator.com/item?id=30490563"/>
+        <updated>2022-02-27T17:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Why not hire part-time developers?]]></summary>
+        <author>
+            <name>prohobo</name>
+            <uri>https://news.ycombinator.com/user?id=prohobo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Win32是稳定的Linux用户区ABI（和后果）。]]></title>
         <id>https://news.ycombinator.com/item?id=30490570</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>BarrySeal</name>
             <uri>https://news.ycombinator.com/user?id=BarrySeal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方国家对异议的新自由主义战争]]></title>
-        <id>https://news.ycombinator.com/item?id=30421624</id>
-        <link href="https://news.ycombinator.com/item?id=30421624"/>
-        <updated>2022-02-21T22:35:22.000Z</updated>
-        <summary type="html"><![CDATA[The Neoliberal War on Dissent in the West]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我没有帽锁，我必须尖叫]]></title>
-        <id>https://news.ycombinator.com/item?id=30421399</id>
-        <link href="https://news.ycombinator.com/item?id=30421399"/>
-        <updated>2022-02-21T22:17:13.000Z</updated>
-        <summary type="html"><![CDATA[I have no capslock and I must scream]]></summary>
-        <author>
-            <name>mrzool</name>
-            <uri>https://news.ycombinator.com/user?id=mrzool</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[甲壳类动物如何成为螃蟹？]]></title>
-        <id>https://news.ycombinator.com/item?id=30407113</id>
-        <link href="https://news.ycombinator.com/item?id=30407113"/>
-        <updated>2022-02-20T16:58:04.000Z</updated>
-        <summary type="html"><![CDATA[How does a crustacean become a crab?]]></summary>
-        <author>
-            <name>Petiver</name>
-            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase首席执行官在推特上写道，他们是如何想出超级碗广告的，并为此撒了谎]]></title>
-        <id>https://news.ycombinator.com/item?id=30420990</id>
-        <link href="https://news.ycombinator.com/item?id=30420990"/>
-        <updated>2022-02-21T21:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase CEO tweets how they came up with Super Bowl ad, lied about it]]></summary>
-        <author>
-            <name>MBCook</name>
-            <uri>https://news.ycombinator.com/user?id=MBCook</uri>
         </author>
     </entry>
 </feed>
