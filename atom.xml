@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T13:24:58.375Z</updated>
+    <updated>2022-02-27T13:40:49.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用尼姆进行计算机编程]]></title>
+        <id>https://news.ycombinator.com/item?id=30487486</id>
+        <link href="https://news.ycombinator.com/item?id=30487486"/>
+        <updated>2022-02-27T11:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Computer Programming with Nim]]></summary>
+        <author>
+            <name>michaelsbradley</name>
+            <uri>https://news.ycombinator.com/user?id=michaelsbradley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宜家如何欺骗你购买更多的东西]]></title>
         <id>https://news.ycombinator.com/item?id=30487933</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rsecora</name>
             <uri>https://news.ycombinator.com/user?id=rsecora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中世纪的Photoshop]]></title>
-        <id>https://news.ycombinator.com/item?id=30417629</id>
-        <link href="https://news.ycombinator.com/item?id=30417629"/>
-        <updated>2022-02-21T16:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Medieval Photoshop]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
