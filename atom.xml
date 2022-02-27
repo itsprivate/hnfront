@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T22:12:01.655Z</updated>
+    <updated>2022-02-27T22:53:24.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Longbet：到2027年，软件将按秒计价/销售。]]></title>
+        <id>https://news.ycombinator.com/item?id=30493348</id>
+        <link href="https://news.ycombinator.com/item?id=30493348"/>
+        <updated>2022-02-27T22:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Longbet: By 2027, software will be metered/sold by the second]]></summary>
+        <author>
+            <name>collegeburner</name>
+            <uri>https://news.ycombinator.com/user?id=collegeburner</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于{}和{}如何进入ASCII的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30492876</id>
+        <link href="https://news.ycombinator.com/item?id=30492876"/>
+        <updated>2022-02-27T21:45:39.000Z</updated>
+        <summary type="html"><![CDATA[The Story of How \ and {} Got into ASCII]]></summary>
+        <author>
+            <name>hwayne</name>
+            <uri>https://news.ycombinator.com/user?id=hwayne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德国考虑延长核电站的寿命]]></title>
         <id>https://news.ycombinator.com/item?id=30492770</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>wallflower</name>
             <uri>https://news.ycombinator.com/user?id=wallflower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepnote (YC S19)正在招聘一名首席工程师，以建立一个更好的笔记本（欧洲）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30424797</id>
-        <link href="https://news.ycombinator.com/item?id=30424797"/>
-        <updated>2022-02-22T07:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Deepnote (YC S19) is hiring a lead engineer to build a better notebook (Europe)]]></summary>
-        <author>
-            <name>Equiet</name>
-            <uri>https://news.ycombinator.com/user?id=Equiet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL中的时间序列预测]]></title>
-        <id>https://news.ycombinator.com/item?id=30424575</id>
-        <link href="https://news.ycombinator.com/item?id=30424575"/>
-        <updated>2022-02-22T06:19:51.000Z</updated>
-        <summary type="html"><![CDATA[Time Series Forecasting in SQL]]></summary>
-        <author>
-            <name>aicoding</name>
-            <uri>https://news.ycombinator.com/user?id=aicoding</uri>
         </author>
     </entry>
 </feed>
