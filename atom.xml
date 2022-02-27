@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T22:53:24.183Z</updated>
+    <updated>2022-02-27T23:16:58.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[超越独立黑客]]></title>
+        <id>https://news.ycombinator.com/item?id=30489109</id>
+        <link href="https://news.ycombinator.com/item?id=30489109"/>
+        <updated>2022-02-27T15:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Beyond Indie Hacking]]></summary>
+        <author>
+            <name>thakobyan</name>
+            <uri>https://news.ycombinator.com/user?id=thakobyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Longbet：到2027年，软件将按秒计价/销售。]]></title>
         <id>https://news.ycombinator.com/item?id=30493348</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bx376</name>
             <uri>https://news.ycombinator.com/user?id=bx376</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宅男的滑雪板。终极指南 (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=30408158</id>
-        <link href="https://news.ycombinator.com/item?id=30408158"/>
-        <updated>2022-02-20T18:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Snowboarding for Geeks: An Ultimate Guide (2018)]]></summary>
-        <author>
-            <name>wallflower</name>
-            <uri>https://news.ycombinator.com/user?id=wallflower</uri>
         </author>
     </entry>
 </feed>
