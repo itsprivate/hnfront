@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T13:05:12.189Z</updated>
+    <updated>2022-02-27T13:24:58.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宜家如何欺骗你购买更多的东西]]></title>
+        <id>https://news.ycombinator.com/item?id=30487933</id>
+        <link href="https://news.ycombinator.com/item?id=30487933"/>
+        <updated>2022-02-27T12:53:09.000Z</updated>
+        <summary type="html"><![CDATA[How IKEA tricks you into buying more stuff]]></summary>
+        <author>
+            <name>occamschainsaw</name>
+            <uri>https://news.ycombinator.com/user?id=occamschainsaw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Uber-go/fx在Go中进行依赖注入]]></title>
+        <id>https://news.ycombinator.com/item?id=30487792</id>
+        <link href="https://news.ycombinator.com/item?id=30487792"/>
+        <updated>2022-02-27T12:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Dependency injection in Go with Uber-go/fx]]></summary>
+        <author>
+            <name>eko</name>
+            <uri>https://news.ycombinator.com/user?id=eko</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用乌克兰冲突的加密货币骗局]]></title>
         <id>https://news.ycombinator.com/item?id=30487812</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克里斯-拉特纳离开斯威夫特核心团队]]></title>
-        <id>https://news.ycombinator.com/item?id=30416070</id>
-        <link href="https://news.ycombinator.com/item?id=30416070"/>
-        <updated>2022-02-21T14:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Chris Lattner left Swift core team]]></summary>
-        <author>
-            <name>rayx2022</name>
-            <uri>https://news.ycombinator.com/user?id=rayx2022</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有些人问我们的超级碗广告是怎么来的，这里有一个简短的背景故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30414663</id>
-        <link href="https://news.ycombinator.com/item?id=30414663"/>
-        <updated>2022-02-21T11:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Some folks asked how our Super Bowl ad came to be, here is the quick back story]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
