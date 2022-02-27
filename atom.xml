@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T20:33:33.940Z</updated>
+    <updated>2022-02-27T20:54:06.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州理工学院的CS面试准备课程]]></title>
+        <id>https://news.ycombinator.com/item?id=30492262</id>
+        <link href="https://news.ycombinator.com/item?id=30492262"/>
+        <updated>2022-02-27T20:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Caltech's CS interview prep course]]></summary>
+        <author>
+            <name>b8</name>
+            <uri>https://news.ycombinator.com/user?id=b8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推出无代码的算法交易平台]]></title>
         <id>https://news.ycombinator.com/item?id=30491957</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>voisin</name>
             <uri>https://news.ycombinator.com/user?id=voisin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获得更好的睡眠 - 轶事和睡眠技术]]></title>
-        <id>https://news.ycombinator.com/item?id=30410310</id>
-        <link href="https://news.ycombinator.com/item?id=30410310"/>
-        <updated>2022-02-20T23:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Get better sleep – Anecdata and sleep tech]]></summary>
-        <author>
-            <name>abalaji</name>
-            <uri>https://news.ycombinator.com/user?id=abalaji</uri>
         </author>
     </entry>
 </feed>
