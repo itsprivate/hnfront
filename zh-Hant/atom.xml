@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T15:44:04.069Z</updated>
+    <updated>2022-02-27T15:53:35.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大腦和算法在自然語言處理中部分趨同]]></title>
+        <id>https://news.ycombinator.com/item?id=30489081</id>
+        <link href="https://news.ycombinator.com/item?id=30489081"/>
+        <updated>2022-02-27T15:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Brains and algorithms partially converge in natural language processing]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打敗輪盤賭的教授]]></title>
+        <id>https://news.ycombinator.com/item?id=30489022</id>
+        <link href="https://news.ycombinator.com/item?id=30489022"/>
+        <updated>2022-02-27T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[The professor who beat roulette]]></summary>
+        <author>
+            <name>yarapavan</name>
+            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原子能機構將舉行烏克蘭問題緊急會議]]></title>
+        <id>https://news.ycombinator.com/item?id=30488887</id>
+        <link href="https://news.ycombinator.com/item?id=30488887"/>
+        <updated>2022-02-27T14:43:40.000Z</updated>
+        <summary type="html"><![CDATA[IAEA to hold emergency meeting on Ukraine]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[J. 肯吉-洛佩斯-阿爾特說你做的飯很好吃]]></title>
         <id>https://news.ycombinator.com/item?id=30488189</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>cassepipe</name>
             <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我測試了四家供應商的NVMe固態硬盤--一半在斷電時丟失FLUSH的數據]]></title>
-        <id>https://news.ycombinator.com/item?id=30419618</id>
-        <link href="https://news.ycombinator.com/item?id=30419618"/>
-        <updated>2022-02-21T19:29:37.000Z</updated>
-        <summary type="html"><![CDATA[I tested four NVMe SSDs from four vendors – half lose FLUSH’d data on power loss]]></summary>
-        <author>
-            <name>ahachete</name>
-            <uri>https://news.ycombinator.com/user?id=ahachete</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux系統的Snap-confine功能中發現多個漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30395470</id>
-        <link href="https://news.ycombinator.com/item?id=30395470"/>
-        <updated>2022-02-19T08:44:15.000Z</updated>
-        <summary type="html"><![CDATA[Multiple vulnerabilities found in Snap-confine function on Linux systems]]></summary>
-        <author>
-            <name>pdenton</name>
-            <uri>https://news.ycombinator.com/user?id=pdenton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperloop公司裁員一半，因為它的工作重心不再是乘客旅行]]></title>
-        <id>https://news.ycombinator.com/item?id=30419809</id>
-        <link href="https://news.ycombinator.com/item?id=30419809"/>
-        <updated>2022-02-21T19:50:46.000Z</updated>
-        <summary type="html"><![CDATA[Hyperloop lays off half of its employees as it pivots away from passenger travel]]></summary>
-        <author>
-            <name>onpedrof</name>
-            <uri>https://news.ycombinator.com/user?id=onpedrof</uri>
         </author>
     </entry>
 </feed>
