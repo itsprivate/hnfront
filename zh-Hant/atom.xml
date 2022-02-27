@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-27T19:12:29.312Z</updated>
+    <updated>2022-02-27T19:27:18.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何對自由軟件進行小的調整]]></title>
+        <id>https://news.ycombinator.com/item?id=30491286</id>
+        <link href="https://news.ycombinator.com/item?id=30491286"/>
+        <updated>2022-02-27T18:51:13.000Z</updated>
+        <summary type="html"><![CDATA[How to make small tweaks to free software]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英國石油公司因烏克蘭入侵而從俄羅斯的Rosneft公司撤退，代價為250億美元]]></title>
+        <id>https://news.ycombinator.com/item?id=30491179</id>
+        <link href="https://news.ycombinator.com/item?id=30491179"/>
+        <updated>2022-02-27T18:42:25.000Z</updated>
+        <summary type="html"><![CDATA[BP retreats from Russia's Rosneft at cost of $25 bln over Ukraine invasion]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在手機中使用CMOS傳感器進行伽馬檢測和分類]]></title>
         <id>https://news.ycombinator.com/item?id=30491128</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Das.Test - 一個用F#語言編寫的用於F#的單元測試庫。]]></title>
-        <id>https://news.ycombinator.com/item?id=30422317</id>
-        <link href="https://news.ycombinator.com/item?id=30422317"/>
-        <updated>2022-02-21T23:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Das.Test – An opinionated unit testing library written in F# for F#]]></summary>
-        <author>
-            <name>Fervicus</name>
-            <uri>https://news.ycombinator.com/user?id=Fervicus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDBWave - 一個基於模擬後波形的RISC-V GDB調試服務器]]></title>
-        <id>https://news.ycombinator.com/item?id=30422287</id>
-        <link href="https://news.ycombinator.com/item?id=30422287"/>
-        <updated>2022-02-21T23:46:22.000Z</updated>
-        <summary type="html"><![CDATA[GDBWave – A Post-Simulation Waveform-Based RISC-V GDB Debugging Server]]></summary>
-        <author>
-            <name>X-Cubed</name>
-            <uri>https://news.ycombinator.com/user?id=X-Cubed</uri>
         </author>
     </entry>
 </feed>
