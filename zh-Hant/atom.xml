@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-28T16:21:30.516Z</updated>
+    <updated>2022-02-28T16:52:45.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年的心智數學有什麼用？]]></title>
+        <id>https://news.ycombinator.com/item?id=30501191</id>
+        <link href="https://news.ycombinator.com/item?id=30501191"/>
+        <updated>2022-02-28T15:51:39.000Z</updated>
+        <summary type="html"><![CDATA[What use is mental math in 2022?]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓你走到這一步的東西不會讓你走到那一步》一書摘要]]></title>
+        <id>https://news.ycombinator.com/item?id=30500715</id>
+        <link href="https://news.ycombinator.com/item?id=30500715"/>
+        <updated>2022-02-28T15:18:30.000Z</updated>
+        <summary type="html"><![CDATA[What Got You Here Won’t Get You There Book Summary]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wt, C++網絡工具箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30500590</id>
+        <link href="https://news.ycombinator.com/item?id=30500590"/>
+        <updated>2022-02-28T15:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Wt, C++ Web Toolkit]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安東諾夫飛機在美國（An-2）]]></title>
+        <id>https://news.ycombinator.com/item?id=30487416</id>
+        <link href="https://news.ycombinator.com/item?id=30487416"/>
+        <updated>2022-02-27T11:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Antonovs in America (An-2)]]></summary>
+        <author>
+            <name>aww_dang</name>
+            <uri>https://news.ycombinator.com/user?id=aww_dang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中立的瑞士通過歐盟對俄羅斯的制裁，與過去決裂]]></title>
         <id>https://news.ycombinator.com/item?id=30501087</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將 "框架 "筆記本電腦帶給世界上更多的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30430300</id>
-        <link href="https://news.ycombinator.com/item?id=30430300"/>
-        <updated>2022-02-22T16:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Bringing the Framework Laptop to more of the world]]></summary>
-        <author>
-            <name>m6w6</name>
-            <uri>https://news.ycombinator.com/user?id=m6w6</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Bpftrace檢測Monero礦工]]></title>
-        <id>https://news.ycombinator.com/item?id=30431098</id>
-        <link href="https://news.ycombinator.com/item?id=30431098"/>
-        <updated>2022-02-22T17:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Detecting Monero Miners with Bpftrace]]></summary>
-        <author>
-            <name>philkuz</name>
-            <uri>https://news.ycombinator.com/user?id=philkuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國國稅局。現在可以選擇自拍，生物識別數據將被刪除]]></title>
-        <id>https://news.ycombinator.com/item?id=30431033</id>
-        <link href="https://news.ycombinator.com/item?id=30431033"/>
-        <updated>2022-02-22T17:54:18.000Z</updated>
-        <summary type="html"><![CDATA[IRS: Selfies Now Optional, Biometric Data to Be Deleted]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國稅局將採用Login.gov作為用戶認證工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30430851</id>
-        <link href="https://news.ycombinator.com/item?id=30430851"/>
-        <updated>2022-02-22T17:39:35.000Z</updated>
-        <summary type="html"><![CDATA[IRS to adopt Login.gov as user authentication tool]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
