@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-28T21:39:42.047Z</updated>
+    <updated>2022-02-28T22:14:01.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SSH生产力技巧]]></title>
+        <id>https://news.ycombinator.com/item?id=30505583</id>
+        <link href="https://news.ycombinator.com/item?id=30505583"/>
+        <updated>2022-02-28T21:46:58.000Z</updated>
+        <summary type="html"><![CDATA[SSH Productivity Tips]]></summary>
+        <author>
+            <name>xy2_</name>
+            <uri>https://news.ycombinator.com/user?id=xy2_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用AWS S3在预算范围内进行容器注册]]></title>
+        <id>https://news.ycombinator.com/item?id=30505471</id>
+        <link href="https://news.ycombinator.com/item?id=30505471"/>
+        <updated>2022-02-28T21:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Container registry on a budget using AWS S3]]></summary>
+        <author>
+            <name>mborch</name>
+            <uri>https://news.ycombinator.com/user?id=mborch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数站]]></title>
         <id>https://news.ycombinator.com/item?id=30496873</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>buzzert</name>
             <uri>https://news.ycombinator.com/user?id=buzzert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么没有更多的软件项目使用BitTorrent进行下载？]]></title>
-        <id>https://news.ycombinator.com/item?id=30436367</id>
-        <link href="https://news.ycombinator.com/item?id=30436367"/>
-        <updated>2022-02-23T01:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't more software projects use BitTorrent for downloads?]]></summary>
-        <author>
-            <name>nerdponx</name>
-            <uri>https://news.ycombinator.com/user?id=nerdponx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ĤĤGitBOM]]></title>
-        <id>https://news.ycombinator.com/item?id=30436291</id>
-        <link href="https://news.ycombinator.com/item?id=30436291"/>
-        <updated>2022-02-23T01:14:42.000Z</updated>
-        <summary type="html"><![CDATA[GitBOM]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 28 Feb 2022 21:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 22:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SSH生產力技巧]]></title>
+            <link>https://news.ycombinator.com/item?id=30505583</link>
+            <guid>https://news.ycombinator.com/item?id=30505583</guid>
+            <pubDate>Mon, 28 Feb 2022 21:46:58 GMT</pubDate>
+            <description><![CDATA[SSH Productivity Tips]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用AWS S3在預算範圍內進行容器註冊]]></title>
+            <link>https://news.ycombinator.com/item?id=30505471</link>
+            <guid>https://news.ycombinator.com/item?id=30505471</guid>
+            <pubDate>Mon, 28 Feb 2022 21:37:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Container registry on a budget using AWS S3]]></description>
+        </item>
         <item>
             <title><![CDATA[數站]]></title>
             <link>https://news.ycombinator.com/item?id=30496873</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30436450</guid>
             <pubDate>Wed, 23 Feb 2022 01:35:19 GMT</pubDate>
             <description><![CDATA[Google leaves TODO message at the top of basic HTML homepage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼沒有更多的軟件項目使用BitTorrent進行下載？]]></title>
-            <link>https://news.ycombinator.com/item?id=30436367</link>
-            <guid>https://news.ycombinator.com/item?id=30436367</guid>
-            <pubDate>Wed, 23 Feb 2022 01:22:45 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why don't more software projects use BitTorrent for downloads?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ĤĤGitBOM]]></title>
-            <link>https://news.ycombinator.com/item?id=30436291</link>
-            <guid>https://news.ycombinator.com/item?id=30436291</guid>
-            <pubDate>Wed, 23 Feb 2022 01:14:42 GMT</pubDate>
-            <description><![CDATA[GitBOM]]></description>
         </item>
     </channel>
 </rss>
