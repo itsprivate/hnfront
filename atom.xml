@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-28T23:15:33.663Z</updated>
+    <updated>2022-02-28T23:34:29.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瓦斯默2.2]]></title>
+        <id>https://news.ycombinator.com/item?id=30505986</id>
+        <link href="https://news.ycombinator.com/item?id=30505986"/>
+        <updated>2022-02-28T22:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Wasmer 2.2]]></summary>
+        <author>
+            <name>wiqar</name>
+            <uri>https://news.ycombinator.com/user?id=wiqar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[F-Droid - 谷歌商店的替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30506413</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>awb</name>
             <uri>https://news.ycombinator.com/user?id=awb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clear - 开源FPGA ASIC]]></title>
-        <id>https://news.ycombinator.com/item?id=30437021</id>
-        <link href="https://news.ycombinator.com/item?id=30437021"/>
-        <updated>2022-02-23T02:53:35.000Z</updated>
-        <summary type="html"><![CDATA[Clear – The Open Source FPGA ASIC]]></summary>
-        <author>
-            <name>krasin</name>
-            <uri>https://news.ycombinator.com/user?id=krasin</uri>
         </author>
     </entry>
 </feed>
