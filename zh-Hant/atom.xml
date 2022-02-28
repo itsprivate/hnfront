@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-28T17:53:05.140Z</updated>
+    <updated>2022-02-28T18:18:31.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[憤怒和恐懼：十年來在實驗室和現場的研究]]></title>
+        <id>https://news.ycombinator.com/item?id=30502777</id>
+        <link href="https://news.ycombinator.com/item?id=30502777"/>
+        <updated>2022-02-28T17:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Anger and fear: ten years of research in the lab and field]]></summary>
+        <author>
+            <name>swibbler</name>
+            <uri>https://news.ycombinator.com/user?id=swibbler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX未來基金]]></title>
+        <id>https://news.ycombinator.com/item?id=30502742</id>
+        <link href="https://news.ycombinator.com/item?id=30502742"/>
+        <updated>2022-02-28T17:52:30.000Z</updated>
+        <summary type="html"><![CDATA[FTX Future Fund]]></summary>
+        <author>
+            <name>tmychow</name>
+            <uri>https://news.ycombinator.com/user?id=tmychow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[觸覺改道的樂趣，而不是利潤]]></title>
+        <id>https://news.ycombinator.com/item?id=30502565</id>
+        <link href="https://news.ycombinator.com/item?id=30502565"/>
+        <updated>2022-02-28T17:38:44.000Z</updated>
+        <summary type="html"><![CDATA[Haptics rerouting for fun and no profit]]></summary>
+        <author>
+            <name>qdot76367</name>
+            <uri>https://news.ycombinator.com/user?id=qdot76367</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我為PG創建了一個Chrome擴展：TRAB（Tweet Reporter and Blocker）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30502480</id>
+        <link href="https://news.ycombinator.com/item?id=30502480"/>
+        <updated>2022-02-28T17:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Created a Chrome Extension for PG: TRAB (Tweet Reporter and Blocker)]]></summary>
+        <author>
+            <name>impish19</name>
+            <uri>https://news.ycombinator.com/user?id=impish19</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fork()是邪惡的；vfork()是善良的；afork()會更好；clone()是愚蠢的。]]></title>
+        <id>https://news.ycombinator.com/item?id=30502392</id>
+        <link href="https://news.ycombinator.com/item?id=30502392"/>
+        <updated>2022-02-28T17:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid]]></summary>
+        <author>
+            <name>__s</name>
+            <uri>https://news.ycombinator.com/user?id=__s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼不能從非async函數中使用await？]]></title>
         <id>https://news.ycombinator.com/item?id=30502067</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>declan_g</name>
             <uri>https://news.ycombinator.com/user?id=declan_g</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機器學習對軟件工程師來說還是太難了]]></title>
-        <id>https://news.ycombinator.com/item?id=30432987</id>
-        <link href="https://news.ycombinator.com/item?id=30432987"/>
-        <updated>2022-02-22T20:07:47.000Z</updated>
-        <summary type="html"><![CDATA[Machine Learning Is Still Too Hard for Software Engineers]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[細菌將碳廢料循環利用為有價值的化學品]]></title>
-        <id>https://news.ycombinator.com/item?id=30432512</id>
-        <link href="https://news.ycombinator.com/item?id=30432512"/>
-        <updated>2022-02-22T19:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Bacteria upcycle carbon waste into valuable chemicals]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日落的Bethesda.net啟動器和遷移到Steam上]]></title>
-        <id>https://news.ycombinator.com/item?id=30432321</id>
-        <link href="https://news.ycombinator.com/item?id=30432321"/>
-        <updated>2022-02-22T19:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Sunsetting the Bethesda.net launcher and migrating to Steam]]></summary>
-        <author>
-            <name>alexrustic</name>
-            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個新的網絡優化庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30432326</id>
-        <link href="https://news.ycombinator.com/item?id=30432326"/>
-        <updated>2022-02-22T19:22:01.000Z</updated>
-        <summary type="html"><![CDATA[A New Library for Network Optimization]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無透鏡成像的最新進展]]></title>
-        <id>https://news.ycombinator.com/item?id=30432059</id>
-        <link href="https://news.ycombinator.com/item?id=30432059"/>
-        <updated>2022-02-22T19:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Recent Advances in Lensless Imaging]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
