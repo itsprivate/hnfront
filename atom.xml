@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-28T20:36:18.957Z</updated>
+    <updated>2022-02-28T20:52:06.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我已再次正式接受邮轮公司的首席执行官工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30504665</id>
+        <link href="https://news.ycombinator.com/item?id=30504665"/>
+        <updated>2022-02-28T20:25:53.000Z</updated>
+        <summary type="html"><![CDATA[I have formally accepted the CEO job at Cruise once again]]></summary>
+        <author>
+            <name>vehbisarikaya</name>
+            <uri>https://news.ycombinator.com/user?id=vehbisarikaya</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为好奇心强的人提供的量子计算]]></title>
         <id>https://news.ycombinator.com/item?id=30504560</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>drdee</name>
             <uri>https://news.ycombinator.com/user?id=drdee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle在许多微妙的方面都非常聪明]]></title>
-        <id>https://news.ycombinator.com/item?id=30435522</id>
-        <link href="https://news.ycombinator.com/item?id=30435522"/>
-        <updated>2022-02-22T23:48:47.000Z</updated>
-        <summary type="html"><![CDATA[Wordle is pretty damn smart in many subtle ways]]></summary>
-        <author>
-            <name>vaghetti</name>
-            <uri>https://news.ycombinator.com/user?id=vaghetti</uri>
         </author>
     </entry>
 </feed>
