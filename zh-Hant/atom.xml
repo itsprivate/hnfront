@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-28T19:43:46.049Z</updated>
+    <updated>2022-02-28T20:15:21.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你吃什麼和你的睡眠質量之間的驚人聯繫]]></title>
+        <id>https://news.ycombinator.com/item?id=30504022</id>
+        <link href="https://news.ycombinator.com/item?id=30504022"/>
+        <updated>2022-02-28T19:34:05.000Z</updated>
+        <summary type="html"><![CDATA[The surprising links between what you eat and how well you sleep]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尾部遞歸，但Modulo弊端]]></title>
         <id>https://news.ycombinator.com/item?id=30497307</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anotherevan</name>
             <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羔羊報]]></title>
-        <id>https://news.ycombinator.com/item?id=30435059</id>
-        <link href="https://news.ycombinator.com/item?id=30435059"/>
-        <updated>2022-02-22T22:56:21.000Z</updated>
-        <summary type="html"><![CDATA[The Lamb Paper]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>

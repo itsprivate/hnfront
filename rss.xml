@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 28 Feb 2022 19:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 20:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你吃什么和你的睡眠质量之间的惊人联系]]></title>
+            <link>https://news.ycombinator.com/item?id=30504022</link>
+            <guid>https://news.ycombinator.com/item?id=30504022</guid>
+            <pubDate>Mon, 28 Feb 2022 19:34:05 GMT</pubDate>
+            <description><![CDATA[The surprising links between what you eat and how well you sleep]]></description>
+        </item>
         <item>
             <title><![CDATA[尾部递归，但Modulo弊端]]></title>
             <link>https://news.ycombinator.com/item?id=30497307</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30435282</guid>
             <pubDate>Tue, 22 Feb 2022 23:21:28 GMT</pubDate>
             <description><![CDATA[Avoiding the Top Nginx Configuration Mistakes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[羔羊报]]></title>
-            <link>https://news.ycombinator.com/item?id=30435059</link>
-            <guid>https://news.ycombinator.com/item?id=30435059</guid>
-            <pubDate>Tue, 22 Feb 2022 22:56:21 GMT</pubDate>
-            <description><![CDATA[The Lamb Paper]]></description>
         </item>
     </channel>
 </rss>
