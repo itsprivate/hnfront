@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-28T19:16:51.015Z</updated>
+    <updated>2022-02-28T19:29:36.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[没有用户账户，是设计出来的]]></title>
+        <id>https://news.ycombinator.com/item?id=30503482</id>
+        <link href="https://news.ycombinator.com/item?id=30503482"/>
+        <updated>2022-02-28T18:51:59.000Z</updated>
+        <summary type="html"><![CDATA[No User Accounts, by Design]]></summary>
+        <author>
+            <name>bnr</name>
+            <uri>https://news.ycombinator.com/user?id=bnr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯 "很可能 "会拖欠债务]]></title>
+        <id>https://news.ycombinator.com/item?id=30503337</id>
+        <link href="https://news.ycombinator.com/item?id=30503337"/>
+        <updated>2022-02-28T18:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Russia 'Likely' to Default on Debts]]></summary>
+        <author>
+            <name>baybal2</name>
+            <uri>https://news.ycombinator.com/user?id=baybal2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要求招聘信息包括工资的法案在华盛顿州参议院获得通过]]></title>
         <id>https://news.ycombinator.com/item?id=30503532</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>portobello</name>
             <uri>https://news.ycombinator.com/user?id=portobello</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我们的无现金社会，我们需要认真对待数字监狱]]></title>
-        <id>https://news.ycombinator.com/item?id=30435215</id>
-        <link href="https://news.ycombinator.com/item?id=30435215"/>
-        <updated>2022-02-22T23:14:09.000Z</updated>
-        <summary type="html"><![CDATA[In our cashless society, we need to take digital jail seriously]]></summary>
-        <author>
-            <name>busymom0</name>
-            <uri>https://news.ycombinator.com/user?id=busymom0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果M1上的PyTorch比TensorFlow-Metal更快]]></title>
-        <id>https://news.ycombinator.com/item?id=30434886</id>
-        <link href="https://news.ycombinator.com/item?id=30434886"/>
-        <updated>2022-02-22T22:39:37.000Z</updated>
-        <summary type="html"><![CDATA[PyTorch on Apple M1 Faster Than TensorFlow-Metal]]></summary>
-        <author>
-            <name>yayr</name>
-            <uri>https://news.ycombinator.com/user?id=yayr</uri>
         </author>
     </entry>
 </feed>
