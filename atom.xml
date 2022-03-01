@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T16:27:40.380Z</updated>
+    <updated>2022-03-01T16:49:54.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝网将要求使用微软账户才能玩《Minecraft》。]]></title>
+        <id>https://news.ycombinator.com/item?id=30515742</id>
+        <link href="https://news.ycombinator.com/item?id=30515742"/>
+        <updated>2022-03-01T16:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Mojang to Require a Microsoft Account to Play Minecraft]]></summary>
+        <author>
+            <name>i13e</name>
+            <uri>https://news.ycombinator.com/user?id=i13e</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用GDB进行调试]]></title>
+        <id>https://news.ycombinator.com/item?id=30512302</id>
+        <link href="https://news.ycombinator.com/item?id=30512302"/>
+        <updated>2022-03-01T10:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Debugging with GDB]]></summary>
+        <author>
+            <name>MarcellusDrum</name>
+            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[启动HN：GrowthBook (YC W22) - 开源的功能标记和A/B测试]]></title>
         <id>https://news.ycombinator.com/item?id=30515940</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PeerTube。免费软件夺回你的视频控制权]]></title>
-        <id>https://news.ycombinator.com/item?id=30445497</id>
-        <link href="https://news.ycombinator.com/item?id=30445497"/>
-        <updated>2022-02-23T19:51:31.000Z</updated>
-        <summary type="html"><![CDATA[PeerTube: Free software to take back control of your videos]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有最低停车要求？对阿肯色州费耶特维尔来说没有问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30444644</id>
-        <link href="https://news.ycombinator.com/item?id=30444644"/>
-        <updated>2022-02-23T18:40:58.000Z</updated>
-        <summary type="html"><![CDATA[No Minimum Parking Requirements? No Problem for Fayetteville, Arkansas]]></summary>
-        <author>
-            <name>jseliger</name>
-            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
         </author>
     </entry>
 </feed>
