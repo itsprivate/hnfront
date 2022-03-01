@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-02-28T23:42:20.817Z</updated>
+    <updated>2022-03-01T00:39:15.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你需要一个域名]]></title>
+        <id>https://news.ycombinator.com/item?id=30506860</id>
+        <link href="https://news.ycombinator.com/item?id=30506860"/>
+        <updated>2022-02-28T23:45:22.000Z</updated>
+        <summary type="html"><![CDATA[You Need a Domain Name]]></summary>
+        <author>
+            <name>nadermx</name>
+            <uri>https://news.ycombinator.com/user?id=nadermx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来十年食品和农业的重大颠覆]]></title>
+        <id>https://news.ycombinator.com/item?id=30506734</id>
+        <link href="https://news.ycombinator.com/item?id=30506734"/>
+        <updated>2022-02-28T23:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Major disruption in food and agriculture in next decade]]></summary>
+        <author>
+            <name>cheese_goddess</name>
+            <uri>https://news.ycombinator.com/user?id=cheese_goddess</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Playdate软件开发工具包现在可以免费提供给所有人]]></title>
         <id>https://news.ycombinator.com/item?id=30506543</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>busymom0</name>
             <uri>https://news.ycombinator.com/user?id=busymom0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
-        <id>https://news.ycombinator.com/item?id=30437257</id>
-        <link href="https://news.ycombinator.com/item?id=30437257"/>
-        <updated>2022-02-23T03:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an iOS app recording RGBD videos and a webapp playing them]]></summary>
-        <author>
-            <name>hanseul</name>
-            <uri>https://news.ycombinator.com/user?id=hanseul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用三叉戟优化Postgres文本搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30433269</id>
-        <link href="https://news.ycombinator.com/item?id=30433269"/>
-        <updated>2022-02-22T20:29:07.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing Postgres text search with trigrams]]></summary>
-        <author>
-            <name>petercooper</name>
-            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
         </author>
     </entry>
 </feed>
