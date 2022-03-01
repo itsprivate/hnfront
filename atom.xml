@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T12:35:25.488Z</updated>
+    <updated>2022-03-01T12:53:02.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我意识到数据科学不适合我，感到很沮丧]]></title>
+        <id>https://news.ycombinator.com/item?id=30513030</id>
+        <link href="https://news.ycombinator.com/item?id=30513030"/>
+        <updated>2022-03-01T11:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I realise Data Science is not for me and feel depressed]]></summary>
+        <author>
+            <name>boa00</name>
+            <uri>https://news.ycombinator.com/user?id=boa00</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你不需要JavaScript的事情]]></title>
+        <id>https://news.ycombinator.com/item?id=30512512</id>
+        <link href="https://news.ycombinator.com/item?id=30512512"/>
+        <updated>2022-03-01T10:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Things you don't need JavaScript for]]></summary>
+        <author>
+            <name>StevenWaterman</name>
+            <uri>https://news.ycombinator.com/user?id=StevenWaterman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剖析JWT]]></title>
+        <id>https://news.ycombinator.com/item?id=30499618</id>
+        <link href="https://news.ycombinator.com/item?id=30499618"/>
+        <updated>2022-02-28T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Anatomy of a JWT]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fly.io (YC W20)正在招聘Laravel专家]]></title>
         <id>https://news.ycombinator.com/item?id=30513080</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>HieronymusBosch</name>
             <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是时候删除reiserfs了吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30441507</id>
-        <link href="https://news.ycombinator.com/item?id=30441507"/>
-        <updated>2022-02-23T14:44:44.000Z</updated>
-        <summary type="html"><![CDATA[Is it time to remove reiserfs?]]></summary>
-        <author>
-            <name>thestoicattack</name>
-            <uri>https://news.ycombinator.com/user?id=thestoicattack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个着色器的技巧]]></title>
-        <id>https://news.ycombinator.com/item?id=30438541</id>
-        <link href="https://news.ycombinator.com/item?id=30438541"/>
-        <updated>2022-02-23T07:15:53.000Z</updated>
-        <summary type="html"><![CDATA[A Shader Trick]]></summary>
-        <author>
-            <name>tobr</name>
-            <uri>https://news.ycombinator.com/user?id=tobr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simula One - 便携式Linux VR计算机]]></title>
-        <id>https://news.ycombinator.com/item?id=30440828</id>
-        <link href="https://news.ycombinator.com/item?id=30440828"/>
-        <updated>2022-02-23T13:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simula One – Portable Linux VR Computer]]></summary>
-        <author>
-            <name>georgewsinger</name>
-            <uri>https://news.ycombinator.com/user?id=georgewsinger</uri>
         </author>
     </entry>
 </feed>
