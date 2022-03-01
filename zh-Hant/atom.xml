@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T13:21:51.735Z</updated>
+    <updated>2022-03-01T13:35:35.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的CP/M版本中提供的PC-DOS模式(1984) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30500316</id>
+        <link href="https://news.ycombinator.com/item?id=30500316"/>
+        <updated>2022-02-28T14:43:52.000Z</updated>
+        <summary type="html"><![CDATA[PC-DOS Mode Offered in New CP/M Release (1984) [pdf]]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成熟的NCC執行理事會關於提供關鍵服務的決議]]></title>
         <id>https://news.ycombinator.com/item?id=30513540</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pornhub內部]]></title>
-        <id>https://news.ycombinator.com/item?id=30441276</id>
-        <link href="https://news.ycombinator.com/item?id=30441276"/>
-        <updated>2022-02-23T14:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Inside Pornhub]]></summary>
-        <author>
-            <name>basisword</name>
-            <uri>https://news.ycombinator.com/user?id=basisword</uri>
         </author>
     </entry>
 </feed>
