@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 23:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[编写纯文本文件]]></title>
+            <link>https://news.ycombinator.com/item?id=30521545</link>
+            <guid>https://news.ycombinator.com/item?id=30521545</guid>
+            <pubDate>Tue, 01 Mar 2022 23:35:03 GMT</pubDate>
+            <description><![CDATA[Write Plain Text Files]]></description>
+        </item>
         <item>
             <title><![CDATA[Socket - 保护你的JavaScript供应链]]></title>
             <link>https://news.ycombinator.com/item?id=30515090</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30439884</guid>
             <pubDate>Wed, 23 Feb 2022 11:07:20 GMT</pubDate>
             <description><![CDATA[Atomic Habits of Desire]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我把那个文件放在哪里了？替换文件系统的时机已经到来]]></title>
-            <link>https://news.ycombinator.com/item?id=30449263</link>
-            <guid>https://news.ycombinator.com/item?id=30449263</guid>
-            <pubDate>Thu, 24 Feb 2022 01:39:50 GMT</pubDate>
-            <description><![CDATA[Where Did I Put That File? The time has come to replace file systems]]></description>
         </item>
     </channel>
 </rss>
