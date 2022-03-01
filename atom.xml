@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T04:42:18.166Z</updated>
+    <updated>2022-03-01T04:58:42.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乌克兰政府给ICANN的电子邮件（要求关闭.ru根域名服务器）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30509567</id>
+        <link href="https://news.ycombinator.com/item?id=30509567"/>
+        <updated>2022-03-01T04:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine Government email to ICANN (requesting shutdown of .ru root DNS servers)]]></summary>
+        <author>
+            <name>bruhboribhe</name>
+            <uri>https://news.ycombinator.com/user?id=bruhboribhe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[运行面向隐私的操作系统的Degoogled手机--Degoogled手机]]></title>
         <id>https://news.ycombinator.com/item?id=30508890</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你需要知道的关于单体的一切]]></title>
-        <id>https://news.ycombinator.com/item?id=30438579</id>
-        <link href="https://news.ycombinator.com/item?id=30438579"/>
-        <updated>2022-02-23T07:22:10.000Z</updated>
-        <summary type="html"><![CDATA[Everything you need to know about monorepos]]></summary>
-        <author>
-            <name>SerCe</name>
-            <uri>https://news.ycombinator.com/user?id=SerCe</uri>
         </author>
     </entry>
 </feed>
