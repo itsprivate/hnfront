@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T15:38:02.773Z</updated>
+    <updated>2022-03-01T15:48:52.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RISC-V正在获得成功]]></title>
+        <id>https://news.ycombinator.com/item?id=30515014</id>
+        <link href="https://news.ycombinator.com/item?id=30515014"/>
+        <updated>2022-03-01T15:05:23.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V is succeeding]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大卫-博格斯已经去世]]></title>
+        <id>https://news.ycombinator.com/item?id=30513041</id>
+        <link href="https://news.ycombinator.com/item?id=30513041"/>
+        <updated>2022-03-01T11:55:36.000Z</updated>
+        <summary type="html"><![CDATA[David Boggs has died]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prig - 与AWK类似，但使用Go进行 "脚本编写"]]></title>
+        <id>https://news.ycombinator.com/item?id=30498735</id>
+        <link href="https://news.ycombinator.com/item?id=30498735"/>
+        <updated>2022-02-28T11:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Prig – like AWK, but uses Go for “scripting”]]></summary>
+        <author>
+            <name>benhoyt</name>
+            <uri>https://news.ycombinator.com/user?id=benhoyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Req - 一种HTTP脚本语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30488030</id>
+        <link href="https://news.ycombinator.com/item?id=30488030"/>
+        <updated>2022-02-27T13:06:07.000Z</updated>
+        <summary type="html"><![CDATA[Req – An HTTP Scripting Language]]></summary>
+        <author>
+            <name>elvis70</name>
+            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla Hubs]]></title>
         <id>https://news.ycombinator.com/item?id=30515097</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中世纪的接吻]]></title>
-        <id>https://news.ycombinator.com/item?id=30438386</id>
-        <link href="https://news.ycombinator.com/item?id=30438386"/>
-        <updated>2022-02-23T06:43:08.000Z</updated>
-        <summary type="html"><![CDATA[Kissing in the Middle Ages]]></summary>
-        <author>
-            <name>pepys</name>
-            <uri>https://news.ycombinator.com/user?id=pepys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buf CLI，一个用于Protobuf开发的一体化工具，已经达到V1.0版本。]]></title>
-        <id>https://news.ycombinator.com/item?id=30442843</id>
-        <link href="https://news.ycombinator.com/item?id=30442843"/>
-        <updated>2022-02-23T16:30:46.000Z</updated>
-        <summary type="html"><![CDATA[The Buf CLI, an all-in-one tool for Protobuf development, has reached v1.0]]></summary>
-        <author>
-            <name>biggestlou</name>
-            <uri>https://news.ycombinator.com/user?id=biggestlou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首先优化简单性]]></title>
-        <id>https://news.ycombinator.com/item?id=30442446</id>
-        <link href="https://news.ycombinator.com/item?id=30442446"/>
-        <updated>2022-02-23T15:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Optimize for Simplicity First]]></summary>
-        <author>
-            <name>wagslane</name>
-            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后座自制GPS追踪器的汽车被盗]]></title>
-        <id>https://news.ycombinator.com/item?id=30442044</id>
-        <link href="https://news.ycombinator.com/item?id=30442044"/>
-        <updated>2022-02-23T15:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Car stolen with homemade GPS tracker in backseat]]></summary>
-        <author>
-            <name>sipacate</name>
-            <uri>https://news.ycombinator.com/user?id=sipacate</uri>
         </author>
     </entry>
 </feed>
