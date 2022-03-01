@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T18:38:41.306Z</updated>
+    <updated>2022-03-01T18:56:41.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有力的證據表明沒有人關心以加密貨幣計價的財富]]></title>
+        <id>https://news.ycombinator.com/item?id=30518109</id>
+        <link href="https://news.ycombinator.com/item?id=30518109"/>
+        <updated>2022-03-01T18:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Strong evidence that no one cares about crypto-denominated wealth]]></summary>
+        <author>
+            <name>kmod</name>
+            <uri>https://news.ycombinator.com/user?id=kmod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個瘋狂的棒球提案。雙聯盟重組]]></title>
         <id>https://news.ycombinator.com/item?id=30517764</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gkasev</name>
             <uri>https://news.ycombinator.com/user?id=gkasev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[骨骼，骨骼。如何闡明鯨魚的情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30436259</id>
-        <link href="https://news.ycombinator.com/item?id=30436259"/>
-        <updated>2022-02-23T01:11:06.000Z</updated>
-        <summary type="html"><![CDATA[Bones, Bones: How to articulate a whale]]></summary>
-        <author>
-            <name>axiomdata316</name>
-            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
         </author>
     </entry>
 </feed>
