@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T18:56:41.447Z</updated>
+    <updated>2022-03-01T19:15:05.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通往成功的道路是由拒絕信鋪就的]]></title>
+        <id>https://news.ycombinator.com/item?id=30485709</id>
+        <link href="https://news.ycombinator.com/item?id=30485709"/>
+        <updated>2022-02-27T05:36:56.000Z</updated>
+        <summary type="html"><![CDATA[The Road to Success Is Paved with Rejection Letters]]></summary>
+        <author>
+            <name>cloudedcordial</name>
+            <uri>https://news.ycombinator.com/user?id=cloudedcordial</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有力的證據表明沒有人關心以加密貨幣計價的財富]]></title>
         <id>https://news.ycombinator.com/item?id=30518109</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>keithly</name>
             <uri>https://news.ycombinator.com/user?id=keithly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我設計並建造了一輛電動自行車]]></title>
-        <id>https://news.ycombinator.com/item?id=30446960</id>
-        <link href="https://news.ycombinator.com/item?id=30446960"/>
-        <updated>2022-02-23T21:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Designed and Built an eBike]]></summary>
-        <author>
-            <name>gkasev</name>
-            <uri>https://news.ycombinator.com/user?id=gkasev</uri>
         </author>
     </entry>
 </feed>
