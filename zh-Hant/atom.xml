@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T11:52:08.058Z</updated>
+    <updated>2022-03-01T12:35:25.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fly.io (YC W20)正在招聘Laravel專家]]></title>
+        <id>https://news.ycombinator.com/item?id=30513080</id>
+        <link href="https://news.ycombinator.com/item?id=30513080"/>
+        <updated>2022-03-01T12:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Fly.io (YC W20) Is Hiring Laravel Specialists]]></summary>
+        <author>
+            <name>mrkurt</name>
+            <uri>https://news.ycombinator.com/user?id=mrkurt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電子郵件通信中的隱私：我們應該默認使用加密技術]]></title>
         <id>https://news.ycombinator.com/item?id=30512491</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>georgewsinger</name>
             <uri>https://news.ycombinator.com/user?id=georgewsinger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把你的推文/話題變成博客和RSS提要]]></title>
-        <id>https://news.ycombinator.com/item?id=30440835</id>
-        <link href="https://news.ycombinator.com/item?id=30440835"/>
-        <updated>2022-02-23T13:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Turn your tweets/threads into a blog and RSS feed]]></summary>
-        <author>
-            <name>linuz90</name>
-            <uri>https://news.ycombinator.com/user?id=linuz90</uri>
         </author>
     </entry>
 </feed>
