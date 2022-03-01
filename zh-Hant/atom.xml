@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T19:15:05.670Z</updated>
+    <updated>2022-03-01T19:54:17.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18中是如何實現泛型的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30518094</id>
+        <link href="https://news.ycombinator.com/item?id=30518094"/>
+        <updated>2022-03-01T18:39:13.000Z</updated>
+        <summary type="html"><![CDATA[How generics are implemented in Go 1.18]]></summary>
+        <author>
+            <name>komuW</name>
+            <uri>https://news.ycombinator.com/user?id=komuW</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通往成功的道路是由拒絕信鋪就的]]></title>
         <id>https://news.ycombinator.com/item?id=30485709</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>punnerud</name>
             <uri>https://news.ycombinator.com/user?id=punnerud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國郵政不顧環保局對電動車的要求，繼續使用汽油動力的郵車]]></title>
-        <id>https://news.ycombinator.com/item?id=30447065</id>
-        <link href="https://news.ycombinator.com/item?id=30447065"/>
-        <updated>2022-02-23T21:55:09.000Z</updated>
-        <summary type="html"><![CDATA[USPS Forges Ahead with Gas-Powered Mail Trucks Despite EPA's Desire for EVs]]></summary>
-        <author>
-            <name>keithly</name>
-            <uri>https://news.ycombinator.com/user?id=keithly</uri>
         </author>
     </entry>
 </feed>

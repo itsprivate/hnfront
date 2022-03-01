@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 01 Mar 2022 19:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 19:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Go 1.18中是如何实现泛型的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30518094</link>
+            <guid>https://news.ycombinator.com/item?id=30518094</guid>
+            <pubDate>Tue, 01 Mar 2022 18:39:13 GMT</pubDate>
+            <description><![CDATA[How generics are implemented in Go 1.18]]></description>
+        </item>
         <item>
             <title><![CDATA[通往成功的道路是由拒绝信铺就的]]></title>
             <link>https://news.ycombinator.com/item?id=30485709</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30446530</guid>
             <pubDate>Wed, 23 Feb 2022 21:13:36 GMT</pubDate>
             <description><![CDATA[sqlite-utils - CLI & Python utility functions for manipulating SQLite databases]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国邮政不顾环保局对电动车的要求，继续使用汽油动力的邮车]]></title>
-            <link>https://news.ycombinator.com/item?id=30447065</link>
-            <guid>https://news.ycombinator.com/item?id=30447065</guid>
-            <pubDate>Wed, 23 Feb 2022 21:55:09 GMT</pubDate>
-            <description><![CDATA[USPS Forges Ahead with Gas-Powered Mail Trucks Despite EPA's Desire for EVs]]></description>
         </item>
     </channel>
 </rss>
