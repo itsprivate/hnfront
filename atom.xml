@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T02:15:11.241Z</updated>
+    <updated>2022-03-01T02:59:53.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["晚安月 "背后的激进女性]]></title>
+        <id>https://news.ycombinator.com/item?id=30499985</id>
+        <link href="https://news.ycombinator.com/item?id=30499985"/>
+        <updated>2022-02-28T14:13:54.000Z</updated>
+        <summary type="html"><![CDATA[The Radical Woman Behind “Goodnight Moon”]]></summary>
+        <author>
+            <name>mhb</name>
+            <uri>https://news.ycombinator.com/user?id=mhb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网络开发者团结起来挑战苹果应用商店的浏览器规则]]></title>
         <id>https://news.ycombinator.com/item?id=30507851</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>libele</name>
             <uri>https://news.ycombinator.com/user?id=libele</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海王星操作系统：seL4微内核的WinNT个性]]></title>
-        <id>https://news.ycombinator.com/item?id=30436993</id>
-        <link href="https://news.ycombinator.com/item?id=30436993"/>
-        <updated>2022-02-23T02:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Neptune OS: a WinNT personality of the seL4 microkernel]]></summary>
-        <author>
-            <name>themk</name>
-            <uri>https://news.ycombinator.com/user?id=themk</uri>
         </author>
     </entry>
 </feed>
