@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T19:54:17.365Z</updated>
+    <updated>2022-03-01T20:15:13.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DDoS攻击延缓了芬兰公民倡议的签署工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30518421</id>
+        <link href="https://news.ycombinator.com/item?id=30518421"/>
+        <updated>2022-03-01T18:59:03.000Z</updated>
+        <summary type="html"><![CDATA[DDoS attacks slow down Citizens' Initiative signing in Finland]]></summary>
+        <author>
+            <name>ptaipale</name>
+            <uri>https://news.ycombinator.com/user?id=ptaipale</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌地图被用于协调乌克兰的空袭行动]]></title>
+        <id>https://news.ycombinator.com/item?id=30516996</id>
+        <link href="https://news.ycombinator.com/item?id=30516996"/>
+        <updated>2022-03-01T17:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Google Maps is used to coordinate air strikes in Ukraine]]></summary>
+        <author>
+            <name>ukrwantpiece</name>
+            <uri>https://news.ycombinator.com/user?id=ukrwantpiece</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯洛文尼亚挨家挨户狂欢的超自然绵羊]]></title>
+        <id>https://news.ycombinator.com/item?id=30510196</id>
+        <link href="https://news.ycombinator.com/item?id=30510196"/>
+        <updated>2022-03-01T05:58:08.000Z</updated>
+        <summary type="html"><![CDATA[The Supernatural Sheep of Slovenia’s Door-to-Door Carnival]]></summary>
+        <author>
+            <name>Thevet</name>
+            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.18中是如何实现泛型的？]]></title>
         <id>https://news.ycombinator.com/item?id=30518094</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>kvee</name>
             <uri>https://news.ycombinator.com/user?id=kvee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledit: 简单的、由GPU渲染的、不含废话的文本编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=30447705</id>
-        <link href="https://news.ycombinator.com/item?id=30447705"/>
-        <updated>2022-02-23T22:51:12.000Z</updated>
-        <summary type="html"><![CDATA[Ledit: Simple, GPU-rendered, no bullshit text editor]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare将以1.62亿美元收购Area 1 Security公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30447842</id>
-        <link href="https://news.ycombinator.com/item?id=30447842"/>
-        <updated>2022-02-23T23:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare to Acquire Area 1 Security for $162m]]></summary>
-        <author>
-            <name>marc__1</name>
-            <uri>https://news.ycombinator.com/user?id=marc__1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sqlite-utils - 用于操作SQLite数据库的CLI和Python实用函数]]></title>
-        <id>https://news.ycombinator.com/item?id=30446530</id>
-        <link href="https://news.ycombinator.com/item?id=30446530"/>
-        <updated>2022-02-23T21:13:36.000Z</updated>
-        <summary type="html"><![CDATA[sqlite-utils - CLI & Python utility functions for manipulating SQLite databases]]></summary>
-        <author>
-            <name>punnerud</name>
-            <uri>https://news.ycombinator.com/user?id=punnerud</uri>
         </author>
     </entry>
 </feed>

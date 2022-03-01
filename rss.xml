@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 01 Mar 2022 19:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 20:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DDoS攻击延缓了芬兰公民倡议的签署工作]]></title>
+            <link>https://news.ycombinator.com/item?id=30518421</link>
+            <guid>https://news.ycombinator.com/item?id=30518421</guid>
+            <pubDate>Tue, 01 Mar 2022 18:59:03 GMT</pubDate>
+            <description><![CDATA[DDoS attacks slow down Citizens' Initiative signing in Finland]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌地图被用于协调乌克兰的空袭行动]]></title>
+            <link>https://news.ycombinator.com/item?id=30516996</link>
+            <guid>https://news.ycombinator.com/item?id=30516996</guid>
+            <pubDate>Tue, 01 Mar 2022 17:26:18 GMT</pubDate>
+            <description><![CDATA[Google Maps is used to coordinate air strikes in Ukraine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[斯洛文尼亚挨家挨户狂欢的超自然绵羊]]></title>
+            <link>https://news.ycombinator.com/item?id=30510196</link>
+            <guid>https://news.ycombinator.com/item?id=30510196</guid>
+            <pubDate>Tue, 01 Mar 2022 05:58:08 GMT</pubDate>
+            <description><![CDATA[The Supernatural Sheep of Slovenia’s Door-to-Door Carnival]]></description>
+        </item>
         <item>
             <title><![CDATA[Go 1.18中是如何实现泛型的？]]></title>
             <link>https://news.ycombinator.com/item?id=30518094</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30448083</guid>
             <pubDate>Wed, 23 Feb 2022 23:22:30 GMT</pubDate>
             <description><![CDATA[70-90% of Professors at Elite Schools Received Doctorates from Elite Schools]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ledit: 简单的、由GPU渲染的、不含废话的文本编辑器]]></title>
-            <link>https://news.ycombinator.com/item?id=30447705</link>
-            <guid>https://news.ycombinator.com/item?id=30447705</guid>
-            <pubDate>Wed, 23 Feb 2022 22:51:12 GMT</pubDate>
-            <description><![CDATA[Ledit: Simple, GPU-rendered, no bullshit text editor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cloudflare将以1.62亿美元收购Area 1 Security公司]]></title>
-            <link>https://news.ycombinator.com/item?id=30447842</link>
-            <guid>https://news.ycombinator.com/item?id=30447842</guid>
-            <pubDate>Wed, 23 Feb 2022 23:01:02 GMT</pubDate>
-            <description><![CDATA[Cloudflare to Acquire Area 1 Security for $162m]]></description>
-        </item>
-        <item>
-            <title><![CDATA[sqlite-utils - 用于操作SQLite数据库的CLI和Python实用函数]]></title>
-            <link>https://news.ycombinator.com/item?id=30446530</link>
-            <guid>https://news.ycombinator.com/item?id=30446530</guid>
-            <pubDate>Wed, 23 Feb 2022 21:13:36 GMT</pubDate>
-            <description><![CDATA[sqlite-utils - CLI & Python utility functions for manipulating SQLite databases]]></description>
         </item>
     </channel>
 </rss>
