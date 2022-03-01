@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T13:35:35.008Z</updated>
+    <updated>2022-03-01T13:41:53.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenSSH 8.9]]></title>
+        <id>https://news.ycombinator.com/item?id=30513246</id>
+        <link href="https://news.ycombinator.com/item?id=30513246"/>
+        <updated>2022-03-01T12:23:04.000Z</updated>
+        <summary type="html"><![CDATA[OpenSSH 8.9]]></summary>
+        <author>
+            <name>throw0101a</name>
+            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的CP/M版本中提供的PC-DOS模式(1984) [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30500316</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russ Cox："用Rust的可持續發展 "一文對Go的誤導]]></title>
-        <id>https://news.ycombinator.com/item?id=30441771</id>
-        <link href="https://news.ycombinator.com/item?id=30441771"/>
-        <updated>2022-02-23T15:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Russ Cox: “Sustainability with Rust” post misleading about Go]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
         </author>
     </entry>
 </feed>

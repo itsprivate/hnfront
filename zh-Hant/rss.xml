@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 01 Mar 2022 13:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 13:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OpenSSH 8.9]]></title>
+            <link>https://news.ycombinator.com/item?id=30513246</link>
+            <guid>https://news.ycombinator.com/item?id=30513246</guid>
+            <pubDate>Tue, 01 Mar 2022 12:23:04 GMT</pubDate>
+            <description><![CDATA[OpenSSH 8.9]]></description>
+        </item>
         <item>
             <title><![CDATA[新的CP/M版本中提供的PC-DOS模式(1984) [pdf]]]></title>
             <link>https://news.ycombinator.com/item?id=30500316</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30441773</guid>
             <pubDate>Wed, 23 Feb 2022 15:04:59 GMT</pubDate>
             <description><![CDATA[What makes writing more readable?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Russ Cox："用Rust的可持續發展 "一文對Go的誤導]]></title>
-            <link>https://news.ycombinator.com/item?id=30441771</link>
-            <guid>https://news.ycombinator.com/item?id=30441771</guid>
-            <pubDate>Wed, 23 Feb 2022 15:04:55 GMT</pubDate>
-            <description><![CDATA[Russ Cox: “Sustainability with Rust” post misleading about Go]]></description>
         </item>
     </channel>
 </rss>
