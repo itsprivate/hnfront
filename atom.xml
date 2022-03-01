@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T22:13:47.700Z</updated>
+    <updated>2022-03-01T23:13:55.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[72K Rombank系统 (1987)]]></title>
+        <id>https://news.ycombinator.com/item?id=30510532</id>
+        <link href="https://news.ycombinator.com/item?id=30510532"/>
+        <updated>2022-03-01T06:52:07.000Z</updated>
+        <summary type="html"><![CDATA[72K Rombank System (1987)]]></summary>
+        <author>
+            <name>dusted</name>
+            <uri>https://news.ycombinator.com/user?id=dusted</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FreeBSD杂志 - 2022年 - 1月/2月 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30520445</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>flomesh_pipy</name>
             <uri>https://news.ycombinator.com/user?id=flomesh_pipy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres Planner介绍（2019年）[视频]。]]></title>
-        <id>https://news.ycombinator.com/item?id=30444281</id>
-        <link href="https://news.ycombinator.com/item?id=30444281"/>
-        <updated>2022-02-23T18:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Intro to Postgres Planner (2019) [video]]]></summary>
-        <author>
-            <name>pelt</name>
-            <uri>https://news.ycombinator.com/user?id=pelt</uri>
         </author>
     </entry>
 </feed>
