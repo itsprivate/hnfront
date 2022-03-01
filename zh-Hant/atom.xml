@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T18:16:12.746Z</updated>
+    <updated>2022-03-01T18:38:41.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個瘋狂的棒球提案。雙聯盟重組]]></title>
+        <id>https://news.ycombinator.com/item?id=30517764</id>
+        <link href="https://news.ycombinator.com/item?id=30517764"/>
+        <updated>2022-03-01T18:17:31.000Z</updated>
+        <summary type="html"><![CDATA[An Insane Baseball Proposal: Dual League Restructuring]]></summary>
+        <author>
+            <name>SubiculumCode</name>
+            <uri>https://news.ycombinator.com/user?id=SubiculumCode</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詞典壓縮]]></title>
+        <id>https://news.ycombinator.com/item?id=30517656</id>
+        <link href="https://news.ycombinator.com/item?id=30517656"/>
+        <updated>2022-03-01T18:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Dictionary Compression]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN是否應該要求/鼓勵招聘信息有一個工資範圍？]]></title>
+        <id>https://news.ycombinator.com/item?id=30517434</id>
+        <link href="https://news.ycombinator.com/item?id=30517434"/>
+        <updated>2022-03-01T17:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should HN require/encourage job postings to have a salary range?]]></summary>
+        <author>
+            <name>spaetzleesser</name>
+            <uri>https://news.ycombinator.com/user?id=spaetzleesser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[垂死的人腦中神經元相干性和耦合性的相互作用增強]]></title>
         <id>https://news.ycombinator.com/item?id=30510226</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>axiomdata316</name>
             <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於小型計算機的字節碼解釋器 (2007)]]></title>
-        <id>https://news.ycombinator.com/item?id=30421621</id>
-        <link href="https://news.ycombinator.com/item?id=30421621"/>
-        <updated>2022-02-21T22:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Bytecode interpreters for tiny computers (2007)]]></summary>
-        <author>
-            <name>mwcampbell</name>
-            <uri>https://news.ycombinator.com/user?id=mwcampbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardboard：一個可滾動的平鋪窗口管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30402358</id>
-        <link href="https://news.ycombinator.com/item?id=30402358"/>
-        <updated>2022-02-20T01:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Cardboard: a scrollable tiling window manager]]></summary>
-        <author>
-            <name>SamWhited</name>
-            <uri>https://news.ycombinator.com/user?id=SamWhited</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司稱薩根為 "屁股頭天文學家 "是正確的 (1994)]]></title>
-        <id>https://news.ycombinator.com/item?id=30446200</id>
-        <link href="https://news.ycombinator.com/item?id=30446200"/>
-        <updated>2022-02-23T20:46:27.000Z</updated>
-        <summary type="html"><![CDATA[OK for Apple to Call Sagan 'Butt-Head Astronomer' (1994)]]></summary>
-        <author>
-            <name>Lammy</name>
-            <uri>https://news.ycombinator.com/user?id=Lammy</uri>
         </author>
     </entry>
 </feed>
