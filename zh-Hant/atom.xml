@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T21:54:31.930Z</updated>
+    <updated>2022-03-01T22:13:47.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD雜誌 - 2022年 - 1月/2月 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30520445</id>
+        <link href="https://news.ycombinator.com/item?id=30520445"/>
+        <updated>2022-03-01T21:44:51.000Z</updated>
+        <summary type="html"><![CDATA[FreeBSD Journal – 2022 – January/February [pdf]]]></summary>
+        <author>
+            <name>vermaden</name>
+            <uri>https://news.ycombinator.com/user?id=vermaden</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為後端的CSS--介紹層疊服務器表]]></title>
+        <id>https://news.ycombinator.com/item?id=30497834</id>
+        <link href="https://news.ycombinator.com/item?id=30497834"/>
+        <updated>2022-02-28T08:58:40.000Z</updated>
+        <summary type="html"><![CDATA[CSS as the back end – introducing Cascading Server Sheets]]></summary>
+        <author>
+            <name>ritabratamaiti</name>
+            <uri>https://news.ycombinator.com/user?id=ritabratamaiti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被困於硅谷的隱性種姓制度中]]></title>
         <id>https://news.ycombinator.com/item?id=30515099</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pelt</name>
             <uri>https://news.ycombinator.com/user?id=pelt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[月光品牌(YC W21)正在招聘人員]]></title>
-        <id>https://news.ycombinator.com/item?id=30448991</id>
-        <link href="https://news.ycombinator.com/item?id=30448991"/>
-        <updated>2022-02-24T01:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Moonshot Brands (YC W21) Is Hiring]]></summary>
-        <author>
-            <name>AllanFischMB</name>
-            <uri>https://news.ycombinator.com/user?id=AllanFischMB</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們正在招聘合同制開發人員，在PyPI中建立新的功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30448812</id>
-        <link href="https://news.ycombinator.com/item?id=30448812"/>
-        <updated>2022-02-24T00:37:36.000Z</updated>
-        <summary type="html"><![CDATA[We are hiring contract developers to build new features in PyPI]]></summary>
-        <author>
-            <name>loa_in_</name>
-            <uri>https://news.ycombinator.com/user?id=loa_in_</uri>
         </author>
     </entry>
 </feed>
