@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T07:13:38.432Z</updated>
+    <updated>2022-03-01T07:52:23.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[詞序中的2次方產生分貝（2019）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30502270</id>
+        <link href="https://news.ycombinator.com/item?id=30502270"/>
+        <updated>2022-02-28T17:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Powers of 2 in lexical order yield decibels (2019)]]></summary>
+        <author>
+            <name>johndcook</name>
+            <uri>https://news.ycombinator.com/user?id=johndcook</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svix (YC W21) 正在招聘一名開發人員倡導者（遠程）。]]></title>
         <id>https://news.ycombinator.com/item?id=30510585</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fastball</name>
             <uri>https://news.ycombinator.com/user?id=fastball</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追蹤Firefox如何使用頁面故障來加載庫的eBPF]]></title>
-        <id>https://news.ycombinator.com/item?id=30440162</id>
-        <link href="https://news.ycombinator.com/item?id=30440162"/>
-        <updated>2022-02-23T12:03:49.000Z</updated>
-        <summary type="html"><![CDATA[eBPF for Tracing How Firefox Uses Page Faults to Load Libraries]]></summary>
-        <author>
-            <name>mehal</name>
-            <uri>https://news.ycombinator.com/user?id=mehal</uri>
         </author>
     </entry>
 </feed>
