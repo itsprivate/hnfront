@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T11:37:38.781Z</updated>
+    <updated>2022-03-01T11:52:07.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[电子邮件通信中的隐私：我们应该默认使用加密技术]]></title>
+        <id>https://news.ycombinator.com/item?id=30512491</id>
+        <link href="https://news.ycombinator.com/item?id=30512491"/>
+        <updated>2022-03-01T10:50:19.000Z</updated>
+        <summary type="html"><![CDATA[Privacy in email communication: we should use encryption by default]]></summary>
+        <author>
+            <name>nicfab</name>
+            <uri>https://news.ycombinator.com/user?id=nicfab</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为MatePad Paper - eInk平板电脑]]></title>
         <id>https://news.ycombinator.com/item?id=30512486</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>linuz90</name>
             <uri>https://news.ycombinator.com/user?id=linuz90</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐藏Hacker News feeds中提到的所有Wordle的内容]]></title>
-        <id>https://news.ycombinator.com/item?id=30440491</id>
-        <link href="https://news.ycombinator.com/item?id=30440491"/>
-        <updated>2022-02-23T13:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hide all mentions of Wordle in Hacker News feeds]]></summary>
-        <author>
-            <name>tucnak</name>
-            <uri>https://news.ycombinator.com/user?id=tucnak</uri>
         </author>
     </entry>
 </feed>
