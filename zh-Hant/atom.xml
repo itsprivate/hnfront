@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-01T14:31:41.531Z</updated>
+    <updated>2022-03-01T14:41:30.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的一年，新的MDN]]></title>
+        <id>https://news.ycombinator.com/item?id=30514280</id>
+        <link href="https://news.ycombinator.com/item?id=30514280"/>
+        <updated>2022-03-01T14:07:21.000Z</updated>
+        <summary type="html"><![CDATA[A new year, a new MDN]]></summary>
+        <author>
+            <name>Vilkku</name>
+            <uri>https://news.ycombinator.com/user?id=Vilkku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何與你的老闆談論開源問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30514234</id>
+        <link href="https://news.ycombinator.com/item?id=30514234"/>
+        <updated>2022-03-01T14:03:46.000Z</updated>
+        <summary type="html"><![CDATA[How to talk to your boss about open source]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[馬士基、地中海航運停止往返俄羅斯的集裝箱運輸]]></title>
         <id>https://news.ycombinator.com/item?id=30514293</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hpx7</name>
             <uri>https://news.ycombinator.com/user?id=hpx7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亞喜鵲互相幫助，移除追蹤裝置]]></title>
-        <id>https://news.ycombinator.com/item?id=30435248</id>
-        <link href="https://news.ycombinator.com/item?id=30435248"/>
-        <updated>2022-02-22T23:18:07.000Z</updated>
-        <summary type="html"><![CDATA[Australian magpies help each other to remove tracking devices]]></summary>
-        <author>
-            <name>oska</name>
-            <uri>https://news.ycombinator.com/user?id=oska</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維珍超高速鐵路公司裁減一半員工]]></title>
-        <id>https://news.ycombinator.com/item?id=30442833</id>
-        <link href="https://news.ycombinator.com/item?id=30442833"/>
-        <updated>2022-02-23T16:29:32.000Z</updated>
-        <summary type="html"><![CDATA[Virgin Hyperloop axes half its staff]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
