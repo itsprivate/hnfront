@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T20:34:32.403Z</updated>
+    <updated>2022-03-02T20:52:26.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[註銷的黃金船的鬼畫符被從海床上挖出]]></title>
+        <id>https://news.ycombinator.com/item?id=30494562</id>
+        <link href="https://news.ycombinator.com/item?id=30494562"/>
+        <updated>2022-02-28T00:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Doomed ship of gold’s ghostly picture gallery is plucked from the seabed]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不，不是每個人都應該冥想]]></title>
         <id>https://news.ycombinator.com/item?id=30532386</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sealeck</name>
             <uri>https://news.ycombinator.com/user?id=sealeck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一場TikTok戰爭來了]]></title>
-        <id>https://news.ycombinator.com/item?id=30460742</id>
-        <link href="https://news.ycombinator.com/item?id=30460742"/>
-        <updated>2022-02-24T21:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Here comes the first TikTok war]]></summary>
-        <author>
-            <name>CrankyBear</name>
-            <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
         </author>
     </entry>
 </feed>
