@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T22:53:10.846Z</updated>
+    <updated>2022-03-02T23:12:50.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DeepNet: 將變形器擴展到1k層]]></title>
+        <id>https://news.ycombinator.com/item?id=30533914</id>
+        <link href="https://news.ycombinator.com/item?id=30533914"/>
+        <updated>2022-03-02T22:10:11.000Z</updated>
+        <summary type="html"><![CDATA[DeepNet: Scaling Transformers to 1k Layers]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[心理學行動]]></title>
         <id>https://news.ycombinator.com/item?id=30528382</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bluehuman</name>
             <uri>https://news.ycombinator.com/user?id=bluehuman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[據報道，亞馬遜在Facebook私人群組中對其Flex司機進行調查]]></title>
-        <id>https://news.ycombinator.com/item?id=24352278</id>
-        <link href="https://news.ycombinator.com/item?id=24352278"/>
-        <updated>2020-09-02T11:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Amazon reportedly surveilling its Flex drivers in private Facebook groups]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
