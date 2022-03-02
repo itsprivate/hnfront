@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T13:37:29.029Z</updated>
+    <updated>2022-03-02T13:53:51.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[投资者签署了SAFE，但却迟迟没有汇款。]]></title>
+        <id>https://news.ycombinator.com/item?id=30527106</id>
+        <link href="https://news.ycombinator.com/item?id=30527106"/>
+        <updated>2022-03-02T13:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Investor signed SAFE but stalls on wiring the money]]></summary>
+        <author>
+            <name>yolo101010</name>
+            <uri>https://news.ycombinator.com/user?id=yolo101010</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nimatron：第一个视频游戏在1939年首次亮相]]></title>
         <id>https://news.ycombinator.com/item?id=30527000</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tezos的Merkle树存储的六倍改进]]></title>
-        <id>https://news.ycombinator.com/item?id=30452216</id>
-        <link href="https://news.ycombinator.com/item?id=30452216"/>
-        <updated>2022-02-24T08:25:16.000Z</updated>
-        <summary type="html"><![CDATA[A six-fold improvement in the Merkle tree storage for Tezos]]></summary>
-        <author>
-            <name>jurajselep</name>
-            <uri>https://news.ycombinator.com/user?id=jurajselep</uri>
         </author>
     </entry>
 </feed>
