@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T21:11:23.725Z</updated>
+    <updated>2022-03-02T21:38:21.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[莱斯实验室瞬间将垃圾变成有价值的石墨烯]]></title>
+        <id>https://news.ycombinator.com/item?id=30533343</id>
+        <link href="https://news.ycombinator.com/item?id=30533343"/>
+        <updated>2022-03-02T21:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Rice lab turns trash into valuable graphene in a flash]]></summary>
+        <author>
+            <name>anchpop</name>
+            <uri>https://news.ycombinator.com/user?id=anchpop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substack正在招聘分析工程师，为写作构建未来]]></title>
         <id>https://news.ycombinator.com/item?id=30533076</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的量子飞跃]]></title>
-        <id>https://news.ycombinator.com/item?id=30453588</id>
-        <link href="https://news.ycombinator.com/item?id=30453588"/>
-        <updated>2022-02-24T11:37:31.000Z</updated>
-        <summary type="html"><![CDATA[My Quantum Leap]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
         </author>
     </entry>
 </feed>
