@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T03:04:53.793Z</updated>
+    <updated>2022-03-02T03:35:43.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞裔美國人反擊學校歧視]]></title>
+        <id>https://news.ycombinator.com/item?id=30523203</id>
+        <link href="https://news.ycombinator.com/item?id=30523203"/>
+        <updated>2022-03-02T03:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Asian-Americans Fight Back Against School Discrimination]]></summary>
+        <author>
+            <name>kerneloftruth</name>
+            <uri>https://news.ycombinator.com/user?id=kerneloftruth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[協議設計中的封裝性與系統性的複雜性]]></title>
         <id>https://news.ycombinator.com/item?id=30521631</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rlonn</name>
             <uri>https://news.ycombinator.com/user?id=rlonn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[規模化的服務器端渲染]]></title>
-        <id>https://news.ycombinator.com/item?id=30444184</id>
-        <link href="https://news.ycombinator.com/item?id=30444184"/>
-        <updated>2022-02-23T18:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Server Side Rendering at scale]]></summary>
-        <author>
-            <name>epberry</name>
-            <uri>https://news.ycombinator.com/user?id=epberry</uri>
         </author>
     </entry>
 </feed>
