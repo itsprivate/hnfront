@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T17:52:38.357Z</updated>
+    <updated>2022-03-02T18:40:12.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[桌面上的Java的衰落与堕落第一部分(1999-2005)]]></title>
+        <id>https://news.ycombinator.com/item?id=30530889</id>
+        <link href="https://news.ycombinator.com/item?id=30530889"/>
+        <updated>2022-03-02T18:29:28.000Z</updated>
+        <summary type="html"><![CDATA[The Decline and Fall of Java on the Desktop Part 1 (1999-2005)]]></summary>
+        <author>
+            <name>shannah78</name>
+            <uri>https://news.ycombinator.com/user?id=shannah78</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫 "零信任 "备忘录的深远影响]]></title>
+        <id>https://news.ycombinator.com/item?id=30530592</id>
+        <link href="https://news.ycombinator.com/item?id=30530592"/>
+        <updated>2022-03-02T18:10:02.000Z</updated>
+        <summary type="html"><![CDATA[The Far Reach of the White House’s Zero Trust Memo]]></summary>
+        <author>
+            <name>CKMo</name>
+            <uri>https://news.ycombinator.com/user?id=CKMo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的书《防弹的TLS和PKI（第二版）》出版了]]></title>
         <id>https://news.ycombinator.com/item?id=30529727</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jedberg</name>
             <uri>https://news.ycombinator.com/user?id=jedberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新闻的无记录功能和行为清单]]></title>
-        <id>https://news.ycombinator.com/item?id=30459276</id>
-        <link href="https://news.ycombinator.com/item?id=30459276"/>
-        <updated>2022-02-24T19:44:28.000Z</updated>
-        <summary type="html"><![CDATA[A List of Hacker News's Undocumented Features and Behaviors]]></summary>
-        <author>
-            <name>JonathanBuchh</name>
-            <uri>https://news.ycombinator.com/user?id=JonathanBuchh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将Linux内核转移到现代C语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30459634</id>
-        <link href="https://news.ycombinator.com/item?id=30459634"/>
-        <updated>2022-02-24T20:10:33.000Z</updated>
-        <summary type="html"><![CDATA[Moving the Linux Kernel to Modern C]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
         </author>
     </entry>
 </feed>
