@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T19:39:07.363Z</updated>
+    <updated>2022-03-02T19:55:19.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你認為核大決戰是可信的嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30531824</id>
+        <link href="https://news.ycombinator.com/item?id=30531824"/>
+        <updated>2022-03-02T19:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you think nuclear armageddon is plausible?]]></summary>
+        <author>
+            <name>mysecretaccount</name>
+            <uri>https://news.ycombinator.com/user?id=mysecretaccount</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個基於WebGL的應用程序，用圓圈來追蹤圖像]]></title>
+        <id>https://news.ycombinator.com/item?id=30530376</id>
+        <link href="https://news.ycombinator.com/item?id=30530376"/>
+        <updated>2022-03-02T17:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a WebGL-based app that traces images using circles]]></summary>
+        <author>
+            <name>phqb</name>
+            <uri>https://news.ycombinator.com/user?id=phqb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方有角兔的傳說]]></title>
+        <id>https://news.ycombinator.com/item?id=30523989</id>
+        <link href="https://news.ycombinator.com/item?id=30523989"/>
+        <updated>2022-03-02T05:09:05.000Z</updated>
+        <summary type="html"><![CDATA[The legend of the horned rabbit of the West]]></summary>
+        <author>
+            <name>samclemens</name>
+            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WAPM - WebAssembly軟件包管理器]]></title>
         <id>https://news.ycombinator.com/item?id=30531621</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>_Microft</name>
             <uri>https://news.ycombinator.com/user?id=_Microft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[譜和代數圖論]]></title>
-        <id>https://news.ycombinator.com/item?id=30460122</id>
-        <link href="https://news.ycombinator.com/item?id=30460122"/>
-        <updated>2022-02-24T20:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Spectral and Algebraic Graph Theory]]></summary>
-        <author>
-            <name>okintheory</name>
-            <uri>https://news.ycombinator.com/user?id=okintheory</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-Droid：它如何削弱了安卓的安全模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30460139</id>
-        <link href="https://news.ycombinator.com/item?id=30460139"/>
-        <updated>2022-02-24T20:54:23.000Z</updated>
-        <summary type="html"><![CDATA[F-Droid: how it weakens Android's security model]]></summary>
-        <author>
-            <name>ysnp</name>
-            <uri>https://news.ycombinator.com/user?id=ysnp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Flutter編寫的用於Fuchsia和Linux的Pangolin桌面環境]]></title>
-        <id>https://news.ycombinator.com/item?id=30460120</id>
-        <link href="https://news.ycombinator.com/item?id=30460120"/>
-        <updated>2022-02-24T20:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Pangolin desktop environment for Fuchsia and Linux written in Flutter]]></summary>
-        <author>
-            <name>kaladin-jasnah</name>
-            <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
         </author>
     </entry>
 </feed>
