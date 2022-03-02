@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T19:55:19.411Z</updated>
+    <updated>2022-03-02T20:13:43.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊将关闭所有的实体书店和 "四星级 "商店]]></title>
+        <id>https://news.ycombinator.com/item?id=30531762</id>
+        <link href="https://news.ycombinator.com/item?id=30531762"/>
+        <updated>2022-03-02T19:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon to close all of its physical bookstores and '4-star' shops]]></summary>
+        <author>
+            <name>leephillips</name>
+            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你认为核大决战是可信的吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30531824</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python中的压缩传感(2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30450560</id>
-        <link href="https://news.ycombinator.com/item?id=30450560"/>
-        <updated>2022-02-24T05:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Compressed Sensing in Python (2016)]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
         </author>
     </entry>
 </feed>
