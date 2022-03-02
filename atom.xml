@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T08:55:57.885Z</updated>
+    <updated>2022-03-02T09:33:07.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[爱神怪物]]></title>
+        <id>https://news.ycombinator.com/item?id=30520281</id>
+        <link href="https://news.ycombinator.com/item?id=30520281"/>
+        <updated>2022-03-01T21:31:09.000Z</updated>
+        <summary type="html"><![CDATA[The Eros Monster]]></summary>
+        <author>
+            <name>angledense</name>
+            <uri>https://news.ycombinator.com/user?id=angledense</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当火山发生爆炸时，海底电缆做什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30524873</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails增加了对光纤安全的ActiveRecord连接池的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30454043</id>
-        <link href="https://news.ycombinator.com/item?id=30454043"/>
-        <updated>2022-02-24T12:50:31.000Z</updated>
-        <summary type="html"><![CDATA[Rails adds support for Fiber-safe ActiveRecord ConnectionPools]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
         </author>
     </entry>
 </feed>
