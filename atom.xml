@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T03:51:58.080Z</updated>
+    <updated>2022-03-02T04:14:12.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个网页游戏，叫作 "Almost Pong"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30517626</id>
+        <link href="https://news.ycombinator.com/item?id=30517626"/>
+        <updated>2022-03-01T18:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a web game called Almost Pong]]></summary>
+        <author>
+            <name>lessmilk</name>
+            <uri>https://news.ycombinator.com/user?id=lessmilk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pikuma：游戏开发中的等距投影法]]></title>
         <id>https://news.ycombinator.com/item?id=30522955</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS上的Tun和Tap VPN的未来]]></title>
-        <id>https://news.ycombinator.com/item?id=30451406</id>
-        <link href="https://news.ycombinator.com/item?id=30451406"/>
-        <updated>2022-02-24T06:46:18.000Z</updated>
-        <summary type="html"><![CDATA[The Future of Tun and Tap VPNs on macOS]]></summary>
-        <author>
-            <name>wener</name>
-            <uri>https://news.ycombinator.com/user?id=wener</uri>
         </author>
     </entry>
 </feed>
