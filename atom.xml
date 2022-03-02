@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T09:53:38.999Z</updated>
+    <updated>2022-03-02T10:15:09.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TermKit。丰富的图形化终端 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=30517205</id>
+        <link href="https://news.ycombinator.com/item?id=30517205"/>
+        <updated>2022-03-01T17:39:51.000Z</updated>
+        <summary type="html"><![CDATA[TermKit: A Rich Graphical Terminal (2011)]]></summary>
+        <author>
+            <name>isaacimagine</name>
+            <uri>https://news.ycombinator.com/user?id=isaacimagine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有反向传播的梯度]]></title>
         <id>https://news.ycombinator.com/item?id=30525214</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KevinBenSmith</name>
             <uri>https://news.ycombinator.com/user?id=KevinBenSmith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌SSO或密码管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30454583</id>
-        <link href="https://news.ycombinator.com/item?id=30454583"/>
-        <updated>2022-02-24T13:48:07.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Google SSO or Password Manager]]></summary>
-        <author>
-            <name>enigma20</name>
-            <uri>https://news.ycombinator.com/user?id=enigma20</uri>
         </author>
     </entry>
 </feed>
