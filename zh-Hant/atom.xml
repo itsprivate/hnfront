@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T23:12:50.543Z</updated>
+    <updated>2022-03-02T23:53:05.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WASI：一種新的系統界面]]></title>
+        <id>https://news.ycombinator.com/item?id=30527685</id>
+        <link href="https://news.ycombinator.com/item?id=30527685"/>
+        <updated>2022-03-02T14:31:09.000Z</updated>
+        <summary type="html"><![CDATA[WASI: A New Kind of System Interface]]></summary>
+        <author>
+            <name>lewisjoe</name>
+            <uri>https://news.ycombinator.com/user?id=lewisjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepNet: 將變形器擴展到1k層]]></title>
         <id>https://news.ycombinator.com/item?id=30533914</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ComputerGuru</name>
             <uri>https://news.ycombinator.com/user?id=ComputerGuru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bytebase如何使用Render - 改善開發工作流程]]></title>
-        <id>https://news.ycombinator.com/item?id=30452662</id>
-        <link href="https://news.ycombinator.com/item?id=30452662"/>
-        <updated>2022-02-24T09:24:58.000Z</updated>
-        <summary type="html"><![CDATA[How Bytebase uses Render – to improve dev workflow]]></summary>
-        <author>
-            <name>bluehuman</name>
-            <uri>https://news.ycombinator.com/user?id=bluehuman</uri>
         </author>
     </entry>
 </feed>

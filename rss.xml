@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 02 Mar 2022 23:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 23:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WASI：一种新的系统界面]]></title>
+            <link>https://news.ycombinator.com/item?id=30527685</link>
+            <guid>https://news.ycombinator.com/item?id=30527685</guid>
+            <pubDate>Wed, 02 Mar 2022 14:31:09 GMT</pubDate>
+            <description><![CDATA[WASI: A New Kind of System Interface]]></description>
+        </item>
         <item>
             <title><![CDATA[DeepNet: 将变形器扩展到1k层]]></title>
             <link>https://news.ycombinator.com/item?id=30533914</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=25027279</guid>
             <pubDate>Sun, 08 Nov 2020 17:34:39 GMT</pubDate>
             <description><![CDATA['Jeopardy’ host Alex Trebek dead at 80 after cancer battle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bytebase如何使用Render - 改善开发工作流程]]></title>
-            <link>https://news.ycombinator.com/item?id=30452662</link>
-            <guid>https://news.ycombinator.com/item?id=30452662</guid>
-            <pubDate>Thu, 24 Feb 2022 09:24:58 GMT</pubDate>
-            <description><![CDATA[How Bytebase uses Render – to improve dev workflow]]></description>
         </item>
     </channel>
 </rss>
