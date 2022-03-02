@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 02 Mar 2022 15:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 16:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在支持单一二进制可执行包方面]]></title>
+            <link>https://news.ycombinator.com/item?id=30528602</link>
+            <guid>https://news.ycombinator.com/item?id=30528602</guid>
+            <pubDate>Wed, 02 Mar 2022 15:46:55 GMT</pubDate>
+            <description><![CDATA[In support of single binary executable packages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯顶级银行因制裁而退出欧洲市场]]></title>
+            <link>https://news.ycombinator.com/item?id=30528503</link>
+            <guid>https://news.ycombinator.com/item?id=30528503</guid>
+            <pubDate>Wed, 02 Mar 2022 15:38:27 GMT</pubDate>
+            <description><![CDATA[Russia's top bank quits Europe due to sanctions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SPA是个错误]]></title>
+            <link>https://news.ycombinator.com/item?id=30528473</link>
+            <guid>https://news.ycombinator.com/item?id=30528473</guid>
+            <pubDate>Wed, 02 Mar 2022 15:35:37 GMT</pubDate>
+            <description><![CDATA[SPAs Were a Mistake]]></description>
+        </item>
+        <item>
+            <title><![CDATA[P. J. O'Rourke, 1947-2022年]]></title>
+            <link>https://news.ycombinator.com/item?id=30528443</link>
+            <guid>https://news.ycombinator.com/item?id=30528443</guid>
+            <pubDate>Wed, 02 Mar 2022 15:31:32 GMT</pubDate>
+            <description><![CDATA[P. J. O'Rourke, 1947-2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[争取建立一个统一的网络性能理论]]></title>
+            <link>https://news.ycombinator.com/item?id=30528313</link>
+            <guid>https://news.ycombinator.com/item?id=30528313</guid>
+            <pubDate>Wed, 02 Mar 2022 15:19:12 GMT</pubDate>
+            <description><![CDATA[Towards a unified theory of web performance]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌产品的替代品列表。隐私提示、诀窍和链接]]></title>
+            <link>https://news.ycombinator.com/item?id=30528205</link>
+            <guid>https://news.ycombinator.com/item?id=30528205</guid>
+            <pubDate>Wed, 02 Mar 2022 15:10:56 GMT</pubDate>
+            <description><![CDATA[A list of alternatives to Google products. Privacy tips, tricks, and links]]></description>
+        </item>
+        <item>
+            <title><![CDATA[法院裁定网站嵌入谷歌字体违反GDPR]]></title>
+            <link>https://news.ycombinator.com/item?id=30527427</link>
+            <guid>https://news.ycombinator.com/item?id=30527427</guid>
+            <pubDate>Wed, 02 Mar 2022 14:07:37 GMT</pubDate>
+            <description><![CDATA[Court Rules Websites Embedding Google Fonts Violates GDPR]]></description>
+        </item>
         <item>
             <title><![CDATA[启动HN：Evry Health（YC W18）--为公司提供更好的健康保险]]></title>
             <link>https://news.ycombinator.com/item?id=30528463</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30457900</guid>
             <pubDate>Thu, 24 Feb 2022 17:54:28 GMT</pubDate>
             <description><![CDATA[Show HN: Programming Time - Playing card game to teach your kids Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚得里亚海上的偶像诱惑。关于两位伟大的二十世纪诗人]]></title>
-            <link>https://news.ycombinator.com/item?id=30450685</link>
-            <guid>https://news.ycombinator.com/item?id=30450685</guid>
-            <pubDate>Thu, 24 Feb 2022 05:23:18 GMT</pubDate>
-            <description><![CDATA[Idol temptations on the Adriatic: On two great twentieth-century poets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰是霓虹灯气体的主要生产国，对用于芯片制造的激光器至关重要。]]></title>
-            <link>https://news.ycombinator.com/item?id=30457490</link>
-            <guid>https://news.ycombinator.com/item?id=30457490</guid>
-            <pubDate>Thu, 24 Feb 2022 17:22:04 GMT</pubDate>
-            <description><![CDATA[Ukraine is a major producer of neon gas, critical for lasers used in chipmaking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：Reddit的系统导致了回声室的出现]]></title>
-            <link>https://news.ycombinator.com/item?id=30456957</link>
-            <guid>https://news.ycombinator.com/item?id=30456957</guid>
-            <pubDate>Thu, 24 Feb 2022 16:48:45 GMT</pubDate>
-            <description><![CDATA[Tell HN: Reddit's system leads to echo chambers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust 1.59.0，支持内联汇编等]]></title>
-            <link>https://news.ycombinator.com/item?id=30457261</link>
-            <guid>https://news.ycombinator.com/item?id=30457261</guid>
-            <pubDate>Thu, 24 Feb 2022 17:07:07 GMT</pubDate>
-            <description><![CDATA[Rust 1.59.0 with Inline assembly support etc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Union54 (YC S21)正在招聘人员]]></title>
-            <link>https://news.ycombinator.com/item?id=30457160</link>
-            <guid>https://news.ycombinator.com/item?id=30457160</guid>
-            <pubDate>Thu, 24 Feb 2022 17:01:14 GMT</pubDate>
-            <description><![CDATA[Union54 (YC S21) Is Hiring]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Heroku下跌]]></title>
-            <link>https://news.ycombinator.com/item?id=30456688</link>
-            <guid>https://news.ycombinator.com/item?id=30456688</guid>
-            <pubDate>Thu, 24 Feb 2022 16:33:29 GMT</pubDate>
-            <description><![CDATA[Heroku Down]]></description>
-        </item>
-        <item>
-            <title><![CDATA[洛杉矶为安置一个无家可归者花费高达83.7万美元]]></title>
-            <link>https://news.ycombinator.com/item?id=30456510</link>
-            <guid>https://news.ycombinator.com/item?id=30456510</guid>
-            <pubDate>Thu, 24 Feb 2022 16:21:30 GMT</pubDate>
-            <description><![CDATA[Los Angeles is spending up to $837,000 to house a single homeless person]]></description>
         </item>
     </channel>
 </rss>
