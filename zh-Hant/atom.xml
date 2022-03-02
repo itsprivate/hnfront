@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T09:33:07.869Z</updated>
+    <updated>2022-03-02T09:41:55.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為個人項目提供小預算的廣告？]]></title>
+        <id>https://news.ycombinator.com/item?id=30525225</id>
+        <link href="https://news.ycombinator.com/item?id=30525225"/>
+        <updated>2022-03-02T08:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Ads with small budget for personal project?]]></summary>
+        <author>
+            <name>kioleanu</name>
+            <uri>https://news.ycombinator.com/user?id=kioleanu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愛神怪物]]></title>
         <id>https://news.ycombinator.com/item?id=30520281</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迄今為止發現的最大的細菌具有出乎意料的複雜細胞]]></title>
-        <id>https://news.ycombinator.com/item?id=30454045</id>
-        <link href="https://news.ycombinator.com/item?id=30454045"/>
-        <updated>2022-02-24T12:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Largest bacterium ever discovered has unexpectedly complex cells]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
