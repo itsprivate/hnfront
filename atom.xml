@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T08:15:14.430Z</updated>
+    <updated>2022-03-02T08:55:57.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当火山发生爆炸时，海底电缆做什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30524873</id>
+        <link href="https://news.ycombinator.com/item?id=30524873"/>
+        <updated>2022-03-02T07:49:02.000Z</updated>
+        <summary type="html"><![CDATA[When volcanoes go bang, submarine cables do what?]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与Archiveteam的勇士一起帮助保护互联网]]></title>
         <id>https://news.ycombinator.com/item?id=30524842</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SARS-CoV-2含有部分专利基因序列]]></title>
-        <id>https://news.ycombinator.com/item?id=30454022</id>
-        <link href="https://news.ycombinator.com/item?id=30454022"/>
-        <updated>2022-02-24T12:48:14.000Z</updated>
-        <summary type="html"><![CDATA[SARS-CoV-2 contains part of a patented genetic sequence]]></summary>
-        <author>
-            <name>johndcook</name>
-            <uri>https://news.ycombinator.com/user?id=johndcook</uri>
         </author>
     </entry>
 </feed>
