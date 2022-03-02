@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T18:40:12.785Z</updated>
+    <updated>2022-03-02T18:57:46.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[图片中的透视是如何工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30527692</id>
+        <link href="https://news.ycombinator.com/item?id=30527692"/>
+        <updated>2022-03-02T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[How Does Perspective Work in Pictures?]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[桌面上的Java的衰落与堕落第一部分(1999-2005)]]></title>
         <id>https://news.ycombinator.com/item?id=30530889</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tonyjstark</name>
             <uri>https://news.ycombinator.com/user?id=tonyjstark</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大科技公司下了一个大赌注。办公室仍然是未来的趋势]]></title>
-        <id>https://news.ycombinator.com/item?id=30459392</id>
-        <link href="https://news.ycombinator.com/item?id=30459392"/>
-        <updated>2022-02-24T19:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Big Tech Makes a Big Bet: Offices Are Still the Future]]></summary>
-        <author>
-            <name>jedberg</name>
-            <uri>https://news.ycombinator.com/user?id=jedberg</uri>
         </author>
     </entry>
 </feed>
