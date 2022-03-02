@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T11:37:54.079Z</updated>
+    <updated>2022-03-02T11:54:37.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何應對可能的核威脅？]]></title>
+        <id>https://news.ycombinator.com/item?id=30526022</id>
+        <link href="https://news.ycombinator.com/item?id=30526022"/>
+        <updated>2022-03-02T11:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you cope with possible nuclear threat?]]></summary>
+        <author>
+            <name>kcindric</name>
+            <uri>https://news.ycombinator.com/user?id=kcindric</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要只寫純文本（長期性與真實性）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30525974</id>
+        <link href="https://news.ycombinator.com/item?id=30525974"/>
+        <updated>2022-03-02T10:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Don't Write Just in Plain Text (Longevity vs. Authenticity)]]></summary>
+        <author>
+            <name>yumiris</name>
+            <uri>https://news.ycombinator.com/user?id=yumiris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[腦電圖貓耳]]></title>
         <id>https://news.ycombinator.com/item?id=30526065</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vanilla-almond</name>
             <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定義JavaScript控件無法捕捉表單字段的細微差別(2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30454881</id>
-        <link href="https://news.ycombinator.com/item?id=30454881"/>
-        <updated>2022-02-24T14:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Custom JavaScript controls can't capture the nuance of form fields (2021)]]></summary>
-        <author>
-            <name>nitsky</name>
-            <uri>https://news.ycombinator.com/user?id=nitsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[參考：新聞網站可能有一個為低帶寬用戶提供的 "精簡 "版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30454852</id>
-        <link href="https://news.ycombinator.com/item?id=30454852"/>
-        <updated>2022-02-24T14:10:13.000Z</updated>
-        <summary type="html"><![CDATA[FYI: News sites may have a “lite” version for low-bandwidth users]]></summary>
-        <author>
-            <name>SamuelAdams</name>
-            <uri>https://news.ycombinator.com/user?id=SamuelAdams</uri>
         </author>
     </entry>
 </feed>
