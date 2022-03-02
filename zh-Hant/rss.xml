@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Smalltalk中的功能編程模式]]></title>
+            <link>https://news.ycombinator.com/item?id=30513940</link>
+            <guid>https://news.ycombinator.com/item?id=30513940</guid>
+            <pubDate>Tue, 01 Mar 2022 13:40:56 GMT</pubDate>
+            <description><![CDATA[Functional programming patterns in Smalltalk]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個網頁遊戲，叫作 "Almost Pong"。]]></title>
             <link>https://news.ycombinator.com/item?id=30517626</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30451943</guid>
             <pubDate>Thu, 24 Feb 2022 07:56:07 GMT</pubDate>
             <description><![CDATA[A Silly Usecase for WebSockets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[按軟件執行]]></title>
-            <link>https://news.ycombinator.com/item?id=30451624</link>
-            <guid>https://news.ycombinator.com/item?id=30451624</guid>
-            <pubDate>Thu, 24 Feb 2022 07:15:52 GMT</pubDate>
-            <description><![CDATA[Enforcement by Software]]></description>
         </item>
     </channel>
 </rss>
