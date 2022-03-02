@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T22:33:21.303Z</updated>
+    <updated>2022-03-02T22:53:10.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[心理学行动]]></title>
+        <id>https://news.ycombinator.com/item?id=30528382</id>
+        <link href="https://news.ycombinator.com/item?id=30528382"/>
+        <updated>2022-03-02T15:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Psychological Operations]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[罗马尼亚米格飞机失踪，五人死亡，派去寻找的直升机坠毁]]></title>
         <id>https://news.ycombinator.com/item?id=30534086</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰呼吁地下黑客抵制俄罗斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30462219</id>
-        <link href="https://news.ycombinator.com/item?id=30462219"/>
-        <updated>2022-02-25T00:20:04.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine calls on hacker underground to defend against Russia]]></summary>
-        <author>
-            <name>NN88</name>
-            <uri>https://news.ycombinator.com/user?id=NN88</uri>
         </author>
     </entry>
 </feed>
