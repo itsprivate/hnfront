@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T10:15:09.462Z</updated>
+    <updated>2022-03-02T11:13:33.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CXX-Qt：Qt的安全Rust绑定]]></title>
+        <id>https://news.ycombinator.com/item?id=30525752</id>
+        <link href="https://news.ycombinator.com/item?id=30525752"/>
+        <updated>2022-03-02T10:18:35.000Z</updated>
+        <summary type="html"><![CDATA[CXX-Qt: safe Rust bindings for Qt]]></summary>
+        <author>
+            <name>jcelerier</name>
+            <uri>https://news.ycombinator.com/user?id=jcelerier</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TermKit。丰富的图形化终端 (2011)]]></title>
         <id>https://news.ycombinator.com/item?id=30517205</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>freeloaderz</name>
             <uri>https://news.ycombinator.com/user?id=freeloaderz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snipd - 人工智能播客播放器，用于突出显示和记录成绩单的内容]]></title>
-        <id>https://news.ycombinator.com/item?id=30454639</id>
-        <link href="https://news.ycombinator.com/item?id=30454639"/>
-        <updated>2022-02-24T13:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snipd – AI podcast player to highlight and take notes with transcripts]]></summary>
-        <author>
-            <name>KevinBenSmith</name>
-            <uri>https://news.ycombinator.com/user?id=KevinBenSmith</uri>
         </author>
     </entry>
 </feed>
