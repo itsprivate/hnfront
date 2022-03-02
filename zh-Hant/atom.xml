@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T14:58:14.425Z</updated>
+    <updated>2022-03-02T15:15:33.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼雨果的文件很糟糕]]></title>
+        <id>https://news.ycombinator.com/item?id=30527884</id>
+        <link href="https://news.ycombinator.com/item?id=30527884"/>
+        <updated>2022-03-02T14:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Why Hugo’s Documentation Sucks]]></summary>
+        <author>
+            <name>KlatchianMist</name>
+            <uri>https://news.ycombinator.com/user?id=KlatchianMist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[啟動HN：信使（YC S19）--產品通知的開發者基礎設施]]></title>
         <id>https://news.ycombinator.com/item?id=30527757</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一顆小行星在春天殺死了恐龍--這也許能解釋為什麼哺乳動物能活下來]]></title>
-        <id>https://news.ycombinator.com/item?id=30455870</id>
-        <link href="https://news.ycombinator.com/item?id=30455870"/>
-        <updated>2022-02-24T15:36:24.000Z</updated>
-        <summary type="html"><![CDATA[An asteroid killed dinosaurs in spring–which might explain why mammals survived]]></summary>
-        <author>
-            <name>thedday</name>
-            <uri>https://news.ycombinator.com/user?id=thedday</uri>
         </author>
     </entry>
 </feed>
