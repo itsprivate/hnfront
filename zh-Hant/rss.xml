@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[思想徵兵 (1917)]]></title>
+            <link>https://news.ycombinator.com/item?id=30520268</link>
+            <guid>https://news.ycombinator.com/item?id=30520268</guid>
+            <pubDate>Tue, 01 Mar 2022 21:29:52 GMT</pubDate>
+            <description><![CDATA[Conscription of Thought (1917)]]></description>
+        </item>
         <item>
             <title><![CDATA[Smalltalk中的功能編程模式]]></title>
             <link>https://news.ycombinator.com/item?id=30513940</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30439930</guid>
             <pubDate>Wed, 23 Feb 2022 11:15:32 GMT</pubDate>
             <description><![CDATA[Desperation-Induced Focus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WebSockets的一個愚蠢的用例]]></title>
-            <link>https://news.ycombinator.com/item?id=30451943</link>
-            <guid>https://news.ycombinator.com/item?id=30451943</guid>
-            <pubDate>Thu, 24 Feb 2022 07:56:07 GMT</pubDate>
-            <description><![CDATA[A Silly Usecase for WebSockets]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T05:16:12.479Z</updated>
+    <updated>2022-03-02T06:15:50.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[思想徵兵 (1917)]]></title>
+        <id>https://news.ycombinator.com/item?id=30520268</id>
+        <link href="https://news.ycombinator.com/item?id=30520268"/>
+        <updated>2022-03-01T21:29:52.000Z</updated>
+        <summary type="html"><![CDATA[Conscription of Thought (1917)]]></summary>
+        <author>
+            <name>you-bet</name>
+            <uri>https://news.ycombinator.com/user?id=you-bet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smalltalk中的功能編程模式]]></title>
         <id>https://news.ycombinator.com/item?id=30513940</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>deadcoder0904</name>
             <uri>https://news.ycombinator.com/user?id=deadcoder0904</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebSockets的一個愚蠢的用例]]></title>
-        <id>https://news.ycombinator.com/item?id=30451943</id>
-        <link href="https://news.ycombinator.com/item?id=30451943"/>
-        <updated>2022-02-24T07:56:07.000Z</updated>
-        <summary type="html"><![CDATA[A Silly Usecase for WebSockets]]></summary>
-        <author>
-            <name>quintussss</name>
-            <uri>https://news.ycombinator.com/user?id=quintussss</uri>
         </author>
     </entry>
 </feed>
