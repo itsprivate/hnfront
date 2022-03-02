@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-02T06:59:18.060Z</updated>
+    <updated>2022-03-02T07:15:32.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Crew (YC S21) 正在招聘一名软件工程师（远程）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30524560</id>
+        <link href="https://news.ycombinator.com/item?id=30524560"/>
+        <updated>2022-03-02T07:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Crew (YC S21) Is Hiring a Software Engineer (Remote)]]></summary>
+        <author>
+            <name>mlabouardy</name>
+            <uri>https://news.ycombinator.com/user?id=mlabouardy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过sh、Awk、日志解析和cron完成的小型统计页面展示]]></title>
+        <id>https://news.ycombinator.com/item?id=30524516</id>
+        <link href="https://news.ycombinator.com/item?id=30524516"/>
+        <updated>2022-03-02T06:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Small statistics page showcase done via sh, Awk, log parsing and cron]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创建一个bash完成脚本（2018）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30524440</id>
+        <link href="https://news.ycombinator.com/item?id=30524440"/>
+        <updated>2022-03-02T06:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Creating a bash completion script (2018)]]></summary>
+        <author>
+            <name>laz_arus</name>
+            <uri>https://news.ycombinator.com/user?id=laz_arus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们对缓冲区内不受地点限制的工资的愿景]]></title>
+        <id>https://news.ycombinator.com/item?id=30523757</id>
+        <link href="https://news.ycombinator.com/item?id=30523757"/>
+        <updated>2022-03-02T04:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Our Vision for Location-Independent Salaries at Buffer]]></summary>
+        <author>
+            <name>albumdropped</name>
+            <uri>https://news.ycombinator.com/user?id=albumdropped</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[捍卫自由和民主当然需要大量的审查制度]]></title>
         <id>https://news.ycombinator.com/item?id=30524431</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>thinkingemote</name>
             <uri>https://news.ycombinator.com/user?id=thinkingemote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新故事（YC S15）正在招聘直接建造的高级经理。]]></title>
-        <id>https://news.ycombinator.com/item?id=30453732</id>
-        <link href="https://news.ycombinator.com/item?id=30453732"/>
-        <updated>2022-02-24T12:00:14.000Z</updated>
-        <summary type="html"><![CDATA[New Story (YC S15) Is Hiring Senior Manager Direct Builds]]></summary>
-        <author>
-            <name>Matth3wMarshall</name>
-            <uri>https://news.ycombinator.com/user?id=Matth3wMarshall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网页浏览器中的IPFS连接指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30440410</id>
-        <link href="https://news.ycombinator.com/item?id=30440410"/>
-        <updated>2022-02-23T12:50:14.000Z</updated>
-        <summary type="html"><![CDATA[A guide to IPFS connectivity in web browsers]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于Twitter的俄罗斯部队移动地图]]></title>
-        <id>https://news.ycombinator.com/item?id=30452685</id>
-        <link href="https://news.ycombinator.com/item?id=30452685"/>
-        <updated>2022-02-24T09:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Twitter based map of Russian troop movements]]></summary>
-        <author>
-            <name>jillesvangurp</name>
-            <uri>https://news.ycombinator.com/user?id=jillesvangurp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区生活周期]]></title>
-        <id>https://news.ycombinator.com/item?id=30440031</id>
-        <link href="https://news.ycombinator.com/item?id=30440031"/>
-        <updated>2022-02-23T11:38:53.000Z</updated>
-        <summary type="html"><![CDATA[Community Life Cycle]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
