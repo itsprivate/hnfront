@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T05:13:01.904Z</updated>
+    <updated>2022-03-03T06:15:04.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[看看美國中產階級緩慢而無聲的死亡]]></title>
+        <id>https://news.ycombinator.com/item?id=30537681</id>
+        <link href="https://news.ycombinator.com/item?id=30537681"/>
+        <updated>2022-03-03T05:56:37.000Z</updated>
+        <summary type="html"><![CDATA[A Look at the Slow, Silent Death of America’s Middle Class]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代碼所有權、管理權，還是自由發揮？]]></title>
+        <id>https://news.ycombinator.com/item?id=30497850</id>
+        <link href="https://news.ycombinator.com/item?id=30497850"/>
+        <updated>2022-02-28T09:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Code ownership, stewardship, or free-for-all?]]></summary>
+        <author>
+            <name>spallas</name>
+            <uri>https://news.ycombinator.com/user?id=spallas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐盟對RT的禁令是否也禁止Tor？]]></title>
         <id>https://news.ycombinator.com/item?id=30530876</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>clouddrover</name>
             <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解烏克蘭的戰爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30464286</id>
-        <link href="https://news.ycombinator.com/item?id=30464286"/>
-        <updated>2022-02-25T06:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the War in Ukraine]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuestDB (YC S20) 正在招聘一名高級後端Python工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30464403</id>
-        <link href="https://news.ycombinator.com/item?id=30464403"/>
-        <updated>2022-02-25T07:00:03.000Z</updated>
-        <summary type="html"><![CDATA[QuestDB (YC S20) Is Hiring a Senior Back End Python Engineer]]></summary>
-        <author>
-            <name>nhourcard</name>
-            <uri>https://news.ycombinator.com/user?id=nhourcard</uri>
         </author>
     </entry>
 </feed>
