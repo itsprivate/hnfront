@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T13:21:55.099Z</updated>
+    <updated>2022-03-03T13:38:06.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯企業急於開設中國銀行賬戶]]></title>
+        <id>https://news.ycombinator.com/item?id=30540466</id>
+        <link href="https://news.ycombinator.com/item?id=30540466"/>
+        <updated>2022-03-03T13:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Russian firms rush to open Chinese bank accounts]]></summary>
+        <author>
+            <name>mudro_zboris</name>
+            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼（企業）軟件是臃腫的]]></title>
         <id>https://news.ycombinator.com/item?id=30540215</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>foxfluff</name>
             <uri>https://news.ycombinator.com/user?id=foxfluff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在12個月內學會了法語]]></title>
-        <id>https://news.ycombinator.com/item?id=30467597</id>
-        <link href="https://news.ycombinator.com/item?id=30467597"/>
-        <updated>2022-02-25T14:24:37.000Z</updated>
-        <summary type="html"><![CDATA[I Learned French in 12 Months]]></summary>
-        <author>
-            <name>elamje</name>
-            <uri>https://news.ycombinator.com/user?id=elamje</uri>
         </author>
     </entry>
 </feed>
