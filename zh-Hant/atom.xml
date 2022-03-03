@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T22:16:52.902Z</updated>
+    <updated>2022-03-03T22:36:48.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[衝浪板 - 用於Arduino的CodeSandbox]]></title>
+        <id>https://news.ycombinator.com/item?id=30547101</id>
+        <link href="https://news.ycombinator.com/item?id=30547101"/>
+        <updated>2022-03-03T21:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Surfboard – CodeSandbox for Arduino]]></summary>
+        <author>
+            <name>birudeghi</name>
+            <uri>https://news.ycombinator.com/user?id=birudeghi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈羅德-赫林]]></title>
+        <id>https://news.ycombinator.com/item?id=30532329</id>
+        <link href="https://news.ycombinator.com/item?id=30532329"/>
+        <updated>2022-03-02T20:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Harold Hering]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於大型對象數組，Go的內置JSON編碼器的速度最高可達55%。]]></title>
         <id>https://news.ycombinator.com/item?id=30547067</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[永遠的狄更斯式貧窮？(2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30471332</id>
-        <link href="https://news.ycombinator.com/item?id=30471332"/>
-        <updated>2022-02-25T19:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Perpetual Dickensian Poverty? (2021)]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zig構建系統的內部結構]]></title>
-        <id>https://news.ycombinator.com/item?id=30470442</id>
-        <link href="https://news.ycombinator.com/item?id=30470442"/>
-        <updated>2022-02-25T18:26:49.000Z</updated>
-        <summary type="html"><![CDATA[Zig build system internals]]></summary>
-        <author>
-            <name>kristoff_it</name>
-            <uri>https://news.ycombinator.com/user?id=kristoff_it</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 03 Mar 2022 22:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 22:36:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[冲浪板 - 用于Arduino的CodeSandbox]]></title>
+            <link>https://news.ycombinator.com/item?id=30547101</link>
+            <guid>https://news.ycombinator.com/item?id=30547101</guid>
+            <pubDate>Thu, 03 Mar 2022 21:15:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Surfboard – CodeSandbox for Arduino]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哈罗德-赫林]]></title>
+            <link>https://news.ycombinator.com/item?id=30532329</link>
+            <guid>https://news.ycombinator.com/item?id=30532329</guid>
+            <pubDate>Wed, 02 Mar 2022 20:09:46 GMT</pubDate>
+            <description><![CDATA[Harold Hering]]></description>
+        </item>
         <item>
             <title><![CDATA[对于大型对象数组，Go的内置JSON编码器的速度最高可达55%。]]></title>
             <link>https://news.ycombinator.com/item?id=30547067</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30474828</guid>
             <pubDate>Sat, 26 Feb 2022 02:39:44 GMT</pubDate>
             <description><![CDATA[Software-Refilled TLBs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[永远的狄更斯式贫穷？(2021)]]></title>
-            <link>https://news.ycombinator.com/item?id=30471332</link>
-            <guid>https://news.ycombinator.com/item?id=30471332</guid>
-            <pubDate>Fri, 25 Feb 2022 19:38:14 GMT</pubDate>
-            <description><![CDATA[Perpetual Dickensian Poverty? (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zig构建系统的内部结构]]></title>
-            <link>https://news.ycombinator.com/item?id=30470442</link>
-            <guid>https://news.ycombinator.com/item?id=30470442</guid>
-            <pubDate>Fri, 25 Feb 2022 18:26:49 GMT</pubDate>
-            <description><![CDATA[Zig build system internals]]></description>
         </item>
     </channel>
 </rss>
