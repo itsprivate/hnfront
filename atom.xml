@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T13:38:06.489Z</updated>
+    <updated>2022-03-03T13:54:57.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果音乐封面艺术规则]]></title>
+        <id>https://news.ycombinator.com/item?id=30539232</id>
+        <link href="https://news.ycombinator.com/item?id=30539232"/>
+        <updated>2022-03-03T10:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Apple Music Cover Art Rules]]></summary>
+        <author>
+            <name>mkj</name>
+            <uri>https://news.ycombinator.com/user?id=mkj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯企业急于开设中国银行账户]]></title>
         <id>https://news.ycombinator.com/item?id=30540466</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Thevet</name>
             <uri>https://news.ycombinator.com/user?id=Thevet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：YouTube正在禁止支持乌克兰的账户]]></title>
-        <id>https://news.ycombinator.com/item?id=30467384</id>
-        <link href="https://news.ycombinator.com/item?id=30467384"/>
-        <updated>2022-02-25T14:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: YouTube is banning accounts that support Ukraine]]></summary>
-        <author>
-            <name>foxfluff</name>
-            <uri>https://news.ycombinator.com/user?id=foxfluff</uri>
         </author>
     </entry>
 </feed>
