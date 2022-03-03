@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T13:54:57.406Z</updated>
+    <updated>2022-03-03T14:15:38.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：Requestly (YC W22) - 網絡和移動的網絡調試代理]]></title>
+        <id>https://news.ycombinator.com/item?id=30540735</id>
+        <link href="https://news.ycombinator.com/item?id=30540735"/>
+        <updated>2022-03-03T13:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Requestly (YC W22) – Network debugging proxy for web and mobile]]></summary>
+        <author>
+            <name>sachinjain</name>
+            <uri>https://news.ycombinator.com/user?id=sachinjain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果音樂封面藝術規則]]></title>
         <id>https://news.ycombinator.com/item?id=30539232</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jve</name>
             <uri>https://news.ycombinator.com/user?id=jve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懸崖面的鯨魚]]></title>
-        <id>https://news.ycombinator.com/item?id=30463962</id>
-        <link href="https://news.ycombinator.com/item?id=30463962"/>
-        <updated>2022-02-25T05:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Whales in the Cliff Face]]></summary>
-        <author>
-            <name>Thevet</name>
-            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
         </author>
     </entry>
 </feed>
