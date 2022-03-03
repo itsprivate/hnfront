@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T15:49:27.944Z</updated>
+    <updated>2022-03-03T16:18:02.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯停止向美國交付火箭發動機。]]></title>
+        <id>https://news.ycombinator.com/item?id=30542226</id>
+        <link href="https://news.ycombinator.com/item?id=30542226"/>
+        <updated>2022-03-03T15:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Russia halts deliveries of rocket engines to the U.S.]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[布蘭登-桑德森的大型募捐活動的第一大收穫]]></title>
         <id>https://news.ycombinator.com/item?id=30542197</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tokyopanda</name>
             <uri>https://news.ycombinator.com/user?id=tokyopanda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子計算的免費介紹與間隔重複]]></title>
-        <id>https://news.ycombinator.com/item?id=30467585</id>
-        <link href="https://news.ycombinator.com/item?id=30467585"/>
-        <updated>2022-02-25T14:23:44.000Z</updated>
-        <summary type="html"><![CDATA[A free introduction to Quantum Computing with spaced repetition]]></summary>
-        <author>
-            <name>elamje</name>
-            <uri>https://news.ycombinator.com/user?id=elamje</uri>
         </author>
     </entry>
 </feed>
