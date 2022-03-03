@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T21:33:55.276Z</updated>
+    <updated>2022-03-03T22:16:52.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對於大型對象數組，Go的內置JSON編碼器的速度最高可達55%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30547067</id>
+        <link href="https://news.ycombinator.com/item?id=30547067"/>
+        <updated>2022-03-03T21:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂正從YouTube上刪除Steam Deck上的Switch仿真視頻]]></title>
+        <id>https://news.ycombinator.com/item?id=30546274</id>
+        <link href="https://news.ycombinator.com/item?id=30546274"/>
+        <updated>2022-03-03T20:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Is Removing Switch Emulation Videos on Steam Deck from YouTube]]></summary>
+        <author>
+            <name>throwaway2048</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway2048</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[傑夫-迪安的 "每個人都應該知道的延遲數字 "在1990-2020年是如何減少的]]></title>
         <id>https://news.ycombinator.com/item?id=30546995</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kristoff_it</name>
             <uri>https://news.ycombinator.com/user?id=kristoff_it</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓Linux看起來像Windows 95]]></title>
-        <id>https://news.ycombinator.com/item?id=30474690</id>
-        <link href="https://news.ycombinator.com/item?id=30474690"/>
-        <updated>2022-02-26T02:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Make Linux look like Windows 95]]></summary>
-        <author>
-            <name>iio7</name>
-            <uri>https://news.ycombinator.com/user?id=iio7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asm-Lsp - 氣體/NASM/Go彙編的語言服務器]]></title>
-        <id>https://news.ycombinator.com/item?id=30474671</id>
-        <link href="https://news.ycombinator.com/item?id=30474671"/>
-        <updated>2022-02-26T02:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Asm-Lsp – Language Server for Gas/NASM/Go Assembly]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
