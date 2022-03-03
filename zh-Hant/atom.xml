@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T17:26:26.472Z</updated>
+    <updated>2022-03-03T17:54:48.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分裂的國家]]></title>
+        <id>https://news.ycombinator.com/item?id=30543588</id>
+        <link href="https://news.ycombinator.com/item?id=30543588"/>
+        <updated>2022-03-03T17:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Split the States]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(開發)AppleScript [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30538766</id>
+        <link href="https://news.ycombinator.com/item?id=30538766"/>
+        <updated>2022-03-03T08:59:23.000Z</updated>
+        <summary type="html"><![CDATA[(Development of) AppleScript [pdf]]]></summary>
+        <author>
+            <name>salgernon</name>
+            <uri>https://news.ycombinator.com/user?id=salgernon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[愛沙尼亞貨船在敖德薩附近爆炸後沉沒，船員失蹤]]></title>
         <id>https://news.ycombinator.com/item?id=30543624</id>
@@ -38,6 +60,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[現在是你的錯，他們不知道這件事]]></title>
+        <id>https://news.ycombinator.com/item?id=30542528</id>
+        <link href="https://news.ycombinator.com/item?id=30542528"/>
+        <updated>2022-03-03T15:51:46.000Z</updated>
+        <summary type="html"><![CDATA[It's now your fault they don't know about it]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我們是否已經簡單地停止了創新解決問題的新事物的過程？]]></title>
         <id>https://news.ycombinator.com/item?id=30542867</id>
         <link href="https://news.ycombinator.com/item?id=30542867"/>
@@ -46,6 +79,28 @@
         <author>
             <name>winternett</name>
             <uri>https://news.ycombinator.com/user?id=winternett</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：Slai（YC W22）--快速構建ML模型並將其部署為應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30543228</id>
+        <link href="https://news.ycombinator.com/item?id=30543228"/>
+        <updated>2022-03-03T16:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Slai (YC W22) – Build ML models quickly and deploy them as apps]]></summary>
+        <author>
+            <name>Mernit</name>
+            <uri>https://news.ycombinator.com/user?id=Mernit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我應該放棄，找一份工作嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30542955</id>
+        <link href="https://news.ycombinator.com/item?id=30542955"/>
+        <updated>2022-03-03T16:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I give up and get a job?]]></summary>
+        <author>
+            <name>eloff</name>
+            <uri>https://news.ycombinator.com/user?id=eloff</uri>
         </author>
     </entry>
     <entry>
@@ -6558,61 +6613,6 @@
         <author>
             <name>abdljasser2</name>
             <uri>https://news.ycombinator.com/user?id=abdljasser2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣佈Actix Web v4.0 (Rust)]]></title>
-        <id>https://news.ycombinator.com/item?id=30470809</id>
-        <link href="https://news.ycombinator.com/item?id=30470809"/>
-        <updated>2022-02-25T18:59:22.000Z</updated>
-        <summary type="html"><![CDATA[Announcing Actix Web v4.0 (Rust)]]></summary>
-        <author>
-            <name>robjtede</name>
-            <uri>https://news.ycombinator.com/user?id=robjtede</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芬蘭或瑞典加入北約將引發俄羅斯的反應。俄羅斯警告說]]></title>
-        <id>https://news.ycombinator.com/item?id=30470780</id>
-        <link href="https://news.ycombinator.com/item?id=30470780"/>
-        <updated>2022-02-25T18:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Finland or Sweden joining NATO would spark Russian response: Russia warns]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grammarly是一個鍵盤記錄器嗎？你能做些什麼呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30470457</id>
-        <link href="https://news.ycombinator.com/item?id=30470457"/>
-        <updated>2022-02-25T18:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Is Grammarly a keylogger? What can you do about it?]]></summary>
-        <author>
-            <name>terracatta</name>
-            <uri>https://news.ycombinator.com/user?id=terracatta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自主計算（簡短版）]]></title>
-        <id>https://news.ycombinator.com/item?id=30458070</id>
-        <link href="https://news.ycombinator.com/item?id=30458070"/>
-        <updated>2022-02-24T18:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Autonomous Computing (short version)]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為初創企業爭取谷歌工作空間的實用指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30469652</id>
-        <link href="https://news.ycombinator.com/item?id=30469652"/>
-        <updated>2022-02-25T17:23:28.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to securing Google Workspace for a startup]]></summary>
-        <author>
-            <name>gepeto42</name>
-            <uri>https://news.ycombinator.com/user?id=gepeto42</uri>
         </author>
     </entry>
 </feed>
