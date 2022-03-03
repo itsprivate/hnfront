@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 03 Mar 2022 19:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 19:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們不需要運行時類型檢查]]></title>
+            <link>https://news.ycombinator.com/item?id=30538298</link>
+            <guid>https://news.ycombinator.com/item?id=30538298</guid>
+            <pubDate>Thu, 03 Mar 2022 07:52:26 GMT</pubDate>
+            <description><![CDATA[We don't need runtime type checks]]></description>
+        </item>
         <item>
             <title><![CDATA[烏克蘭人稱黑客利用當地政府網站傳播假新聞]]></title>
             <link>https://news.ycombinator.com/item?id=30545016</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30472423</guid>
             <pubDate>Fri, 25 Feb 2022 21:11:23 GMT</pubDate>
             <description><![CDATA[Curious Lack of Sprintf Scaling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DevCycle (YC W14)正在招聘各級別的工程師]]></title>
-            <link>https://news.ycombinator.com/item?id=30472336</link>
-            <guid>https://news.ycombinator.com/item?id=30472336</guid>
-            <pubDate>Fri, 25 Feb 2022 21:01:00 GMT</pubDate>
-            <description><![CDATA[DevCycle (YC W14) is hiring engineers at all levels]]></description>
         </item>
     </channel>
 </rss>

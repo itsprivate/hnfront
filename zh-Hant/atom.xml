@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T19:15:16.402Z</updated>
+    <updated>2022-03-03T19:29:35.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們不需要運行時類型檢查]]></title>
+        <id>https://news.ycombinator.com/item?id=30538298</id>
+        <link href="https://news.ycombinator.com/item?id=30538298"/>
+        <updated>2022-03-03T07:52:26.000Z</updated>
+        <summary type="html"><![CDATA[We don't need runtime type checks]]></summary>
+        <author>
+            <name>brentroose</name>
+            <uri>https://news.ycombinator.com/user?id=brentroose</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭人稱黑客利用當地政府網站傳播假新聞]]></title>
         <id>https://news.ycombinator.com/item?id=30545016</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>markdog12</name>
             <uri>https://news.ycombinator.com/user?id=markdog12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevCycle (YC W14)正在招聘各級別的工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30472336</id>
-        <link href="https://news.ycombinator.com/item?id=30472336"/>
-        <updated>2022-02-25T21:01:00.000Z</updated>
-        <summary type="html"><![CDATA[DevCycle (YC W14) is hiring engineers at all levels]]></summary>
-        <author>
-            <name>aglazer</name>
-            <uri>https://news.ycombinator.com/user?id=aglazer</uri>
         </author>
     </entry>
 </feed>
