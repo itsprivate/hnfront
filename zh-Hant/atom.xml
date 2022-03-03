@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T18:18:18.244Z</updated>
+    <updated>2022-03-03T18:40:33.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年國際合作會議]]></title>
+        <id>https://news.ycombinator.com/item?id=30543559</id>
+        <link href="https://news.ycombinator.com/item?id=30543559"/>
+        <updated>2022-03-03T17:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Interop 2022]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我如何看待數字]]></title>
+        <id>https://news.ycombinator.com/item?id=30539292</id>
+        <link href="https://news.ycombinator.com/item?id=30539292"/>
+        <updated>2022-03-03T10:24:28.000Z</updated>
+        <summary type="html"><![CDATA[How I See Numbers]]></summary>
+        <author>
+            <name>igpay</name>
+            <uri>https://news.ycombinator.com/user?id=igpay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對Linux數據包刪除決定有更好的可見性]]></title>
         <id>https://news.ycombinator.com/item?id=30544046</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cs702</name>
             <uri>https://news.ycombinator.com/user?id=cs702</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愛的故事》的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30458329</id>
-        <link href="https://news.ycombinator.com/item?id=30458329"/>
-        <updated>2022-02-24T18:28:29.000Z</updated>
-        <summary type="html"><![CDATA[The Love Story Story]]></summary>
-        <author>
-            <name>pepys</name>
-            <uri>https://news.ycombinator.com/user?id=pepys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我需要學習什麼才能成為一個有用的黑客來保衛我的國家？]]></title>
-        <id>https://news.ycombinator.com/item?id=30471631</id>
-        <link href="https://news.ycombinator.com/item?id=30471631"/>
-        <updated>2022-02-25T19:58:08.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do I need to learn to be useful as a hacker to defend my country?]]></summary>
-        <author>
-            <name>axiosgunnar</name>
-            <uri>https://news.ycombinator.com/user?id=axiosgunnar</uri>
         </author>
     </entry>
 </feed>
