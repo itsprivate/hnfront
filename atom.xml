@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T07:11:37.926Z</updated>
+    <updated>2022-03-03T07:29:51.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是一个数字游民。我应该放弃我的美国公民身份吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30537515</id>
+        <link href="https://news.ycombinator.com/item?id=30537515"/>
+        <updated>2022-03-03T05:32:29.000Z</updated>
+        <summary type="html"><![CDATA[I'm a digital nomad. Should I renounce my US citizenship?]]></summary>
+        <author>
+            <name>SoftwarePatent</name>
+            <uri>https://news.ycombinator.com/user?id=SoftwarePatent</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恩索公司（YC S21）正在招聘高级云计算开发人员]]></title>
         <id>https://news.ycombinator.com/item?id=30537996</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[垃圾]]></title>
-        <id>https://news.ycombinator.com/item?id=30453599</id>
-        <link href="https://news.ycombinator.com/item?id=30453599"/>
-        <updated>2022-02-24T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Trash]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
         </author>
     </entry>
 </feed>
