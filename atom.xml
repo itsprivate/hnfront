@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T02:12:38.096Z</updated>
+    <updated>2022-03-03T02:58:23.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的Stripe税务故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30535572</id>
+        <link href="https://news.ycombinator.com/item?id=30535572"/>
+        <updated>2022-03-03T00:38:43.000Z</updated>
+        <summary type="html"><![CDATA[My Stripe Tax Story]]></summary>
+        <author>
+            <name>kareemm</name>
+            <uri>https://news.ycombinator.com/user?id=kareemm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渴望的愿望。阿尔弗雷德-利奇的《H字母》（1880年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30529202</id>
+        <link href="https://news.ycombinator.com/item?id=30529202"/>
+        <updated>2022-03-02T16:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Aspirated Aspirations: Alfred Leach’s the Letter H (1880)]]></summary>
+        <author>
+            <name>tintinnabula</name>
+            <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周五太空垃圾将以5800英里/小时的速度与月球相撞]]></title>
         <id>https://news.ycombinator.com/item?id=30535792</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>raphlinus</name>
             <uri>https://news.ycombinator.com/user?id=raphlinus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哥德尔不完备性定理，在Bash]]></title>
-        <id>https://news.ycombinator.com/item?id=30460458</id>
-        <link href="https://news.ycombinator.com/item?id=30460458"/>
-        <updated>2022-02-24T21:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Gödel's Incompleteness Theorem, in Bash]]></summary>
-        <author>
-            <name>lacker</name>
-            <uri>https://news.ycombinator.com/user?id=lacker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在没有多路径TCP的情况下走多路径]]></title>
-        <id>https://news.ycombinator.com/item?id=30454014</id>
-        <link href="https://news.ycombinator.com/item?id=30454014"/>
-        <updated>2022-02-24T12:46:36.000Z</updated>
-        <summary type="html"><![CDATA[Going multipath without Multipath TCP]]></summary>
-        <author>
-            <name>FiloSottile</name>
-            <uri>https://news.ycombinator.com/user?id=FiloSottile</uri>
         </author>
     </entry>
 </feed>

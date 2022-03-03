@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 03 Mar 2022 02:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:58:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的Stripe稅務故事]]></title>
+            <link>https://news.ycombinator.com/item?id=30535572</link>
+            <guid>https://news.ycombinator.com/item?id=30535572</guid>
+            <pubDate>Thu, 03 Mar 2022 00:38:43 GMT</pubDate>
+            <description><![CDATA[My Stripe Tax Story]]></description>
+        </item>
+        <item>
+            <title><![CDATA[渴望的願望。阿爾弗雷德-利奇的《H字母》（1880年）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30529202</link>
+            <guid>https://news.ycombinator.com/item?id=30529202</guid>
+            <pubDate>Wed, 02 Mar 2022 16:34:04 GMT</pubDate>
+            <description><![CDATA[Aspirated Aspirations: Alfred Leach’s the Letter H (1880)]]></description>
+        </item>
         <item>
             <title><![CDATA[週五太空垃圾將以5800英里/小時的速度與月球相撞]]></title>
             <link>https://news.ycombinator.com/item?id=30535792</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30462322</guid>
             <pubDate>Fri, 25 Feb 2022 00:34:06 GMT</pubDate>
             <description><![CDATA[Piet-GPU Progress: Clipping]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哥德爾不完備性定理，在Bash]]></title>
-            <link>https://news.ycombinator.com/item?id=30460458</link>
-            <guid>https://news.ycombinator.com/item?id=30460458</guid>
-            <pubDate>Thu, 24 Feb 2022 21:20:51 GMT</pubDate>
-            <description><![CDATA[Gödel's Incompleteness Theorem, in Bash]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在沒有多路徑TCP的情況下走多路徑]]></title>
-            <link>https://news.ycombinator.com/item?id=30454014</link>
-            <guid>https://news.ycombinator.com/item?id=30454014</guid>
-            <pubDate>Thu, 24 Feb 2022 12:46:36 GMT</pubDate>
-            <description><![CDATA[Going multipath without Multipath TCP]]></description>
         </item>
     </channel>
 </rss>
