@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T14:31:45.392Z</updated>
+    <updated>2022-03-03T14:55:40.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯通过亚马尔管道流向德国的天然气停止了，投标仍然存在]]></title>
+        <id>https://news.ycombinator.com/item?id=30541453</id>
+        <link href="https://news.ycombinator.com/item?id=30541453"/>
+        <updated>2022-03-03T14:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Russian gas flows via Yamal pipeline to Germany halt, bids remain]]></summary>
+        <author>
+            <name>Ambolia</name>
+            <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS刚刚改变了我的默认货币？]]></title>
         <id>https://news.ycombinator.com/item?id=30541085</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>softwarebeware</name>
             <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简要介绍一下什么是SWIFT以及它为什么重要]]></title>
-        <id>https://news.ycombinator.com/item?id=30456026</id>
-        <link href="https://news.ycombinator.com/item?id=30456026"/>
-        <updated>2022-02-24T15:47:50.000Z</updated>
-        <summary type="html"><![CDATA[A quick breakdown of what SWIFT is and why it matters]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
