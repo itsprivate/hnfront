@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T02:58:23.209Z</updated>
+    <updated>2022-03-03T04:14:08.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[羅薩姆的通用機器人]]></title>
+        <id>https://news.ycombinator.com/item?id=30529509</id>
+        <link href="https://news.ycombinator.com/item?id=30529509"/>
+        <updated>2022-03-02T16:55:31.000Z</updated>
+        <summary type="html"><![CDATA[Rossum's Universal Robots]]></summary>
+        <author>
+            <name>rfreytag</name>
+            <uri>https://news.ycombinator.com/user?id=rfreytag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的Stripe稅務故事]]></title>
         <id>https://news.ycombinator.com/item?id=30535572</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tomcam</name>
             <uri>https://news.ycombinator.com/user?id=tomcam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piet-GPU的進展。剪切]]></title>
-        <id>https://news.ycombinator.com/item?id=30462322</id>
-        <link href="https://news.ycombinator.com/item?id=30462322"/>
-        <updated>2022-02-25T00:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Piet-GPU Progress: Clipping]]></summary>
-        <author>
-            <name>raphlinus</name>
-            <uri>https://news.ycombinator.com/user?id=raphlinus</uri>
         </author>
     </entry>
 </feed>
