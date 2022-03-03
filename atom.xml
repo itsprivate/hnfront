@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T22:36:48.037Z</updated>
+    <updated>2022-03-03T22:44:18.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[勇敢的交谈。无限的私人视频通话，在浏览器中]]></title>
+        <id>https://news.ycombinator.com/item?id=30547727</id>
+        <link href="https://news.ycombinator.com/item?id=30547727"/>
+        <updated>2022-03-03T22:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Brave Talk: Unlimited, private video calls, in browser]]></summary>
+        <author>
+            <name>codetrotter</name>
+            <uri>https://news.ycombinator.com/user?id=codetrotter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冲浪板 - 用于Arduino的CodeSandbox]]></title>
         <id>https://news.ycombinator.com/item?id=30547101</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件重新填充的TLBs]]></title>
-        <id>https://news.ycombinator.com/item?id=30474828</id>
-        <link href="https://news.ycombinator.com/item?id=30474828"/>
-        <updated>2022-02-26T02:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Software-Refilled TLBs]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
