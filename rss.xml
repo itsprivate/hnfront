@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 03 Mar 2022 08:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[设计一种复古游戏的艺术风格，唤起Game Boy Color的美感]]></title>
+            <link>https://news.ycombinator.com/item?id=30527909</link>
+            <guid>https://news.ycombinator.com/item?id=30527909</guid>
+            <pubDate>Wed, 02 Mar 2022 14:48:59 GMT</pubDate>
+            <description><![CDATA[Designing a retro-game art style that evokes the aesthetic of the Game Boy Color]]></description>
+        </item>
         <item>
             <title><![CDATA[研究。乌克兰战争使俄罗斯军队每天损失200亿欧元]]></title>
             <link>https://news.ycombinator.com/item?id=30538271</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30465654</guid>
             <pubDate>Fri, 25 Feb 2022 10:17:37 GMT</pubDate>
             <description><![CDATA[Patreon blocks Ukrainian volunteers charity account]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们选择Rust，而不是Go、C++或Node.js]]></title>
-            <link>https://news.ycombinator.com/item?id=30465632</link>
-            <guid>https://news.ycombinator.com/item?id=30465632</guid>
-            <pubDate>Fri, 25 Feb 2022 10:13:18 GMT</pubDate>
-            <description><![CDATA[We're choosing Rust, and not Go, C++, or Node.js]]></description>
         </item>
     </channel>
 </rss>
