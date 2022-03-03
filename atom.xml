@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T21:16:31.054Z</updated>
+    <updated>2022-03-03T21:33:55.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杰夫-迪安的 "每个人都应该知道的延迟数字 "在1990-2020年是如何减少的]]></title>
+        <id>https://news.ycombinator.com/item?id=30546995</id>
+        <link href="https://news.ycombinator.com/item?id=30546995"/>
+        <updated>2022-03-03T21:06:40.000Z</updated>
+        <summary type="html"><![CDATA[How Jeff Dean's “Latency Numbers Everybody Should Know” decreased from 1990–2020]]></summary>
+        <author>
+            <name>isaacimagine</name>
+            <uri>https://news.ycombinator.com/user?id=isaacimagine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国防部庞然大物水彩画集]]></title>
+        <id>https://news.ycombinator.com/item?id=30546986</id>
+        <link href="https://news.ycombinator.com/item?id=30546986"/>
+        <updated>2022-03-03T21:06:04.000Z</updated>
+        <summary type="html"><![CDATA[U.S.D.A. Pomological Watercolor Collection]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拧入式棺材的发明者]]></title>
+        <id>https://news.ycombinator.com/item?id=30546953</id>
+        <link href="https://news.ycombinator.com/item?id=30546953"/>
+        <updated>2022-03-03T21:02:38.000Z</updated>
+        <summary type="html"><![CDATA[The Inventor of the Screw-In Coffin]]></summary>
+        <author>
+            <name>rafaelc</name>
+            <uri>https://news.ycombinator.com/user?id=rafaelc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写作的历史之旅]]></title>
+        <id>https://news.ycombinator.com/item?id=30529165</id>
+        <link href="https://news.ycombinator.com/item?id=30529165"/>
+        <updated>2022-03-02T16:32:17.000Z</updated>
+        <summary type="html"><![CDATA[A Tour of Writing’s History]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneSignal (YC S11)正在招聘工程师，从事信息传递工作。推送，短信，和电子邮件]]></title>
         <id>https://news.ycombinator.com/item?id=30546932</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[压缩剪贴板历史的日志存储]]></title>
-        <id>https://news.ycombinator.com/item?id=30460234</id>
-        <link href="https://news.ycombinator.com/item?id=30460234"/>
-        <updated>2022-02-24T21:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Compacting log storage for clipboard history]]></summary>
-        <author>
-            <name>SUPERCILEX</name>
-            <uri>https://news.ycombinator.com/user?id=SUPERCILEX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["来自灵地的睡衣"。寻找威廉-詹姆斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30463956</id>
-        <link href="https://news.ycombinator.com/item?id=30463956"/>
-        <updated>2022-02-25T05:17:59.000Z</updated>
-        <summary type="html"><![CDATA[“Pajamas from Spirit Land”: Searching for William James]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷萃咖啡的化学成分如此火爆 (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30452433</id>
-        <link href="https://news.ycombinator.com/item?id=30452433"/>
-        <updated>2022-02-24T08:52:33.000Z</updated>
-        <summary type="html"><![CDATA[The chemistry of cold-brew coffee is so hot (2020)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国制裁弗拉基米尔-普京]]></title>
-        <id>https://news.ycombinator.com/item?id=30474364</id>
-        <link href="https://news.ycombinator.com/item?id=30474364"/>
-        <updated>2022-02-26T01:06:11.000Z</updated>
-        <summary type="html"><![CDATA[US Sanctions Vladimir Putin]]></summary>
-        <author>
-            <name>awb</name>
-            <uri>https://news.ycombinator.com/user?id=awb</uri>
         </author>
     </entry>
 </feed>
