@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T10:13:15.578Z</updated>
+    <updated>2022-03-03T11:14:35.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西方政府如何将军事装备运入乌克兰]]></title>
+        <id>https://news.ycombinator.com/item?id=30538891</id>
+        <link href="https://news.ycombinator.com/item?id=30538891"/>
+        <updated>2022-03-03T09:15:50.000Z</updated>
+        <summary type="html"><![CDATA[How Western governments are getting military gear into Ukraine]]></summary>
+        <author>
+            <name>fumblebee</name>
+            <uri>https://news.ycombinator.com/user?id=fumblebee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哪些公司在招聘亲临现场的团队？]]></title>
         <id>https://news.ycombinator.com/item?id=30539040</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bpasero</name>
             <uri>https://news.ycombinator.com/user?id=bpasero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二次方程]]></title>
-        <id>https://news.ycombinator.com/item?id=30453864</id>
-        <link href="https://news.ycombinator.com/item?id=30453864"/>
-        <updated>2022-02-24T12:24:04.000Z</updated>
-        <summary type="html"><![CDATA[The Quadratic Formula]]></summary>
-        <author>
-            <name>jamesfisher</name>
-            <uri>https://news.ycombinator.com/user?id=jamesfisher</uri>
         </author>
     </entry>
 </feed>
