@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T00:40:22.249Z</updated>
+    <updated>2022-03-03T02:12:38.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[周五太空垃圾将以5800英里/小时的速度与月球相撞]]></title>
+        <id>https://news.ycombinator.com/item?id=30535792</id>
+        <link href="https://news.ycombinator.com/item?id=30535792"/>
+        <updated>2022-03-03T01:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Space junk on a 5,800-MPH collision-course with Moon on Friday]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flexport正在招聘软件工程师（特别是有物流经验的人）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30535761</id>
+        <link href="https://news.ycombinator.com/item?id=30535761"/>
+        <updated>2022-03-03T01:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Flexport is hiring software engineers (esp those with experience in logistics)]]></summary>
+        <author>
+            <name>thedogeye</name>
+            <uri>https://news.ycombinator.com/user?id=thedogeye</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市长Breed撤回削减城市监控监督法的提案]]></title>
+        <id>https://news.ycombinator.com/item?id=30535647</id>
+        <link href="https://news.ycombinator.com/item?id=30535647"/>
+        <updated>2022-03-03T00:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Mayor Breed Withdraws Proposal to Gut City’s Surveillance Oversight Law]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust和Nom解析比特流]]></title>
+        <id>https://news.ycombinator.com/item?id=30528609</id>
+        <link href="https://news.ycombinator.com/item?id=30528609"/>
+        <updated>2022-03-02T15:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Parsing Bitstreams with Rust and Nom]]></summary>
+        <author>
+            <name>adamch</name>
+            <uri>https://news.ycombinator.com/user?id=adamch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么日本的网页设计如此与众不同 (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=30523955</id>
+        <link href="https://news.ycombinator.com/item?id=30523955"/>
+        <updated>2022-03-02T05:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Why Japanese Web Design Is So Different (2013)]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在国际上转移资金]]></title>
         <id>https://news.ycombinator.com/item?id=30535225</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>FiloSottile</name>
             <uri>https://news.ycombinator.com/user?id=FiloSottile</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jless - 一个命令行的JSON查看器（用Rust编写）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30452162</id>
-        <link href="https://news.ycombinator.com/item?id=30452162"/>
-        <updated>2022-02-24T08:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Jless – a command-line JSON viewer (written in Rust)]]></summary>
-        <author>
-            <name>vicek22</name>
-            <uri>https://news.ycombinator.com/user?id=vicek22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析鱼类新鲜度的电子舌 (2008) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=29048079</id>
-        <link href="https://news.ycombinator.com/item?id=29048079"/>
-        <updated>2021-10-30T11:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Electronic tongue to analyze fish freshness (2008) [pdf]]]></summary>
-        <author>
-            <name>antvo</name>
-            <uri>https://news.ycombinator.com/user?id=antvo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加利福尼亚野火烟雾在欧洲上空。气溶胶观测的第一个例子]]></title>
-        <id>https://news.ycombinator.com/item?id=26531943</id>
-        <link href="https://news.ycombinator.com/item?id=26531943"/>
-        <updated>2021-03-21T17:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OrioleDB - 解决一些PostgreSQL的邪恶问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30462695</id>
-        <link href="https://news.ycombinator.com/item?id=30462695"/>
-        <updated>2022-02-25T01:31:06.000Z</updated>
-        <summary type="html"><![CDATA[OrioleDB – solving some PostgreSQL wicked problems]]></summary>
-        <author>
-            <name>samokhvalov</name>
-            <uri>https://news.ycombinator.com/user?id=samokhvalov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高尔夫推杆的分层模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30448331</id>
-        <link href="https://news.ycombinator.com/item?id=30448331"/>
-        <updated>2022-02-23T23:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Hierarchical Model of Golf Putting]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
