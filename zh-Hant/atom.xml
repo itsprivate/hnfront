@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-03T06:15:04.943Z</updated>
+    <updated>2022-03-03T06:56:34.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臺灣遭遇大面積停電]]></title>
+        <id>https://news.ycombinator.com/item?id=30537521</id>
+        <link href="https://news.ycombinator.com/item?id=30537521"/>
+        <updated>2022-03-03T05:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Taiwan hit by widespread power outages]]></summary>
+        <author>
+            <name>fomine3</name>
+            <uri>https://news.ycombinator.com/user?id=fomine3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[看看美國中產階級緩慢而無聲的死亡]]></title>
         <id>https://news.ycombinator.com/item?id=30537681</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fs123</name>
             <uri>https://news.ycombinator.com/user?id=fs123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有史以來第一位流行音樂明星如何開闢了一條創新之路]]></title>
-        <id>https://news.ycombinator.com/item?id=30452674</id>
-        <link href="https://news.ycombinator.com/item?id=30452674"/>
-        <updated>2022-02-24T09:26:33.000Z</updated>
-        <summary type="html"><![CDATA[How the first ever pop star blazed a trail of innovation]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
         </author>
     </entry>
 </feed>
