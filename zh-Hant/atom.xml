@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T19:12:04.234Z</updated>
+    <updated>2022-03-04T19:25:41.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[約翰-卡馬克和傑夫-阿特伍德之間的自動駕駛汽車打賭]]></title>
+        <id>https://news.ycombinator.com/item?id=30558900</id>
+        <link href="https://news.ycombinator.com/item?id=30558900"/>
+        <updated>2022-03-04T19:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Self-Driving Car Bet Between John Carmack And Jeff Atwood]]></summary>
+        <author>
+            <name>mudro_zboris</name>
+            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭示一種ALS的蛋白質]]></title>
+        <id>https://news.ycombinator.com/item?id=30558785</id>
+        <link href="https://news.ycombinator.com/item?id=30558785"/>
+        <updated>2022-03-04T18:51:58.000Z</updated>
+        <summary type="html"><![CDATA[An ALS Protein, Revealed]]></summary>
+        <author>
+            <name>nabla9</name>
+            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加州提案將迫使無家可歸者接受治療]]></title>
         <id>https://news.ycombinator.com/item?id=30558107</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>caaqil</name>
             <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讚揚中層管理者]]></title>
-        <id>https://news.ycombinator.com/item?id=30481806</id>
-        <link href="https://news.ycombinator.com/item?id=30481806"/>
-        <updated>2022-02-26T20:45:58.000Z</updated>
-        <summary type="html"><![CDATA[In Praise of Middle Managers]]></summary>
-        <author>
-            <name>tokyopanda</name>
-            <uri>https://news.ycombinator.com/user?id=tokyopanda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[增加了PoisonValue，用於在IR中明確表示毒藥值]]></title>
-        <id>https://news.ycombinator.com/item?id=30474770</id>
-        <link href="https://news.ycombinator.com/item?id=30474770"/>
-        <updated>2022-02-26T02:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Adding PoisonValue for representing poison value explicitly in IR]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
