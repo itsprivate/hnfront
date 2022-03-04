@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T03:16:33.458Z</updated>
+    <updated>2022-03-04T03:36:16.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让我们用Python构建一个网络视频录像机]]></title>
+        <id>https://news.ycombinator.com/item?id=30549933</id>
+        <link href="https://news.ycombinator.com/item?id=30549933"/>
+        <updated>2022-03-04T02:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Let's Build a Network Video Recorder in Python]]></summary>
+        <author>
+            <name>eternityforest</name>
+            <uri>https://news.ycombinator.com/user?id=eternityforest</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三十二小时工作制法]]></title>
+        <id>https://news.ycombinator.com/item?id=30549829</id>
+        <link href="https://news.ycombinator.com/item?id=30549829"/>
+        <updated>2022-03-04T02:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Thirty-Two Hour Workweek Act]]></summary>
+        <author>
+            <name>heavyset_go</name>
+            <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个Python程序可以在它使用的虚拟环境之外]]></title>
+        <id>https://news.ycombinator.com/item?id=30542592</id>
+        <link href="https://news.ycombinator.com/item?id=30542592"/>
+        <updated>2022-03-03T15:55:32.000Z</updated>
+        <summary type="html"><![CDATA[A Python program can be outside of a virtual environment it uses]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[玛丽亚-蒙特梭利的误导性教育]]></title>
         <id>https://news.ycombinator.com/item?id=30550072</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普华永道因涉及1100名审计师的考试作弊行为被罚款]]></title>
-        <id>https://news.ycombinator.com/item?id=30476547</id>
-        <link href="https://news.ycombinator.com/item?id=30476547"/>
-        <updated>2022-02-26T10:30:42.000Z</updated>
-        <summary type="html"><![CDATA[PwC fined over exam cheating involving 1,100 of its auditors]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用ADSB追踪所有俄罗斯寡头的位置]]></title>
-        <id>https://news.ycombinator.com/item?id=30476249</id>
-        <link href="https://news.ycombinator.com/item?id=30476249"/>
-        <updated>2022-02-26T09:08:54.000Z</updated>
-        <summary type="html"><![CDATA[Tracking the location of all the Russian oligarchy with ADSB]]></summary>
-        <author>
-            <name>robk</name>
-            <uri>https://news.ycombinator.com/user?id=robk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia遭受重大网络攻击]]></title>
-        <id>https://news.ycombinator.com/item?id=30476181</id>
-        <link href="https://news.ycombinator.com/item?id=30476181"/>
-        <updated>2022-02-26T08:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia Hit by Major Cyberattack]]></summary>
-        <author>
-            <name>driminicus</name>
-            <uri>https://news.ycombinator.com/user?id=driminicus</uri>
         </author>
     </entry>
 </feed>
