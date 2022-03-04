@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T05:39:48.387Z</updated>
+    <updated>2022-03-04T06:16:32.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[侵入Nvidia的网络犯罪分子提出了有史以来最不寻常的要求之一]]></title>
+        <id>https://news.ycombinator.com/item?id=30550028</id>
+        <link href="https://news.ycombinator.com/item?id=30550028"/>
+        <updated>2022-03-04T02:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals who breached Nvidia issue one of the most unusual demands ever]]></summary>
+        <author>
+            <name>jbredeche</name>
+            <uri>https://news.ycombinator.com/user?id=jbredeche</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特尔、AMD和Arm支持新的UCIe芯片标准]]></title>
         <id>https://news.ycombinator.com/item?id=30539735</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fumblebee</name>
             <uri>https://news.ycombinator.com/user?id=fumblebee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etleap（YC W13）正在招聘一名软件工程师（在旧金山和伦敦）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30476889</id>
-        <link href="https://news.ycombinator.com/item?id=30476889"/>
-        <updated>2022-02-26T12:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Etleap (YC W13) Is Hiring a Software Engineer (In San Francisco and London)]]></summary>
-        <author>
-            <name>romming</name>
-            <uri>https://news.ycombinator.com/user?id=romming</uri>
         </author>
     </entry>
 </feed>
