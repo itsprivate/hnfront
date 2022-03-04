@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T18:55:45.931Z</updated>
+    <updated>2022-03-04T19:12:04.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州提案将迫使无家可归者接受治疗]]></title>
+        <id>https://news.ycombinator.com/item?id=30558107</id>
+        <link href="https://news.ycombinator.com/item?id=30558107"/>
+        <updated>2022-03-04T18:01:17.000Z</updated>
+        <summary type="html"><![CDATA[California proposal would force unhoused people into treatment]]></summary>
+        <author>
+            <name>LittleMoveBig</name>
+            <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随着战争的到来，欧洲发现了一种行动能力]]></title>
         <id>https://news.ycombinator.com/item?id=30557854</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就切断俄罗斯与SWIFT的联系达成全面共识，进程已经开始]]></title>
-        <id>https://news.ycombinator.com/item?id=30482565</id>
-        <link href="https://news.ycombinator.com/item?id=30482565"/>
-        <updated>2022-02-26T22:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Full consensus for disconnecting Russia from SWIFT achieved, process has begun]]></summary>
-        <author>
-            <name>grecy</name>
-            <uri>https://news.ycombinator.com/user?id=grecy</uri>
         </author>
     </entry>
 </feed>
