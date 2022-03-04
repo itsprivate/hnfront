@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T02:13:32.852Z</updated>
+    <updated>2022-03-04T03:00:15.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于内存、缓存和共享内存，你必须知道什么 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30549828</id>
+        <link href="https://news.ycombinator.com/item?id=30549828"/>
+        <updated>2022-03-04T02:19:19.000Z</updated>
+        <summary type="html"><![CDATA[What you must know about Memory, Caches, and Shared Memory [pdf]]]></summary>
+        <author>
+            <name>jeremysalwen</name>
+            <uri>https://news.ycombinator.com/user?id=jeremysalwen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些好的键盘？]]></title>
+        <id>https://news.ycombinator.com/item?id=30549628</id>
+        <link href="https://news.ycombinator.com/item?id=30549628"/>
+        <updated>2022-03-04T01:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some good keyboards?]]></summary>
+        <author>
+            <name>rickrollin</name>
+            <uri>https://news.ycombinator.com/user?id=rickrollin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约时报》技术工人投票认证工会]]></title>
+        <id>https://news.ycombinator.com/item?id=30548508</id>
+        <link href="https://news.ycombinator.com/item?id=30548508"/>
+        <updated>2022-03-03T23:27:51.000Z</updated>
+        <summary type="html"><![CDATA[New York Times tech workers vote to certify union]]></summary>
+        <author>
+            <name>hughmandeville</name>
+            <uri>https://news.ycombinator.com/user?id=hughmandeville</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于覆盖磁盘(在OpenBSD 7.0-current上)]]></title>
+        <id>https://news.ycombinator.com/item?id=30539968</id>
+        <link href="https://news.ycombinator.com/item?id=30539968"/>
+        <updated>2022-03-03T12:18:27.000Z</updated>
+        <summary type="html"><![CDATA[On overwriting disks (on OpenBSD 7.0-current)]]></summary>
+        <author>
+            <name>hucste</name>
+            <uri>https://news.ycombinator.com/user?id=hucste</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2020年计算出的实际 "每个人都应该知道的延迟数字"]]></title>
         <id>https://news.ycombinator.com/item?id=30549344</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>catlifeonmars</name>
             <uri>https://news.ycombinator.com/user?id=catlifeonmars</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火星上的 "好奇号 "探测器捕捉到奇怪的植物状结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30476002</id>
-        <link href="https://news.ycombinator.com/item?id=30476002"/>
-        <updated>2022-02-26T08:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Strange plant-like formation captured by Curiosity rover on Mars]]></summary>
-        <author>
-            <name>dvh</name>
-            <uri>https://news.ycombinator.com/user?id=dvh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DJ表演重新混合人工智能创造的音乐，然后由第二个人工智能现场重新混合。]]></title>
-        <id>https://news.ycombinator.com/item?id=30475880</id>
-        <link href="https://news.ycombinator.com/item?id=30475880"/>
-        <updated>2022-02-26T07:44:22.000Z</updated>
-        <summary type="html"><![CDATA[DJ performance remixing AI-created music- which is then live-remixed by a 2nd AI]]></summary>
-        <author>
-            <name>pizza</name>
-            <uri>https://news.ycombinator.com/user?id=pizza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eng.mil.ru正在返回HTTP 418]]></title>
-        <id>https://news.ycombinator.com/item?id=30475651</id>
-        <link href="https://news.ycombinator.com/item?id=30475651"/>
-        <updated>2022-02-26T06:45:04.000Z</updated>
-        <summary type="html"><![CDATA[eng.mil.ru is returning HTTP 418]]></summary>
-        <author>
-            <name>robertlagrant</name>
-            <uri>https://news.ycombinator.com/user?id=robertlagrant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhotoRoom (YC S20) 正在招聘一名高级React开发员（巴黎，远程±1小时）]]></title>
-        <id>https://news.ycombinator.com/item?id=30475698</id>
-        <link href="https://news.ycombinator.com/item?id=30475698"/>
-        <updated>2022-02-26T07:00:41.000Z</updated>
-        <summary type="html"><![CDATA[PhotoRoom (YC S20) Is Hiring a Senior React Developer (Paris, Remote ± 1h)]]></summary>
-        <author>
-            <name>ea016</name>
-            <uri>https://news.ycombinator.com/user?id=ea016</uri>
         </author>
     </entry>
 </feed>
