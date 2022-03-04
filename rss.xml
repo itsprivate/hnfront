@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 04 Mar 2022 21:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 21:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使CRDTs具有拜占庭式的容错能力 [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30560573</link>
+            <guid>https://news.ycombinator.com/item?id=30560573</guid>
+            <pubDate>Fri, 04 Mar 2022 21:05:47 GMT</pubDate>
+            <description><![CDATA[Making CRDTs Byzantine Fault Tolerant [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[授权涉及乌斯马诺夫拥有的某些被封锁实体的交易]]></title>
+            <link>https://news.ycombinator.com/item?id=30560282</link>
+            <guid>https://news.ycombinator.com/item?id=30560282</guid>
+            <pubDate>Fri, 04 Mar 2022 20:44:29 GMT</pubDate>
+            <description><![CDATA[Authorizing transactions involving certain blocked entities owned by Usmanov]]></description>
+        </item>
         <item>
             <title><![CDATA[关系英雄（YC S17）正在招聘销售助理--15美元/小时的远程服务]]></title>
             <link>https://news.ycombinator.com/item?id=30560505</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30483924</guid>
             <pubDate>Sun, 27 Feb 2022 00:38:25 GMT</pubDate>
             <description><![CDATA[Russian Offensive Campaign Assessment, Feb 26, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[互联网的设计是以狭窄的腰部为基础的]]></title>
-            <link>https://news.ycombinator.com/item?id=30483914</link>
-            <guid>https://news.ycombinator.com/item?id=30483914</guid>
-            <pubDate>Sun, 27 Feb 2022 00:37:05 GMT</pubDate>
-            <description><![CDATA[The Internet Was Designed with a Narrow Waist]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Colors.lol (2020)]]></title>
-            <link>https://news.ycombinator.com/item?id=30483892</link>
-            <guid>https://news.ycombinator.com/item?id=30483892</guid>
-            <pubDate>Sun, 27 Feb 2022 00:34:53 GMT</pubDate>
-            <description><![CDATA[Colors.lol (2020)]]></description>
         </item>
     </channel>
 </rss>

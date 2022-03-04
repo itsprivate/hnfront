@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T21:14:04.838Z</updated>
+    <updated>2022-03-04T21:29:54.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使CRDTs具有拜占庭式的容错能力 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30560573</id>
+        <link href="https://news.ycombinator.com/item?id=30560573"/>
+        <updated>2022-03-04T21:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Making CRDTs Byzantine Fault Tolerant [pdf]]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[授权涉及乌斯马诺夫拥有的某些被封锁实体的交易]]></title>
+        <id>https://news.ycombinator.com/item?id=30560282</id>
+        <link href="https://news.ycombinator.com/item?id=30560282"/>
+        <updated>2022-03-04T20:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Authorizing transactions involving certain blocked entities owned by Usmanov]]></summary>
+        <author>
+            <name>java-man</name>
+            <uri>https://news.ycombinator.com/user?id=java-man</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关系英雄（YC S17）正在招聘销售助理--15美元/小时的远程服务]]></title>
         <id>https://news.ycombinator.com/item?id=30560505</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>georgecmu</name>
             <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网的设计是以狭窄的腰部为基础的]]></title>
-        <id>https://news.ycombinator.com/item?id=30483914</id>
-        <link href="https://news.ycombinator.com/item?id=30483914"/>
-        <updated>2022-02-27T00:37:05.000Z</updated>
-        <summary type="html"><![CDATA[The Internet Was Designed with a Narrow Waist]]></summary>
-        <author>
-            <name>crawshaw</name>
-            <uri>https://news.ycombinator.com/user?id=crawshaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colors.lol (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30483892</id>
-        <link href="https://news.ycombinator.com/item?id=30483892"/>
-        <updated>2022-02-27T00:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Colors.lol (2020)]]></summary>
-        <author>
-            <name>adamfuhrer</name>
-            <uri>https://news.ycombinator.com/user?id=adamfuhrer</uri>
         </author>
     </entry>
 </feed>
