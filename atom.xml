@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T13:22:32.297Z</updated>
+    <updated>2022-03-04T13:56:09.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人们还在使用Meetup吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30553511</id>
+        <link href="https://news.ycombinator.com/item?id=30553511"/>
+        <updated>2022-03-04T12:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do people still use Meetup?]]></summary>
+        <author>
+            <name>reimertz</name>
+            <uri>https://news.ycombinator.com/user?id=reimertz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要使用 "无许可证"：它是一个劣质的许可证，被一个糟糕的名字包裹着。]]></title>
         <id>https://news.ycombinator.com/item?id=30554087</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ciccionamente</name>
             <uri>https://news.ycombinator.com/user?id=ciccionamente</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zulip是一个开源的团队协作工具，具有基于主题的线程。]]></title>
-        <id>https://news.ycombinator.com/item?id=30479430</id>
-        <link href="https://news.ycombinator.com/item?id=30479430"/>
-        <updated>2022-02-26T17:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Zulip is an open-source team collaboration tool with topic-based threading]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
