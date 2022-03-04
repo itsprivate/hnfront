@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T03:00:15.631Z</updated>
+    <updated>2022-03-04T03:16:33.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[玛丽亚-蒙特梭利的误导性教育]]></title>
+        <id>https://news.ycombinator.com/item?id=30550072</id>
+        <link href="https://news.ycombinator.com/item?id=30550072"/>
+        <updated>2022-03-04T02:53:31.000Z</updated>
+        <summary type="html"><![CDATA[The Miseducation of Maria Montessori]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于内存、缓存和共享内存，你必须知道什么 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30549828</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>driminicus</name>
             <uri>https://news.ycombinator.com/user?id=driminicus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机械集成商 (1886)]]></title>
-        <id>https://news.ycombinator.com/item?id=30475922</id>
-        <link href="https://news.ycombinator.com/item?id=30475922"/>
-        <updated>2022-02-26T07:56:18.000Z</updated>
-        <summary type="html"><![CDATA[Mechanical Integrators (1886)]]></summary>
-        <author>
-            <name>catlifeonmars</name>
-            <uri>https://news.ycombinator.com/user?id=catlifeonmars</uri>
         </author>
     </entry>
 </feed>
