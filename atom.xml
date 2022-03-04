@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T23:32:56.934Z</updated>
+    <updated>2022-03-04T23:41:48.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以悔恨为基础的环境设计发展课程]]></title>
+        <id>https://news.ycombinator.com/item?id=30554229</id>
+        <link href="https://news.ycombinator.com/item?id=30554229"/>
+        <updated>2022-03-04T13:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Evolving Curricula with Regret-Based Environment Design]]></summary>
+        <author>
+            <name>minch</name>
+            <uri>https://news.ycombinator.com/user?id=minch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯空军没有能力进行复杂的空中作业吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30561169</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jandorn</name>
             <uri>https://news.ycombinator.com/user?id=jandorn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在撒谎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30485005</id>
-        <link href="https://news.ycombinator.com/item?id=30485005"/>
-        <updated>2022-02-27T03:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Who’s Lying?]]></summary>
-        <author>
-            <name>doppp</name>
-            <uri>https://news.ycombinator.com/user?id=doppp</uri>
         </author>
     </entry>
 </feed>
