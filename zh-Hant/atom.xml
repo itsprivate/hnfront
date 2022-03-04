@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T05:14:55.972Z</updated>
+    <updated>2022-03-04T05:39:48.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特爾、AMD和Arm支持新的UCIe芯片標準]]></title>
+        <id>https://news.ycombinator.com/item?id=30539735</id>
+        <link href="https://news.ycombinator.com/item?id=30539735"/>
+        <updated>2022-03-03T11:47:06.000Z</updated>
+        <summary type="html"><![CDATA[New UCIe Chiplet Standard Supported by Intel, AMD, and Arm]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刺激聽覺和非聽覺神經的耳鳴治療方法]]></title>
         <id>https://news.ycombinator.com/item?id=30550578</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>romming</name>
             <uri>https://news.ycombinator.com/user?id=romming</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因入侵烏克蘭而將俄羅斯從GitHub上砍掉]]></title>
-        <id>https://news.ycombinator.com/item?id=30476721</id>
-        <link href="https://news.ycombinator.com/item?id=30476721"/>
-        <updated>2022-02-26T11:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Cut Russia from GitHub due to invasion of Ukraine]]></summary>
-        <author>
-            <name>jwieczorek</name>
-            <uri>https://news.ycombinator.com/user?id=jwieczorek</uri>
         </author>
     </entry>
 </feed>
