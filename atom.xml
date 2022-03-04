@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T18:39:42.370Z</updated>
+    <updated>2022-03-04T18:55:45.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随着战争的到来，欧洲发现了一种行动能力]]></title>
+        <id>https://news.ycombinator.com/item?id=30557854</id>
+        <link href="https://news.ycombinator.com/item?id=30557854"/>
+        <updated>2022-03-04T17:42:52.000Z</updated>
+        <summary type="html"><![CDATA[With war at its doors, Europe discovers a capacity for action]]></summary>
+        <author>
+            <name>jcfrei</name>
+            <uri>https://news.ycombinator.com/user?id=jcfrei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go的主要版本控制很糟糕--来自一个粉丝的意见]]></title>
         <id>https://news.ycombinator.com/item?id=30557806</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>grecy</name>
             <uri>https://news.ycombinator.com/user?id=grecy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么可再生能源这么快就变得如此便宜？]]></title>
-        <id>https://news.ycombinator.com/item?id=30482135</id>
-        <link href="https://news.ycombinator.com/item?id=30482135"/>
-        <updated>2022-02-26T21:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Why did renewables become so cheap so fast?]]></summary>
-        <author>
-            <name>bpierre</name>
-            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
         </author>
     </entry>
 </feed>
