@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T23:12:52.250Z</updated>
+    <updated>2022-03-04T23:32:56.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯空军没有能力进行复杂的空中作业吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30561169</id>
+        <link href="https://news.ycombinator.com/item?id=30561169"/>
+        <updated>2022-03-04T21:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Is the Russian Air Force incapable of complex air operations?]]></summary>
+        <author>
+            <name>ceejayoz</name>
+            <uri>https://news.ycombinator.com/user?id=ceejayoz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可能的BGP劫持：由NGROUP,UA宣布的前缀也由NETGRUP,RU宣布。]]></title>
         <id>https://news.ycombinator.com/item?id=30561518</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>doppp</name>
             <uri>https://news.ycombinator.com/user?id=doppp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何浪费时间和过度复杂化的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=30480083</id>
-        <link href="https://news.ycombinator.com/item?id=30480083"/>
-        <updated>2022-02-26T18:11:26.000Z</updated>
-        <summary type="html"><![CDATA[How to waste time and overcomplicate things]]></summary>
-        <author>
-            <name>scrappydew</name>
-            <uri>https://news.ycombinator.com/user?id=scrappydew</uri>
         </author>
     </entry>
 </feed>
