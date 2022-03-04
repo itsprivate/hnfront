@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T14:57:06.391Z</updated>
+    <updated>2022-03-04T15:17:20.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戰爭時期是擾亂互聯網的壞時機]]></title>
+        <id>https://news.ycombinator.com/item?id=30553859</id>
+        <link href="https://news.ycombinator.com/item?id=30553859"/>
+        <updated>2022-03-04T12:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Wartime Is a Bad Time to Mess with the Internet]]></summary>
+        <author>
+            <name>CTOSian</name>
+            <uri>https://news.ycombinator.com/user?id=CTOSian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個名為Summle的數學小遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30554994</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>martingoodson</name>
             <uri>https://news.ycombinator.com/user?id=martingoodson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的歷史性誤判可能使他成為戰爭罪犯]]></title>
-        <id>https://news.ycombinator.com/item?id=30480143</id>
-        <link href="https://news.ycombinator.com/item?id=30480143"/>
-        <updated>2022-02-26T18:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s Historic Miscalculation May Make Him a War Criminal]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
