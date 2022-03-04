@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T19:54:06.047Z</updated>
+    <updated>2022-03-04T20:31:31.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[绕过所有主要的新闻付费墙]]></title>
+        <id>https://news.ycombinator.com/item?id=30559520</id>
+        <link href="https://news.ycombinator.com/item?id=30559520"/>
+        <updated>2022-03-04T19:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Bypass all major news paywalls]]></summary>
+        <author>
+            <name>zikohh</name>
+            <uri>https://news.ycombinator.com/user?id=zikohh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么约翰-米尔斯海默将乌克兰的危机归咎于美国？]]></title>
         <id>https://news.ycombinator.com/item?id=30559136</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zaptheimpaler</name>
             <uri>https://news.ycombinator.com/user?id=zaptheimpaler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌用户在使用15年后被锁定]]></title>
-        <id>https://news.ycombinator.com/item?id=30482832</id>
-        <link href="https://news.ycombinator.com/item?id=30482832"/>
-        <updated>2022-02-26T22:56:47.000Z</updated>
-        <summary type="html"><![CDATA[Google Users Locked Out After 15 Years' Use]]></summary>
-        <author>
-            <name>johndfsgdgdfg</name>
-            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
         </author>
     </entry>
 </feed>
