@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 04 Mar 2022 17:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -15,6 +15,13 @@
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
         <item>
+            <title><![CDATA[使用Linux的容器逃生 CVE-2022-0492]]></title>
+            <link>https://news.ycombinator.com/item?id=30556188</link>
+            <guid>https://news.ycombinator.com/item?id=30556188</guid>
+            <pubDate>Fri, 04 Mar 2022 15:35:09 GMT</pubDate>
+            <description><![CDATA[Container Escape with Linux CVE-2022-0492]]></description>
+        </item>
+        <item>
             <title><![CDATA[Supabase (YC S20)正在招聘人員運營和招聘職位]]></title>
             <link>https://news.ycombinator.com/item?id=30557293</link>
             <guid>https://news.ycombinator.com/item?id=30557293</guid>
@@ -22,11 +29,39 @@
             <description><![CDATA[Supabase (YC S20) Is Hiring for People Ops and Recruitment]]></description>
         </item>
         <item>
+            <title><![CDATA[啟動HN：Phase Biolabs (YC W22) - 將二氧化碳轉化為碳中性化學品]]></title>
+            <link>https://news.ycombinator.com/item?id=30557288</link>
+            <guid>https://news.ycombinator.com/item?id=30557288</guid>
+            <pubDate>Fri, 04 Mar 2022 17:00:34 GMT</pubDate>
+            <description><![CDATA[Launch HN: Phase Biolabs (YC W22) – Converting CO2 to Carbon-Neutral Chemicals]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GitHub的Markdown表格解析的堆內存損壞CVE]]></title>
+            <link>https://news.ycombinator.com/item?id=30557256</link>
+            <guid>https://news.ycombinator.com/item?id=30557256</guid>
+            <pubDate>Fri, 04 Mar 2022 16:57:52 GMT</pubDate>
+            <description><![CDATA[Heap memory corruption CVE for GitHub's Markdown table parsing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蘋果公司CEO蒂姆-庫克告訴員工4月11日回公司上班]]></title>
+            <link>https://news.ycombinator.com/item?id=30557205</link>
+            <guid>https://news.ycombinator.com/item?id=30557205</guid>
+            <pubDate>Fri, 04 Mar 2022 16:53:48 GMT</pubDate>
+            <description><![CDATA[Apple CEO Tim Cook tells employees to return to office April 11]]></description>
+        </item>
+        <item>
             <title><![CDATA[蘑菇。環境友好型包裝和建築的下一個大事件]]></title>
             <link>https://news.ycombinator.com/item?id=30557088</link>
             <guid>https://news.ycombinator.com/item?id=30557088</guid>
             <pubDate>Fri, 04 Mar 2022 16:43:34 GMT</pubDate>
             <description><![CDATA[Mushrooms: Next Big Thing in Environmentally-Friendly Packaging and Construction]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我們建造的計算機是錯誤的[視頻]。]]></title>
+            <link>https://news.ycombinator.com/item?id=30549716</link>
+            <guid>https://news.ycombinator.com/item?id=30549716</guid>
+            <pubDate>Fri, 04 Mar 2022 02:06:11 GMT</pubDate>
+            <description><![CDATA[We're Building Computers Wrong [video]]]></description>
         </item>
         <item>
             <title><![CDATA[一體化機構 "的風暴即將來臨]]></title>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30475784</guid>
             <pubDate>Sat, 26 Feb 2022 07:18:22 GMT</pubDate>
             <description><![CDATA[Tabula: Convert PDF Table to CSV]]></description>
-        </item>
-        <item>
-            <title><![CDATA[腸道微生物群調節胰腺生長、外分泌功能和腸道荷爾蒙]]></title>
-            <link>https://news.ycombinator.com/item?id=30481959</link>
-            <guid>https://news.ycombinator.com/item?id=30481959</guid>
-            <pubDate>Sat, 26 Feb 2022 21:04:59 GMT</pubDate>
-            <description><![CDATA[Gut Microbiota Regulate Pancreatic Growth, Exocrine Function and Gut Hormones]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼你要用一種小眾語言為你的愛好項目編程？]]></title>
-            <link>https://news.ycombinator.com/item?id=30482060</link>
-            <guid>https://news.ycombinator.com/item?id=30482060</guid>
-            <pubDate>Sat, 26 Feb 2022 21:17:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why are you programming your hobby projects in a niche language?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[信息戰是沒有限制的，其後果也是如此]]></title>
-            <link>https://news.ycombinator.com/item?id=30481708</link>
-            <guid>https://news.ycombinator.com/item?id=30481708</guid>
-            <pubDate>Sat, 26 Feb 2022 20:37:40 GMT</pubDate>
-            <description><![CDATA[Information Warfare Is Without Limits and So Are Its Consequences]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MetalNES：晶體管級NES模擬]]></title>
-            <link>https://news.ycombinator.com/item?id=30481762</link>
-            <guid>https://news.ycombinator.com/item?id=30481762</guid>
-            <pubDate>Sat, 26 Feb 2022 20:41:59 GMT</pubDate>
-            <description><![CDATA[MetalNES: Transistor Level NES Simulation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於字符串的模板與DSLs。各自的優點和缺點]]></title>
-            <link>https://news.ycombinator.com/item?id=30481601</link>
-            <guid>https://news.ycombinator.com/item?id=30481601</guid>
-            <pubDate>Sat, 26 Feb 2022 20:28:53 GMT</pubDate>
-            <description><![CDATA[String-Based Templates vs. DSLs: The Pros and Cons of Each]]></description>
         </item>
     </channel>
 </rss>

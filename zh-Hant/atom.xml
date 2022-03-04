@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T17:23:55.986Z</updated>
+    <updated>2022-03-04T17:43:56.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -16,6 +16,17 @@
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
     <entry>
+        <title type="html"><![CDATA[使用Linux的容器逃生 CVE-2022-0492]]></title>
+        <id>https://news.ycombinator.com/item?id=30556188</id>
+        <link href="https://news.ycombinator.com/item?id=30556188"/>
+        <updated>2022-03-04T15:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Container Escape with Linux CVE-2022-0492]]></summary>
+        <author>
+            <name>zelivans</name>
+            <uri>https://news.ycombinator.com/user?id=zelivans</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Supabase (YC S20)正在招聘人員運營和招聘職位]]></title>
         <id>https://news.ycombinator.com/item?id=30557293</id>
         <link href="https://news.ycombinator.com/item?id=30557293"/>
@@ -27,6 +38,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[啟動HN：Phase Biolabs (YC W22) - 將二氧化碳轉化為碳中性化學品]]></title>
+        <id>https://news.ycombinator.com/item?id=30557288</id>
+        <link href="https://news.ycombinator.com/item?id=30557288"/>
+        <updated>2022-03-04T17:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Phase Biolabs (YC W22) – Converting CO2 to Carbon-Neutral Chemicals]]></summary>
+        <author>
+            <name>DavidPBL</name>
+            <uri>https://news.ycombinator.com/user?id=DavidPBL</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub的Markdown表格解析的堆內存損壞CVE]]></title>
+        <id>https://news.ycombinator.com/item?id=30557256</id>
+        <link href="https://news.ycombinator.com/item?id=30557256"/>
+        <updated>2022-03-04T16:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Heap memory corruption CVE for GitHub's Markdown table parsing]]></summary>
+        <author>
+            <name>hyfen</name>
+            <uri>https://news.ycombinator.com/user?id=hyfen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司CEO蒂姆-庫克告訴員工4月11日回公司上班]]></title>
+        <id>https://news.ycombinator.com/item?id=30557205</id>
+        <link href="https://news.ycombinator.com/item?id=30557205"/>
+        <updated>2022-03-04T16:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Apple CEO Tim Cook tells employees to return to office April 11]]></summary>
+        <author>
+            <name>polar8</name>
+            <uri>https://news.ycombinator.com/user?id=polar8</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[蘑菇。環境友好型包裝和建築的下一個大事件]]></title>
         <id>https://news.ycombinator.com/item?id=30557088</id>
         <link href="https://news.ycombinator.com/item?id=30557088"/>
@@ -35,6 +79,17 @@
         <author>
             <name>DocFeind</name>
             <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們建造的計算機是錯誤的[視頻]。]]></title>
+        <id>https://news.ycombinator.com/item?id=30549716</id>
+        <link href="https://news.ycombinator.com/item?id=30549716"/>
+        <updated>2022-03-04T02:06:11.000Z</updated>
+        <summary type="html"><![CDATA[We're Building Computers Wrong [video]]]></summary>
+        <author>
+            <name>lawrenceyan</name>
+            <uri>https://news.ycombinator.com/user?id=lawrenceyan</uri>
         </author>
     </entry>
     <entry>
@@ -6558,61 +6613,6 @@
         <author>
             <name>wolpoli</name>
             <uri>https://news.ycombinator.com/user?id=wolpoli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腸道微生物群調節胰腺生長、外分泌功能和腸道荷爾蒙]]></title>
-        <id>https://news.ycombinator.com/item?id=30481959</id>
-        <link href="https://news.ycombinator.com/item?id=30481959"/>
-        <updated>2022-02-26T21:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Gut Microbiota Regulate Pancreatic Growth, Exocrine Function and Gut Hormones]]></summary>
-        <author>
-            <name>voisin</name>
-            <uri>https://news.ycombinator.com/user?id=voisin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼你要用一種小眾語言為你的愛好項目編程？]]></title>
-        <id>https://news.ycombinator.com/item?id=30482060</id>
-        <link href="https://news.ycombinator.com/item?id=30482060"/>
-        <updated>2022-02-26T21:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are you programming your hobby projects in a niche language?]]></summary>
-        <author>
-            <name>Decabytes</name>
-            <uri>https://news.ycombinator.com/user?id=Decabytes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[信息戰是沒有限制的，其後果也是如此]]></title>
-        <id>https://news.ycombinator.com/item?id=30481708</id>
-        <link href="https://news.ycombinator.com/item?id=30481708"/>
-        <updated>2022-02-26T20:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Information Warfare Is Without Limits and So Are Its Consequences]]></summary>
-        <author>
-            <name>grzm</name>
-            <uri>https://news.ycombinator.com/user?id=grzm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetalNES：晶體管級NES模擬]]></title>
-        <id>https://news.ycombinator.com/item?id=30481762</id>
-        <link href="https://news.ycombinator.com/item?id=30481762"/>
-        <updated>2022-02-26T20:41:59.000Z</updated>
-        <summary type="html"><![CDATA[MetalNES: Transistor Level NES Simulation]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於字符串的模板與DSLs。各自的優點和缺點]]></title>
-        <id>https://news.ycombinator.com/item?id=30481601</id>
-        <link href="https://news.ycombinator.com/item?id=30481601"/>
-        <updated>2022-02-26T20:28:53.000Z</updated>
-        <summary type="html"><![CDATA[String-Based Templates vs. DSLs: The Pros and Cons of Each]]></summary>
-        <author>
-            <name>ciconia</name>
-            <uri>https://news.ycombinator.com/user?id=ciconia</uri>
         </author>
     </entry>
 </feed>
