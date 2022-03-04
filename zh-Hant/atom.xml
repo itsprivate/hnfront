@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T22:28:33.990Z</updated>
+    <updated>2022-03-04T22:52:48.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奧伯斯演習工程]]></title>
+        <id>https://news.ycombinator.com/item?id=30549488</id>
+        <link href="https://news.ycombinator.com/item?id=30549488"/>
+        <updated>2022-03-04T01:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Engineering the Oberth Maneuver]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌廣告暫停了我的工作，並充耳不聞]]></title>
         <id>https://news.ycombinator.com/item?id=30560990</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP中自我混淆的價值對象]]></title>
-        <id>https://news.ycombinator.com/item?id=30482712</id>
-        <link href="https://news.ycombinator.com/item?id=30482712"/>
-        <updated>2022-02-26T22:43:58.000Z</updated>
-        <summary type="html"><![CDATA[Self-obfuscating value objects in PHP]]></summary>
-        <author>
-            <name>eamann</name>
-            <uri>https://news.ycombinator.com/user?id=eamann</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 04 Mar 2022 22:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 22:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奥伯斯演习工程]]></title>
+            <link>https://news.ycombinator.com/item?id=30549488</link>
+            <guid>https://news.ycombinator.com/item?id=30549488</guid>
+            <pubDate>Fri, 04 Mar 2022 01:34:10 GMT</pubDate>
+            <description><![CDATA[Engineering the Oberth Maneuver]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌广告暂停了我的工作，并充耳不闻]]></title>
             <link>https://news.ycombinator.com/item?id=30560990</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30484420</guid>
             <pubDate>Sun, 27 Feb 2022 01:36:48 GMT</pubDate>
             <description><![CDATA[The Competitive Duality of Slay the Spire]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PHP中自我混淆的价值对象]]></title>
-            <link>https://news.ycombinator.com/item?id=30482712</link>
-            <guid>https://news.ycombinator.com/item?id=30482712</guid>
-            <pubDate>Sat, 26 Feb 2022 22:43:58 GMT</pubDate>
-            <description><![CDATA[Self-obfuscating value objects in PHP]]></description>
         </item>
     </channel>
 </rss>
