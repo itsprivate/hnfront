@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 04 Mar 2022 07:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 07:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Duck DNS - 在AWS上託管的免費動態DNS]]></title>
+            <link>https://news.ycombinator.com/item?id=30539059</link>
+            <guid>https://news.ycombinator.com/item?id=30539059</guid>
+            <pubDate>Thu, 03 Mar 2022 09:45:47 GMT</pubDate>
+            <description><![CDATA[Duck DNS – free dynamic DNS hosted on AWS]]></description>
+        </item>
         <item>
             <title><![CDATA[Meticulous (YC S21)正在倫敦招聘2號創始工程師]]></title>
             <link>https://news.ycombinator.com/item?id=30551541</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30477329</guid>
             <pubDate>Sat, 26 Feb 2022 13:24:33 GMT</pubDate>
             <description><![CDATA[A list of demonstrations planned around the world against the war on Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於3GPP R15的開源5G核心網絡]]></title>
-            <link>https://news.ycombinator.com/item?id=30477078</link>
-            <guid>https://news.ycombinator.com/item?id=30477078</guid>
-            <pubDate>Sat, 26 Feb 2022 12:39:43 GMT</pubDate>
-            <description><![CDATA[Open source 5G core network base on 3GPP R15]]></description>
         </item>
     </channel>
 </rss>

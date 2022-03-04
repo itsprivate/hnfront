@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T07:15:24.136Z</updated>
+    <updated>2022-03-04T07:39:16.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Duck DNS - 在AWS上託管的免費動態DNS]]></title>
+        <id>https://news.ycombinator.com/item?id=30539059</id>
+        <link href="https://news.ycombinator.com/item?id=30539059"/>
+        <updated>2022-03-03T09:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Duck DNS – free dynamic DNS hosted on AWS]]></summary>
+        <author>
+            <name>phantom_oracle</name>
+            <uri>https://news.ycombinator.com/user?id=phantom_oracle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meticulous (YC S21)正在倫敦招聘2號創始工程師]]></title>
         <id>https://news.ycombinator.com/item?id=30551541</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>uitwear2</name>
             <uri>https://news.ycombinator.com/user?id=uitwear2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於3GPP R15的開源5G核心網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30477078</id>
-        <link href="https://news.ycombinator.com/item?id=30477078"/>
-        <updated>2022-02-26T12:39:43.000Z</updated>
-        <summary type="html"><![CDATA[Open source 5G core network base on 3GPP R15]]></summary>
-        <author>
-            <name>rguiscard</name>
-            <uri>https://news.ycombinator.com/user?id=rguiscard</uri>
         </author>
     </entry>
 </feed>
