@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T06:16:33.083Z</updated>
+    <updated>2022-03-04T06:39:54.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個105歲的紋身藝術家]]></title>
+        <id>https://news.ycombinator.com/item?id=30537652</id>
+        <link href="https://news.ycombinator.com/item?id=30537652"/>
+        <updated>2022-03-03T05:52:21.000Z</updated>
+        <summary type="html"><![CDATA[A 105-Year-Old Tattoo Artist]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[侵入Nvidia的網絡犯罪分子提出了有史以來最不尋常的要求之一]]></title>
         <id>https://news.ycombinator.com/item?id=30550028</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aix1</name>
             <uri>https://news.ycombinator.com/user?id=aix1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯和烏克蘭之間的軍事差距]]></title>
-        <id>https://news.ycombinator.com/item?id=30476824</id>
-        <link href="https://news.ycombinator.com/item?id=30476824"/>
-        <updated>2022-02-26T11:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Military gap between Russia and Ukraine]]></summary>
-        <author>
-            <name>fumblebee</name>
-            <uri>https://news.ycombinator.com/user?id=fumblebee</uri>
         </author>
     </entry>
 </feed>
