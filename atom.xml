@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T10:15:16.760Z</updated>
+    <updated>2022-03-04T10:47:17.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌文档的新功能。无分页]]></title>
+        <id>https://news.ycombinator.com/item?id=30552142</id>
+        <link href="https://news.ycombinator.com/item?id=30552142"/>
+        <updated>2022-03-04T08:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Google Docs New Feature: Pageless]]></summary>
+        <author>
+            <name>eddyerburgh</name>
+            <uri>https://news.ycombinator.com/user?id=eddyerburgh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学家让混沌有了意义]]></title>
+        <id>https://news.ycombinator.com/item?id=30540417</id>
+        <link href="https://news.ycombinator.com/item?id=30540417"/>
+        <updated>2022-03-03T13:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Mathematicians Make Sense of Chaos]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯洛维奥]]></title>
         <id>https://news.ycombinator.com/item?id=30552570</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧元区央行行长：切断俄罗斯与SWIFT的联系是 "几天的事"]]></title>
-        <id>https://news.ycombinator.com/item?id=30477954</id>
-        <link href="https://news.ycombinator.com/item?id=30477954"/>
-        <updated>2022-02-26T14:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Cutting Russia off from SWIFT a “matter of days” – euro zone central banker]]></summary>
-        <author>
-            <name>323</name>
-            <uri>https://news.ycombinator.com/user?id=323</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家在一张新地图上揭示了440万个星系]]></title>
-        <id>https://news.ycombinator.com/item?id=30477874</id>
-        <link href="https://news.ycombinator.com/item?id=30477874"/>
-        <updated>2022-02-26T14:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Scientists reveal 4.4M galaxies in a new map]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
