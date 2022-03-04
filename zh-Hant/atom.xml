@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-04T22:52:48.455Z</updated>
+    <updated>2022-03-04T23:12:52.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可能的BGP劫持：由NGROUP,UA宣佈的前綴也由NETGRUP,RU宣佈。]]></title>
+        <id>https://news.ycombinator.com/item?id=30561518</id>
+        <link href="https://news.ycombinator.com/item?id=30561518"/>
+        <updated>2022-03-04T22:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Possible BGP hijack: Prefix announced by NGROUP,UA also announced by NETGRUP, RU]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奧伯斯演習工程]]></title>
         <id>https://news.ycombinator.com/item?id=30549488</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>scrappydew</name>
             <uri>https://news.ycombinator.com/user?id=scrappydew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[殺死尖塔》的競爭性二重性]]></title>
-        <id>https://news.ycombinator.com/item?id=30484420</id>
-        <link href="https://news.ycombinator.com/item?id=30484420"/>
-        <updated>2022-02-27T01:36:48.000Z</updated>
-        <summary type="html"><![CDATA[The Competitive Duality of Slay the Spire]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
