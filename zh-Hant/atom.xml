@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T23:31:58.702Z</updated>
+    <updated>2022-03-05T23:51:48.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[匿名者已攻下FSB網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30571866</id>
+        <link href="https://news.ycombinator.com/item?id=30571866"/>
+        <updated>2022-03-05T21:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Anonymous has taken down the FSB website]]></summary>
+        <author>
+            <name>monetizeinfo</name>
+            <uri>https://news.ycombinator.com/user?id=monetizeinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[晝夜節律與肌肉修復之間的新聯繫]]></title>
         <id>https://news.ycombinator.com/item?id=30561781</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幫助我把我的家人從戰爭中帶出來]]></title>
-        <id>https://news.ycombinator.com/item?id=30494013</id>
-        <link href="https://news.ycombinator.com/item?id=30494013"/>
-        <updated>2022-02-27T23:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Help me to bring my fimily from war]]></summary>
-        <author>
-            <name>marcomoreno</name>
-            <uri>https://news.ycombinator.com/user?id=marcomoreno</uri>
         </author>
     </entry>
 </feed>
