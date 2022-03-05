@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T21:12:58.872Z</updated>
+    <updated>2022-03-05T21:30:57.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马口铁是如何差一点就不是了 (2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=30567637</id>
+        <link href="https://news.ycombinator.com/item?id=30567637"/>
+        <updated>2022-03-05T13:57:31.000Z</updated>
+        <summary type="html"><![CDATA[How the tin can nearly wasn't (2013)]]></summary>
+        <author>
+            <name>c-cube</name>
+            <uri>https://news.ycombinator.com/user?id=c-cube</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smarking（YC W15）：15个新职位，加速移动性的数字化]]></title>
         <id>https://news.ycombinator.com/item?id=30571821</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>conanxin</name>
             <uri>https://news.ycombinator.com/user?id=conanxin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[热门SaaS产品的开源替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30492519</id>
-        <link href="https://news.ycombinator.com/item?id=30492519"/>
-        <updated>2022-02-27T21:09:11.000Z</updated>
-        <summary type="html"><![CDATA[Open Source Alternatives to Popular SaaS Products]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
