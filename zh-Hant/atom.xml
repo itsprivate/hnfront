@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T07:32:44.723Z</updated>
+    <updated>2022-03-05T07:54:37.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個在發貨前檢測Java和C/C++/Objective-C代碼中錯誤的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30565270</id>
+        <link href="https://news.ycombinator.com/item?id=30565270"/>
+        <updated>2022-03-05T07:28:32.000Z</updated>
+        <summary type="html"><![CDATA[A tool to detect bugs in Java and C/C++/Objective-C code before it ships]]></summary>
+        <author>
+            <name>rwmj</name>
+            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac Studio'[臺式電腦]即將問世]]></title>
+        <id>https://news.ycombinator.com/item?id=30565073</id>
+        <link href="https://news.ycombinator.com/item?id=30565073"/>
+        <updated>2022-03-05T06:57:54.000Z</updated>
+        <summary type="html"><![CDATA[‘Mac Studio’ [desktop computer] is coming]]></summary>
+        <author>
+            <name>n3k5</name>
+            <uri>https://news.ycombinator.com/user?id=n3k5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鮑里斯-涅姆佐夫被暗殺]]></title>
         <id>https://news.ycombinator.com/item?id=30565142</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>devops000</name>
             <uri>https://news.ycombinator.com/user?id=devops000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯給烏克蘭決定在白俄羅斯進行會談的最後期限]]></title>
-        <id>https://news.ycombinator.com/item?id=30487269</id>
-        <link href="https://news.ycombinator.com/item?id=30487269"/>
-        <updated>2022-02-27T11:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Russia gives Ukraine deadline for decision on talks in Belarus]]></summary>
-        <author>
-            <name>maury91</name>
-            <uri>https://news.ycombinator.com/user?id=maury91</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國承諾為國防開支提供1000億歐元]]></title>
-        <id>https://news.ycombinator.com/item?id=30487351</id>
-        <link href="https://news.ycombinator.com/item?id=30487351"/>
-        <updated>2022-02-27T11:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Germany commits €100B to defense spending]]></summary>
-        <author>
-            <name>pythux</name>
-            <uri>https://news.ycombinator.com/user?id=pythux</uri>
         </author>
     </entry>
 </feed>
