@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T17:31:54.870Z</updated>
+    <updated>2022-03-05T17:39:23.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新世纪。Rust中的GPU加速的开源MIDI可视化游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30569329</id>
+        <link href="https://news.ycombinator.com/item?id=30569329"/>
+        <updated>2022-03-05T17:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Neothesia: GPU-accelerated open-source MIDI visualization game in Rust]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京称西方制裁类似于宣战]]></title>
+        <id>https://news.ycombinator.com/item?id=30569297</id>
+        <link href="https://news.ycombinator.com/item?id=30569297"/>
+        <updated>2022-03-05T17:05:09.000Z</updated>
+        <summary type="html"><![CDATA[Putin says Western sanctions are akin to declaration of war]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[构建一个没有框架的网络应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30568699</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>classichasclass</name>
             <uri>https://news.ycombinator.com/user?id=classichasclass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记录2022年俄罗斯入侵乌克兰期间的设备损失]]></title>
-        <id>https://news.ycombinator.com/item?id=30490658</id>
-        <link href="https://news.ycombinator.com/item?id=30490658"/>
-        <updated>2022-02-27T17:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Documenting Equipment Losses During the 2022 Russian Invasion of Ukraine]]></summary>
-        <author>
-            <name>jacquesm</name>
-            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你为什么不为你的副业收钱？]]></title>
-        <id>https://news.ycombinator.com/item?id=30490637</id>
-        <link href="https://news.ycombinator.com/item?id=30490637"/>
-        <updated>2022-02-27T17:50:33.000Z</updated>
-        <summary type="html"><![CDATA[Why aren't you charging money for your side project?]]></summary>
-        <author>
-            <name>curious-mind</name>
-            <uri>https://news.ycombinator.com/user?id=curious-mind</uri>
         </author>
     </entry>
 </feed>
