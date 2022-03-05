@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T19:28:39.962Z</updated>
+    <updated>2022-03-05T19:37:59.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中国不是俄罗斯。台湾不是乌克兰]]></title>
+        <id>https://news.ycombinator.com/item?id=30570370</id>
+        <link href="https://news.ycombinator.com/item?id=30570370"/>
+        <updated>2022-03-05T18:30:03.000Z</updated>
+        <summary type="html"><![CDATA[China Is Not Russia. Taiwan Is Not Ukraine]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[碎石论坛--Ruby on Rails的一个引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30553620</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jstreebin</name>
             <uri>https://news.ycombinator.com/user?id=jstreebin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda增加对.NET 6的支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30491278</id>
-        <link href="https://news.ycombinator.com/item?id=30491278"/>
-        <updated>2022-02-27T18:50:25.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda adds supports for .NET 6]]></summary>
-        <author>
-            <name>binarynate</name>
-            <uri>https://news.ycombinator.com/user?id=binarynate</uri>
         </author>
     </entry>
 </feed>

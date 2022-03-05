@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 05 Mar 2022 19:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 19:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中国不是俄罗斯。台湾不是乌克兰]]></title>
+            <link>https://news.ycombinator.com/item?id=30570370</link>
+            <guid>https://news.ycombinator.com/item?id=30570370</guid>
+            <pubDate>Sat, 05 Mar 2022 18:30:03 GMT</pubDate>
+            <description><![CDATA[China Is Not Russia. Taiwan Is Not Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[碎石论坛--Ruby on Rails的一个引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30553620</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30492462</guid>
             <pubDate>Sun, 27 Feb 2022 21:01:20 GMT</pubDate>
             <description><![CDATA[EasyPost (YC S13) Is Hiring Remote]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AWS Lambda增加对.NET 6的支持]]></title>
-            <link>https://news.ycombinator.com/item?id=30491278</link>
-            <guid>https://news.ycombinator.com/item?id=30491278</guid>
-            <pubDate>Sun, 27 Feb 2022 18:50:25 GMT</pubDate>
-            <description><![CDATA[AWS Lambda adds supports for .NET 6]]></description>
         </item>
     </channel>
 </rss>
