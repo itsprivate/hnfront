@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T23:11:47.285Z</updated>
+    <updated>2022-03-05T23:31:58.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[昼夜节律与肌肉修复之间的新联系]]></title>
+        <id>https://news.ycombinator.com/item?id=30561781</id>
+        <link href="https://news.ycombinator.com/item?id=30561781"/>
+        <updated>2022-03-04T22:59:46.000Z</updated>
+        <summary type="html"><![CDATA[New connections between circadian rhythm and muscle repair]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[镜头设计表格的终极指南]]></title>
         <id>https://news.ycombinator.com/item?id=30571987</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>marcomoreno</name>
             <uri>https://news.ycombinator.com/user?id=marcomoreno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约翰霍普金斯大学策展人研究与爱伦-坡有关的音乐之谜]]></title>
-        <id>https://news.ycombinator.com/item?id=30483375</id>
-        <link href="https://news.ycombinator.com/item?id=30483375"/>
-        <updated>2022-02-26T23:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Johns Hopkins curators examine musical mystery linked to Edgar Allan Poe]]></summary>
-        <author>
-            <name>tintinnabula</name>
-            <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
         </author>
     </entry>
 </feed>
