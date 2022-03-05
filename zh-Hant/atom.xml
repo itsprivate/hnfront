@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T04:57:42.044Z</updated>
+    <updated>2022-03-05T05:30:20.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[檢查素數的正則表達式]]></title>
+        <id>https://news.ycombinator.com/item?id=30564287</id>
+        <link href="https://news.ycombinator.com/item?id=30564287"/>
+        <updated>2022-03-05T04:34:10.000Z</updated>
+        <summary type="html"><![CDATA[A regular expression to check for prime numbers]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[調製小組和技術。提高客戶保留率(2015)]]></title>
         <id>https://news.ycombinator.com/item?id=30546643</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rmind</name>
             <uri>https://news.ycombinator.com/user?id=rmind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星鏈傳輸成為空襲的信標]]></title>
-        <id>https://news.ycombinator.com/item?id=30486387</id>
-        <link href="https://news.ycombinator.com/item?id=30486387"/>
-        <updated>2022-02-27T08:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Starlink transmissions become beacons for airstrikes]]></summary>
-        <author>
-            <name>Sami_Lehtinen</name>
-            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
         </author>
     </entry>
 </feed>
