@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T02:02:26.866Z</updated>
+    <updated>2022-03-05T03:03:32.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從Procmail遷移到Sieve]]></title>
+        <id>https://news.ycombinator.com/item?id=30547838</id>
+        <link href="https://news.ycombinator.com/item?id=30547838"/>
+        <updated>2022-03-03T22:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Migrating from Procmail to Sieve]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為歐洲地區的人們更新WhatsApp隱私政策]]></title>
         <id>https://news.ycombinator.com/item?id=30562485</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>antonoo</name>
             <uri>https://news.ycombinator.com/user?id=antonoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite 3.38.0中新的JSON查詢操作符]]></title>
-        <id>https://news.ycombinator.com/item?id=30486052</id>
-        <link href="https://news.ycombinator.com/item?id=30486052"/>
-        <updated>2022-02-27T06:57:37.000Z</updated>
-        <summary type="html"><![CDATA[New JSON query operators in SQLite 3.38.0]]></summary>
-        <author>
-            <name>xtreak29</name>
-            <uri>https://news.ycombinator.com/user?id=xtreak29</uri>
         </author>
     </entry>
 </feed>
