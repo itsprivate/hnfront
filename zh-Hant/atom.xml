@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T22:31:54.565Z</updated>
+    <updated>2022-03-05T22:41:47.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不相信新的實驗室洩密事件的揭秘（有門檻的Substack）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30572290</id>
+        <link href="https://news.ycombinator.com/item?id=30572290"/>
+        <updated>2022-03-05T21:52:42.000Z</updated>
+        <summary type="html"><![CDATA[I’m not convinced by the new lab leak debunking (gated Substack)]]></summary>
+        <author>
+            <name>jeffmh</name>
+            <uri>https://news.ycombinator.com/user?id=jeffmh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[參數化查詢中的SQL注入]]></title>
+        <id>https://news.ycombinator.com/item?id=30571990</id>
+        <link href="https://news.ycombinator.com/item?id=30571990"/>
+        <updated>2022-03-05T21:18:49.000Z</updated>
+        <summary type="html"><![CDATA[SQL Injection in a Parameterized Query]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老舊但優秀的Mac應用程序有什麼問題？]]></title>
         <id>https://news.ycombinator.com/item?id=30552973</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超越獨立黑客]]></title>
-        <id>https://news.ycombinator.com/item?id=30489109</id>
-        <link href="https://news.ycombinator.com/item?id=30489109"/>
-        <updated>2022-02-27T15:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Beyond Indie Hacking]]></summary>
-        <author>
-            <name>thakobyan</name>
-            <uri>https://news.ycombinator.com/user?id=thakobyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longbet：到2027年，軟件將按秒計價/銷售。]]></title>
-        <id>https://news.ycombinator.com/item?id=30493348</id>
-        <link href="https://news.ycombinator.com/item?id=30493348"/>
-        <updated>2022-02-27T22:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Longbet: By 2027, software will be metered/sold by the second]]></summary>
-        <author>
-            <name>collegeburner</name>
-            <uri>https://news.ycombinator.com/user?id=collegeburner</uri>
         </author>
     </entry>
 </feed>
