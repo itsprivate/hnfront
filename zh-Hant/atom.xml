@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T14:29:48.513Z</updated>
+    <updated>2022-03-05T14:53:52.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們如何能修復維基百科？]]></title>
+        <id>https://news.ycombinator.com/item?id=30567593</id>
+        <link href="https://news.ycombinator.com/item?id=30567593"/>
+        <updated>2022-03-05T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How can we fix Wikipedia?]]></summary>
+        <author>
+            <name>actuator</name>
+            <uri>https://news.ycombinator.com/user?id=actuator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巫師們經常住在塔樓裡，有什麼功能上的原因嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30567749</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>baxtr</name>
             <uri>https://news.ycombinator.com/user?id=baxtr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什麼好的科學史書籍推薦嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30489142</id>
-        <link href="https://news.ycombinator.com/item?id=30489142"/>
-        <updated>2022-02-27T15:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any recommendation for a good History of Science book?]]></summary>
-        <author>
-            <name>mariedavid</name>
-            <uri>https://news.ycombinator.com/user?id=mariedavid</uri>
         </author>
     </entry>
 </feed>
