@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T16:15:44.386Z</updated>
+    <updated>2022-03-05T16:45:28.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小麦的价格]]></title>
+        <id>https://news.ycombinator.com/item?id=30568513</id>
+        <link href="https://news.ycombinator.com/item?id=30568513"/>
+        <updated>2022-03-05T15:51:20.000Z</updated>
+        <summary type="html"><![CDATA[The Price of Wheat]]></summary>
+        <author>
+            <name>baremetal</name>
+            <uri>https://news.ycombinator.com/user?id=baremetal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对于昆虫来说，亚马逊河的树冠包含了一个令人眼花缭乱的多元宇宙]]></title>
+        <id>https://news.ycombinator.com/item?id=30567763</id>
+        <link href="https://news.ycombinator.com/item?id=30567763"/>
+        <updated>2022-03-05T14:14:13.000Z</updated>
+        <summary type="html"><![CDATA[For insects, the Amazon’s canopy contains a dazzling multiverse]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯人正试图逃离普京的混乱局面]]></title>
         <id>https://news.ycombinator.com/item?id=30568557</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2月27日 - 原子能机构总干事关于乌克兰局势的声明]]></title>
-        <id>https://news.ycombinator.com/item?id=30490177</id>
-        <link href="https://news.ycombinator.com/item?id=30490177"/>
-        <updated>2022-02-27T17:00:58.000Z</updated>
-        <summary type="html"><![CDATA[February 27 – IAEA Director General Statement on Situation in Ukraine]]></summary>
-        <author>
-            <name>MikusR</name>
-            <uri>https://news.ycombinator.com/user?id=MikusR</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超快肌球蛋白的发现、其氨基酸序列和结构特征]]></title>
-        <id>https://news.ycombinator.com/item?id=30490174</id>
-        <link href="https://news.ycombinator.com/item?id=30490174"/>
-        <updated>2022-02-27T17:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Discovery of ultrafast myosin, its amino acid sequence, and structural features]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
