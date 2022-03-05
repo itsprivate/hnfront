@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T11:39:55.640Z</updated>
+    <updated>2022-03-05T11:52:43.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[QR Date - 里面的签名时间戳用于验证日期]]></title>
+        <id>https://news.ycombinator.com/item?id=30566037</id>
+        <link href="https://news.ycombinator.com/item?id=30566037"/>
+        <updated>2022-03-05T09:48:31.000Z</updated>
+        <summary type="html"><![CDATA[QR Date – signed timestamps inside for verifying dates]]></summary>
+        <author>
+            <name>JNRowe</name>
+            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在乌克兰街头鼓励 "战斗 "的弊端]]></title>
         <id>https://news.ycombinator.com/item?id=30566360</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dogma1138</name>
             <uri>https://news.ycombinator.com/user?id=dogma1138</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与核武器的亲密接触 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30488464</id>
-        <link href="https://news.ycombinator.com/item?id=30488464"/>
-        <updated>2022-02-27T13:57:23.000Z</updated>
-        <summary type="html"><![CDATA[Close Calls with Nuclear Weapons (2015)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
