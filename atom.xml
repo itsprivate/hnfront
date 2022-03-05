@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T22:53:02.395Z</updated>
+    <updated>2022-03-05T23:11:47.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[镜头设计表格的终极指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30571987</id>
+        <link href="https://news.ycombinator.com/item?id=30571987"/>
+        <updated>2022-03-05T21:18:32.000Z</updated>
+        <summary type="html"><![CDATA[The Ultimate Guide to Lens Design Forms]]></summary>
+        <author>
+            <name>alrex021</name>
+            <uri>https://news.ycombinator.com/user?id=alrex021</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[万事达卡暂停在俄罗斯的所有服务]]></title>
         <id>https://news.ycombinator.com/item?id=30572581</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tintinnabula</name>
             <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jwz: 机器人战犬正在猎杀移民]]></title>
-        <id>https://news.ycombinator.com/item?id=30492982</id>
-        <link href="https://news.ycombinator.com/item?id=30492982"/>
-        <updated>2022-02-27T21:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Jwz: Robot war dogs hunting migrants now]]></summary>
-        <author>
-            <name>jka</name>
-            <uri>https://news.ycombinator.com/user?id=jka</uri>
         </author>
     </entry>
 </feed>
