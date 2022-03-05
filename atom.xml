@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T12:16:59.684Z</updated>
+    <updated>2022-03-05T12:48:51.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你有多少个2FA令牌？]]></title>
+        <id>https://news.ycombinator.com/item?id=30566604</id>
+        <link href="https://news.ycombinator.com/item?id=30566604"/>
+        <updated>2022-03-05T11:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How many 2FA tokens do you have?]]></summary>
+        <author>
+            <name>edent</name>
+            <uri>https://news.ycombinator.com/user?id=edent</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atomic (YC S20)正在招聘高级软件工程师--全栈式的]]></title>
         <id>https://news.ycombinator.com/item?id=30566738</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>simonpure</name>
             <uri>https://news.ycombinator.com/user?id=simonpure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苏斯博士关于核军备和战争荒谬性的讽刺课]]></title>
-        <id>https://news.ycombinator.com/item?id=30488870</id>
-        <link href="https://news.ycombinator.com/item?id=30488870"/>
-        <updated>2022-02-27T14:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Seuss’ Satirical Lesson on Nuclear Armament and the Absurdity of War]]></summary>
-        <author>
-            <name>mcone</name>
-            <uri>https://news.ycombinator.com/user?id=mcone</uri>
         </author>
     </entry>
 </feed>
