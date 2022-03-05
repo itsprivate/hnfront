@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T19:37:59.517Z</updated>
+    <updated>2022-03-05T19:52:41.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mozilla修补了在野外使用的两个 "免费使用 "漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30570839</id>
+        <link href="https://news.ycombinator.com/item?id=30570839"/>
+        <updated>2022-03-05T19:12:55.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla patches two use-after-free vulnerabilities (ab)used in the wild]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国不是俄罗斯。台湾不是乌克兰]]></title>
         <id>https://news.ycombinator.com/item?id=30570370</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>domlaut</name>
             <uri>https://news.ycombinator.com/user?id=domlaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyPost (YC S13) 正在招聘远程人员]]></title>
-        <id>https://news.ycombinator.com/item?id=30492462</id>
-        <link href="https://news.ycombinator.com/item?id=30492462"/>
-        <updated>2022-02-27T21:01:20.000Z</updated>
-        <summary type="html"><![CDATA[EasyPost (YC S13) Is Hiring Remote]]></summary>
-        <author>
-            <name>jstreebin</name>
-            <uri>https://news.ycombinator.com/user?id=jstreebin</uri>
         </author>
     </entry>
 </feed>
