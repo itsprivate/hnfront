@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T05:30:20.894Z</updated>
+    <updated>2022-03-05T05:54:34.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[莫斯科宜家家居的最后一天]]></title>
+        <id>https://news.ycombinator.com/item?id=30562875</id>
+        <link href="https://news.ycombinator.com/item?id=30562875"/>
+        <updated>2022-03-05T01:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Last Day of IKEA in Moscow]]></summary>
+        <author>
+            <name>tkgally</name>
+            <uri>https://news.ycombinator.com/user?id=tkgally</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯封锁入侵乌克兰的消息，BBC恢复了短波广播]]></title>
+        <id>https://news.ycombinator.com/item?id=30553243</id>
+        <link href="https://news.ycombinator.com/item?id=30553243"/>
+        <updated>2022-03-04T11:20:38.000Z</updated>
+        <summary type="html"><![CDATA[BBC resurrects shortwave broadcasts as Russia blocks news of Ukraine invasion]]></summary>
+        <author>
+            <name>vanilla-almond</name>
+            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[检查素数的正则表达式]]></title>
         <id>https://news.ycombinator.com/item?id=30564287</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rosndo</name>
             <uri>https://news.ycombinator.com/user?id=rosndo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Plan 9中编写UTF-8程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30486708</id>
-        <link href="https://news.ycombinator.com/item?id=30486708"/>
-        <updated>2022-02-27T09:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Writing UTF-8 Programs in Plan 9]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过乌克兰银行直接支持乌克兰军队的账户]]></title>
-        <id>https://news.ycombinator.com/item?id=30486613</id>
-        <link href="https://news.ycombinator.com/item?id=30486613"/>
-        <updated>2022-02-27T09:13:25.000Z</updated>
-        <summary type="html"><![CDATA[Accounts to Support Ukrainian Army Directly via Bank of Ukraine]]></summary>
-        <author>
-            <name>rmind</name>
-            <uri>https://news.ycombinator.com/user?id=rmind</uri>
         </author>
     </entry>
 </feed>
