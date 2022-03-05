@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T19:11:41.529Z</updated>
+    <updated>2022-03-05T19:28:39.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[碎石论坛--Ruby on Rails的一个引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30553620</id>
+        <link href="https://news.ycombinator.com/item?id=30553620"/>
+        <updated>2022-03-04T12:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Thredded Forums – An engine for Ruby on Rails]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD现在比英特尔更有价值--有理由的]]></title>
         <id>https://news.ycombinator.com/item?id=30570165</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>binarynate</name>
             <uri>https://news.ycombinator.com/user?id=binarynate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惠普牺牲的黑暗秘密 (2009)]]></title>
-        <id>https://news.ycombinator.com/item?id=30486408</id>
-        <link href="https://news.ycombinator.com/item?id=30486408"/>
-        <updated>2022-02-27T08:22:51.000Z</updated>
-        <summary type="html"><![CDATA[The dark secrets of Whopper Sacrifice (2009)]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
