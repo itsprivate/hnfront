@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 05 Mar 2022 07:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 07:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鮑里斯-涅姆佐夫被暗殺]]></title>
+            <link>https://news.ycombinator.com/item?id=30565142</link>
+            <guid>https://news.ycombinator.com/item?id=30565142</guid>
+            <pubDate>Sat, 05 Mar 2022 07:08:05 GMT</pubDate>
+            <description><![CDATA[Assassination of Boris Nemtsov]]></description>
+        </item>
         <item>
             <title><![CDATA[Raycast（YC W20）正在招聘，以使工作無障礙（歐洲的遠程）。]]></title>
             <link>https://news.ycombinator.com/item?id=30565090</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30487351</guid>
             <pubDate>Sun, 27 Feb 2022 11:36:47 GMT</pubDate>
             <description><![CDATA[Germany commits €100B to defense spending]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Socat和Rot13規避深度包檢查]]></title>
-            <link>https://news.ycombinator.com/item?id=30487104</link>
-            <guid>https://news.ycombinator.com/item?id=30487104</guid>
-            <pubDate>Sun, 27 Feb 2022 10:50:06 GMT</pubDate>
-            <description><![CDATA[Circumventing Deep Packet Inspection with Socat and Rot13]]></description>
         </item>
     </channel>
 </rss>

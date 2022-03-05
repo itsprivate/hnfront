@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T07:14:42.437Z</updated>
+    <updated>2022-03-05T07:32:44.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鮑里斯-涅姆佐夫被暗殺]]></title>
+        <id>https://news.ycombinator.com/item?id=30565142</id>
+        <link href="https://news.ycombinator.com/item?id=30565142"/>
+        <updated>2022-03-05T07:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Assassination of Boris Nemtsov]]></summary>
+        <author>
+            <name>mkl95</name>
+            <uri>https://news.ycombinator.com/user?id=mkl95</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raycast（YC W20）正在招聘，以使工作無障礙（歐洲的遠程）。]]></title>
         <id>https://news.ycombinator.com/item?id=30565090</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pythux</name>
             <uri>https://news.ycombinator.com/user?id=pythux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Socat和Rot13規避深度包檢查]]></title>
-        <id>https://news.ycombinator.com/item?id=30487104</id>
-        <link href="https://news.ycombinator.com/item?id=30487104"/>
-        <updated>2022-02-27T10:50:06.000Z</updated>
-        <summary type="html"><![CDATA[Circumventing Deep Packet Inspection with Socat and Rot13]]></summary>
-        <author>
-            <name>jortr0n</name>
-            <uri>https://news.ycombinator.com/user?id=jortr0n</uri>
         </author>
     </entry>
 </feed>
