@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T03:03:32.085Z</updated>
+    <updated>2022-03-05T03:51:30.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[COBOL：一个1959年的想法和2022年的技术]]></title>
+        <id>https://news.ycombinator.com/item?id=30552656</id>
+        <link href="https://news.ycombinator.com/item?id=30552656"/>
+        <updated>2022-03-04T09:59:32.000Z</updated>
+        <summary type="html"><![CDATA[COBOL: A 1959 Idea and 2022 Technology]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从Procmail迁移到Sieve]]></title>
         <id>https://news.ycombinator.com/item?id=30547838</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ghoward</name>
             <uri>https://news.ycombinator.com/user?id=ghoward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Depict.ai (YC S20)正在招聘工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=30486194</id>
-        <link href="https://news.ycombinator.com/item?id=30486194"/>
-        <updated>2022-02-27T07:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Depict.ai (YC S20) Is Hiring Engineers]]></summary>
-        <author>
-            <name>antonoo</name>
-            <uri>https://news.ycombinator.com/user?id=antonoo</uri>
         </author>
     </entry>
 </feed>
