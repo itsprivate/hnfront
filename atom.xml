@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T07:54:37.328Z</updated>
+    <updated>2022-03-05T08:15:38.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[软件基础：可靠软件的数学基础]]></title>
+        <id>https://news.ycombinator.com/item?id=30553612</id>
+        <link href="https://news.ycombinator.com/item?id=30553612"/>
+        <updated>2022-03-04T12:12:46.000Z</updated>
+        <summary type="html"><![CDATA[The Software Foundations: mathematical underpinnings of reliable software]]></summary>
+        <author>
+            <name>hegzploit</name>
+            <uri>https://news.ycombinator.com/user?id=hegzploit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个在发货前检测Java和C/C++/Objective-C代码中错误的工具]]></title>
         <id>https://news.ycombinator.com/item?id=30565270</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DyslexicAtheist</name>
             <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰官方BTC钱包有200万美元，并在全球捐赠下不断增长]]></title>
-        <id>https://news.ycombinator.com/item?id=30487122</id>
-        <link href="https://news.ycombinator.com/item?id=30487122"/>
-        <updated>2022-02-27T10:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Official Ukrainian BTC wallet has $2M and is growing thanks to global donations]]></summary>
-        <author>
-            <name>devops000</name>
-            <uri>https://news.ycombinator.com/user?id=devops000</uri>
         </author>
     </entry>
 </feed>
