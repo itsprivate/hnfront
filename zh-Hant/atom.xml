@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-05T21:53:26.258Z</updated>
+    <updated>2022-03-05T22:14:31.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[揭開匿名作者的面紗。風格測量技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30571932</id>
+        <link href="https://news.ycombinator.com/item?id=30571932"/>
+        <updated>2022-03-05T21:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Unveiling the Anonymous Author: Stylometry Techniques]]></summary>
+        <author>
+            <name>crecker</name>
+            <uri>https://news.ycombinator.com/user?id=crecker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這怎麼會合法呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30572023</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hwayne</name>
             <uri>https://news.ycombinator.com/user?id=hwayne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國考慮延長核電站的壽命]]></title>
-        <id>https://news.ycombinator.com/item?id=30492770</id>
-        <link href="https://news.ycombinator.com/item?id=30492770"/>
-        <updated>2022-02-27T21:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Germany mulls extending nuclear plants' life-span]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
