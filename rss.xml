@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 03:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 03:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[科学家和工程师的数字信号处理指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30574389</link>
+            <guid>https://news.ycombinator.com/item?id=30574389</guid>
+            <pubDate>Sun, 06 Mar 2022 02:19:41 GMT</pubDate>
+            <description><![CDATA[The Scientist and Engineer's Guide to Digital Signal Processing]]></description>
+        </item>
         <item>
             <title><![CDATA[回顾我的第一个Shiny项目]]></title>
             <link>https://news.ycombinator.com/item?id=30566161</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30487333</guid>
             <pubDate>Sun, 27 Feb 2022 11:32:50 GMT</pubDate>
             <description><![CDATA[Tank Mouse: Wireless Amiga-inspired optical mouse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[卡尔曼过滤器。帮助小鸡过马路]]></title>
-            <link>https://news.ycombinator.com/item?id=30485962</link>
-            <guid>https://news.ycombinator.com/item?id=30485962</guid>
-            <pubDate>Sun, 27 Feb 2022 06:38:19 GMT</pubDate>
-            <description><![CDATA[The Kalman Filter. Helping Chickens Cross the Road]]></description>
         </item>
     </channel>
 </rss>

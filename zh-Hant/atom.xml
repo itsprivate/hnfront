@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T03:33:27.037Z</updated>
+    <updated>2022-03-06T03:42:25.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科學家和工程師的數字信號處理指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30574389</id>
+        <link href="https://news.ycombinator.com/item?id=30574389"/>
+        <updated>2022-03-06T02:19:41.000Z</updated>
+        <summary type="html"><![CDATA[The Scientist and Engineer's Guide to Digital Signal Processing]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回顧我的第一個Shiny項目]]></title>
         <id>https://news.ycombinator.com/item?id=30566161</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡爾曼過濾器。幫助小雞過馬路]]></title>
-        <id>https://news.ycombinator.com/item?id=30485962</id>
-        <link href="https://news.ycombinator.com/item?id=30485962"/>
-        <updated>2022-02-27T06:38:19.000Z</updated>
-        <summary type="html"><![CDATA[The Kalman Filter. Helping Chickens Cross the Road]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
         </author>
     </entry>
 </feed>
