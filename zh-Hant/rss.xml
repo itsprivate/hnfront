@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 20:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 20:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[異步Rust中的請求凝聚]]></title>
+            <link>https://news.ycombinator.com/item?id=30580797</link>
+            <guid>https://news.ycombinator.com/item?id=30580797</guid>
+            <pubDate>Sun, 06 Mar 2022 20:13:04 GMT</pubDate>
+            <description><![CDATA[Request Coalescing in Async Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[丹麥將於6月就加入歐盟防務公約舉行公投]]></title>
+            <link>https://news.ycombinator.com/item?id=30580573</link>
+            <guid>https://news.ycombinator.com/item?id=30580573</guid>
+            <pubDate>Sun, 06 Mar 2022 19:50:13 GMT</pubDate>
+            <description><![CDATA[Denmark Will Hold June Referendum on Joining EU’s Defense Pact]]></description>
+        </item>
+        <item>
+            <title><![CDATA[C++小抄]]></title>
+            <link>https://news.ycombinator.com/item?id=30579884</link>
+            <guid>https://news.ycombinator.com/item?id=30579884</guid>
+            <pubDate>Sun, 06 Mar 2022 18:41:19 GMT</pubDate>
+            <description><![CDATA[C++ Cheat Sheets]]></description>
+        </item>
         <item>
             <title><![CDATA[Windows Defender已經足夠了，如果你對它進行加固的話]]></title>
             <link>https://news.ycombinator.com/item?id=30580444</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30504022</guid>
             <pubDate>Mon, 28 Feb 2022 19:34:05 GMT</pubDate>
             <description><![CDATA[The surprising links between what you eat and how well you sleep]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尾部遞歸，但Modulo弊端]]></title>
-            <link>https://news.ycombinator.com/item?id=30497307</link>
-            <guid>https://news.ycombinator.com/item?id=30497307</guid>
-            <pubDate>Mon, 28 Feb 2022 07:31:10 GMT</pubDate>
-            <description><![CDATA[Tail Recursion, but Modulo Cons]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沒有用戶賬戶，是設計出來的]]></title>
-            <link>https://news.ycombinator.com/item?id=30503482</link>
-            <guid>https://news.ycombinator.com/item?id=30503482</guid>
-            <pubDate>Mon, 28 Feb 2022 18:51:59 GMT</pubDate>
-            <description><![CDATA[No User Accounts, by Design]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯 "很可能 "會拖欠債務]]></title>
-            <link>https://news.ycombinator.com/item?id=30503337</link>
-            <guid>https://news.ycombinator.com/item?id=30503337</guid>
-            <pubDate>Mon, 28 Feb 2022 18:40:35 GMT</pubDate>
-            <description><![CDATA[Russia 'Likely' to Default on Debts]]></description>
         </item>
     </channel>
 </rss>

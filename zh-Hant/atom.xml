@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T20:14:01.888Z</updated>
+    <updated>2022-03-06T20:41:37.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[異步Rust中的請求凝聚]]></title>
+        <id>https://news.ycombinator.com/item?id=30580797</id>
+        <link href="https://news.ycombinator.com/item?id=30580797"/>
+        <updated>2022-03-06T20:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Request Coalescing in Async Rust]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丹麥將於6月就加入歐盟防務公約舉行公投]]></title>
+        <id>https://news.ycombinator.com/item?id=30580573</id>
+        <link href="https://news.ycombinator.com/item?id=30580573"/>
+        <updated>2022-03-06T19:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Denmark Will Hold June Referendum on Joining EU’s Defense Pact]]></summary>
+        <author>
+            <name>mudro_zboris</name>
+            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++小抄]]></title>
+        <id>https://news.ycombinator.com/item?id=30579884</id>
+        <link href="https://news.ycombinator.com/item?id=30579884"/>
+        <updated>2022-03-06T18:41:19.000Z</updated>
+        <summary type="html"><![CDATA[C++ Cheat Sheets]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Defender已經足夠了，如果你對它進行加固的話]]></title>
         <id>https://news.ycombinator.com/item?id=30580444</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尾部遞歸，但Modulo弊端]]></title>
-        <id>https://news.ycombinator.com/item?id=30497307</id>
-        <link href="https://news.ycombinator.com/item?id=30497307"/>
-        <updated>2022-02-28T07:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Tail Recursion, but Modulo Cons]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有用戶賬戶，是設計出來的]]></title>
-        <id>https://news.ycombinator.com/item?id=30503482</id>
-        <link href="https://news.ycombinator.com/item?id=30503482"/>
-        <updated>2022-02-28T18:51:59.000Z</updated>
-        <summary type="html"><![CDATA[No User Accounts, by Design]]></summary>
-        <author>
-            <name>bnr</name>
-            <uri>https://news.ycombinator.com/user?id=bnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯 "很可能 "會拖欠債務]]></title>
-        <id>https://news.ycombinator.com/item?id=30503337</id>
-        <link href="https://news.ycombinator.com/item?id=30503337"/>
-        <updated>2022-02-28T18:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Russia 'Likely' to Default on Debts]]></summary>
-        <author>
-            <name>baybal2</name>
-            <uri>https://news.ycombinator.com/user?id=baybal2</uri>
         </author>
     </entry>
 </feed>
