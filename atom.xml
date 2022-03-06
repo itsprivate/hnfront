@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T15:15:44.714Z</updated>
+    <updated>2022-03-06T15:34:41.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德国考虑让核电站继续运行]]></title>
+        <id>https://news.ycombinator.com/item?id=30577948</id>
+        <link href="https://news.ycombinator.com/item?id=30577948"/>
+        <updated>2022-03-06T14:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Germany considers keeping nuclear power plants online]]></summary>
+        <author>
+            <name>nixass</name>
+            <uri>https://news.ycombinator.com/user?id=nixass</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有人会选择Haskell来开发应用程序？]]></title>
+        <id>https://news.ycombinator.com/item?id=30577911</id>
+        <link href="https://news.ycombinator.com/item?id=30577911"/>
+        <updated>2022-03-06T14:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why would anyone choose Haskell to develop applications?]]></summary>
+        <author>
+            <name>jamesdco</name>
+            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否将拉动和运行代码作为代码审查的一部分？]]></title>
         <id>https://news.ycombinator.com/item?id=30577735</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>borepop</name>
             <uri>https://news.ycombinator.com/user?id=borepop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我很普通，花了150英镑去尝试一家米其林星级餐厅。]]></title>
-        <id>https://news.ycombinator.com/item?id=30502098</id>
-        <link href="https://news.ycombinator.com/item?id=30502098"/>
-        <updated>2022-02-28T17:01:02.000Z</updated>
-        <summary type="html"><![CDATA[I'm common as muck and spent £150 to try a Michelin star restaurant]]></summary>
-        <author>
-            <name>NaOH</name>
-            <uri>https://news.ycombinator.com/user?id=NaOH</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padlet (YC W13)在旧金山招聘一名作家，为良好的教育建立软件]]></title>
-        <id>https://news.ycombinator.com/item?id=30502095</id>
-        <link href="https://news.ycombinator.com/item?id=30502095"/>
-        <updated>2022-02-28T17:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Padlet (YC W13) is hiring a writer in SF to build software for a good education]]></summary>
-        <author>
-            <name>coffeebite</name>
-            <uri>https://news.ycombinator.com/user?id=coffeebite</uri>
         </author>
     </entry>
 </feed>
