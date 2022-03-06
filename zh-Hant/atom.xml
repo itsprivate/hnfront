@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T07:51:53.640Z</updated>
+    <updated>2022-03-06T08:46:39.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我回復了一封贊助內容的電子郵件]]></title>
+        <id>https://news.ycombinator.com/item?id=30571022</id>
+        <link href="https://news.ycombinator.com/item?id=30571022"/>
+        <updated>2022-03-05T19:30:37.000Z</updated>
+        <summary type="html"><![CDATA[I replied to a sponsored content email]]></summary>
+        <author>
+            <name>0066cc</name>
+            <uri>https://news.ycombinator.com/user?id=0066cc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[向一個隨機的俄羅斯手機號碼發送一條關於烏克蘭的短信]]></title>
         <id>https://news.ycombinator.com/item?id=30575738</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MarcellusDrum</name>
             <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年1月5日Gov.uk的錯誤率增加]]></title>
-        <id>https://news.ycombinator.com/item?id=30498048</id>
-        <link href="https://news.ycombinator.com/item?id=30498048"/>
-        <updated>2022-02-28T09:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Increased error rate on Gov.uk on 5 January 2022]]></summary>
-        <author>
-            <name>open-source-ux</name>
-            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
         </author>
     </entry>
 </feed>
