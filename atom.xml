@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T18:55:55.190Z</updated>
+    <updated>2022-03-06T19:12:22.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在PostgreSQL中使用pg-osc的非阻塞和零停机时间ALTER语句]]></title>
+        <id>https://news.ycombinator.com/item?id=30579847</id>
+        <link href="https://news.ycombinator.com/item?id=30579847"/>
+        <updated>2022-03-06T18:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc]]></summary>
+        <author>
+            <name>postgresqlDB</name>
+            <uri>https://news.ycombinator.com/user?id=postgresqlDB</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[必要的C [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30566118</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arraypad</name>
             <uri>https://news.ycombinator.com/user?id=arraypad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国宇航局通向聚变能源的新捷径]]></title>
-        <id>https://news.ycombinator.com/item?id=30503111</id>
-        <link href="https://news.ycombinator.com/item?id=30503111"/>
-        <updated>2022-02-28T18:22:36.000Z</updated>
-        <summary type="html"><![CDATA[NASA’s New Shortcut to Fusion Power]]></summary>
-        <author>
-            <name>GordonS</name>
-            <uri>https://news.ycombinator.com/user?id=GordonS</uri>
         </author>
     </entry>
 </feed>

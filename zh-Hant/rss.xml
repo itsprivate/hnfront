@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 18:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 19:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在PostgreSQL中使用pg-osc的非阻塞和零停機時間ALTER語句]]></title>
+            <link>https://news.ycombinator.com/item?id=30579847</link>
+            <guid>https://news.ycombinator.com/item?id=30579847</guid>
+            <pubDate>Sun, 06 Mar 2022 18:37:19 GMT</pubDate>
+            <description><![CDATA[Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc]]></description>
+        </item>
         <item>
             <title><![CDATA[必要的C [pdf]]]></title>
             <link>https://news.ycombinator.com/item?id=30566118</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30503148</guid>
             <pubDate>Mon, 28 Feb 2022 18:25:10 GMT</pubDate>
             <description><![CDATA[How to take credit for someone else's work on GitHub]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國宇航局通向聚變能源的新捷徑]]></title>
-            <link>https://news.ycombinator.com/item?id=30503111</link>
-            <guid>https://news.ycombinator.com/item?id=30503111</guid>
-            <pubDate>Mon, 28 Feb 2022 18:22:36 GMT</pubDate>
-            <description><![CDATA[NASA’s New Shortcut to Fusion Power]]></description>
         </item>
     </channel>
 </rss>
