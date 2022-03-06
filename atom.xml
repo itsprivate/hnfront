@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T08:46:39.878Z</updated>
+    <updated>2022-03-06T09:31:19.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[结对编程的反模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30576109</id>
+        <link href="https://news.ycombinator.com/item?id=30576109"/>
+        <updated>2022-03-06T08:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Pair Programming Antipatterns]]></summary>
+        <author>
+            <name>_ttg</name>
+            <uri>https://news.ycombinator.com/user?id=_ttg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1美元的微控制器]]></title>
+        <id>https://news.ycombinator.com/item?id=30575434</id>
+        <link href="https://news.ycombinator.com/item?id=30575434"/>
+        <updated>2022-03-06T06:09:44.000Z</updated>
+        <summary type="html"><![CDATA[$1 Microcontrollers]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我回复了一封赞助内容的电子邮件]]></title>
         <id>https://news.ycombinator.com/item?id=30571022</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>going_ham</name>
             <uri>https://news.ycombinator.com/user?id=going_ham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django Garnett - Django的简单多语言模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30498290</id>
-        <link href="https://news.ycombinator.com/item?id=30498290"/>
-        <updated>2022-02-28T10:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Django Garnett – simple multilingual models for Django]]></summary>
-        <author>
-            <name>legostormtroopr</name>
-            <uri>https://news.ycombinator.com/user?id=legostormtroopr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoppscotch: Postman的开源替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30498072</id>
-        <link href="https://news.ycombinator.com/item?id=30498072"/>
-        <updated>2022-02-28T09:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Hoppscotch: Open-Source Alternative to Postman]]></summary>
-        <author>
-            <name>MarcellusDrum</name>
-            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
         </author>
     </entry>
 </feed>

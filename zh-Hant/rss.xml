@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 08:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 09:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[結對編程的反模式]]></title>
+            <link>https://news.ycombinator.com/item?id=30576109</link>
+            <guid>https://news.ycombinator.com/item?id=30576109</guid>
+            <pubDate>Sun, 06 Mar 2022 08:55:51 GMT</pubDate>
+            <description><![CDATA[Pair Programming Antipatterns]]></description>
+        </item>
+        <item>
+            <title><![CDATA[1美元的微控制器]]></title>
+            <link>https://news.ycombinator.com/item?id=30575434</link>
+            <guid>https://news.ycombinator.com/item?id=30575434</guid>
+            <pubDate>Sun, 06 Mar 2022 06:09:44 GMT</pubDate>
+            <description><![CDATA[$1 Microcontrollers]]></description>
+        </item>
         <item>
             <title><![CDATA[我回復了一封贊助內容的電子郵件]]></title>
             <link>https://news.ycombinator.com/item?id=30571022</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30498897</guid>
             <pubDate>Mon, 28 Feb 2022 11:57:05 GMT</pubDate>
             <description><![CDATA[Tell HN: Thank you for the noprocrast flag]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Django Garnett - Django的簡單多語言模型]]></title>
-            <link>https://news.ycombinator.com/item?id=30498290</link>
-            <guid>https://news.ycombinator.com/item?id=30498290</guid>
-            <pubDate>Mon, 28 Feb 2022 10:12:39 GMT</pubDate>
-            <description><![CDATA[Django Garnett – simple multilingual models for Django]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hoppscotch: Postman的開源替代品]]></title>
-            <link>https://news.ycombinator.com/item?id=30498072</link>
-            <guid>https://news.ycombinator.com/item?id=30498072</guid>
-            <pubDate>Mon, 28 Feb 2022 09:38:36 GMT</pubDate>
-            <description><![CDATA[Hoppscotch: Open-Source Alternative to Postman]]></description>
         </item>
     </channel>
 </rss>
