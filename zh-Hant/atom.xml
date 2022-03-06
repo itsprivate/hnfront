@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T22:42:19.796Z</updated>
+    <updated>2022-03-06T22:54:49.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現代法西斯主義看起來像]]></title>
+        <id>https://news.ycombinator.com/item?id=30581300</id>
+        <link href="https://news.ycombinator.com/item?id=30581300"/>
+        <updated>2022-03-06T21:11:15.000Z</updated>
+        <summary type="html"><![CDATA[Modern Fascism Looks Like]]></summary>
+        <author>
+            <name>ajuc</name>
+            <uri>https://news.ycombinator.com/user?id=ajuc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CockroachDB：彈性的地理分佈式SQL數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30565223</id>
+        <link href="https://news.ycombinator.com/item?id=30565223"/>
+        <updated>2022-03-05T07:20:38.000Z</updated>
+        <summary type="html"><![CDATA[CockroachDB: The Resilient Geo-Distributed SQL Database]]></summary>
+        <author>
+            <name>mastabadtomm</name>
+            <uri>https://news.ycombinator.com/user?id=mastabadtomm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘇聯控制室的復古之美]]></title>
         <id>https://news.ycombinator.com/item?id=30581867</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>crystalchase21</name>
             <uri>https://news.ycombinator.com/user?id=crystalchase21</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSH生產力技巧]]></title>
-        <id>https://news.ycombinator.com/item?id=30505583</id>
-        <link href="https://news.ycombinator.com/item?id=30505583"/>
-        <updated>2022-02-28T21:46:58.000Z</updated>
-        <summary type="html"><![CDATA[SSH Productivity Tips]]></summary>
-        <author>
-            <name>xy2_</name>
-            <uri>https://news.ycombinator.com/user?id=xy2_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用AWS S3在預算範圍內進行容器註冊]]></title>
-        <id>https://news.ycombinator.com/item?id=30505471</id>
-        <link href="https://news.ycombinator.com/item?id=30505471"/>
-        <updated>2022-02-28T21:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Container registry on a budget using AWS S3]]></summary>
-        <author>
-            <name>mborch</name>
-            <uri>https://news.ycombinator.com/user?id=mborch</uri>
         </author>
     </entry>
 </feed>
