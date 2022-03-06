@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T18:38:29.557Z</updated>
+    <updated>2022-03-06T18:55:55.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[必要的C [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30566118</id>
+        <link href="https://news.ycombinator.com/item?id=30566118"/>
+        <updated>2022-03-05T10:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Essential C [pdf]]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼UberEats上有一個TikTok跟蹤像素，這是什麼垃圾？]]></title>
         <id>https://news.ycombinator.com/item?id=30579320</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>GordonS</name>
             <uri>https://news.ycombinator.com/user?id=GordonS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太陽能系統提供了一條廉價海水淡化的途徑]]></title>
-        <id>https://news.ycombinator.com/item?id=30503013</id>
-        <link href="https://news.ycombinator.com/item?id=30503013"/>
-        <updated>2022-02-28T18:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Solar-powered system offers a route to inexpensive desalination]]></summary>
-        <author>
-            <name>Glench</name>
-            <uri>https://news.ycombinator.com/user?id=Glench</uri>
         </author>
     </entry>
 </feed>
