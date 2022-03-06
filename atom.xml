@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T03:13:18.798Z</updated>
+    <updated>2022-03-06T03:33:26.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[回顾我的第一个Shiny项目]]></title>
+        <id>https://news.ycombinator.com/item?id=30566161</id>
+        <link href="https://news.ycombinator.com/item?id=30566161"/>
+        <updated>2022-03-05T10:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Reviewing my first Shiny project]]></summary>
+        <author>
+            <name>kweinert</name>
+            <uri>https://news.ycombinator.com/user?id=kweinert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国家安全局网络基础设施安全指南 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30573749</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舒适的未来主义]]></title>
-        <id>https://news.ycombinator.com/item?id=30479462</id>
-        <link href="https://news.ycombinator.com/item?id=30479462"/>
-        <updated>2022-02-26T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Cozy Futurism]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
