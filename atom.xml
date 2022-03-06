@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T15:43:50.244Z</updated>
+    <updated>2022-03-06T16:17:06.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为你的终端和 JavaScript 项目提供 ASCII 卡通字符]]></title>
+        <id>https://news.ycombinator.com/item?id=30578260</id>
+        <link href="https://news.ycombinator.com/item?id=30578260"/>
+        <updated>2022-03-06T15:41:43.000Z</updated>
+        <summary type="html"><![CDATA[ASCII Cartoon characters for your terminal and JavaScript projects]]></summary>
+        <author>
+            <name>Curios_homosep</name>
+            <uri>https://news.ycombinator.com/user?id=Curios_homosep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莫斯科警察拦下人们，要求他们的手机阅读他们的信息]]></title>
         <id>https://news.ycombinator.com/item?id=30578125</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>endorphine</name>
             <uri>https://news.ycombinator.com/user?id=endorphine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Windows使用反斜线作为路径分隔符？(2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30500552</id>
-        <link href="https://news.ycombinator.com/item?id=30500552"/>
-        <updated>2022-02-28T15:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Why Does Windows Use Backslash as Path Separator? (2019)]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
         </author>
     </entry>
 </feed>
