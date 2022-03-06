@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 05:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 06:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[波函數在檢測時不會坍縮？]]></title>
+            <link>https://news.ycombinator.com/item?id=30567066</link>
+            <guid>https://news.ycombinator.com/item?id=30567066</guid>
+            <pubDate>Sat, 05 Mar 2022 12:46:50 GMT</pubDate>
+            <description><![CDATA[A wave function does not collapse upon detection?]]></description>
+        </item>
         <item>
             <title><![CDATA[燈光]]></title>
             <link>https://news.ycombinator.com/item?id=30575184</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30496322</guid>
             <pubDate>Mon, 28 Feb 2022 04:09:38 GMT</pubDate>
             <description><![CDATA[TorchRec, a library for modern production recommendation systems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從零開始的Linux]]></title>
-            <link>https://news.ycombinator.com/item?id=30496018</link>
-            <guid>https://news.ycombinator.com/item?id=30496018</guid>
-            <pubDate>Mon, 28 Feb 2022 03:23:58 GMT</pubDate>
-            <description><![CDATA[Linux from Scratch]]></description>
         </item>
     </channel>
 </rss>
