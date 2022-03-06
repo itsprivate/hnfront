@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 04:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 05:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Stellarium天文学软件]]></title>
+            <link>https://news.ycombinator.com/item?id=30574809</link>
+            <guid>https://news.ycombinator.com/item?id=30574809</guid>
+            <pubDate>Sun, 06 Mar 2022 03:36:22 GMT</pubDate>
+            <description><![CDATA[Stellarium Astronomy Software]]></description>
+        </item>
         <item>
             <title><![CDATA[彰显身份]]></title>
             <link>https://news.ycombinator.com/item?id=30572141</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30488979</guid>
             <pubDate>Sun, 27 Feb 2022 14:55:24 GMT</pubDate>
             <description><![CDATA[Using Zig as cross-platform C toolchain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[红宝石光纤调度器]]></title>
-            <link>https://news.ycombinator.com/item?id=30488227</link>
-            <guid>https://news.ycombinator.com/item?id=30488227</guid>
-            <pubDate>Sun, 27 Feb 2022 13:30:36 GMT</pubDate>
-            <description><![CDATA[Ruby Fiber Scheduler]]></description>
         </item>
     </channel>
 </rss>
