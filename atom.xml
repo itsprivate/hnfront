@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T19:12:22.168Z</updated>
+    <updated>2022-03-06T19:27:59.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州法案将禁止地点名称中的 "squaw"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30579036</id>
+        <link href="https://news.ycombinator.com/item?id=30579036"/>
+        <updated>2022-03-06T17:12:45.000Z</updated>
+        <summary type="html"><![CDATA[California bill would ban 'squaw' in location names]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在PostgreSQL中使用pg-osc的非阻塞和零停机时间ALTER语句]]></title>
         <id>https://news.ycombinator.com/item?id=30579847</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>justinberding</name>
             <uri>https://news.ycombinator.com/user?id=justinberding</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在GitHub上为别人的工作邀功？]]></title>
-        <id>https://news.ycombinator.com/item?id=30503148</id>
-        <link href="https://news.ycombinator.com/item?id=30503148"/>
-        <updated>2022-02-28T18:25:10.000Z</updated>
-        <summary type="html"><![CDATA[How to take credit for someone else's work on GitHub]]></summary>
-        <author>
-            <name>arraypad</name>
-            <uri>https://news.ycombinator.com/user?id=arraypad</uri>
         </author>
     </entry>
 </feed>
