@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T09:31:19.321Z</updated>
+    <updated>2022-03-06T09:51:25.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过CAPTCHA检索你的浏览历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30569396</id>
+        <link href="https://news.ycombinator.com/item?id=30569396"/>
+        <updated>2022-03-05T17:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Retrieving your browsing history through a CAPTCHA]]></summary>
+        <author>
+            <name>varun_ch</name>
+            <uri>https://news.ycombinator.com/user?id=varun_ch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[结对编程的反模式]]></title>
         <id>https://news.ycombinator.com/item?id=30576109</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>miduil</name>
             <uri>https://news.ycombinator.com/user?id=miduil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：感谢你的noprocrast旗帜]]></title>
-        <id>https://news.ycombinator.com/item?id=30498897</id>
-        <link href="https://news.ycombinator.com/item?id=30498897"/>
-        <updated>2022-02-28T11:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Thank you for the noprocrast flag]]></summary>
-        <author>
-            <name>going_ham</name>
-            <uri>https://news.ycombinator.com/user?id=going_ham</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 09:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 09:51:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通过CAPTCHA检索你的浏览历史]]></title>
+            <link>https://news.ycombinator.com/item?id=30569396</link>
+            <guid>https://news.ycombinator.com/item?id=30569396</guid>
+            <pubDate>Sat, 05 Mar 2022 17:12:39 GMT</pubDate>
+            <description><![CDATA[Retrieving your browsing history through a CAPTCHA]]></description>
+        </item>
         <item>
             <title><![CDATA[结对编程的反模式]]></title>
             <link>https://news.ycombinator.com/item?id=30576109</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30498924</guid>
             <pubDate>Mon, 28 Feb 2022 11:59:49 GMT</pubDate>
             <description><![CDATA[Briar has been removed from Google Play]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：感谢你的noprocrast旗帜]]></title>
-            <link>https://news.ycombinator.com/item?id=30498897</link>
-            <guid>https://news.ycombinator.com/item?id=30498897</guid>
-            <pubDate>Mon, 28 Feb 2022 11:57:05 GMT</pubDate>
-            <description><![CDATA[Tell HN: Thank you for the noprocrast flag]]></description>
         </item>
     </channel>
 </rss>
