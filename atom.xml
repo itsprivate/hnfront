@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T07:36:12.130Z</updated>
+    <updated>2022-03-06T07:51:53.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[向一个随机的俄罗斯手机号码发送一条关于乌克兰的短信]]></title>
+        <id>https://news.ycombinator.com/item?id=30575738</id>
+        <link href="https://news.ycombinator.com/item?id=30575738"/>
+        <updated>2022-03-06T07:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Send a text message about Ukraine to a random Russian mobile number]]></summary>
+        <author>
+            <name>kuba-orlik</name>
+            <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乔治-奥威尔的民族主义笔记]]></title>
+        <id>https://news.ycombinator.com/item?id=30575455</id>
+        <link href="https://news.ycombinator.com/item?id=30575455"/>
+        <updated>2022-03-06T06:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Notes on Nationalism by George Orwell]]></summary>
+        <author>
+            <name>rramadass</name>
+            <uri>https://news.ycombinator.com/user?id=rramadass</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[向财富500强、政府和其他爱因斯坦式的恐怖销售]]></title>
+        <id>https://news.ycombinator.com/item?id=30575427</id>
+        <link href="https://news.ycombinator.com/item?id=30575427"/>
+        <updated>2022-03-06T06:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Selling to the Fortune 500, Government, and Other Lovecraftian Horrors]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机器人从复活节岛的摩艾雕像中获得一些灵感]]></title>
+        <id>https://news.ycombinator.com/item?id=30567012</id>
+        <link href="https://news.ycombinator.com/item?id=30567012"/>
+        <updated>2022-03-05T12:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Robots Get Some Inspiration from the Moai Statues of Easter Island]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高清晰度广播]]></title>
         <id>https://news.ycombinator.com/item?id=30575374</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>open-source-ux</name>
             <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驾驶单引擎安东诺夫安-2飞机在大西洋上空飞行]]></title>
-        <id>https://news.ycombinator.com/item?id=30497973</id>
-        <link href="https://news.ycombinator.com/item?id=30497973"/>
-        <updated>2022-02-28T09:22:41.000Z</updated>
-        <summary type="html"><![CDATA[Flying a single-engine Antonov An-2 over the Atlantic Ocean]]></summary>
-        <author>
-            <name>foehrenwald</name>
-            <uri>https://news.ycombinator.com/user?id=foehrenwald</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际标准日期和时间符号的摘要（2004）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30497856</id>
-        <link href="https://news.ycombinator.com/item?id=30497856"/>
-        <updated>2022-02-28T09:02:50.000Z</updated>
-        <summary type="html"><![CDATA[A summary of the international standard date and time notation (2004)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当你从SWE转变为SWE-管理时，你应该阅读的书籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30497703</id>
-        <link href="https://news.ycombinator.com/item?id=30497703"/>
-        <updated>2022-02-28T08:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Books you should read when you transform from SWE into SWE-Management]]></summary>
-        <author>
-            <name>DDerTyp</name>
-            <uri>https://news.ycombinator.com/user?id=DDerTyp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想发布首款基于Arm的ThinkPad]]></title>
-        <id>https://news.ycombinator.com/item?id=30497616</id>
-        <link href="https://news.ycombinator.com/item?id=30497616"/>
-        <updated>2022-02-28T08:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Lenovo announces the first Arm-based ThinkPad]]></summary>
-        <author>
-            <name>gripfx</name>
-            <uri>https://news.ycombinator.com/user?id=gripfx</uri>
         </author>
     </entry>
 </feed>
