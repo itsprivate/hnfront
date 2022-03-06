@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T23:15:26.453Z</updated>
+    <updated>2022-03-06T23:33:05.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的蜥蜴大腦比不上無限的滾動]]></title>
+        <id>https://news.ycombinator.com/item?id=30582202</id>
+        <link href="https://news.ycombinator.com/item?id=30582202"/>
+        <updated>2022-03-06T23:09:06.000Z</updated>
+        <summary type="html"><![CDATA[My lizard brain is no match for infinite scroll]]></summary>
+        <author>
+            <name>otras</name>
+            <uri>https://news.ycombinator.com/user?id=otras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個移動優先的Prolog編輯器]]></title>
         <id>https://news.ycombinator.com/item?id=30582052</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>frxx</name>
             <uri>https://news.ycombinator.com/user?id=frxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namecheap: 俄羅斯服務終止]]></title>
-        <id>https://news.ycombinator.com/item?id=30504812</id>
-        <link href="https://news.ycombinator.com/item?id=30504812"/>
-        <updated>2022-02-28T20:38:16.000Z</updated>
-        <summary type="html"><![CDATA[Namecheap: Russia Service Termination]]></summary>
-        <author>
-            <name>exizt88</name>
-            <uri>https://news.ycombinator.com/user?id=exizt88</uri>
         </author>
     </entry>
 </feed>
