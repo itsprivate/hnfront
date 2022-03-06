@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 16:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 16:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[消除二氧化碳可能會帶來相當大的後果]]></title>
+            <link>https://news.ycombinator.com/item?id=30578620</link>
+            <guid>https://news.ycombinator.com/item?id=30578620</guid>
+            <pubDate>Sun, 06 Mar 2022 16:24:52 GMT</pubDate>
+            <description><![CDATA[Considerable consequences could come with CO2 removal]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥的N個古代壁畫描繪了一個 "沒有時間的時間"]]></title>
+            <link>https://news.ycombinator.com/item?id=30575155</link>
+            <guid>https://news.ycombinator.com/item?id=30575155</guid>
+            <pubDate>Sun, 06 Mar 2022 04:59:02 GMT</pubDate>
+            <description><![CDATA[N Ancient Frieze in Mexico Depicts a “Time Without Time”]]></description>
+        </item>
         <item>
             <title><![CDATA[為你的終端和 JavaScript 項目提供 ASCII 卡通字符]]></title>
             <link>https://news.ycombinator.com/item?id=30578260</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30502480</guid>
             <pubDate>Mon, 28 Feb 2022 17:32:03 GMT</pubDate>
             <description><![CDATA[Show HN: I Created a Chrome Extension for PG: TRAB (Tweet Reporter and Blocker)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fork()是邪惡的；vfork()是善良的；afork()會更好；clone()是愚蠢的。]]></title>
-            <link>https://news.ycombinator.com/item?id=30502392</link>
-            <guid>https://news.ycombinator.com/item?id=30502392</guid>
-            <pubDate>Mon, 28 Feb 2022 17:25:58 GMT</pubDate>
-            <description><![CDATA[Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼不能從非async函數中使用await？]]></title>
-            <link>https://news.ycombinator.com/item?id=30502067</link>
-            <guid>https://news.ycombinator.com/item?id=30502067</guid>
-            <pubDate>Mon, 28 Feb 2022 16:57:48 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why can't await be used from non-async functions?]]></description>
         </item>
     </channel>
 </rss>
