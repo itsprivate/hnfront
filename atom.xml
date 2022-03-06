@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T19:53:17.396Z</updated>
+    <updated>2022-03-06T20:14:01.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows Defender已经足够了，如果你对它进行加固的话]]></title>
+        <id>https://news.ycombinator.com/item?id=30580444</id>
+        <link href="https://news.ycombinator.com/item?id=30580444"/>
+        <updated>2022-03-06T19:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Windows Defender is enough, if you harden it]]></summary>
+        <author>
+            <name>h0ek</name>
+            <uri>https://news.ycombinator.com/user?id=h0ek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汇编语言编程的艺术 (1996)]]></title>
         <id>https://news.ycombinator.com/item?id=30575920</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>baybal2</name>
             <uri>https://news.ycombinator.com/user?id=baybal2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要求招聘信息包括工资的法案在华盛顿州参议院获得通过]]></title>
-        <id>https://news.ycombinator.com/item?id=30503532</id>
-        <link href="https://news.ycombinator.com/item?id=30503532"/>
-        <updated>2022-02-28T18:56:27.000Z</updated>
-        <summary type="html"><![CDATA[Bill to require job postings to include salaries passes Washington Senate]]></summary>
-        <author>
-            <name>caust1c</name>
-            <uri>https://news.ycombinator.com/user?id=caust1c</uri>
         </author>
     </entry>
 </feed>
