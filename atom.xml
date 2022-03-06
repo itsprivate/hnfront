@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T22:54:49.661Z</updated>
+    <updated>2022-03-06T23:15:26.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个移动优先的Prolog编辑器]]></title>
+        <id>https://news.ycombinator.com/item?id=30582052</id>
+        <link href="https://news.ycombinator.com/item?id=30582052"/>
+        <updated>2022-03-06T22:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a mobile-first Prolog editor]]></summary>
+        <author>
+            <name>fallat</name>
+            <uri>https://news.ycombinator.com/user?id=fallat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现代法西斯主义看起来像]]></title>
         <id>https://news.ycombinator.com/item?id=30581300</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>exizt88</name>
             <uri>https://news.ycombinator.com/user?id=exizt88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在家里用化肥种植水晶]]></title>
-        <id>https://news.ycombinator.com/item?id=30487511</id>
-        <link href="https://news.ycombinator.com/item?id=30487511"/>
-        <updated>2022-02-27T12:00:08.000Z</updated>
-        <summary type="html"><![CDATA[How to grow crystals at home with fertilizer]]></summary>
-        <author>
-            <name>crystalchase21</name>
-            <uri>https://news.ycombinator.com/user?id=crystalchase21</uri>
         </author>
     </entry>
 </feed>
