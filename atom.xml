@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T12:49:57.909Z</updated>
+    <updated>2022-03-06T13:33:48.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[假冒Yubikeys的风险是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30577162</id>
+        <link href="https://news.ycombinator.com/item?id=30577162"/>
+        <updated>2022-03-06T12:36:27.000Z</updated>
+        <summary type="html"><![CDATA[What's the Risk from Fake Yubikeys?]]></summary>
+        <author>
+            <name>edent</name>
+            <uri>https://news.ycombinator.com/user?id=edent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于终止ENOG的请求]]></title>
+        <id>https://news.ycombinator.com/item?id=30576179</id>
+        <link href="https://news.ycombinator.com/item?id=30576179"/>
+        <updated>2022-03-06T09:13:08.000Z</updated>
+        <summary type="html"><![CDATA[A Request to Terminate ENOG]]></summary>
+        <author>
+            <name>greyface-</name>
+            <uri>https://news.ycombinator.com/user?id=greyface-</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岩纸剪子游戏中的非赫米特拓扑学]]></title>
         <id>https://news.ycombinator.com/item?id=30576980</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lastofthemojito</name>
             <uri>https://news.ycombinator.com/user?id=lastofthemojito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疑似网络攻击后丰田暂停国内工厂运营]]></title>
-        <id>https://news.ycombinator.com/item?id=30500753</id>
-        <link href="https://news.ycombinator.com/item?id=30500753"/>
-        <updated>2022-02-28T15:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Toyota suspends domestic factory operations after suspected cyber attack]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剁洋葱的模型。就地取材的重要性]]></title>
-        <id>https://news.ycombinator.com/item?id=30500221</id>
-        <link href="https://news.ycombinator.com/item?id=30500221"/>
-        <updated>2022-02-28T14:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Modeling Chopping Onions: The Importance of Mise En Place]]></summary>
-        <author>
-            <name>jwithington</name>
-            <uri>https://news.ycombinator.com/user?id=jwithington</uri>
         </author>
     </entry>
 </feed>
