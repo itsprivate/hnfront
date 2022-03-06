@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T07:31:25.411Z</updated>
+    <updated>2022-03-06T07:36:12.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高清晰度廣播]]></title>
+        <id>https://news.ycombinator.com/item?id=30575374</id>
+        <link href="https://news.ycombinator.com/item?id=30575374"/>
+        <updated>2022-03-06T05:57:16.000Z</updated>
+        <summary type="html"><![CDATA[High Definition Radio]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[懷特赫斯特博士和聯邦調查局實驗室的醜聞]]></title>
         <id>https://news.ycombinator.com/item?id=30575527</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gripfx</name>
             <uri>https://news.ycombinator.com/user?id=gripfx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯央行確認阻止外國競標出售俄羅斯證券]]></title>
-        <id>https://news.ycombinator.com/item?id=30497420</id>
-        <link href="https://news.ycombinator.com/item?id=30497420"/>
-        <updated>2022-02-28T07:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Russian central bank confirms block on foreign bids to sell Russian securities]]></summary>
-        <author>
-            <name>BbzzbB</name>
-            <uri>https://news.ycombinator.com/user?id=BbzzbB</uri>
         </author>
     </entry>
 </feed>
