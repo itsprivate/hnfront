@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T05:51:58.621Z</updated>
+    <updated>2022-03-07T06:15:33.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[非官方但全面的LoongArch常见问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30576653</id>
+        <link href="https://news.ycombinator.com/item?id=30576653"/>
+        <updated>2022-03-06T11:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Unofficial yet comprehensive FAQ for LoongArch]]></summary>
+        <author>
+            <name>matthews2</name>
+            <uri>https://news.ycombinator.com/user?id=matthews2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡塔尔的手机应用对每个访客进行定位监控]]></title>
         <id>https://news.ycombinator.com/item?id=30584165</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>henning</name>
             <uri>https://news.ycombinator.com/user?id=henning</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么你不做创造性的工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30499649</id>
-        <link href="https://news.ycombinator.com/item?id=30499649"/>
-        <updated>2022-02-28T13:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Why you’re not doing creative work]]></summary>
-        <author>
-            <name>dshipper</name>
-            <uri>https://news.ycombinator.com/user?id=dshipper</uri>
         </author>
     </entry>
 </feed>
