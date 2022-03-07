@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T15:56:43.759Z</updated>
+    <updated>2022-03-07T16:17:09.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ntfs2btrfs：将NTFS文件系统就地转换为Btrfs]]></title>
+        <id>https://news.ycombinator.com/item?id=30588696</id>
+        <link href="https://news.ycombinator.com/item?id=30588696"/>
+        <updated>2022-03-07T15:11:46.000Z</updated>
+        <summary type="html"><![CDATA[ntfs2btrfs: In-place conversion of NTFS filesystem to Btrfs]]></summary>
+        <author>
+            <name>andrew-ld</name>
+            <uri>https://news.ycombinator.com/user?id=andrew-ld</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么越来越多的环保人士想去核电？]]></title>
+        <id>https://news.ycombinator.com/item?id=30587567</id>
+        <link href="https://news.ycombinator.com/item?id=30587567"/>
+        <updated>2022-03-07T13:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Why More and More Environmentalists Want to Go Nuclear]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在没有旗帜的情况下看到排名靠前的HN故事？]]></title>
         <id>https://news.ycombinator.com/item?id=30588163</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可能不需要OAuth2 / OpenID连接]]></title>
-        <id>https://news.ycombinator.com/item?id=30514560</id>
-        <link href="https://news.ycombinator.com/item?id=30514560"/>
-        <updated>2022-03-01T14:32:00.000Z</updated>
-        <summary type="html"><![CDATA[You probably don't need OAuth2 / OpenID Connect]]></summary>
-        <author>
-            <name>claystraw</name>
-            <uri>https://news.ycombinator.com/user?id=claystraw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥利维蒂Programma 101]]></title>
-        <id>https://news.ycombinator.com/item?id=30508047</id>
-        <link href="https://news.ycombinator.com/item?id=30508047"/>
-        <updated>2022-03-01T01:35:44.000Z</updated>
-        <summary type="html"><![CDATA[The Olivetti Programma 101]]></summary>
-        <author>
-            <name>michaelpinto</name>
-            <uri>https://news.ycombinator.com/user?id=michaelpinto</uri>
         </author>
     </entry>
 </feed>
