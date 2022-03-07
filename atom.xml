@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T21:18:28.927Z</updated>
+    <updated>2022-03-07T21:31:25.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从JSON、TOML、YAML、XML和CSV文件中选择、放置和删除数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30592987</id>
+        <link href="https://news.ycombinator.com/item?id=30592987"/>
+        <updated>2022-03-07T20:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Select, put and delete data from JSON, TOML, YAML, XML and CSV files]]></summary>
+        <author>
+            <name>wyuenho</name>
+            <uri>https://news.ycombinator.com/user?id=wyuenho</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kodable正在招聘游戏开发人员，以帮助我们教孩子们编程]]></title>
         <id>https://news.ycombinator.com/item?id=30593267</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>apalom</name>
             <uri>https://news.ycombinator.com/user?id=apalom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["你是我的阳光"。一首忧伤的歌曲如何成为儿童的经典 (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=30508719</id>
-        <link href="https://news.ycombinator.com/item?id=30508719"/>
-        <updated>2022-03-01T02:46:48.000Z</updated>
-        <summary type="html"><![CDATA[“You Are My Sunshine”: How a maudlin song became a children's classic (2013)]]></summary>
-        <author>
-            <name>tintinnabula</name>
-            <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
         </author>
     </entry>
 </feed>
