@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T04:42:30.172Z</updated>
+    <updated>2022-03-07T04:57:16.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[看似相关但不相关的词 (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=30584008</id>
+        <link href="https://news.ycombinator.com/item?id=30584008"/>
+        <updated>2022-03-07T03:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Words that seem related but aren't (2015)]]></summary>
+        <author>
+            <name>unclefuzzy</name>
+            <uri>https://news.ycombinator.com/user?id=unclefuzzy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我认为你可以合理地将我们工程团队的7%归功于我。]]></title>
         <id>https://news.ycombinator.com/item?id=30584026</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>georgecmu</name>
             <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星手机在TrustZone加密关键材料的方式存在严重缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30509822</id>
-        <link href="https://news.ycombinator.com/item?id=30509822"/>
-        <updated>2022-03-01T04:58:51.000Z</updated>
-        <summary type="html"><![CDATA[Serious flaws in the way Samsung phones encrypt key material in TrustZone]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
