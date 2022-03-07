@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-06T23:51:36.041Z</updated>
+    <updated>2022-03-07T00:37:56.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ryven - 基于流程的Python可视化脚本]]></title>
+        <id>https://news.ycombinator.com/item?id=30580569</id>
+        <link href="https://news.ycombinator.com/item?id=30580569"/>
+        <updated>2022-03-06T19:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Ryven – Flow-based visual scripting for Python]]></summary>
+        <author>
+            <name>trueduke</name>
+            <uri>https://news.ycombinator.com/user?id=trueduke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分形插值]]></title>
         <id>https://news.ycombinator.com/item?id=30567284</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wiqar</name>
             <uri>https://news.ycombinator.com/user?id=wiqar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-Droid - 谷歌商店的替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30506413</id>
-        <link href="https://news.ycombinator.com/item?id=30506413"/>
-        <updated>2022-02-28T23:03:41.000Z</updated>
-        <summary type="html"><![CDATA[F-Droid – alternative to Google Play store]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
         </author>
     </entry>
 </feed>
