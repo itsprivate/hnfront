@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 07 Mar 2022 22:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 22:56:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[威胁形势的最新情况]]></title>
+            <link>https://news.ycombinator.com/item?id=30594042</link>
+            <guid>https://news.ycombinator.com/item?id=30594042</guid>
+            <pubDate>Mon, 07 Mar 2022 22:13:45 GMT</pubDate>
+            <description><![CDATA[An Update on the Threat Landscape]]></description>
+        </item>
         <item>
             <title><![CDATA[詹姆斯-索尔比的《英国矿物学》（1802-1817）。]]></title>
             <link>https://news.ycombinator.com/item?id=30582233</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30519934</guid>
             <pubDate>Tue, 01 Mar 2022 21:00:07 GMT</pubDate>
             <description><![CDATA[Nord Stream 2 declares bankruptcy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个模块化的Python TUI框架，具有快速和漂亮的标记语言]]></title>
-            <link>https://news.ycombinator.com/item?id=30517299</link>
-            <guid>https://news.ycombinator.com/item?id=30517299</guid>
-            <pubDate>Tue, 01 Mar 2022 17:46:23 GMT</pubDate>
-            <description><![CDATA[Show HN: A modular Python TUI framework with a fast and pretty markup language]]></description>
         </item>
     </channel>
 </rss>
