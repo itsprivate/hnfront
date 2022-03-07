@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T11:29:57.533Z</updated>
+    <updated>2022-03-07T12:18:18.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Remi实验室（YC W22）正在招聘为电子商务企业建立NFTs的人员]]></title>
+        <id>https://news.ycombinator.com/item?id=30586733</id>
+        <link href="https://news.ycombinator.com/item?id=30586733"/>
+        <updated>2022-03-07T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Remi Labs (YC W22) is hiring to build NFTs for ecom businesses]]></summary>
+        <author>
+            <name>garnett3</name>
+            <uri>https://news.ycombinator.com/user?id=garnett3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[响亮的战争]]></title>
         <id>https://news.ycombinator.com/item?id=30586226</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mrkurt</name>
             <uri>https://news.ycombinator.com/user?id=mrkurt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电子邮件通信中的隐私：我们应该默认使用加密技术]]></title>
-        <id>https://news.ycombinator.com/item?id=30512491</id>
-        <link href="https://news.ycombinator.com/item?id=30512491"/>
-        <updated>2022-03-01T10:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Privacy in email communication: we should use encryption by default]]></summary>
-        <author>
-            <name>nicfab</name>
-            <uri>https://news.ycombinator.com/user?id=nicfab</uri>
         </author>
     </entry>
 </feed>
