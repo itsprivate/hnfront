@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T03:37:01.521Z</updated>
+    <updated>2022-03-07T03:52:56.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用OpenGL的GPU介绍]]></title>
+        <id>https://news.ycombinator.com/item?id=30583905</id>
+        <link href="https://news.ycombinator.com/item?id=30583905"/>
+        <updated>2022-03-07T03:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to GPUs with OpenGL]]></summary>
+        <author>
+            <name>Seb-C</name>
+            <uri>https://news.ycombinator.com/user?id=Seb-C</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代硬件的算法]]></title>
+        <id>https://news.ycombinator.com/item?id=30583808</id>
+        <link href="https://news.ycombinator.com/item?id=30583808"/>
+        <updated>2022-03-07T03:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms for Modern Hardware]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逃离特权容器的乐趣]]></title>
+        <id>https://news.ycombinator.com/item?id=30576335</id>
+        <link href="https://news.ycombinator.com/item?id=30576335"/>
+        <updated>2022-03-06T09:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Escaping privileged containers for fun]]></summary>
+        <author>
+            <name>jordyzomer</name>
+            <uri>https://news.ycombinator.com/user?id=jordyzomer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据报道，亚马逊在Facebook私人群组中对其Flex司机进行调查]]></title>
+        <id>https://news.ycombinator.com/item?id=24352278</id>
+        <link href="https://news.ycombinator.com/item?id=24352278"/>
+        <updated>2020-09-02T11:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Amazon reportedly surveilling its Flex drivers in private Facebook groups]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[零卢比纸币]]></title>
         <id>https://news.ycombinator.com/item?id=30583720</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>ta988</name>
             <uri>https://news.ycombinator.com/user?id=ta988</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怀旧的MacPaint]]></title>
-        <id>https://news.ycombinator.com/item?id=30508508</id>
-        <link href="https://news.ycombinator.com/item?id=30508508"/>
-        <updated>2022-03-01T02:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Nostalgia MacPaint]]></summary>
-        <author>
-            <name>zakokor</name>
-            <uri>https://news.ycombinator.com/user?id=zakokor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["晚安月 "背后的激进女性]]></title>
-        <id>https://news.ycombinator.com/item?id=30499985</id>
-        <link href="https://news.ycombinator.com/item?id=30499985"/>
-        <updated>2022-02-28T14:13:54.000Z</updated>
-        <summary type="html"><![CDATA[The Radical Woman Behind “Goodnight Moon”]]></summary>
-        <author>
-            <name>mhb</name>
-            <uri>https://news.ycombinator.com/user?id=mhb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络开发者团结起来挑战苹果应用商店的浏览器规则]]></title>
-        <id>https://news.ycombinator.com/item?id=30507851</id>
-        <link href="https://news.ycombinator.com/item?id=30507851"/>
-        <updated>2022-03-01T01:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Web devs rally to challenge Apple App Store browser rules]]></summary>
-        <author>
-            <name>stack_framer</name>
-            <uri>https://news.ycombinator.com/user?id=stack_framer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国专利商标局裁定加州大学败诉，认为是Broad研究所发明了CRISPR]]></title>
-        <id>https://news.ycombinator.com/item?id=30507799</id>
-        <link href="https://news.ycombinator.com/item?id=30507799"/>
-        <updated>2022-03-01T01:12:00.000Z</updated>
-        <summary type="html"><![CDATA[US PTO rules against Univ of California, argues that Broad Inst invented CRISPR]]></summary>
-        <author>
-            <name>dluan</name>
-            <uri>https://news.ycombinator.com/user?id=dluan</uri>
         </author>
     </entry>
 </feed>
