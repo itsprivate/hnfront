@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T16:17:09.957Z</updated>
+    <updated>2022-03-07T16:56:37.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是如何克服完美主义的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30589374</id>
+        <link href="https://news.ycombinator.com/item?id=30589374"/>
+        <updated>2022-03-07T16:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How did you overcome perfectionism?]]></summary>
+        <author>
+            <name>Anand_S</name>
+            <uri>https://news.ycombinator.com/user?id=Anand_S</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDB中的并行分组聚合]]></title>
+        <id>https://news.ycombinator.com/item?id=30589250</id>
+        <link href="https://news.ycombinator.com/item?id=30589250"/>
+        <updated>2022-03-07T15:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Parallel Grouped Aggregation in DuckDB]]></summary>
+        <author>
+            <name>hfmuehleisen</name>
+            <uri>https://news.ycombinator.com/user?id=hfmuehleisen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云提供商的性能比较--Perl和更多]]></title>
+        <id>https://news.ycombinator.com/item?id=30588384</id>
+        <link href="https://news.ycombinator.com/item?id=30588384"/>
+        <updated>2022-03-07T14:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Provider Performance Comparison – Perl and More]]></summary>
+        <author>
+            <name>mfontani</name>
+            <uri>https://news.ycombinator.com/user?id=mfontani</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[竞争性汽车音响的秘密世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30551832</id>
+        <link href="https://news.ycombinator.com/item?id=30551832"/>
+        <updated>2022-03-04T07:46:19.000Z</updated>
+        <summary type="html"><![CDATA[The Secret World of Competitive Car Audio]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ntfs2btrfs：将NTFS文件系统就地转换为Btrfs]]></title>
         <id>https://news.ycombinator.com/item?id=30588696</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>amar-laksh</name>
             <uri>https://news.ycombinator.com/user?id=amar-laksh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱立信工人被绑架，当时电信公司派他们去与ISIS进行谈判]]></title>
-        <id>https://news.ycombinator.com/item?id=30514944</id>
-        <link href="https://news.ycombinator.com/item?id=30514944"/>
-        <updated>2022-03-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ericsson workers were kidnapped when telco sent them to negotiate with ISIS]]></summary>
-        <author>
-            <name>titoCA321</name>
-            <uri>https://news.ycombinator.com/user?id=titoCA321</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flow浏览器。Flow让HTML变得更快]]></title>
-        <id>https://news.ycombinator.com/item?id=30514757</id>
-        <link href="https://news.ycombinator.com/item?id=30514757"/>
-        <updated>2022-03-01T14:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Flow Browser: Flow makes HTML faster]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本对青苔的痴迷背后是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30513690</id>
-        <link href="https://news.ycombinator.com/item?id=30513690"/>
-        <updated>2022-03-01T13:15:15.000Z</updated>
-        <summary type="html"><![CDATA[What’s Behind Japan’s Moss Obsession]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工学院选择以太坊的PoS作为顶级的技术突破]]></title>
-        <id>https://news.ycombinator.com/item?id=30514114</id>
-        <link href="https://news.ycombinator.com/item?id=30514114"/>
-        <updated>2022-03-01T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[MIT Chose Ethereum’s PoS as Top Technological Breakthrough]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
