@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T06:15:33.187Z</updated>
+    <updated>2022-03-07T06:38:39.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[做到这一点 (2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=30584649</id>
+        <link href="https://news.ycombinator.com/item?id=30584649"/>
+        <updated>2022-03-07T06:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Do It (2004)]]></summary>
+        <author>
+            <name>kristianp</name>
+            <uri>https://news.ycombinator.com/user?id=kristianp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[非官方但全面的LoongArch常见问题]]></title>
         <id>https://news.ycombinator.com/item?id=30576653</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rendall</name>
             <uri>https://news.ycombinator.com/user?id=rendall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100行C语言中的BLAS级CPU性能]]></title>
-        <id>https://news.ycombinator.com/item?id=30509893</id>
-        <link href="https://news.ycombinator.com/item?id=30509893"/>
-        <updated>2022-03-01T05:09:45.000Z</updated>
-        <summary type="html"><![CDATA[BLAS-level CPU Performance in 100 Lines of C]]></summary>
-        <author>
-            <name>henning</name>
-            <uri>https://news.ycombinator.com/user?id=henning</uri>
         </author>
     </entry>
 </feed>

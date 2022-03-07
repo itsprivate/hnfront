@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[做到這一點 (2004)]]></title>
+            <link>https://news.ycombinator.com/item?id=30584649</link>
+            <guid>https://news.ycombinator.com/item?id=30584649</guid>
+            <pubDate>Mon, 07 Mar 2022 06:04:21 GMT</pubDate>
+            <description><![CDATA[Do It (2004)]]></description>
+        </item>
         <item>
             <title><![CDATA[非官方但全面的LoongArch常見問題]]></title>
             <link>https://news.ycombinator.com/item?id=30576653</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30509945</guid>
             <pubDate>Tue, 01 Mar 2022 05:17:33 GMT</pubDate>
             <description><![CDATA[Pokitto: Open-source pocket gaming console]]></description>
-        </item>
-        <item>
-            <title><![CDATA[100行C語言中的BLAS級CPU性能]]></title>
-            <link>https://news.ycombinator.com/item?id=30509893</link>
-            <guid>https://news.ycombinator.com/item?id=30509893</guid>
-            <pubDate>Tue, 01 Mar 2022 05:09:45 GMT</pubDate>
-            <description><![CDATA[BLAS-level CPU Performance in 100 Lines of C]]></description>
         </item>
     </channel>
 </rss>
