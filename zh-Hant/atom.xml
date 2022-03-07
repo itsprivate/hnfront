@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T17:38:34.395Z</updated>
+    <updated>2022-03-07T17:45:41.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FSB舉報人：這場戰爭將徹底失敗]]></title>
+        <id>https://news.ycombinator.com/item?id=30590246</id>
+        <link href="https://news.ycombinator.com/item?id=30590246"/>
+        <updated>2022-03-07T17:00:31.000Z</updated>
+        <summary type="html"><![CDATA[FSB whistleblower: This war will be a total failure]]></summary>
+        <author>
+            <name>bjoko</name>
+            <uri>https://news.ycombinator.com/user?id=bjoko</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聯邦安全局舉報人稱戰爭將徹底失敗]]></title>
+        <id>https://news.ycombinator.com/item?id=30589643</id>
+        <link href="https://news.ycombinator.com/item?id=30589643"/>
+        <updated>2022-03-07T16:21:32.000Z</updated>
+        <summary type="html"><![CDATA[War will be a total failure, FSB whistleblower says]]></summary>
+        <author>
+            <name>html5web</name>
+            <uri>https://news.ycombinator.com/user?id=html5web</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎樣才能減少對蟲子的愧疚感？]]></title>
         <id>https://news.ycombinator.com/item?id=30590045</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ogazitt</name>
             <uri>https://news.ycombinator.com/user?id=ogazitt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解更高層次的類型]]></title>
-        <id>https://news.ycombinator.com/item?id=30515286</id>
-        <link href="https://news.ycombinator.com/item?id=30515286"/>
-        <updated>2022-03-01T15:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Higher-Kinded Types]]></summary>
-        <author>
-            <name>dan-so</name>
-            <uri>https://news.ycombinator.com/user?id=dan-so</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDN網絡文件的重新設計]]></title>
-        <id>https://news.ycombinator.com/item?id=30515253</id>
-        <link href="https://news.ycombinator.com/item?id=30515253"/>
-        <updated>2022-03-01T15:24:12.000Z</updated>
-        <summary type="html"><![CDATA[MDN Web Docs Redesign]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
         </author>
     </entry>
 </feed>
