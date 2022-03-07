@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T03:20:38.696Z</updated>
+    <updated>2022-03-07T03:37:01.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[零盧比紙幣]]></title>
+        <id>https://news.ycombinator.com/item?id=30583720</id>
+        <link href="https://news.ycombinator.com/item?id=30583720"/>
+        <updated>2022-03-07T02:54:13.000Z</updated>
+        <summary type="html"><![CDATA[Zero Rupee Note]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有信心的二進制搜索]]></title>
         <id>https://news.ycombinator.com/item?id=30582168</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dluan</name>
             <uri>https://news.ycombinator.com/user?id=dluan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奧威爾為《動物農場》擬寫的序言]]></title>
-        <id>https://news.ycombinator.com/item?id=30506625</id>
-        <link href="https://news.ycombinator.com/item?id=30506625"/>
-        <updated>2022-02-28T23:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Orwell's Proposed Preface to ‘Animal Farm’]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
         </author>
     </entry>
 </feed>
