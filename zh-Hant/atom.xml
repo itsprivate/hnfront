@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T04:16:20.336Z</updated>
+    <updated>2022-03-07T04:42:30.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我認為你可以合理地將我們工程團隊的7%歸功於我。]]></title>
+        <id>https://news.ycombinator.com/item?id=30584026</id>
+        <link href="https://news.ycombinator.com/item?id=30584026"/>
+        <updated>2022-03-07T03:47:26.000Z</updated>
+        <summary type="html"><![CDATA[I think you can reasonably attribute ~7% of our engineering team to me]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析魚類新鮮度的電子舌 (2008) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=29048079</id>
+        <link href="https://news.ycombinator.com/item?id=29048079"/>
+        <updated>2021-10-30T11:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Electronic tongue to analyze fish freshness (2008) [pdf]]]></summary>
+        <author>
+            <name>antvo</name>
+            <uri>https://news.ycombinator.com/user?id=antvo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加利福尼亞野火煙霧在歐洲上空。氣溶膠觀測的第一個例子]]></title>
+        <id>https://news.ycombinator.com/item?id=26531943</id>
+        <link href="https://news.ycombinator.com/item?id=26531943"/>
+        <updated>2021-03-21T17:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從零開始的Linux--LFS和BLFS 11.1版已發佈]]></title>
         <id>https://news.ycombinator.com/item?id=30584043</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>caaqil</name>
             <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萬事達卡阻止來自俄羅斯的交易]]></title>
-        <id>https://news.ycombinator.com/item?id=30509184</id>
-        <link href="https://news.ycombinator.com/item?id=30509184"/>
-        <updated>2022-03-01T03:44:42.000Z</updated>
-        <summary type="html"><![CDATA[MasterCard Blocks Transactions from Russia]]></summary>
-        <author>
-            <name>iamnotarobotman</name>
-            <uri>https://news.ycombinator.com/user?id=iamnotarobotman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭政府給ICANN的電子郵件（要求關閉.ru根域名服務器）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30509567</id>
-        <link href="https://news.ycombinator.com/item?id=30509567"/>
-        <updated>2022-03-01T04:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Government email to ICANN (requesting shutdown of .ru root DNS servers)]]></summary>
-        <author>
-            <name>bruhboribhe</name>
-            <uri>https://news.ycombinator.com/user?id=bruhboribhe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運行面向隱私的操作系統的Degoogled手機--Degoogled手機]]></title>
-        <id>https://news.ycombinator.com/item?id=30508890</id>
-        <link href="https://news.ycombinator.com/item?id=30508890"/>
-        <updated>2022-03-01T03:08:38.000Z</updated>
-        <summary type="html"><![CDATA[Degoogled phones running privacy oriented OS – degoogled phone]]></summary>
-        <author>
-            <name>johndfsgdgdfg</name>
-            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
         </author>
     </entry>
 </feed>
