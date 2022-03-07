@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T17:10:21.798Z</updated>
+    <updated>2022-03-07T17:38:34.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我怎样才能减少对虫子的愧疚感？]]></title>
+        <id>https://news.ycombinator.com/item?id=30590045</id>
+        <link href="https://news.ycombinator.com/item?id=30590045"/>
+        <updated>2022-03-07T16:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do I feel less guilty about bugs?]]></summary>
+        <author>
+            <name>askhnthrow74</name>
+            <uri>https://news.ycombinator.com/user?id=askhnthrow74</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软Azure自动化服务中的严重跨账户漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30589845</id>
+        <link href="https://news.ycombinator.com/item?id=30589845"/>
+        <updated>2022-03-07T16:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Critical Cross-Account Vulnerability in Microsoft Azure Automation Service]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skio（Shopify的订阅）正在纽约市招聘创始工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30590250</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马铃薯农民用香蕉制成的纸征服了一种毁灭性的虫子]]></title>
-        <id>https://news.ycombinator.com/item?id=30515201</id>
-        <link href="https://news.ycombinator.com/item?id=30515201"/>
-        <updated>2022-03-01T15:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Potato farmers conquer a devastating worm–with paper made from bananas]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V正在获得成功]]></title>
-        <id>https://news.ycombinator.com/item?id=30515014</id>
-        <link href="https://news.ycombinator.com/item?id=30515014"/>
-        <updated>2022-03-01T15:05:23.000Z</updated>
-        <summary type="html"><![CDATA[RISC-V is succeeding]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
