@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-07T12:18:18.460Z</updated>
+    <updated>2022-03-07T12:55:10.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否應該為網絡戰爭 "徵兵"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30586963</id>
+        <link href="https://news.ycombinator.com/item?id=30586963"/>
+        <updated>2022-03-07T12:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should there be a “draft” for cyber war?]]></summary>
+        <author>
+            <name>asah</name>
+            <uri>https://news.ycombinator.com/user?id=asah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-0847：在Linux上覆蓋只讀文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30586740</id>
+        <link href="https://news.ycombinator.com/item?id=30586740"/>
+        <updated>2022-03-07T12:01:43.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-0847: overwriting read-only files on Linux]]></summary>
+        <author>
+            <name>max_k</name>
+            <uri>https://news.ycombinator.com/user?id=max_k</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心靈的社會]]></title>
+        <id>https://news.ycombinator.com/item?id=30586391</id>
+        <link href="https://news.ycombinator.com/item?id=30586391"/>
+        <updated>2022-03-07T11:11:22.000Z</updated>
+        <summary type="html"><![CDATA[The Society of Mind]]></summary>
+        <author>
+            <name>gjvc</name>
+            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remi實驗室（YC W22）正在招聘為電子商務企業建立NFTs的人員]]></title>
         <id>https://news.ycombinator.com/item?id=30586733</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>boa00</name>
             <uri>https://news.ycombinator.com/user?id=boa00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不需要JavaScript的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=30512512</id>
-        <link href="https://news.ycombinator.com/item?id=30512512"/>
-        <updated>2022-03-01T10:53:37.000Z</updated>
-        <summary type="html"><![CDATA[Things you don't need JavaScript for]]></summary>
-        <author>
-            <name>StevenWaterman</name>
-            <uri>https://news.ycombinator.com/user?id=StevenWaterman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剖析JWT]]></title>
-        <id>https://news.ycombinator.com/item?id=30499618</id>
-        <link href="https://news.ycombinator.com/item?id=30499618"/>
-        <updated>2022-02-28T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Anatomy of a JWT]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fly.io (YC W20)正在招聘Laravel專家]]></title>
-        <id>https://news.ycombinator.com/item?id=30513080</id>
-        <link href="https://news.ycombinator.com/item?id=30513080"/>
-        <updated>2022-03-01T12:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Fly.io (YC W20) Is Hiring Laravel Specialists]]></summary>
-        <author>
-            <name>mrkurt</name>
-            <uri>https://news.ycombinator.com/user?id=mrkurt</uri>
         </author>
     </entry>
 </feed>
