@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T04:16:24.533Z</updated>
+    <updated>2022-03-08T04:42:13.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Chrome的一個新的速度里程碑]]></title>
+        <id>https://news.ycombinator.com/item?id=30596161</id>
+        <link href="https://news.ycombinator.com/item?id=30596161"/>
+        <updated>2022-03-08T03:35:54.000Z</updated>
+        <summary type="html"><![CDATA[A new speed milestone for Chrome]]></summary>
+        <author>
+            <name>twapi</name>
+            <uri>https://news.ycombinator.com/user?id=twapi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在瀏覽器中交互式地編輯任何JPEG圖像的單個DCT塊]]></title>
+        <id>https://news.ycombinator.com/item?id=30595617</id>
+        <link href="https://news.ycombinator.com/item?id=30595617"/>
+        <updated>2022-03-08T01:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Interactively edit individual DCT blocks in any JPEG image in the browser]]></summary>
+        <author>
+            <name>tambourine_man</name>
+            <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pornhub和比特幣的價值]]></title>
         <id>https://news.ycombinator.com/item?id=30595966</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>evo_9</name>
             <uri>https://news.ycombinator.com/user?id=evo_9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布蘭登-桑德森的驚喜四部曲小說]]></title>
-        <id>https://news.ycombinator.com/item?id=30522654</id>
-        <link href="https://news.ycombinator.com/item?id=30522654"/>
-        <updated>2022-03-02T01:50:10.000Z</updated>
-        <summary type="html"><![CDATA[Surprise Four Secret Novels by Brandon Sanderson]]></summary>
-        <author>
-            <name>Jarlakxen</name>
-            <uri>https://news.ycombinator.com/user?id=Jarlakxen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Chrome上使用uBlock Origin，Gmail是否停止工作？]]></title>
-        <id>https://news.ycombinator.com/item?id=30522524</id>
-        <link href="https://news.ycombinator.com/item?id=30522524"/>
-        <updated>2022-03-02T01:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has Gmail stopped working for you with uBlock Origin on Chrome?]]></summary>
-        <author>
-            <name>drimphgol</name>
-            <uri>https://news.ycombinator.com/user?id=drimphgol</uri>
         </author>
     </entry>
 </feed>
