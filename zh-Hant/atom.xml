@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T13:39:14.101Z</updated>
+    <updated>2022-03-08T14:13:10.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Bigtable突破規模化的障礙]]></title>
+        <id>https://news.ycombinator.com/item?id=30599716</id>
+        <link href="https://news.ycombinator.com/item?id=30599716"/>
+        <updated>2022-03-08T13:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Breaking Through Scaling Barriers with Bigtable]]></summary>
+        <author>
+            <name>ntietz</name>
+            <uri>https://news.ycombinator.com/user?id=ntietz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌以7億美元購買並擴大其華沙辦事處]]></title>
+        <id>https://news.ycombinator.com/item?id=30599539</id>
+        <link href="https://news.ycombinator.com/item?id=30599539"/>
+        <updated>2022-03-08T13:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Google purchasing and expanding its Warsaw office for $700M]]></summary>
+        <author>
+            <name>pbalcer</name>
+            <uri>https://news.ycombinator.com/user?id=pbalcer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML註釋在JavaScript中也可以使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30599167</id>
+        <link href="https://news.ycombinator.com/item?id=30599167"/>
+        <updated>2022-03-08T12:31:31.000Z</updated>
+        <summary type="html"><![CDATA[HTML comments work in JavaScript too]]></summary>
+        <author>
+            <name>smitop</name>
+            <uri>https://news.ycombinator.com/user?id=smitop</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube兒童頻道清理了它的行為]]></title>
+        <id>https://news.ycombinator.com/item?id=30589674</id>
+        <link href="https://news.ycombinator.com/item?id=30589674"/>
+        <updated>2022-03-07T16:23:19.000Z</updated>
+        <summary type="html"><![CDATA[YouTube Kids cleaned up its act]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瞭解排隊最重要的事情(2016)]]></title>
         <id>https://news.ycombinator.com/item?id=30599442</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>yumiris</name>
             <uri>https://news.ycombinator.com/user?id=yumiris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腦電圖貓耳]]></title>
-        <id>https://news.ycombinator.com/item?id=30526065</id>
-        <link href="https://news.ycombinator.com/item?id=30526065"/>
-        <updated>2022-03-02T11:15:59.000Z</updated>
-        <summary type="html"><![CDATA[EEG Cat Ears]]></summary>
-        <author>
-            <name>searchableguy</name>
-            <uri>https://news.ycombinator.com/user?id=searchableguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不需要將繳獲的俄羅斯坦克、入侵者的其他設備作為收入申報]]></title>
-        <id>https://news.ycombinator.com/item?id=30525803</id>
-        <link href="https://news.ycombinator.com/item?id=30525803"/>
-        <updated>2022-03-02T10:26:13.000Z</updated>
-        <summary type="html"><![CDATA[No need to declare captured Russian tanks, other equipment of invaders as income]]></summary>
-        <author>
-            <name>occamschainsaw</name>
-            <uri>https://news.ycombinator.com/user?id=occamschainsaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你應該是你自己 (2004)]]></title>
-        <id>https://news.ycombinator.com/item?id=30520295</id>
-        <link href="https://news.ycombinator.com/item?id=30520295"/>
-        <updated>2022-03-01T21:32:24.000Z</updated>
-        <summary type="html"><![CDATA[You Shall Be What You Are (2004)]]></summary>
-        <author>
-            <name>silt</name>
-            <uri>https://news.ycombinator.com/user?id=silt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CXX-Qt：Qt的安全Rust綁定]]></title>
-        <id>https://news.ycombinator.com/item?id=30525752</id>
-        <link href="https://news.ycombinator.com/item?id=30525752"/>
-        <updated>2022-03-02T10:18:35.000Z</updated>
-        <summary type="html"><![CDATA[CXX-Qt: safe Rust bindings for Qt]]></summary>
-        <author>
-            <name>jcelerier</name>
-            <uri>https://news.ycombinator.com/user?id=jcelerier</uri>
         </author>
     </entry>
 </feed>
