@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T07:13:30.211Z</updated>
+    <updated>2022-03-08T07:31:10.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是我认识的最健康的人，而我却得了癌症]]></title>
+        <id>https://news.ycombinator.com/item?id=30597187</id>
+        <link href="https://news.ycombinator.com/item?id=30597187"/>
+        <updated>2022-03-08T07:00:04.000Z</updated>
+        <summary type="html"><![CDATA[I am the healthiest person I know, and I got cancer]]></summary>
+        <author>
+            <name>codetiger</name>
+            <uri>https://news.ycombinator.com/user?id=codetiger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制裁的历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30593668</id>
+        <link href="https://news.ycombinator.com/item?id=30593668"/>
+        <updated>2022-03-07T21:41:32.000Z</updated>
+        <summary type="html"><![CDATA[The History of Sanctions]]></summary>
+        <author>
+            <name>cacher</name>
+            <uri>https://news.ycombinator.com/user?id=cacher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wasmer (YC S19)正在招聘锈蚀工程师和工程经理。经理]]></title>
         <id>https://news.ycombinator.com/item?id=30597189</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>zacincceo</name>
             <uri>https://news.ycombinator.com/user?id=zacincceo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思想征兵 (1917)]]></title>
-        <id>https://news.ycombinator.com/item?id=30520268</id>
-        <link href="https://news.ycombinator.com/item?id=30520268"/>
-        <updated>2022-03-01T21:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Conscription of Thought (1917)]]></summary>
-        <author>
-            <name>you-bet</name>
-            <uri>https://news.ycombinator.com/user?id=you-bet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smalltalk中的功能编程模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30513940</id>
-        <link href="https://news.ycombinator.com/item?id=30513940"/>
-        <updated>2022-03-01T13:40:56.000Z</updated>
-        <summary type="html"><![CDATA[Functional programming patterns in Smalltalk]]></summary>
-        <author>
-            <name>mpweiher</name>
-            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
         </author>
     </entry>
 </feed>
