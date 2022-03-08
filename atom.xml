@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T21:56:32.993Z</updated>
+    <updated>2022-03-08T22:15:36.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[静态洪流网站，通过BitTorrent对200万条记录进行点对点查询]]></title>
+        <id>https://news.ycombinator.com/item?id=30605252</id>
+        <link href="https://news.ycombinator.com/item?id=30605252"/>
+        <updated>2022-03-08T19:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Static torrent website with peer-to-peer queries over BitTorrent on 2M records]]></summary>
+        <author>
+            <name>voigt</name>
+            <uri>https://news.ycombinator.com/user?id=voigt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[异型机器人的不寻常之处]]></title>
         <id>https://news.ycombinator.com/item?id=30599709</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anchpop</name>
             <uri>https://news.ycombinator.com/user?id=anchpop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substack正在招聘分析工程师，为写作构建未来]]></title>
-        <id>https://news.ycombinator.com/item?id=30533076</id>
-        <link href="https://news.ycombinator.com/item?id=30533076"/>
-        <updated>2022-03-02T21:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Substack is hiring Analytics Engineers to build the future for writing]]></summary>
-        <author>
-            <name>jairajs89</name>
-            <uri>https://news.ycombinator.com/user?id=jairajs89</uri>
         </author>
     </entry>
 </feed>
