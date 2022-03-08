@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T04:42:13.737Z</updated>
+    <updated>2022-03-08T05:29:11.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[就地合併算法使用高達O(n+m)的互換，沒有臨時互換空間]]></title>
+        <id>https://news.ycombinator.com/item?id=30586904</id>
+        <link href="https://news.ycombinator.com/item?id=30586904"/>
+        <updated>2022-03-07T12:22:31.000Z</updated>
+        <summary type="html"><![CDATA[In-place merge algorithm using up to O(n+m) swaps and no temp swap space]]></summary>
+        <author>
+            <name>gvelim</name>
+            <uri>https://news.ycombinator.com/user?id=gvelim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome的一個新的速度里程碑]]></title>
         <id>https://news.ycombinator.com/item?id=30596161</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Hooke</name>
             <uri>https://news.ycombinator.com/user?id=Hooke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宮崎駿認為死亡是一個特點，而不是一個缺點]]></title>
-        <id>https://news.ycombinator.com/item?id=30522706</id>
-        <link href="https://news.ycombinator.com/item?id=30522706"/>
-        <updated>2022-03-02T01:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Hidetaka Miyazaki Sees Death as a Feature, Not a Bug]]></summary>
-        <author>
-            <name>evo_9</name>
-            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
         </author>
     </entry>
 </feed>
