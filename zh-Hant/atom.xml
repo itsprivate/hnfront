@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T09:20:30.497Z</updated>
+    <updated>2022-03-08T09:42:52.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[下一代中微子望遠鏡KM3NeT]]></title>
+        <id>https://news.ycombinator.com/item?id=30597727</id>
+        <link href="https://news.ycombinator.com/item?id=30597727"/>
+        <updated>2022-03-08T08:18:43.000Z</updated>
+        <summary type="html"><![CDATA[KM3NeT the next generation neutrino telescopes]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[藝術的本質]]></title>
+        <id>https://news.ycombinator.com/item?id=30593688</id>
+        <link href="https://news.ycombinator.com/item?id=30593688"/>
+        <updated>2022-03-07T21:43:06.000Z</updated>
+        <summary type="html"><![CDATA[The Nature of Art]]></summary>
+        <author>
+            <name>breathenew</name>
+            <uri>https://news.ycombinator.com/user?id=breathenew</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[asciiMol: 用於Linux終端的基於Curses的ASCII分子查看器]]></title>
         <id>https://news.ycombinator.com/item?id=30597559</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mlabouardy</name>
             <uri>https://news.ycombinator.com/user?id=mlabouardy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過sh、Awk、日誌解析和cron完成的小型統計頁面展示]]></title>
-        <id>https://news.ycombinator.com/item?id=30524516</id>
-        <link href="https://news.ycombinator.com/item?id=30524516"/>
-        <updated>2022-03-02T06:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Small statistics page showcase done via sh, Awk, log parsing and cron]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創建一個bash完成腳本（2018）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30524440</id>
-        <link href="https://news.ycombinator.com/item?id=30524440"/>
-        <updated>2022-03-02T06:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Creating a bash completion script (2018)]]></summary>
-        <author>
-            <name>laz_arus</name>
-            <uri>https://news.ycombinator.com/user?id=laz_arus</uri>
         </author>
     </entry>
 </feed>
