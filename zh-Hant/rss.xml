@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 08 Mar 2022 15:55:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 16:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼某些網站的圖片在我放大後會變小？]]></title>
+            <link>https://news.ycombinator.com/item?id=30600480</link>
+            <guid>https://news.ycombinator.com/item?id=30600480</guid>
+            <pubDate>Tue, 08 Mar 2022 14:49:29 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why do certain websites' images get smaller when I zoom in?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[QuickJS JavaScript引擎]]></title>
+            <link>https://news.ycombinator.com/item?id=30598026</link>
+            <guid>https://news.ycombinator.com/item?id=30598026</guid>
+            <pubDate>Tue, 08 Mar 2022 09:10:06 GMT</pubDate>
+            <description><![CDATA[QuickJS JavaScript Engine]]></description>
+        </item>
         <item>
             <title><![CDATA[如果你會說俄語，請給俄羅斯打電話，告訴他們在烏克蘭發生了什麼。]]></title>
             <link>https://news.ycombinator.com/item?id=30600491</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30528463</guid>
             <pubDate>Wed, 02 Mar 2022 15:33:56 GMT</pubDate>
             <description><![CDATA[Launch HN: Evry Health (YC W18) – Better health insurance for companies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[軟件包維護者的安全問題]]></title>
-            <link>https://news.ycombinator.com/item?id=30523829</link>
-            <guid>https://news.ycombinator.com/item?id=30523829</guid>
-            <pubDate>Wed, 02 Mar 2022 04:42:01 GMT</pubDate>
-            <description><![CDATA[Security for Package Maintainers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Miniboss，用Python實現多功能的本地容器管理]]></title>
-            <link>https://news.ycombinator.com/item?id=30528167</link>
-            <guid>https://news.ycombinator.com/item?id=30528167</guid>
-            <pubDate>Wed, 02 Mar 2022 15:07:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Miniboss, versatile local container management with Python]]></description>
         </item>
     </channel>
 </rss>
