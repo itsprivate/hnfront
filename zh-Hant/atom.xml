@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T17:28:40.181Z</updated>
+    <updated>2022-03-08T17:42:54.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國正在陷入經濟衰退嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30602118</id>
+        <link href="https://news.ycombinator.com/item?id=30602118"/>
+        <updated>2022-03-08T16:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Is the U.S. Descending into Recession?]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客的飲食]]></title>
+        <id>https://news.ycombinator.com/item?id=30602102</id>
+        <link href="https://news.ycombinator.com/item?id=30602102"/>
+        <updated>2022-03-08T16:49:24.000Z</updated>
+        <summary type="html"><![CDATA[The Hacker's Diet]]></summary>
+        <author>
+            <name>Thursday24</name>
+            <uri>https://news.ycombinator.com/user?id=Thursday24</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基輔在2022年4月前落入俄軍之手的預測從90%下降到26%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30601767</id>
+        <link href="https://news.ycombinator.com/item?id=30601767"/>
+        <updated>2022-03-08T16:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Prediction that Kyiv falls to Russian forces by April 2022 goes from 90% to 26%]]></summary>
+        <author>
+            <name>torts</name>
+            <uri>https://news.ycombinator.com/user?id=torts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[華爾街博彩公司的最大交易損失]]></title>
         <id>https://news.ycombinator.com/item?id=30602114</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ghostoftiber</name>
             <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新技術從沙粒中揭開了地球的古老歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=30528536</id>
-        <link href="https://news.ycombinator.com/item?id=30528536"/>
-        <updated>2022-03-02T15:41:11.000Z</updated>
-        <summary type="html"><![CDATA[New technique unlocks ancient history of Earth from grains of sand]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯將把任何對其衛星的黑客攻擊視為戰爭的理由]]></title>
-        <id>https://news.ycombinator.com/item?id=30528644</id>
-        <link href="https://news.ycombinator.com/item?id=30528644"/>
-        <updated>2022-03-02T15:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Russia will treat any hacking of its satellites as a justification for war]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在支持單一二進制可執行包方面]]></title>
-        <id>https://news.ycombinator.com/item?id=30528602</id>
-        <link href="https://news.ycombinator.com/item?id=30528602"/>
-        <updated>2022-03-02T15:46:55.000Z</updated>
-        <summary type="html"><![CDATA[In support of single binary executable packages]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
