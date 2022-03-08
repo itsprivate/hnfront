@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T21:32:24.102Z</updated>
+    <updated>2022-03-08T21:56:32.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[异型机器人的不寻常之处]]></title>
+        <id>https://news.ycombinator.com/item?id=30599709</id>
+        <link href="https://news.ycombinator.com/item?id=30599709"/>
+        <updated>2022-03-08T13:38:58.000Z</updated>
+        <summary type="html"><![CDATA[The Uncanny Valley of Xenobots]]></summary>
+        <author>
+            <name>dnetesn</name>
+            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可口可乐公司暂停其在俄罗斯的业务]]></title>
         <id>https://news.ycombinator.com/item?id=30606773</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jairajs89</name>
             <uri>https://news.ycombinator.com/user?id=jairajs89</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巧克力的神学]]></title>
-        <id>https://news.ycombinator.com/item?id=30532427</id>
-        <link href="https://news.ycombinator.com/item?id=30532427"/>
-        <updated>2022-03-02T20:15:35.000Z</updated>
-        <summary type="html"><![CDATA[The Theology of Chocolate]]></summary>
-        <author>
-            <name>Thevet</name>
-            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
         </author>
     </entry>
 </feed>
