@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T21:15:07.841Z</updated>
+    <updated>2022-03-08T21:32:24.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可口可乐公司暂停其在俄罗斯的业务]]></title>
+        <id>https://news.ycombinator.com/item?id=30606773</id>
+        <link href="https://news.ycombinator.com/item?id=30606773"/>
+        <updated>2022-03-08T20:53:24.000Z</updated>
+        <summary type="html"><![CDATA[The Coca-Cola Company Suspends Its Business in Russia]]></summary>
+        <author>
+            <name>mudro_zboris</name>
+            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深度假货，你能发现它们吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30606263</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Thevet</name>
             <uri>https://news.ycombinator.com/user?id=Thevet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[注销的黄金船的鬼画符被从海床上挖出]]></title>
-        <id>https://news.ycombinator.com/item?id=30494562</id>
-        <link href="https://news.ycombinator.com/item?id=30494562"/>
-        <updated>2022-02-28T00:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Doomed ship of gold’s ghostly picture gallery is plucked from the seabed]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
         </author>
     </entry>
 </feed>
