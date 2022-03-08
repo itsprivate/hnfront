@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T03:35:48.043Z</updated>
+    <updated>2022-03-08T03:52:28.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C包管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30596005</id>
+        <link href="https://news.ycombinator.com/item?id=30596005"/>
+        <updated>2022-03-08T03:09:44.000Z</updated>
+        <summary type="html"><![CDATA[C Package Manager]]></summary>
+        <author>
+            <name>synergy20</name>
+            <uri>https://news.ycombinator.com/user?id=synergy20</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[命令行工具的速度比你的Hadoop集群快235倍]]></title>
         <id>https://news.ycombinator.com/item?id=30595026</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nunogt</name>
             <uri>https://news.ycombinator.com/user?id=nunogt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的Node_modules文件夾裡發生了什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30521913</id>
-        <link href="https://news.ycombinator.com/item?id=30521913"/>
-        <updated>2022-03-02T00:18:27.000Z</updated>
-        <summary type="html"><![CDATA[What's Going on Inside Your Node_modules Folder?]]></summary>
-        <author>
-            <name>swyx</name>
-            <uri>https://news.ycombinator.com/user?id=swyx</uri>
         </author>
     </entry>
 </feed>

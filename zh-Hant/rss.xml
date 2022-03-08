@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 08 Mar 2022 03:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 03:52:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[C包管理器]]></title>
+            <link>https://news.ycombinator.com/item?id=30596005</link>
+            <guid>https://news.ycombinator.com/item?id=30596005</guid>
+            <pubDate>Tue, 08 Mar 2022 03:09:44 GMT</pubDate>
+            <description><![CDATA[C Package Manager]]></description>
+        </item>
         <item>
             <title><![CDATA[命令行工具的速度比你的Hadoop集群快235倍]]></title>
             <link>https://news.ycombinator.com/item?id=30595026</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30522040</guid>
             <pubDate>Wed, 02 Mar 2022 00:34:42 GMT</pubDate>
             <description><![CDATA[Secure Messengers in War Time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的Node_modules文件夾裡發生了什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30521913</link>
-            <guid>https://news.ycombinator.com/item?id=30521913</guid>
-            <pubDate>Wed, 02 Mar 2022 00:18:27 GMT</pubDate>
-            <description><![CDATA[What's Going on Inside Your Node_modules Folder?]]></description>
         </item>
     </channel>
 </rss>
