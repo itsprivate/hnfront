@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 08 Mar 2022 19:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 19:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果公司发布全新的Mac Studio和Studio显示器]]></title>
+            <link>https://news.ycombinator.com/item?id=30604489</link>
+            <guid>https://news.ycombinator.com/item?id=30604489</guid>
+            <pubDate>Tue, 08 Mar 2022 19:01:09 GMT</pubDate>
+            <description><![CDATA[Apple unveils all-new Mac Studio and Studio Display]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司推出M1 Ultra，全球最强大的个人电脑芯片]]></title>
+            <link>https://news.ycombinator.com/item?id=30604470</link>
+            <guid>https://news.ycombinator.com/item?id=30604470</guid>
+            <pubDate>Tue, 08 Mar 2022 19:00:14 GMT</pubDate>
+            <description><![CDATA[Apple unveils M1 Ultra, the world’s most powerful chip for a personal computer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果Mac工作室]]></title>
+            <link>https://news.ycombinator.com/item?id=30604447</link>
+            <guid>https://news.ycombinator.com/item?id=30604447</guid>
+            <pubDate>Tue, 08 Mar 2022 18:59:05 GMT</pubDate>
+            <description><![CDATA[Apple Mac Studio]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果发布27英寸5K工作室显示器]]></title>
             <link>https://news.ycombinator.com/item?id=30604375</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30530376</guid>
             <pubDate>Wed, 02 Mar 2022 17:56:08 GMT</pubDate>
             <description><![CDATA[Show HN: I made a WebGL-based app that traces images using circles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西方有角兔的传说]]></title>
-            <link>https://news.ycombinator.com/item?id=30523989</link>
-            <guid>https://news.ycombinator.com/item?id=30523989</guid>
-            <pubDate>Wed, 02 Mar 2022 05:09:05 GMT</pubDate>
-            <description><![CDATA[The legend of the horned rabbit of the West]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WAPM - WebAssembly软件包管理器]]></title>
-            <link>https://news.ycombinator.com/item?id=30531621</link>
-            <guid>https://news.ycombinator.com/item?id=30531621</guid>
-            <pubDate>Wed, 02 Mar 2022 19:22:38 GMT</pubDate>
-            <description><![CDATA[Show HN: WAPM – WebAssembly Package Manager]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用反应式关系型数据库构建以数据为中心的应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30530120</link>
-            <guid>https://news.ycombinator.com/item?id=30530120</guid>
-            <pubDate>Wed, 02 Mar 2022 17:39:29 GMT</pubDate>
-            <description><![CDATA[Building data-centric apps with a reactive relational database]]></description>
         </item>
     </channel>
 </rss>

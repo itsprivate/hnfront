@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T19:13:43.482Z</updated>
+    <updated>2022-03-08T19:31:00.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司发布全新的Mac Studio和Studio显示器]]></title>
+        <id>https://news.ycombinator.com/item?id=30604489</id>
+        <link href="https://news.ycombinator.com/item?id=30604489"/>
+        <updated>2022-03-08T19:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Apple unveils all-new Mac Studio and Studio Display]]></summary>
+        <author>
+            <name>davidbarker</name>
+            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司推出M1 Ultra，全球最强大的个人电脑芯片]]></title>
+        <id>https://news.ycombinator.com/item?id=30604470</id>
+        <link href="https://news.ycombinator.com/item?id=30604470"/>
+        <updated>2022-03-08T19:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Apple unveils M1 Ultra, the world’s most powerful chip for a personal computer]]></summary>
+        <author>
+            <name>davidbarker</name>
+            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果Mac工作室]]></title>
+        <id>https://news.ycombinator.com/item?id=30604447</id>
+        <link href="https://news.ycombinator.com/item?id=30604447"/>
+        <updated>2022-03-08T18:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Apple Mac Studio]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果发布27英寸5K工作室显示器]]></title>
         <id>https://news.ycombinator.com/item?id=30604375</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>phqb</name>
             <uri>https://news.ycombinator.com/user?id=phqb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方有角兔的传说]]></title>
-        <id>https://news.ycombinator.com/item?id=30523989</id>
-        <link href="https://news.ycombinator.com/item?id=30523989"/>
-        <updated>2022-03-02T05:09:05.000Z</updated>
-        <summary type="html"><![CDATA[The legend of the horned rabbit of the West]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAPM - WebAssembly软件包管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30531621</id>
-        <link href="https://news.ycombinator.com/item?id=30531621"/>
-        <updated>2022-03-02T19:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WAPM – WebAssembly Package Manager]]></summary>
-        <author>
-            <name>syrusakbary</name>
-            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用反应式关系型数据库构建以数据为中心的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30530120</id>
-        <link href="https://news.ycombinator.com/item?id=30530120"/>
-        <updated>2022-03-02T17:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Building data-centric apps with a reactive relational database]]></summary>
-        <author>
-            <name>austinbirch</name>
-            <uri>https://news.ycombinator.com/user?id=austinbirch</uri>
         </author>
     </entry>
 </feed>
