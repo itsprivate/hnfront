@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 08 Mar 2022 08:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[asciiMol: 用于Linux终端的基于Curses的ASCII分子查看器]]></title>
+            <link>https://news.ycombinator.com/item?id=30597559</link>
+            <guid>https://news.ycombinator.com/item?id=30597559</guid>
+            <pubDate>Tue, 08 Mar 2022 07:56:16 GMT</pubDate>
+            <description><![CDATA[asciiMol: Curses based ASCII molecule viewer for Linux terminals]]></description>
+        </item>
         <item>
             <title><![CDATA[太阳能/电池是美国计划的新发电量的60%。]]></title>
             <link>https://news.ycombinator.com/item?id=30597672</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30524440</guid>
             <pubDate>Wed, 02 Mar 2022 06:35:06 GMT</pubDate>
             <description><![CDATA[Creating a bash completion script (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们对缓冲区内不受地点限制的工资的愿景]]></title>
-            <link>https://news.ycombinator.com/item?id=30523757</link>
-            <guid>https://news.ycombinator.com/item?id=30523757</guid>
-            <pubDate>Wed, 02 Mar 2022 04:30:49 GMT</pubDate>
-            <description><![CDATA[Our Vision for Location-Independent Salaries at Buffer]]></description>
         </item>
     </channel>
 </rss>
