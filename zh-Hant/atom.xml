@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T15:48:40.779Z</updated>
+    <updated>2022-03-08T15:55:49.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你會說俄語，請給俄羅斯打電話，告訴他們在烏克蘭發生了什麼。]]></title>
+        <id>https://news.ycombinator.com/item?id=30600491</id>
+        <link href="https://news.ycombinator.com/item?id=30600491"/>
+        <updated>2022-03-08T14:50:52.000Z</updated>
+        <summary type="html"><![CDATA[If you speak Russian, call Russia and tell them what is happening in Ukraine]]></summary>
+        <author>
+            <name>harscoat</name>
+            <uri>https://news.ycombinator.com/user?id=harscoat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普京的最終遊戲是推出國內的CBDC嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30600524</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>afroisalreadyin</name>
             <uri>https://news.ycombinator.com/user?id=afroisalreadyin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[單一文件：將一個完整的網頁保存為一個單一的HTML文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30527999</id>
-        <link href="https://news.ycombinator.com/item?id=30527999"/>
-        <updated>2022-03-02T14:55:17.000Z</updated>
-        <summary type="html"><![CDATA[SingleFile: Save a Complete Web Page into a Single HTML File]]></summary>
-        <author>
-            <name>crbelaus</name>
-            <uri>https://news.ycombinator.com/user?id=crbelaus</uri>
         </author>
     </entry>
 </feed>
