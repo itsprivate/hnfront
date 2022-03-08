@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-08T17:42:54.983Z</updated>
+    <updated>2022-03-08T17:54:13.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國生產的石油足以滿足其需求，那麼我們為什麼要進口原油？]]></title>
+        <id>https://news.ycombinator.com/item?id=30602060</id>
+        <link href="https://news.ycombinator.com/item?id=30602060"/>
+        <updated>2022-03-08T16:47:02.000Z</updated>
+        <summary type="html"><![CDATA[America Produces Enough Oil to Meet Its Needs, So Why Do We Import Crude?]]></summary>
+        <author>
+            <name>DocFeind</name>
+            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國正在陷入經濟衰退嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30602118</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Jack000</name>
             <uri>https://news.ycombinator.com/user?id=Jack000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對大家最喜歡的1995年微軟操作系統在Linux上的改編]]></title>
-        <id>https://news.ycombinator.com/item?id=30529163</id>
-        <link href="https://news.ycombinator.com/item?id=30529163"/>
-        <updated>2022-03-02T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[A rendition of everyone's favorite 1995 Microsoft operating system for Linux]]></summary>
-        <author>
-            <name>ghostoftiber</name>
-            <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
         </author>
     </entry>
 </feed>
