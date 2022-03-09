@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-09T11:32:28.590Z</updated>
+    <updated>2022-03-09T12:22:59.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[改進超聲探測（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30598835</id>
+        <link href="https://news.ycombinator.com/item?id=30598835"/>
+        <updated>2022-03-08T11:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Improving Infrasound Detection (2020)]]></summary>
+        <author>
+            <name>NotAWorkNick</name>
+            <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香蕉用的Tinder]]></title>
         <id>https://news.ycombinator.com/item?id=30608234</id>
@@ -123,6 +134,28 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes如何在引擎蓋下與Docker Desktop一起工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30599277</id>
+        <link href="https://news.ycombinator.com/item?id=30599277"/>
+        <updated>2022-03-08T12:46:11.000Z</updated>
+        <summary type="html"><![CDATA[How Kubernetes works under the hood with Docker Desktop]]></summary>
+        <author>
+            <name>mariuz</name>
+            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波蘭關於向烏克蘭提供飛機的聲明]]></title>
+        <id>https://news.ycombinator.com/item?id=30604374</id>
+        <link href="https://news.ycombinator.com/item?id=30604374"/>
+        <updated>2022-03-08T18:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Statement from Poland on providing airplanes to Ukraine]]></summary>
+        <author>
+            <name>ceejayoz</name>
+            <uri>https://news.ycombinator.com/user?id=ceejayoz</uri>
         </author>
     </entry>
     <entry>
@@ -6580,39 +6613,6 @@
         <author>
             <name>talltofu</name>
             <uri>https://news.ycombinator.com/user?id=talltofu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌規定工人從4月4日起返回硅谷和其他辦公室]]></title>
-        <id>https://news.ycombinator.com/item?id=30533540</id>
-        <link href="https://news.ycombinator.com/item?id=30533540"/>
-        <updated>2022-03-02T21:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Google mandates workers back to Silicon Valley, other offices from April 4]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核戰爭生存技能 (1987) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30533432</id>
-        <link href="https://news.ycombinator.com/item?id=30533432"/>
-        <updated>2022-03-02T21:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Nuclear War Survival Skills (1987) [pdf]]]></summary>
-        <author>
-            <name>baxtr</name>
-            <uri>https://news.ycombinator.com/user?id=baxtr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["偷看錶演 "蘋果活動定於週二舉行]]></title>
-        <id>https://news.ycombinator.com/item?id=30532974</id>
-        <link href="https://news.ycombinator.com/item?id=30532974"/>
-        <updated>2022-03-02T20:53:35.000Z</updated>
-        <summary type="html"><![CDATA[“Peek Performance” Apple Event Scheduled for Tuesday]]></summary>
-        <author>
-            <name>binarynate</name>
-            <uri>https://news.ycombinator.com/user?id=binarynate</uri>
         </author>
     </entry>
 </feed>
