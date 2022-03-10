@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-10T17:48:17.738Z</updated>
+    <updated>2022-03-10T18:16:19.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RSS的危害]]></title>
+        <id>https://news.ycombinator.com/item?id=30621295</id>
+        <link href="https://news.ycombinator.com/item?id=30621295"/>
+        <updated>2022-03-09T23:22:06.000Z</updated>
+        <summary type="html"><![CDATA[The Perils of RSS]]></summary>
+        <author>
+            <name>kn100</name>
+            <uri>https://news.ycombinator.com/user?id=kn100</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EasyPost (YC S13) 正在招聘遠程人員]]></title>
         <id>https://news.ycombinator.com/item?id=30492462</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwaway2048</name>
             <uri>https://news.ycombinator.com/user?id=throwaway2048</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傑夫-迪安的 "每個人都應該知道的延遲數字 "在1990-2020年是如何減少的]]></title>
-        <id>https://news.ycombinator.com/item?id=30546995</id>
-        <link href="https://news.ycombinator.com/item?id=30546995"/>
-        <updated>2022-03-03T21:06:40.000Z</updated>
-        <summary type="html"><![CDATA[How Jeff Dean's “Latency Numbers Everybody Should Know” decreased from 1990–2020]]></summary>
-        <author>
-            <name>isaacimagine</name>
-            <uri>https://news.ycombinator.com/user?id=isaacimagine</uri>
         </author>
     </entry>
 </feed>
