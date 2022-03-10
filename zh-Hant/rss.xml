@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 10 Mar 2022 18:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 19:54:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[貝爾維特鼠標。一個現代的Depraz克隆體]]></title>
+            <link>https://news.ycombinator.com/item?id=30617976</link>
+            <guid>https://news.ycombinator.com/item?id=30617976</guid>
+            <pubDate>Wed, 09 Mar 2022 18:12:21 GMT</pubDate>
+            <description><![CDATA[The Bellwether mouse: A modern Depraz clone]]></description>
+        </item>
         <item>
             <title><![CDATA[當IBM成為重心的時候 (2021)]]></title>
             <link>https://news.ycombinator.com/item?id=30621851</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30532329</guid>
             <pubDate>Wed, 02 Mar 2022 20:09:46 GMT</pubDate>
             <description><![CDATA[Harold Hering]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對於大型對象數組，Go的內置JSON編碼器的速度最高可達55%。]]></title>
-            <link>https://news.ycombinator.com/item?id=30547067</link>
-            <guid>https://news.ycombinator.com/item?id=30547067</guid>
-            <pubDate>Thu, 03 Mar 2022 21:12:57 GMT</pubDate>
-            <description><![CDATA[Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects]]></description>
         </item>
     </channel>
 </rss>

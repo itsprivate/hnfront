@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-10T18:58:43.705Z</updated>
+    <updated>2022-03-10T19:54:41.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[貝爾維特鼠標。一個現代的Depraz克隆體]]></title>
+        <id>https://news.ycombinator.com/item?id=30617976</id>
+        <link href="https://news.ycombinator.com/item?id=30617976"/>
+        <updated>2022-03-09T18:12:21.000Z</updated>
+        <summary type="html"><![CDATA[The Bellwether mouse: A modern Depraz clone]]></summary>
+        <author>
+            <name>floren</name>
+            <uri>https://news.ycombinator.com/user?id=floren</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當IBM成為重心的時候 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30621851</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對於大型對象數組，Go的內置JSON編碼器的速度最高可達55%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30547067</id>
-        <link href="https://news.ycombinator.com/item?id=30547067"/>
-        <updated>2022-03-03T21:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
         </author>
     </entry>
 </feed>
