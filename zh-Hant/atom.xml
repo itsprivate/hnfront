@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-10T19:54:41.366Z</updated>
+    <updated>2022-03-10T21:16:22.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火山、瘟疫、饑荒和無盡的冬天。歡迎來到536]]></title>
+        <id>https://news.ycombinator.com/item?id=30621640</id>
+        <link href="https://news.ycombinator.com/item?id=30621640"/>
+        <updated>2022-03-10T00:03:42.000Z</updated>
+        <summary type="html"><![CDATA[Volcanoes, plague, famine and endless winter: Welcome to 536]]></summary>
+        <author>
+            <name>goldenskye</name>
+            <uri>https://news.ycombinator.com/user?id=goldenskye</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[貝爾維特鼠標。一個現代的Depraz克隆體]]></title>
         <id>https://news.ycombinator.com/item?id=30617976</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>birudeghi</name>
             <uri>https://news.ycombinator.com/user?id=birudeghi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈羅德-赫林]]></title>
-        <id>https://news.ycombinator.com/item?id=30532329</id>
-        <link href="https://news.ycombinator.com/item?id=30532329"/>
-        <updated>2022-03-02T20:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Harold Hering]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
