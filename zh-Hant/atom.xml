@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-10T09:35:46.651Z</updated>
+    <updated>2022-03-10T09:54:54.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[機器學習的視覺介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=30624648</id>
+        <link href="https://news.ycombinator.com/item?id=30624648"/>
+        <updated>2022-03-10T08:41:04.000Z</updated>
+        <summary type="html"><![CDATA[A visual introduction to machine learning]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T]]></title>
+        <id>https://news.ycombinator.com/item?id=30620843</id>
+        <link href="https://news.ycombinator.com/item?id=30620843"/>
+        <updated>2022-03-09T22:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Trunk-and-branches model for scaling infrastructure organizations]]></summary>
+        <author>
+            <name>wavelander</name>
+            <uri>https://news.ycombinator.com/user?id=wavelander</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why offer an Onion Address rather than just encourage browsing-over-Tor?]]></title>
         <id>https://news.ycombinator.com/item?id=30624154</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>brentroose</name>
             <uri>https://news.ycombinator.com/user?id=brentroose</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭人稱黑客利用當地政府網站傳播假新聞]]></title>
-        <id>https://news.ycombinator.com/item?id=30545016</id>
-        <link href="https://news.ycombinator.com/item?id=30545016"/>
-        <updated>2022-03-03T18:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainians say hackers used local government sites to spread fake news]]></summary>
-        <author>
-            <name>hassanahmad</name>
-            <uri>https://news.ycombinator.com/user?id=hassanahmad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯封鎖其最後一個獨立電視頻道]]></title>
-        <id>https://news.ycombinator.com/item?id=30544232</id>
-        <link href="https://news.ycombinator.com/item?id=30544232"/>
-        <updated>2022-03-03T17:52:59.000Z</updated>
-        <summary type="html"><![CDATA[Russia Blocks Its Last Independent Television Channel]]></summary>
-        <author>
-            <name>mudro_zboris</name>
-            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
         </author>
     </entry>
 </feed>
