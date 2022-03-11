@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T21:31:05.063Z</updated>
+    <updated>2022-03-11T21:52:52.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[走进普京的圈子]]></title>
+        <id>https://news.ycombinator.com/item?id=30645967</id>
+        <link href="https://news.ycombinator.com/item?id=30645967"/>
+        <updated>2022-03-11T21:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Inside Putin's Circle]]></summary>
+        <author>
+            <name>mayiplease</name>
+            <uri>https://news.ycombinator.com/user?id=mayiplease</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信息是物质的第五种状态吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30624863</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hegzploit</name>
             <uri>https://news.ycombinator.com/user?id=hegzploit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个在发货前检测Java和C/C++/Objective-C代码中错误的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30565270</id>
-        <link href="https://news.ycombinator.com/item?id=30565270"/>
-        <updated>2022-03-05T07:28:32.000Z</updated>
-        <summary type="html"><![CDATA[A tool to detect bugs in Java and C/C++/Objective-C code before it ships]]></summary>
-        <author>
-            <name>rwmj</name>
-            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
         </author>
     </entry>
 </feed>
