@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T19:12:06.435Z</updated>
+    <updated>2022-03-11T19:27:32.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让RockPro64成为NetBSD服务器]]></title>
+        <id>https://news.ycombinator.com/item?id=30644322</id>
+        <link href="https://news.ycombinator.com/item?id=30644322"/>
+        <updated>2022-03-11T18:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Making RockPro64 a NetBSD Server]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用声学陷阱粒子的体积显示（2021年）[视频]。]]></title>
+        <id>https://news.ycombinator.com/item?id=30642954</id>
+        <link href="https://news.ycombinator.com/item?id=30642954"/>
+        <updated>2022-03-11T17:25:31.000Z</updated>
+        <summary type="html"><![CDATA[A volumetric display using an acoustically trapped particle (2021) [video]]]></summary>
+        <author>
+            <name>mmastrac</name>
+            <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东西变坏了。愤怒中的埃朗（2016）]]></title>
+        <id>https://news.ycombinator.com/item?id=30611319</id>
+        <link href="https://news.ycombinator.com/item?id=30611319"/>
+        <updated>2022-03-09T05:48:43.000Z</updated>
+        <summary type="html"><![CDATA[Stuff Goes Bad: Erlang in Anger (2016)]]></summary>
+        <author>
+            <name>rramadass</name>
+            <uri>https://news.ycombinator.com/user?id=rramadass</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shopify的数据科学和工程基础]]></title>
         <id>https://news.ycombinator.com/item?id=30643677</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>tkgally</name>
             <uri>https://news.ycombinator.com/user?id=tkgally</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯封锁入侵乌克兰的消息，BBC恢复了短波广播]]></title>
-        <id>https://news.ycombinator.com/item?id=30553243</id>
-        <link href="https://news.ycombinator.com/item?id=30553243"/>
-        <updated>2022-03-04T11:20:38.000Z</updated>
-        <summary type="html"><![CDATA[BBC resurrects shortwave broadcasts as Russia blocks news of Ukraine invasion]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[检查素数的正则表达式]]></title>
-        <id>https://news.ycombinator.com/item?id=30564287</id>
-        <link href="https://news.ycombinator.com/item?id=30564287"/>
-        <updated>2022-03-05T04:34:10.000Z</updated>
-        <summary type="html"><![CDATA[A regular expression to check for prime numbers]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调制小组和技术。提高客户保留率(2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30546643</id>
-        <link href="https://news.ycombinator.com/item?id=30546643"/>
-        <updated>2022-03-03T20:40:07.000Z</updated>
-        <summary type="html"><![CDATA[Moderation Teams and Technology: Improving Customer Retention (2015)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
