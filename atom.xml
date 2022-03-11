@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T22:15:31.041Z</updated>
+    <updated>2022-03-11T22:33:09.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特步帕斯卡尔小于的东西 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=30644308</id>
+        <link href="https://news.ycombinator.com/item?id=30644308"/>
+        <updated>2022-03-11T18:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Things That Turbo Pascal Is Smaller Than (2011)]]></summary>
+        <author>
+            <name>arkj</name>
+            <uri>https://news.ycombinator.com/user?id=arkj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3月8日Spotify停运]]></title>
         <id>https://news.ycombinator.com/item?id=30646297</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能模型根据网络帖子检测精神疾病]]></title>
-        <id>https://news.ycombinator.com/item?id=30564662</id>
-        <link href="https://news.ycombinator.com/item?id=30564662"/>
-        <updated>2022-03-05T05:41:55.000Z</updated>
-        <summary type="html"><![CDATA[AI Model Detects Mental Disorders Based on Web Posts]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
         </author>
     </entry>
 </feed>
