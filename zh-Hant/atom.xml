@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T20:42:28.347Z</updated>
+    <updated>2022-03-11T21:31:05.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[信息是物質的第五種狀態嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30624863</id>
+        <link href="https://news.ycombinator.com/item?id=30624863"/>
+        <updated>2022-03-10T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Is information the fifth state of matter?]]></summary>
+        <author>
+            <name>akvadrako</name>
+            <uri>https://news.ycombinator.com/user?id=akvadrako</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peloton被困在其萬億美元的幻想中]]></title>
         <id>https://news.ycombinator.com/item?id=30625764</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rwmj</name>
             <uri>https://news.ycombinator.com/user?id=rwmj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac Studio'[臺式電腦]即將問世]]></title>
-        <id>https://news.ycombinator.com/item?id=30565073</id>
-        <link href="https://news.ycombinator.com/item?id=30565073"/>
-        <updated>2022-03-05T06:57:54.000Z</updated>
-        <summary type="html"><![CDATA[‘Mac Studio’ [desktop computer] is coming]]></summary>
-        <author>
-            <name>n3k5</name>
-            <uri>https://news.ycombinator.com/user?id=n3k5</uri>
         </author>
     </entry>
 </feed>
