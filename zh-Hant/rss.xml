@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 11 Mar 2022 16:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 17:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,55 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蘇丹第一家由YC支持的創業公司幫助消費者保護和增長他們的財富]]></title>
+            <link>https://news.ycombinator.com/item?id=30642533</link>
+            <guid>https://news.ycombinator.com/item?id=30642533</guid>
+            <pubDate>Fri, 11 Mar 2022 17:02:16 GMT</pubDate>
+            <description><![CDATA[Sudan’s first YC-backed startup helps consumers protect and grow their wealth]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Basis (YC S21)正在招聘我們的第一個開發/設計人員，以建立數據的Figma。]]></title>
+            <link>https://news.ycombinator.com/item?id=30642490</link>
+            <guid>https://news.ycombinator.com/item?id=30642490</guid>
+            <pubDate>Fri, 11 Mar 2022 17:00:13 GMT</pubDate>
+            <description><![CDATA[Basis (YC S21) is hiring our first dev/designer to build Figma for data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[紐約能源網。實時儀表板]]></title>
+            <link>https://news.ycombinator.com/item?id=30642420</link>
+            <guid>https://news.ycombinator.com/item?id=30642420</guid>
+            <pubDate>Fri, 11 Mar 2022 16:57:13 GMT</pubDate>
+            <description><![CDATA[NY energy grid: Real-time dashboard]]></description>
+        </item>
+        <item>
+            <title><![CDATA[將curl命令轉換為幾種語言的代碼]]></title>
+            <link>https://news.ycombinator.com/item?id=30642281</link>
+            <guid>https://news.ycombinator.com/item?id=30642281</guid>
+            <pubDate>Fri, 11 Mar 2022 16:50:09 GMT</pubDate>
+            <description><![CDATA[Convert curl commands to code in several languages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Go編寫腳本]]></title>
+            <link>https://news.ycombinator.com/item?id=30641883</link>
+            <guid>https://news.ycombinator.com/item?id=30641883</guid>
+            <pubDate>Fri, 11 Mar 2022 16:26:01 GMT</pubDate>
+            <description><![CDATA[Scripting with Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技術講座不一定是無聊的]]></title>
+            <link>https://news.ycombinator.com/item?id=30641096</link>
+            <guid>https://news.ycombinator.com/item?id=30641096</guid>
+            <pubDate>Fri, 11 Mar 2022 15:32:54 GMT</pubDate>
+            <description><![CDATA[Tech talks don’t have to be boring]]></description>
+        </item>
+        <item>
+            <title><![CDATA[學習標準的C++作為新的語言]]></title>
+            <link>https://news.ycombinator.com/item?id=30625898</link>
+            <guid>https://news.ycombinator.com/item?id=30625898</guid>
+            <pubDate>Thu, 10 Mar 2022 11:51:51 GMT</pubDate>
+            <description><![CDATA[Learning Standard C++ as the New Language]]></description>
+        </item>
         <item>
             <title><![CDATA[不打招呼--請不要隨便在聊天中打招呼]]></title>
             <link>https://news.ycombinator.com/item?id=30642052</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30562219</guid>
             <pubDate>Fri, 04 Mar 2022 23:52:23 GMT</pubDate>
             <description><![CDATA[Honey, he shrunk the watches]]></description>
-        </item>
-        <item>
-            <title><![CDATA[YouTube因播放特朗普否認選舉結果的片段而暫停了《國會山報》的報道]]></title>
-            <link>https://news.ycombinator.com/item?id=30562131</link>
-            <guid>https://news.ycombinator.com/item?id=30562131</guid>
-            <pubDate>Fri, 04 Mar 2022 23:42:33 GMT</pubDate>
-            <description><![CDATA[YouTube suspends The Hill for playing clip of Trump denying election results]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以悔恨為基礎的環境設計發展課程]]></title>
-            <link>https://news.ycombinator.com/item?id=30554229</link>
-            <guid>https://news.ycombinator.com/item?id=30554229</guid>
-            <pubDate>Fri, 04 Mar 2022 13:14:51 GMT</pubDate>
-            <description><![CDATA[Evolving Curricula with Regret-Based Environment Design]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯空軍沒有能力進行復雜的空中作業嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30561169</link>
-            <guid>https://news.ycombinator.com/item?id=30561169</guid>
-            <pubDate>Fri, 04 Mar 2022 21:58:29 GMT</pubDate>
-            <description><![CDATA[Is the Russian Air Force incapable of complex air operations?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可能的BGP劫持：由NGROUP,UA宣佈的前綴也由NETGRUP,RU宣佈。]]></title>
-            <link>https://news.ycombinator.com/item?id=30561518</link>
-            <guid>https://news.ycombinator.com/item?id=30561518</guid>
-            <pubDate>Fri, 04 Mar 2022 22:34:17 GMT</pubDate>
-            <description><![CDATA[Possible BGP hijack: Prefix announced by NGROUP,UA also announced by NETGRUP, RU]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奧伯斯演習工程]]></title>
-            <link>https://news.ycombinator.com/item?id=30549488</link>
-            <guid>https://news.ycombinator.com/item?id=30549488</guid>
-            <pubDate>Fri, 04 Mar 2022 01:34:10 GMT</pubDate>
-            <description><![CDATA[Engineering the Oberth Maneuver]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌廣告暫停了我的工作，並充耳不聞]]></title>
-            <link>https://news.ycombinator.com/item?id=30560990</link>
-            <guid>https://news.ycombinator.com/item?id=30560990</guid>
-            <pubDate>Fri, 04 Mar 2022 21:41:45 GMT</pubDate>
-            <description><![CDATA[Google Ads suspended me and turned a deaf ear]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lenia - 數學生命形式（2018）[視頻］]]></title>
-            <link>https://news.ycombinator.com/item?id=30560459</link>
-            <guid>https://news.ycombinator.com/item?id=30560459</guid>
-            <pubDate>Fri, 04 Mar 2022 20:57:13 GMT</pubDate>
-            <description><![CDATA[Lenia – Mathematical Life Forms (2018) [video]]]></description>
         </item>
     </channel>
 </rss>
