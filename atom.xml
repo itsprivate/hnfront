@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T19:27:32.312Z</updated>
+    <updated>2022-03-11T19:38:35.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[糟糕的图书馆书籍]]></title>
+        <id>https://news.ycombinator.com/item?id=30644463</id>
+        <link href="https://news.ycombinator.com/item?id=30644463"/>
+        <updated>2022-03-11T19:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Awful Library Books]]></summary>
+        <author>
+            <name>cjlm</name>
+            <uri>https://news.ycombinator.com/user?id=cjlm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中立的DNS服务器？]]></title>
+        <id>https://news.ycombinator.com/item?id=30642577</id>
+        <link href="https://news.ycombinator.com/item?id=30642577"/>
+        <updated>2022-03-11T17:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Neutral DNS servers?]]></summary>
+        <author>
+            <name>NotAWorkNick</name>
+            <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FoundationDB：分布式非捆绑交易型键值存储]]></title>
+        <id>https://news.ycombinator.com/item?id=30640932</id>
+        <link href="https://news.ycombinator.com/item?id=30640932"/>
+        <updated>2022-03-11T15:19:30.000Z</updated>
+        <summary type="html"><![CDATA[FoundationDB: A distributed unbundled transactional key value store]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让RockPro64成为NetBSD服务器]]></title>
         <id>https://news.ycombinator.com/item?id=30644322</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outline.com发生了什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30564665</id>
-        <link href="https://news.ycombinator.com/item?id=30564665"/>
-        <updated>2022-03-05T05:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Outline.com?]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯IT工作者签署反对战争的请愿书（俄语）]]></title>
-        <id>https://news.ycombinator.com/item?id=30564297</id>
-        <link href="https://news.ycombinator.com/item?id=30564297"/>
-        <updated>2022-03-05T04:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Russian IT workers sign a petition against the war (in Russian)]]></summary>
-        <author>
-            <name>MichaelMoser123</name>
-            <uri>https://news.ycombinator.com/user?id=MichaelMoser123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫斯科宜家家居的最后一天]]></title>
-        <id>https://news.ycombinator.com/item?id=30562875</id>
-        <link href="https://news.ycombinator.com/item?id=30562875"/>
-        <updated>2022-03-05T01:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Last Day of IKEA in Moscow]]></summary>
-        <author>
-            <name>tkgally</name>
-            <uri>https://news.ycombinator.com/user?id=tkgally</uri>
         </author>
     </entry>
 </feed>
