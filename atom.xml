@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T10:15:09.307Z</updated>
+    <updated>2022-03-11T10:36:01.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Stripe建立你的加密货币业务]]></title>
+        <id>https://news.ycombinator.com/item?id=30638052</id>
+        <link href="https://news.ycombinator.com/item?id=30638052"/>
+        <updated>2022-03-11T09:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Build your crypto business with Stripe]]></summary>
+        <author>
+            <name>digitalbase</name>
+            <uri>https://news.ycombinator.com/user?id=digitalbase</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cron最佳实践]]></title>
         <id>https://news.ycombinator.com/item?id=30636872</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从造船业的生产力中得到的教训]]></title>
-        <id>https://news.ycombinator.com/item?id=30555732</id>
-        <link href="https://news.ycombinator.com/item?id=30555732"/>
-        <updated>2022-03-04T14:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Lessons from Shipbuilding Productivity]]></summary>
-        <author>
-            <name>worldvoyageur</name>
-            <uri>https://news.ycombinator.com/user?id=worldvoyageur</uri>
         </author>
     </entry>
 </feed>
