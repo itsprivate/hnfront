@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T21:52:52.258Z</updated>
+    <updated>2022-03-11T22:15:31.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[3月8日Spotify停运]]></title>
+        <id>https://news.ycombinator.com/item?id=30646297</id>
+        <link href="https://news.ycombinator.com/item?id=30646297"/>
+        <updated>2022-03-11T21:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Spotify Outage on March 8]]></summary>
+        <author>
+            <name>charlieegan3</name>
+            <uri>https://news.ycombinator.com/user?id=charlieegan3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么单点登录很糟糕]]></title>
+        <id>https://news.ycombinator.com/item?id=30646081</id>
+        <link href="https://news.ycombinator.com/item?id=30646081"/>
+        <updated>2022-03-11T21:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Why Single Sign on Sucks]]></summary>
+        <author>
+            <name>benarent</name>
+            <uri>https://news.ycombinator.com/user?id=benarent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物理学家通过磁场和量子干扰引导化学反应]]></title>
+        <id>https://news.ycombinator.com/item?id=30616059</id>
+        <link href="https://news.ycombinator.com/item?id=30616059"/>
+        <updated>2022-03-09T16:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Physicists steer chemical reactions by magnetic fields and quantum interference]]></summary>
+        <author>
+            <name>wrycoder</name>
+            <uri>https://news.ycombinator.com/user?id=wrycoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[走进普京的圈子]]></title>
         <id>https://news.ycombinator.com/item?id=30645967</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[概率论机器学习。高级专题]]></title>
-        <id>https://news.ycombinator.com/item?id=30552869</id>
-        <link href="https://news.ycombinator.com/item?id=30552869"/>
-        <updated>2022-03-04T10:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Probabilistic Machine Learning: Advanced Topics]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了访问BBC，规避工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30565403</id>
-        <link href="https://news.ycombinator.com/item?id=30565403"/>
-        <updated>2022-03-05T07:53:27.000Z</updated>
-        <summary type="html"><![CDATA[To access the BBC, circumvention tools]]></summary>
-        <author>
-            <name>ngcc_hk</name>
-            <uri>https://news.ycombinator.com/user?id=ngcc_hk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件基础：可靠软件的数学基础]]></title>
-        <id>https://news.ycombinator.com/item?id=30553612</id>
-        <link href="https://news.ycombinator.com/item?id=30553612"/>
-        <updated>2022-03-04T12:12:46.000Z</updated>
-        <summary type="html"><![CDATA[The Software Foundations: mathematical underpinnings of reliable software]]></summary>
-        <author>
-            <name>hegzploit</name>
-            <uri>https://news.ycombinator.com/user?id=hegzploit</uri>
         </author>
     </entry>
 </feed>
