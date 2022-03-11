@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T11:12:23.541Z</updated>
+    <updated>2022-03-11T12:19:26.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[福祿壽(YC S21)正在招聘中]]></title>
+        <id>https://news.ycombinator.com/item?id=30638830</id>
+        <link href="https://news.ycombinator.com/item?id=30638830"/>
+        <updated>2022-03-11T12:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Flowly (YC S21) Is Hiring]]></summary>
+        <author>
+            <name>tamadevr</name>
+            <uri>https://news.ycombinator.com/user?id=tamadevr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將GTK應用程序從Go轉移到Ada的經驗之談]]></title>
+        <id>https://news.ycombinator.com/item?id=30638542</id>
+        <link href="https://news.ycombinator.com/item?id=30638542"/>
+        <updated>2022-03-11T11:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Lessons Learnt Moving a GTK Application from Go to Ada]]></summary>
+        <author>
+            <name>ajdude</name>
+            <uri>https://news.ycombinator.com/user?id=ajdude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[眼睛的語言]]></title>
         <id>https://news.ycombinator.com/item?id=30613750</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>DocFeind</name>
             <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們建造的計算機是錯誤的[視頻]。]]></title>
-        <id>https://news.ycombinator.com/item?id=30549716</id>
-        <link href="https://news.ycombinator.com/item?id=30549716"/>
-        <updated>2022-03-04T02:06:11.000Z</updated>
-        <summary type="html"><![CDATA[We're Building Computers Wrong [video]]]></summary>
-        <author>
-            <name>lawrenceyan</name>
-            <uri>https://news.ycombinator.com/user?id=lawrenceyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一體化機構 "的風暴即將來臨]]></title>
-        <id>https://news.ycombinator.com/item?id=30556353</id>
-        <link href="https://news.ycombinator.com/item?id=30556353"/>
-        <updated>2022-03-04T15:47:50.000Z</updated>
-        <summary type="html"><![CDATA[The “agencies of one” storm is coming]]></summary>
-        <author>
-            <name>elazzabi_</name>
-            <uri>https://news.ycombinator.com/user?id=elazzabi_</uri>
         </author>
     </entry>
 </feed>
