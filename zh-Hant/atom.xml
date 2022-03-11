@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T12:19:26.622Z</updated>
+    <updated>2022-03-11T12:53:46.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼盧布仍然保持50%的價值？]]></title>
+        <id>https://news.ycombinator.com/item?id=30638888</id>
+        <link href="https://news.ycombinator.com/item?id=30638888"/>
+        <updated>2022-03-11T12:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why does the Ruble still holds 50% of its value?]]></summary>
+        <author>
+            <name>TekMol</name>
+            <uri>https://news.ycombinator.com/user?id=TekMol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼谷歌使用語言的位置而不是瀏覽器設置？]]></title>
+        <id>https://news.ycombinator.com/item?id=30638590</id>
+        <link href="https://news.ycombinator.com/item?id=30638590"/>
+        <updated>2022-03-11T11:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Why do Google use location for language rather than browser settings?]]></summary>
+        <author>
+            <name>smallerfish</name>
+            <uri>https://news.ycombinator.com/user?id=smallerfish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[攻擊者利用網絡安全漏洞盜取200萬美元的加密貨幣]]></title>
+        <id>https://news.ycombinator.com/item?id=30636675</id>
+        <link href="https://news.ycombinator.com/item?id=30636675"/>
+        <updated>2022-03-11T05:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Attackers exploit flaw in web’s security to steal $2M in cryptocurrency]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[福祿壽(YC S21)正在招聘中]]></title>
         <id>https://news.ycombinator.com/item?id=30638830</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>DavidPBL</name>
             <uri>https://news.ycombinator.com/user?id=DavidPBL</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub的Markdown表格解析的堆內存損壞CVE]]></title>
-        <id>https://news.ycombinator.com/item?id=30557256</id>
-        <link href="https://news.ycombinator.com/item?id=30557256"/>
-        <updated>2022-03-04T16:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Heap memory corruption CVE for GitHub's Markdown table parsing]]></summary>
-        <author>
-            <name>hyfen</name>
-            <uri>https://news.ycombinator.com/user?id=hyfen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司CEO蒂姆-庫克告訴員工4月11日回公司上班]]></title>
-        <id>https://news.ycombinator.com/item?id=30557205</id>
-        <link href="https://news.ycombinator.com/item?id=30557205"/>
-        <updated>2022-03-04T16:53:48.000Z</updated>
-        <summary type="html"><![CDATA[Apple CEO Tim Cook tells employees to return to office April 11]]></summary>
-        <author>
-            <name>polar8</name>
-            <uri>https://news.ycombinator.com/user?id=polar8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘑菇。環境友好型包裝和建築的下一個大事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30557088</id>
-        <link href="https://news.ycombinator.com/item?id=30557088"/>
-        <updated>2022-03-04T16:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Mushrooms: Next Big Thing in Environmentally-Friendly Packaging and Construction]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
         </author>
     </entry>
 </feed>
