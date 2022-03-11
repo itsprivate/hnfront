@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T22:42:55.955Z</updated>
+    <updated>2022-03-11T22:52:11.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於Phoenix PVM的虛擬機監控器]]></title>
+        <id>https://news.ycombinator.com/item?id=30615622</id>
+        <link href="https://news.ycombinator.com/item?id=30615622"/>
+        <updated>2022-03-09T15:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Phoenix PVM-Based Virtual Machine Monitors]]></summary>
+        <author>
+            <name>michidk</name>
+            <uri>https://news.ycombinator.com/user?id=michidk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究人員訓練一種算法，將豬的叫聲解釋為情緒]]></title>
         <id>https://news.ycombinator.com/item?id=30646658</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新報》在記者被刑事起訴後退出新聞報道]]></title>
-        <id>https://news.ycombinator.com/item?id=30565572</id>
-        <link href="https://news.ycombinator.com/item?id=30565572"/>
-        <updated>2022-03-05T08:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Novaya Gazeta quits news reports after criminal prosecution of journalists]]></summary>
-        <author>
-            <name>jereees</name>
-            <uri>https://news.ycombinator.com/user?id=jereees</uri>
         </author>
     </entry>
 </feed>
