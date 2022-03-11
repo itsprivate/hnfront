@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T08:15:31.091Z</updated>
+    <updated>2022-03-11T09:14:53.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你永遠不會擁有一輛電動汽車]]></title>
+        <id>https://news.ycombinator.com/item?id=30637725</id>
+        <link href="https://news.ycombinator.com/item?id=30637725"/>
+        <updated>2022-03-11T08:44:36.000Z</updated>
+        <summary type="html"><![CDATA[You don't ever own an electric vehicle]]></summary>
+        <author>
+            <name>serverlessmom</name>
+            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Liquid-C實現更快渲染的途徑]]></title>
+        <id>https://news.ycombinator.com/item?id=30633736</id>
+        <link href="https://news.ycombinator.com/item?id=30633736"/>
+        <updated>2022-03-10T22:55:28.000Z</updated>
+        <summary type="html"><![CDATA[A Path to Faster Rendering with Liquid-C]]></summary>
+        <author>
+            <name>oedmarap</name>
+            <uri>https://news.ycombinator.com/user?id=oedmarap</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StyleNeRF：基於風格的高分辨率圖像合成的3D感知發生器]]></title>
         <id>https://news.ycombinator.com/item?id=30637403</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dylanjcastillo</name>
             <uri>https://news.ycombinator.com/user?id=dylanjcastillo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國2月新增67.8萬個工作崗位]]></title>
-        <id>https://news.ycombinator.com/item?id=30555187</id>
-        <link href="https://news.ycombinator.com/item?id=30555187"/>
-        <updated>2022-03-04T14:26:23.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. added 678,000 jobs in February]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯蒂芬-克萊恩一生的神秘之路]]></title>
-        <id>https://news.ycombinator.com/item?id=30545306</id>
-        <link href="https://news.ycombinator.com/item?id=30545306"/>
-        <updated>2022-03-03T19:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Stephen Crane’s Lifetime of Mystery]]></summary>
-        <author>
-            <name>lermontov</name>
-            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
         </author>
     </entry>
 </feed>
