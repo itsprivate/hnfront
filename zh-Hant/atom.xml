@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T18:17:05.067Z</updated>
+    <updated>2022-03-11T18:56:15.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高級工程師是否有興趣減少工作時間或兼職工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30643331</id>
+        <link href="https://news.ycombinator.com/item?id=30643331"/>
+        <updated>2022-03-11T17:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Would senior engineers be interested in working reduced hours or part time?]]></summary>
+        <author>
+            <name>curiousresearch</name>
+            <uri>https://news.ycombinator.com/user?id=curiousresearch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[啟動HN：Tensil (YC S19) - 開源的ML加速器]]></title>
         <id>https://news.ycombinator.com/item?id=30643520</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從Procmail遷移到Sieve]]></title>
-        <id>https://news.ycombinator.com/item?id=30547838</id>
-        <link href="https://news.ycombinator.com/item?id=30547838"/>
-        <updated>2022-03-03T22:21:09.000Z</updated>
-        <summary type="html"><![CDATA[Migrating from Procmail to Sieve]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
