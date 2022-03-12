@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T11:11:47.145Z</updated>
+    <updated>2022-03-12T11:51:32.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Paredit Mnemonics for Slurping and Barfing Lisp Symbolic Expressions]]></title>
+        <id>https://news.ycombinator.com/item?id=30631590</id>
+        <link href="https://news.ycombinator.com/item?id=30631590"/>
+        <updated>2022-03-10T19:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Paredit Mnemonics for Slurping and Barfing Lisp Symbolic Expressions]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弧形曲線（RadixSpline）。一個單程學習的指數]]></title>
         <id>https://news.ycombinator.com/item?id=30617139</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>awb</name>
             <uri>https://news.ycombinator.com/user?id=awb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本土Matrix VoIP與Element Call]]></title>
-        <id>https://news.ycombinator.com/item?id=30568164</id>
-        <link href="https://news.ycombinator.com/item?id=30568164"/>
-        <updated>2022-03-05T15:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Native Matrix VoIP with Element Call]]></summary>
-        <author>
-            <name>Sami_Lehtinen</name>
-            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
         </author>
     </entry>
 </feed>
