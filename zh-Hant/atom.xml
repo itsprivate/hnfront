@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T21:38:52.410Z</updated>
+    <updated>2022-03-12T21:51:59.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我讀了有史以來的前100篇科學論文]]></title>
+        <id>https://news.ycombinator.com/item?id=30654870</id>
+        <link href="https://news.ycombinator.com/item?id=30654870"/>
+        <updated>2022-03-12T21:04:36.000Z</updated>
+        <summary type="html"><![CDATA[I read the top 100 Scientific papers of all time]]></summary>
+        <author>
+            <name>lifeisstillgood</name>
+            <uri>https://news.ycombinator.com/user?id=lifeisstillgood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[33年前的今天，我提交了一份名為萬維網的系統提案。]]></title>
         <id>https://news.ycombinator.com/item?id=30654801</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cuu508</name>
             <uri>https://news.ycombinator.com/user?id=cuu508</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家觀察活體大腦中的記憶形成]]></title>
-        <id>https://news.ycombinator.com/item?id=30572633</id>
-        <link href="https://news.ycombinator.com/item?id=30572633"/>
-        <updated>2022-03-05T22:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Scientists Watch a Memory Form in a Living Brain]]></summary>
-        <author>
-            <name>doetoe</name>
-            <uri>https://news.ycombinator.com/user?id=doetoe</uri>
         </author>
     </entry>
 </feed>
