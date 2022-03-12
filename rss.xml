@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Mar 2022 16:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 16:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cloudant/IBM从基于FoundationDB的CouchDB重写中退缩]]></title>
+            <link>https://news.ycombinator.com/item?id=30652281</link>
+            <guid>https://news.ycombinator.com/item?id=30652281</guid>
+            <pubDate>Sat, 12 Mar 2022 16:06:02 GMT</pubDate>
+            <description><![CDATA[Cloudant/IBM back off from FoundationDB based CouchDB rewrite]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用一把尺子和基本的物理原理做更好吃的意大利面条]]></title>
+            <link>https://news.ycombinator.com/item?id=30613569</link>
+            <guid>https://news.ycombinator.com/item?id=30613569</guid>
+            <pubDate>Wed, 09 Mar 2022 12:06:19 GMT</pubDate>
+            <description><![CDATA[Better-cooked spaghetti using a ruler and fundamental physical principles]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯对乌克兰的入侵正在重新划分空间地缘政治 - 国际空间站]]></title>
             <link>https://news.ycombinator.com/item?id=30652223</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30553620</guid>
             <pubDate>Fri, 04 Mar 2022 12:14:00 GMT</pubDate>
             <description><![CDATA[Thredded Forums – An engine for Ruby on Rails]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AMD现在比英特尔更有价值--有理由的]]></title>
-            <link>https://news.ycombinator.com/item?id=30570165</link>
-            <guid>https://news.ycombinator.com/item?id=30570165</guid>
-            <pubDate>Sat, 05 Mar 2022 18:15:30 GMT</pubDate>
-            <description><![CDATA[AMD Is Now Worth More Than Intel – and with Reason]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GE不会让我在不连接WiFi的情况下使用新烤箱的对流式烤肉]]></title>
-            <link>https://news.ycombinator.com/item?id=30570027</link>
-            <guid>https://news.ycombinator.com/item?id=30570027</guid>
-            <pubDate>Sat, 05 Mar 2022 18:02:55 GMT</pubDate>
-            <description><![CDATA[GE won’t let me use convection roast on my new oven without connecting to WiFi]]></description>
         </item>
     </channel>
 </rss>

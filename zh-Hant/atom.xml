@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T16:13:39.675Z</updated>
+    <updated>2022-03-12T16:44:46.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloudant/IBM從基於FoundationDB的CouchDB重寫中退縮]]></title>
+        <id>https://news.ycombinator.com/item?id=30652281</id>
+        <link href="https://news.ycombinator.com/item?id=30652281"/>
+        <updated>2022-03-12T16:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Cloudant/IBM back off from FoundationDB based CouchDB rewrite]]></summary>
+        <author>
+            <name>jFriedensreich</name>
+            <uri>https://news.ycombinator.com/user?id=jFriedensreich</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用一把尺子和基本的物理原理做更好吃的意大利麵條]]></title>
+        <id>https://news.ycombinator.com/item?id=30613569</id>
+        <link href="https://news.ycombinator.com/item?id=30613569"/>
+        <updated>2022-03-09T12:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Better-cooked spaghetti using a ruler and fundamental physical principles]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯對烏克蘭的入侵正在重新劃分空間地緣政治 - 國際空間站]]></title>
         <id>https://news.ycombinator.com/item?id=30652223</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD現在比英特爾更有價值--有理由的]]></title>
-        <id>https://news.ycombinator.com/item?id=30570165</id>
-        <link href="https://news.ycombinator.com/item?id=30570165"/>
-        <updated>2022-03-05T18:15:30.000Z</updated>
-        <summary type="html"><![CDATA[AMD Is Now Worth More Than Intel – and with Reason]]></summary>
-        <author>
-            <name>clove</name>
-            <uri>https://news.ycombinator.com/user?id=clove</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE不會讓我在不連接WiFi的情況下使用新烤箱的對流式烤肉]]></title>
-        <id>https://news.ycombinator.com/item?id=30570027</id>
-        <link href="https://news.ycombinator.com/item?id=30570027"/>
-        <updated>2022-03-05T18:02:55.000Z</updated>
-        <summary type="html"><![CDATA[GE won’t let me use convection roast on my new oven without connecting to WiFi]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
         </author>
     </entry>
 </feed>
