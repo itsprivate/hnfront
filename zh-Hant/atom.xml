@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T21:29:29.310Z</updated>
+    <updated>2022-03-12T21:38:52.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[33年前的今天，我提交了一份名為萬維網的系統提案。]]></title>
+        <id>https://news.ycombinator.com/item?id=30654801</id>
+        <link href="https://news.ycombinator.com/item?id=30654801"/>
+        <updated>2022-03-12T20:56:12.000Z</updated>
+        <summary type="html"><![CDATA[33 years ago today I submitted a proposal for a system called the World Wide Web]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭開.NET的神秘面紗]]></title>
         <id>https://news.ycombinator.com/item?id=30654114</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>doetoe</name>
             <uri>https://news.ycombinator.com/user?id=doetoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這一切如何結束？]]></title>
-        <id>https://news.ycombinator.com/item?id=30572543</id>
-        <link href="https://news.ycombinator.com/item?id=30572543"/>
-        <updated>2022-03-05T22:21:55.000Z</updated>
-        <summary type="html"><![CDATA[How Does This End?]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
         </author>
     </entry>
 </feed>
