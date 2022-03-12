@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T21:51:59.550Z</updated>
+    <updated>2022-03-12T22:11:55.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[著色器公園。一個用於創建交互式程序化著色器的JavaScript庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30655287</id>
+        <link href="https://news.ycombinator.com/item?id=30655287"/>
+        <updated>2022-03-12T21:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Shader Park: A JavaScript library for creating interactive procedural shaders]]></summary>
+        <author>
+            <name>Pulcinella</name>
+            <uri>https://news.ycombinator.com/user?id=Pulcinella</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在中國工作和生活的經歷]]></title>
+        <id>https://news.ycombinator.com/item?id=30624579</id>
+        <link href="https://news.ycombinator.com/item?id=30624579"/>
+        <updated>2022-03-10T08:31:25.000Z</updated>
+        <summary type="html"><![CDATA[My Experience Working and Living in China]]></summary>
+        <author>
+            <name>mrintellectual</name>
+            <uri>https://news.ycombinator.com/user?id=mrintellectual</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我讀了有史以來的前100篇科學論文]]></title>
         <id>https://news.ycombinator.com/item?id=30654870</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>NCPlayz</name>
             <uri>https://news.ycombinator.com/user?id=NCPlayz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數學上正確的早餐 如何將一個百吉餅切成兩個相連的半成品]]></title>
-        <id>https://news.ycombinator.com/item?id=30573660</id>
-        <link href="https://news.ycombinator.com/item?id=30573660"/>
-        <updated>2022-03-06T00:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Mathematically Correct Breakfast How to Slice a Bagel into Two Linked Halves]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生產中的芹菜。再過三年修復錯誤的時間]]></title>
-        <id>https://news.ycombinator.com/item?id=30567986</id>
-        <link href="https://news.ycombinator.com/item?id=30567986"/>
-        <updated>2022-03-05T14:44:44.000Z</updated>
-        <summary type="html"><![CDATA[Celery in production: Three more years of fixing bugs]]></summary>
-        <author>
-            <name>cuu508</name>
-            <uri>https://news.ycombinator.com/user?id=cuu508</uri>
         </author>
     </entry>
 </feed>
