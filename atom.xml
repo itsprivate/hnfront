@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T17:02:13.954Z</updated>
+    <updated>2022-03-12T17:15:04.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Etleap（YC W13）正在招聘一名软件工程师（在旧金山和伦敦）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30652753</id>
+        <link href="https://news.ycombinator.com/item?id=30652753"/>
+        <updated>2022-03-12T17:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Etleap (YC W13) Is Hiring a Software Engineer (In San Francisco and London)]]></summary>
+        <author>
+            <name>romming</name>
+            <uri>https://news.ycombinator.com/user?id=romming</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面条代码的形式化理论]]></title>
+        <id>https://news.ycombinator.com/item?id=30652715</id>
+        <link href="https://news.ycombinator.com/item?id=30652715"/>
+        <updated>2022-03-12T16:56:58.000Z</updated>
+        <summary type="html"><![CDATA[A Formal Theory of Spaghetti Code]]></summary>
+        <author>
+            <name>nickdrozd</name>
+            <uri>https://news.ycombinator.com/user?id=nickdrozd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[激光可以将核废料的寿命从一百万年缩短到30分钟]]></title>
         <id>https://news.ycombinator.com/item?id=30652334</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>everybodyknows</name>
             <uri>https://news.ycombinator.com/user?id=everybodyknows</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla修补了在野外使用的两个 "免费使用 "漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30570839</id>
-        <link href="https://news.ycombinator.com/item?id=30570839"/>
-        <updated>2022-03-05T19:12:55.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla patches two use-after-free vulnerabilities (ab)used in the wild]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国不是俄罗斯。台湾不是乌克兰]]></title>
-        <id>https://news.ycombinator.com/item?id=30570370</id>
-        <link href="https://news.ycombinator.com/item?id=30570370"/>
-        <updated>2022-03-05T18:30:03.000Z</updated>
-        <summary type="html"><![CDATA[China Is Not Russia. Taiwan Is Not Ukraine]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
