@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T20:12:50.065Z</updated>
+    <updated>2022-03-12T20:32:49.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臃肿网络的舒适性]]></title>
+        <id>https://news.ycombinator.com/item?id=30654497</id>
+        <link href="https://news.ycombinator.com/item?id=30654497"/>
+        <updated>2022-03-12T20:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Comfort of Bloated Web]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究为图坦卡蒙的神秘匕首从陨石中 "诞生 "提供了新的线索]]></title>
         <id>https://news.ycombinator.com/item?id=30653801</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>monetizeinfo</name>
             <uri>https://news.ycombinator.com/user?id=monetizeinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昼夜节律与肌肉修复之间的新联系]]></title>
-        <id>https://news.ycombinator.com/item?id=30561781</id>
-        <link href="https://news.ycombinator.com/item?id=30561781"/>
-        <updated>2022-03-04T22:59:46.000Z</updated>
-        <summary type="html"><![CDATA[New connections between circadian rhythm and muscle repair]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
