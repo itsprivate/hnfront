@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-11T23:51:49.195Z</updated>
+    <updated>2022-03-12T00:35:39.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普通文本的艺术 (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=30647692</id>
+        <link href="https://news.ycombinator.com/item?id=30647692"/>
+        <updated>2022-03-12T00:08:27.000Z</updated>
+        <summary type="html"><![CDATA[The Art of Plain Text (2015)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RISC-V的J扩展 - JIT的说明]]></title>
         <id>https://news.ycombinator.com/item?id=30647151</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我所写过的最难的程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30566111</id>
-        <link href="https://news.ycombinator.com/item?id=30566111"/>
-        <updated>2022-03-05T10:06:36.000Z</updated>
-        <summary type="html"><![CDATA[The hardest program I've ever written]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
