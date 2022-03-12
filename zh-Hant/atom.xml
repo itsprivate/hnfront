@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T03:33:23.827Z</updated>
+    <updated>2022-03-12T03:43:13.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[神經符號編程（2021年） [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30631907</id>
+        <link href="https://news.ycombinator.com/item?id=30631907"/>
+        <updated>2022-03-10T20:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Neurosymbolic Programming (2021) [pdf]]]></summary>
+        <author>
+            <name>YeGoblynQueenne</name>
+            <uri>https://news.ycombinator.com/user?id=YeGoblynQueenne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tron的創始人Justin Sun和他的多次逃亡經歷]]></title>
         <id>https://news.ycombinator.com/item?id=30648381</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Zacru</name>
             <uri>https://news.ycombinator.com/user?id=Zacru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有多少個2FA令牌？]]></title>
-        <id>https://news.ycombinator.com/item?id=30566604</id>
-        <link href="https://news.ycombinator.com/item?id=30566604"/>
-        <updated>2022-03-05T11:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How many 2FA tokens do you have?]]></summary>
-        <author>
-            <name>edent</name>
-            <uri>https://news.ycombinator.com/user?id=edent</uri>
         </author>
     </entry>
 </feed>
