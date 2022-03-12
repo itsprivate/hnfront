@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T18:53:40.457Z</updated>
+    <updated>2022-03-12T19:10:57.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沉默讓人振聾發聵]]></title>
+        <id>https://news.ycombinator.com/item?id=30653691</id>
+        <link href="https://news.ycombinator.com/item?id=30653691"/>
+        <updated>2022-03-12T18:44:55.000Z</updated>
+        <summary type="html"><![CDATA[The Silence Is Deafening]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古羅馬的物價是多少]]></title>
+        <id>https://news.ycombinator.com/item?id=30653366</id>
+        <link href="https://news.ycombinator.com/item?id=30653366"/>
+        <updated>2022-03-12T18:08:47.000Z</updated>
+        <summary type="html"><![CDATA[What things cost in Ancient Rome]]></summary>
+        <author>
+            <name>leonry</name>
+            <uri>https://news.ycombinator.com/user?id=leonry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[墨西哥的一個古代壁畫描繪了一個 "沒有時間的時間"]]></title>
         <id>https://news.ycombinator.com/item?id=30636565</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭開匿名作者的面紗。風格測量技術]]></title>
-        <id>https://news.ycombinator.com/item?id=30571932</id>
-        <link href="https://news.ycombinator.com/item?id=30571932"/>
-        <updated>2022-03-05T21:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Unveiling the Anonymous Author: Stylometry Techniques]]></summary>
-        <author>
-            <name>crecker</name>
-            <uri>https://news.ycombinator.com/user?id=crecker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這怎麼會合法呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30572023</id>
-        <link href="https://news.ycombinator.com/item?id=30572023"/>
-        <updated>2022-03-05T21:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How Is This Legal?]]></summary>
-        <author>
-            <name>endboss</name>
-            <uri>https://news.ycombinator.com/user?id=endboss</uri>
         </author>
     </entry>
 </feed>
