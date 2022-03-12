@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T03:12:37.932Z</updated>
+    <updated>2022-03-12T03:33:23.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tron的创始人Justin Sun和他的多次逃亡经历]]></title>
+        <id>https://news.ycombinator.com/item?id=30648381</id>
+        <link href="https://news.ycombinator.com/item?id=30648381"/>
+        <updated>2022-03-12T02:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Tron founder Justin Sun and his many escapes]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS系统首选项使用React]]></title>
         <id>https://news.ycombinator.com/item?id=30648424</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>edent</name>
             <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomic (YC S20)正在招聘高级软件工程师--全栈式的]]></title>
-        <id>https://news.ycombinator.com/item?id=30566738</id>
-        <link href="https://news.ycombinator.com/item?id=30566738"/>
-        <updated>2022-03-05T12:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Atomic (YC S20) Is Hiring a Senior Software Engineer – Fullstack]]></summary>
-        <author>
-            <name>davidndindi</name>
-            <uri>https://news.ycombinator.com/user?id=davidndindi</uri>
         </author>
     </entry>
 </feed>
