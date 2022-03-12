@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T21:12:02.366Z</updated>
+    <updated>2022-03-12T21:29:29.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[揭开.NET的神秘面纱]]></title>
+        <id>https://news.ycombinator.com/item?id=30654114</id>
+        <link href="https://news.ycombinator.com/item?id=30654114"/>
+        <updated>2022-03-12T19:30:06.000Z</updated>
+        <summary type="html"><![CDATA[.NET Myths Dispelled]]></summary>
+        <author>
+            <name>geekydev</name>
+            <uri>https://news.ycombinator.com/user?id=geekydev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电磁炉烹饪的案例]]></title>
         <id>https://news.ycombinator.com/item?id=30654693</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>homarp</name>
             <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这就是科克里的魅力]]></title>
-        <id>https://news.ycombinator.com/item?id=30560977</id>
-        <link href="https://news.ycombinator.com/item?id=30560977"/>
-        <updated>2022-03-04T21:40:32.000Z</updated>
-        <summary type="html"><![CDATA[This Is the Boke of Cokery]]></summary>
-        <author>
-            <name>pepys</name>
-            <uri>https://news.ycombinator.com/user?id=pepys</uri>
         </author>
     </entry>
 </feed>
