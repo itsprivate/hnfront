@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T19:36:22.608Z</updated>
+    <updated>2022-03-12T19:51:37.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hubfs - GitHub的文件系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30653916</id>
+        <link href="https://news.ycombinator.com/item?id=30653916"/>
+        <updated>2022-03-12T19:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hubfs – File System for GitHub]]></summary>
+        <author>
+            <name>billziss</name>
+            <uri>https://news.ycombinator.com/user?id=billziss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单腿滑雪者制造了一个巧妙的假肢]]></title>
         <id>https://news.ycombinator.com/item?id=30631930</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mcyc</name>
             <uri>https://news.ycombinator.com/user?id=mcyc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不相信新的实验室泄密事件的揭秘（有门槛的Substack）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30572290</id>
-        <link href="https://news.ycombinator.com/item?id=30572290"/>
-        <updated>2022-03-05T21:52:42.000Z</updated>
-        <summary type="html"><![CDATA[I’m not convinced by the new lab leak debunking (gated Substack)]]></summary>
-        <author>
-            <name>jeffmh</name>
-            <uri>https://news.ycombinator.com/user?id=jeffmh</uri>
         </author>
     </entry>
 </feed>
