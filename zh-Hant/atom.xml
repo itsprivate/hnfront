@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T17:15:04.338Z</updated>
+    <updated>2022-03-12T17:31:38.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[他們買下了一個加勒比海島，以建立自己的國家]]></title>
+        <id>https://news.ycombinator.com/item?id=30634037</id>
+        <link href="https://news.ycombinator.com/item?id=30634037"/>
+        <updated>2022-03-10T23:27:17.000Z</updated>
+        <summary type="html"><![CDATA[They bought a Caribbean island to start their own country]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Etleap（YC W13）正在招聘一名軟件工程師（在舊金山和倫敦）。]]></title>
         <id>https://news.ycombinator.com/item?id=30652753</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越來越多的俄羅斯人和烏克蘭人在美墨邊境尋求庇護]]></title>
-        <id>https://news.ycombinator.com/item?id=30571057</id>
-        <link href="https://news.ycombinator.com/item?id=30571057"/>
-        <updated>2022-03-05T19:33:05.000Z</updated>
-        <summary type="html"><![CDATA[Growing Number of Russians, Ukrainians Seeking Asylum at U.S.-Mexico Border]]></summary>
-        <author>
-            <name>everybodyknows</name>
-            <uri>https://news.ycombinator.com/user?id=everybodyknows</uri>
         </author>
     </entry>
 </feed>
