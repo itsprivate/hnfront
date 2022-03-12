@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T00:35:39.984Z</updated>
+    <updated>2022-03-12T01:51:13.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何設計更好的API]]></title>
+        <id>https://news.ycombinator.com/item?id=30647784</id>
+        <link href="https://news.ycombinator.com/item?id=30647784"/>
+        <updated>2022-03-12T00:25:16.000Z</updated>
+        <summary type="html"><![CDATA[How to Design Better APIs]]></summary>
+        <author>
+            <name>adrianomartins</name>
+            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反T的歷史]]></title>
+        <id>https://news.ycombinator.com/item?id=30635810</id>
+        <link href="https://news.ycombinator.com/item?id=30635810"/>
+        <updated>2022-03-11T03:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Inverse-T History]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[考慮到溫度計]]></title>
+        <id>https://news.ycombinator.com/item?id=30611560</id>
+        <link href="https://news.ycombinator.com/item?id=30611560"/>
+        <updated>2022-03-09T06:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Consider the Thermometer]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普通文本的藝術 (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=30647692</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>nikolay</name>
             <uri>https://news.ycombinator.com/user?id=nikolay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幫助被審查的用戶--運行一個Tor橋]]></title>
-        <id>https://news.ycombinator.com/item?id=30566093</id>
-        <link href="https://news.ycombinator.com/item?id=30566093"/>
-        <updated>2022-03-05T10:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Help Censored Users – Run a Tor Bridge]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yandex警告說，債券的償還和供應風險]]></title>
-        <id>https://news.ycombinator.com/item?id=30566298</id>
-        <link href="https://news.ycombinator.com/item?id=30566298"/>
-        <updated>2022-03-05T10:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Yandex warns of bond repayment and supply risks]]></summary>
-        <author>
-            <name>Hagelin</name>
-            <uri>https://news.ycombinator.com/user?id=Hagelin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詐騙郵件--冒充紅十字會--通過比特幣徵集捐款]]></title>
-        <id>https://news.ycombinator.com/item?id=30566210</id>
-        <link href="https://news.ycombinator.com/item?id=30566210"/>
-        <updated>2022-03-05T10:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Scam Email – Impersonating Red Cross – Solicit Donations via Bitcoin]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
