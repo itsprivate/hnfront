@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T01:51:13.467Z</updated>
+    <updated>2022-03-12T02:53:10.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京的问题越来越严重]]></title>
+        <id>https://news.ycombinator.com/item?id=30648360</id>
+        <link href="https://news.ycombinator.com/item?id=30648360"/>
+        <updated>2022-03-12T02:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Putin’s Worsening Problems]]></summary>
+        <author>
+            <name>guildwriter</name>
+            <uri>https://news.ycombinator.com/user?id=guildwriter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迁移Thunderbird配置文件。一个三幕的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30623480</id>
+        <link href="https://news.ycombinator.com/item?id=30623480"/>
+        <updated>2022-03-10T05:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Migrating Thunderbird profiles: A story in three acts]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件驱动和系统级测试驱动芯片质量]]></title>
+        <id>https://news.ycombinator.com/item?id=30615355</id>
+        <link href="https://news.ycombinator.com/item?id=30615355"/>
+        <updated>2022-03-09T15:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Software-Driven and System-Level Tests Drive Chip Quality]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何设计更好的API]]></title>
         <id>https://news.ycombinator.com/item?id=30647784</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现代电信网络追踪]]></title>
-        <id>https://news.ycombinator.com/item?id=30558054</id>
-        <link href="https://news.ycombinator.com/item?id=30558054"/>
-        <updated>2022-03-04T17:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Modern Telecom Network Tracing]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QR Date - 里面的签名时间戳用于验证日期]]></title>
-        <id>https://news.ycombinator.com/item?id=30566037</id>
-        <link href="https://news.ycombinator.com/item?id=30566037"/>
-        <updated>2022-03-05T09:48:31.000Z</updated>
-        <summary type="html"><![CDATA[QR Date – signed timestamps inside for verifying dates]]></summary>
-        <author>
-            <name>JNRowe</name>
-            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在乌克兰街头鼓励 "战斗 "的弊端]]></title>
-        <id>https://news.ycombinator.com/item?id=30566360</id>
-        <link href="https://news.ycombinator.com/item?id=30566360"/>
-        <updated>2022-03-05T11:00:50.000Z</updated>
-        <summary type="html"><![CDATA[The downside of encouraging ‘the fight’ on the streets of Ukraine]]></summary>
-        <author>
-            <name>nikolay</name>
-            <uri>https://news.ycombinator.com/user?id=nikolay</uri>
         </author>
     </entry>
 </feed>
