@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T13:33:25.530Z</updated>
+    <updated>2022-03-12T14:11:04.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[霍金霍金。一个科学名人的卖点]]></title>
+        <id>https://news.ycombinator.com/item?id=30626497</id>
+        <link href="https://news.ycombinator.com/item?id=30626497"/>
+        <updated>2022-03-10T13:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Hawking Hawking: The Selling of a Scientific Celebrity]]></summary>
+        <author>
+            <name>andrewl</name>
+            <uri>https://news.ycombinator.com/user?id=andrewl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[艾尔登戒指有那么难吗？嗯，这取决于你说的 "难 "是什么意思]]></title>
         <id>https://news.ycombinator.com/item?id=30616190</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuildZoom（建造定制房屋的更好方法）正在招聘一名发展助理]]></title>
-        <id>https://news.ycombinator.com/item?id=30569247</id>
-        <link href="https://news.ycombinator.com/item?id=30569247"/>
-        <updated>2022-03-05T17:00:57.000Z</updated>
-        <summary type="html"><![CDATA[BuildZoom (better way to build custom homes) is hiring a growth associate]]></summary>
-        <author>
-            <name>the_economist</name>
-            <uri>https://news.ycombinator.com/user?id=the_economist</uri>
         </author>
     </entry>
 </feed>
