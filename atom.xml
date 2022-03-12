@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T06:38:12.946Z</updated>
+    <updated>2022-03-12T07:12:12.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我每天晚上开车送人的醉汉]]></title>
+        <id>https://news.ycombinator.com/item?id=30612066</id>
+        <link href="https://news.ycombinator.com/item?id=30612066"/>
+        <updated>2022-03-09T08:08:09.000Z</updated>
+        <summary type="html"><![CDATA[The Drunk Men I Drive Around Every Night]]></summary>
+        <author>
+            <name>serverlessmom</name>
+            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[穿透云层的盔甲--谷歌云平台WAF中的8KB绕道]]></title>
         <id>https://news.ycombinator.com/item?id=30649328</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维修权团体和农民联盟对约翰迪尔提出联邦贸易委员会投诉]]></title>
-        <id>https://news.ycombinator.com/item?id=30566953</id>
-        <link href="https://news.ycombinator.com/item?id=30566953"/>
-        <updated>2022-03-05T12:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Right to Repair Groups and Farmers Unions File FTC Complaint Against John Deere]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
