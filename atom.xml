@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T10:43:38.863Z</updated>
+    <updated>2022-03-12T11:11:47.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[弧形曲线（RadixSpline）。一个单程学习的指数]]></title>
+        <id>https://news.ycombinator.com/item?id=30617139</id>
+        <link href="https://news.ycombinator.com/item?id=30617139"/>
+        <updated>2022-03-09T17:16:08.000Z</updated>
+        <summary type="html"><![CDATA[RadixSpline: A Single-Pass Learned Index]]></summary>
+        <author>
+            <name>lichtenberger</name>
+            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天是Y Combinator的17岁生日]]></title>
         <id>https://news.ycombinator.com/item?id=30650238</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Sami_Lehtinen</name>
             <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度和非洲学生离开乌克兰面临暴力]]></title>
-        <id>https://news.ycombinator.com/item?id=30568200</id>
-        <link href="https://news.ycombinator.com/item?id=30568200"/>
-        <updated>2022-03-05T15:11:47.000Z</updated>
-        <summary type="html"><![CDATA[Indian and African students face violence leaving Ukraine]]></summary>
-        <author>
-            <name>nikhizzle</name>
-            <uri>https://news.ycombinator.com/user?id=nikhizzle</uri>
         </author>
     </entry>
 </feed>
