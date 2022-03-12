@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T03:43:13.098Z</updated>
+    <updated>2022-03-12T04:58:09.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜安培直播電臺應用]]></title>
+        <id>https://news.ycombinator.com/item?id=30613650</id>
+        <link href="https://news.ycombinator.com/item?id=30613650"/>
+        <updated>2022-03-09T12:19:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Amp Live Radio App]]></summary>
+        <author>
+            <name>raldu</name>
+            <uri>https://news.ycombinator.com/user?id=raldu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神經符號編程（2021年） [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30631907</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rcarmo</name>
             <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為工作的程序員揭開NaN的神秘面紗]]></title>
-        <id>https://news.ycombinator.com/item?id=30558690</id>
-        <link href="https://news.ycombinator.com/item?id=30558690"/>
-        <updated>2022-03-04T18:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Demystifying NaN for the Working Programmer]]></summary>
-        <author>
-            <name>Zacru</name>
-            <uri>https://news.ycombinator.com/user?id=Zacru</uri>
         </author>
     </entry>
 </feed>
