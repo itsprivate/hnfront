@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Mar 2022 19:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 19:36:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[单腿滑雪者制造了一个巧妙的假肢]]></title>
+            <link>https://news.ycombinator.com/item?id=30631930</link>
+            <guid>https://news.ycombinator.com/item?id=30631930</guid>
+            <pubDate>Thu, 10 Mar 2022 20:22:53 GMT</pubDate>
+            <description><![CDATA[The One-Legged Snowboarder Who Built an Ingenious Prosthetic]]></description>
+        </item>
         <item>
             <title><![CDATA[CVE-2022-25636的发现和利用]]></title>
             <link>https://news.ycombinator.com/item?id=30653137</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30572290</guid>
             <pubDate>Sat, 05 Mar 2022 21:52:42 GMT</pubDate>
             <description><![CDATA[I’m not convinced by the new lab leak debunking (gated Substack)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[参数化查询中的SQL注入]]></title>
-            <link>https://news.ycombinator.com/item?id=30571990</link>
-            <guid>https://news.ycombinator.com/item?id=30571990</guid>
-            <pubDate>Sat, 05 Mar 2022 21:18:49 GMT</pubDate>
-            <description><![CDATA[SQL Injection in a Parameterized Query]]></description>
         </item>
     </channel>
 </rss>
