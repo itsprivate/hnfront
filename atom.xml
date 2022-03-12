@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T14:51:55.722Z</updated>
+    <updated>2022-03-12T15:12:14.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[教学是一个缓慢的过程，成为你讨厌的一切]]></title>
+        <id>https://news.ycombinator.com/item?id=30651720</id>
+        <link href="https://news.ycombinator.com/item?id=30651720"/>
+        <updated>2022-03-12T14:47:41.000Z</updated>
+        <summary type="html"><![CDATA[Teaching is a slow process of becoming everything you hate]]></summary>
+        <author>
+            <name>dynm</name>
+            <uri>https://news.ycombinator.com/user?id=dynm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber资助新的游说团体，拒绝为临时工提供权利]]></title>
+        <id>https://news.ycombinator.com/item?id=30651365</id>
+        <link href="https://news.ycombinator.com/item?id=30651365"/>
+        <updated>2022-03-12T13:55:33.000Z</updated>
+        <summary type="html"><![CDATA[Uber funds new lobbying group to deny rights for gig workers]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[软件开发人员的非标准书单]]></title>
         <id>https://news.ycombinator.com/item?id=30651273</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA: 屏蔽了]]></title>
-        <id>https://news.ycombinator.com/item?id=30569271</id>
-        <link href="https://news.ycombinator.com/item?id=30569271"/>
-        <updated>2022-03-05T17:02:47.000Z</updated>
-        <summary type="html"><![CDATA[CISA: Shields Up]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自我托管你的静态资产 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30569528</id>
-        <link href="https://news.ycombinator.com/item?id=30569528"/>
-        <updated>2022-03-05T17:22:40.000Z</updated>
-        <summary type="html"><![CDATA[Self-Host Your Static Assets (2019)]]></summary>
-        <author>
-            <name>kosasbest</name>
-            <uri>https://news.ycombinator.com/user?id=kosasbest</uri>
         </author>
     </entry>
 </feed>
