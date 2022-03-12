@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T15:12:14.367Z</updated>
+    <updated>2022-03-12T15:33:38.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一把有很多鑰匙的鎖。欺騙8.8.8.8中的DNSSEC簽名的域名]]></title>
+        <id>https://news.ycombinator.com/item?id=30651840</id>
+        <link href="https://news.ycombinator.com/item?id=30651840"/>
+        <updated>2022-03-12T15:04:39.000Z</updated>
+        <summary type="html"><![CDATA[A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8]]></summary>
+        <author>
+            <name>sintax</name>
+            <uri>https://news.ycombinator.com/user?id=sintax</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解僱某人的陽光面]]></title>
+        <id>https://news.ycombinator.com/item?id=30651576</id>
+        <link href="https://news.ycombinator.com/item?id=30651576"/>
+        <updated>2022-03-12T14:25:07.000Z</updated>
+        <summary type="html"><![CDATA[The Sunny Side of Firing Someone]]></summary>
+        <author>
+            <name>mad_ned</name>
+            <uri>https://news.ycombinator.com/user?id=mad_ned</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教學是一個緩慢的過程，成為你討厭的一切]]></title>
         <id>https://news.ycombinator.com/item?id=30651720</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mattlock</name>
             <uri>https://news.ycombinator.com/user?id=mattlock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webhook指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30566605</id>
-        <link href="https://news.ycombinator.com/item?id=30566605"/>
-        <updated>2022-03-05T11:39:21.000Z</updated>
-        <summary type="html"><![CDATA[Guide to All Things Webhook]]></summary>
-        <author>
-            <name>mattrighetti</name>
-            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡車運輸為何不能送達貨物]]></title>
-        <id>https://news.ycombinator.com/item?id=30569519</id>
-        <link href="https://news.ycombinator.com/item?id=30569519"/>
-        <updated>2022-03-05T17:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Why Trucking Can’t Deliver the Goods]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
