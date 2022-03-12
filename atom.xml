@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T08:14:25.397Z</updated>
+    <updated>2022-03-12T08:36:12.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[功能性网络应用程序(FWA)]]></title>
+        <id>https://news.ycombinator.com/item?id=30634496</id>
+        <link href="https://news.ycombinator.com/item?id=30634496"/>
+        <updated>2022-03-11T00:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Functional Web App (FWA)]]></summary>
+        <author>
+            <name>craigkerstiens</name>
+            <uri>https://news.ycombinator.com/user?id=craigkerstiens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技行业控制了CS会议的资金。有什么危险？]]></title>
         <id>https://news.ycombinator.com/item?id=30649729</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tech-historian</name>
             <uri>https://news.ycombinator.com/user?id=tech-historian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[形成狗的互联网。狗与人视频通话设备的原型设计]]></title>
-        <id>https://news.ycombinator.com/item?id=30567611</id>
-        <link href="https://news.ycombinator.com/item?id=30567611"/>
-        <updated>2022-03-05T13:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
         </author>
     </entry>
 </feed>
