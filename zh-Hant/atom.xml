@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T09:12:37.309Z</updated>
+    <updated>2022-03-12T09:51:53.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雞蛋盒的起源可以追溯到20世紀初。]]></title>
+        <id>https://news.ycombinator.com/item?id=30631717</id>
+        <link href="https://news.ycombinator.com/item?id=30631717"/>
+        <updated>2022-03-10T20:03:10.000Z</updated>
+        <summary type="html"><![CDATA[The egg carton traces its origins to the early 20th century]]></summary>
+        <author>
+            <name>magnifique</name>
+            <uri>https://news.ycombinator.com/user?id=magnifique</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼現代電影很糟糕]]></title>
         <id>https://news.ycombinator.com/item?id=30649814</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>benbreen</name>
             <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解2011-2021年科技界的科學經費]]></title>
-        <id>https://news.ycombinator.com/item?id=30557857</id>
-        <link href="https://news.ycombinator.com/item?id=30557857"/>
-        <updated>2022-03-04T17:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding science funding in tech, 2011-2021]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
