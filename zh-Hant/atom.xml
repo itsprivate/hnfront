@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T14:11:05.040Z</updated>
+    <updated>2022-03-12T14:29:13.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特爾發現AMD的Spectre緩解措施存在漏洞 - AMD發佈修復方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30651324</id>
+        <link href="https://news.ycombinator.com/item?id=30651324"/>
+        <updated>2022-03-12T13:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Intel Finds Bug in AMD's Spectre Mitigation – AMD Issues Fix]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UEFI的Twitter客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30651295</id>
+        <link href="https://news.ycombinator.com/item?id=30651295"/>
+        <updated>2022-03-12T13:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Client for UEFI]]></summary>
+        <author>
+            <name>gslin</name>
+            <uri>https://news.ycombinator.com/user?id=gslin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[霍金霍金。一個科學名人的賣點]]></title>
         <id>https://news.ycombinator.com/item?id=30626497</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>javarome</name>
             <uri>https://news.ycombinator.com/user?id=javarome</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歡迎進入英特爾冰湖D時代的Xeon D-2700和D-1700系列]]></title>
-        <id>https://news.ycombinator.com/item?id=30568011</id>
-        <link href="https://news.ycombinator.com/item?id=30568011"/>
-        <updated>2022-03-05T14:48:28.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Intel Ice Lake D Era with the Xeon D-2700 and D-1700 series]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[發芽的馬鈴薯安全嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30567536</id>
-        <link href="https://news.ycombinator.com/item?id=30567536"/>
-        <updated>2022-03-05T13:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Are Sprouted Potatoes Safe?]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
