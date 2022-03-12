@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 12 Mar 2022 19:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 19:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CVE-2022-25636的發現和利用]]></title>
+            <link>https://news.ycombinator.com/item?id=30653137</link>
+            <guid>https://news.ycombinator.com/item?id=30653137</guid>
+            <pubDate>Sat, 12 Mar 2022 17:43:22 GMT</pubDate>
+            <description><![CDATA[The Discovery and Exploitation of CVE-2022-25636]]></description>
+        </item>
         <item>
             <title><![CDATA[沉默讓人振聾發聵]]></title>
             <link>https://news.ycombinator.com/item?id=30653691</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30571990</guid>
             <pubDate>Sat, 05 Mar 2022 21:18:49 GMT</pubDate>
             <description><![CDATA[SQL Injection in a Parameterized Query]]></description>
-        </item>
-        <item>
-            <title><![CDATA[老舊但優秀的Mac應用程序有什麼問題？]]></title>
-            <link>https://news.ycombinator.com/item?id=30552973</link>
-            <guid>https://news.ycombinator.com/item?id=30552973</guid>
-            <pubDate>Fri, 04 Mar 2022 10:43:16 GMT</pubDate>
-            <description><![CDATA[What's the Problem with Old but Excellent Mac Apps?]]></description>
         </item>
     </channel>
 </rss>

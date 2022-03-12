@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-12T19:10:57.818Z</updated>
+    <updated>2022-03-12T19:25:36.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-25636的發現和利用]]></title>
+        <id>https://news.ycombinator.com/item?id=30653137</id>
+        <link href="https://news.ycombinator.com/item?id=30653137"/>
+        <updated>2022-03-12T17:43:22.000Z</updated>
+        <summary type="html"><![CDATA[The Discovery and Exploitation of CVE-2022-25636]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沉默讓人振聾發聵]]></title>
         <id>https://news.ycombinator.com/item?id=30653691</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>caaqil</name>
             <uri>https://news.ycombinator.com/user?id=caaqil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老舊但優秀的Mac應用程序有什麼問題？]]></title>
-        <id>https://news.ycombinator.com/item?id=30552973</id>
-        <link href="https://news.ycombinator.com/item?id=30552973"/>
-        <updated>2022-03-04T10:43:16.000Z</updated>
-        <summary type="html"><![CDATA[What's the Problem with Old but Excellent Mac Apps?]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
