@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T08:51:30.444Z</updated>
+    <updated>2022-03-13T10:14:23.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[储存UTC不是银弹]]></title>
+        <id>https://news.ycombinator.com/item?id=30659164</id>
+        <link href="https://news.ycombinator.com/item?id=30659164"/>
+        <updated>2022-03-13T08:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Storing UTC is not a silver bullet]]></summary>
+        <author>
+            <name>nickkell</name>
+            <uri>https://news.ycombinator.com/user?id=nickkell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[达到工作人员以上的工程职位的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30659096</id>
+        <link href="https://news.ycombinator.com/item?id=30659096"/>
+        <updated>2022-03-13T08:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Stories of reaching Staff-plus engineering roles]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Trilateration。滥用 "我附近的人 "并追踪人们的位置]]></title>
+        <id>https://news.ycombinator.com/item?id=30646124</id>
+        <link href="https://news.ycombinator.com/item?id=30646124"/>
+        <updated>2022-03-11T21:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Telegram Trilateration: Abusing “People Near Me” and tracking people's location]]></summary>
+        <author>
+            <name>gaius_baltar</name>
+            <uri>https://news.ycombinator.com/user?id=gaius_baltar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代1Password的产品]]></title>
         <id>https://news.ycombinator.com/item?id=30658936</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mmackh</name>
             <uri>https://news.ycombinator.com/user?id=mmackh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字健康规则]]></title>
-        <id>https://news.ycombinator.com/item?id=30576605</id>
-        <link href="https://news.ycombinator.com/item?id=30576605"/>
-        <updated>2022-03-06T10:51:40.000Z</updated>
-        <summary type="html"><![CDATA[Digital Health Rules]]></summary>
-        <author>
-            <name>vitabenes</name>
-            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们自动修复了数以千计的Ruby 2.7的废弃警告]]></title>
-        <id>https://news.ycombinator.com/item?id=30576438</id>
-        <link href="https://news.ycombinator.com/item?id=30576438"/>
-        <updated>2022-03-06T10:16:01.000Z</updated>
-        <summary type="html"><![CDATA[We automatically fixed thousands of Ruby 2.7 deprecation warnings]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[咒语。拼写纠正速度提高100万倍]]></title>
-        <id>https://news.ycombinator.com/item?id=30576435</id>
-        <link href="https://news.ycombinator.com/item?id=30576435"/>
-        <updated>2022-03-06T10:15:40.000Z</updated>
-        <summary type="html"><![CDATA[SymSpell: 1M times faster spelling correction]]></summary>
-        <author>
-            <name>mci</name>
-            <uri>https://news.ycombinator.com/user?id=mci</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 08:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 10:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[儲存UTC不是銀彈]]></title>
+            <link>https://news.ycombinator.com/item?id=30659164</link>
+            <guid>https://news.ycombinator.com/item?id=30659164</guid>
+            <pubDate>Sun, 13 Mar 2022 08:26:45 GMT</pubDate>
+            <description><![CDATA[Storing UTC is not a silver bullet]]></description>
+        </item>
+        <item>
+            <title><![CDATA[達到工作人員以上的工程職位的故事]]></title>
+            <link>https://news.ycombinator.com/item?id=30659096</link>
+            <guid>https://news.ycombinator.com/item?id=30659096</guid>
+            <pubDate>Sun, 13 Mar 2022 08:16:02 GMT</pubDate>
+            <description><![CDATA[Stories of reaching Staff-plus engineering roles]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Telegram Trilateration。濫用 "我附近的人 "並追蹤人們的位置]]></title>
+            <link>https://news.ycombinator.com/item?id=30646124</link>
+            <guid>https://news.ycombinator.com/item?id=30646124</guid>
+            <pubDate>Fri, 11 Mar 2022 21:17:54 GMT</pubDate>
+            <description><![CDATA[Telegram Trilateration: Abusing “People Near Me” and tracking people's location]]></description>
+        </item>
         <item>
             <title><![CDATA[替代1Password的產品]]></title>
             <link>https://news.ycombinator.com/item?id=30658936</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30576742</guid>
             <pubDate>Sun, 06 Mar 2022 11:23:53 GMT</pubDate>
             <description><![CDATA[InstaNFC – Access Control Hardware for Developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[數字健康規則]]></title>
-            <link>https://news.ycombinator.com/item?id=30576605</link>
-            <guid>https://news.ycombinator.com/item?id=30576605</guid>
-            <pubDate>Sun, 06 Mar 2022 10:51:40 GMT</pubDate>
-            <description><![CDATA[Digital Health Rules]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們自動修復了數以千計的Ruby 2.7的廢棄警告]]></title>
-            <link>https://news.ycombinator.com/item?id=30576438</link>
-            <guid>https://news.ycombinator.com/item?id=30576438</guid>
-            <pubDate>Sun, 06 Mar 2022 10:16:01 GMT</pubDate>
-            <description><![CDATA[We automatically fixed thousands of Ruby 2.7 deprecation warnings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[咒語。拼寫糾正速度提高100萬倍]]></title>
-            <link>https://news.ycombinator.com/item?id=30576435</link>
-            <guid>https://news.ycombinator.com/item?id=30576435</guid>
-            <pubDate>Sun, 06 Mar 2022 10:15:40 GMT</pubDate>
-            <description><![CDATA[SymSpell: 1M times faster spelling correction]]></description>
         </item>
     </channel>
 </rss>
