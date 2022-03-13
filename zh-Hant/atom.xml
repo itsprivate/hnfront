@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T12:16:05.238Z</updated>
+    <updated>2022-03-13T12:48:18.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes的未來]]></title>
+        <id>https://news.ycombinator.com/item?id=30660534</id>
+        <link href="https://news.ycombinator.com/item?id=30660534"/>
+        <updated>2022-03-13T12:09:05.000Z</updated>
+        <summary type="html"><![CDATA[The Future of Kubernetes]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為了拯救C，我們必須拯救ABI]]></title>
+        <id>https://news.ycombinator.com/item?id=30660528</id>
+        <link href="https://news.ycombinator.com/item?id=30660528"/>
+        <updated>2022-03-13T12:07:57.000Z</updated>
+        <summary type="html"><![CDATA[To Save C, We Must Save ABI]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞當-斯密的意思並不像他經常說的那樣]]></title>
         <id>https://news.ycombinator.com/item?id=30631605</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Turukawa</name>
             <uri>https://news.ycombinator.com/user?id=Turukawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zotonic，埃朗網絡框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30577520</id>
-        <link href="https://news.ycombinator.com/item?id=30577520"/>
-        <updated>2022-03-06T13:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Zotonic, the Erlang Web Framework]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指紋 "ML技術在幾秒鐘內識別出不同的細菌]]></title>
-        <id>https://news.ycombinator.com/item?id=30577261</id>
-        <link href="https://news.ycombinator.com/item?id=30577261"/>
-        <updated>2022-03-06T12:52:36.000Z</updated>
-        <summary type="html"><![CDATA['Fingerprint' ML Technique Identifies Different Bacteria in Seconds]]></summary>
-        <author>
-            <name>NotAWorkNick</name>
-            <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
         </author>
     </entry>
 </feed>

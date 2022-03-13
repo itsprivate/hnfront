@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 12:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 12:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Kubernetes的未来]]></title>
+            <link>https://news.ycombinator.com/item?id=30660534</link>
+            <guid>https://news.ycombinator.com/item?id=30660534</guid>
+            <pubDate>Sun, 13 Mar 2022 12:09:05 GMT</pubDate>
+            <description><![CDATA[The Future of Kubernetes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为了拯救C，我们必须拯救ABI]]></title>
+            <link>https://news.ycombinator.com/item?id=30660528</link>
+            <guid>https://news.ycombinator.com/item?id=30660528</guid>
+            <pubDate>Sun, 13 Mar 2022 12:07:57 GMT</pubDate>
+            <description><![CDATA[To Save C, We Must Save ABI]]></description>
+        </item>
         <item>
             <title><![CDATA[亚当-斯密的意思并不像他经常说的那样]]></title>
             <link>https://news.ycombinator.com/item?id=30631605</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30567090</guid>
             <pubDate>Sat, 05 Mar 2022 12:50:33 GMT</pubDate>
             <description><![CDATA[Nosferatu: The monster who still terrifies, 100 years on]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zotonic，埃朗网络框架]]></title>
-            <link>https://news.ycombinator.com/item?id=30577520</link>
-            <guid>https://news.ycombinator.com/item?id=30577520</guid>
-            <pubDate>Sun, 06 Mar 2022 13:37:38 GMT</pubDate>
-            <description><![CDATA[Zotonic, the Erlang Web Framework]]></description>
-        </item>
-        <item>
-            <title><![CDATA[指纹 "ML技术在几秒钟内识别出不同的细菌]]></title>
-            <link>https://news.ycombinator.com/item?id=30577261</link>
-            <guid>https://news.ycombinator.com/item?id=30577261</guid>
-            <pubDate>Sun, 06 Mar 2022 12:52:36 GMT</pubDate>
-            <description><![CDATA['Fingerprint' ML Technique Identifies Different Bacteria in Seconds]]></description>
         </item>
     </channel>
 </rss>
