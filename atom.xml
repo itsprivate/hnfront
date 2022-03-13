@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T13:41:51.123Z</updated>
+    <updated>2022-03-13T13:51:36.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一点也不含糊，早就该如此了--用户可更换电池]]></title>
+        <id>https://news.ycombinator.com/item?id=30660953</id>
+        <link href="https://news.ycombinator.com/item?id=30660953"/>
+        <updated>2022-03-13T13:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Not dodgy at all and long overdue – user replaceable batteries]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qgis2threejs: 在网络上实现DEM地图和三维矢量数据的可视化]]></title>
         <id>https://news.ycombinator.com/item?id=30660948</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gary_chambers</name>
             <uri>https://news.ycombinator.com/user?id=gary_chambers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不，"开源 "并不意味着 "包括免费支持"(2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30577666</id>
-        <link href="https://news.ycombinator.com/item?id=30577666"/>
-        <updated>2022-03-06T14:06:17.000Z</updated>
-        <summary type="html"><![CDATA[No, “Open Source” does not mean “Includes Free Support” (2020)]]></summary>
-        <author>
-            <name>jeroenhd</name>
-            <uri>https://news.ycombinator.com/user?id=jeroenhd</uri>
         </author>
     </entry>
 </feed>
