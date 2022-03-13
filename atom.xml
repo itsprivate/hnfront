@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T13:06:37.865Z</updated>
+    <updated>2022-03-13T13:33:47.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[全球流媒体的繁荣正在造成翻译人员的短缺 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30660971</id>
+        <link href="https://news.ycombinator.com/item?id=30660971"/>
+        <updated>2022-03-13T13:16:35.000Z</updated>
+        <summary type="html"><![CDATA[The global streaming boom is creating a translator shortage (2021)]]></summary>
+        <author>
+            <name>donohoe</name>
+            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阅览室的艺术]]></title>
         <id>https://news.ycombinator.com/item?id=30636433</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wunderlust</name>
             <uri>https://news.ycombinator.com/user?id=wunderlust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interop 2022：浏览器共同合作，为开发者改进网络]]></title>
-        <id>https://news.ycombinator.com/item?id=30577372</id>
-        <link href="https://news.ycombinator.com/item?id=30577372"/>
-        <updated>2022-03-06T13:14:28.000Z</updated>
-        <summary type="html"><![CDATA[Interop 2022: browsers working together to improve the web for developers]]></summary>
-        <author>
-            <name>twapi</name>
-            <uri>https://news.ycombinator.com/user?id=twapi</uri>
         </author>
     </entry>
 </feed>
