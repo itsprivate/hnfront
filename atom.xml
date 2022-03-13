@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T18:36:25.645Z</updated>
+    <updated>2022-03-13T18:53:40.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工程管理资源大清单 - 2022年3月]]></title>
+        <id>https://news.ycombinator.com/item?id=30664295</id>
+        <link href="https://news.ycombinator.com/item?id=30664295"/>
+        <updated>2022-03-13T18:30:35.000Z</updated>
+        <summary type="html"><![CDATA[The Big List of Engineering Management Resources – March 2022]]></summary>
+        <author>
+            <name>shawnaxsom</name>
+            <uri>https://news.ycombinator.com/user?id=shawnaxsom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何做得更少]]></title>
         <id>https://news.ycombinator.com/item?id=30642596</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tromp</name>
             <uri>https://news.ycombinator.com/user?id=tromp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[该死的超酷算法。列文施泰因自动机]]></title>
-        <id>https://news.ycombinator.com/item?id=30566119</id>
-        <link href="https://news.ycombinator.com/item?id=30566119"/>
-        <updated>2022-03-05T10:08:36.000Z</updated>
-        <summary type="html"><![CDATA[Damn Cool Algorithms: Levenshtein Automata]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
