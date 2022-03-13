@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 10:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 10:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通過記錄CLI工具的幫助輸出來跟蹤其變化]]></title>
+            <link>https://news.ycombinator.com/item?id=30658310</link>
+            <guid>https://news.ycombinator.com/item?id=30658310</guid>
+            <pubDate>Sun, 13 Mar 2022 05:36:13 GMT</pubDate>
+            <description><![CDATA[Track changes to CLI tools by recording their help output]]></description>
+        </item>
         <item>
             <title><![CDATA[基於赤道的法國共和曆]]></title>
             <link>https://news.ycombinator.com/item?id=30658487</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30576959</guid>
             <pubDate>Sun, 06 Mar 2022 12:01:08 GMT</pubDate>
             <description><![CDATA[The Muse (YC W12) Is Hiring a Senior Platform Engineer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[神經網絡可以計算任何函數的直觀證明]]></title>
-            <link>https://news.ycombinator.com/item?id=30576943</link>
-            <guid>https://news.ycombinator.com/item?id=30576943</guid>
-            <pubDate>Sun, 06 Mar 2022 11:56:54 GMT</pubDate>
-            <description><![CDATA[A visual proof that neural nets can compute any function]]></description>
         </item>
     </channel>
 </rss>
