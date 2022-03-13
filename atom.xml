@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T21:13:11.303Z</updated>
+    <updated>2022-03-13T21:28:51.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Arpanet先驱杰克-哈弗蒂说互联网从未完成过]]></title>
+        <id>https://news.ycombinator.com/item?id=30651306</id>
+        <link href="https://news.ycombinator.com/item?id=30651306"/>
+        <updated>2022-03-12T13:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Arpanet pioneer Jack Haverty says the internet was never finished]]></summary>
+        <author>
+            <name>onei</name>
+            <uri>https://news.ycombinator.com/user?id=onei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EasyPost (YC S13)正在招聘API工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30665661</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逃离特权容器的乐趣]]></title>
-        <id>https://news.ycombinator.com/item?id=30576335</id>
-        <link href="https://news.ycombinator.com/item?id=30576335"/>
-        <updated>2022-03-06T09:54:16.000Z</updated>
-        <summary type="html"><![CDATA[Escaping privileged containers for fun]]></summary>
-        <author>
-            <name>jordyzomer</name>
-            <uri>https://news.ycombinator.com/user?id=jordyzomer</uri>
         </author>
     </entry>
 </feed>
