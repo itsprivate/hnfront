@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 11:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 11:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[创建随机头像的自我托管服务]]></title>
+            <link>https://news.ycombinator.com/item?id=30660316</link>
+            <guid>https://news.ycombinator.com/item?id=30660316</guid>
+            <pubDate>Sun, 13 Mar 2022 11:30:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Self-hosted service for creating random avatars]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LiBlast。用Godot 4和Blender制作的自由多人FPS游戏]]></title>
+            <link>https://news.ycombinator.com/item?id=30660000</link>
+            <guid>https://news.ycombinator.com/item?id=30660000</guid>
+            <pubDate>Sun, 13 Mar 2022 10:36:44 GMT</pubDate>
+            <description><![CDATA[LiBlast: A Libre Multiplayer FPS Game Built with Godot 4 and Blender]]></description>
+        </item>
         <item>
             <title><![CDATA[用sed编写的数字电路仿真器]]></title>
             <link>https://news.ycombinator.com/item?id=30660203</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30577040</guid>
             <pubDate>Sun, 06 Mar 2022 12:15:38 GMT</pubDate>
             <description><![CDATA[Gdelt Project: Global Database of Events, Language, and Tone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[假冒Yubikeys的风险是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30577162</link>
-            <guid>https://news.ycombinator.com/item?id=30577162</guid>
-            <pubDate>Sun, 06 Mar 2022 12:36:27 GMT</pubDate>
-            <description><![CDATA[What's the Risk from Fake Yubikeys?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于终止ENOG的请求]]></title>
-            <link>https://news.ycombinator.com/item?id=30576179</link>
-            <guid>https://news.ycombinator.com/item?id=30576179</guid>
-            <pubDate>Sun, 06 Mar 2022 09:13:08 GMT</pubDate>
-            <description><![CDATA[A Request to Terminate ENOG]]></description>
         </item>
     </channel>
 </rss>
