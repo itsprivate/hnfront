@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T19:53:11.634Z</updated>
+    <updated>2022-03-13T20:33:20.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[單晶硅正在改變團隊構建軟件的方式]]></title>
+        <id>https://news.ycombinator.com/item?id=30635888</id>
+        <link href="https://news.ycombinator.com/item?id=30635888"/>
+        <updated>2022-03-11T03:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Monorepos are changing how teams build software]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一個反客戶的時代，我從Windows到Linux的轉變]]></title>
         <id>https://news.ycombinator.com/item?id=30664681</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wslh</name>
             <uri>https://news.ycombinator.com/user?id=wslh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關閉重要的紀錄片工具YouTube-Dl的運動仍在繼續]]></title>
-        <id>https://news.ycombinator.com/item?id=30582986</id>
-        <link href="https://news.ycombinator.com/item?id=30582986"/>
-        <updated>2022-03-07T01:09:09.000Z</updated>
-        <summary type="html"><![CDATA[The Campaign to Shut Down Crucial Documentary Tool YouTube-Dl Continues]]></summary>
-        <author>
-            <name>DiabloD3</name>
-            <uri>https://news.ycombinator.com/user?id=DiabloD3</uri>
         </author>
     </entry>
 </feed>
