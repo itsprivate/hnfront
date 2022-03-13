@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 18:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 18:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何做得更少]]></title>
+            <link>https://news.ycombinator.com/item?id=30642596</link>
+            <guid>https://news.ycombinator.com/item?id=30642596</guid>
+            <pubDate>Fri, 11 Mar 2022 17:06:00 GMT</pubDate>
+            <description><![CDATA[How to Do Less]]></description>
+        </item>
         <item>
             <title><![CDATA[在512MB的单核RISC-V硬件上的ZFS]]></title>
             <link>https://news.ycombinator.com/item?id=30663400</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30566119</guid>
             <pubDate>Sat, 05 Mar 2022 10:08:36 GMT</pubDate>
             <description><![CDATA[Damn Cool Algorithms: Levenshtein Automata]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ryven - 基于流程的Python可视化脚本]]></title>
-            <link>https://news.ycombinator.com/item?id=30580569</link>
-            <guid>https://news.ycombinator.com/item?id=30580569</guid>
-            <pubDate>Sun, 06 Mar 2022 19:50:01 GMT</pubDate>
-            <description><![CDATA[Ryven – Flow-based visual scripting for Python]]></description>
         </item>
     </channel>
 </rss>
