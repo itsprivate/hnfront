@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T20:33:20.167Z</updated>
+    <updated>2022-03-13T20:40:26.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[託卡馬克能源公司實現了商業核聚變的溫度閾值]]></title>
+        <id>https://news.ycombinator.com/item?id=30665140</id>
+        <link href="https://news.ycombinator.com/item?id=30665140"/>
+        <updated>2022-03-13T20:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Tokamak Energy achieves temperature threshold for commercial fusion]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[單晶硅正在改變團隊構建軟件的方式]]></title>
         <id>https://news.ycombinator.com/item?id=30635888</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列4歲兒童小兒麻痺症檢測呈陽性，為1989年以來首例]]></title>
-        <id>https://news.ycombinator.com/item?id=30583059</id>
-        <link href="https://news.ycombinator.com/item?id=30583059"/>
-        <updated>2022-03-07T01:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Four-year-old Israeli child tests positive for polio, first case since 1989]]></summary>
-        <author>
-            <name>wslh</name>
-            <uri>https://news.ycombinator.com/user?id=wslh</uri>
         </author>
     </entry>
 </feed>
