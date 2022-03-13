@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T21:51:54.470Z</updated>
+    <updated>2022-03-13T22:11:37.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用速率限制来阻挡RDP的暴力攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=30665912</id>
+        <link href="https://news.ycombinator.com/item?id=30665912"/>
+        <updated>2022-03-13T21:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Blunting RDP brute-force attacks with rate limiting]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纽约时报关闭Wordle档案]]></title>
         <id>https://news.ycombinator.com/item?id=30665911</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ComputerGuru</name>
             <uri>https://news.ycombinator.com/user?id=ComputerGuru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用OpenGL的GPU介绍]]></title>
-        <id>https://news.ycombinator.com/item?id=30583905</id>
-        <link href="https://news.ycombinator.com/item?id=30583905"/>
-        <updated>2022-03-07T03:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to GPUs with OpenGL]]></summary>
-        <author>
-            <name>Seb-C</name>
-            <uri>https://news.ycombinator.com/user?id=Seb-C</uri>
         </author>
     </entry>
 </feed>
