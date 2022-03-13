@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T11:52:01.299Z</updated>
+    <updated>2022-03-13T12:16:05.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚当-斯密的意思并不像他经常说的那样]]></title>
+        <id>https://news.ycombinator.com/item?id=30631605</id>
+        <link href="https://news.ycombinator.com/item?id=30631605"/>
+        <updated>2022-03-10T19:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Adam Smith did not mean what he is often made to say]]></summary>
+        <author>
+            <name>agomez314</name>
+            <uri>https://news.ycombinator.com/user?id=agomez314</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创建随机头像的自我托管服务]]></title>
         <id>https://news.ycombinator.com/item?id=30660316</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>NotAWorkNick</name>
             <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gdelt项目。全球事件、语言和语气数据库]]></title>
-        <id>https://news.ycombinator.com/item?id=30577040</id>
-        <link href="https://news.ycombinator.com/item?id=30577040"/>
-        <updated>2022-03-06T12:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Gdelt Project: Global Database of Events, Language, and Tone]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
         </author>
     </entry>
 </feed>
