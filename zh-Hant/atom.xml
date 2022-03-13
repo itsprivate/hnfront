@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T11:11:28.128Z</updated>
+    <updated>2022-03-13T11:29:22.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用sed編寫的數字電路仿真器]]></title>
+        <id>https://news.ycombinator.com/item?id=30660203</id>
+        <link href="https://news.ycombinator.com/item?id=30660203"/>
+        <updated>2022-03-13T11:11:32.000Z</updated>
+        <summary type="html"><![CDATA[A digital circuit simulator written in sed]]></summary>
+        <author>
+            <name>curiousfab</name>
+            <uri>https://news.ycombinator.com/user?id=curiousfab</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manim - 用於創建數學動畫的Python庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30658390</id>
+        <link href="https://news.ycombinator.com/item?id=30658390"/>
+        <updated>2022-03-13T05:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Manim – Python library for creating mathematical animations]]></summary>
+        <author>
+            <name>sytelus</name>
+            <uri>https://news.ycombinator.com/user?id=sytelus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全的你，愛的密碼管理器 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30635676</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>greyface-</name>
             <uri>https://news.ycombinator.com/user?id=greyface-</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巖紙剪子游戲中的非赫米特拓撲學]]></title>
-        <id>https://news.ycombinator.com/item?id=30576980</id>
-        <link href="https://news.ycombinator.com/item?id=30576980"/>
-        <updated>2022-03-06T12:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Non-Hermitian topology in rock-paper-scissors games]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高級編程語言]]></title>
-        <id>https://news.ycombinator.com/item?id=30576940</id>
-        <link href="https://news.ycombinator.com/item?id=30576940"/>
-        <updated>2022-03-06T11:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Advanced Programming Languages]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
