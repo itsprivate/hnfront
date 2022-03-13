@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 13:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 14:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[TP-Link路由器显然未经用户同意就向Avira发送客户数据]]></title>
+            <link>https://news.ycombinator.com/item?id=30661101</link>
+            <guid>https://news.ycombinator.com/item?id=30661101</guid>
+            <pubDate>Sun, 13 Mar 2022 13:39:24 GMT</pubDate>
+            <description><![CDATA[TP-Link routers apparently sending customer data to Avira without user consent]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Snmalloc。高性能的基于消息传递的分配器]]></title>
+            <link>https://news.ycombinator.com/item?id=30659690</link>
+            <guid>https://news.ycombinator.com/item?id=30659690</guid>
+            <pubDate>Sun, 13 Mar 2022 09:48:26 GMT</pubDate>
+            <description><![CDATA[Snmalloc: High-performance message passing based allocator]]></description>
+        </item>
         <item>
             <title><![CDATA[一点也不含糊，早就该如此了--用户可更换电池]]></title>
             <link>https://news.ycombinator.com/item?id=30660953</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30577948</guid>
             <pubDate>Sun, 06 Mar 2022 14:57:37 GMT</pubDate>
             <description><![CDATA[Germany considers keeping nuclear power plants online]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么有人会选择Haskell来开发应用程序？]]></title>
-            <link>https://news.ycombinator.com/item?id=30577911</link>
-            <guid>https://news.ycombinator.com/item?id=30577911</guid>
-            <pubDate>Sun, 06 Mar 2022 14:52:10 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why would anyone choose Haskell to develop applications?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否将拉动和运行代码作为代码审查的一部分？]]></title>
-            <link>https://news.ycombinator.com/item?id=30577735</link>
-            <guid>https://news.ycombinator.com/item?id=30577735</guid>
-            <pubDate>Sun, 06 Mar 2022 14:17:04 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you pull and run code as part of code review?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T13:51:36.081Z</updated>
+    <updated>2022-03-13T14:11:31.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TP-Link路由器显然未经用户同意就向Avira发送客户数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30661101</id>
+        <link href="https://news.ycombinator.com/item?id=30661101"/>
+        <updated>2022-03-13T13:39:24.000Z</updated>
+        <summary type="html"><![CDATA[TP-Link routers apparently sending customer data to Avira without user consent]]></summary>
+        <author>
+            <name>electic</name>
+            <uri>https://news.ycombinator.com/user?id=electic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snmalloc。高性能的基于消息传递的分配器]]></title>
+        <id>https://news.ycombinator.com/item?id=30659690</id>
+        <link href="https://news.ycombinator.com/item?id=30659690"/>
+        <updated>2022-03-13T09:48:26.000Z</updated>
+        <summary type="html"><![CDATA[Snmalloc: High-performance message passing based allocator]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一点也不含糊，早就该如此了--用户可更换电池]]></title>
         <id>https://news.ycombinator.com/item?id=30660953</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nixass</name>
             <uri>https://news.ycombinator.com/user?id=nixass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有人会选择Haskell来开发应用程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30577911</id>
-        <link href="https://news.ycombinator.com/item?id=30577911"/>
-        <updated>2022-03-06T14:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why would anyone choose Haskell to develop applications?]]></summary>
-        <author>
-            <name>jamesdco</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否将拉动和运行代码作为代码审查的一部分？]]></title>
-        <id>https://news.ycombinator.com/item?id=30577735</id>
-        <link href="https://news.ycombinator.com/item?id=30577735"/>
-        <updated>2022-03-06T14:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you pull and run code as part of code review?]]></summary>
-        <author>
-            <name>gary_chambers</name>
-            <uri>https://news.ycombinator.com/user?id=gary_chambers</uri>
         </author>
     </entry>
 </feed>
