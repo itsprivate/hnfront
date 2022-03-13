@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 20:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 20:51:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大O音符计算器]]></title>
+            <link>https://news.ycombinator.com/item?id=30665336</link>
+            <guid>https://news.ycombinator.com/item?id=30665336</guid>
+            <pubDate>Sun, 13 Mar 2022 20:21:48 GMT</pubDate>
+            <description><![CDATA[Big O Notation Calculator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[矢量化、依赖性和外循环矢量化]]></title>
+            <link>https://news.ycombinator.com/item?id=30665316</link>
+            <guid>https://news.ycombinator.com/item?id=30665316</guid>
+            <pubDate>Sun, 13 Mar 2022 20:19:47 GMT</pubDate>
+            <description><![CDATA[Vectorization, dependencies and outer loop vectorization]]></description>
+        </item>
         <item>
             <title><![CDATA[托卡马克能源公司实现了商业核聚变的温度阈值]]></title>
             <link>https://news.ycombinator.com/item?id=30665140</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30583720</guid>
             <pubDate>Mon, 07 Mar 2022 02:54:13 GMT</pubDate>
             <description><![CDATA[Zero Rupee Note]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有信心的二进制搜索]]></title>
-            <link>https://news.ycombinator.com/item?id=30582168</link>
-            <guid>https://news.ycombinator.com/item?id=30582168</guid>
-            <pubDate>Sun, 06 Mar 2022 23:03:58 GMT</pubDate>
-            <description><![CDATA[Binary search with confidence]]></description>
-        </item>
-        <item>
-            <title><![CDATA["罗马假日 "电传代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30575371</link>
-            <guid>https://news.ycombinator.com/item?id=30575371</guid>
-            <pubDate>Sun, 06 Mar 2022 05:56:54 GMT</pubDate>
-            <description><![CDATA[The “Roman Holiday” teleprinter code]]></description>
         </item>
     </channel>
 </rss>

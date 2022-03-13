@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T20:40:26.041Z</updated>
+    <updated>2022-03-13T20:51:43.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大O音符计算器]]></title>
+        <id>https://news.ycombinator.com/item?id=30665336</id>
+        <link href="https://news.ycombinator.com/item?id=30665336"/>
+        <updated>2022-03-13T20:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Big O Notation Calculator]]></summary>
+        <author>
+            <name>lamsal</name>
+            <uri>https://news.ycombinator.com/user?id=lamsal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[矢量化、依赖性和外循环矢量化]]></title>
+        <id>https://news.ycombinator.com/item?id=30665316</id>
+        <link href="https://news.ycombinator.com/item?id=30665316"/>
+        <updated>2022-03-13T20:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Vectorization, dependencies and outer loop vectorization]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[托卡马克能源公司实现了商业核聚变的温度阈值]]></title>
         <id>https://news.ycombinator.com/item?id=30665140</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有信心的二进制搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30582168</id>
-        <link href="https://news.ycombinator.com/item?id=30582168"/>
-        <updated>2022-03-06T23:03:58.000Z</updated>
-        <summary type="html"><![CDATA[Binary search with confidence]]></summary>
-        <author>
-            <name>tylerhou</name>
-            <uri>https://news.ycombinator.com/user?id=tylerhou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["罗马假日 "电传代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30575371</id>
-        <link href="https://news.ycombinator.com/item?id=30575371"/>
-        <updated>2022-03-06T05:56:54.000Z</updated>
-        <summary type="html"><![CDATA[The “Roman Holiday” teleprinter code]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
