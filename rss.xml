@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 12:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 13:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[阅览室的艺术]]></title>
+            <link>https://news.ycombinator.com/item?id=30636433</link>
+            <guid>https://news.ycombinator.com/item?id=30636433</guid>
+            <pubDate>Fri, 11 Mar 2022 05:04:15 GMT</pubDate>
+            <description><![CDATA[The Art of the Reading Nook]]></description>
+        </item>
         <item>
             <title><![CDATA[Kubernetes的未来]]></title>
             <link>https://news.ycombinator.com/item?id=30660534</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30577372</guid>
             <pubDate>Sun, 06 Mar 2022 13:14:28 GMT</pubDate>
             <description><![CDATA[Interop 2022: browsers working together to improve the web for developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[诺斯费拉图：100年后仍然令人恐惧的怪物]]></title>
-            <link>https://news.ycombinator.com/item?id=30567090</link>
-            <guid>https://news.ycombinator.com/item?id=30567090</guid>
-            <pubDate>Sat, 05 Mar 2022 12:50:33 GMT</pubDate>
-            <description><![CDATA[Nosferatu: The monster who still terrifies, 100 years on]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T12:48:18.221Z</updated>
+    <updated>2022-03-13T13:06:37.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[阅览室的艺术]]></title>
+        <id>https://news.ycombinator.com/item?id=30636433</id>
+        <link href="https://news.ycombinator.com/item?id=30636433"/>
+        <updated>2022-03-11T05:04:15.000Z</updated>
+        <summary type="html"><![CDATA[The Art of the Reading Nook]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes的未来]]></title>
         <id>https://news.ycombinator.com/item?id=30660534</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>twapi</name>
             <uri>https://news.ycombinator.com/user?id=twapi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺斯费拉图：100年后仍然令人恐惧的怪物]]></title>
-        <id>https://news.ycombinator.com/item?id=30567090</id>
-        <link href="https://news.ycombinator.com/item?id=30567090"/>
-        <updated>2022-03-05T12:50:33.000Z</updated>
-        <summary type="html"><![CDATA[Nosferatu: The monster who still terrifies, 100 years on]]></summary>
-        <author>
-            <name>Turukawa</name>
-            <uri>https://news.ycombinator.com/user?id=Turukawa</uri>
         </author>
     </entry>
 </feed>
