@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T06:24:02.503Z</updated>
+    <updated>2022-03-13T06:48:20.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你使用的是什麼ML平臺？]]></title>
+        <id>https://news.ycombinator.com/item?id=30658324</id>
+        <link href="https://news.ycombinator.com/item?id=30658324"/>
+        <updated>2022-03-13T05:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What ML platform are you using?]]></summary>
+        <author>
+            <name>speedylight</name>
+            <uri>https://news.ycombinator.com/user?id=speedylight</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fscom開關外殼]]></title>
         <id>https://news.ycombinator.com/item?id=30631798</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>0066cc</name>
             <uri>https://news.ycombinator.com/user?id=0066cc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向一個隨機的俄羅斯手機號碼發送一條關於烏克蘭的短信]]></title>
-        <id>https://news.ycombinator.com/item?id=30575738</id>
-        <link href="https://news.ycombinator.com/item?id=30575738"/>
-        <updated>2022-03-06T07:29:37.000Z</updated>
-        <summary type="html"><![CDATA[Send a text message about Ukraine to a random Russian mobile number]]></summary>
-        <author>
-            <name>kuba-orlik</name>
-            <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
         </author>
     </entry>
 </feed>
