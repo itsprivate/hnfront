@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T23:14:05.325Z</updated>
+    <updated>2022-03-14T23:32:07.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[代碼審查決策疲勞症]]></title>
+        <id>https://news.ycombinator.com/item?id=30665319</id>
+        <link href="https://news.ycombinator.com/item?id=30665319"/>
+        <updated>2022-03-13T20:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Code review decision fatigue]]></summary>
+        <author>
+            <name>thcipriani</name>
+            <uri>https://news.ycombinator.com/user?id=thcipriani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於服務機構如何處理賬戶刪除的一些令人沮喪的軼事]]></title>
         <id>https://news.ycombinator.com/item?id=30678847</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>markdown</name>
             <uri>https://news.ycombinator.com/user?id=markdown</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就地合併算法使用高達O(n+m)的互換，沒有臨時互換空間]]></title>
-        <id>https://news.ycombinator.com/item?id=30586904</id>
-        <link href="https://news.ycombinator.com/item?id=30586904"/>
-        <updated>2022-03-07T12:22:31.000Z</updated>
-        <summary type="html"><![CDATA[In-place merge algorithm using up to O(n+m) swaps and no temp swap space]]></summary>
-        <author>
-            <name>gvelim</name>
-            <uri>https://news.ycombinator.com/user?id=gvelim</uri>
         </author>
     </entry>
 </feed>
