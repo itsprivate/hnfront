@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T08:14:43.351Z</updated>
+    <updated>2022-03-14T08:36:51.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将你保存的文章送到Kindle上]]></title>
+        <id>https://news.ycombinator.com/item?id=30669487</id>
+        <link href="https://news.ycombinator.com/item?id=30669487"/>
+        <updated>2022-03-14T07:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Serve your saved articles to a Kindle]]></summary>
+        <author>
+            <name>edgartaor</name>
+            <uri>https://news.ycombinator.com/user?id=edgartaor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC-V asm指令名称疯狂]]></title>
+        <id>https://news.ycombinator.com/item?id=30653610</id>
+        <link href="https://news.ycombinator.com/item?id=30653610"/>
+        <updated>2022-03-12T18:36:07.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V asm instruction name madness]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是的，我用吹风机来做烤鸡--这是配方]]></title>
         <id>https://news.ycombinator.com/item?id=30669030</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>CapricornNoble</name>
             <uri>https://news.ycombinator.com/user?id=CapricornNoble</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建立或不建立一个软件功能？]]></title>
-        <id>https://news.ycombinator.com/item?id=30576746</id>
-        <link href="https://news.ycombinator.com/item?id=30576746"/>
-        <updated>2022-03-06T11:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build or don't build a software feature?]]></summary>
-        <author>
-            <name>knadh</name>
-            <uri>https://news.ycombinator.com/user?id=knadh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大科技遏制后，俄罗斯新闻频道RT将在Rumble上播出]]></title>
-        <id>https://news.ycombinator.com/item?id=30587196</id>
-        <link href="https://news.ycombinator.com/item?id=30587196"/>
-        <updated>2022-03-07T12:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Russian news channel RT to broadcast on Rumble after Big Tech curbs]]></summary>
-        <author>
-            <name>vitabenes</name>
-            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
         </author>
     </entry>
 </feed>
