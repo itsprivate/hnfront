@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T11:36:45.039Z</updated>
+    <updated>2022-03-14T11:52:12.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pi公式、算法和計算方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30671184</id>
+        <link href="https://news.ycombinator.com/item?id=30671184"/>
+        <updated>2022-03-14T11:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Pi Formulas, Algorithms and Computations]]></summary>
+        <author>
+            <name>h2odragon</name>
+            <uri>https://news.ycombinator.com/user?id=h2odragon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭示原住民的冰河時代路線]]></title>
         <id>https://news.ycombinator.com/item?id=30658408</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mpweiher</name>
             <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在沒有旗幟的情況下看到排名靠前的HN故事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30588163</id>
-        <link href="https://news.ycombinator.com/item?id=30588163"/>
-        <updated>2022-03-07T14:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to see the top HN stories ranked without flags?]]></summary>
-        <author>
-            <name>ddlatham</name>
-            <uri>https://news.ycombinator.com/user?id=ddlatham</uri>
         </author>
     </entry>
 </feed>
