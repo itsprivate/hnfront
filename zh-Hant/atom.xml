@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T06:39:05.882Z</updated>
+    <updated>2022-03-14T06:56:37.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯失蹤的空軍的奇特案例]]></title>
+        <id>https://news.ycombinator.com/item?id=30668904</id>
+        <link href="https://news.ycombinator.com/item?id=30668904"/>
+        <updated>2022-03-14T05:44:34.000Z</updated>
+        <summary type="html"><![CDATA[The curious case of Russia's missing Air Force]]></summary>
+        <author>
+            <name>cols</name>
+            <uri>https://news.ycombinator.com/user?id=cols</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[留住開發者將是偉大的開發者辭職中的優先事項 下一篇]]></title>
         <id>https://news.ycombinator.com/item?id=30668973</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>max_k</name>
             <uri>https://news.ycombinator.com/user?id=max_k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心靈的社會]]></title>
-        <id>https://news.ycombinator.com/item?id=30586391</id>
-        <link href="https://news.ycombinator.com/item?id=30586391"/>
-        <updated>2022-03-07T11:11:22.000Z</updated>
-        <summary type="html"><![CDATA[The Society of Mind]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
         </author>
     </entry>
 </feed>
