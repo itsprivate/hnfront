@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T07:37:38.120Z</updated>
+    <updated>2022-03-14T07:52:06.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紅矮星將是人類在宇宙消亡前的最後家園]]></title>
+        <id>https://news.ycombinator.com/item?id=30669483</id>
+        <link href="https://news.ycombinator.com/item?id=30669483"/>
+        <updated>2022-03-14T07:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Red Dwarfs Will Be Humanity’s Last Home Before the Universe Dies]]></summary>
+        <author>
+            <name>the-mitr</name>
+            <uri>https://news.ycombinator.com/user?id=the-mitr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VLC 3.0.17.3 "Vetinari" 已經發布 - VideoLAN Media Player]]></title>
         <id>https://news.ycombinator.com/item?id=30669322</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>susam</name>
             <uri>https://news.ycombinator.com/user?id=susam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成流網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30586485</id>
-        <link href="https://news.ycombinator.com/item?id=30586485"/>
-        <updated>2022-03-07T11:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Generative Flow Networks]]></summary>
-        <author>
-            <name>selimonder</name>
-            <uri>https://news.ycombinator.com/user?id=selimonder</uri>
         </author>
     </entry>
 </feed>
