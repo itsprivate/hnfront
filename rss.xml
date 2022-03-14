@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 14 Mar 2022 22:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 23:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于服务机构如何处理账户删除的一些令人沮丧的轶事]]></title>
+            <link>https://news.ycombinator.com/item?id=30678847</link>
+            <guid>https://news.ycombinator.com/item?id=30678847</guid>
+            <pubDate>Mon, 14 Mar 2022 21:48:19 GMT</pubDate>
+            <description><![CDATA[Some discouraging anecdotes on how services handle account deletions]]></description>
+        </item>
         <item>
             <title><![CDATA[白色城堡希望在100家新店安装机器人厨师]]></title>
             <link>https://news.ycombinator.com/item?id=30677902</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30586904</guid>
             <pubDate>Mon, 07 Mar 2022 12:22:31 GMT</pubDate>
             <description><![CDATA[In-place merge algorithm using up to O(n+m) swaps and no temp swap space]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chrome的一个新的速度里程碑]]></title>
-            <link>https://news.ycombinator.com/item?id=30596161</link>
-            <guid>https://news.ycombinator.com/item?id=30596161</guid>
-            <pubDate>Tue, 08 Mar 2022 03:35:54 GMT</pubDate>
-            <description><![CDATA[A new speed milestone for Chrome]]></description>
         </item>
     </channel>
 </rss>

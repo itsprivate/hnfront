@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T22:34:25.090Z</updated>
+    <updated>2022-03-14T23:14:05.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於服務機構如何處理賬戶刪除的一些令人沮喪的軼事]]></title>
+        <id>https://news.ycombinator.com/item?id=30678847</id>
+        <link href="https://news.ycombinator.com/item?id=30678847"/>
+        <updated>2022-03-14T21:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Some discouraging anecdotes on how services handle account deletions]]></summary>
+        <author>
+            <name>nathan_phoenix</name>
+            <uri>https://news.ycombinator.com/user?id=nathan_phoenix</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白色城堡希望在100家新店安裝機器人廚師]]></title>
         <id>https://news.ycombinator.com/item?id=30677902</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gvelim</name>
             <uri>https://news.ycombinator.com/user?id=gvelim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome的一個新的速度里程碑]]></title>
-        <id>https://news.ycombinator.com/item?id=30596161</id>
-        <link href="https://news.ycombinator.com/item?id=30596161"/>
-        <updated>2022-03-08T03:35:54.000Z</updated>
-        <summary type="html"><![CDATA[A new speed milestone for Chrome]]></summary>
-        <author>
-            <name>twapi</name>
-            <uri>https://news.ycombinator.com/user?id=twapi</uri>
         </author>
     </entry>
 </feed>
