@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T11:52:12.119Z</updated>
+    <updated>2022-03-14T12:17:24.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[扩大编译器对_FORTIFY_SOURCE中缓冲区溢出的检查（2021）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30671043</id>
+        <link href="https://news.ycombinator.com/item?id=30671043"/>
+        <updated>2022-03-14T11:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Broadening compiler checks for buffer overflows in _FORTIFY_SOURCE (2021)]]></summary>
+        <author>
+            <name>limoce</name>
+            <uri>https://news.ycombinator.com/user?id=limoce</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pi公式、算法和计算方法]]></title>
         <id>https://news.ycombinator.com/item?id=30671184</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>andrew-ld</name>
             <uri>https://news.ycombinator.com/user?id=andrew-ld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么越来越多的环保人士想去核电？]]></title>
-        <id>https://news.ycombinator.com/item?id=30587567</id>
-        <link href="https://news.ycombinator.com/item?id=30587567"/>
-        <updated>2022-03-07T13:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Why More and More Environmentalists Want to Go Nuclear]]></summary>
-        <author>
-            <name>mpweiher</name>
-            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
         </author>
     </entry>
 </feed>
