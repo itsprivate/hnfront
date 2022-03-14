@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T22:13:59.437Z</updated>
+    <updated>2022-03-14T22:34:25.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[白色城堡希望在100家新店安装机器人厨师]]></title>
+        <id>https://news.ycombinator.com/item?id=30677902</id>
+        <link href="https://news.ycombinator.com/item?id=30677902"/>
+        <updated>2022-03-14T20:35:30.000Z</updated>
+        <summary type="html"><![CDATA[White Castle wants to install robot cooks in 100 new locations]]></summary>
+        <author>
+            <name>mono-bob</name>
+            <uri>https://news.ycombinator.com/user?id=mono-bob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赞扬有主见的框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30660520</id>
+        <link href="https://news.ycombinator.com/item?id=30660520"/>
+        <updated>2022-03-13T12:06:25.000Z</updated>
+        <summary type="html"><![CDATA[In praise of opinionated frameworks]]></summary>
+        <author>
+            <name>PuddleOfSausage</name>
+            <uri>https://news.ycombinator.com/user?id=PuddleOfSausage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[女权主义者为忘记生育的权利而斗争]]></title>
         <id>https://news.ycombinator.com/item?id=30677735</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>twapi</name>
             <uri>https://news.ycombinator.com/user?id=twapi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在浏览器中交互式地编辑任何JPEG图像的单个DCT块]]></title>
-        <id>https://news.ycombinator.com/item?id=30595617</id>
-        <link href="https://news.ycombinator.com/item?id=30595617"/>
-        <updated>2022-03-08T01:53:27.000Z</updated>
-        <summary type="html"><![CDATA[Interactively edit individual DCT blocks in any JPEG image in the browser]]></summary>
-        <author>
-            <name>tambourine_man</name>
-            <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pornhub和比特币的价值]]></title>
-        <id>https://news.ycombinator.com/item?id=30595966</id>
-        <link href="https://news.ycombinator.com/item?id=30595966"/>
-        <updated>2022-03-08T03:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Pornhub and the Value of Bitcoin]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
