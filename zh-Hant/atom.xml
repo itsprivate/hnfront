@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T04:16:22.885Z</updated>
+    <updated>2022-03-14T04:52:55.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是如此孤獨]]></title>
+        <id>https://news.ycombinator.com/item?id=30668506</id>
+        <link href="https://news.ycombinator.com/item?id=30668506"/>
+        <updated>2022-03-14T04:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm So Lonely]]></summary>
+        <author>
+            <name>DevToRecruiter</name>
+            <uri>https://news.ycombinator.com/user?id=DevToRecruiter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羅列術之地]]></title>
+        <id>https://news.ycombinator.com/item?id=30651218</id>
+        <link href="https://news.ycombinator.com/item?id=30651218"/>
+        <updated>2022-03-12T13:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Lands of Lorecraft]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[357字節的HN頭像]]></title>
         <id>https://news.ycombinator.com/item?id=30668137</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>collyw</name>
             <uri>https://news.ycombinator.com/user?id=collyw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freshmeat.net, 1997-2014]]></title>
-        <id>https://news.ycombinator.com/item?id=30586224</id>
-        <link href="https://news.ycombinator.com/item?id=30586224"/>
-        <updated>2022-03-07T10:43:04.000Z</updated>
-        <summary type="html"><![CDATA[Freshmeat.net, 1997-2014]]></summary>
-        <author>
-            <name>yankcrime</name>
-            <uri>https://news.ycombinator.com/user?id=yankcrime</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯將使軟件盜版合法化]]></title>
-        <id>https://news.ycombinator.com/item?id=30586211</id>
-        <link href="https://news.ycombinator.com/item?id=30586211"/>
-        <updated>2022-03-07T10:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Russia to Legalize Software Piracy]]></summary>
-        <author>
-            <name>Ambolia</name>
-            <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
         </author>
     </entry>
 </feed>
