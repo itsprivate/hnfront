@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:30:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[失落的一代]]></title>
+            <link>https://news.ycombinator.com/item?id=30654525</link>
+            <guid>https://news.ycombinator.com/item?id=30654525</guid>
+            <pubDate>Sat, 12 Mar 2022 20:18:02 GMT</pubDate>
+            <description><![CDATA[The Lost Generations]]></description>
+        </item>
         <item>
             <title><![CDATA[俄羅斯失蹤的空軍的奇特案例]]></title>
             <link>https://news.ycombinator.com/item?id=30668904</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30586963</guid>
             <pubDate>Mon, 07 Mar 2022 12:28:41 GMT</pubDate>
             <description><![CDATA[Ask HN: Should there be a “draft” for cyber war?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CVE-2022-0847：在Linux上覆蓋只讀文件]]></title>
-            <link>https://news.ycombinator.com/item?id=30586740</link>
-            <guid>https://news.ycombinator.com/item?id=30586740</guid>
-            <pubDate>Mon, 07 Mar 2022 12:01:43 GMT</pubDate>
-            <description><![CDATA[CVE-2022-0847: overwriting read-only files on Linux]]></description>
         </item>
     </channel>
 </rss>
