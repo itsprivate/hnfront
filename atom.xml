@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T21:12:39.863Z</updated>
+    <updated>2022-03-14T21:30:47.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ThinkComposer。流程图、概念图、思维导图、图表和模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30669754</id>
+        <link href="https://news.ycombinator.com/item?id=30669754"/>
+        <updated>2022-03-14T08:23:44.000Z</updated>
+        <summary type="html"><![CDATA[ThinkComposer. Flowcharts, Concept Maps, Mind Maps, Diagrams and Models]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solito - React Native和Next.js，统一的]]></title>
         <id>https://news.ycombinator.com/item?id=30678100</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>RickJWagner</name>
             <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用超级区块改造城市]]></title>
-        <id>https://news.ycombinator.com/item?id=30595588</id>
-        <link href="https://news.ycombinator.com/item?id=30595588"/>
-        <updated>2022-03-08T01:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Transforming Cities with Superblocks]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
