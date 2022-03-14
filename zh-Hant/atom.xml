@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T13:39:38.597Z</updated>
+    <updated>2022-03-14T13:52:02.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更新谷歌雲的基礎設施能力和定價]]></title>
+        <id>https://news.ycombinator.com/item?id=30671997</id>
+        <link href="https://news.ycombinator.com/item?id=30671997"/>
+        <updated>2022-03-14T13:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Updates to Google Cloud’s infrastructure capabilities and pricing]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[訴訟稱谷歌 "劫持了數以百萬計的餐廳客戶和訂單"]]></title>
         <id>https://news.ycombinator.com/item?id=30672021</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arkadiyt</name>
             <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skio（Shopify的訂閱）正在紐約市招聘創始工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30590250</id>
-        <link href="https://news.ycombinator.com/item?id=30590250"/>
-        <updated>2022-03-07T17:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Skio (Subscriptions for Shopify) is hiring founding engineers in NYC]]></summary>
-        <author>
-            <name>kennandavison</name>
-            <uri>https://news.ycombinator.com/user?id=kennandavison</uri>
         </author>
     </entry>
 </feed>
