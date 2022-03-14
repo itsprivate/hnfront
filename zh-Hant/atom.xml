@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-13T23:51:37.987Z</updated>
+    <updated>2022-03-14T00:41:09.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的Pinephone設置]]></title>
+        <id>https://news.ycombinator.com/item?id=30667149</id>
+        <link href="https://news.ycombinator.com/item?id=30667149"/>
+        <updated>2022-03-14T00:18:14.000Z</updated>
+        <summary type="html"><![CDATA[My Pinephone Setup]]></summary>
+        <author>
+            <name>georgeoliver</name>
+            <uri>https://news.ycombinator.com/user?id=georgeoliver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我從第一次Rails升級中學到的東西]]></title>
+        <id>https://news.ycombinator.com/item?id=30635362</id>
+        <link href="https://news.ycombinator.com/item?id=30635362"/>
+        <updated>2022-03-11T02:16:20.000Z</updated>
+        <summary type="html"><![CDATA[What I Learned from My First Rails Upgrade]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[級聯。開源的基於節點的圖像編輯器，帶有GPU加速功能]]></title>
         <id>https://news.ycombinator.com/item?id=30666849</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>matthews2</name>
             <uri>https://news.ycombinator.com/user?id=matthews2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡塔爾的手機應用對每個訪客進行定位監控]]></title>
-        <id>https://news.ycombinator.com/item?id=30584165</id>
-        <link href="https://news.ycombinator.com/item?id=30584165"/>
-        <updated>2022-03-07T04:16:11.000Z</updated>
-        <summary type="html"><![CDATA[The Qatari Phone App That Does Location Surveillance on Every Visitor]]></summary>
-        <author>
-            <name>Bud</name>
-            <uri>https://news.ycombinator.com/user?id=Bud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看似相關但不相關的詞 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30584008</id>
-        <link href="https://news.ycombinator.com/item?id=30584008"/>
-        <updated>2022-03-07T03:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Words that seem related but aren't (2015)]]></summary>
-        <author>
-            <name>unclefuzzy</name>
-            <uri>https://news.ycombinator.com/user?id=unclefuzzy</uri>
         </author>
     </entry>
 </feed>
