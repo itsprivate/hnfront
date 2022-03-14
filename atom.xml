@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T18:47:09.017Z</updated>
+    <updated>2022-03-14T18:53:34.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RP2040厄运]]></title>
+        <id>https://news.ycombinator.com/item?id=30672527</id>
+        <link href="https://news.ycombinator.com/item?id=30672527"/>
+        <updated>2022-03-14T13:59:45.000Z</updated>
+        <summary type="html"><![CDATA[RP2040 Doom]]></summary>
+        <author>
+            <name>xkriva11</name>
+            <uri>https://news.ycombinator.com/user?id=xkriva11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[氯胺酮用于严重自杀意念的急性治疗]]></title>
         <id>https://news.ycombinator.com/item?id=30675879</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jasonhansel</name>
             <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么加州在氢气燃料泵上浪费了数百万美元？]]></title>
-        <id>https://news.ycombinator.com/item?id=30593252</id>
-        <link href="https://news.ycombinator.com/item?id=30593252"/>
-        <updated>2022-03-07T20:59:36.000Z</updated>
-        <summary type="html"><![CDATA[Why is California wasting millions on hydrogen fuel pumps?]]></summary>
-        <author>
-            <name>orangebanana1</name>
-            <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
         </author>
     </entry>
 </feed>
