@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T15:37:38.050Z</updated>
+    <updated>2022-03-14T15:54:43.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reddit的衰落--为什么Reddit很糟糕，以及如何修复它]]></title>
+        <id>https://news.ycombinator.com/item?id=30673482</id>
+        <link href="https://news.ycombinator.com/item?id=30673482"/>
+        <updated>2022-03-14T15:22:48.000Z</updated>
+        <summary type="html"><![CDATA[The Downfall of Reddit – Why Reddit Sucks, and How to Fix It]]></summary>
+        <author>
+            <name>JSavageOne</name>
+            <uri>https://news.ycombinator.com/user?id=JSavageOne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[诈骗分子如何伪造手机号码？]]></title>
         <id>https://news.ycombinator.com/item?id=30673009</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mritzmann</name>
             <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cronje退出加密货币，放弃Fantom，Yearn Finance]]></title>
-        <id>https://news.ycombinator.com/item?id=30591150</id>
-        <link href="https://news.ycombinator.com/item?id=30591150"/>
-        <updated>2022-03-07T18:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Cronje Quits Crypto, Abandons Fantom, Yearn Finance]]></summary>
-        <author>
-            <name>nscalf</name>
-            <uri>https://news.ycombinator.com/user?id=nscalf</uri>
         </author>
     </entry>
 </feed>
