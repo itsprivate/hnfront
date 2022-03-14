@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T03:54:14.716Z</updated>
+    <updated>2022-03-14T04:16:22.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[357字節的HN頭像]]></title>
+        <id>https://news.ycombinator.com/item?id=30668137</id>
+        <link href="https://news.ycombinator.com/item?id=30668137"/>
+        <updated>2022-03-14T03:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HN Avatars in 357 bytes]]></summary>
+        <author>
+            <name>tomxor</name>
+            <uri>https://news.ycombinator.com/user?id=tomxor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的CS之路和對CS教育的看法]]></title>
         <id>https://news.ycombinator.com/item?id=30668314</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ambolia</name>
             <uri>https://news.ycombinator.com/user?id=Ambolia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在移動的巴士上部署軟件(2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=30585969</id>
-        <link href="https://news.ycombinator.com/item?id=30585969"/>
-        <updated>2022-03-07T09:59:50.000Z</updated>
-        <summary type="html"><![CDATA[How to deploy software on a moving bus (2018)]]></summary>
-        <author>
-            <name>mpweiher</name>
-            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
         </author>
     </entry>
 </feed>
