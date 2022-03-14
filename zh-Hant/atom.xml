@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T09:32:53.809Z</updated>
+    <updated>2022-03-14T09:52:43.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：謹慎對待檔案網站的鏈接]]></title>
+        <id>https://news.ycombinator.com/item?id=30670319</id>
+        <link href="https://news.ycombinator.com/item?id=30670319"/>
+        <updated>2022-03-14T09:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Exercise caution with links to archive sites]]></summary>
+        <author>
+            <name>hericium</name>
+            <uri>https://news.ycombinator.com/user?id=hericium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何準備應對經濟困難時期]]></title>
         <id>https://news.ycombinator.com/item?id=30670110</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界數字廣播（DRM）--基於PC的接收器和軟件]]></title>
-        <id>https://news.ycombinator.com/item?id=30551278</id>
-        <link href="https://news.ycombinator.com/item?id=30551278"/>
-        <updated>2022-03-04T06:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Digital Radio Mondiale (DRM) – PC-Based Receivers and Software]]></summary>
-        <author>
-            <name>News-Dog</name>
-            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
         </author>
     </entry>
 </feed>
