@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 14 Mar 2022 12:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 12:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼我更喜歡Makefiles而不是Package.json腳本？]]></title>
+            <link>https://news.ycombinator.com/item?id=30671572</link>
+            <guid>https://news.ycombinator.com/item?id=30671572</guid>
+            <pubDate>Mon, 14 Mar 2022 12:26:39 GMT</pubDate>
+            <description><![CDATA[Why I Prefer Makefiles over Package.json Scripts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何從任何Linux遊戲中為強化學習代理記錄數據（2020年）]]></title>
+            <link>https://news.ycombinator.com/item?id=30635324</link>
+            <guid>https://news.ycombinator.com/item?id=30635324</guid>
+            <pubDate>Fri, 11 Mar 2022 02:10:47 GMT</pubDate>
+            <description><![CDATA[How to record data for reinforcement learning agent from any Linux game (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[擴大編譯器對_FORTIFY_SOURCE中緩衝區溢出的檢查（2021）。]]></title>
             <link>https://news.ycombinator.com/item?id=30671043</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30588384</guid>
             <pubDate>Mon, 07 Mar 2022 14:44:24 GMT</pubDate>
             <description><![CDATA[Cloud Provider Performance Comparison – Perl and More]]></description>
-        </item>
-        <item>
-            <title><![CDATA[競爭性汽車音響的秘密世界]]></title>
-            <link>https://news.ycombinator.com/item?id=30551832</link>
-            <guid>https://news.ycombinator.com/item?id=30551832</guid>
-            <pubDate>Fri, 04 Mar 2022 07:46:19 GMT</pubDate>
-            <description><![CDATA[The Secret World of Competitive Car Audio]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ntfs2btrfs：將NTFS文件系統就地轉換為Btrfs]]></title>
-            <link>https://news.ycombinator.com/item?id=30588696</link>
-            <guid>https://news.ycombinator.com/item?id=30588696</guid>
-            <pubDate>Mon, 07 Mar 2022 15:11:46 GMT</pubDate>
-            <description><![CDATA[ntfs2btrfs: In-place conversion of NTFS filesystem to Btrfs]]></description>
         </item>
     </channel>
 </rss>

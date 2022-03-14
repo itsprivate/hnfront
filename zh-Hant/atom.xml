@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T12:17:24.621Z</updated>
+    <updated>2022-03-14T12:51:36.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我更喜歡Makefiles而不是Package.json腳本？]]></title>
+        <id>https://news.ycombinator.com/item?id=30671572</id>
+        <link href="https://news.ycombinator.com/item?id=30671572"/>
+        <updated>2022-03-14T12:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Why I Prefer Makefiles over Package.json Scripts]]></summary>
+        <author>
+            <name>ducaale</name>
+            <uri>https://news.ycombinator.com/user?id=ducaale</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何從任何Linux遊戲中為強化學習代理記錄數據（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30635324</id>
+        <link href="https://news.ycombinator.com/item?id=30635324"/>
+        <updated>2022-03-11T02:10:47.000Z</updated>
+        <summary type="html"><![CDATA[How to record data for reinforcement learning agent from any Linux game (2020)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[擴大編譯器對_FORTIFY_SOURCE中緩衝區溢出的檢查（2021）。]]></title>
         <id>https://news.ycombinator.com/item?id=30671043</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mfontani</name>
             <uri>https://news.ycombinator.com/user?id=mfontani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[競爭性汽車音響的秘密世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30551832</id>
-        <link href="https://news.ycombinator.com/item?id=30551832"/>
-        <updated>2022-03-04T07:46:19.000Z</updated>
-        <summary type="html"><![CDATA[The Secret World of Competitive Car Audio]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ntfs2btrfs：將NTFS文件系統就地轉換為Btrfs]]></title>
-        <id>https://news.ycombinator.com/item?id=30588696</id>
-        <link href="https://news.ycombinator.com/item?id=30588696"/>
-        <updated>2022-03-07T15:11:46.000Z</updated>
-        <summary type="html"><![CDATA[ntfs2btrfs: In-place conversion of NTFS filesystem to Btrfs]]></summary>
-        <author>
-            <name>andrew-ld</name>
-            <uri>https://news.ycombinator.com/user?id=andrew-ld</uri>
         </author>
     </entry>
 </feed>
