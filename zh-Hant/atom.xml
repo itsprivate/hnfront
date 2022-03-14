@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T07:30:37.872Z</updated>
+    <updated>2022-03-14T07:37:38.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VLC 3.0.17.3 "Vetinari" 已經發布 - VideoLAN Media Player]]></title>
+        <id>https://news.ycombinator.com/item?id=30669322</id>
+        <link href="https://news.ycombinator.com/item?id=30669322"/>
+        <updated>2022-03-14T07:12:49.000Z</updated>
+        <summary type="html"><![CDATA[VLC 3.0.17.3 “Vetinari” has been released – VideoLAN Media Player]]></summary>
+        <author>
+            <name>neustradamus</name>
+            <uri>https://news.ycombinator.com/user?id=neustradamus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[失落的一代]]></title>
         <id>https://news.ycombinator.com/item?id=30654525</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>selimonder</name>
             <uri>https://news.ycombinator.com/user?id=selimonder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否應該為網絡戰爭 "徵兵"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30586963</id>
-        <link href="https://news.ycombinator.com/item?id=30586963"/>
-        <updated>2022-03-07T12:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should there be a “draft” for cyber war?]]></summary>
-        <author>
-            <name>asah</name>
-            <uri>https://news.ycombinator.com/user?id=asah</uri>
         </author>
     </entry>
 </feed>
