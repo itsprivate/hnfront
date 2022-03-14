@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T18:53:34.271Z</updated>
+    <updated>2022-03-14T19:28:06.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這類似於敵意收購]]></title>
+        <id>https://news.ycombinator.com/item?id=30676583</id>
+        <link href="https://news.ycombinator.com/item?id=30676583"/>
+        <updated>2022-03-14T18:56:39.000Z</updated>
+        <summary type="html"><![CDATA[‘This is akin to a hostile takeover’]]></summary>
+        <author>
+            <name>wcerfgba</name>
+            <uri>https://news.ycombinator.com/user?id=wcerfgba</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大規模分佈式系統中的連帶故障]]></title>
+        <id>https://news.ycombinator.com/item?id=30670402</id>
+        <link href="https://news.ycombinator.com/item?id=30670402"/>
+        <updated>2022-03-14T09:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Cascading failures in large-scale distributed systems]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RP2040厄運]]></title>
         <id>https://news.ycombinator.com/item?id=30672527</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>arkadiyt</name>
             <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯-索爾比的《英國礦物學》（1802-1817）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30582233</id>
-        <link href="https://news.ycombinator.com/item?id=30582233"/>
-        <updated>2022-03-06T23:13:01.000Z</updated>
-        <summary type="html"><![CDATA[James Sowerby's British Mineralogy (1802–1817)]]></summary>
-        <author>
-            <name>Petiver</name>
-            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飲食脂肪與心血管疾病。美國心臟協會的建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30593409</id>
-        <link href="https://news.ycombinator.com/item?id=30593409"/>
-        <updated>2022-03-07T21:15:06.000Z</updated>
-        <summary type="html"><![CDATA[Dietary Fats and Cardiovascular Disease: An American Heart Association Advisory]]></summary>
-        <author>
-            <name>jasonhansel</name>
-            <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
         </author>
     </entry>
 </feed>

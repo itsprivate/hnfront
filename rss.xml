@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 14 Mar 2022 18:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 19:28:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[这类似于敌意收购]]></title>
+            <link>https://news.ycombinator.com/item?id=30676583</link>
+            <guid>https://news.ycombinator.com/item?id=30676583</guid>
+            <pubDate>Mon, 14 Mar 2022 18:56:39 GMT</pubDate>
+            <description><![CDATA[‘This is akin to a hostile takeover’]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大规模分布式系统中的连带故障]]></title>
+            <link>https://news.ycombinator.com/item?id=30670402</link>
+            <guid>https://news.ycombinator.com/item?id=30670402</guid>
+            <pubDate>Mon, 14 Mar 2022 09:53:29 GMT</pubDate>
+            <description><![CDATA[Cascading failures in large-scale distributed systems]]></description>
+        </item>
         <item>
             <title><![CDATA[RP2040厄运]]></title>
             <link>https://news.ycombinator.com/item?id=30672527</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30594042</guid>
             <pubDate>Mon, 07 Mar 2022 22:13:45 GMT</pubDate>
             <description><![CDATA[An Update on the Threat Landscape]]></description>
-        </item>
-        <item>
-            <title><![CDATA[詹姆斯-索尔比的《英国矿物学》（1802-1817）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30582233</link>
-            <guid>https://news.ycombinator.com/item?id=30582233</guid>
-            <pubDate>Sun, 06 Mar 2022 23:13:01 GMT</pubDate>
-            <description><![CDATA[James Sowerby's British Mineralogy (1802–1817)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[饮食脂肪与心血管疾病。美国心脏协会的建议]]></title>
-            <link>https://news.ycombinator.com/item?id=30593409</link>
-            <guid>https://news.ycombinator.com/item?id=30593409</guid>
-            <pubDate>Mon, 07 Mar 2022 21:15:06 GMT</pubDate>
-            <description><![CDATA[Dietary Fats and Cardiovascular Disease: An American Heart Association Advisory]]></description>
         </item>
     </channel>
 </rss>
