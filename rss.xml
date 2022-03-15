@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Mar 2022 19:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 19:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[去1.18]]></title>
+            <link>https://news.ycombinator.com/item?id=30689024</link>
+            <guid>https://news.ycombinator.com/item?id=30689024</guid>
+            <pubDate>Tue, 15 Mar 2022 18:27:46 GMT</pubDate>
+            <description><![CDATA[Go 1.18]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GIF解码器 作者：Bob Montgomery 1-22-87]]></title>
+            <link>https://news.ycombinator.com/item?id=30670602</link>
+            <guid>https://news.ycombinator.com/item?id=30670602</guid>
+            <pubDate>Mon, 14 Mar 2022 10:22:00 GMT</pubDate>
+            <description><![CDATA[GIF Decoder by Bob Montgomery 1-22-87]]></description>
+        </item>
         <item>
             <title><![CDATA[第一台RISC-V便携式计算机现已上市]]></title>
             <link>https://news.ycombinator.com/item?id=30689030</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30606339</guid>
             <pubDate>Tue, 08 Mar 2022 20:24:03 GMT</pubDate>
             <description><![CDATA[Poland ready to place all its MIG-29 jets at the disposal of U.S.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Substrait: 关系代数的跨语言序列化]]></title>
-            <link>https://news.ycombinator.com/item?id=30585752</link>
-            <guid>https://news.ycombinator.com/item?id=30585752</guid>
-            <pubDate>Mon, 07 Mar 2022 09:21:45 GMT</pubDate>
-            <description><![CDATA[Substrait: Cross-Language Serialization for Relational Algebra]]></description>
-        </item>
-        <item>
-            <title><![CDATA[把它放在一个iO_uring上。利用Linux内核]]></title>
-            <link>https://news.ycombinator.com/item?id=30605356</link>
-            <guid>https://news.ycombinator.com/item?id=30605356</guid>
-            <pubDate>Tue, 08 Mar 2022 19:35:54 GMT</pubDate>
-            <description><![CDATA[Put an io_uring on it: Exploiting the Linux Kernel]]></description>
         </item>
     </channel>
 </rss>

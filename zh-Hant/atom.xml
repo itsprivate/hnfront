@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T19:14:01.467Z</updated>
+    <updated>2022-03-15T19:27:58.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[去1.18]]></title>
+        <id>https://news.ycombinator.com/item?id=30689024</id>
+        <link href="https://news.ycombinator.com/item?id=30689024"/>
+        <updated>2022-03-15T18:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Go 1.18]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIF解碼器 作者：Bob Montgomery 1-22-87]]></title>
+        <id>https://news.ycombinator.com/item?id=30670602</id>
+        <link href="https://news.ycombinator.com/item?id=30670602"/>
+        <updated>2022-03-14T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[GIF Decoder by Bob Montgomery 1-22-87]]></summary>
+        <author>
+            <name>velmu</name>
+            <uri>https://news.ycombinator.com/user?id=velmu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一臺RISC-V便攜式計算機現已上市]]></title>
         <id>https://news.ycombinator.com/item?id=30689030</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>DyslexicAtheist</name>
             <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substrait: 關係代數的跨語言序列化]]></title>
-        <id>https://news.ycombinator.com/item?id=30585752</id>
-        <link href="https://news.ycombinator.com/item?id=30585752"/>
-        <updated>2022-03-07T09:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Substrait: Cross-Language Serialization for Relational Algebra]]></summary>
-        <author>
-            <name>pingsl</name>
-            <uri>https://news.ycombinator.com/user?id=pingsl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把它放在一個iO_uring上。利用Linux內核]]></title>
-        <id>https://news.ycombinator.com/item?id=30605356</id>
-        <link href="https://news.ycombinator.com/item?id=30605356"/>
-        <updated>2022-03-08T19:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Put an io_uring on it: Exploiting the Linux Kernel]]></summary>
-        <author>
-            <name>blopeur</name>
-            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
         </author>
     </entry>
 </feed>
