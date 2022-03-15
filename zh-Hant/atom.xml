@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T22:43:25.846Z</updated>
+    <updated>2022-03-15T22:51:22.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與北極海底永久凍土退化有關的海底變化]]></title>
+        <id>https://news.ycombinator.com/item?id=30692894</id>
+        <link href="https://news.ycombinator.com/item?id=30692894"/>
+        <updated>2022-03-15T22:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Seafloor changes associated with the degradation of Arctic submarine permafrost]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國家安全局、CISA發佈Kubernetes加固指南 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30692794</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dnetesn</name>
             <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當效率的傷害大於它的幫助時 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30599704</id>
-        <link href="https://news.ycombinator.com/item?id=30599704"/>
-        <updated>2022-03-08T13:38:21.000Z</updated>
-        <summary type="html"><![CDATA[When efficiency hurts more than it helps (2015)]]></summary>
-        <author>
-            <name>dhotson</name>
-            <uri>https://news.ycombinator.com/user?id=dhotson</uri>
         </author>
     </entry>
 </feed>
