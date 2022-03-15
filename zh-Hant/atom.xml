@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T05:37:09.206Z</updated>
+    <updated>2022-03-15T06:38:39.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我發現AWS上有數以千計的開放數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30682036</id>
+        <link href="https://news.ycombinator.com/item?id=30682036"/>
+        <updated>2022-03-15T05:46:29.000Z</updated>
+        <summary type="html"><![CDATA[I Discovered Thousands of Open Databases on AWS]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[姆姆語]]></title>
+        <id>https://news.ycombinator.com/item?id=30681960</id>
+        <link href="https://news.ycombinator.com/item?id=30681960"/>
+        <updated>2022-03-15T05:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Umeshisms]]></summary>
+        <author>
+            <name>duck</name>
+            <uri>https://news.ycombinator.com/user?id=duck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[調試適配器協議和Scala--它是如何協同工作的]]></title>
+        <id>https://news.ycombinator.com/item?id=30664917</id>
+        <link href="https://news.ycombinator.com/item?id=30664917"/>
+        <updated>2022-03-13T19:36:21.000Z</updated>
+        <summary type="html"><![CDATA[The Debug Adapter Protocol and Scala – how it all works together]]></summary>
+        <author>
+            <name>ckipp</name>
+            <uri>https://news.ycombinator.com/user?id=ckipp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[慶祝微小的學習里程碑]]></title>
         <id>https://news.ycombinator.com/item?id=30668605</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ktryber6</name>
             <uri>https://news.ycombinator.com/user?id=ktryber6</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opera在競爭對手的網站上為自己的產品做廣告]]></title>
-        <id>https://news.ycombinator.com/item?id=30598687</id>
-        <link href="https://news.ycombinator.com/item?id=30598687"/>
-        <updated>2022-03-08T11:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Opera advertises own products on competitor's websites]]></summary>
-        <author>
-            <name>AshleysBrain</name>
-            <uri>https://news.ycombinator.com/user?id=AshleysBrain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京正在重寫烏克蘭的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30598370</id>
-        <link href="https://news.ycombinator.com/item?id=30598370"/>
-        <updated>2022-03-08T10:17:40.000Z</updated>
-        <summary type="html"><![CDATA[Beijing is re-writing the Ukraine narrative]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本今天宣佈，南千島群島是他們的主權領土]]></title>
-        <id>https://news.ycombinator.com/item?id=30598636</id>
-        <link href="https://news.ycombinator.com/item?id=30598636"/>
-        <updated>2022-03-08T11:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Japan has declared today that the southern Kurils is their sovereign territory]]></summary>
-        <author>
-            <name>baxtr</name>
-            <uri>https://news.ycombinator.com/user?id=baxtr</uri>
         </author>
     </entry>
 </feed>
