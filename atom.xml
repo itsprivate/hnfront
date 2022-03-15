@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T20:51:48.626Z</updated>
+    <updated>2022-03-15T21:10:39.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Daily (YC W16) 正在招聘解决方案工程师（任何时区）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30691648</id>
+        <link href="https://news.ycombinator.com/item?id=30691648"/>
+        <updated>2022-03-15T21:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Daily (YC W16) Is Hiring Solutions Engineers (Any Time Zone)]]></summary>
+        <author>
+            <name>kwindla</name>
+            <uri>https://news.ycombinator.com/user?id=kwindla</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小小的多肉植物正受到国际犯罪团伙的围追堵截]]></title>
+        <id>https://news.ycombinator.com/item?id=30691482</id>
+        <link href="https://news.ycombinator.com/item?id=30691482"/>
+        <updated>2022-03-15T20:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Tiny succulents are under siege from international crime rings]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于语言模型安全和误用的经验教训]]></title>
+        <id>https://news.ycombinator.com/item?id=30691247</id>
+        <link href="https://news.ycombinator.com/item?id=30691247"/>
+        <updated>2022-03-15T20:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Lessons Learned on Language Model Safety and Misuse]]></summary>
+        <author>
+            <name>echen</name>
+            <uri>https://news.ycombinator.com/user?id=echen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zipy.ai - 就像Sentry + Hotjar，但噪音较小]]></title>
         <id>https://news.ycombinator.com/item?id=30686278</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机艺术之父 "Charles Csuri逝世，享年99岁]]></title>
-        <id>https://news.ycombinator.com/item?id=30598762</id>
-        <link href="https://news.ycombinator.com/item?id=30598762"/>
-        <updated>2022-03-08T11:26:40.000Z</updated>
-        <summary type="html"><![CDATA[Charles Csuri, ‘Father of Computer Art,’ Dies at 99]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[静态洪流网站，通过BitTorrent对200万条记录进行点对点查询]]></title>
-        <id>https://news.ycombinator.com/item?id=30605252</id>
-        <link href="https://news.ycombinator.com/item?id=30605252"/>
-        <updated>2022-03-08T19:32:09.000Z</updated>
-        <summary type="html"><![CDATA[Static torrent website with peer-to-peer queries over BitTorrent on 2M records]]></summary>
-        <author>
-            <name>voigt</name>
-            <uri>https://news.ycombinator.com/user?id=voigt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[异型机器人的不寻常之处]]></title>
-        <id>https://news.ycombinator.com/item?id=30599709</id>
-        <link href="https://news.ycombinator.com/item?id=30599709"/>
-        <updated>2022-03-08T13:38:58.000Z</updated>
-        <summary type="html"><![CDATA[The Uncanny Valley of Xenobots]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
         </author>
     </entry>
 </feed>
