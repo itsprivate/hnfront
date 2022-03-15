@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-14T23:32:07.714Z</updated>
+    <updated>2022-03-15T00:37:11.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么很难买到好用的东西呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30679935</id>
+        <link href="https://news.ycombinator.com/item?id=30679935"/>
+        <updated>2022-03-14T23:32:11.000Z</updated>
+        <summary type="html"><![CDATA[Why is it hard to buy things that work well?]]></summary>
+        <author>
+            <name>davidmckenna</name>
+            <uri>https://news.ycombinator.com/user?id=davidmckenna</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为Unix V6写一个设备驱动程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30679923</id>
+        <link href="https://news.ycombinator.com/item?id=30679923"/>
+        <updated>2022-03-14T23:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Writing a device driver for Unix V6]]></summary>
+        <author>
+            <name>vegesm</name>
+            <uri>https://news.ycombinator.com/user?id=vegesm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podman可以在没有注册表的情况下传输容器镜像]]></title>
+        <id>https://news.ycombinator.com/item?id=30678375</id>
+        <link href="https://news.ycombinator.com/item?id=30678375"/>
+        <updated>2022-03-14T21:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Podman can transfer container images without a registry]]></summary>
+        <author>
+            <name>kukx</name>
+            <uri>https://news.ycombinator.com/user?id=kukx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenHAB--供应商和技术不可知的开源家庭自动化软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30667846</id>
+        <link href="https://news.ycombinator.com/item?id=30667846"/>
+        <updated>2022-03-14T02:15:42.000Z</updated>
+        <summary type="html"><![CDATA[OpenHAB – vendor and tech agnostic open source automation software for your home]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[代码审查决策疲劳症]]></title>
         <id>https://news.ycombinator.com/item?id=30665319</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>syrusakbary</name>
             <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京可能正计划将基辅打得落花流水]]></title>
-        <id>https://news.ycombinator.com/item?id=30597039</id>
-        <link href="https://news.ycombinator.com/item?id=30597039"/>
-        <updated>2022-03-08T06:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Putin may be planning to pummel Kyiv into submission]]></summary>
-        <author>
-            <name>sofixa</name>
-            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逝者的遗憾 (2010)]]></title>
-        <id>https://news.ycombinator.com/item?id=30593302</id>
-        <link href="https://news.ycombinator.com/item?id=30593302"/>
-        <updated>2022-03-07T21:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Regrets of the Dying (2010)]]></summary>
-        <author>
-            <name>yamrzou</name>
-            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古巴导弹危机的十三天]]></title>
-        <id>https://news.ycombinator.com/item?id=30596725</id>
-        <link href="https://news.ycombinator.com/item?id=30596725"/>
-        <updated>2022-03-08T05:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Thirteen Days of the Cuban Missile Crisis]]></summary>
-        <author>
-            <name>shashurup</name>
-            <uri>https://news.ycombinator.com/user?id=shashurup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：所有.fj域名都已下线]]></title>
-        <id>https://news.ycombinator.com/item?id=30596404</id>
-        <link href="https://news.ycombinator.com/item?id=30596404"/>
-        <updated>2022-03-08T04:20:40.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: All .fj domains have gone offline]]></summary>
-        <author>
-            <name>markdown</name>
-            <uri>https://news.ycombinator.com/user?id=markdown</uri>
         </author>
     </entry>
 </feed>
