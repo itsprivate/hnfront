@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T03:33:49.864Z</updated>
+    <updated>2022-03-15T04:40:51.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何消失 认识伯明翰的隐形女人]]></title>
+        <id>https://news.ycombinator.com/item?id=30670975</id>
+        <link href="https://news.ycombinator.com/item?id=30670975"/>
+        <updated>2022-03-14T11:15:38.000Z</updated>
+        <summary type="html"><![CDATA[How to disappear: Meet Birmingham's invisible woman]]></summary>
+        <author>
+            <name>chippy</name>
+            <uri>https://news.ycombinator.com/user?id=chippy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[批判性地意识到计算。中学教育的方法]]></title>
         <id>https://news.ycombinator.com/item?id=30668460</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pizza</name>
             <uri>https://news.ycombinator.com/user?id=pizza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太阳能/电池是美国计划的新发电量的60%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30597672</id>
-        <link href="https://news.ycombinator.com/item?id=30597672"/>
-        <updated>2022-03-08T08:09:59.000Z</updated>
-        <summary type="html"><![CDATA[Solar Power/Batteries are 60% of planned new U.S. electric generation capacity]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
