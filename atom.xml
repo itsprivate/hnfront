@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T20:33:46.102Z</updated>
+    <updated>2022-03-15T20:42:16.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[请不要问创始人的生存问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30690920</id>
+        <link href="https://news.ycombinator.com/item?id=30690920"/>
+        <updated>2022-03-15T20:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Please don't ask founders existential questions]]></summary>
+        <author>
+            <name>arunsivadasan</name>
+            <uri>https://news.ycombinator.com/user?id=arunsivadasan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3的新功能：编辑和插入]]></title>
         <id>https://news.ycombinator.com/item?id=30689902</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>galaxyLogic</name>
             <uri>https://news.ycombinator.com/user?id=galaxyLogic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可口可乐公司暂停其在俄罗斯的业务]]></title>
-        <id>https://news.ycombinator.com/item?id=30606773</id>
-        <link href="https://news.ycombinator.com/item?id=30606773"/>
-        <updated>2022-03-08T20:53:24.000Z</updated>
-        <summary type="html"><![CDATA[The Coca-Cola Company Suspends Its Business in Russia]]></summary>
-        <author>
-            <name>mudro_zboris</name>
-            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
         </author>
     </entry>
 </feed>
