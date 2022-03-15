@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Mar 2022 11:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 11:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Arti 0.1.0。用Rust重写的Tor现在有了一个稳定的API]]></title>
+            <link>https://news.ycombinator.com/item?id=30683879</link>
+            <guid>https://news.ycombinator.com/item?id=30683879</guid>
+            <pubDate>Tue, 15 Mar 2022 11:02:26 GMT</pubDate>
+            <description><![CDATA[Arti 0.1.0: Tor re-written in Rust now has a stable API]]></description>
+        </item>
         <item>
             <title><![CDATA[Vortex86DX CPU上的FreeBSD]]></title>
             <link>https://news.ycombinator.com/item?id=30683266</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30600192</guid>
             <pubDate>Tue, 08 Mar 2022 14:26:46 GMT</pubDate>
             <description><![CDATA[I'm leaving Rails core and I'm not interested in being in the alumni]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一场小型核战争将如何改变整个地球 (2020)]]></title>
-            <link>https://news.ycombinator.com/item?id=30599875</link>
-            <guid>https://news.ycombinator.com/item?id=30599875</guid>
-            <pubDate>Tue, 08 Mar 2022 13:55:41 GMT</pubDate>
-            <description><![CDATA[How a small nuclear war would transform the entire planet (2020)]]></description>
         </item>
     </channel>
 </rss>

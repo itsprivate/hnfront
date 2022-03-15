@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T11:11:55.605Z</updated>
+    <updated>2022-03-15T11:29:01.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Arti 0.1.0。用Rust重寫的Tor現在有了一個穩定的API]]></title>
+        <id>https://news.ycombinator.com/item?id=30683879</id>
+        <link href="https://news.ycombinator.com/item?id=30683879"/>
+        <updated>2022-03-15T11:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Arti 0.1.0: Tor re-written in Rust now has a stable API]]></summary>
+        <author>
+            <name>solanav</name>
+            <uri>https://news.ycombinator.com/user?id=solanav</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vortex86DX CPU上的FreeBSD]]></title>
         <id>https://news.ycombinator.com/item?id=30683266</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一場小型核戰爭將如何改變整個地球 (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30599875</id>
-        <link href="https://news.ycombinator.com/item?id=30599875"/>
-        <updated>2022-03-08T13:55:41.000Z</updated>
-        <summary type="html"><![CDATA[How a small nuclear war would transform the entire planet (2020)]]></summary>
-        <author>
-            <name>22222</name>
-            <uri>https://news.ycombinator.com/user?id=22222</uri>
         </author>
     </entry>
 </feed>
