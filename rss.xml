@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Mar 2022 15:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 15:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Clojure中的物理学。椭圆路径]]></title>
+            <link>https://news.ycombinator.com/item?id=30671167</link>
+            <guid>https://news.ycombinator.com/item?id=30671167</guid>
+            <pubDate>Mon, 14 Mar 2022 11:36:49 GMT</pubDate>
+            <description><![CDATA[Physics in Clojure: Elliptical Paths]]></description>
+        </item>
         <item>
             <title><![CDATA[启动HN：Vimmerse (YC W22) - 创建和播放3D视频的平台和SDKs]]></title>
             <link>https://news.ycombinator.com/item?id=30686027</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30602060</guid>
             <pubDate>Tue, 08 Mar 2022 16:47:02 GMT</pubDate>
             <description><![CDATA[America Produces Enough Oil to Meet Its Needs, So Why Do We Import Crude?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国正在陷入经济衰退吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30602118</link>
-            <guid>https://news.ycombinator.com/item?id=30602118</guid>
-            <pubDate>Tue, 08 Mar 2022 16:50:25 GMT</pubDate>
-            <description><![CDATA[Is the U.S. Descending into Recession?]]></description>
         </item>
     </channel>
 </rss>
