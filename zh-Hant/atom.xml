@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T15:45:43.499Z</updated>
+    <updated>2022-03-15T16:17:22.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vimeo正在告訴創作者突然支付數千美元]]></title>
+        <id>https://news.ycombinator.com/item?id=30686704</id>
+        <link href="https://news.ycombinator.com/item?id=30686704"/>
+        <updated>2022-03-15T15:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Vimeo is telling creators to suddenly pay thousands of dollars]]></summary>
+        <author>
+            <name>usermi</name>
+            <uri>https://news.ycombinator.com/user?id=usermi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyRenderer - OpenGL的工作原理：500行代碼的軟件渲染]]></title>
+        <id>https://news.ycombinator.com/item?id=30686163</id>
+        <link href="https://news.ycombinator.com/item?id=30686163"/>
+        <updated>2022-03-15T14:59:56.000Z</updated>
+        <summary type="html"><![CDATA[TinyRenderer – how OpenGL works: software rendering in 500 lines of code]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clojure中的物理學。橢圓路徑]]></title>
         <id>https://news.ycombinator.com/item?id=30671167</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMOC - 一個6809生成的交叉編譯器，用於C語言的一個子集]]></title>
-        <id>https://news.ycombinator.com/item?id=30598318</id>
-        <link href="https://news.ycombinator.com/item?id=30598318"/>
-        <updated>2022-03-08T10:06:52.000Z</updated>
-        <summary type="html"><![CDATA[CMOC – a 6809-generating cross-compiler for a subset of the C language]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國生產的石油足以滿足其需求，那麼我們為什麼要進口原油？]]></title>
-        <id>https://news.ycombinator.com/item?id=30602060</id>
-        <link href="https://news.ycombinator.com/item?id=30602060"/>
-        <updated>2022-03-08T16:47:02.000Z</updated>
-        <summary type="html"><![CDATA[America Produces Enough Oil to Meet Its Needs, So Why Do We Import Crude?]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
         </author>
     </entry>
 </feed>
