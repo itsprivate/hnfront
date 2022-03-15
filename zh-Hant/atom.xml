@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T04:40:51.262Z</updated>
+    <updated>2022-03-15T04:57:52.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高價格將比戰爭更持久]]></title>
+        <id>https://news.ycombinator.com/item?id=30681223</id>
+        <link href="https://news.ycombinator.com/item?id=30681223"/>
+        <updated>2022-03-15T02:54:39.000Z</updated>
+        <summary type="html"><![CDATA[High prices will outlast the war]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何消失 認識伯明翰的隱形女人]]></title>
         <id>https://news.ycombinator.com/item?id=30670975</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>breathenew</name>
             <uri>https://news.ycombinator.com/user?id=breathenew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[asciiMol: 用於Linux終端的基於Curses的ASCII分子查看器]]></title>
-        <id>https://news.ycombinator.com/item?id=30597559</id>
-        <link href="https://news.ycombinator.com/item?id=30597559"/>
-        <updated>2022-03-08T07:56:16.000Z</updated>
-        <summary type="html"><![CDATA[asciiMol: Curses based ASCII molecule viewer for Linux terminals]]></summary>
-        <author>
-            <name>pizza</name>
-            <uri>https://news.ycombinator.com/user?id=pizza</uri>
         </author>
     </entry>
 </feed>
