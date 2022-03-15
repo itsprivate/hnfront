@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T21:52:01.027Z</updated>
+    <updated>2022-03-15T22:14:01.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[千禧一代經歷了84%的超額死亡率的增加]]></title>
+        <id>https://news.ycombinator.com/item?id=30692407</id>
+        <link href="https://news.ycombinator.com/item?id=30692407"/>
+        <updated>2022-03-15T22:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Millennials experienced an 84% increase in excess mortality]]></summary>
+        <author>
+            <name>verisimi</name>
+            <uri>https://news.ycombinator.com/user?id=verisimi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紐瑟姆州長簽署法律阻止加州大學伯克利分校削減招生人數]]></title>
         <id>https://news.ycombinator.com/item?id=30691791</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改進超聲探測（2020年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30598835</id>
-        <link href="https://news.ycombinator.com/item?id=30598835"/>
-        <updated>2022-03-08T11:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Improving Infrasound Detection (2020)]]></summary>
-        <author>
-            <name>NotAWorkNick</name>
-            <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
         </author>
     </entry>
 </feed>
