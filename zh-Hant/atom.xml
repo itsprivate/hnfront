@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T22:33:13.484Z</updated>
+    <updated>2022-03-15T22:43:25.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[國家安全局、CISA發佈Kubernetes加固指南 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30692794</id>
+        <link href="https://news.ycombinator.com/item?id=30692794"/>
+        <updated>2022-03-15T22:30:21.000Z</updated>
+        <summary type="html"><![CDATA[NSA, CISA Release Kubernetes Hardening Guidance [pdf]]]></summary>
+        <author>
+            <name>netfortius</name>
+            <uri>https://news.ycombinator.com/user?id=netfortius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[傳說中的音樂目錄是否值得購買？]]></title>
         <id>https://news.ycombinator.com/item?id=30671885</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dhotson</name>
             <uri>https://news.ycombinator.com/user?id=dhotson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9/11事件第一反應者患血癌相關突變的風險更高]]></title>
-        <id>https://news.ycombinator.com/item?id=30609148</id>
-        <link href="https://news.ycombinator.com/item?id=30609148"/>
-        <updated>2022-03-09T00:01:59.000Z</updated>
-        <summary type="html"><![CDATA[9/11 first responders at higher risk for blood cancer-associated mutations]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
