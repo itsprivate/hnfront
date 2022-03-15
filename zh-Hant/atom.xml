@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T09:42:16.806Z</updated>
+    <updated>2022-03-15T10:14:46.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[國際壁球聯合會正式制裁球拍:下一篇]]></title>
+        <id>https://news.ycombinator.com/item?id=30682953</id>
+        <link href="https://news.ycombinator.com/item?id=30682953"/>
+        <updated>2022-03-15T08:39:28.000Z</updated>
+        <summary type="html"><![CDATA[International Racquetball Federation Officially Sanctions Racket:Next]]></summary>
+        <author>
+            <name>victorbond</name>
+            <uri>https://news.ycombinator.com/user?id=victorbond</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我究竟是如何成為一名企業家的]]></title>
         <id>https://news.ycombinator.com/item?id=30671111</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ksec</name>
             <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Bigtable突破規模化的障礙]]></title>
-        <id>https://news.ycombinator.com/item?id=30599716</id>
-        <link href="https://news.ycombinator.com/item?id=30599716"/>
-        <updated>2022-03-08T13:39:46.000Z</updated>
-        <summary type="html"><![CDATA[Breaking Through Scaling Barriers with Bigtable]]></summary>
-        <author>
-            <name>ntietz</name>
-            <uri>https://news.ycombinator.com/user?id=ntietz</uri>
         </author>
     </entry>
 </feed>
