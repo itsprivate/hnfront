@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T11:29:01.650Z</updated>
+    <updated>2022-03-15T11:36:46.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对话的占位符]]></title>
+        <id>https://news.ycombinator.com/item?id=30667985</id>
+        <link href="https://news.ycombinator.com/item?id=30667985"/>
+        <updated>2022-03-14T02:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Placeholder for a Conversation]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arti 0.1.0。用Rust重写的Tor现在有了一个稳定的API]]></title>
         <id>https://news.ycombinator.com/item?id=30683879</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我将离开Rails核心，我对加入校友会不感兴趣]]></title>
-        <id>https://news.ycombinator.com/item?id=30600192</id>
-        <link href="https://news.ycombinator.com/item?id=30600192"/>
-        <updated>2022-03-08T14:26:46.000Z</updated>
-        <summary type="html"><![CDATA[I'm leaving Rails core and I'm not interested in being in the alumni]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
         </author>
     </entry>
 </feed>
