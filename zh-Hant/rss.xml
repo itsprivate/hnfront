@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 15 Mar 2022 20:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 20:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GPT-3的新功能：編輯和插入]]></title>
+            <link>https://news.ycombinator.com/item?id=30689902</link>
+            <guid>https://news.ycombinator.com/item?id=30689902</guid>
+            <pubDate>Tue, 15 Mar 2022 19:16:51 GMT</pubDate>
+            <description><![CDATA[New Capabilities for GPT-3: Edit and Insert]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rpath，或者為什麼lld在NixOS上不工作]]></title>
+            <link>https://news.ycombinator.com/item?id=30688815</link>
+            <guid>https://news.ycombinator.com/item?id=30688815</guid>
+            <pubDate>Tue, 15 Mar 2022 18:11:31 GMT</pubDate>
+            <description><![CDATA[Rpath, or why lld doesn’t work on NixOS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[教父》幾乎從未發生過]]></title>
+            <link>https://news.ycombinator.com/item?id=30667902</link>
+            <guid>https://news.ycombinator.com/item?id=30667902</guid>
+            <pubDate>Mon, 14 Mar 2022 02:24:13 GMT</pubDate>
+            <description><![CDATA[The Godfather almost never happened]]></description>
+        </item>
         <item>
             <title><![CDATA[讓僱主在招聘啟事中分享薪酬有助於解決性別薪酬差距嗎？]]></title>
             <link>https://news.ycombinator.com/item?id=30690308</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30606773</guid>
             <pubDate>Tue, 08 Mar 2022 20:53:24 GMT</pubDate>
             <description><![CDATA[The Coca-Cola Company Suspends Its Business in Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芬利（YC W21）正在招聘客戶經理和高級工程師（遠程）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30606883</link>
-            <guid>https://news.ycombinator.com/item?id=30606883</guid>
-            <pubDate>Tue, 08 Mar 2022 21:01:09 GMT</pubDate>
-            <description><![CDATA[Finley (YC W21) is hiring account executives and senior engineers (remote)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[深度假貨，你能發現它們嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30606263</link>
-            <guid>https://news.ycombinator.com/item?id=30606263</guid>
-            <pubDate>Tue, 08 Mar 2022 20:19:13 GMT</pubDate>
-            <description><![CDATA[DeepFakes, Can You Spot Them?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可重複構建的三大支柱]]></title>
-            <link>https://news.ycombinator.com/item?id=30604954</link>
-            <guid>https://news.ycombinator.com/item?id=30604954</guid>
-            <pubDate>Tue, 08 Mar 2022 19:19:48 GMT</pubDate>
-            <description><![CDATA[Three Pillars of Reproducible Builds]]></description>
         </item>
     </channel>
 </rss>
