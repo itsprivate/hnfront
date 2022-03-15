@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T07:38:04.939Z</updated>
+    <updated>2022-03-15T08:14:19.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到Web 3.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30682731</id>
+        <link href="https://news.ycombinator.com/item?id=30682731"/>
+        <updated>2022-03-15T08:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Web 3.0]]></summary>
+        <author>
+            <name>luisha</name>
+            <uri>https://news.ycombinator.com/user?id=luisha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术债务：你如何走出瓶颈？]]></title>
+        <id>https://news.ycombinator.com/item?id=30681918</id>
+        <link href="https://news.ycombinator.com/item?id=30681918"/>
+        <updated>2022-03-15T05:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Technical Debt: How do you get out of the bottleneck?]]></summary>
+        <author>
+            <name>nilsandrey</name>
+            <uri>https://news.ycombinator.com/user?id=nilsandrey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[负温度]]></title>
         <id>https://news.ycombinator.com/item?id=30666352</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dhotson</name>
             <uri>https://news.ycombinator.com/user?id=dhotson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ogg/vorbis和MP3文件中的歌词]]></title>
-        <id>https://news.ycombinator.com/item?id=30599320</id>
-        <link href="https://news.ycombinator.com/item?id=30599320"/>
-        <updated>2022-03-08T12:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Lyrics in ogg/vorbis and MP3 files]]></summary>
-        <author>
-            <name>severine</name>
-            <uri>https://news.ycombinator.com/user?id=severine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌云将以54亿美元收购Mandiant公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30598902</id>
-        <link href="https://news.ycombinator.com/item?id=30598902"/>
-        <updated>2022-03-08T11:48:39.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud to acquire Mandiant for $5.4B]]></summary>
-        <author>
-            <name>dola</name>
-            <uri>https://news.ycombinator.com/user?id=dola</uri>
         </author>
     </entry>
 </feed>
