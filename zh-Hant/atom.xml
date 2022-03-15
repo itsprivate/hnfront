@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T21:25:41.373Z</updated>
+    <updated>2022-03-15T21:36:34.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[光明使者與神機]]></title>
+        <id>https://news.ycombinator.com/item?id=30670317</id>
+        <link href="https://news.ycombinator.com/item?id=30670317"/>
+        <updated>2022-03-14T09:41:58.000Z</updated>
+        <summary type="html"><![CDATA[The Lightherder and the God Machine]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼谷歌AMP是對開放網絡的一種威脅？]]></title>
         <id>https://news.ycombinator.com/item?id=30691564</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>carlycue</name>
             <uri>https://news.ycombinator.com/user?id=carlycue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海軍說，美國驅逐艦不能部署，因為CO不會獲得Covid疫苗]]></title>
-        <id>https://news.ycombinator.com/item?id=30608242</id>
-        <link href="https://news.ycombinator.com/item?id=30608242"/>
-        <updated>2022-03-08T22:36:15.000Z</updated>
-        <summary type="html"><![CDATA[US Destroyer can’t deploy because CO won’t get Covid vaccine, Navy says]]></summary>
-        <author>
-            <name>323</name>
-            <uri>https://news.ycombinator.com/user?id=323</uri>
         </author>
     </entry>
 </feed>
