@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T08:14:19.920Z</updated>
+    <updated>2022-03-15T08:37:01.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在macOS Monterey上使用MailWrap]]></title>
+        <id>https://news.ycombinator.com/item?id=30670088</id>
+        <link href="https://news.ycombinator.com/item?id=30670088"/>
+        <updated>2022-03-14T09:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Using MailWrap on macOS Monterey]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到Web 3.0]]></title>
         <id>https://news.ycombinator.com/item?id=30682731</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解排队最重要的事情(2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30599442</id>
-        <link href="https://news.ycombinator.com/item?id=30599442"/>
-        <updated>2022-03-08T13:08:03.000Z</updated>
-        <summary type="html"><![CDATA[The most important thing to understand about queues (2016)]]></summary>
-        <author>
-            <name>dhotson</name>
-            <uri>https://news.ycombinator.com/user?id=dhotson</uri>
         </author>
     </entry>
 </feed>
