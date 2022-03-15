@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T17:39:38.375Z</updated>
+    <updated>2022-03-15T18:38:32.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌域名已退出测试版]]></title>
+        <id>https://news.ycombinator.com/item?id=30688552</id>
+        <link href="https://news.ycombinator.com/item?id=30688552"/>
+        <updated>2022-03-15T17:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Google Domains is out of beta]]></summary>
+        <author>
+            <name>Garbage</name>
+            <uri>https://news.ycombinator.com/user?id=Garbage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[系统 - 一个旨在解释世界上一切事物之间关系的资源。]]></title>
+        <id>https://news.ycombinator.com/item?id=30670612</id>
+        <link href="https://news.ycombinator.com/item?id=30670612"/>
+        <updated>2022-03-14T10:23:06.000Z</updated>
+        <summary type="html"><![CDATA[System – A resource that aims to explain how everything in the world is related]]></summary>
+        <author>
+            <name>daniellenewnham</name>
+            <uri>https://news.ycombinator.com/user?id=daniellenewnham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.18版发布]]></title>
         <id>https://news.ycombinator.com/item?id=30688208</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ceejayoz</name>
             <uri>https://news.ycombinator.com/user?id=ceejayoz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Optery（YC W22）--从互联网上删除你的个人信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30605010</id>
-        <link href="https://news.ycombinator.com/item?id=30605010"/>
-        <updated>2022-03-08T19:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Optery (YC W22) – Remove your personal info from the internet]]></summary>
-        <author>
-            <name>beyondd</name>
-            <uri>https://news.ycombinator.com/user?id=beyondd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司发布全新的Mac Studio和Studio显示器]]></title>
-        <id>https://news.ycombinator.com/item?id=30604489</id>
-        <link href="https://news.ycombinator.com/item?id=30604489"/>
-        <updated>2022-03-08T19:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Apple unveils all-new Mac Studio and Studio Display]]></summary>
-        <author>
-            <name>davidbarker</name>
-            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
         </author>
     </entry>
 </feed>
