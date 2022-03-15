@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T09:32:46.454Z</updated>
+    <updated>2022-03-15T09:42:16.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我究竟是如何成为一名企业家的]]></title>
+        <id>https://news.ycombinator.com/item?id=30671111</id>
+        <link href="https://news.ycombinator.com/item?id=30671111"/>
+        <updated>2022-03-14T11:31:40.000Z</updated>
+        <summary type="html"><![CDATA[How on earth I became an entrepreneur]]></summary>
+        <author>
+            <name>herbertl</name>
+            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德国政府机构对使用卡巴斯基发出警告]]></title>
         <id>https://news.ycombinator.com/item?id=30683067</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ntietz</name>
             <uri>https://news.ycombinator.com/user?id=ntietz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌以7亿美元购买并扩大其华沙办事处]]></title>
-        <id>https://news.ycombinator.com/item?id=30599539</id>
-        <link href="https://news.ycombinator.com/item?id=30599539"/>
-        <updated>2022-03-08T13:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Google purchasing and expanding its Warsaw office for $700M]]></summary>
-        <author>
-            <name>pbalcer</name>
-            <uri>https://news.ycombinator.com/user?id=pbalcer</uri>
         </author>
     </entry>
 </feed>
