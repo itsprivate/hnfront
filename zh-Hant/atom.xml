@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-15T18:38:32.423Z</updated>
+    <updated>2022-03-15T18:54:45.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[參議院一致投票通過法案，使夏令時成為永久性時間]]></title>
+        <id>https://news.ycombinator.com/item?id=30689221</id>
+        <link href="https://news.ycombinator.com/item?id=30689221"/>
+        <updated>2022-03-15T18:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Senate votes unanimously to pass bill making Daylight Savings Time permanent]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國參議院一致投票決定將夏令時永久化]]></title>
+        <id>https://news.ycombinator.com/item?id=30689043</id>
+        <link href="https://news.ycombinator.com/item?id=30689043"/>
+        <updated>2022-03-15T18:29:09.000Z</updated>
+        <summary type="html"><![CDATA[US Senate unanimously votes to make daylight savings time permanent]]></summary>
+        <author>
+            <name>enraged_camel</name>
+            <uri>https://news.ycombinator.com/user?id=enraged_camel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌域名已退出測試版]]></title>
         <id>https://news.ycombinator.com/item?id=30688552</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes如何在引擎蓋下與Docker Desktop一起工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30599277</id>
-        <link href="https://news.ycombinator.com/item?id=30599277"/>
-        <updated>2022-03-08T12:46:11.000Z</updated>
-        <summary type="html"><![CDATA[How Kubernetes works under the hood with Docker Desktop]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波蘭關於向烏克蘭提供飛機的聲明]]></title>
-        <id>https://news.ycombinator.com/item?id=30604374</id>
-        <link href="https://news.ycombinator.com/item?id=30604374"/>
-        <updated>2022-03-08T18:56:42.000Z</updated>
-        <summary type="html"><![CDATA[Statement from Poland on providing airplanes to Ukraine]]></summary>
-        <author>
-            <name>ceejayoz</name>
-            <uri>https://news.ycombinator.com/user?id=ceejayoz</uri>
         </author>
     </entry>
 </feed>
