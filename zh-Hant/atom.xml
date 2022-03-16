@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T02:59:15.808Z</updated>
+    <updated>2022-03-16T03:52:55.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[肩負使命的人]]></title>
+        <id>https://news.ycombinator.com/item?id=30678665</id>
+        <link href="https://news.ycombinator.com/item?id=30678665"/>
+        <updated>2022-03-14T21:34:02.000Z</updated>
+        <summary type="html"><![CDATA[Man on a Mission]]></summary>
+        <author>
+            <name>apollinaire</name>
+            <uri>https://news.ycombinator.com/user?id=apollinaire</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[輪胎滅火器]]></title>
         <id>https://news.ycombinator.com/item?id=30694691</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sturza</name>
             <uri>https://news.ycombinator.com/user?id=sturza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個基於專輯藝術的Wordle克隆，名為UNCVR]]></title>
-        <id>https://news.ycombinator.com/item?id=30610440</id>
-        <link href="https://news.ycombinator.com/item?id=30610440"/>
-        <updated>2022-03-09T02:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An album art-based Wordle clone called UNCVR]]></summary>
-        <author>
-            <name>aaronlevin</name>
-            <uri>https://news.ycombinator.com/user?id=aaronlevin</uri>
         </author>
     </entry>
 </feed>
