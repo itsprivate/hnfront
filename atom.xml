@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T22:52:29.169Z</updated>
+    <updated>2022-03-16T23:12:47.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[顶级安全的C++编码实践]]></title>
+        <id>https://news.ycombinator.com/item?id=30696218</id>
+        <link href="https://news.ycombinator.com/item?id=30696218"/>
+        <updated>2022-03-16T07:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Top secure C++ coding practices]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C不再是一种编程语言了]]></title>
         <id>https://news.ycombinator.com/item?id=30704642</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vimy</name>
             <uri>https://news.ycombinator.com/user?id=vimy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掌握Docker缓存的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30630170</id>
-        <link href="https://news.ycombinator.com/item?id=30630170"/>
-        <updated>2022-03-10T18:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Mastering the Docker Cache]]></summary>
-        <author>
-            <name>swazzy</name>
-            <uri>https://news.ycombinator.com/user?id=swazzy</uri>
         </author>
     </entry>
 </feed>

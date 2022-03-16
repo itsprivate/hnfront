@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 16 Mar 2022 22:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 23:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[顶级安全的C++编码实践]]></title>
+            <link>https://news.ycombinator.com/item?id=30696218</link>
+            <guid>https://news.ycombinator.com/item?id=30696218</guid>
+            <pubDate>Wed, 16 Mar 2022 07:34:11 GMT</pubDate>
+            <description><![CDATA[Top secure C++ coding practices]]></description>
+        </item>
         <item>
             <title><![CDATA[C不再是一种编程语言了]]></title>
             <link>https://news.ycombinator.com/item?id=30704642</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30621851</guid>
             <pubDate>Thu, 10 Mar 2022 00:34:36 GMT</pubDate>
             <description><![CDATA[When IBM Was the Center of Gravity (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[掌握Docker缓存的方法]]></title>
-            <link>https://news.ycombinator.com/item?id=30630170</link>
-            <guid>https://news.ycombinator.com/item?id=30630170</guid>
-            <pubDate>Thu, 10 Mar 2022 18:04:22 GMT</pubDate>
-            <description><![CDATA[Mastering the Docker Cache]]></description>
         </item>
     </channel>
 </rss>
