@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T22:12:13.197Z</updated>
+    <updated>2022-03-16T22:30:24.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NPM軟件包被作者洩露：安裝時刪除RU/BY電腦上的文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30703817</id>
+        <link href="https://news.ycombinator.com/item?id=30703817"/>
+        <updated>2022-03-16T20:42:57.000Z</updated>
+        <summary type="html"><![CDATA[NPM package compromised by author: erases files on RU / BY computers on install]]></summary>
+        <author>
+            <name>asn007</name>
+            <uri>https://news.ycombinator.com/user?id=asn007</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找更多成為局外人的方法]]></title>
         <id>https://news.ycombinator.com/item?id=30697121</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ccleve</name>
             <uri>https://news.ycombinator.com/user?id=ccleve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2月通脹率上升7.9%，由食品和能源帶動]]></title>
-        <id>https://news.ycombinator.com/item?id=30629666</id>
-        <link href="https://news.ycombinator.com/item?id=30629666"/>
-        <updated>2022-03-10T17:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Inflation rose 7.9% in February, led by food and energy]]></summary>
-        <author>
-            <name>scruple</name>
-            <uri>https://news.ycombinator.com/user?id=scruple</uri>
         </author>
     </entry>
 </feed>

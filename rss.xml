@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 16 Mar 2022 22:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 22:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[NPM软件包被作者泄露：安装时删除RU/BY电脑上的文件]]></title>
+            <link>https://news.ycombinator.com/item?id=30703817</link>
+            <guid>https://news.ycombinator.com/item?id=30703817</guid>
+            <pubDate>Wed, 16 Mar 2022 20:42:57 GMT</pubDate>
+            <description><![CDATA[NPM package compromised by author: erases files on RU / BY computers on install]]></description>
+        </item>
         <item>
             <title><![CDATA[寻找更多成为局外人的方法]]></title>
             <link>https://news.ycombinator.com/item?id=30697121</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30629430</guid>
             <pubDate>Thu, 10 Mar 2022 17:17:01 GMT</pubDate>
             <description><![CDATA[A word used only by Postgres developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2月通胀率上升7.9%，由食品和能源带动]]></title>
-            <link>https://news.ycombinator.com/item?id=30629666</link>
-            <guid>https://news.ycombinator.com/item?id=30629666</guid>
-            <pubDate>Thu, 10 Mar 2022 17:31:01 GMT</pubDate>
-            <description><![CDATA[Inflation rose 7.9% in February, led by food and energy]]></description>
         </item>
     </channel>
 </rss>
