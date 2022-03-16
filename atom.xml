@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T21:52:23.178Z</updated>
+    <updated>2022-03-16T22:12:13.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找更多成为局外人的方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30697121</id>
+        <link href="https://news.ycombinator.com/item?id=30697121"/>
+        <updated>2022-03-16T10:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Find More Ways to Be an Outsider]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[理解Web3的意义]]></title>
         <id>https://news.ycombinator.com/item?id=30704064</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>scruple</name>
             <uri>https://news.ycombinator.com/user?id=scruple</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用无记录的网络API]]></title>
-        <id>https://news.ycombinator.com/item?id=30629156</id>
-        <link href="https://news.ycombinator.com/item?id=30629156"/>
-        <updated>2022-03-10T16:56:46.000Z</updated>
-        <summary type="html"><![CDATA[How to use undocumented web APIs]]></summary>
-        <author>
-            <name>pingiun</name>
-            <uri>https://news.ycombinator.com/user?id=pingiun</uri>
         </author>
     </entry>
 </feed>
