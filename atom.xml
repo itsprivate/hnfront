@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T13:31:37.976Z</updated>
+    <updated>2022-03-16T13:37:04.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[家得宝通过矢量搜索找到了DIY的成功之道]]></title>
+        <id>https://news.ycombinator.com/item?id=30698065</id>
+        <link href="https://news.ycombinator.com/item?id=30698065"/>
+        <updated>2022-03-16T12:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Home Depot Finds DIY Success with Vector Search]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源设计--开放设计流程的设计师和开发者社区]]></title>
+        <id>https://news.ycombinator.com/item?id=30696610</id>
+        <link href="https://news.ycombinator.com/item?id=30696610"/>
+        <updated>2022-03-16T08:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Open Source Design – community of designers and devs for open design processes]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marina Ovsyannikova是自由的]]></title>
         <id>https://news.ycombinator.com/item?id=30698324</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mas-ev</name>
             <uri>https://news.ycombinator.com/user?id=mas-ev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么奇怪的减肥技巧吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30617118</id>
-        <link href="https://news.ycombinator.com/item?id=30617118"/>
-        <updated>2022-03-09T17:15:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any weird tips for weight loss?]]></summary>
-        <author>
-            <name>fatmoron</name>
-            <uri>https://news.ycombinator.com/user?id=fatmoron</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[150行SQL中的Postgres审计]]></title>
-        <id>https://news.ycombinator.com/item?id=30615470</id>
-        <link href="https://news.ycombinator.com/item?id=30615470"/>
-        <updated>2022-03-09T15:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Postgres Auditing in 150 lines of SQL]]></summary>
-        <author>
-            <name>oliverrice</name>
-            <uri>https://news.ycombinator.com/user?id=oliverrice</uri>
         </author>
     </entry>
 </feed>
