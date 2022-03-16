@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T10:51:44.894Z</updated>
+    <updated>2022-03-16T11:10:46.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[挪威為烏克蘭難民開發的招聘網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30696998</id>
+        <link href="https://news.ycombinator.com/item?id=30696998"/>
+        <updated>2022-03-16T10:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Norwegian developer job board for Ukrainian refugees]]></summary>
+        <author>
+            <name>retrojorgen</name>
+            <uri>https://news.ycombinator.com/user?id=retrojorgen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有史以來第一個生態認證的計算機程序。KDE的流行PDF閱讀器Okular]]></title>
         <id>https://news.ycombinator.com/item?id=30696819</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>allie1</name>
             <uri>https://news.ycombinator.com/user?id=allie1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用OpenCV進行精確的圖像對齊和註冊]]></title>
-        <id>https://news.ycombinator.com/item?id=30613745</id>
-        <link href="https://news.ycombinator.com/item?id=30613745"/>
-        <updated>2022-03-09T12:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Accurate Image Alignment and Registration Using OpenCV]]></summary>
-        <author>
-            <name>magamig</name>
-            <uri>https://news.ycombinator.com/user?id=magamig</uri>
         </author>
     </entry>
 </feed>
