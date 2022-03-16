@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 16 Mar 2022 23:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 23:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[是的，PHP比C#快]]></title>
+            <link>https://news.ycombinator.com/item?id=30705396</link>
+            <guid>https://news.ycombinator.com/item?id=30705396</guid>
+            <pubDate>Wed, 16 Mar 2022 23:15:01 GMT</pubDate>
+            <description><![CDATA[Yes, PHP is faster than C#]]></description>
+        </item>
         <item>
             <title><![CDATA[頂級安全的C++編碼實踐]]></title>
             <link>https://news.ycombinator.com/item?id=30696218</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30630448</guid>
             <pubDate>Thu, 10 Mar 2022 18:23:40 GMT</pubDate>
             <description><![CDATA[Kettle Logic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當IBM成為重心的時候 (2021)]]></title>
-            <link>https://news.ycombinator.com/item?id=30621851</link>
-            <guid>https://news.ycombinator.com/item?id=30621851</guid>
-            <pubDate>Thu, 10 Mar 2022 00:34:36 GMT</pubDate>
-            <description><![CDATA[When IBM Was the Center of Gravity (2021)]]></description>
         </item>
     </channel>
 </rss>
