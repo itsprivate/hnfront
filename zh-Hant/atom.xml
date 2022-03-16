@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T20:14:31.123Z</updated>
+    <updated>2022-03-16T20:33:36.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德諾是韋比]]></title>
+        <id>https://news.ycombinator.com/item?id=30703531</id>
+        <link href="https://news.ycombinator.com/item?id=30703531"/>
+        <updated>2022-03-16T20:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Deno Is Webby]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根據一個文件的HEREDOCs對其進行部分加密]]></title>
+        <id>https://news.ycombinator.com/item?id=30703161</id>
+        <link href="https://news.ycombinator.com/item?id=30703161"/>
+        <updated>2022-03-16T19:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Partially encrypt a file based on its HEREDOCs]]></summary>
+        <author>
+            <name>higgins</name>
+            <uri>https://news.ycombinator.com/user?id=higgins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使Docker鏡像更小]]></title>
         <id>https://news.ycombinator.com/item?id=30703202</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>SRasch</name>
             <uri>https://news.ycombinator.com/user?id=SRasch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Crypto]]></title>
-        <id>https://news.ycombinator.com/item?id=30628677</id>
-        <link href="https://news.ycombinator.com/item?id=30628677"/>
-        <updated>2022-03-10T16:24:27.000Z</updated>
-        <summary type="html"><![CDATA[Stripe Crypto]]></summary>
-        <author>
-            <name>seabj0rn</name>
-            <uri>https://news.ycombinator.com/user?id=seabj0rn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermeus獲得1億美元的B輪融資]]></title>
-        <id>https://news.ycombinator.com/item?id=30628667</id>
-        <link href="https://news.ycombinator.com/item?id=30628667"/>
-        <updated>2022-03-10T16:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Hermeus Raises $100M Series B]]></summary>
-        <author>
-            <name>jbredeche</name>
-            <uri>https://news.ycombinator.com/user?id=jbredeche</uri>
         </author>
     </entry>
 </feed>
