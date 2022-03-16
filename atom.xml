@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T09:51:22.977Z</updated>
+    <updated>2022-03-16T10:33:43.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用广义相对论的射线追踪法对黑洞进行可视化研究]]></title>
+        <id>https://news.ycombinator.com/item?id=30678731</id>
+        <link href="https://news.ycombinator.com/item?id=30678731"/>
+        <updated>2022-03-14T21:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Visualizing black holes with general relativistic ray tracing]]></summary>
+        <author>
+            <name>rwmj</name>
+            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为复杂的项目做出贡献]]></title>
         <id>https://news.ycombinator.com/item?id=30674322</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>intunderflow</name>
             <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国科学家被诬陷隐瞒与中国的关系而发声]]></title>
-        <id>https://news.ycombinator.com/item?id=30613216</id>
-        <link href="https://news.ycombinator.com/item?id=30613216"/>
-        <updated>2022-03-09T11:03:17.000Z</updated>
-        <summary type="html"><![CDATA[US scientist falsely accused of hiding ties to China speaks out]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
