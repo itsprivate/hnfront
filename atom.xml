@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T20:33:35.961Z</updated>
+    <updated>2022-03-16T20:43:07.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微波炉及其危害]]></title>
+        <id>https://news.ycombinator.com/item?id=30703508</id>
+        <link href="https://news.ycombinator.com/item?id=30703508"/>
+        <updated>2022-03-16T20:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Microwave Ovens and Their Hazards]]></summary>
+        <author>
+            <name>trifit</name>
+            <uri>https://news.ycombinator.com/user?id=trifit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德诺是韦比]]></title>
         <id>https://news.ycombinator.com/item?id=30703531</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>theafh</name>
             <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafetyWing (YC W18)正在招聘会计主管]]></title>
-        <id>https://news.ycombinator.com/item?id=30629213</id>
-        <link href="https://news.ycombinator.com/item?id=30629213"/>
-        <updated>2022-03-10T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[SafetyWing (YC W18) Is Hiring Head of Accounting]]></summary>
-        <author>
-            <name>SRasch</name>
-            <uri>https://news.ycombinator.com/user?id=SRasch</uri>
         </author>
     </entry>
 </feed>
