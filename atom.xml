@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T14:19:39.256Z</updated>
+    <updated>2022-03-16T14:40:21.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧洲大陆与乌克兰和摩尔多瓦的电力系统成功同步]]></title>
+        <id>https://news.ycombinator.com/item?id=30698632</id>
+        <link href="https://news.ycombinator.com/item?id=30698632"/>
+        <updated>2022-03-16T13:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Continental Europe successfully synced with Ukraine and Moldova power systems]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德里克-罗尔：故意优化伤害]]></title>
         <id>https://news.ycombinator.com/item?id=30698803</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>amar-laksh</name>
             <uri>https://news.ycombinator.com/user?id=amar-laksh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[适用于Windows和Linux的2D游戏引擎和编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=30620897</id>
-        <link href="https://news.ycombinator.com/item?id=30620897"/>
-        <updated>2022-03-09T22:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 2D Game engine and editor for Windows and Linux]]></summary>
-        <author>
-            <name>ensiferum</name>
-            <uri>https://news.ycombinator.com/user?id=ensiferum</uri>
         </author>
     </entry>
 </feed>
