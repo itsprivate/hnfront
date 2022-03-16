@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T00:37:56.890Z</updated>
+    <updated>2022-03-16T02:14:14.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉在YouTube上發佈無人駕駛技術評論後解僱了一名員工]]></title>
+        <id>https://news.ycombinator.com/item?id=30694102</id>
+        <link href="https://news.ycombinator.com/item?id=30694102"/>
+        <updated>2022-03-16T01:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Tesla fired an employee after he posted driverless tech reviews on YouTube]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny WASI - 一個用TypeScript編寫的小型WASI運行時間]]></title>
+        <id>https://news.ycombinator.com/item?id=30693936</id>
+        <link href="https://news.ycombinator.com/item?id=30693936"/>
+        <updated>2022-03-16T00:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Tiny WASI – A tiny WASI runtime written in TypeScript]]></summary>
+        <author>
+            <name>miunau</name>
+            <uri>https://news.ycombinator.com/user?id=miunau</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript中的多態函數]]></title>
+        <id>https://news.ycombinator.com/item?id=30693915</id>
+        <link href="https://news.ycombinator.com/item?id=30693915"/>
+        <updated>2022-03-16T00:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Type Polymorphic Functions in TypeScript]]></summary>
+        <author>
+            <name>CapnCrunchie</name>
+            <uri>https://news.ycombinator.com/user?id=CapnCrunchie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從一個有偏見的硬幣制作一個公平的硬幣（2018年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30671354</id>
+        <link href="https://news.ycombinator.com/item?id=30671354"/>
+        <updated>2022-03-14T11:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Make a Fair Coin from a Biased Coin (2018)]]></summary>
+        <author>
+            <name>leonry</name>
+            <uri>https://news.ycombinator.com/user?id=leonry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[熱狗Linux - 可怕的過時的字體和可怕的屏幕上的圖形]]></title>
         <id>https://news.ycombinator.com/item?id=30693301</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>vaghetti</name>
             <uri>https://news.ycombinator.com/user?id=vaghetti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何從你的1:1中獲得最大收益]]></title>
-        <id>https://news.ycombinator.com/item?id=30593164</id>
-        <link href="https://news.ycombinator.com/item?id=30593164"/>
-        <updated>2022-03-07T20:50:52.000Z</updated>
-        <summary type="html"><![CDATA[How to get the most out of your 1:1s]]></summary>
-        <author>
-            <name>erikwiffin</name>
-            <uri>https://news.ycombinator.com/user?id=erikwiffin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在瀏覽器中玩半衰期]]></title>
-        <id>https://news.ycombinator.com/item?id=30610434</id>
-        <link href="https://news.ycombinator.com/item?id=30610434"/>
-        <updated>2022-03-09T02:58:41.000Z</updated>
-        <summary type="html"><![CDATA[Play Half-Life in the Browser]]></summary>
-        <author>
-            <name>dtx1</name>
-            <uri>https://news.ycombinator.com/user?id=dtx1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低過程文化，高過程文化]]></title>
-        <id>https://news.ycombinator.com/item?id=30585209</id>
-        <link href="https://news.ycombinator.com/item?id=30585209"/>
-        <updated>2022-03-07T07:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Low process culture, high process culture]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSV虛擬表]]></title>
-        <id>https://news.ycombinator.com/item?id=30610532</id>
-        <link href="https://news.ycombinator.com/item?id=30610532"/>
-        <updated>2022-03-09T03:20:10.000Z</updated>
-        <summary type="html"><![CDATA[The CSV Virtual Table]]></summary>
-        <author>
-            <name>cardamomo</name>
-            <uri>https://news.ycombinator.com/user?id=cardamomo</uri>
         </author>
     </entry>
 </feed>
