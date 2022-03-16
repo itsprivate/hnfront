@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T07:51:14.177Z</updated>
+    <updated>2022-03-16T08:52:19.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[合理化的市场]]></title>
+        <id>https://news.ycombinator.com/item?id=30681643</id>
+        <link href="https://news.ycombinator.com/item?id=30681643"/>
+        <updated>2022-03-15T04:20:45.000Z</updated>
+        <summary type="html"><![CDATA[The Marketplace of Rationalizations]]></summary>
+        <author>
+            <name>Phithagoras</name>
+            <uri>https://news.ycombinator.com/user?id=Phithagoras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美丽的技术债务]]></title>
         <id>https://news.ycombinator.com/item?id=30667637</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>limoce</name>
             <uri>https://news.ycombinator.com/user?id=limoce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: 8vdX (YC W22) – Venture debt to complement a seed round]]></title>
-        <id>https://news.ycombinator.com/item?id=30612691</id>
-        <link href="https://news.ycombinator.com/item?id=30612691"/>
-        <updated>2022-03-09T09:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: 8vdX (YC W22) – Venture debt to complement a seed round]]></summary>
-        <author>
-            <name>rchachra</name>
-            <uri>https://news.ycombinator.com/user?id=rchachra</uri>
         </author>
     </entry>
 </feed>
