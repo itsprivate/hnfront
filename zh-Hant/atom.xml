@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T21:12:49.315Z</updated>
+    <updated>2022-03-16T21:52:23.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[理解Web3的意義]]></title>
+        <id>https://news.ycombinator.com/item?id=30704064</id>
+        <link href="https://news.ycombinator.com/item?id=30704064"/>
+        <updated>2022-03-16T21:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Making Sense of Web3]]></summary>
+        <author>
+            <name>gregdoesit</name>
+            <uri>https://news.ycombinator.com/user?id=gregdoesit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通用智能（YC S17）正在招聘機器學習研究工程師]]></title>
         <id>https://news.ycombinator.com/item?id=30704042</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pingiun</name>
             <uri>https://news.ycombinator.com/user?id=pingiun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS的危害]]></title>
-        <id>https://news.ycombinator.com/item?id=30621295</id>
-        <link href="https://news.ycombinator.com/item?id=30621295"/>
-        <updated>2022-03-09T23:22:06.000Z</updated>
-        <summary type="html"><![CDATA[The Perils of RSS]]></summary>
-        <author>
-            <name>kn100</name>
-            <uri>https://news.ycombinator.com/user?id=kn100</uri>
         </author>
     </entry>
 </feed>

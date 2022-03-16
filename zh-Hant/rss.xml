@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 16 Mar 2022 21:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 21:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[理解Web3的意義]]></title>
+            <link>https://news.ycombinator.com/item?id=30704064</link>
+            <guid>https://news.ycombinator.com/item?id=30704064</guid>
+            <pubDate>Wed, 16 Mar 2022 21:02:53 GMT</pubDate>
+            <description><![CDATA[Making Sense of Web3]]></description>
+        </item>
         <item>
             <title><![CDATA[通用智能（YC S17）正在招聘機器學習研究工程師]]></title>
             <link>https://news.ycombinator.com/item?id=30704042</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30629156</guid>
             <pubDate>Thu, 10 Mar 2022 16:56:46 GMT</pubDate>
             <description><![CDATA[How to use undocumented web APIs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RSS的危害]]></title>
-            <link>https://news.ycombinator.com/item?id=30621295</link>
-            <guid>https://news.ycombinator.com/item?id=30621295</guid>
-            <pubDate>Wed, 09 Mar 2022 23:22:06 GMT</pubDate>
-            <description><![CDATA[The Perils of RSS]]></description>
         </item>
     </channel>
 </rss>
