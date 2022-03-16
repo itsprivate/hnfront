@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T19:37:24.796Z</updated>
+    <updated>2022-03-16T20:14:31.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使Docker鏡像更小]]></title>
+        <id>https://news.ycombinator.com/item?id=30703202</id>
+        <link href="https://news.ycombinator.com/item?id=30703202"/>
+        <updated>2022-03-16T19:51:55.000Z</updated>
+        <summary type="html"><![CDATA[How to make Docker images even smaller]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術領導層的級別]]></title>
+        <id>https://news.ycombinator.com/item?id=30670397</id>
+        <link href="https://news.ycombinator.com/item?id=30670397"/>
+        <updated>2022-03-14T09:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Levels of Technical Leadership]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美聯儲加息25個基點，2018年以來首次加息]]></title>
         <id>https://news.ycombinator.com/item?id=30702823</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jbredeche</name>
             <uri>https://news.ycombinator.com/user?id=jbredeche</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[錫須。當它們自發噴發時會發生什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30628646</id>
-        <link href="https://news.ycombinator.com/item?id=30628646"/>
-        <updated>2022-03-10T16:21:02.000Z</updated>
-        <summary type="html"><![CDATA[Tin whiskers: What happens when they spontaneously erupt?]]></summary>
-        <author>
-            <name>forgotthepasswd</name>
-            <uri>https://news.ycombinator.com/user?id=forgotthepasswd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫斯科以出口禁令報復西方制裁]]></title>
-        <id>https://news.ycombinator.com/item?id=30628096</id>
-        <link href="https://news.ycombinator.com/item?id=30628096"/>
-        <updated>2022-03-10T15:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Moscow retaliates against Western sanctions with export bans]]></summary>
-        <author>
-            <name>mudro_zboris</name>
-            <uri>https://news.ycombinator.com/user?id=mudro_zboris</uri>
         </author>
     </entry>
 </feed>
