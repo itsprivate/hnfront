@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-16T05:29:36.340Z</updated>
+    <updated>2022-03-16T05:51:52.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可塑性是藝術家的CAD]]></title>
+        <id>https://news.ycombinator.com/item?id=30695360</id>
+        <link href="https://news.ycombinator.com/item?id=30695360"/>
+        <updated>2022-03-16T04:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Plasticity Is CAD for Artists]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mle-monitor。一個輕量級的實驗和資源監控工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30673643</id>
+        <link href="https://news.ycombinator.com/item?id=30673643"/>
+        <updated>2022-03-14T15:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Mle-monitor: A lightweight experiment and resource monitoring tool]]></summary>
+        <author>
+            <name>jayalammar</name>
+            <uri>https://news.ycombinator.com/user?id=jayalammar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[激進的互操作性是一個政治議程]]></title>
         <id>https://news.ycombinator.com/item?id=30695470</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從技術工作搜索中得到的教訓]]></title>
-        <id>https://news.ycombinator.com/item?id=30592572</id>
-        <link href="https://news.ycombinator.com/item?id=30592572"/>
-        <updated>2022-03-07T19:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Lessons from a tech job search]]></summary>
-        <author>
-            <name>nindalf</name>
-            <uri>https://news.ycombinator.com/user?id=nindalf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ack是一個類似grep的源代碼搜索工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30611461</id>
-        <link href="https://news.ycombinator.com/item?id=30611461"/>
-        <updated>2022-03-09T06:17:53.000Z</updated>
-        <summary type="html"><![CDATA[Ack is a grep-like source code search tool]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
