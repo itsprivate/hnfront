@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T16:16:24.102Z</updated>
+    <updated>2022-03-17T16:46:56.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[类型与集合（以及类别呢？）]]></title>
+        <id>https://news.ycombinator.com/item?id=30697421</id>
+        <link href="https://news.ycombinator.com/item?id=30697421"/>
+        <updated>2022-03-16T11:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Types versus sets (and what about categories?)]]></summary>
+        <author>
+            <name>carnitine</name>
+            <uri>https://news.ycombinator.com/user?id=carnitine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国联邦贸易委员会的新执法武器为算法带来了死亡]]></title>
         <id>https://news.ycombinator.com/item?id=30712196</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福禄寿(YC S21)正在招聘中]]></title>
-        <id>https://news.ycombinator.com/item?id=30638830</id>
-        <link href="https://news.ycombinator.com/item?id=30638830"/>
-        <updated>2022-03-11T12:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Flowly (YC S21) Is Hiring]]></summary>
-        <author>
-            <name>tamadevr</name>
-            <uri>https://news.ycombinator.com/user?id=tamadevr</uri>
         </author>
     </entry>
 </feed>
