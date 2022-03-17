@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T02:53:33.740Z</updated>
+    <updated>2022-03-17T03:13:24.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源的不对称性]]></title>
+        <id>https://news.ycombinator.com/item?id=30706650</id>
+        <link href="https://news.ycombinator.com/item?id=30706650"/>
+        <updated>2022-03-17T01:51:43.000Z</updated>
+        <summary type="html"><![CDATA[The Asymmetry of Open Source]]></summary>
+        <author>
+            <name>mholt</name>
+            <uri>https://news.ycombinator.com/user?id=mholt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用谷歌分析4为未来做准备]]></title>
         <id>https://news.ycombinator.com/item?id=30706829</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何打破一个理论]]></title>
-        <id>https://news.ycombinator.com/item?id=30631736</id>
-        <link href="https://news.ycombinator.com/item?id=30631736"/>
-        <updated>2022-03-10T20:04:51.000Z</updated>
-        <summary type="html"><![CDATA[How to Break a Theory]]></summary>
-        <author>
-            <name>okfine</name>
-            <uri>https://news.ycombinator.com/user?id=okfine</uri>
         </author>
     </entry>
 </feed>
