@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T08:15:55.800Z</updated>
+    <updated>2022-03-17T08:38:24.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法国结束对燃气热水器的补贴]]></title>
+        <id>https://news.ycombinator.com/item?id=30707022</id>
+        <link href="https://news.ycombinator.com/item?id=30707022"/>
+        <updated>2022-03-17T02:41:23.000Z</updated>
+        <summary type="html"><![CDATA[France ends gas heaters subsidies]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中石器时代的木乃伊化]]></title>
+        <id>https://news.ycombinator.com/item?id=30681854</id>
+        <link href="https://news.ycombinator.com/item?id=30681854"/>
+        <updated>2022-03-15T05:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Mummification in the Mesolithic]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lapce - 快如闪电、功能强大的代码编辑器，用Rust编写]]></title>
         <id>https://news.ycombinator.com/item?id=30708505</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lastdong</name>
             <uri>https://news.ycombinator.com/user?id=lastdong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asmle - 512个字节中的Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30630574</id>
-        <link href="https://news.ycombinator.com/item?id=30630574"/>
-        <updated>2022-03-10T18:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Asmle – Wordle in 512 Bytes]]></summary>
-        <author>
-            <name>KatPurpy</name>
-            <uri>https://news.ycombinator.com/user?id=KatPurpy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果AirTags耗尽附近设备的电池]]></title>
-        <id>https://news.ycombinator.com/item?id=30632568</id>
-        <link href="https://news.ycombinator.com/item?id=30632568"/>
-        <updated>2022-03-10T21:16:27.000Z</updated>
-        <summary type="html"><![CDATA[Apple AirTags draining battery of devices close by]]></summary>
-        <author>
-            <name>dewey</name>
-            <uri>https://news.ycombinator.com/user?id=dewey</uri>
         </author>
     </entry>
 </feed>
