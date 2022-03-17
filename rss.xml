@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 17 Mar 2022 19:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 20:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用RP2040驱动TFEL液晶面板。逐步卸载CPU]]></title>
+            <link>https://news.ycombinator.com/item?id=30714943</link>
+            <guid>https://news.ycombinator.com/item?id=30714943</guid>
+            <pubDate>Thu, 17 Mar 2022 19:25:43 GMT</pubDate>
+            <description><![CDATA[Driving TFEL LCD Panels with RP2040: Offloading the CPU Step by Step]]></description>
+        </item>
         <item>
             <title><![CDATA[你的D20有多真实？(2013)]]></title>
             <link>https://news.ycombinator.com/item?id=30696893</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30640741</guid>
             <pubDate>Fri, 11 Mar 2022 15:03:02 GMT</pubDate>
             <description><![CDATA[Russia opens criminal investigation of Meta over death calls on Facebook]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于TypeScript的never类型的完整指南]]></title>
-            <link>https://news.ycombinator.com/item?id=30616912</link>
-            <guid>https://news.ycombinator.com/item?id=30616912</guid>
-            <pubDate>Wed, 09 Mar 2022 17:03:10 GMT</pubDate>
-            <description><![CDATA[A complete guide to TypeScript’s never type]]></description>
         </item>
     </channel>
 </rss>
