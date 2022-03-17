@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T05:11:38.550Z</updated>
+    <updated>2022-03-17T05:37:16.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wordle证明了我们可以在互联网上拥有美好的事物吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30707891</id>
+        <link href="https://news.ycombinator.com/item?id=30707891"/>
+        <updated>2022-03-17T05:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Does Wordle Prove That We Can Have Nice Things on the Internet?]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紫红色的IDL概述]]></title>
         <id>https://news.ycombinator.com/item?id=30707696</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hdivider</name>
             <uri>https://news.ycombinator.com/user?id=hdivider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[争取为Linux内核提供更好的列表迭代器]]></title>
-        <id>https://news.ycombinator.com/item?id=30631943</id>
-        <link href="https://news.ycombinator.com/item?id=30631943"/>
-        <updated>2022-03-10T20:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Toward a better list iterator for the Linux kernel]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
         </author>
     </entry>
 </feed>
