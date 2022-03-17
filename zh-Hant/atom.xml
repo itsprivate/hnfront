@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T18:14:08.071Z</updated>
+    <updated>2022-03-17T18:38:09.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zotero 6]]></title>
+        <id>https://news.ycombinator.com/item?id=30714121</id>
+        <link href="https://news.ycombinator.com/item?id=30714121"/>
+        <updated>2022-03-17T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Zotero 6]]></summary>
+        <author>
+            <name>Schiphol</name>
+            <uri>https://news.ycombinator.com/user?id=Schiphol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於物理的渲染。從理論到實現]]></title>
+        <id>https://news.ycombinator.com/item?id=30714104</id>
+        <link href="https://news.ycombinator.com/item?id=30714104"/>
+        <updated>2022-03-17T18:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Physically Based Rendering: From Theory to Implementation]]></summary>
+        <author>
+            <name>alasr</name>
+            <uri>https://news.ycombinator.com/user?id=alasr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[惠普5036A微處理器實驗室]]></title>
         <id>https://news.ycombinator.com/item?id=30713853</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>MikeAshley178</name>
             <uri>https://news.ycombinator.com/user?id=MikeAshley178</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[障礙物。在計算機之間共享鼠標和鍵盤]]></title>
-        <id>https://news.ycombinator.com/item?id=30639181</id>
-        <link href="https://news.ycombinator.com/item?id=30639181"/>
-        <updated>2022-03-11T12:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Barrier: Share mouse and keyboard between computers]]></summary>
-        <author>
-            <name>some1else</name>
-            <uri>https://news.ycombinator.com/user?id=some1else</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌地圖陰影計算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30639160</id>
-        <link href="https://news.ycombinator.com/item?id=30639160"/>
-        <updated>2022-03-11T12:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Google Maps Shadow Calculator]]></summary>
-        <author>
-            <name>gdaramouskas</name>
-            <uri>https://news.ycombinator.com/user?id=gdaramouskas</uri>
         </author>
     </entry>
 </feed>
