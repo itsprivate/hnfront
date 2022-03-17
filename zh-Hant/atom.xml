@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T22:33:33.466Z</updated>
+    <updated>2022-03-17T22:42:41.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國各州隱私立法追蹤]]></title>
+        <id>https://news.ycombinator.com/item?id=30716346</id>
+        <link href="https://news.ycombinator.com/item?id=30716346"/>
+        <updated>2022-03-17T22:02:57.000Z</updated>
+        <summary type="html"><![CDATA[US State Privacy Legislation Tracker]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第9-2022號：ExoMars暫停使用]]></title>
         <id>https://news.ycombinator.com/item?id=30716191</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>synergy20</name>
             <uri>https://news.ycombinator.com/user?id=synergy20</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技術講座不一定是無聊的]]></title>
-        <id>https://news.ycombinator.com/item?id=30641096</id>
-        <link href="https://news.ycombinator.com/item?id=30641096"/>
-        <updated>2022-03-11T15:32:54.000Z</updated>
-        <summary type="html"><![CDATA[Tech talks don’t have to be boring]]></summary>
-        <author>
-            <name>herodotus</name>
-            <uri>https://news.ycombinator.com/user?id=herodotus</uri>
         </author>
     </entry>
 </feed>
