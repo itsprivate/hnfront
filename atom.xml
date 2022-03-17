@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T09:42:33.572Z</updated>
+    <updated>2022-03-17T10:39:23.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从第一原理出发，让深度学习走向辉煌]]></title>
+        <id>https://news.ycombinator.com/item?id=30698596</id>
+        <link href="https://news.ycombinator.com/item?id=30698596"/>
+        <updated>2022-03-16T13:34:25.000Z</updated>
+        <summary type="html"><![CDATA[Making Deep Learning Go Brrrr from First Principles]]></summary>
+        <author>
+            <name>hiena03</name>
+            <uri>https://news.ycombinator.com/user?id=hiena03</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带衣架和银器的机上手术]]></title>
         <id>https://news.ycombinator.com/item?id=30709193</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>indus</name>
             <uri>https://news.ycombinator.com/user?id=indus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix的实时数据基础设施的各个阶段]]></title>
-        <id>https://news.ycombinator.com/item?id=30627489</id>
-        <link href="https://news.ycombinator.com/item?id=30627489"/>
-        <updated>2022-03-10T14:46:46.000Z</updated>
-        <summary type="html"><![CDATA[Phases of Netflix’s real-time data infrastructure]]></summary>
-        <author>
-            <name>henryluo</name>
-            <uri>https://news.ycombinator.com/user?id=henryluo</uri>
         </author>
     </entry>
 </feed>
