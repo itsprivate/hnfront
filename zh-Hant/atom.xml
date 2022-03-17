@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T17:23:28.152Z</updated>
+    <updated>2022-03-17T17:42:49.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[檢測節點事件循環阻斷器]]></title>
+        <id>https://news.ycombinator.com/item?id=30713567</id>
+        <link href="https://news.ycombinator.com/item?id=30713567"/>
+        <updated>2022-03-17T17:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Detecting Node Event Loop Blockers]]></summary>
+        <author>
+            <name>Ben-G</name>
+            <uri>https://news.ycombinator.com/user?id=Ben-G</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未醃製的 "培根 "幻覺。它是醃製的，而且對你來說不是更好 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30698369</id>
+        <link href="https://news.ycombinator.com/item?id=30698369"/>
+        <updated>2022-03-16T13:15:01.000Z</updated>
+        <summary type="html"><![CDATA[The ‘uncured’ bacon illusion: It’s cured, and it’s not better for you (2019)]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MindsDB（YC W20）正在招聘一名創意營銷設計師]]></title>
         <id>https://news.ycombinator.com/item?id=30713338</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>stichers</name>
             <uri>https://news.ycombinator.com/user?id=stichers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要問來問去，只要問]]></title>
-        <id>https://news.ycombinator.com/item?id=30639225</id>
-        <link href="https://news.ycombinator.com/item?id=30639225"/>
-        <updated>2022-03-11T12:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Don't ask to ask, just ask]]></summary>
-        <author>
-            <name>chetangoti</name>
-            <uri>https://news.ycombinator.com/user?id=chetangoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列議會通過禁止巴勒斯坦配偶的法律]]></title>
-        <id>https://news.ycombinator.com/item?id=30639159</id>
-        <link href="https://news.ycombinator.com/item?id=30639159"/>
-        <updated>2022-03-11T12:49:49.000Z</updated>
-        <summary type="html"><![CDATA[Israel's Knesset passes law barring Palestinian spouses]]></summary>
-        <author>
-            <name>croes</name>
-            <uri>https://news.ycombinator.com/user?id=croes</uri>
         </author>
     </entry>
 </feed>
