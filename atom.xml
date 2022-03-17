@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T05:51:35.749Z</updated>
+    <updated>2022-03-17T06:13:37.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[善待你的导师]]></title>
+        <id>https://news.ycombinator.com/item?id=30697148</id>
+        <link href="https://news.ycombinator.com/item?id=30697148"/>
+        <updated>2022-03-16T10:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Be Good to Your Mentors]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客新闻的个人排名应用]]></title>
         <id>https://news.ycombinator.com/item?id=30707800</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jmsflknr</name>
             <uri>https://news.ycombinator.com/user?id=jmsflknr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同名法则第一部分：互联网的法则]]></title>
-        <id>https://news.ycombinator.com/item?id=30626366</id>
-        <link href="https://news.ycombinator.com/item?id=30626366"/>
-        <updated>2022-03-10T12:55:22.000Z</updated>
-        <summary type="html"><![CDATA[Eponymous Laws Part I: Laws of the Internet]]></summary>
-        <author>
-            <name>yarapavan</name>
-            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
         </author>
     </entry>
 </feed>
