@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T10:39:23.270Z</updated>
+    <updated>2022-03-17T10:54:56.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PDF API - 生成、轉換和修改PDF文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30709524</id>
+        <link href="https://news.ycombinator.com/item?id=30709524"/>
+        <updated>2022-03-17T10:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PDF API – Generate, convert, and modify PDF documents]]></summary>
+        <author>
+            <name>arkgil</name>
+            <uri>https://news.ycombinator.com/user?id=arkgil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從第一原理出發，讓深度學習走向輝煌]]></title>
         <id>https://news.ycombinator.com/item?id=30698596</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Blackthorn</name>
             <uri>https://news.ycombinator.com/user?id=Blackthorn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯邦貿易委員會打擊難以取消的 "憤怒的公牛 "的訂閱]]></title>
-        <id>https://news.ycombinator.com/item?id=30634093</id>
-        <link href="https://news.ycombinator.com/item?id=30634093"/>
-        <updated>2022-03-10T23:32:31.000Z</updated>
-        <summary type="html"><![CDATA[FTC cracks down on hard to cancel subscription of RagingBull]]></summary>
-        <author>
-            <name>indus</name>
-            <uri>https://news.ycombinator.com/user?id=indus</uri>
         </author>
     </entry>
 </feed>
