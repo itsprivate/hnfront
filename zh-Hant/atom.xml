@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T16:46:56.927Z</updated>
+    <updated>2022-03-17T17:05:37.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雅虎無視RFC 5321重試]]></title>
+        <id>https://news.ycombinator.com/item?id=30713068</id>
+        <link href="https://news.ycombinator.com/item?id=30713068"/>
+        <updated>2022-03-17T16:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Yahoo disregarding RFC 5321 retries]]></summary>
+        <author>
+            <name>beezle</name>
+            <uri>https://news.ycombinator.com/user?id=beezle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BPG圖像格式]]></title>
+        <id>https://news.ycombinator.com/item?id=30712944</id>
+        <link href="https://news.ycombinator.com/item?id=30712944"/>
+        <updated>2022-03-17T16:27:23.000Z</updated>
+        <summary type="html"><![CDATA[BPG Image Format]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[類型與集合（以及類別呢？）]]></title>
         <id>https://news.ycombinator.com/item?id=30697421</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>TekMol</name>
             <uri>https://news.ycombinator.com/user?id=TekMol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼谷歌使用語言的位置而不是瀏覽器設置？]]></title>
-        <id>https://news.ycombinator.com/item?id=30638590</id>
-        <link href="https://news.ycombinator.com/item?id=30638590"/>
-        <updated>2022-03-11T11:21:48.000Z</updated>
-        <summary type="html"><![CDATA[Why do Google use location for language rather than browser settings?]]></summary>
-        <author>
-            <name>smallerfish</name>
-            <uri>https://news.ycombinator.com/user?id=smallerfish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻擊者利用網絡安全漏洞盜取200萬美元的加密貨幣]]></title>
-        <id>https://news.ycombinator.com/item?id=30636675</id>
-        <link href="https://news.ycombinator.com/item?id=30636675"/>
-        <updated>2022-03-11T05:41:55.000Z</updated>
-        <summary type="html"><![CDATA[Attackers exploit flaw in web’s security to steal $2M in cryptocurrency]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
