@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T17:42:49.972Z</updated>
+    <updated>2022-03-17T18:14:08.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[惠普5036A微處理器實驗室]]></title>
+        <id>https://news.ycombinator.com/item?id=30713853</id>
+        <link href="https://news.ycombinator.com/item?id=30713853"/>
+        <updated>2022-03-17T17:43:03.000Z</updated>
+        <summary type="html"><![CDATA[HP 5036A Microprocessor Lab]]></summary>
+        <author>
+            <name>peter_d_sherman</name>
+            <uri>https://news.ycombinator.com/user?id=peter_d_sherman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[檢測節點事件循環阻斷器]]></title>
         <id>https://news.ycombinator.com/item?id=30713567</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gdaramouskas</name>
             <uri>https://news.ycombinator.com/user?id=gdaramouskas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[氣候變化不會等待未來的創新 - 我們現在就需要採取行動]]></title>
-        <id>https://news.ycombinator.com/item?id=30639115</id>
-        <link href="https://news.ycombinator.com/item?id=30639115"/>
-        <updated>2022-03-11T12:44:40.000Z</updated>
-        <summary type="html"><![CDATA[Climate change won’t wait for future innovation – we need action now]]></summary>
-        <author>
-            <name>stichers</name>
-            <uri>https://news.ycombinator.com/user?id=stichers</uri>
         </author>
     </entry>
 </feed>
