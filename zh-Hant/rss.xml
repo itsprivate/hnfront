@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 17 Mar 2022 20:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 20:35:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開泰結構。為二進制結構開發解析器的新方法]]></title>
+            <link>https://news.ycombinator.com/item?id=30715406</link>
+            <guid>https://news.ycombinator.com/item?id=30715406</guid>
+            <pubDate>Thu, 17 Mar 2022 20:13:30 GMT</pubDate>
+            <description><![CDATA[Kaitai Struct: A new way to develop parsers for binary structures]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英特爾金融化並失去在半導體制造領域的領導地位]]></title>
+            <link>https://news.ycombinator.com/item?id=30715268</link>
+            <guid>https://news.ycombinator.com/item?id=30715268</guid>
+            <pubDate>Thu, 17 Mar 2022 19:59:12 GMT</pubDate>
+            <description><![CDATA[Intel Financialized and Lost Leadership in Semiconductor Fabrication]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rust中的Graphviz實現]]></title>
+            <link>https://news.ycombinator.com/item?id=30715168</link>
+            <guid>https://news.ycombinator.com/item?id=30715168</guid>
+            <pubDate>Thu, 17 Mar 2022 19:48:41 GMT</pubDate>
+            <description><![CDATA[Show HN: A Graphviz Implementation in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每個火狐瀏覽器的下載都有一個獨特的標識符]]></title>
+            <link>https://news.ycombinator.com/item?id=30715163</link>
+            <guid>https://news.ycombinator.com/item?id=30715163</guid>
+            <pubDate>Thu, 17 Mar 2022 19:48:16 GMT</pubDate>
+            <description><![CDATA[Each Firefox download has a unique identifier]]></description>
+        </item>
+        <item>
+            <title><![CDATA[瀏覽器中的瀏覽器（BITB）攻擊]]></title>
+            <link>https://news.ycombinator.com/item?id=30697329</link>
+            <guid>https://news.ycombinator.com/item?id=30697329</guid>
+            <pubDate>Wed, 16 Mar 2022 10:59:16 GMT</pubDate>
+            <description><![CDATA[Browser in the Browser (BITB) Attack]]></description>
+        </item>
         <item>
             <title><![CDATA[用RP2040驅動TFEL液晶面板。逐步卸載CPU]]></title>
             <link>https://news.ycombinator.com/item?id=30714943</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30640965</guid>
             <pubDate>Fri, 11 Mar 2022 15:21:56 GMT</pubDate>
             <description><![CDATA[Show HN: Hide promoted tweets and sponsored content]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在行星防禦決策中考慮暴力衝突的風險]]></title>
-            <link>https://news.ycombinator.com/item?id=30641028</link>
-            <guid>https://news.ycombinator.com/item?id=30641028</guid>
-            <pubDate>Fri, 11 Mar 2022 15:27:19 GMT</pubDate>
-            <description><![CDATA[Accounting for Violent Conflict Risk in Planetary Defense Decisions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果公司的蒂姆-庫克對美國的LGBTQ法律表示關注。]]></title>
-            <link>https://news.ycombinator.com/item?id=30640393</link>
-            <guid>https://news.ycombinator.com/item?id=30640393</guid>
-            <pubDate>Fri, 11 Mar 2022 14:34:31 GMT</pubDate>
-            <description><![CDATA[Apple's Tim Cook raises concern over LGBTQ laws in the U.S.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國取消了對完全自動駕駛汽車的人為控制要求]]></title>
-            <link>https://news.ycombinator.com/item?id=30640947</link>
-            <guid>https://news.ycombinator.com/item?id=30640947</guid>
-            <pubDate>Fri, 11 Mar 2022 15:20:45 GMT</pubDate>
-            <description><![CDATA[U.S. eliminates human controls requirement for fully automated vehicles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HeyWhatsThat (計算地球上任何一點的景觀和全景圖)]]></title>
-            <link>https://news.ycombinator.com/item?id=30640846</link>
-            <guid>https://news.ycombinator.com/item?id=30640846</guid>
-            <pubDate>Fri, 11 Mar 2022 15:12:50 GMT</pubDate>
-            <description><![CDATA[HeyWhatsThat (calculate viewshed and panorama for any point on Earth)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄羅斯就Facebook上的死亡電話對Meta公司展開刑事調查]]></title>
-            <link>https://news.ycombinator.com/item?id=30640741</link>
-            <guid>https://news.ycombinator.com/item?id=30640741</guid>
-            <pubDate>Fri, 11 Mar 2022 15:03:02 GMT</pubDate>
-            <description><![CDATA[Russia opens criminal investigation of Meta over death calls on Facebook]]></description>
         </item>
     </channel>
 </rss>

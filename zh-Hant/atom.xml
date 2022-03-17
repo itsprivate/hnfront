@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T20:14:17.028Z</updated>
+    <updated>2022-03-17T20:35:34.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開泰結構。為二進制結構開發解析器的新方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30715406</id>
+        <link href="https://news.ycombinator.com/item?id=30715406"/>
+        <updated>2022-03-17T20:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Kaitai Struct: A new way to develop parsers for binary structures]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特爾金融化並失去在半導體制造領域的領導地位]]></title>
+        <id>https://news.ycombinator.com/item?id=30715268</id>
+        <link href="https://news.ycombinator.com/item?id=30715268"/>
+        <updated>2022-03-17T19:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Intel Financialized and Lost Leadership in Semiconductor Fabrication]]></summary>
+        <author>
+            <name>kloch</name>
+            <uri>https://news.ycombinator.com/user?id=kloch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust中的Graphviz實現]]></title>
+        <id>https://news.ycombinator.com/item?id=30715168</id>
+        <link href="https://news.ycombinator.com/item?id=30715168"/>
+        <updated>2022-03-17T19:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Graphviz Implementation in Rust]]></summary>
+        <author>
+            <name>Q26124</name>
+            <uri>https://news.ycombinator.com/user?id=Q26124</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每個火狐瀏覽器的下載都有一個獨特的標識符]]></title>
+        <id>https://news.ycombinator.com/item?id=30715163</id>
+        <link href="https://news.ycombinator.com/item?id=30715163"/>
+        <updated>2022-03-17T19:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Each Firefox download has a unique identifier]]></summary>
+        <author>
+            <name>gslin</name>
+            <uri>https://news.ycombinator.com/user?id=gslin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瀏覽器中的瀏覽器（BITB）攻擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30697329</id>
+        <link href="https://news.ycombinator.com/item?id=30697329"/>
+        <updated>2022-03-16T10:59:16.000Z</updated>
+        <summary type="html"><![CDATA[Browser in the Browser (BITB) Attack]]></summary>
+        <author>
+            <name>jcynix</name>
+            <uri>https://news.ycombinator.com/user?id=jcynix</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用RP2040驅動TFEL液晶面板。逐步卸載CPU]]></title>
         <id>https://news.ycombinator.com/item?id=30714943</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>promotino</name>
             <uri>https://news.ycombinator.com/user?id=promotino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在行星防禦決策中考慮暴力衝突的風險]]></title>
-        <id>https://news.ycombinator.com/item?id=30641028</id>
-        <link href="https://news.ycombinator.com/item?id=30641028"/>
-        <updated>2022-03-11T15:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Accounting for Violent Conflict Risk in Planetary Defense Decisions]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司的蒂姆-庫克對美國的LGBTQ法律表示關注。]]></title>
-        <id>https://news.ycombinator.com/item?id=30640393</id>
-        <link href="https://news.ycombinator.com/item?id=30640393"/>
-        <updated>2022-03-11T14:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Apple's Tim Cook raises concern over LGBTQ laws in the U.S.]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國取消了對完全自動駕駛汽車的人為控制要求]]></title>
-        <id>https://news.ycombinator.com/item?id=30640947</id>
-        <link href="https://news.ycombinator.com/item?id=30640947"/>
-        <updated>2022-03-11T15:20:45.000Z</updated>
-        <summary type="html"><![CDATA[U.S. eliminates human controls requirement for fully automated vehicles]]></summary>
-        <author>
-            <name>ra7</name>
-            <uri>https://news.ycombinator.com/user?id=ra7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HeyWhatsThat (計算地球上任何一點的景觀和全景圖)]]></title>
-        <id>https://news.ycombinator.com/item?id=30640846</id>
-        <link href="https://news.ycombinator.com/item?id=30640846"/>
-        <updated>2022-03-11T15:12:50.000Z</updated>
-        <summary type="html"><![CDATA[HeyWhatsThat (calculate viewshed and panorama for any point on Earth)]]></summary>
-        <author>
-            <name>Rygian</name>
-            <uri>https://news.ycombinator.com/user?id=Rygian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯就Facebook上的死亡電話對Meta公司展開刑事調查]]></title>
-        <id>https://news.ycombinator.com/item?id=30640741</id>
-        <link href="https://news.ycombinator.com/item?id=30640741"/>
-        <updated>2022-03-11T15:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Russia opens criminal investigation of Meta over death calls on Facebook]]></summary>
-        <author>
-            <name>LittleMoveBig</name>
-            <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
         </author>
     </entry>
 </feed>
