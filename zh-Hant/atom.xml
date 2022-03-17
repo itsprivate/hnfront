@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T20:35:34.684Z</updated>
+    <updated>2022-03-17T20:42:20.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通往我們細胞中心的旅程]]></title>
+        <id>https://news.ycombinator.com/item?id=30713797</id>
+        <link href="https://news.ycombinator.com/item?id=30713797"/>
+        <updated>2022-03-17T17:38:32.000Z</updated>
+        <summary type="html"><![CDATA[A journey to the center of our cells]]></summary>
+        <author>
+            <name>arbesman</name>
+            <uri>https://news.ycombinator.com/user?id=arbesman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開泰結構。為二進制結構開發解析器的新方法]]></title>
         <id>https://news.ycombinator.com/item?id=30715406</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nixcraft</name>
             <uri>https://news.ycombinator.com/user?id=nixcraft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱藏推廣推文和贊助內容]]></title>
-        <id>https://news.ycombinator.com/item?id=30640965</id>
-        <link href="https://news.ycombinator.com/item?id=30640965"/>
-        <updated>2022-03-11T15:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hide promoted tweets and sponsored content]]></summary>
-        <author>
-            <name>promotino</name>
-            <uri>https://news.ycombinator.com/user?id=promotino</uri>
         </author>
     </entry>
 </feed>
