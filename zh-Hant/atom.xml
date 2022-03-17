@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T09:33:34.697Z</updated>
+    <updated>2022-03-17T09:42:33.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帶衣架和銀器的機上手術]]></title>
+        <id>https://news.ycombinator.com/item?id=30709193</id>
+        <link href="https://news.ycombinator.com/item?id=30709193"/>
+        <updated>2022-03-17T09:23:32.000Z</updated>
+        <summary type="html"><![CDATA[In-flight surgery with a coat-hanger and silverware]]></summary>
+        <author>
+            <name>minding</name>
+            <uri>https://news.ycombinator.com/user?id=minding</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[組織和擴大一個有效的數據團隊]]></title>
         <id>https://news.ycombinator.com/item?id=30689987</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>henryluo</name>
             <uri>https://news.ycombinator.com/user?id=henryluo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疫苗和Omicron意味著Covid現在在英國的致命性低於流感]]></title>
-        <id>https://news.ycombinator.com/item?id=30632334</id>
-        <link href="https://news.ycombinator.com/item?id=30632334"/>
-        <updated>2022-03-10T20:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Vaccines and Omicron mean Covid now less deadly than flu in England]]></summary>
-        <author>
-            <name>diaphanous</name>
-            <uri>https://news.ycombinator.com/user?id=diaphanous</uri>
         </author>
     </entry>
 </feed>
