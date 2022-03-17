@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 17 Mar 2022 22:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 22:52:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MySQL现在在操作系统层面显示其线程名称，以便更好地进行故障排除]]></title>
+            <link>https://news.ycombinator.com/item?id=30715336</link>
+            <guid>https://news.ycombinator.com/item?id=30715336</guid>
+            <pubDate>Thu, 17 Mar 2022 20:07:46 GMT</pubDate>
+            <description><![CDATA[MySQL now shows its thread names at OS level for better troubleshooting]]></description>
+        </item>
         <item>
             <title><![CDATA[美国各州隐私立法追踪]]></title>
             <link>https://news.ycombinator.com/item?id=30716346</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642281</guid>
             <pubDate>Fri, 11 Mar 2022 16:50:09 GMT</pubDate>
             <description><![CDATA[Convert curl commands to code in several languages]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Go编写脚本]]></title>
-            <link>https://news.ycombinator.com/item?id=30641883</link>
-            <guid>https://news.ycombinator.com/item?id=30641883</guid>
-            <pubDate>Fri, 11 Mar 2022 16:26:01 GMT</pubDate>
-            <description><![CDATA[Scripting with Go]]></description>
         </item>
     </channel>
 </rss>

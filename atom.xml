@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T22:42:41.701Z</updated>
+    <updated>2022-03-17T22:52:52.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MySQL现在在操作系统层面显示其线程名称，以便更好地进行故障排除]]></title>
+        <id>https://news.ycombinator.com/item?id=30715336</id>
+        <link href="https://news.ycombinator.com/item?id=30715336"/>
+        <updated>2022-03-17T20:07:46.000Z</updated>
+        <summary type="html"><![CDATA[MySQL now shows its thread names at OS level for better troubleshooting]]></summary>
+        <author>
+            <name>tanelpoder</name>
+            <uri>https://news.ycombinator.com/user?id=tanelpoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国各州隐私立法追踪]]></title>
         <id>https://news.ycombinator.com/item?id=30716346</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>djhaskin987</name>
             <uri>https://news.ycombinator.com/user?id=djhaskin987</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Go编写脚本]]></title>
-        <id>https://news.ycombinator.com/item?id=30641883</id>
-        <link href="https://news.ycombinator.com/item?id=30641883"/>
-        <updated>2022-03-11T16:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Scripting with Go]]></summary>
-        <author>
-            <name>synergy20</name>
-            <uri>https://news.ycombinator.com/user?id=synergy20</uri>
         </author>
     </entry>
 </feed>
