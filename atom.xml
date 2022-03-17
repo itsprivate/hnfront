@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T11:14:32.252Z</updated>
+    <updated>2022-03-17T11:30:35.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软将在芬兰建造节能产热的数据中心]]></title>
+        <id>https://news.ycombinator.com/item?id=30709591</id>
+        <link href="https://news.ycombinator.com/item?id=30709591"/>
+        <updated>2022-03-17T10:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft to build energy efficient, heat-producing data centre in Finland]]></summary>
+        <author>
+            <name>Hamuko</name>
+            <uri>https://news.ycombinator.com/user?id=Hamuko</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个像Firestore和Algolia一样的数据存储，合二为一]]></title>
+        <id>https://news.ycombinator.com/item?id=30696718</id>
+        <link href="https://news.ycombinator.com/item?id=30696718"/>
+        <updated>2022-03-16T09:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A data store like Firestore and Algolia all in one]]></summary>
+        <author>
+            <name>marcelthomas</name>
+            <uri>https://news.ycombinator.com/user?id=marcelthomas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乔治-R.R.马丁不是你的婊子 (2009)]]></title>
         <id>https://news.ycombinator.com/item?id=30709624</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lelf</name>
             <uri>https://news.ycombinator.com/user?id=lelf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jerry (YC S17) 正在招聘软件开发工程经理]]></title>
-        <id>https://news.ycombinator.com/item?id=30634862</id>
-        <link href="https://news.ycombinator.com/item?id=30634862"/>
-        <updated>2022-03-11T01:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Jerry (YC S17) Is Hiring Engineering Manager, Software Development]]></summary>
-        <author>
-            <name>artag</name>
-            <uri>https://news.ycombinator.com/user?id=artag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追随乌德的脚步走过亚美尼亚音乐的历史]]></title>
-        <id>https://news.ycombinator.com/item?id=30632751</id>
-        <link href="https://news.ycombinator.com/item?id=30632751"/>
-        <updated>2022-03-10T21:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Following the oud through the history of Armenian music]]></summary>
-        <author>
-            <name>notagain</name>
-            <uri>https://news.ycombinator.com/user?id=notagain</uri>
         </author>
     </entry>
 </feed>
