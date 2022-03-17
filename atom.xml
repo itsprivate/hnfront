@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T07:30:54.529Z</updated>
+    <updated>2022-03-17T08:15:55.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lapce - 快如闪电、功能强大的代码编辑器，用Rust编写]]></title>
+        <id>https://news.ycombinator.com/item?id=30708505</id>
+        <link href="https://news.ycombinator.com/item?id=30708505"/>
+        <updated>2022-03-17T07:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Lapce — Lightning-fast and Powerful Code Editor, written in Rust]]></summary>
+        <author>
+            <name>maximilianroos</name>
+            <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[绘制太阳系地图]]></title>
         <id>https://news.ycombinator.com/item?id=30698237</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dewey</name>
             <uri>https://news.ycombinator.com/user?id=dewey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们是Substack的创始人，我们刚刚推出了一个iOS应用程序。AMA]]></title>
-        <id>https://news.ycombinator.com/item?id=30632952</id>
-        <link href="https://news.ycombinator.com/item?id=30632952"/>
-        <updated>2022-03-10T21:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We’re the founders of Substack, we just launched an iOS app. AMA]]></summary>
-        <author>
-            <name>internet_jockey</name>
-            <uri>https://news.ycombinator.com/user?id=internet_jockey</uri>
         </author>
     </entry>
 </feed>
