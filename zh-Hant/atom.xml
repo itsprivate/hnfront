@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-17T06:58:30.633Z</updated>
+    <updated>2022-03-17T07:30:54.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[繪製太陽系地圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30698237</id>
+        <link href="https://news.ycombinator.com/item?id=30698237"/>
+        <updated>2022-03-16T13:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Mapping the Solar System]]></summary>
+        <author>
+            <name>betolink</name>
+            <uri>https://news.ycombinator.com/user?id=betolink</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在世界人口中的地位是什麼，我還能活多久？]]></title>
         <id>https://news.ycombinator.com/item?id=30708217</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>internet_jockey</name>
             <uri>https://news.ycombinator.com/user?id=internet_jockey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個貪婪的讀者。通過書籍看斯大林]]></title>
-        <id>https://news.ycombinator.com/item?id=30632775</id>
-        <link href="https://news.ycombinator.com/item?id=30632775"/>
-        <updated>2022-03-10T21:32:47.000Z</updated>
-        <summary type="html"><![CDATA[A Voracious Reader: Stalin through his books]]></summary>
-        <author>
-            <name>canthandle</name>
-            <uri>https://news.ycombinator.com/user?id=canthandle</uri>
         </author>
     </entry>
 </feed>
