@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T15:15:38.101Z</updated>
+    <updated>2022-03-18T15:54:56.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜在秘密項目中故意讓人難以取消Prime套餐]]></title>
+        <id>https://news.ycombinator.com/item?id=30723461</id>
+        <link href="https://news.ycombinator.com/item?id=30723461"/>
+        <updated>2022-03-18T15:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon intentionally made it hard to cancel Prime subscription in secret project]]></summary>
+        <author>
+            <name>green-eclipse</name>
+            <uri>https://news.ycombinator.com/user?id=green-eclipse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[區塊鏈也許不會摧毀地球]]></title>
+        <id>https://news.ycombinator.com/item?id=30723310</id>
+        <link href="https://news.ycombinator.com/item?id=30723310"/>
+        <updated>2022-03-18T15:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Blockchains will maybe not destroy the planet]]></summary>
+        <author>
+            <name>zeptonaut22</name>
+            <uri>https://news.ycombinator.com/user?id=zeptonaut22</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dav1d，快速AV1解碼器，1.0.0版本發佈]]></title>
         <id>https://news.ycombinator.com/item?id=30722853</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>DyslexicAtheist</name>
             <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國城市中歷史上的紅線和今天的空氣汙染差異。]]></title>
-        <id>https://news.ycombinator.com/item?id=30651501</id>
-        <link href="https://news.ycombinator.com/item?id=30651501"/>
-        <updated>2022-03-12T14:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Historical Redlining and Present-Day Air Pollution Disparities in U.S. Cities]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一把有很多鑰匙的鎖。欺騙8.8.8.8中的DNSSEC簽名的域名]]></title>
-        <id>https://news.ycombinator.com/item?id=30651840</id>
-        <link href="https://news.ycombinator.com/item?id=30651840"/>
-        <updated>2022-03-12T15:04:39.000Z</updated>
-        <summary type="html"><![CDATA[A lock with many keys: Spoofing DNSSEC-signed domains in 8.8.8.8]]></summary>
-        <author>
-            <name>sintax</name>
-            <uri>https://news.ycombinator.com/user?id=sintax</uri>
         </author>
     </entry>
 </feed>
