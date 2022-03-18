@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T08:52:21.311Z</updated>
+    <updated>2022-03-18T09:13:11.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個人工智能設計的鍵盤佈局]]></title>
+        <id>https://news.ycombinator.com/item?id=30719826</id>
+        <link href="https://news.ycombinator.com/item?id=30719826"/>
+        <updated>2022-03-18T08:32:27.000Z</updated>
+        <summary type="html"><![CDATA[An AI designed keyboard layout]]></summary>
+        <author>
+            <name>michidk</name>
+            <uri>https://news.ycombinator.com/user?id=michidk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[針對Linux 5.17和5.18的隨機數生成器的改進]]></title>
+        <id>https://news.ycombinator.com/item?id=30719804</id>
+        <link href="https://news.ycombinator.com/item?id=30719804"/>
+        <updated>2022-03-18T08:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Random number generator enhancements for Linux 5.17 and 5.18]]></summary>
+        <author>
+            <name>CyberRabbi</name>
+            <uri>https://news.ycombinator.com/user?id=CyberRabbi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助形成地球的隕石可能形成於外太陽系]]></title>
         <id>https://news.ycombinator.com/item?id=30696873</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的問題越來越嚴重]]></title>
-        <id>https://news.ycombinator.com/item?id=30648360</id>
-        <link href="https://news.ycombinator.com/item?id=30648360"/>
-        <updated>2022-03-12T02:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Putin’s Worsening Problems]]></summary>
-        <author>
-            <name>guildwriter</name>
-            <uri>https://news.ycombinator.com/user?id=guildwriter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遷移Thunderbird配置文件。一個三幕的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30623480</id>
-        <link href="https://news.ycombinator.com/item?id=30623480"/>
-        <updated>2022-03-10T05:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Migrating Thunderbird profiles: A story in three acts]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
