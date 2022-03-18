@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T02:15:57.598Z</updated>
+    <updated>2022-03-18T02:58:02.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[M1 Mac上的Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=30717758</id>
+        <link href="https://news.ycombinator.com/item?id=30717758"/>
+        <updated>2022-03-18T01:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Linux on an M1 Mac]]></summary>
+        <author>
+            <name>haxiomic</name>
+            <uri>https://news.ycombinator.com/user?id=haxiomic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[节点--IPC供应链攻击：peacenotwar]]></title>
+        <id>https://news.ycombinator.com/item?id=30717382</id>
+        <link href="https://news.ycombinator.com/item?id=30717382"/>
+        <updated>2022-03-18T00:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Node-ipc supply chain attack: peacenotwar]]></summary>
+        <author>
+            <name>smashah</name>
+            <uri>https://news.ycombinator.com/user?id=smashah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么德国的面包是世界上最好的（2018）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30697482</id>
+        <link href="https://news.ycombinator.com/item?id=30697482"/>
+        <updated>2022-03-16T11:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Why German bread is the best in the world (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析鱼类新鲜度的电子舌 (2008) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=29048079</id>
+        <link href="https://news.ycombinator.com/item?id=29048079"/>
+        <updated>2021-10-30T11:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Electronic tongue to analyze fish freshness (2008) [pdf]]]></summary>
+        <author>
+            <name>antvo</name>
+            <uri>https://news.ycombinator.com/user?id=antvo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加利福尼亚野火烟雾在欧洲上空。气溶胶观测的第一个例子]]></title>
+        <id>https://news.ycombinator.com/item?id=26531943</id>
+        <link href="https://news.ycombinator.com/item?id=26531943"/>
+        <updated>2021-03-21T17:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本月的扫描。食品包装]]></title>
         <id>https://news.ycombinator.com/item?id=30717785</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>warrenm</name>
             <uri>https://news.ycombinator.com/user?id=warrenm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1980年代媒体对《龙与地下城》的恐慌 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30644956</id>
-        <link href="https://news.ycombinator.com/item?id=30644956"/>
-        <updated>2022-03-11T19:35:45.000Z</updated>
-        <summary type="html"><![CDATA[The 1980s Media Panic over Dungeons and Dragons (2016)]]></summary>
-        <author>
-            <name>jedwhite</name>
-            <uri>https://news.ycombinator.com/user?id=jedwhite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了避免芬兰的税收，1000马力的进口Hennessey RAM被限制在55MPH。]]></title>
-        <id>https://news.ycombinator.com/item?id=30644327</id>
-        <link href="https://news.ycombinator.com/item?id=30644327"/>
-        <updated>2022-03-11T18:51:32.000Z</updated>
-        <summary type="html"><![CDATA[To avoid Finland’s tax a 1,000HP imported Hennessey RAM is limited to 55MPH]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为Clang和LLVM添加HLSL和DirectX支持]]></title>
-        <id>https://news.ycombinator.com/item?id=30634593</id>
-        <link href="https://news.ycombinator.com/item?id=30634593"/>
-        <updated>2022-03-11T00:29:10.000Z</updated>
-        <summary type="html"><![CDATA[Adding HLSL and DirectX Support to Clang and LLVM]]></summary>
-        <author>
-            <name>cglong</name>
-            <uri>https://news.ycombinator.com/user?id=cglong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[糟糕的图书馆书籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30644463</id>
-        <link href="https://news.ycombinator.com/item?id=30644463"/>
-        <updated>2022-03-11T19:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Awful Library Books]]></summary>
-        <author>
-            <name>cjlm</name>
-            <uri>https://news.ycombinator.com/user?id=cjlm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中立的DNS服务器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30642577</id>
-        <link href="https://news.ycombinator.com/item?id=30642577"/>
-        <updated>2022-03-11T17:04:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Neutral DNS servers?]]></summary>
-        <author>
-            <name>NotAWorkNick</name>
-            <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
         </author>
     </entry>
 </feed>
