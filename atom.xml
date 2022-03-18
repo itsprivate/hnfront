@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T17:06:09.339Z</updated>
+    <updated>2022-03-18T17:25:13.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ReadMe（YC W15）正在招聘一位热爱开发工具的CTO]]></title>
+        <id>https://news.ycombinator.com/item?id=30724660</id>
+        <link href="https://news.ycombinator.com/item?id=30724660"/>
+        <updated>2022-03-18T17:00:49.000Z</updated>
+        <summary type="html"><![CDATA[ReadMe (YC W15) is hiring a CTO who loves devtools]]></summary>
+        <author>
+            <name>gkoberger</name>
+            <uri>https://news.ycombinator.com/user?id=gkoberger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚历山大搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30724592</id>
+        <link href="https://news.ycombinator.com/item?id=30724592"/>
+        <updated>2022-03-18T16:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Alexandria Search]]></summary>
+        <author>
+            <name>nafnlj</name>
+            <uri>https://news.ycombinator.com/user?id=nafnlj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法院确认进口牛肉仍被允许标注 "美国产品 "的标签]]></title>
         <id>https://news.ycombinator.com/item?id=30724475</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nickdrozd</name>
             <uri>https://news.ycombinator.com/user?id=nickdrozd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[激光可以将核废料的寿命从一百万年缩短到30分钟]]></title>
-        <id>https://news.ycombinator.com/item?id=30652334</id>
-        <link href="https://news.ycombinator.com/item?id=30652334"/>
-        <updated>2022-03-12T16:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Lasers could cut lifespan of nuclear waste from a million years to 30 minutes]]></summary>
-        <author>
-            <name>metaph6</name>
-            <uri>https://news.ycombinator.com/user?id=metaph6</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudant/IBM从基于FoundationDB的CouchDB重写中退缩]]></title>
-        <id>https://news.ycombinator.com/item?id=30652281</id>
-        <link href="https://news.ycombinator.com/item?id=30652281"/>
-        <updated>2022-03-12T16:06:02.000Z</updated>
-        <summary type="html"><![CDATA[Cloudant/IBM back off from FoundationDB based CouchDB rewrite]]></summary>
-        <author>
-            <name>jFriedensreich</name>
-            <uri>https://news.ycombinator.com/user?id=jFriedensreich</uri>
         </author>
     </entry>
 </feed>
