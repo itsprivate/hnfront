@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T09:13:11.847Z</updated>
+    <updated>2022-03-18T09:51:36.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查找和编辑CSL引文样式]]></title>
+        <id>https://news.ycombinator.com/item?id=30698419</id>
+        <link href="https://news.ycombinator.com/item?id=30698419"/>
+        <updated>2022-03-16T13:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Find and edit CSL citation styles]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个人工智能设计的键盘布局]]></title>
         <id>https://news.ycombinator.com/item?id=30719826</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ansh_nanda</name>
             <uri>https://news.ycombinator.com/user?id=ansh_nanda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧内斯特-沙克尔顿爵士的传奇生存故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30648380</id>
-        <link href="https://news.ycombinator.com/item?id=30648380"/>
-        <updated>2022-03-12T02:18:11.000Z</updated>
-        <summary type="html"><![CDATA[The Legendary Survival Story of Sir Ernest Shackleton]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
