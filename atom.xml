@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T04:57:47.400Z</updated>
+    <updated>2022-03-18T05:29:54.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拉格朗日点解决了物理学的一个最大问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30718708</id>
+        <link href="https://news.ycombinator.com/item?id=30718708"/>
+        <updated>2022-03-18T04:18:53.000Z</updated>
+        <summary type="html"><![CDATA[Lagrange points solved one of physics' biggest problems]]></summary>
+        <author>
+            <name>Hooke</name>
+            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红色进口火蚁覆盖在难以接近的表面上，以方便寻找食物]]></title>
         <id>https://news.ycombinator.com/item?id=30696898</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arkj</name>
             <uri>https://news.ycombinator.com/user?id=arkj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月8日Spotify停运]]></title>
-        <id>https://news.ycombinator.com/item?id=30646297</id>
-        <link href="https://news.ycombinator.com/item?id=30646297"/>
-        <updated>2022-03-11T21:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Spotify Outage on March 8]]></summary>
-        <author>
-            <name>charlieegan3</name>
-            <uri>https://news.ycombinator.com/user?id=charlieegan3</uri>
         </author>
     </entry>
 </feed>
