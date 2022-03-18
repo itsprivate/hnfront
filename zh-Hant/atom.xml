@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T05:29:54.767Z</updated>
+    <updated>2022-03-18T05:51:49.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用OpenAI的代碼-達芬奇模型通過自然語言構建遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30717773</id>
+        <link href="https://news.ycombinator.com/item?id=30717773"/>
+        <updated>2022-03-18T01:33:05.000Z</updated>
+        <summary type="html"><![CDATA[Building games through natural language using OpenAI’s code-DaVinci model]]></summary>
+        <author>
+            <name>dahjelle</name>
+            <uri>https://news.ycombinator.com/user?id=dahjelle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[繪製客戶組織的地圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30693104</id>
+        <link href="https://news.ycombinator.com/item?id=30693104"/>
+        <updated>2022-03-15T23:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Drawing a map of the customer organization]]></summary>
+        <author>
+            <name>skmurphy</name>
+            <uri>https://news.ycombinator.com/user?id=skmurphy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拉格朗日點解決了物理學的一個最大問題]]></title>
         <id>https://news.ycombinator.com/item?id=30718708</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>michidk</name>
             <uri>https://news.ycombinator.com/user?id=michidk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人員訓練一種算法，將豬的叫聲解釋為情緒]]></title>
-        <id>https://news.ycombinator.com/item?id=30646658</id>
-        <link href="https://news.ycombinator.com/item?id=30646658"/>
-        <updated>2022-03-11T22:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Researchers train an algorithm to interpret pig grunts as emotions]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特步帕斯卡爾小於的東西 (2011)]]></title>
-        <id>https://news.ycombinator.com/item?id=30644308</id>
-        <link href="https://news.ycombinator.com/item?id=30644308"/>
-        <updated>2022-03-11T18:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Things That Turbo Pascal Is Smaller Than (2011)]]></summary>
-        <author>
-            <name>arkj</name>
-            <uri>https://news.ycombinator.com/user?id=arkj</uri>
         </author>
     </entry>
 </feed>
