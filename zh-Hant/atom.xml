@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T07:30:30.547Z</updated>
+    <updated>2022-03-18T07:51:37.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬格利特的預言性超現實主義]]></title>
+        <id>https://news.ycombinator.com/item?id=30707609</id>
+        <link href="https://news.ycombinator.com/item?id=30707609"/>
+        <updated>2022-03-17T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Magritte’s Prophetic Surrealism]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[進入機械鍵盤的兔子洞]]></title>
         <id>https://news.ycombinator.com/item?id=30719263</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何設計更好的API]]></title>
-        <id>https://news.ycombinator.com/item?id=30647784</id>
-        <link href="https://news.ycombinator.com/item?id=30647784"/>
-        <updated>2022-03-12T00:25:16.000Z</updated>
-        <summary type="html"><![CDATA[How to Design Better APIs]]></summary>
-        <author>
-            <name>adrianomartins</name>
-            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
         </author>
     </entry>
 </feed>
