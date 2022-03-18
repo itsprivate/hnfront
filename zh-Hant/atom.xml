@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T07:12:52.789Z</updated>
+    <updated>2022-03-18T07:30:30.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[進入機械鍵盤的兔子洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30719263</id>
+        <link href="https://news.ycombinator.com/item?id=30719263"/>
+        <updated>2022-03-18T06:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Down the mechanical keyboard rabbit hole]]></summary>
+        <author>
+            <name>fowlie</name>
+            <uri>https://news.ycombinator.com/user?id=fowlie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneSignal（YC S11）正在招聘工程師以實現移動客戶參與的民主化]]></title>
         <id>https://news.ycombinator.com/item?id=30719349</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>adrianomartins</name>
             <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反T的歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=30635810</id>
-        <link href="https://news.ycombinator.com/item?id=30635810"/>
-        <updated>2022-03-11T03:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Inverse-T History]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
