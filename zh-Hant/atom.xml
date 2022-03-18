@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T14:14:27.042Z</updated>
+    <updated>2022-03-18T14:53:35.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[還有人認為這種到處都是的2FA已經失控了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30722596</id>
+        <link href="https://news.ycombinator.com/item?id=30722596"/>
+        <updated>2022-03-18T14:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone else think this 2FA everywhere is getting out of hand?]]></summary>
+        <author>
+            <name>cloutchaser</name>
+            <uri>https://news.ycombinator.com/user?id=cloutchaser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thefuck: 偉大的應用程序，可以糾正你以前的控制檯命令]]></title>
+        <id>https://news.ycombinator.com/item?id=30722254</id>
+        <link href="https://news.ycombinator.com/item?id=30722254"/>
+        <updated>2022-03-18T13:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Thefuck: Magnificent app which corrects your previous console command]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野外的Python 3類型]]></title>
+        <id>https://news.ycombinator.com/item?id=30721964</id>
+        <link href="https://news.ycombinator.com/item?id=30721964"/>
+        <updated>2022-03-18T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Python 3 Types in the Wild]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該把Ubuntu升級到22.04 LTS嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30722007</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>molteanu</name>
             <uri>https://news.ycombinator.com/user?id=molteanu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件系統至少會出現三種不同的錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30651244</id>
-        <link href="https://news.ycombinator.com/item?id=30651244"/>
-        <updated>2022-03-12T13:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Filesystems can experience at least three different sorts of errors]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大學城]]></title>
-        <id>https://news.ycombinator.com/item?id=30651207</id>
-        <link href="https://news.ycombinator.com/item?id=30651207"/>
-        <updated>2022-03-12T13:32:32.000Z</updated>
-        <summary type="html"><![CDATA[College town]]></summary>
-        <author>
-            <name>simonswords82</name>
-            <uri>https://news.ycombinator.com/user?id=simonswords82</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80年代Usenet上的第一個文化參考資料]]></title>
-        <id>https://news.ycombinator.com/item?id=30643285</id>
-        <link href="https://news.ycombinator.com/item?id=30643285"/>
-        <updated>2022-03-11T17:45:15.000Z</updated>
-        <summary type="html"><![CDATA[80s Usenet first cultural references]]></summary>
-        <author>
-            <name>cpp_frog</name>
-            <uri>https://news.ycombinator.com/user?id=cpp_frog</uri>
         </author>
     </entry>
 </feed>
