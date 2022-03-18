@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T15:54:56.322Z</updated>
+    <updated>2022-03-18T16:17:04.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Calenday，用於旅行計劃的實時協作日曆]]></title>
+        <id>https://news.ycombinator.com/item?id=30723793</id>
+        <link href="https://news.ycombinator.com/item?id=30723793"/>
+        <updated>2022-03-18T15:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Calenday, real-time collaborative calendars for trip planning]]></summary>
+        <author>
+            <name>jaflo</name>
+            <uri>https://news.ycombinator.com/user?id=jaflo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Clojure nbb和AWS進行無服務器網站分析]]></title>
+        <id>https://news.ycombinator.com/item?id=30722838</id>
+        <link href="https://news.ycombinator.com/item?id=30722838"/>
+        <updated>2022-03-18T14:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Serverless site analytics with Clojure nbb and AWS]]></summary>
+        <author>
+            <name>Borkdude</name>
+            <uri>https://news.ycombinator.com/user?id=Borkdude</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[駱駝。基於CXL的內存分解框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30699555</id>
+        <link href="https://news.ycombinator.com/item?id=30699555"/>
+        <updated>2022-03-16T14:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Camel: CXL-based memory disaggregation framework]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜在秘密項目中故意讓人難以取消Prime套餐]]></title>
         <id>https://news.ycombinator.com/item?id=30723461</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>hunglee2</name>
             <uri>https://news.ycombinator.com/user?id=hunglee2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國市場陷入動盪，與俄羅斯的關係增加了風險清單]]></title>
-        <id>https://news.ycombinator.com/item?id=30652121</id>
-        <link href="https://news.ycombinator.com/item?id=30652121"/>
-        <updated>2022-03-12T15:46:30.000Z</updated>
-        <summary type="html"><![CDATA[China Markets in Turmoil as Russia Ties Add to List of Risks]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紐約人類 "成為一個人的慈善機器]]></title>
-        <id>https://news.ycombinator.com/item?id=30633960</id>
-        <link href="https://news.ycombinator.com/item?id=30633960"/>
-        <updated>2022-03-10T23:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Humans of New York became a one-man philanthropy machine]]></summary>
-        <author>
-            <name>bdr</name>
-            <uri>https://news.ycombinator.com/user?id=bdr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗朗西斯-福山：為失敗做準備]]></title>
-        <id>https://news.ycombinator.com/item?id=30651219</id>
-        <link href="https://news.ycombinator.com/item?id=30651219"/>
-        <updated>2022-03-12T13:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Francis Fukuyama: Preparing for Defeat]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
-            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
         </author>
     </entry>
 </feed>
