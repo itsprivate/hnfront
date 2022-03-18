@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T07:51:37.780Z</updated>
+    <updated>2022-03-18T08:52:21.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幫助形成地球的隕石可能形成於外太陽系]]></title>
+        <id>https://news.ycombinator.com/item?id=30696873</id>
+        <link href="https://news.ycombinator.com/item?id=30696873"/>
+        <updated>2022-03-16T09:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Meteorites that helped form Earth may have formed in the Outer solar-system]]></summary>
+        <author>
+            <name>News-Dog</name>
+            <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[馬格利特的預言性超現實主義]]></title>
         <id>https://news.ycombinator.com/item?id=30707609</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件驅動和系統級測試驅動芯片質量]]></title>
-        <id>https://news.ycombinator.com/item?id=30615355</id>
-        <link href="https://news.ycombinator.com/item?id=30615355"/>
-        <updated>2022-03-09T15:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Software-Driven and System-Level Tests Drive Chip Quality]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
