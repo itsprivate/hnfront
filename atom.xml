@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T05:51:49.879Z</updated>
+    <updated>2022-03-18T06:16:40.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PfSense中的多个漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30719013</id>
+        <link href="https://news.ycombinator.com/item?id=30719013"/>
+        <updated>2022-03-18T05:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Multiple Vulnerabilities in PfSense]]></summary>
+        <author>
+            <name>pelasaco</name>
+            <uri>https://news.ycombinator.com/user?id=pelasaco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uchronia。替代历史列表]]></title>
+        <id>https://news.ycombinator.com/item?id=30718976</id>
+        <link href="https://news.ycombinator.com/item?id=30718976"/>
+        <updated>2022-03-18T05:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Uchronia: The Alternate History List]]></summary>
+        <author>
+            <name>raleighm</name>
+            <uri>https://news.ycombinator.com/user?id=raleighm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadertoy苹果I模拟器]]></title>
+        <id>https://news.ycombinator.com/item?id=30718854</id>
+        <link href="https://news.ycombinator.com/item?id=30718854"/>
+        <updated>2022-03-18T04:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Shadertoy Apple I Emulator]]></summary>
+        <author>
+            <name>weinzierl</name>
+            <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Hugo、Docker和一点Python在2022年从头开始建立一个博客]]></title>
+        <id>https://news.ycombinator.com/item?id=30718757</id>
+        <link href="https://news.ycombinator.com/item?id=30718757"/>
+        <updated>2022-03-18T04:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python]]></summary>
+        <author>
+            <name>shoobs</name>
+            <uri>https://news.ycombinator.com/user?id=shoobs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用OpenAI的代码-达芬奇模型通过自然语言构建游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30717773</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V的J扩展 - JIT的说明]]></title>
-        <id>https://news.ycombinator.com/item?id=30647151</id>
-        <link href="https://news.ycombinator.com/item?id=30647151"/>
-        <updated>2022-03-11T22:58:03.000Z</updated>
-        <summary type="html"><![CDATA[RISC-V J extension – Instructions for JITs]]></summary>
-        <author>
-            <name>frankpf</name>
-            <uri>https://news.ycombinator.com/user?id=frankpf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度技术初创企业的护城河]]></title>
-        <id>https://news.ycombinator.com/item?id=30625063</id>
-        <link href="https://news.ycombinator.com/item?id=30625063"/>
-        <updated>2022-03-10T09:41:28.000Z</updated>
-        <summary type="html"><![CDATA[Moats for Deeptech Startups]]></summary>
-        <author>
-            <name>paraschopra</name>
-            <uri>https://news.ycombinator.com/user?id=paraschopra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub拉动请求文件树功能预览]]></title>
-        <id>https://news.ycombinator.com/item?id=30647047</id>
-        <link href="https://news.ycombinator.com/item?id=30647047"/>
-        <updated>2022-03-11T22:48:07.000Z</updated>
-        <summary type="html"><![CDATA[GitHub pull request file tree feature preview]]></summary>
-        <author>
-            <name>isbadawi</name>
-            <uri>https://news.ycombinator.com/user?id=isbadawi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于Phoenix PVM的虚拟机监控器]]></title>
-        <id>https://news.ycombinator.com/item?id=30615622</id>
-        <link href="https://news.ycombinator.com/item?id=30615622"/>
-        <updated>2022-03-09T15:38:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Phoenix PVM-Based Virtual Machine Monitors]]></summary>
-        <author>
-            <name>michidk</name>
-            <uri>https://news.ycombinator.com/user?id=michidk</uri>
         </author>
     </entry>
 </feed>
