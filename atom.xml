@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-18T06:16:40.373Z</updated>
+    <updated>2022-03-18T06:57:10.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[认知与编程。两大难题 - 为什么是TDD？]]></title>
+        <id>https://news.ycombinator.com/item?id=30696842</id>
+        <link href="https://news.ycombinator.com/item?id=30696842"/>
+        <updated>2022-03-16T09:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Cognition versus Programming: The Big Two – Why TDD?]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PfSense中的多个漏洞]]></title>
         <id>https://news.ycombinator.com/item?id=30719013</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普通文本的艺术 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=30647692</id>
-        <link href="https://news.ycombinator.com/item?id=30647692"/>
-        <updated>2022-03-12T00:08:27.000Z</updated>
-        <summary type="html"><![CDATA[The Art of Plain Text (2015)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
