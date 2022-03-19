@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T19:52:01.428Z</updated>
+    <updated>2022-03-19T20:11:47.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[狗狗可能因為和人類一樣的原因而感到焦慮]]></title>
+        <id>https://news.ycombinator.com/item?id=30736488</id>
+        <link href="https://news.ycombinator.com/item?id=30736488"/>
+        <updated>2022-03-19T18:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Dogs might be anxious for the same reasons as humans]]></summary>
+        <author>
+            <name>whack</name>
+            <uri>https://news.ycombinator.com/user?id=whack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元數據的宣言]]></title>
         <id>https://news.ycombinator.com/item?id=30709411</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>robin_reala</name>
             <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自行車藝術、能源和運動 (1889)]]></title>
-        <id>https://news.ycombinator.com/item?id=30648787</id>
-        <link href="https://news.ycombinator.com/item?id=30648787"/>
-        <updated>2022-03-12T03:37:45.000Z</updated>
-        <summary type="html"><![CDATA[Cycling Art, Energy, and Locomotion (1889)]]></summary>
-        <author>
-            <name>Hooke</name>
-            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
         </author>
     </entry>
 </feed>
