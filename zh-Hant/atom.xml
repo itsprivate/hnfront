@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T16:14:19.608Z</updated>
+    <updated>2022-03-19T16:48:19.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：Livedocs（YC W22）--在你的文件中的實時數據，無需代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30735058</id>
+        <link href="https://news.ycombinator.com/item?id=30735058"/>
+        <updated>2022-03-19T16:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Livedocs (YC W22) – Live data in your documents, without code]]></summary>
+        <author>
+            <name>arsalanb</name>
+            <uri>https://news.ycombinator.com/user?id=arsalanb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼書改變了你的生活？]]></title>
+        <id>https://news.ycombinator.com/item?id=30734709</id>
+        <link href="https://news.ycombinator.com/item?id=30734709"/>
+        <updated>2022-03-19T15:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What book changed your life?]]></summary>
+        <author>
+            <name>tomrod</name>
+            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[事件循環中的大象]]></title>
+        <id>https://news.ycombinator.com/item?id=30707423</id>
+        <link href="https://news.ycombinator.com/item?id=30707423"/>
+        <updated>2022-03-17T03:41:45.000Z</updated>
+        <summary type="html"><![CDATA[The Elephant in the Event Loop]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kiwink。通過手機攝像頭/閃光燈的可見光通信]]></title>
         <id>https://news.ycombinator.com/item?id=30734808</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>homarp</name>
             <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用sed編寫的數字電路仿真器]]></title>
-        <id>https://news.ycombinator.com/item?id=30660203</id>
-        <link href="https://news.ycombinator.com/item?id=30660203"/>
-        <updated>2022-03-13T11:11:32.000Z</updated>
-        <summary type="html"><![CDATA[A digital circuit simulator written in sed]]></summary>
-        <author>
-            <name>curiousfab</name>
-            <uri>https://news.ycombinator.com/user?id=curiousfab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manim - 用於創建數學動畫的Python庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30658390</id>
-        <link href="https://news.ycombinator.com/item?id=30658390"/>
-        <updated>2022-03-13T05:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Manim – Python library for creating mathematical animations]]></summary>
-        <author>
-            <name>sytelus</name>
-            <uri>https://news.ycombinator.com/user?id=sytelus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全的你，愛的密碼管理器 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30635676</id>
-        <link href="https://news.ycombinator.com/item?id=30635676"/>
-        <updated>2022-03-11T03:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Securely Yours, Love Password Managers (2021)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
