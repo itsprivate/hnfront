@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 19 Mar 2022 11:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 11:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[寶麗雅骨灰盒模型]]></title>
+            <link>https://news.ycombinator.com/item?id=30718423</link>
+            <guid>https://news.ycombinator.com/item?id=30718423</guid>
+            <pubDate>Fri, 18 Mar 2022 03:18:27 GMT</pubDate>
+            <description><![CDATA[Pólya Urn Model]]></description>
+        </item>
         <item>
             <title><![CDATA[Rant HN: 我們能不能就顯示HTML而不要求JavaScript達成一致？]]></title>
             <link>https://news.ycombinator.com/item?id=30732518</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30624069</guid>
             <pubDate>Thu, 10 Mar 2022 07:24:13 GMT</pubDate>
             <description><![CDATA[Bounded dynamicism with cross-modifying code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在莫斯科，麥當勞打包了，廣播陷入沉默，人才開始流失]]></title>
-            <link>https://news.ycombinator.com/item?id=30656668</link>
-            <guid>https://news.ycombinator.com/item?id=30656668</guid>
-            <pubDate>Sun, 13 Mar 2022 00:40:44 GMT</pubDate>
-            <description><![CDATA[In Moscow, McDonald's packs up, radio falls silent and the brain drain begins]]></description>
         </item>
     </channel>
 </rss>

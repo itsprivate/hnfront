@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T11:09:53.720Z</updated>
+    <updated>2022-03-19T11:30:02.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宝丽雅骨灰盒模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30718423</id>
+        <link href="https://news.ycombinator.com/item?id=30718423"/>
+        <updated>2022-03-18T03:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Pólya Urn Model]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rant HN: 我们能不能就显示HTML而不要求JavaScript达成一致？]]></title>
         <id>https://news.ycombinator.com/item?id=30732518</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在莫斯科，麦当劳打包了，广播陷入沉默，人才开始流失]]></title>
-        <id>https://news.ycombinator.com/item?id=30656668</id>
-        <link href="https://news.ycombinator.com/item?id=30656668"/>
-        <updated>2022-03-13T00:40:44.000Z</updated>
-        <summary type="html"><![CDATA[In Moscow, McDonald's packs up, radio falls silent and the brain drain begins]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>
