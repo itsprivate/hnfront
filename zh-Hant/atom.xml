@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T15:33:42.549Z</updated>
+    <updated>2022-03-19T16:14:19.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kiwink。通過手機攝像頭/閃光燈的可見光通信]]></title>
+        <id>https://news.ycombinator.com/item?id=30734808</id>
+        <link href="https://news.ycombinator.com/item?id=30734808"/>
+        <updated>2022-03-19T15:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Kiwink: Visible Light Communication via phone camera/flash]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果M1系統上的OpenBSD/arm64]]></title>
+        <id>https://news.ycombinator.com/item?id=30734527</id>
+        <link href="https://news.ycombinator.com/item?id=30734527"/>
+        <updated>2022-03-19T15:27:13.000Z</updated>
+        <summary type="html"><![CDATA[OpenBSD/arm64 on Apple M1 systems]]></summary>
+        <author>
+            <name>brynet</name>
+            <uri>https://news.ycombinator.com/user?id=brynet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果新的M1 Ultra不比RTX 3090快]]></title>
         <id>https://news.ycombinator.com/item?id=30733981</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過記錄CLI工具的幫助輸出來跟蹤其變化]]></title>
-        <id>https://news.ycombinator.com/item?id=30658310</id>
-        <link href="https://news.ycombinator.com/item?id=30658310"/>
-        <updated>2022-03-13T05:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Track changes to CLI tools by recording their help output]]></summary>
-        <author>
-            <name>appwiz</name>
-            <uri>https://news.ycombinator.com/user?id=appwiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於赤道的法國共和曆]]></title>
-        <id>https://news.ycombinator.com/item?id=30658487</id>
-        <link href="https://news.ycombinator.com/item?id=30658487"/>
-        <updated>2022-03-13T06:19:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: French Republican Calendar based on equinoxes]]></summary>
-        <author>
-            <name>quantum5</name>
-            <uri>https://news.ycombinator.com/user?id=quantum5</uri>
         </author>
     </entry>
 </feed>
