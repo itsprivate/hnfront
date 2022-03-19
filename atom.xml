@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T17:17:51.012Z</updated>
+    <updated>2022-03-19T17:32:59.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Svbtle发生了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30735505</id>
+        <link href="https://news.ycombinator.com/item?id=30735505"/>
+        <updated>2022-03-19T17:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to Svbtle?]]></summary>
+        <author>
+            <name>tppiotrowski</name>
+            <uri>https://news.ycombinator.com/user?id=tppiotrowski</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash中的随机词生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30735436</id>
+        <link href="https://news.ycombinator.com/item?id=30735436"/>
+        <updated>2022-03-19T17:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Random Word Generator in Bash]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇航员身着黄色和蓝色衣服抵达空间站]]></title>
+        <id>https://news.ycombinator.com/item?id=30735379</id>
+        <link href="https://news.ycombinator.com/item?id=30735379"/>
+        <updated>2022-03-19T16:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Cosmonauts arrive at space station in yellow and blue]]></summary>
+        <author>
+            <name>myth_drannon</name>
+            <uri>https://news.ycombinator.com/user?id=myth_drannon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[警告HN：Monarch升级会删除$HOME中的所有文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30735099</id>
+        <link href="https://news.ycombinator.com/item?id=30735099"/>
+        <updated>2022-03-19T16:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Warn HN: Monarch upgrade deletes all files in $HOME]]></summary>
+        <author>
+            <name>divan</name>
+            <uri>https://news.ycombinator.com/user?id=divan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agentnoon (YC W22) 正在招聘中]]></title>
         <id>https://news.ycombinator.com/item?id=30735425</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>donohoe</name>
             <uri>https://news.ycombinator.com/user?id=donohoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阅览室的艺术]]></title>
-        <id>https://news.ycombinator.com/item?id=30636433</id>
-        <link href="https://news.ycombinator.com/item?id=30636433"/>
-        <updated>2022-03-11T05:04:15.000Z</updated>
-        <summary type="html"><![CDATA[The Art of the Reading Nook]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes的未来]]></title>
-        <id>https://news.ycombinator.com/item?id=30660534</id>
-        <link href="https://news.ycombinator.com/item?id=30660534"/>
-        <updated>2022-03-13T12:09:05.000Z</updated>
-        <summary type="html"><![CDATA[The Future of Kubernetes]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了拯救C，我们必须拯救ABI]]></title>
-        <id>https://news.ycombinator.com/item?id=30660528</id>
-        <link href="https://news.ycombinator.com/item?id=30660528"/>
-        <updated>2022-03-13T12:07:57.000Z</updated>
-        <summary type="html"><![CDATA[To Save C, We Must Save ABI]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚当-斯密的意思并不像他经常说的那样]]></title>
-        <id>https://news.ycombinator.com/item?id=30631605</id>
-        <link href="https://news.ycombinator.com/item?id=30631605"/>
-        <updated>2022-03-10T19:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Adam Smith did not mean what he is often made to say]]></summary>
-        <author>
-            <name>agomez314</name>
-            <uri>https://news.ycombinator.com/user?id=agomez314</uri>
         </author>
     </entry>
 </feed>
