@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 19 Mar 2022 20:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 20:40:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[结构化并发症]]></title>
+            <link>https://news.ycombinator.com/item?id=30720980</link>
+            <guid>https://news.ycombinator.com/item?id=30720980</guid>
+            <pubDate>Fri, 18 Mar 2022 11:51:48 GMT</pubDate>
+            <description><![CDATA[Structured Concurrency]]></description>
+        </item>
         <item>
             <title><![CDATA[狗狗可能因为和人类一样的原因而感到焦虑]]></title>
             <link>https://news.ycombinator.com/item?id=30736488</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30661009</guid>
             <pubDate>Sun, 13 Mar 2022 13:24:09 GMT</pubDate>
             <description><![CDATA[Ask HN: Alternatives to DuckDuckGo?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fish 3.4.0版发布]]></title>
-            <link>https://news.ycombinator.com/item?id=30660587</link>
-            <guid>https://news.ycombinator.com/item?id=30660587</guid>
-            <pubDate>Sun, 13 Mar 2022 12:18:23 GMT</pubDate>
-            <description><![CDATA[Fish 3.4.0 Released]]></description>
         </item>
     </channel>
 </rss>
