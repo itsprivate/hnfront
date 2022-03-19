@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T19:26:08.966Z</updated>
+    <updated>2022-03-19T19:52:01.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[元數據的宣言]]></title>
+        <id>https://news.ycombinator.com/item?id=30709411</id>
+        <link href="https://news.ycombinator.com/item?id=30709411"/>
+        <updated>2022-03-17T10:06:13.000Z</updated>
+        <summary type="html"><![CDATA[A Manifesto for the Metaverse]]></summary>
+        <author>
+            <name>imgabe</name>
+            <uri>https://news.ycombinator.com/user?id=imgabe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DARPA對人工智能的看法 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30735800</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Hooke</name>
             <uri>https://news.ycombinator.com/user?id=Hooke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram與FSB合作 (Rus)]]></title>
-        <id>https://news.ycombinator.com/item?id=30661335</id>
-        <link href="https://news.ycombinator.com/item?id=30661335"/>
-        <updated>2022-03-13T14:08:25.000Z</updated>
-        <summary type="html"><![CDATA[Telegram Cooperates with FSB (Rus)]]></summary>
-        <author>
-            <name>EugeneOZ</name>
-            <uri>https://news.ycombinator.com/user?id=EugeneOZ</uri>
         </author>
     </entry>
 </feed>
