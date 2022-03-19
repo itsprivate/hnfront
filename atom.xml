@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T13:34:20.568Z</updated>
+    <updated>2022-03-19T13:42:12.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[南极洲的温度高了70度。科学家们大吃一惊]]></title>
+        <id>https://news.ycombinator.com/item?id=30733387</id>
+        <link href="https://news.ycombinator.com/item?id=30733387"/>
+        <updated>2022-03-19T12:58:39.000Z</updated>
+        <summary type="html"><![CDATA[It’s 70 degrees warmer in Antarctica. Scientists are flabbergasted]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加油机恰好和你的典型路由器一样不安全]]></title>
         <id>https://news.ycombinator.com/item?id=30733337</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jackfruit2</name>
             <uri>https://news.ycombinator.com/user?id=jackfruit2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用的是什么ML平台？]]></title>
-        <id>https://news.ycombinator.com/item?id=30658324</id>
-        <link href="https://news.ycombinator.com/item?id=30658324"/>
-        <updated>2022-03-13T05:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What ML platform are you using?]]></summary>
-        <author>
-            <name>speedylight</name>
-            <uri>https://news.ycombinator.com/user?id=speedylight</uri>
         </author>
     </entry>
 </feed>
