@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T18:14:13.734Z</updated>
+    <updated>2022-03-19T18:37:11.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当双精度不够用时]]></title>
+        <id>https://news.ycombinator.com/item?id=30735871</id>
+        <link href="https://news.ycombinator.com/item?id=30735871"/>
+        <updated>2022-03-19T17:47:20.000Z</updated>
+        <summary type="html"><![CDATA[When Double Precision Is Not Enough]]></summary>
+        <author>
+            <name>leonry</name>
+            <uri>https://news.ycombinator.com/user?id=leonry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国半数人口在儿童早期暴露于不良铅含量中]]></title>
+        <id>https://news.ycombinator.com/item?id=30735722</id>
+        <link href="https://news.ycombinator.com/item?id=30735722"/>
+        <updated>2022-03-19T17:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Half of US population exposed to adverse lead levels in early childhood]]></summary>
+        <author>
+            <name>nabla9</name>
+            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据网结构]]></title>
+        <id>https://news.ycombinator.com/item?id=30721198</id>
+        <link href="https://news.ycombinator.com/item?id=30721198"/>
+        <updated>2022-03-18T12:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Data Mesh Architecture]]></summary>
+        <author>
+            <name>aiobe</name>
+            <uri>https://news.ycombinator.com/user?id=aiobe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Go中实施的BGP]]></title>
         <id>https://news.ycombinator.com/item?id=30734712</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mertkavi</name>
             <uri>https://news.ycombinator.com/user?id=mertkavi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-Link路由器显然未经用户同意就向Avira发送客户数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30661101</id>
-        <link href="https://news.ycombinator.com/item?id=30661101"/>
-        <updated>2022-03-13T13:39:24.000Z</updated>
-        <summary type="html"><![CDATA[TP-Link routers apparently sending customer data to Avira without user consent]]></summary>
-        <author>
-            <name>electic</name>
-            <uri>https://news.ycombinator.com/user?id=electic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snmalloc。高性能的基于消息传递的分配器]]></title>
-        <id>https://news.ycombinator.com/item?id=30659690</id>
-        <link href="https://news.ycombinator.com/item?id=30659690"/>
-        <updated>2022-03-13T09:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Snmalloc: High-performance message passing based allocator]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一点也不含糊，早就该如此了--用户可更换电池]]></title>
-        <id>https://news.ycombinator.com/item?id=30660953</id>
-        <link href="https://news.ycombinator.com/item?id=30660953"/>
-        <updated>2022-03-13T13:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Not dodgy at all and long overdue – user replaceable batteries]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
