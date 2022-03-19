@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T23:39:56.815Z</updated>
+    <updated>2022-03-19T23:51:46.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於寵物貓選擇沉睡地點時的睡眠質量的研究]]></title>
+        <id>https://news.ycombinator.com/item?id=30738478</id>
+        <link href="https://news.ycombinator.com/item?id=30738478"/>
+        <updated>2022-03-19T23:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Study on Quality of Sleep When Pet Cats Choose Location of Slumber]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[唯一牢不可破的法律[視頻]]]></title>
         <id>https://news.ycombinator.com/item?id=30708458</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>als0</name>
             <uri>https://news.ycombinator.com/user?id=als0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無代碼是編程的未來。這對工程師來說是個好消息]]></title>
-        <id>https://news.ycombinator.com/item?id=30662417</id>
-        <link href="https://news.ycombinator.com/item?id=30662417"/>
-        <updated>2022-03-13T15:57:30.000Z</updated>
-        <summary type="html"><![CDATA[No-code is the future of programming. That's great news for engineers]]></summary>
-        <author>
-            <name>jphaas</name>
-            <uri>https://news.ycombinator.com/user?id=jphaas</uri>
         </author>
     </entry>
 </feed>
