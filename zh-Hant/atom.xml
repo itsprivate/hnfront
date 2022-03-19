@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T22:39:56.115Z</updated>
+    <updated>2022-03-19T22:51:56.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Code在最新的更新中隨機刪除了包含的頭文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30737777</id>
+        <link href="https://news.ycombinator.com/item?id=30737777"/>
+        <updated>2022-03-19T21:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Code is randomly erasing included header files with latest update]]></summary>
+        <author>
+            <name>whack</name>
+            <uri>https://news.ycombinator.com/user?id=whack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羅伯特-弗雷塔斯開始 "異體學 "時還在讀大學]]></title>
         <id>https://news.ycombinator.com/item?id=30723708</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學術論文中PyTorch與TensorFlow的比較]]></title>
-        <id>https://news.ycombinator.com/item?id=30662056</id>
-        <link href="https://news.ycombinator.com/item?id=30662056"/>
-        <updated>2022-03-13T15:28:34.000Z</updated>
-        <summary type="html"><![CDATA[PyTorch vs. TensorFlow in Academic Papers]]></summary>
-        <author>
-            <name>m3at</name>
-            <uri>https://news.ycombinator.com/user?id=m3at</uri>
         </author>
     </entry>
 </feed>
