@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T18:37:11.814Z</updated>
+    <updated>2022-03-19T18:53:31.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[`Git add -p`與多個桶的關係]]></title>
+        <id>https://news.ycombinator.com/item?id=30735294</id>
+        <link href="https://news.ycombinator.com/item?id=30735294"/>
+        <updated>2022-03-19T16:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: `Git add -p` with multiple buckets]]></summary>
+        <author>
+            <name>aleclm</name>
+            <uri>https://news.ycombinator.com/user?id=aleclm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當雙精度不夠用時]]></title>
         <id>https://news.ycombinator.com/item?id=30735871</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>elteto</name>
             <uri>https://news.ycombinator.com/user?id=elteto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Kubernetes對數據平臺的未來很重要？]]></title>
-        <id>https://news.ycombinator.com/item?id=30661120</id>
-        <link href="https://news.ycombinator.com/item?id=30661120"/>
-        <updated>2022-03-13T13:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Why Kubernetes is important for the future of data platforms?]]></summary>
-        <author>
-            <name>mertkavi</name>
-            <uri>https://news.ycombinator.com/user?id=mertkavi</uri>
         </author>
     </entry>
 </feed>
