@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-19T18:53:31.266Z</updated>
+    <updated>2022-03-19T19:26:08.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DARPA对人工智能的看法 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30735800</id>
+        <link href="https://news.ycombinator.com/item?id=30735800"/>
+        <updated>2022-03-19T17:40:39.000Z</updated>
+        <summary type="html"><![CDATA[A DARPA Perspective on Artificial Intelligence [pdf]]]></summary>
+        <author>
+            <name>nulluint</name>
+            <uri>https://news.ycombinator.com/user?id=nulluint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[`Git add -p`与多个桶的关系]]></title>
         <id>https://news.ycombinator.com/item?id=30735294</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>EugeneOZ</name>
             <uri>https://news.ycombinator.com/user?id=EugeneOZ</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管道逻辑 (2011)]]></title>
-        <id>https://news.ycombinator.com/item?id=30661379</id>
-        <link href="https://news.ycombinator.com/item?id=30661379"/>
-        <updated>2022-03-13T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Pipe Logic (2011)]]></summary>
-        <author>
-            <name>elteto</name>
-            <uri>https://news.ycombinator.com/user?id=elteto</uri>
         </author>
     </entry>
 </feed>
