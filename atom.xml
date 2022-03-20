@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T13:06:55.261Z</updated>
+    <updated>2022-03-20T13:34:27.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当苹果公司在Solaris和HP-UX的基础上建立了一个Mac操作系统的时候]]></title>
+        <id>https://news.ycombinator.com/item?id=30740438</id>
+        <link href="https://news.ycombinator.com/item?id=30740438"/>
+        <updated>2022-03-20T05:38:39.000Z</updated>
+        <summary type="html"><![CDATA[When Apple Built a Mac OS Running on Top of Solaris and HP-UX]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typebeat。键盘控制的音乐音序器、采样器和合成器]]></title>
         <id>https://news.ycombinator.com/item?id=30742073</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chesterfield</name>
             <uri>https://news.ycombinator.com/user?id=chesterfield</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanced已经停产]]></title>
-        <id>https://news.ycombinator.com/item?id=30663739</id>
-        <link href="https://news.ycombinator.com/item?id=30663739"/>
-        <updated>2022-03-13T17:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Vanced has been discontinued]]></summary>
-        <author>
-            <name>nixass</name>
-            <uri>https://news.ycombinator.com/user?id=nixass</uri>
         </author>
     </entry>
 </feed>
