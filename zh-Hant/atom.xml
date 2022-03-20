@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T22:41:10.698Z</updated>
+    <updated>2022-03-20T22:51:30.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vanced團隊詳細介紹了Vanced的停產情況]]></title>
+        <id>https://news.ycombinator.com/item?id=30747352</id>
+        <link href="https://news.ycombinator.com/item?id=30747352"/>
+        <updated>2022-03-20T22:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Vanced Team going into detail about Vanced being discontinued]]></summary>
+        <author>
+            <name>chagaif</name>
+            <uri>https://news.ycombinator.com/user?id=chagaif</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為Swift 5.6更新的Advanced Swift書]]></title>
         <id>https://news.ycombinator.com/item?id=30746448</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maddiehalla</name>
             <uri>https://news.ycombinator.com/user?id=maddiehalla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三個CISO走進一家創業公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30672761</id>
-        <link href="https://news.ycombinator.com/item?id=30672761"/>
-        <updated>2022-03-14T14:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Three CISOs Walk into a Startup]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
