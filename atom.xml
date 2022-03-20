@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T23:12:30.476Z</updated>
+    <updated>2022-03-20T23:31:01.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[医生希望病人知道的长科维德的情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30747657</id>
+        <link href="https://news.ycombinator.com/item?id=30747657"/>
+        <updated>2022-03-20T23:00:17.000Z</updated>
+        <summary type="html"><![CDATA[What doctors wish patients knew about long Covid]]></summary>
+        <author>
+            <name>amichail</name>
+            <uri>https://news.ycombinator.com/user?id=amichail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows操作系统需要改变优先次序]]></title>
         <id>https://news.ycombinator.com/item?id=30747332</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jelliclesfarm</name>
             <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度考虑购买打折的俄罗斯石油和商品]]></title>
-        <id>https://news.ycombinator.com/item?id=30672676</id>
-        <link href="https://news.ycombinator.com/item?id=30672676"/>
-        <updated>2022-03-14T14:14:22.000Z</updated>
-        <summary type="html"><![CDATA[India considers buying discounted Russian oil, commodities]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
