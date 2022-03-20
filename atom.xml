@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T13:34:27.545Z</updated>
+    <updated>2022-03-20T13:41:49.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Meld是一个针对开发者的可视化差异和合并工具。]]></title>
+        <id>https://news.ycombinator.com/item?id=30741123</id>
+        <link href="https://news.ycombinator.com/item?id=30741123"/>
+        <updated>2022-03-20T08:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Meld is a visual diff and merge tool targeted at developers]]></summary>
+        <author>
+            <name>danielsokil</name>
+            <uri>https://news.ycombinator.com/user?id=danielsokil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当苹果公司在Solaris和HP-UX的基础上建立了一个Mac操作系统的时候]]></title>
         <id>https://news.ycombinator.com/item?id=30740438</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pizza</name>
             <uri>https://news.ycombinator.com/user?id=pizza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡住了]]></title>
-        <id>https://news.ycombinator.com/item?id=30664484</id>
-        <link href="https://news.ycombinator.com/item?id=30664484"/>
-        <updated>2022-03-13T18:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Stuck]]></summary>
-        <author>
-            <name>chesterfield</name>
-            <uri>https://news.ycombinator.com/user?id=chesterfield</uri>
         </author>
     </entry>
 </feed>
