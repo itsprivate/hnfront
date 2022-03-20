@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T09:12:46.393Z</updated>
+    <updated>2022-03-20T09:31:51.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自Improving.duckduckgo.com的第三方元素]]></title>
+        <id>https://news.ycombinator.com/item?id=30741090</id>
+        <link href="https://news.ycombinator.com/item?id=30741090"/>
+        <updated>2022-03-20T08:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Third Party Elements from Improving.duckduckgo.com]]></summary>
+        <author>
+            <name>rupertfupert</name>
+            <uri>https://news.ycombinator.com/user?id=rupertfupert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Games將在兩週內把《堡壘之夜》的所有收益捐給烏克蘭的救援工作]]></title>
         <id>https://news.ycombinator.com/item?id=30741054</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pmalynin</name>
             <uri>https://news.ycombinator.com/user?id=pmalynin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大O音符計算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30665336</id>
-        <link href="https://news.ycombinator.com/item?id=30665336"/>
-        <updated>2022-03-13T20:21:48.000Z</updated>
-        <summary type="html"><![CDATA[Big O Notation Calculator]]></summary>
-        <author>
-            <name>lamsal</name>
-            <uri>https://news.ycombinator.com/user?id=lamsal</uri>
         </author>
     </entry>
 </feed>
