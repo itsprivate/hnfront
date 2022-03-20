@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 20 Mar 2022 05:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 06:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[瞭解微服務應用中的彈性故障發生的原因]]></title>
+            <link>https://news.ycombinator.com/item?id=30730677</link>
+            <guid>https://news.ycombinator.com/item?id=30730677</guid>
+            <pubDate>Sat, 19 Mar 2022 03:27:44 GMT</pubDate>
+            <description><![CDATA[Understanding Why Resilience Faults in Microservice Applications Occur]]></description>
+        </item>
         <item>
             <title><![CDATA[超導HUSIR W波段發射器 [pdf]]]></title>
             <link>https://news.ycombinator.com/item?id=30719871</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642596</guid>
             <pubDate>Fri, 11 Mar 2022 17:06:00 GMT</pubDate>
             <description><![CDATA[How to Do Less]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在512MB的單核RISC-V硬件上的ZFS]]></title>
-            <link>https://news.ycombinator.com/item?id=30663400</link>
-            <guid>https://news.ycombinator.com/item?id=30663400</guid>
-            <pubDate>Sun, 13 Mar 2022 17:16:50 GMT</pubDate>
-            <description><![CDATA[ZFS on a single core RISC-V hardware with 512MB]]></description>
         </item>
     </channel>
 </rss>
