@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T21:30:07.020Z</updated>
+    <updated>2022-03-20T21:51:24.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的PowerVR驱动程序对移动设备意味着什么]]></title>
+        <id>https://news.ycombinator.com/item?id=30746681</id>
+        <link href="https://news.ycombinator.com/item?id=30746681"/>
+        <updated>2022-03-20T21:12:58.000Z</updated>
+        <summary type="html"><![CDATA[What the new PowerVR driver means for mobile]]></summary>
+        <author>
+            <name>MartijnBraam</name>
+            <uri>https://news.ycombinator.com/user?id=MartijnBraam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LibreTube。使用Piped构建的另一种安卓版YouTube前端]]></title>
         <id>https://news.ycombinator.com/item?id=30746420</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TangerineDream</name>
             <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诉讼称谷歌 "劫持了数以百万计的餐厅客户和订单"]]></title>
-        <id>https://news.ycombinator.com/item?id=30672021</id>
-        <link href="https://news.ycombinator.com/item?id=30672021"/>
-        <updated>2022-03-14T13:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Google “hijacked millions of customers and orders” from restaurants,lawsuit says]]></summary>
-        <author>
-            <name>JaimeThompson</name>
-            <uri>https://news.ycombinator.com/user?id=JaimeThompson</uri>
         </author>
     </entry>
 </feed>
