@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T03:51:17.690Z</updated>
+    <updated>2022-03-20T04:14:26.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[給微軟的一封信，因為它沒有為Edge Flatpak應用程序的作者署名。]]></title>
+        <id>https://news.ycombinator.com/item?id=30739839</id>
+        <link href="https://news.ycombinator.com/item?id=30739839"/>
+        <updated>2022-03-20T03:35:26.000Z</updated>
+        <summary type="html"><![CDATA[A Letter to Microsoft for Not Attributing Authors of the Edge Flatpak App]]></summary>
+        <author>
+            <name>kirbyfan64sos</name>
+            <uri>https://news.ycombinator.com/user?id=kirbyfan64sos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只閱讀和迴應文章標題的智力破產]]></title>
+        <id>https://news.ycombinator.com/item?id=30739820</id>
+        <link href="https://news.ycombinator.com/item?id=30739820"/>
+        <updated>2022-03-20T03:31:20.000Z</updated>
+        <summary type="html"><![CDATA[The intellectual bankruptcy of only reading and responding to article titles]]></summary>
+        <author>
+            <name>jamghee</name>
+            <uri>https://news.ycombinator.com/user?id=jamghee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戰略不是X]]></title>
         <id>https://news.ycombinator.com/item?id=30719787</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[潛在的災難 - 裝有鋰電池的集裝箱著火了]]></title>
-        <id>https://news.ycombinator.com/item?id=30663248</id>
-        <link href="https://news.ycombinator.com/item?id=30663248"/>
-        <updated>2022-03-13T17:04:50.000Z</updated>
-        <summary type="html"><![CDATA[Potentially Catastrophic – Container Loaded with Lithium Batteries Catches Fire]]></summary>
-        <author>
-            <name>harambae</name>
-            <uri>https://news.ycombinator.com/user?id=harambae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個用於網站日誌分析的圍棋庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30663197</id>
-        <link href="https://news.ycombinator.com/item?id=30663197"/>
-        <updated>2022-03-13T17:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Go Library for Website Log Analysis]]></summary>
-        <author>
-            <name>stuartmscott</name>
-            <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
         </author>
     </entry>
 </feed>
