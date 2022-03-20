@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T23:39:02.910Z</updated>
+    <updated>2022-03-20T23:51:45.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：HN不是DuckDuckGo上 "黑客新聞 "的第一個結果。]]></title>
+        <id>https://news.ycombinator.com/item?id=30747815</id>
+        <link href="https://news.ycombinator.com/item?id=30747815"/>
+        <updated>2022-03-20T23:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: HN is not the first result for “Hacker News” on DuckDuckGo]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CodeEdit: 為macOS建立一個免費、開源的代碼編輯器]]></title>
         <id>https://news.ycombinator.com/item?id=30747211</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JSavageOne</name>
             <uri>https://news.ycombinator.com/user?id=JSavageOne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詐騙分子如何偽造手機號碼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30673009</id>
-        <link href="https://news.ycombinator.com/item?id=30673009"/>
-        <updated>2022-03-14T14:43:16.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How can scam callers fake a mobile phone number?]]></summary>
-        <author>
-            <name>fxtentacle</name>
-            <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
         </author>
     </entry>
 </feed>
