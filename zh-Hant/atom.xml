@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T20:12:25.867Z</updated>
+    <updated>2022-03-20T20:32:32.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小竊賊困擾著舊金山。過去的兩年是瘋狂的。]]></title>
+        <id>https://news.ycombinator.com/item?id=30746136</id>
+        <link href="https://news.ycombinator.com/item?id=30746136"/>
+        <updated>2022-03-20T20:08:58.000Z</updated>
+        <summary type="html"><![CDATA[Petty Thieves Plague San Francisco. ‘These Last Two Years Have Been Insane.’]]></summary>
+        <author>
+            <name>erehweb</name>
+            <uri>https://news.ycombinator.com/user?id=erehweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高中男運動員與女奧運選手的對比]]></title>
         <id>https://news.ycombinator.com/item?id=30745550</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chippy</name>
             <uri>https://news.ycombinator.com/user?id=chippy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[藏紅花與重度抑鬱症：臨床試驗的元分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30670275</id>
-        <link href="https://news.ycombinator.com/item?id=30670275"/>
-        <updated>2022-03-14T09:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Saffron and major depressive disorder: meta-analysis of clinical trials]]></summary>
-        <author>
-            <name>jb1991</name>
-            <uri>https://news.ycombinator.com/user?id=jb1991</uri>
         </author>
     </entry>
 </feed>
