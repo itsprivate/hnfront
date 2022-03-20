@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T10:33:50.609Z</updated>
+    <updated>2022-03-20T10:43:09.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當皇帝是一個虛無的人。三島由紀夫與當今法西斯主義]]></title>
+        <id>https://news.ycombinator.com/item?id=30741369</id>
+        <link href="https://news.ycombinator.com/item?id=30741369"/>
+        <updated>2022-03-20T09:46:57.000Z</updated>
+        <summary type="html"><![CDATA[When the Emperor Is a Void: Yukio Mishima and Fascism Today]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FOSS的開發者們正在倦怠、辭職，甚至破壞他們自己的項目]]></title>
         <id>https://news.ycombinator.com/item?id=30741324</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dtagames</name>
             <uri>https://news.ycombinator.com/user?id=dtagames</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arpanet先驅傑克-哈弗蒂說互聯網從未完成過]]></title>
-        <id>https://news.ycombinator.com/item?id=30651306</id>
-        <link href="https://news.ycombinator.com/item?id=30651306"/>
-        <updated>2022-03-12T13:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Arpanet pioneer Jack Haverty says the internet was never finished]]></summary>
-        <author>
-            <name>onei</name>
-            <uri>https://news.ycombinator.com/user?id=onei</uri>
         </author>
     </entry>
 </feed>
