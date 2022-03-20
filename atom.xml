@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T15:45:45.273Z</updated>
+    <updated>2022-03-20T15:53:18.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vimeo: "我们是一个B2B解决方案，而不是独立版的YouTube"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30743371</id>
+        <link href="https://news.ycombinator.com/item?id=30743371"/>
+        <updated>2022-03-20T15:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Vimeo: “We are a B2B solution, not the indie version of YouTube.”]]></summary>
+        <author>
+            <name>bobitsaboy</name>
+            <uri>https://news.ycombinator.com/user?id=bobitsaboy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视窗关机事件 (2006)]]></title>
+        <id>https://news.ycombinator.com/item?id=30736045</id>
+        <link href="https://news.ycombinator.com/item?id=30736045"/>
+        <updated>2022-03-19T18:03:43.000Z</updated>
+        <summary type="html"><![CDATA[The Windows Shutdown crapfest (2006)]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国提出要支付高达500万美元的奖励，以获得关于RU寡头资产的信息。]]></title>
         <id>https://news.ycombinator.com/item?id=30743320</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双子座是一个新的互联网协议]]></title>
-        <id>https://news.ycombinator.com/item?id=30667545</id>
-        <link href="https://news.ycombinator.com/item?id=30667545"/>
-        <updated>2022-03-14T01:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Gemini is a new internet protocol]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veloren是一个用Rust编写的多人体素RPG游戏。]]></title>
-        <id>https://news.ycombinator.com/item?id=30667022</id>
-        <link href="https://news.ycombinator.com/item?id=30667022"/>
-        <updated>2022-03-13T23:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Veloren is a multiplayer voxel RPG written in Rust]]></summary>
-        <author>
-            <name>albertzeyer</name>
-            <uri>https://news.ycombinator.com/user?id=albertzeyer</uri>
         </author>
     </entry>
 </feed>
