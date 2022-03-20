@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T10:43:09.606Z</updated>
+    <updated>2022-03-20T11:12:35.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌Fi突然出击]]></title>
+        <id>https://news.ycombinator.com/item?id=30737431</id>
+        <link href="https://news.ycombinator.com/item?id=30737431"/>
+        <updated>2022-03-19T20:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Google Fi Suddenly Strikes]]></summary>
+        <author>
+            <name>cft</name>
+            <uri>https://news.ycombinator.com/user?id=cft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当皇帝是一个虚无的人。三岛由纪夫与当今法西斯主义]]></title>
         <id>https://news.ycombinator.com/item?id=30741369</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Sami_Lehtinen</name>
             <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约时报关闭Wordle档案]]></title>
-        <id>https://news.ycombinator.com/item?id=30665911</id>
-        <link href="https://news.ycombinator.com/item?id=30665911"/>
-        <updated>2022-03-13T21:29:01.000Z</updated>
-        <summary type="html"><![CDATA[NYT Shutting Down Wordle Archive]]></summary>
-        <author>
-            <name>dtagames</name>
-            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
         </author>
     </entry>
 </feed>
