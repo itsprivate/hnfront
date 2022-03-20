@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T17:15:44.183Z</updated>
+    <updated>2022-03-20T17:31:16.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Minitel 1B作為一個串行終端]]></title>
+        <id>https://news.ycombinator.com/item?id=30743891</id>
+        <link href="https://news.ycombinator.com/item?id=30743891"/>
+        <updated>2022-03-20T16:13:23.000Z</updated>
+        <summary type="html"><![CDATA[Using a Minitel 1B as a serial terminal]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在相當多的問題上把故事講清楚]]></title>
+        <id>https://news.ycombinator.com/item?id=30743354</id>
+        <link href="https://news.ycombinator.com/item?id=30743354"/>
+        <updated>2022-03-20T15:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Setting the story straight on quite a few issues]]></summary>
+        <author>
+            <name>wglb</name>
+            <uri>https://news.ycombinator.com/user?id=wglb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mux (YC W16)正在招聘工程師，負責Elixir和現代(Type|Java)腳本的工作。]]></title>
         <id>https://news.ycombinator.com/item?id=30744348</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mitchbob</name>
             <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅矮星將是人類在宇宙消亡前的最後家園]]></title>
-        <id>https://news.ycombinator.com/item?id=30669483</id>
-        <link href="https://news.ycombinator.com/item?id=30669483"/>
-        <updated>2022-03-14T07:40:11.000Z</updated>
-        <summary type="html"><![CDATA[Red Dwarfs Will Be Humanity’s Last Home Before the Universe Dies]]></summary>
-        <author>
-            <name>the-mitr</name>
-            <uri>https://news.ycombinator.com/user?id=the-mitr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLC 3.0.17.3 "Vetinari" 已經發布 - VideoLAN Media Player]]></title>
-        <id>https://news.ycombinator.com/item?id=30669322</id>
-        <link href="https://news.ycombinator.com/item?id=30669322"/>
-        <updated>2022-03-14T07:12:49.000Z</updated>
-        <summary type="html"><![CDATA[VLC 3.0.17.3 “Vetinari” has been released – VideoLAN Media Player]]></summary>
-        <author>
-            <name>neustradamus</name>
-            <uri>https://news.ycombinator.com/user?id=neustradamus</uri>
         </author>
     </entry>
 </feed>
