@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T04:57:49.267Z</updated>
+    <updated>2022-03-20T05:37:02.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[音频基础知识速成班 (2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=30738970</id>
+        <link href="https://news.ycombinator.com/item?id=30738970"/>
+        <updated>2022-03-20T00:54:05.000Z</updated>
+        <summary type="html"><![CDATA[A Crash Course in the Fundamentals of Audio (2010)]]></summary>
+        <author>
+            <name>peterburkimsher</name>
+            <uri>https://news.ycombinator.com/user?id=peterburkimsher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19世纪的一次创纪录的冒险是一个打赌的结果]]></title>
         <id>https://news.ycombinator.com/item?id=30729820</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hhs</name>
             <uri>https://news.ycombinator.com/user?id=hhs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威廉-布莱克的印刷过程 [视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30657206</id>
-        <link href="https://news.ycombinator.com/item?id=30657206"/>
-        <updated>2022-03-13T02:10:49.000Z</updated>
-        <summary type="html"><![CDATA[William Blake's printing process [video]]]></summary>
-        <author>
-            <name>dance-me</name>
-            <uri>https://news.ycombinator.com/user?id=dance-me</uri>
         </author>
     </entry>
 </feed>
