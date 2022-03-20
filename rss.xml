@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 20 Mar 2022 18:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 19:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[纯文本的生产力]]></title>
+            <link>https://news.ycombinator.com/item?id=30745524</link>
+            <guid>https://news.ycombinator.com/item?id=30745524</guid>
+            <pubDate>Sun, 20 Mar 2022 19:01:34 GMT</pubDate>
+            <description><![CDATA[Plaintext Productivity]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Python中的指针和内存管理]]></title>
+            <link>https://news.ycombinator.com/item?id=30744698</link>
+            <guid>https://news.ycombinator.com/item?id=30744698</guid>
+            <pubDate>Sun, 20 Mar 2022 17:36:27 GMT</pubDate>
+            <description><![CDATA[Pointers and Memory Management in Python]]></description>
+        </item>
         <item>
             <title><![CDATA[我认为美国大学教育比表面上更接近于崩溃 [Thread]]]></title>
             <link>https://news.ycombinator.com/item?id=30744925</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30670110</guid>
             <pubDate>Mon, 14 Mar 2022 09:14:36 GMT</pubDate>
             <description><![CDATA[Ask HN: How can I prepare for hard economic times]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Offpunk 1.0: 离线双子座/Gopher/网络浏览]]></title>
-            <link>https://news.ycombinator.com/item?id=30669799</link>
-            <guid>https://news.ycombinator.com/item?id=30669799</guid>
-            <pubDate>Mon, 14 Mar 2022 08:31:12 GMT</pubDate>
-            <description><![CDATA[Offpunk 1.0: Offline Gemini/Gopher/Web Browsing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[云端停工保险成为一种事物]]></title>
-            <link>https://news.ycombinator.com/item?id=30669427</link>
-            <guid>https://news.ycombinator.com/item?id=30669427</guid>
-            <pubDate>Mon, 14 Mar 2022 07:31:39 GMT</pubDate>
-            <description><![CDATA[Cloud Downtime Insurance Became a Thing]]></description>
         </item>
     </channel>
 </rss>
