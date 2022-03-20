@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 20 Mar 2022 14:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 14:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cool-retro-term: 一个模仿老式阴极显示器的终端仿真器]]></title>
+            <link>https://news.ycombinator.com/item?id=30734137</link>
+            <guid>https://news.ycombinator.com/item?id=30734137</guid>
+            <pubDate>Sat, 19 Mar 2022 14:44:42 GMT</pubDate>
+            <description><![CDATA[Cool-retro-term: A terminal emulator which mimics the old cathode display]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌将很快要求澳大利亚用户出示身份证以查看一些内容]]></title>
             <link>https://news.ycombinator.com/item?id=30742802</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30635362</guid>
             <pubDate>Fri, 11 Mar 2022 02:16:20 GMT</pubDate>
             <description><![CDATA[What I Learned from My First Rails Upgrade]]></description>
-        </item>
-        <item>
-            <title><![CDATA[级联。开源的基于节点的图像编辑器，带有GPU加速功能]]></title>
-            <link>https://news.ycombinator.com/item?id=30666849</link>
-            <guid>https://news.ycombinator.com/item?id=30666849</guid>
-            <pubDate>Sun, 13 Mar 2022 23:29:46 GMT</pubDate>
-            <description><![CDATA[Cascade: Open-source Node-based image editor with GPU-acceleration]]></description>
         </item>
     </channel>
 </rss>
