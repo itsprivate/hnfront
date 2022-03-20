@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T23:31:01.871Z</updated>
+    <updated>2022-03-20T23:39:02.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CodeEdit: 为macOS建立一个免费、开源的代码编辑器]]></title>
+        <id>https://news.ycombinator.com/item?id=30747211</id>
+        <link href="https://news.ycombinator.com/item?id=30747211"/>
+        <updated>2022-03-20T22:10:31.000Z</updated>
+        <summary type="html"><![CDATA[CodeEdit: Building a free, open-source code editor for macOS]]></summary>
+        <author>
+            <name>readbeard</name>
+            <uri>https://news.ycombinator.com/user?id=readbeard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[医生希望病人知道的长科维德的情况]]></title>
         <id>https://news.ycombinator.com/item?id=30747657</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fxtentacle</name>
             <uri>https://news.ycombinator.com/user?id=fxtentacle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国农业部宣布计划支持创新的美国制造的化肥]]></title>
-        <id>https://news.ycombinator.com/item?id=30672942</id>
-        <link href="https://news.ycombinator.com/item?id=30672942"/>
-        <updated>2022-03-14T14:37:55.000Z</updated>
-        <summary type="html"><![CDATA[USDA announces plans to support innovative American-made fertilizer]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
         </author>
     </entry>
 </feed>
