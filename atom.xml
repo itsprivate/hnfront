@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T04:14:26.510Z</updated>
+    <updated>2022-03-20T04:43:28.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乘胜追击：乔治-霍兹反对机构]]></title>
+        <id>https://news.ycombinator.com/item?id=30738763</id>
+        <link href="https://news.ycombinator.com/item?id=30738763"/>
+        <updated>2022-03-20T00:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Ride or Die: George Hotz Against the Institutions]]></summary>
+        <author>
+            <name>ryeguy_24</name>
+            <uri>https://news.ycombinator.com/user?id=ryeguy_24</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[给微软的一封信，因为它没有为Edge Flatpak应用程序的作者署名。]]></title>
         <id>https://news.ycombinator.com/item?id=30739839</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ohpissoff</name>
             <uri>https://news.ycombinator.com/user?id=ohpissoff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python设计模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30649470</id>
-        <link href="https://news.ycombinator.com/item?id=30649470"/>
-        <updated>2022-03-12T06:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Python Design Patterns]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
