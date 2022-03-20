@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-20T22:11:56.161Z</updated>
+    <updated>2022-03-20T22:41:10.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為Swift 5.6更新的Advanced Swift書]]></title>
+        <id>https://news.ycombinator.com/item?id=30746448</id>
+        <link href="https://news.ycombinator.com/item?id=30746448"/>
+        <updated>2022-03-20T20:46:34.000Z</updated>
+        <summary type="html"><![CDATA[Advanced Swift book updated for Swift 5.6]]></summary>
+        <author>
+            <name>bartvk</name>
+            <uri>https://news.ycombinator.com/user?id=bartvk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你（和地球）需要一個熱泵]]></title>
         <id>https://news.ycombinator.com/item?id=30746081</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司。M1超標的意義和後果]]></title>
-        <id>https://news.ycombinator.com/item?id=30672500</id>
-        <link href="https://news.ycombinator.com/item?id=30672500"/>
-        <updated>2022-03-14T13:56:38.000Z</updated>
-        <summary type="html"><![CDATA[Apple: M1 Ultra Meanings and Consequences]]></summary>
-        <author>
-            <name>carlycue</name>
-            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
         </author>
     </entry>
 </feed>
