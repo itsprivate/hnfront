@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T10:36:12.299Z</updated>
+    <updated>2022-03-21T10:53:01.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[技术对道德的影响]]></title>
+        <id>https://news.ycombinator.com/item?id=30751840</id>
+        <link href="https://news.ycombinator.com/item?id=30751840"/>
+        <updated>2022-03-21T09:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Technology’s Impact on Morality]]></summary>
+        <author>
+            <name>anticrisis</name>
+            <uri>https://news.ycombinator.com/user?id=anticrisis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在同一地点搜索域名和用户名]]></title>
         <id>https://news.ycombinator.com/item?id=30752067</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ezfe</name>
             <uri>https://news.ycombinator.com/user?id=ezfe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个第一次值班的工程师的日记]]></title>
-        <id>https://news.ycombinator.com/item?id=30669408</id>
-        <link href="https://news.ycombinator.com/item?id=30669408"/>
-        <updated>2022-03-14T07:28:06.000Z</updated>
-        <summary type="html"><![CDATA[Diary of a First-Time On-Call Engineer]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
         </author>
     </entry>
 </feed>

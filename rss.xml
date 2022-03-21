@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 21 Mar 2022 10:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 10:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[技术对道德的影响]]></title>
+            <link>https://news.ycombinator.com/item?id=30751840</link>
+            <guid>https://news.ycombinator.com/item?id=30751840</guid>
+            <pubDate>Mon, 21 Mar 2022 09:01:26 GMT</pubDate>
+            <description><![CDATA[Technology’s Impact on Morality]]></description>
+        </item>
         <item>
             <title><![CDATA[在同一地点搜索域名和用户名]]></title>
             <link>https://news.ycombinator.com/item?id=30752067</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30676825</guid>
             <pubDate>Mon, 14 Mar 2022 19:12:17 GMT</pubDate>
             <description><![CDATA[New WebKit Features in Safari 15.4]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个第一次值班的工程师的日记]]></title>
-            <link>https://news.ycombinator.com/item?id=30669408</link>
-            <guid>https://news.ycombinator.com/item?id=30669408</guid>
-            <pubDate>Mon, 14 Mar 2022 07:28:06 GMT</pubDate>
-            <description><![CDATA[Diary of a First-Time On-Call Engineer]]></description>
         </item>
     </channel>
 </rss>
