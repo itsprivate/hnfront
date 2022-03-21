@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T10:53:01.584Z</updated>
+    <updated>2022-03-21T11:30:16.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[櫻桃罐的設計可以追溯到80多年前（2020年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30738185</id>
+        <link href="https://news.ycombinator.com/item?id=30738185"/>
+        <updated>2022-03-19T22:37:07.000Z</updated>
+        <summary type="html"><![CDATA[The jerrycan design goes back over 80 years (2020)]]></summary>
+        <author>
+            <name>louis-paul</name>
+            <uri>https://news.ycombinator.com/user?id=louis-paul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技術對道德的影響]]></title>
         <id>https://news.ycombinator.com/item?id=30751840</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tambourine_man</name>
             <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15.4中的新WebKit功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30676825</id>
-        <link href="https://news.ycombinator.com/item?id=30676825"/>
-        <updated>2022-03-14T19:12:17.000Z</updated>
-        <summary type="html"><![CDATA[New WebKit Features in Safari 15.4]]></summary>
-        <author>
-            <name>ezfe</name>
-            <uri>https://news.ycombinator.com/user?id=ezfe</uri>
         </author>
     </entry>
 </feed>
