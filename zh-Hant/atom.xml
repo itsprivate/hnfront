@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T08:38:51.664Z</updated>
+    <updated>2022-03-21T08:54:37.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於托爾金和奧威爾]]></title>
+        <id>https://news.ycombinator.com/item?id=30751495</id>
+        <link href="https://news.ycombinator.com/item?id=30751495"/>
+        <updated>2022-03-21T08:04:37.000Z</updated>
+        <summary type="html"><![CDATA[On Tolkien and Orwell]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可見光通信。概念、應用和挑戰[pdf] (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=30734614</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fbriggs</name>
             <uri>https://news.ycombinator.com/user?id=fbriggs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[醫學生通過手術將藍牙植入自己的耳朵以在決賽中作弊]]></title>
-        <id>https://news.ycombinator.com/item?id=30675666</id>
-        <link href="https://news.ycombinator.com/item?id=30675666"/>
-        <updated>2022-03-14T17:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Medical student surgically implants Bluetooth into own ear to cheat in final]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
         </author>
     </entry>
 </feed>
