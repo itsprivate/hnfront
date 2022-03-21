@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T23:41:21.487Z</updated>
+    <updated>2022-03-21T23:51:28.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬塞爾-杜尚和他的朋友們賦予了美國先鋒派力量]]></title>
+        <id>https://news.ycombinator.com/item?id=30749701</id>
+        <link href="https://news.ycombinator.com/item?id=30749701"/>
+        <updated>2022-03-21T03:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Marcel Duchamp and his friends empowered the American avant-garde]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國司法部指責谷歌隱藏商業通信]]></title>
         <id>https://news.ycombinator.com/item?id=30760923</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joseb</name>
             <uri>https://news.ycombinator.com/user?id=joseb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做好的單片機]]></title>
-        <id>https://news.ycombinator.com/item?id=30664891</id>
-        <link href="https://news.ycombinator.com/item?id=30664891"/>
-        <updated>2022-03-13T19:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Monorepos done right]]></summary>
-        <author>
-            <name>fixel</name>
-            <uri>https://news.ycombinator.com/user?id=fixel</uri>
         </author>
     </entry>
 </feed>
