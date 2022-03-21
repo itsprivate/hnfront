@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T11:30:16.316Z</updated>
+    <updated>2022-03-21T11:52:20.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果工作室显示器包含64GB存储空间，但只用了2GB]]></title>
+        <id>https://news.ycombinator.com/item?id=30752629</id>
+        <link href="https://news.ycombinator.com/item?id=30752629"/>
+        <updated>2022-03-21T11:12:42.000Z</updated>
+        <summary type="html"><![CDATA[Apple Studio Display Contains 64GB of Storage, but Only 2GB Used]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[樱桃罐的设计可以追溯到80多年前（2020年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30738185</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lululouise</name>
             <uri>https://news.ycombinator.com/user?id=lululouise</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南极海冰达到历史最低点]]></title>
-        <id>https://news.ycombinator.com/item?id=30677466</id>
-        <link href="https://news.ycombinator.com/item?id=30677466"/>
-        <updated>2022-03-14T20:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Antarctic sea ice hits lowest minimum on record]]></summary>
-        <author>
-            <name>tambourine_man</name>
-            <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
         </author>
     </entry>
 </feed>
