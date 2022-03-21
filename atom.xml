@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T23:32:47.499Z</updated>
+    <updated>2022-03-21T23:41:21.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国司法部指责谷歌隐藏商业通信]]></title>
+        <id>https://news.ycombinator.com/item?id=30760923</id>
+        <link href="https://news.ycombinator.com/item?id=30760923"/>
+        <updated>2022-03-21T23:10:11.000Z</updated>
+        <summary type="html"><![CDATA[US Justice Department accuses Google of hiding business communications]]></summary>
+        <author>
+            <name>tareqak</name>
+            <uri>https://news.ycombinator.com/user?id=tareqak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Librem 5：第一印象]]></title>
         <id>https://news.ycombinator.com/item?id=30760883</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fixel</name>
             <uri>https://news.ycombinator.com/user?id=fixel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光线模式，黑暗模式，以及Gen-Z模式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30685587</id>
-        <link href="https://news.ycombinator.com/item?id=30685587"/>
-        <updated>2022-03-15T14:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Light mode, Dark mode, and Gen-Z mode?]]></summary>
-        <author>
-            <name>beweinreich</name>
-            <uri>https://news.ycombinator.com/user?id=beweinreich</uri>
         </author>
     </entry>
 </feed>
