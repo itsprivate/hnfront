@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T06:15:21.290Z</updated>
+    <updated>2022-03-21T06:57:24.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：Wayland上的Gnome很不錯]]></title>
+        <id>https://news.ycombinator.com/item?id=30750710</id>
+        <link href="https://news.ycombinator.com/item?id=30750710"/>
+        <updated>2022-03-21T05:44:40.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Gnome on Wayland Is Amazing]]></summary>
+        <author>
+            <name>oxplot</name>
+            <uri>https://news.ycombinator.com/user?id=oxplot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那麼，本體發育是否再現了系統發育？不是的 (2021年)]]></title>
         <id>https://news.ycombinator.com/item?id=30737584</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>charlieirish</name>
             <uri>https://news.ycombinator.com/user?id=charlieirish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印第安納州差點兒做成π=3.2]]></title>
-        <id>https://news.ycombinator.com/item?id=30674470</id>
-        <link href="https://news.ycombinator.com/item?id=30674470"/>
-        <updated>2022-03-14T16:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Indiana Almost Made pi = 3.2]]></summary>
-        <author>
-            <name>azhenley</name>
-            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
         </author>
     </entry>
 </feed>
