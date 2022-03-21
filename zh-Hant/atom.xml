@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T08:15:06.311Z</updated>
+    <updated>2022-03-21T08:38:51.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可見光通信。概念、應用和挑戰[pdf] (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30734614</id>
+        <link href="https://news.ycombinator.com/item?id=30734614"/>
+        <updated>2022-03-19T15:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Visible Light Communication: Concepts, Applications and Challenges [pdf] (2019)]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民意調查：DuckDuckGo "降低與俄羅斯虛假信息有關的網站排名"]]></title>
         <id>https://news.ycombinator.com/item?id=30751346</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>softwarebeware</name>
             <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[單眼視頻的實時相干三維重建]]></title>
-        <id>https://news.ycombinator.com/item?id=30675581</id>
-        <link href="https://news.ycombinator.com/item?id=30675581"/>
-        <updated>2022-03-14T17:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Real-Time Coherent 3D Reconstruction from Monocular Video]]></summary>
-        <author>
-            <name>samber</name>
-            <uri>https://news.ycombinator.com/user?id=samber</uri>
         </author>
     </entry>
 </feed>
