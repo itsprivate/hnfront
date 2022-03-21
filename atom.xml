@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T09:13:11.498Z</updated>
+    <updated>2022-03-21T09:33:26.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个带有摄像头、麦克风和Coral Edge TPU的微控制器板]]></title>
+        <id>https://news.ycombinator.com/item?id=30751874</id>
+        <link href="https://news.ycombinator.com/item?id=30751874"/>
+        <updated>2022-03-21T09:08:15.000Z</updated>
+        <summary type="html"><![CDATA[A microcontroller board with a camera, mic, and Coral Edge TPU]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具有里程碑意义的古代史 (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30735224</id>
+        <link href="https://news.ycombinator.com/item?id=30735224"/>
+        <updated>2022-03-19T16:40:52.000Z</updated>
+        <summary type="html"><![CDATA[The Landmark Ancient Histories (2017)]]></summary>
+        <author>
+            <name>hkc</name>
+            <uri>https://news.ycombinator.com/user?id=hkc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国东航MU5735航班坠毁，机上有132人]]></title>
         <id>https://news.ycombinator.com/item?id=30751785</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>wcerfgba</name>
             <uri>https://news.ycombinator.com/user?id=wcerfgba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大规模分布式系统中的连带故障]]></title>
-        <id>https://news.ycombinator.com/item?id=30670402</id>
-        <link href="https://news.ycombinator.com/item?id=30670402"/>
-        <updated>2022-03-14T09:53:29.000Z</updated>
-        <summary type="html"><![CDATA[Cascading failures in large-scale distributed systems]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RP2040厄运]]></title>
-        <id>https://news.ycombinator.com/item?id=30672527</id>
-        <link href="https://news.ycombinator.com/item?id=30672527"/>
-        <updated>2022-03-14T13:59:45.000Z</updated>
-        <summary type="html"><![CDATA[RP2040 Doom]]></summary>
-        <author>
-            <name>xkriva11</name>
-            <uri>https://news.ycombinator.com/user?id=xkriva11</uri>
         </author>
     </entry>
 </feed>
