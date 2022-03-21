@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T07:12:27.574Z</updated>
+    <updated>2022-03-21T07:51:45.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用一个微小的HC32L110 ARM芯片]]></title>
+        <id>https://news.ycombinator.com/item?id=30751094</id>
+        <link href="https://news.ycombinator.com/item?id=30751094"/>
+        <updated>2022-03-21T07:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Using a tiny HC32L110 ARM chip]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于运动的概念]]></title>
         <id>https://news.ycombinator.com/item?id=30739998</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>simonw</name>
             <uri>https://news.ycombinator.com/user?id=simonw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玛格丽特-汉密尔顿口述历史]]></title>
-        <id>https://news.ycombinator.com/item?id=30668338</id>
-        <link href="https://news.ycombinator.com/item?id=30668338"/>
-        <updated>2022-03-14T03:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Margaret Hamilton Oral History]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
