@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T18:40:53.637Z</updated>
+    <updated>2022-03-21T18:57:49.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lanai，LLVM中神秘的CPU架構]]></title>
+        <id>https://news.ycombinator.com/item?id=30757889</id>
+        <link href="https://news.ycombinator.com/item?id=30757889"/>
+        <updated>2022-03-21T18:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Lanai, the mystery CPU architecture in LLVM]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你為什麼不使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30755861</id>
+        <link href="https://news.ycombinator.com/item?id=30755861"/>
+        <updated>2022-03-21T16:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Why Don't You Use]]></summary>
+        <author>
+            <name>janvdberg</name>
+            <uri>https://news.ycombinator.com/user?id=janvdberg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[委員會如何進行發明？(1968) [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30739888</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>marzipanina</name>
             <uri>https://news.ycombinator.com/user?id=marzipanina</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微生物和礦物質可能引發了地球的氧合作用]]></title>
-        <id>https://news.ycombinator.com/item?id=30671460</id>
-        <link href="https://news.ycombinator.com/item?id=30671460"/>
-        <updated>2022-03-14T12:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Microbes and minerals may have set off Earth's oxygenation]]></summary>
-        <author>
-            <name>el_duderino</name>
-            <uri>https://news.ycombinator.com/user?id=el_duderino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國際壁球聯合會正式制裁球拍:下一篇]]></title>
-        <id>https://news.ycombinator.com/item?id=30682953</id>
-        <link href="https://news.ycombinator.com/item?id=30682953"/>
-        <updated>2022-03-15T08:39:28.000Z</updated>
-        <summary type="html"><![CDATA[International Racquetball Federation Officially Sanctions Racket:Next]]></summary>
-        <author>
-            <name>victorbond</name>
-            <uri>https://news.ycombinator.com/user?id=victorbond</uri>
         </author>
     </entry>
 </feed>
