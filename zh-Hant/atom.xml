@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T22:51:39.411Z</updated>
+    <updated>2022-03-21T23:12:47.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[頭條新聞的比較。1939年的波蘭報紙和2022年的新聞網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30760278</id>
+        <link href="https://news.ycombinator.com/item?id=30760278"/>
+        <updated>2022-03-21T22:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Headlines compared: Polish newspapers from 1939 and news websites from 2022]]></summary>
+        <author>
+            <name>stared</name>
+            <uri>https://news.ycombinator.com/user?id=stared</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找離群索居者]]></title>
         <id>https://news.ycombinator.com/item?id=30743471</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joshwcomeau</name>
             <uri>https://news.ycombinator.com/user?id=joshwcomeau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有一個純粹的基於短信的用戶界面？]]></title>
-        <id>https://news.ycombinator.com/item?id=30685223</id>
-        <link href="https://news.ycombinator.com/item?id=30685223"/>
-        <updated>2022-03-15T13:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a pure SMS based UI?]]></summary>
-        <author>
-            <name>joshcramer</name>
-            <uri>https://news.ycombinator.com/user?id=joshcramer</uri>
         </author>
     </entry>
 </feed>
