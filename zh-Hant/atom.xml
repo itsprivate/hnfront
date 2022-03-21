@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T15:38:35.825Z</updated>
+    <updated>2022-03-21T15:57:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幾乎所有網站都可能違反GDPR]]></title>
+        <id>https://news.ycombinator.com/item?id=30754961</id>
+        <link href="https://news.ycombinator.com/item?id=30754961"/>
+        <updated>2022-03-21T15:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Nearly all websites may breach GDPR]]></summary>
+        <author>
+            <name>tomgp</name>
+            <uri>https://news.ycombinator.com/user?id=tomgp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneWeb將恢復衛星發射，由SpaceX作為發射供應商]]></title>
         <id>https://news.ycombinator.com/item?id=30755077</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chippy</name>
             <uri>https://news.ycombinator.com/user?id=chippy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[批判性地意識到計算。中學教育的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30668460</id>
-        <link href="https://news.ycombinator.com/item?id=30668460"/>
-        <updated>2022-03-14T04:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Critically Conscious Computing: Methods for Secondary Education]]></summary>
-        <author>
-            <name>akalin</name>
-            <uri>https://news.ycombinator.com/user?id=akalin</uri>
         </author>
     </entry>
 </feed>
