@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T14:38:08.501Z</updated>
+    <updated>2022-03-21T15:15:44.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客推出针对普通人的攻击平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30754020</id>
+        <link href="https://news.ycombinator.com/item?id=30754020"/>
+        <updated>2022-03-21T13:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Hackers launch attack platform for common people]]></summary>
+        <author>
+            <name>hackerwhizz</name>
+            <uri>https://news.ycombinator.com/user?id=hackerwhizz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被认为是有害的钩子]]></title>
+        <id>https://news.ycombinator.com/item?id=30753127</id>
+        <link href="https://news.ycombinator.com/item?id=30753127"/>
+        <updated>2022-03-21T12:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Hooks Considered Harmful]]></summary>
+        <author>
+            <name>smtx</name>
+            <uri>https://news.ycombinator.com/user?id=smtx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭开肛门的神秘面纱]]></title>
         <id>https://news.ycombinator.com/item?id=30741531</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8-Bit Punk (2003)]]></title>
-        <id>https://news.ycombinator.com/item?id=30668116</id>
-        <link href="https://news.ycombinator.com/item?id=30668116"/>
-        <updated>2022-03-14T03:05:05.000Z</updated>
-        <summary type="html"><![CDATA[8-Bit Punk (2003)]]></summary>
-        <author>
-            <name>8bitsrule</name>
-            <uri>https://news.ycombinator.com/user?id=8bitsrule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么很难买到好用的东西呢？]]></title>
-        <id>https://news.ycombinator.com/item?id=30679935</id>
-        <link href="https://news.ycombinator.com/item?id=30679935"/>
-        <updated>2022-03-14T23:32:11.000Z</updated>
-        <summary type="html"><![CDATA[Why is it hard to buy things that work well?]]></summary>
-        <author>
-            <name>davidmckenna</name>
-            <uri>https://news.ycombinator.com/user?id=davidmckenna</uri>
         </author>
     </entry>
 </feed>
