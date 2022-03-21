@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T16:52:12.062Z</updated>
+    <updated>2022-03-21T17:08:17.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何支付專業維護人員的費用]]></title>
+        <id>https://news.ycombinator.com/item?id=30756129</id>
+        <link href="https://news.ycombinator.com/item?id=30756129"/>
+        <updated>2022-03-21T16:34:01.000Z</updated>
+        <summary type="html"><![CDATA[How to Pay Professional Maintainers]]></summary>
+        <author>
+            <name>FiloSottile</name>
+            <uri>https://news.ycombinator.com/user?id=FiloSottile</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VRoom 一個高端的RISC-V實現]]></title>
         <id>https://news.ycombinator.com/item?id=30755716</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>herendin2</name>
             <uri>https://news.ycombinator.com/user?id=herendin2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我發現AWS上有數以千計的開放數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30682036</id>
-        <link href="https://news.ycombinator.com/item?id=30682036"/>
-        <updated>2022-03-15T05:46:29.000Z</updated>
-        <summary type="html"><![CDATA[I Discovered Thousands of Open Databases on AWS]]></summary>
-        <author>
-            <name>fagnerbrack</name>
-            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
         </author>
     </entry>
 </feed>
