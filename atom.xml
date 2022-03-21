@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T18:57:48.959Z</updated>
+    <updated>2022-03-21T19:13:00.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对制造 "传染性 "疫苗的有争议的探索]]></title>
+        <id>https://news.ycombinator.com/item?id=30757980</id>
+        <link href="https://news.ycombinator.com/item?id=30757980"/>
+        <updated>2022-03-21T18:38:29.000Z</updated>
+        <summary type="html"><![CDATA[The controversial quest to make a 'contagious' vaccine]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lanai，LLVM中神秘的CPU架构]]></title>
         <id>https://news.ycombinator.com/item?id=30757889</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fcambus</name>
             <uri>https://news.ycombinator.com/user?id=fcambus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用户体验播客调查--投票选出你最喜欢的播客，在2022年收听。]]></title>
-        <id>https://news.ycombinator.com/item?id=30683709</id>
-        <link href="https://news.ycombinator.com/item?id=30683709"/>
-        <updated>2022-03-15T10:37:26.000Z</updated>
-        <summary type="html"><![CDATA[UX Podcast Survey – vote for your favorite podcast to listen to in 2022]]></summary>
-        <author>
-            <name>marzipanina</name>
-            <uri>https://news.ycombinator.com/user?id=marzipanina</uri>
         </author>
     </entry>
 </feed>
