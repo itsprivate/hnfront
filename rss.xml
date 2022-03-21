@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 14:31:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[酒馆里的幽灵]]></title>
+            <link>https://news.ycombinator.com/item?id=30742440</link>
+            <guid>https://news.ycombinator.com/item?id=30742440</guid>
+            <pubDate>Sun, 20 Mar 2022 13:26:46 GMT</pubDate>
+            <description><![CDATA[Ghosts at the Liquor Store]]></description>
+        </item>
         <item>
             <title><![CDATA[纯文本体育]]></title>
             <link>https://news.ycombinator.com/item?id=30754064</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30678375</guid>
             <pubDate>Mon, 14 Mar 2022 21:10:10 GMT</pubDate>
             <description><![CDATA[Podman can transfer container images without a registry]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenHAB--供应商和技术不可知的开源家庭自动化软件]]></title>
-            <link>https://news.ycombinator.com/item?id=30667846</link>
-            <guid>https://news.ycombinator.com/item?id=30667846</guid>
-            <pubDate>Mon, 14 Mar 2022 02:15:42 GMT</pubDate>
-            <description><![CDATA[OpenHAB – vendor and tech agnostic open source automation software for your home]]></description>
         </item>
     </channel>
 </rss>

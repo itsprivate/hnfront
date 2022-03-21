@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T14:13:24.815Z</updated>
+    <updated>2022-03-21T14:31:42.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[酒館裡的幽靈]]></title>
+        <id>https://news.ycombinator.com/item?id=30742440</id>
+        <link href="https://news.ycombinator.com/item?id=30742440"/>
+        <updated>2022-03-20T13:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Ghosts at the Liquor Store]]></summary>
+        <author>
+            <name>hprotagonist</name>
+            <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[純文本體育]]></title>
         <id>https://news.ycombinator.com/item?id=30754064</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kukx</name>
             <uri>https://news.ycombinator.com/user?id=kukx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenHAB--供應商和技術不可知的開源家庭自動化軟件]]></title>
-        <id>https://news.ycombinator.com/item?id=30667846</id>
-        <link href="https://news.ycombinator.com/item?id=30667846"/>
-        <updated>2022-03-14T02:15:42.000Z</updated>
-        <summary type="html"><![CDATA[OpenHAB – vendor and tech agnostic open source automation software for your home]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
