@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T12:18:36.736Z</updated>
+    <updated>2022-03-21T12:56:21.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以太坊背後的一個人對加密貨幣的未來感到擔憂]]></title>
+        <id>https://news.ycombinator.com/item?id=30753404</id>
+        <link href="https://news.ycombinator.com/item?id=30753404"/>
+        <updated>2022-03-21T12:42:55.000Z</updated>
+        <summary type="html"><![CDATA[A Man Behind Ethereum Is Worried About Crypto's Future]]></summary>
+        <author>
+            <name>hdk</name>
+            <uri>https://news.ycombinator.com/user?id=hdk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smarking（YC W15）正在招聘15個職位，以實現655億美元的停車業數字化。]]></title>
         <id>https://news.ycombinator.com/item?id=30753031</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>virtualwhys</name>
             <uri>https://news.ycombinator.com/user?id=virtualwhys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThinkComposer。流程圖、概念圖、思維導圖、圖表和模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30669754</id>
-        <link href="https://news.ycombinator.com/item?id=30669754"/>
-        <updated>2022-03-14T08:23:44.000Z</updated>
-        <summary type="html"><![CDATA[ThinkComposer. Flowcharts, Concept Maps, Mind Maps, Diagrams and Models]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
