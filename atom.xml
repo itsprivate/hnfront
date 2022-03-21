@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T21:13:02.687Z</updated>
+    <updated>2022-03-21T21:32:00.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["在经济好的时候，无家可归者会增加"。通货膨胀与住房问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30759710</id>
+        <link href="https://news.ycombinator.com/item?id=30759710"/>
+        <updated>2022-03-21T21:06:20.000Z</updated>
+        <summary type="html"><![CDATA["In a Good Economy Homelessness Goes Up": Inflation and the Housing Question]]></summary>
+        <author>
+            <name>viburnum</name>
+            <uri>https://news.ycombinator.com/user?id=viburnum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skio（Shopify的订阅，高于市场价格）正在纽约市招聘工程师。]]></title>
         <id>https://news.ycombinator.com/item?id=30759644</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>acqbu</name>
             <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN和铁锈是怎么回事？]]></title>
-        <id>https://news.ycombinator.com/item?id=30684394</id>
-        <link href="https://news.ycombinator.com/item?id=30684394"/>
-        <updated>2022-03-15T12:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the Deal with HN and Rust?]]></summary>
-        <author>
-            <name>hcabral</name>
-            <uri>https://news.ycombinator.com/user?id=hcabral</uri>
         </author>
     </entry>
 </feed>
