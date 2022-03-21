@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T23:12:47.893Z</updated>
+    <updated>2022-03-21T23:32:47.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Librem 5：第一印象]]></title>
+        <id>https://news.ycombinator.com/item?id=30760883</id>
+        <link href="https://news.ycombinator.com/item?id=30760883"/>
+        <updated>2022-03-21T23:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Librem 5: First Impressions]]></summary>
+        <author>
+            <name>jstanley</name>
+            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文明编程远不止注释代码这么简单]]></title>
+        <id>https://news.ycombinator.com/item?id=30760835</id>
+        <link href="https://news.ycombinator.com/item?id=30760835"/>
+        <updated>2022-03-21T22:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Literate programming is much more than just commenting code]]></summary>
+        <author>
+            <name>increscent</name>
+            <uri>https://news.ycombinator.com/user?id=increscent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capyloon。一个实验性的基于网络的操作系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30758862</id>
+        <link href="https://news.ycombinator.com/item?id=30758862"/>
+        <updated>2022-03-21T19:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Capyloon: An Experimental Web Based OS]]></summary>
+        <author>
+            <name>fabrice_d</name>
+            <uri>https://news.ycombinator.com/user?id=fabrice_d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[头条新闻的比较。1939年的波兰报纸和2022年的新闻网站]]></title>
         <id>https://news.ycombinator.com/item?id=30760278</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>beweinreich</name>
             <uri>https://news.ycombinator.com/user?id=beweinreich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特勤局的新报告详细介绍了日益增长的不伦恋恐怖主义威胁]]></title>
-        <id>https://news.ycombinator.com/item?id=30685246</id>
-        <link href="https://news.ycombinator.com/item?id=30685246"/>
-        <updated>2022-03-15T13:52:29.000Z</updated>
-        <summary type="html"><![CDATA[New Secret Service report details growing incel terrorism threat]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD推出7款新芯片，旗舰产品Ryzen 7 5800X3D售价449美元，4月20日上市]]></title>
-        <id>https://news.ycombinator.com/item?id=30685100</id>
-        <link href="https://news.ycombinator.com/item?id=30685100"/>
-        <updated>2022-03-15T13:39:11.000Z</updated>
-        <summary type="html"><![CDATA[AMD Fires Back with 7 New Chips, Flagship $449 Ryzen 7 5800X3D Lands April 20]]></summary>
-        <author>
-            <name>ItsTotallyOn</name>
-            <uri>https://news.ycombinator.com/user?id=ItsTotallyOn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愉快的React文件结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30684777</id>
-        <link href="https://news.ycombinator.com/item?id=30684777"/>
-        <updated>2022-03-15T13:11:11.000Z</updated>
-        <summary type="html"><![CDATA[Delightful React File Structure]]></summary>
-        <author>
-            <name>joshwcomeau</name>
-            <uri>https://news.ycombinator.com/user?id=joshwcomeau</uri>
         </author>
     </entry>
 </feed>
