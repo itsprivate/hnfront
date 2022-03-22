@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T03:56:11.815Z</updated>
+    <updated>2022-03-22T04:13:42.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安卓的信息、拨号程序悄悄向谷歌发送短信、通话信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30762549</id>
+        <link href="https://news.ycombinator.com/item?id=30762549"/>
+        <updated>2022-03-22T03:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Android's Messages, Dialer apps quietly sent text, call info to Google]]></summary>
+        <author>
+            <name>cpeterso</name>
+            <uri>https://news.ycombinator.com/user?id=cpeterso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用网络音频API和自相关检测音高]]></title>
         <id>https://news.ycombinator.com/item?id=30748042</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vwoolf</name>
             <uri>https://news.ycombinator.com/user?id=vwoolf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strype，一个基于Python框架的编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=30687040</id>
-        <link href="https://news.ycombinator.com/item?id=30687040"/>
-        <updated>2022-03-15T16:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Strype, a Python frame-based editor]]></summary>
-        <author>
-            <name>marianoguerra</name>
-            <uri>https://news.ycombinator.com/user?id=marianoguerra</uri>
         </author>
     </entry>
 </feed>
