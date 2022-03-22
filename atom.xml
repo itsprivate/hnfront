@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T04:57:41.848Z</updated>
+    <updated>2022-03-22T05:51:57.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[菲利普-海因霍夫的《伟大的家书》（1596-1633）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30727133</id>
+        <link href="https://news.ycombinator.com/item?id=30727133"/>
+        <updated>2022-03-18T20:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Philipp Hainhofer’s Große Stammbuch (1596–1633)]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查看表格。使用变形器从少数图像中进行无神经系统的渲染]]></title>
         <id>https://news.ycombinator.com/item?id=30762578</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>psanford</name>
             <uri>https://news.ycombinator.com/user?id=psanford</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊因西雅图市中心的暴力事件失控而重新安置工人]]></title>
-        <id>https://news.ycombinator.com/item?id=30687214</id>
-        <link href="https://news.ycombinator.com/item?id=30687214"/>
-        <updated>2022-03-15T16:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relocates Workers Due to Out-of-Control Violence in Downtown Seattle]]></summary>
-        <author>
-            <name>t_h_r_o_w_away</name>
-            <uri>https://news.ycombinator.com/user?id=t_h_r_o_w_away</uri>
         </author>
     </entry>
 </feed>
