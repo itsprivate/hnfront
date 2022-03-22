@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T04:40:47.165Z</updated>
+    <updated>2022-03-22T04:57:41.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查看錶格。使用變形器從少數圖像中進行無神經系統的渲染]]></title>
+        <id>https://news.ycombinator.com/item?id=30762578</id>
+        <link href="https://news.ycombinator.com/item?id=30762578"/>
+        <updated>2022-03-22T03:56:46.000Z</updated>
+        <summary type="html"><![CDATA[ViewFormer: NeRF-Free Neural Rendering from Few Images Using Transformers]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[糾正我們關於錯誤的錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30735240</id>
+        <link href="https://news.ycombinator.com/item?id=30735240"/>
+        <updated>2022-03-19T16:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Correcting our errors about errors]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客聲稱攻破了Okta系統]]></title>
         <id>https://news.ycombinator.com/item?id=30762520</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>t_h_r_o_w_away</name>
             <uri>https://news.ycombinator.com/user?id=t_h_r_o_w_away</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個靈活的、輕量級的、旋轉鎖定的屏障]]></title>
-        <id>https://news.ycombinator.com/item?id=30671979</id>
-        <link href="https://news.ycombinator.com/item?id=30671979"/>
-        <updated>2022-03-14T13:10:01.000Z</updated>
-        <summary type="html"><![CDATA[A flexible, lightweight, spin-lock barrier]]></summary>
-        <author>
-            <name>kencausey</name>
-            <uri>https://news.ycombinator.com/user?id=kencausey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立法者調查提前釋放RU頂級網絡罪犯的問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30686851</id>
-        <link href="https://news.ycombinator.com/item?id=30686851"/>
-        <updated>2022-03-15T15:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Lawmakers Probe Early Release of Top RU Cybercrook]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
