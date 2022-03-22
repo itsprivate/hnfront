@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 06:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[药物输送型隐形眼镜获准在美国使用]]></title>
+            <link>https://news.ycombinator.com/item?id=30733621</link>
+            <guid>https://news.ycombinator.com/item?id=30733621</guid>
+            <pubDate>Sat, 19 Mar 2022 13:41:45 GMT</pubDate>
+            <description><![CDATA[Drug-delivering contact lens approved for use in the U.S.]]></description>
+        </item>
         <item>
             <title><![CDATA[菲利普-海因霍夫的《伟大的家书》（1596-1633）。]]></title>
             <link>https://news.ycombinator.com/item?id=30727133</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30687796</guid>
             <pubDate>Tue, 15 Mar 2022 17:01:26 GMT</pubDate>
             <description><![CDATA[Emerge tools (YC W21) is hiring a senior Android engineer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenSSL安全公告：解析证书时可达到无限循环]]></title>
-            <link>https://news.ycombinator.com/item?id=30687678</link>
-            <guid>https://news.ycombinator.com/item?id=30687678</guid>
-            <pubDate>Tue, 15 Mar 2022 16:54:55 GMT</pubDate>
-            <description><![CDATA[OpenSSL security advisory: Infinite loop reachable when parsing certificates]]></description>
         </item>
     </channel>
 </rss>

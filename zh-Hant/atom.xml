@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T05:51:58.069Z</updated>
+    <updated>2022-03-22T06:56:05.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[藥物輸送型隱形眼鏡獲准在美國使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30733621</id>
+        <link href="https://news.ycombinator.com/item?id=30733621"/>
+        <updated>2022-03-19T13:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Drug-delivering contact lens approved for use in the U.S.]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[菲利普-海因霍夫的《偉大的家書》（1596-1633）。]]></title>
         <id>https://news.ycombinator.com/item?id=30727133</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jshchnz</name>
             <uri>https://news.ycombinator.com/user?id=jshchnz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSL安全公告：解析證書時可達到無限循環]]></title>
-        <id>https://news.ycombinator.com/item?id=30687678</id>
-        <link href="https://news.ycombinator.com/item?id=30687678"/>
-        <updated>2022-03-15T16:54:55.000Z</updated>
-        <summary type="html"><![CDATA[OpenSSL security advisory: Infinite loop reachable when parsing certificates]]></summary>
-        <author>
-            <name>psanford</name>
-            <uri>https://news.ycombinator.com/user?id=psanford</uri>
         </author>
     </entry>
 </feed>
