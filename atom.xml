@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T07:30:12.048Z</updated>
+    <updated>2022-03-22T07:52:00.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奔驰驾驶领航员通过承担法律责任击败特斯拉自动驾驶汽车]]></title>
+        <id>https://news.ycombinator.com/item?id=30763522</id>
+        <link href="https://news.ycombinator.com/item?id=30763522"/>
+        <updated>2022-03-22T07:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Mercedes Drive Pilot Beats Tesla Autopilot by Taking Legal Responsibility]]></summary>
+        <author>
+            <name>gscott</name>
+            <uri>https://news.ycombinator.com/user?id=gscott</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赞扬背诵]]></title>
         <id>https://news.ycombinator.com/item?id=30763003</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>daniellenewnham</name>
             <uri>https://news.ycombinator.com/user?id=daniellenewnham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.18版发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30688208</id>
-        <link href="https://news.ycombinator.com/item?id=30688208"/>
-        <updated>2022-03-15T17:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Go 1.18 Released]]></summary>
-        <author>
-            <name>mjlee</name>
-            <uri>https://news.ycombinator.com/user?id=mjlee</uri>
         </author>
     </entry>
 </feed>
