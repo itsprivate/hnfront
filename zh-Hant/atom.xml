@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T18:20:04.040Z</updated>
+    <updated>2022-03-22T18:40:15.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Okta關於Lapsus$的最新聲明]]></title>
+        <id>https://news.ycombinator.com/item?id=30769537</id>
+        <link href="https://news.ycombinator.com/item?id=30769537"/>
+        <updated>2022-03-22T18:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Updated Okta Statement on Lapsus$]]></summary>
+        <author>
+            <name>rcoppolo</name>
+            <uri>https://news.ycombinator.com/user?id=rcoppolo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appwrite - 開源和自我託管的Firebase替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30769044</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>raju</name>
             <uri>https://news.ycombinator.com/user?id=raju</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特試驗 "自動鎖定 "的做法]]></title>
-        <id>https://news.ycombinator.com/item?id=30696297</id>
-        <link href="https://news.ycombinator.com/item?id=30696297"/>
-        <updated>2022-03-16T07:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Twitter Experimenting with “Autoblocking”]]></summary>
-        <author>
-            <name>CyberRabbi</name>
-            <uri>https://news.ycombinator.com/user?id=CyberRabbi</uri>
         </author>
     </entry>
 </feed>
