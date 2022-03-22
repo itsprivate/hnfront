@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T04:13:42.479Z</updated>
+    <updated>2022-03-22T04:40:47.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客声称攻破了Okta系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30762520</id>
+        <link href="https://news.ycombinator.com/item?id=30762520"/>
+        <updated>2022-03-22T03:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Hackers claim to have breached Okta systems]]></summary>
+        <author>
+            <name>obi1kenobi</name>
+            <uri>https://news.ycombinator.com/user?id=obi1kenobi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓的信息、拨号程序悄悄向谷歌发送短信、通话信息]]></title>
         <id>https://news.ycombinator.com/item?id=30762549</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可爱的福特野马Mach-E和电动汽车的危险性]]></title>
-        <id>https://news.ycombinator.com/item?id=30687246</id>
-        <link href="https://news.ycombinator.com/item?id=30687246"/>
-        <updated>2022-03-15T16:22:33.000Z</updated>
-        <summary type="html"><![CDATA[The lovely Ford Mustang Mach-E and the danger of electric cars]]></summary>
-        <author>
-            <name>vwoolf</name>
-            <uri>https://news.ycombinator.com/user?id=vwoolf</uri>
         </author>
     </entry>
 </feed>
