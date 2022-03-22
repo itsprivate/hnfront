@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T20:14:21.708Z</updated>
+    <updated>2022-03-22T20:42:04.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[视频显示红色卡车驶过德克萨斯州中部的龙卷风]]></title>
+        <id>https://news.ycombinator.com/item?id=30770964</id>
+        <link href="https://news.ycombinator.com/item?id=30770964"/>
+        <updated>2022-03-22T20:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Video shows red truck driving through tornado in central Texas]]></summary>
+        <author>
+            <name>coding123</name>
+            <uri>https://news.ycombinator.com/user?id=coding123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们有羞辱和顺从《纽约时报》的基本权利]]></title>
         <id>https://news.ycombinator.com/item?id=30770206</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSFT展示了以前难以捉摸的物理学，需要建立可扩展的量子比特]]></title>
-        <id>https://news.ycombinator.com/item?id=30697374</id>
-        <link href="https://news.ycombinator.com/item?id=30697374"/>
-        <updated>2022-03-16T11:06:40.000Z</updated>
-        <summary type="html"><![CDATA[MSFT demonstrates formerly elusive physics needed to build scalable qubits]]></summary>
-        <author>
-            <name>rahulravu96</name>
-            <uri>https://news.ycombinator.com/user?id=rahulravu96</uri>
         </author>
     </entry>
 </feed>
