@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T18:56:38.185Z</updated>
+    <updated>2022-03-22T19:28:03.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基本原理和部署]]></title>
+        <id>https://news.ycombinator.com/item?id=30756854</id>
+        <link href="https://news.ycombinator.com/item?id=30756854"/>
+        <updated>2022-03-21T17:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Fundamentals and Deployment]]></summary>
+        <author>
+            <name>lawik</name>
+            <uri>https://news.ycombinator.com/user?id=lawik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BuzzFeed的投资者已推动首席执行官Jonah Peretti关闭整个新闻室]]></title>
         <id>https://news.ycombinator.com/item?id=30769611</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jboynyc</name>
             <uri>https://news.ycombinator.com/user?id=jboynyc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法华经》手稿数字化项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30685828</id>
-        <link href="https://news.ycombinator.com/item?id=30685828"/>
-        <updated>2022-03-15T14:34:01.000Z</updated>
-        <summary type="html"><![CDATA[The Lotus Sutra Manuscripts Digitisation Project]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
         </author>
     </entry>
 </feed>
