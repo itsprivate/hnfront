@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T10:14:39.421Z</updated>
+    <updated>2022-03-22T10:53:12.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[挫折。使用R的一年]]></title>
+        <id>https://news.ycombinator.com/item?id=30764505</id>
+        <link href="https://news.ycombinator.com/item?id=30764505"/>
+        <updated>2022-03-22T10:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Frustration: One Year with R]]></summary>
+        <author>
+            <name>_dain_</name>
+            <uri>https://news.ycombinator.com/user?id=_dain_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究表明，人们认为数据分析师和会计师很无聊]]></title>
         <id>https://news.ycombinator.com/item?id=30764152</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让雇主在招聘启事中分享薪酬有助于解决性别薪酬差距吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30690308</id>
-        <link href="https://news.ycombinator.com/item?id=30690308"/>
-        <updated>2022-03-15T19:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Can making employers share pay in job postings help fix the gender pay gap?]]></summary>
-        <author>
-            <name>laurex</name>
-            <uri>https://news.ycombinator.com/user?id=laurex</uri>
         </author>
     </entry>
 </feed>
