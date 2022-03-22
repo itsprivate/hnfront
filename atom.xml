@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T21:30:35.561Z</updated>
+    <updated>2022-03-22T21:38:22.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[司法部指控：谷歌经常通过抄送律师来隐藏诉讼中的电子邮件]]></title>
+        <id>https://news.ycombinator.com/item?id=30771012</id>
+        <link href="https://news.ycombinator.com/item?id=30771012"/>
+        <updated>2022-03-22T20:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Google routinely hides emails from litigation by CCing attorneys, DOJ alleges]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自动化是一个神话]]></title>
         <id>https://news.ycombinator.com/item?id=30771365</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kaeruct</name>
             <uri>https://news.ycombinator.com/user?id=kaeruct</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术性的时间旅行。关于古典编程书籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30697697</id>
-        <link href="https://news.ycombinator.com/item?id=30697697"/>
-        <updated>2022-03-16T12:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Technical Time Travel: On Vintage Programming Books]]></summary>
-        <author>
-            <name>fagnerbrack</name>
-            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
         </author>
     </entry>
 </feed>
