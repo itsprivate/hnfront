@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 22 Mar 2022 03:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 03:56:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用网络音频API和自相关检测音高]]></title>
+            <link>https://news.ycombinator.com/item?id=30748042</link>
+            <guid>https://news.ycombinator.com/item?id=30748042</guid>
+            <pubDate>Sun, 20 Mar 2022 23:44:54 GMT</pubDate>
+            <description><![CDATA[Detecting pitch with the Web Audio API and autocorrelation]]></description>
+        </item>
         <item>
             <title><![CDATA[首款由树莓派提供动力的超小尺寸坚固耐用的国防、航天产品]]></title>
             <link>https://news.ycombinator.com/item?id=30762316</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30687040</guid>
             <pubDate>Tue, 15 Mar 2022 16:05:58 GMT</pubDate>
             <description><![CDATA[Strype, a Python frame-based editor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个新的LLVM优化通道，积极地减少WebAssembly的大小]]></title>
-            <link>https://news.ycombinator.com/item?id=30686919</link>
-            <guid>https://news.ycombinator.com/item?id=30686919</guid>
-            <pubDate>Tue, 15 Mar 2022 15:57:36 GMT</pubDate>
-            <description><![CDATA[Show HN: A new LLVM optimization pass that aggressively reduces WebAssembly size]]></description>
         </item>
     </channel>
 </rss>
