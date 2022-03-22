@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 22 Mar 2022 21:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 21:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自動化是一個神話]]></title>
+            <link>https://news.ycombinator.com/item?id=30771365</link>
+            <guid>https://news.ycombinator.com/item?id=30771365</guid>
+            <pubDate>Tue, 22 Mar 2022 20:51:02 GMT</pubDate>
+            <description><![CDATA[Automation Is a Myth]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kubernetes的骯髒端點秘密和Ingress]]></title>
+            <link>https://news.ycombinator.com/item?id=30771149</link>
+            <guid>https://news.ycombinator.com/item?id=30771149</guid>
+            <pubDate>Tue, 22 Mar 2022 20:34:35 GMT</pubDate>
+            <description><![CDATA[Kubernetes' dirty endpoint secret and Ingress]]></description>
+        </item>
+        <item>
+            <title><![CDATA[迷幻蟾蜍的魔笛手]]></title>
+            <link>https://news.ycombinator.com/item?id=30753998</link>
+            <guid>https://news.ycombinator.com/item?id=30753998</guid>
+            <pubDate>Mon, 21 Mar 2022 13:41:42 GMT</pubDate>
+            <description><![CDATA[The Pied Piper of Psychedelic Toads]]></description>
+        </item>
         <item>
             <title><![CDATA[安全管家（YC S17）正在招聘遠程軟件工程師]]></title>
             <link>https://news.ycombinator.com/item?id=30771477</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30697697</guid>
             <pubDate>Wed, 16 Mar 2022 12:00:15 GMT</pubDate>
             <description><![CDATA[Technical Time Travel: On Vintage Programming Books]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們正在改變互聯網路由。引入兔子DNS]]></title>
-            <link>https://news.ycombinator.com/item?id=30697672</link>
-            <guid>https://news.ycombinator.com/item?id=30697672</guid>
-            <pubDate>Wed, 16 Mar 2022 11:56:13 GMT</pubDate>
-            <description><![CDATA[We're transforming internet routing: Introducing Bunny DNS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最後的i486在線]]></title>
-            <link>https://news.ycombinator.com/item?id=30697627</link>
-            <guid>https://news.ycombinator.com/item?id=30697627</guid>
-            <pubDate>Wed, 16 Mar 2022 11:49:42 GMT</pubDate>
-            <description><![CDATA[The Last i486 Online]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於微控制器的Jacdac即插即用系統]]></title>
-            <link>https://news.ycombinator.com/item?id=30683514</link>
-            <guid>https://news.ycombinator.com/item?id=30683514</guid>
-            <pubDate>Tue, 15 Mar 2022 10:09:26 GMT</pubDate>
-            <description><![CDATA[Jacdac Plug-and-Play for Microcontrollers]]></description>
         </item>
     </channel>
 </rss>

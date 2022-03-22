@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T21:13:37.568Z</updated>
+    <updated>2022-03-22T21:30:35.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自動化是一個神話]]></title>
+        <id>https://news.ycombinator.com/item?id=30771365</id>
+        <link href="https://news.ycombinator.com/item?id=30771365"/>
+        <updated>2022-03-22T20:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Automation Is a Myth]]></summary>
+        <author>
+            <name>lukemunn</name>
+            <uri>https://news.ycombinator.com/user?id=lukemunn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes的骯髒端點秘密和Ingress]]></title>
+        <id>https://news.ycombinator.com/item?id=30771149</id>
+        <link href="https://news.ycombinator.com/item?id=30771149"/>
+        <updated>2022-03-22T20:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes' dirty endpoint secret and Ingress]]></summary>
+        <author>
+            <name>richardfey</name>
+            <uri>https://news.ycombinator.com/user?id=richardfey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷幻蟾蜍的魔笛手]]></title>
+        <id>https://news.ycombinator.com/item?id=30753998</id>
+        <link href="https://news.ycombinator.com/item?id=30753998"/>
+        <updated>2022-03-21T13:41:42.000Z</updated>
+        <summary type="html"><![CDATA[The Pied Piper of Psychedelic Toads]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全管家（YC S17）正在招聘遠程軟件工程師]]></title>
         <id>https://news.ycombinator.com/item?id=30771477</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>fagnerbrack</name>
             <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們正在改變互聯網路由。引入兔子DNS]]></title>
-        <id>https://news.ycombinator.com/item?id=30697672</id>
-        <link href="https://news.ycombinator.com/item?id=30697672"/>
-        <updated>2022-03-16T11:56:13.000Z</updated>
-        <summary type="html"><![CDATA[We're transforming internet routing: Introducing Bunny DNS]]></summary>
-        <author>
-            <name>decrypt</name>
-            <uri>https://news.ycombinator.com/user?id=decrypt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最後的i486在線]]></title>
-        <id>https://news.ycombinator.com/item?id=30697627</id>
-        <link href="https://news.ycombinator.com/item?id=30697627"/>
-        <updated>2022-03-16T11:49:42.000Z</updated>
-        <summary type="html"><![CDATA[The Last i486 Online]]></summary>
-        <author>
-            <name>nazgulsenpai</name>
-            <uri>https://news.ycombinator.com/user?id=nazgulsenpai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於微控制器的Jacdac即插即用系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30683514</id>
-        <link href="https://news.ycombinator.com/item?id=30683514"/>
-        <updated>2022-03-15T10:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Jacdac Plug-and-Play for Microcontrollers]]></summary>
-        <author>
-            <name>nrsapt</name>
-            <uri>https://news.ycombinator.com/user?id=nrsapt</uri>
         </author>
     </entry>
 </feed>
