@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-22T21:38:22.170Z</updated>
+    <updated>2022-03-22T21:52:43.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小到可以放在手提行李中的折叠式自行车]]></title>
+        <id>https://news.ycombinator.com/item?id=30771928</id>
+        <link href="https://news.ycombinator.com/item?id=30771928"/>
+        <updated>2022-03-22T21:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Folding bicycle small enough to fit in hand luggage]]></summary>
+        <author>
+            <name>bwindels</name>
+            <uri>https://news.ycombinator.com/user?id=bwindels</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[司法部指控：谷歌经常通过抄送律师来隐藏诉讼中的电子邮件]]></title>
         <id>https://news.ycombinator.com/item?id=30771012</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>osynavets</name>
             <uri>https://news.ycombinator.com/user?id=osynavets</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：因为我的电子邮件，我不能买PS4。]]></title>
-        <id>https://news.ycombinator.com/item?id=30697838</id>
-        <link href="https://news.ycombinator.com/item?id=30697838"/>
-        <updated>2022-03-16T12:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: I can't buy a PS4 because of my email]]></summary>
-        <author>
-            <name>kaeruct</name>
-            <uri>https://news.ycombinator.com/user?id=kaeruct</uri>
         </author>
     </entry>
 </feed>
