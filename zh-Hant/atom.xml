@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-21T23:51:28.170Z</updated>
+    <updated>2022-03-22T00:39:04.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GömböC：不應該存在的物體 (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=30760492</id>
+        <link href="https://news.ycombinator.com/item?id=30760492"/>
+        <updated>2022-03-21T22:23:37.000Z</updated>
+        <summary type="html"><![CDATA[The GömböC: The object that shouldn't exist (2014)]]></summary>
+        <author>
+            <name>mhb</name>
+            <uri>https://news.ycombinator.com/user?id=mhb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[馬塞爾-杜尚和他的朋友們賦予了美國先鋒派力量]]></title>
         <id>https://news.ycombinator.com/item?id=30749701</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>LittleMoveBig</name>
             <uri>https://news.ycombinator.com/user?id=LittleMoveBig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啟動HN：方法金融（YC S19）--將債務償還嵌入你的應用程序的API]]></title>
-        <id>https://news.ycombinator.com/item?id=30685921</id>
-        <link href="https://news.ycombinator.com/item?id=30685921"/>
-        <updated>2022-03-15T14:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Method Financial (YC S19) – API to embed debt repayment into your app]]></summary>
-        <author>
-            <name>joseb</name>
-            <uri>https://news.ycombinator.com/user?id=joseb</uri>
         </author>
     </entry>
 </feed>
