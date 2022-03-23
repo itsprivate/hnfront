@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T23:32:35.335Z</updated>
+    <updated>2022-03-23T23:51:27.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瓦斯默和商标]]></title>
+        <id>https://news.ycombinator.com/item?id=30758651</id>
+        <link href="https://news.ycombinator.com/item?id=30758651"/>
+        <updated>2022-03-21T19:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Wasmer and Trademarks]]></summary>
+        <author>
+            <name>syrusakbary</name>
+            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令人敬畏的自助服务]]></title>
         <id>https://news.ycombinator.com/item?id=30782848</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>orangebanana1</name>
             <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与GitHub行动、API请求、代码空间、Git操作、问题相关的事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30711269</id>
-        <link href="https://news.ycombinator.com/item?id=30711269"/>
-        <updated>2022-03-17T14:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues]]></summary>
-        <author>
-            <name>naglis</name>
-            <uri>https://news.ycombinator.com/user?id=naglis</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 23:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[瓦斯默和商标]]></title>
+            <link>https://news.ycombinator.com/item?id=30758651</link>
+            <guid>https://news.ycombinator.com/item?id=30758651</guid>
+            <pubDate>Mon, 21 Mar 2022 19:32:33 GMT</pubDate>
+            <description><![CDATA[Wasmer and Trademarks]]></description>
+        </item>
         <item>
             <title><![CDATA[令人敬畏的自助服务]]></title>
             <link>https://news.ycombinator.com/item?id=30782848</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30711277</guid>
             <pubDate>Thu, 17 Mar 2022 14:05:28 GMT</pubDate>
             <description><![CDATA[Microsoft accidentally reveals that it is testing ads in Windows Explorer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[与GitHub行动、API请求、代码空间、Git操作、问题相关的事件]]></title>
-            <link>https://news.ycombinator.com/item?id=30711269</link>
-            <guid>https://news.ycombinator.com/item?id=30711269</guid>
-            <pubDate>Thu, 17 Mar 2022 14:04:03 GMT</pubDate>
-            <description><![CDATA[Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues]]></description>
         </item>
     </channel>
 </rss>
