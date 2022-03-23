@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T19:39:54.232Z</updated>
+    <updated>2022-03-23T19:53:10.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[線性錘子。PCA不是萬能藥]]></title>
+        <id>https://news.ycombinator.com/item?id=30782187</id>
+        <link href="https://news.ycombinator.com/item?id=30782187"/>
+        <updated>2022-03-23T19:17:56.000Z</updated>
+        <summary type="html"><![CDATA[Linear Hammer: PCA is not a panacea]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳大利亞聰明的鳥兒不同意這項科學實驗]]></title>
+        <id>https://news.ycombinator.com/item?id=30761050</id>
+        <link href="https://news.ycombinator.com/item?id=30761050"/>
+        <updated>2022-03-21T23:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Australia’s Clever Birds Did Not Consent to This Science Experiment]]></summary>
+        <author>
+            <name>wglb</name>
+            <uri>https://news.ycombinator.com/user?id=wglb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼收入分享協議沒有成功]]></title>
         <id>https://news.ycombinator.com/item?id=30782152</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hiena03</name>
             <uri>https://news.ycombinator.com/user?id=hiena03</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帶衣架和銀器的機上手術]]></title>
-        <id>https://news.ycombinator.com/item?id=30709193</id>
-        <link href="https://news.ycombinator.com/item?id=30709193"/>
-        <updated>2022-03-17T09:23:32.000Z</updated>
-        <summary type="html"><![CDATA[In-flight surgery with a coat-hanger and silverware]]></summary>
-        <author>
-            <name>minding</name>
-            <uri>https://news.ycombinator.com/user?id=minding</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織和擴大一個有效的數據團隊]]></title>
-        <id>https://news.ycombinator.com/item?id=30689987</id>
-        <link href="https://news.ycombinator.com/item?id=30689987"/>
-        <updated>2022-03-15T19:21:25.000Z</updated>
-        <summary type="html"><![CDATA[Organizing and scaling an effective data team]]></summary>
-        <author>
-            <name>rfdearborn</name>
-            <uri>https://news.ycombinator.com/user?id=rfdearborn</uri>
         </author>
     </entry>
 </feed>
