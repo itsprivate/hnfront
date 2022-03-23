@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 13:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 14:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Dum: 一個用Rust編寫的NPM腳本運行器]]></title>
+            <link>https://news.ycombinator.com/item?id=30778321</link>
+            <guid>https://news.ycombinator.com/item?id=30778321</guid>
+            <pubDate>Wed, 23 Mar 2022 13:39:19 GMT</pubDate>
+            <description><![CDATA[Dum: An NPM scripts runner written in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蘋果收購英國開放銀行初創公司]]></title>
+            <link>https://news.ycombinator.com/item?id=30778240</link>
+            <guid>https://news.ycombinator.com/item?id=30778240</guid>
+            <pubDate>Wed, 23 Mar 2022 13:29:00 GMT</pubDate>
+            <description><![CDATA[Apple acquires UK open banking startup]]></description>
+        </item>
         <item>
             <title><![CDATA[我們做了一個開源的個性化引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30778100</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30703508</guid>
             <pubDate>Wed, 16 Mar 2022 20:19:02 GMT</pubDate>
             <description><![CDATA[Microwave Ovens and Their Hazards]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德諾是韋比]]></title>
-            <link>https://news.ycombinator.com/item?id=30703531</link>
-            <guid>https://news.ycombinator.com/item?id=30703531</guid>
-            <pubDate>Wed, 16 Mar 2022 20:21:09 GMT</pubDate>
-            <description><![CDATA[Deno Is Webby]]></description>
-        </item>
-        <item>
-            <title><![CDATA[根據一個文件的HEREDOCs對其進行部分加密]]></title>
-            <link>https://news.ycombinator.com/item?id=30703161</link>
-            <guid>https://news.ycombinator.com/item?id=30703161</guid>
-            <pubDate>Wed, 16 Mar 2022 19:48:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Partially encrypt a file based on its HEREDOCs]]></description>
         </item>
     </channel>
 </rss>
