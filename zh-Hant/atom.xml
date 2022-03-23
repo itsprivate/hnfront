@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T07:12:54.935Z</updated>
+    <updated>2022-03-23T07:30:22.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Verilog很奇怪]]></title>
+        <id>https://news.ycombinator.com/item?id=30739866</id>
+        <link href="https://news.ycombinator.com/item?id=30739866"/>
+        <updated>2022-03-20T03:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Verilog Is Weird]]></summary>
+        <author>
+            <name>mrintellectual</name>
+            <uri>https://news.ycombinator.com/user?id=mrintellectual</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿什比（YC W19）正在招聘。構建自動化，節省招聘團隊和4小時/天的時間]]></title>
         <id>https://news.ycombinator.com/item?id=30775763</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vanilla-almond</name>
             <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反質子繞著氦離子運行]]></title>
-        <id>https://news.ycombinator.com/item?id=30700633</id>
-        <link href="https://news.ycombinator.com/item?id=30700633"/>
-        <updated>2022-03-16T16:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Antiproton Orbiting Helium Ion]]></summary>
-        <author>
-            <name>hexo</name>
-            <uri>https://news.ycombinator.com/user?id=hexo</uri>
         </author>
     </entry>
 </feed>
