@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T22:52:21.597Z</updated>
+    <updated>2022-03-23T23:13:56.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对Lapsus$数据勒索集团的更深入观察]]></title>
+        <id>https://news.ycombinator.com/item?id=30784127</id>
+        <link href="https://news.ycombinator.com/item?id=30784127"/>
+        <updated>2022-03-23T22:08:27.000Z</updated>
+        <summary type="html"><![CDATA[A Closer Look at the Lapsus$ Data Extortion Group]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么选择Pelikan]]></title>
         <id>https://news.ycombinator.com/item?id=30767953</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Mikkel-T</name>
             <uri>https://news.ycombinator.com/user?id=Mikkel-T</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用汉堡包的菜单？试试香肠链 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30697719</id>
-        <link href="https://news.ycombinator.com/item?id=30697719"/>
-        <updated>2022-03-16T12:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Using Hamburger Menus? Try Sausage Links (2019)]]></summary>
-        <author>
-            <name>bradley_taunt</name>
-            <uri>https://news.ycombinator.com/user?id=bradley_taunt</uri>
         </author>
     </entry>
 </feed>
