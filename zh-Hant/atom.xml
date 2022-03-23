@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T10:38:50.694Z</updated>
+    <updated>2022-03-23T10:52:56.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以太網從施樂帕克公司興起]]></title>
+        <id>https://news.ycombinator.com/item?id=30776803</id>
+        <link href="https://news.ycombinator.com/item?id=30776803"/>
+        <updated>2022-03-23T09:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Ethernet's Emergence from Xerox PARC]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火狐現在只能在Ubuntu上通過snap使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30776698</id>
+        <link href="https://news.ycombinator.com/item?id=30776698"/>
+        <updated>2022-03-23T09:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Firefox now only available via snap on Ubuntu]]></summary>
+        <author>
+            <name>sm4rk0</name>
+            <uri>https://news.ycombinator.com/user?id=sm4rk0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON飼料]]></title>
+        <id>https://news.ycombinator.com/item?id=30776535</id>
+        <link href="https://news.ycombinator.com/item?id=30776535"/>
+        <updated>2022-03-23T09:11:34.000Z</updated>
+        <summary type="html"><![CDATA[JSON Feed]]></summary>
+        <author>
+            <name>edent</name>
+            <uri>https://news.ycombinator.com/user?id=edent</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[謝謝你，HN]]></title>
         <id>https://news.ycombinator.com/item?id=30776808</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>eth0up</name>
             <uri>https://news.ycombinator.com/user?id=eth0up</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國版權局不接受人工智能生成的作品，要求 "人類作者"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30702117</id>
-        <link href="https://news.ycombinator.com/item?id=30702117"/>
-        <updated>2022-03-16T18:13:27.000Z</updated>
-        <summary type="html"><![CDATA[US Copyright Office won't accept AI-generated work, requires “human authorship”]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新星9號]]></title>
-        <id>https://news.ycombinator.com/item?id=30701613</id>
-        <link href="https://news.ycombinator.com/item?id=30701613"/>
-        <updated>2022-03-16T17:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Nova 9]]></summary>
-        <author>
-            <name>EduardoBautista</name>
-            <uri>https://news.ycombinator.com/user?id=EduardoBautista</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何確定手工製品的價格]]></title>
-        <id>https://news.ycombinator.com/item?id=30701495</id>
-        <link href="https://news.ycombinator.com/item?id=30701495"/>
-        <updated>2022-03-16T17:19:02.000Z</updated>
-        <summary type="html"><![CDATA[How to Set Prices for Handmade Goods]]></summary>
-        <author>
-            <name>WallyFunk</name>
-            <uri>https://news.ycombinator.com/user?id=WallyFunk</uri>
         </author>
     </entry>
 </feed>
