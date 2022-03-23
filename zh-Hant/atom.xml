@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T23:13:56.755Z</updated>
+    <updated>2022-03-23T23:32:35.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[令人敬畏的自助服務]]></title>
+        <id>https://news.ycombinator.com/item?id=30782848</id>
+        <link href="https://news.ycombinator.com/item?id=30782848"/>
+        <updated>2022-03-23T20:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Awesome Self-Hosted]]></summary>
+        <author>
+            <name>jaboutboul</name>
+            <uri>https://news.ycombinator.com/user?id=jaboutboul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對Lapsus$數據勒索集團的更深入觀察]]></title>
         <id>https://news.ycombinator.com/item?id=30784127</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>naglis</name>
             <uri>https://news.ycombinator.com/user?id=naglis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德諾1.20]]></title>
-        <id>https://news.ycombinator.com/item?id=30711245</id>
-        <link href="https://news.ycombinator.com/item?id=30711245"/>
-        <updated>2022-03-17T14:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Deno 1.20]]></summary>
-        <author>
-            <name>Mikkel-T</name>
-            <uri>https://news.ycombinator.com/user?id=Mikkel-T</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 23:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[令人敬畏的自助服務]]></title>
+            <link>https://news.ycombinator.com/item?id=30782848</link>
+            <guid>https://news.ycombinator.com/item?id=30782848</guid>
+            <pubDate>Wed, 23 Mar 2022 20:22:09 GMT</pubDate>
+            <description><![CDATA[Awesome Self-Hosted]]></description>
+        </item>
         <item>
             <title><![CDATA[對Lapsus$數據勒索集團的更深入觀察]]></title>
             <link>https://news.ycombinator.com/item?id=30784127</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30711269</guid>
             <pubDate>Thu, 17 Mar 2022 14:04:03 GMT</pubDate>
             <description><![CDATA[Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德諾1.20]]></title>
-            <link>https://news.ycombinator.com/item?id=30711245</link>
-            <guid>https://news.ycombinator.com/item?id=30711245</guid>
-            <pubDate>Thu, 17 Mar 2022 14:00:49 GMT</pubDate>
-            <description><![CDATA[Deno 1.20]]></description>
         </item>
     </channel>
 </rss>
