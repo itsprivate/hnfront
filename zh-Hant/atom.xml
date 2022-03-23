@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T09:42:28.867Z</updated>
+    <updated>2022-03-23T10:16:11.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安妮-弗蘭克的背叛之書在調查結果被否定後被撤回]]></title>
+        <id>https://news.ycombinator.com/item?id=30776658</id>
+        <link href="https://news.ycombinator.com/item?id=30776658"/>
+        <updated>2022-03-23T09:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Anne Frank betrayal book pulled after findings discredited]]></summary>
+        <author>
+            <name>mellosouls</name>
+            <uri>https://news.ycombinator.com/user?id=mellosouls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[結構化（同步）併發]]></title>
         <id>https://news.ycombinator.com/item?id=30754854</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cakeplease</name>
             <uri>https://news.ycombinator.com/user?id=cakeplease</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlyZero公佈最終的氫動力客機概念圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30701144</id>
-        <link href="https://news.ycombinator.com/item?id=30701144"/>
-        <updated>2022-03-16T16:49:18.000Z</updated>
-        <summary type="html"><![CDATA[FlyZero Unveils Final Hydrogen-Powered Airliner Concepts]]></summary>
-        <author>
-            <name>hindsightbias</name>
-            <uri>https://news.ycombinator.com/user?id=hindsightbias</uri>
         </author>
     </entry>
 </feed>
