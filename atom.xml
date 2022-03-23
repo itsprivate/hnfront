@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T08:38:24.961Z</updated>
+    <updated>2022-03-23T09:32:25.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[F-Droid是无法到达的]]></title>
+        <id>https://news.ycombinator.com/item?id=30776442</id>
+        <link href="https://news.ycombinator.com/item?id=30776442"/>
+        <updated>2022-03-23T08:57:39.000Z</updated>
+        <summary type="html"><![CDATA[F-Droid Is Unreachable]]></summary>
+        <author>
+            <name>i13e</name>
+            <uri>https://news.ycombinator.com/user?id=i13e</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家可能已经解决了霍金的黑洞悖论]]></title>
         <id>https://news.ycombinator.com/item?id=30755430</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gk1</name>
             <uri>https://news.ycombinator.com/user?id=gk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实践PostgreSQL授权 - 第二部分 - 行级安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30700899</id>
-        <link href="https://news.ycombinator.com/item?id=30700899"/>
-        <updated>2022-03-16T16:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Hands-On with PostgreSQL Authorization – Part 2 – Row-Level Security]]></summary>
-        <author>
-            <name>grschafer</name>
-            <uri>https://news.ycombinator.com/user?id=grschafer</uri>
         </author>
     </entry>
 </feed>
