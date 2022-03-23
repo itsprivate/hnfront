@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 21:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[还有人突然变成了 "预备者 "吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30783241</link>
+            <guid>https://news.ycombinator.com/item?id=30783241</guid>
+            <pubDate>Wed, 23 Mar 2022 20:56:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anyone else suddenly become a 'prepper'?]]></description>
+        </item>
         <item>
             <title><![CDATA[互惠作为一种商业模式]]></title>
             <link>https://news.ycombinator.com/item?id=30760720</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30710574</guid>
             <pubDate>Thu, 17 Mar 2022 12:50:30 GMT</pubDate>
             <description><![CDATA[H.264 is magic: a technical walkthrough]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华为的硬件Raid控制器失效的Ceph]]></title>
-            <link>https://news.ycombinator.com/item?id=30710538</link>
-            <guid>https://news.ycombinator.com/item?id=30710538</guid>
-            <pubDate>Thu, 17 Mar 2022 12:46:51 GMT</pubDate>
-            <description><![CDATA[Ceph with a failed hardware raid controller on Huawei]]></description>
         </item>
     </channel>
 </rss>
