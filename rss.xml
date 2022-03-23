@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 21:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 21:52:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[互惠作为一种商业模式]]></title>
+            <link>https://news.ycombinator.com/item?id=30760720</link>
+            <guid>https://news.ycombinator.com/item?id=30760720</guid>
+            <pubDate>Mon, 21 Mar 2022 22:43:00 GMT</pubDate>
+            <description><![CDATA[Reciprocity as a Business Model]]></description>
+        </item>
         <item>
             <title><![CDATA[Scooping the Loop Snooper: proof of the undecidability of the halting problem [pdf]]]></title>
             <link>https://news.ycombinator.com/item?id=30783422</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30710538</guid>
             <pubDate>Thu, 17 Mar 2022 12:46:51 GMT</pubDate>
             <description><![CDATA[Ceph with a failed hardware raid controller on Huawei]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MaskerAid的iOS应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30710501</link>
-            <guid>https://news.ycombinator.com/item?id=30710501</guid>
-            <pubDate>Thu, 17 Mar 2022 12:42:41 GMT</pubDate>
-            <description><![CDATA[MaskerAid iOS App]]></description>
         </item>
     </channel>
 </rss>
