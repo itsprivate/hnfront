@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T22:34:02.498Z</updated>
+    <updated>2022-03-23T22:52:21.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼選擇Pelikan]]></title>
+        <id>https://news.ycombinator.com/item?id=30767953</id>
+        <link href="https://news.ycombinator.com/item?id=30767953"/>
+        <updated>2022-03-22T16:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Why Pelikan]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學的美和奇蹟促進了研究人員的幸福感]]></title>
         <id>https://news.ycombinator.com/item?id=30784146</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bradley_taunt</name>
             <uri>https://news.ycombinator.com/user?id=bradley_taunt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Traceroute測量地球 (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=30696499</id>
-        <link href="https://news.ycombinator.com/item?id=30696499"/>
-        <updated>2022-03-16T08:25:25.000Z</updated>
-        <summary type="html"><![CDATA[Measuring the Earth with Traceroute (2002)]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
