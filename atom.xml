@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T07:30:22.191Z</updated>
+    <updated>2022-03-23T07:51:23.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[出厂重置后删除谷歌账户]]></title>
+        <id>https://news.ycombinator.com/item?id=30775579</id>
+        <link href="https://news.ycombinator.com/item?id=30775579"/>
+        <updated>2022-03-23T06:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Remove Google Account After Factory Reset]]></summary>
+        <author>
+            <name>sebmellen</name>
+            <uri>https://news.ycombinator.com/user?id=sebmellen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verilog很奇怪]]></title>
         <id>https://news.ycombinator.com/item?id=30739866</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aisrael</name>
             <uri>https://news.ycombinator.com/user?id=aisrael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：亚马逊的图书搜索是有漏洞的，关键词充斥，而且不准确]]></title>
-        <id>https://news.ycombinator.com/item?id=30700700</id>
-        <link href="https://news.ycombinator.com/item?id=30700700"/>
-        <updated>2022-03-16T16:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Amazon's book search is gamed, keyword-stuffed, and inaccurate]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[出廠重置後刪除谷歌賬戶]]></title>
+            <link>https://news.ycombinator.com/item?id=30775579</link>
+            <guid>https://news.ycombinator.com/item?id=30775579</guid>
+            <pubDate>Wed, 23 Mar 2022 06:26:10 GMT</pubDate>
+            <description><![CDATA[Remove Google Account After Factory Reset]]></description>
+        </item>
         <item>
             <title><![CDATA[Verilog很奇怪]]></title>
             <link>https://news.ycombinator.com/item?id=30739866</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30700770</guid>
             <pubDate>Wed, 16 Mar 2022 16:21:37 GMT</pubDate>
             <description><![CDATA[Launch HN: PropelAuth (YC W22) – End-to-end auth service for B2B products]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：亞馬遜的圖書搜索是有漏洞的，關鍵詞充斥，而且不準確]]></title>
-            <link>https://news.ycombinator.com/item?id=30700700</link>
-            <guid>https://news.ycombinator.com/item?id=30700700</guid>
-            <pubDate>Wed, 16 Mar 2022 16:16:45 GMT</pubDate>
-            <description><![CDATA[Tell HN: Amazon's book search is gamed, keyword-stuffed, and inaccurate]]></description>
         </item>
     </channel>
 </rss>
