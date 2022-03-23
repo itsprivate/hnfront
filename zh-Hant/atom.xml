@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T07:51:23.131Z</updated>
+    <updated>2022-03-23T08:38:25.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科學家可能已經解決了霍金的黑洞悖論]]></title>
+        <id>https://news.ycombinator.com/item?id=30755430</id>
+        <link href="https://news.ycombinator.com/item?id=30755430"/>
+        <updated>2022-03-21T15:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Scientists may have solved Stephen Hawking's black hole paradox]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[出廠重置後刪除谷歌賬戶]]></title>
         <id>https://news.ycombinator.com/item?id=30775579</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>grschafer</name>
             <uri>https://news.ycombinator.com/user?id=grschafer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啟動HN：PropelAuth (YC W22) - B2B產品的端到端認證服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30700770</id>
-        <link href="https://news.ycombinator.com/item?id=30700770"/>
-        <updated>2022-03-16T16:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: PropelAuth (YC W22) – End-to-end auth service for B2B products]]></summary>
-        <author>
-            <name>aisrael</name>
-            <uri>https://news.ycombinator.com/user?id=aisrael</uri>
         </author>
     </entry>
 </feed>

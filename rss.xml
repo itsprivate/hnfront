@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[科学家可能已经解决了霍金的黑洞悖论]]></title>
+            <link>https://news.ycombinator.com/item?id=30755430</link>
+            <guid>https://news.ycombinator.com/item?id=30755430</guid>
+            <pubDate>Mon, 21 Mar 2022 15:48:34 GMT</pubDate>
+            <description><![CDATA[Scientists may have solved Stephen Hawking's black hole paradox]]></description>
+        </item>
         <item>
             <title><![CDATA[出厂重置后删除谷歌账户]]></title>
             <link>https://news.ycombinator.com/item?id=30775579</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30700899</guid>
             <pubDate>Wed, 16 Mar 2022 16:32:04 GMT</pubDate>
             <description><![CDATA[Hands-On with PostgreSQL Authorization – Part 2 – Row-Level Security]]></description>
-        </item>
-        <item>
-            <title><![CDATA[启动HN：PropelAuth (YC W22) - B2B产品的端到端认证服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30700770</link>
-            <guid>https://news.ycombinator.com/item?id=30700770</guid>
-            <pubDate>Wed, 16 Mar 2022 16:21:37 GMT</pubDate>
-            <description><![CDATA[Launch HN: PropelAuth (YC W22) – End-to-end auth service for B2B products]]></description>
         </item>
     </channel>
 </rss>
