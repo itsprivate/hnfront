@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T04:40:38.104Z</updated>
+    <updated>2022-03-23T05:30:32.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Okta对2022年1月妥协事件的调查]]></title>
+        <id>https://news.ycombinator.com/item?id=30775180</id>
+        <link href="https://news.ycombinator.com/item?id=30775180"/>
+        <updated>2022-03-23T05:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Okta’s Investigation of the January 2022 Compromise]]></summary>
+        <author>
+            <name>photon12</name>
+            <uri>https://news.ycombinator.com/user?id=photon12</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herbie - 优化浮点表达式的准确性]]></title>
+        <id>https://news.ycombinator.com/item?id=30740880</id>
+        <link href="https://news.ycombinator.com/item?id=30740880"/>
+        <updated>2022-03-20T07:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Herbie – optimize floating-point expressions for accuracy]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[长时间工作的反面教材]]></title>
         <id>https://news.ycombinator.com/item?id=30754189</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tut-urut-utut</name>
             <uri>https://news.ycombinator.com/user?id=tut-urut-utut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNMP已死（2018）[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30699227</id>
-        <link href="https://news.ycombinator.com/item?id=30699227"/>
-        <updated>2022-03-16T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[SNMP Is Dead (2018) [video]]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相对论的光之帆需要起舞]]></title>
-        <id>https://news.ycombinator.com/item?id=30697787</id>
-        <link href="https://news.ycombinator.com/item?id=30697787"/>
-        <updated>2022-03-16T12:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Relativistic Light Sails Need to Billow]]></summary>
-        <author>
-            <name>mono-bob</name>
-            <uri>https://news.ycombinator.com/user?id=mono-bob</uri>
         </author>
     </entry>
 </feed>
