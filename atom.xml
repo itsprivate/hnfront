@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T05:30:32.343Z</updated>
+    <updated>2022-03-23T06:15:29.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由于我对Emacs的贡献，我获得了FSF颁发的奖项]]></title>
+        <id>https://news.ycombinator.com/item?id=30774724</id>
+        <link href="https://news.ycombinator.com/item?id=30774724"/>
+        <updated>2022-03-23T03:50:53.000Z</updated>
+        <summary type="html"><![CDATA[I won an award from the FSF for my contributions to Emacs]]></summary>
+        <author>
+            <name>codingquark</name>
+            <uri>https://news.ycombinator.com/user?id=codingquark</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Okta对2022年1月妥协事件的调查]]></title>
         <id>https://news.ycombinator.com/item?id=30775180</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter在所有不重要的方面都比React Native好]]></title>
-        <id>https://news.ycombinator.com/item?id=30699664</id>
-        <link href="https://news.ycombinator.com/item?id=30699664"/>
-        <updated>2022-03-16T15:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is better than React Native in all the ways that don’t matter]]></summary>
-        <author>
-            <name>tut-urut-utut</name>
-            <uri>https://news.ycombinator.com/user?id=tut-urut-utut</uri>
         </author>
     </entry>
 </feed>
