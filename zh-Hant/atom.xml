@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T20:35:18.599Z</updated>
+    <updated>2022-03-23T20:42:10.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[實施玩具版的TLS 1.3]]></title>
+        <id>https://news.ycombinator.com/item?id=30782701</id>
+        <link href="https://news.ycombinator.com/item?id=30782701"/>
+        <updated>2022-03-23T20:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a toy version of TLS 1.3]]></summary>
+        <author>
+            <name>jfarmer</name>
+            <uri>https://news.ycombinator.com/user?id=jfarmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotify和谷歌宣佈用戶選擇計費]]></title>
         <id>https://news.ycombinator.com/item?id=30782735</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator正在為創業學校招聘一名產品工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30710172</id>
-        <link href="https://news.ycombinator.com/item?id=30710172"/>
-        <updated>2022-03-17T12:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Y Combinator is hiring a product engineer for Startup School]]></summary>
-        <author>
-            <name>ryankicks</name>
-            <uri>https://news.ycombinator.com/user?id=ryankicks</uri>
         </author>
     </entry>
 </feed>
