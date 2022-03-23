@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-23T06:15:29.987Z</updated>
+    <updated>2022-03-23T06:39:10.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯維奇內核中百萬分之一的錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30775433</id>
+        <link href="https://news.ycombinator.com/item?id=30775433"/>
+        <updated>2022-03-23T05:57:03.000Z</updated>
+        <summary type="html"><![CDATA[A one in a million bug in Switch kernel]]></summary>
+        <author>
+            <name>vedanshbhartia</name>
+            <uri>https://news.ycombinator.com/user?id=vedanshbhartia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯維奇內核中百萬分之一的錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30775135</id>
+        <link href="https://news.ycombinator.com/item?id=30775135"/>
+        <updated>2022-03-23T05:01:40.000Z</updated>
+        <summary type="html"><![CDATA[A one in a million bug in Switch kernel]]></summary>
+        <author>
+            <name>farmerbb</name>
+            <uri>https://news.ycombinator.com/user?id=farmerbb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過遞歸後裔解析表達式(1999)]]></title>
+        <id>https://news.ycombinator.com/item?id=30756822</id>
+        <link href="https://news.ycombinator.com/item?id=30756822"/>
+        <updated>2022-03-21T17:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Parsing Expressions by Recursive Descent (1999)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由於我對Emacs的貢獻，我獲得了FSF頒發的獎項]]></title>
         <id>https://news.ycombinator.com/item?id=30774724</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熵的遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30696095</id>
-        <link href="https://news.ycombinator.com/item?id=30696095"/>
-        <updated>2022-03-16T07:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Entropy Games]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[libmill - C語言中的Go式併發性]]></title>
-        <id>https://news.ycombinator.com/item?id=30699829</id>
-        <link href="https://news.ycombinator.com/item?id=30699829"/>
-        <updated>2022-03-16T15:16:10.000Z</updated>
-        <summary type="html"><![CDATA[libmill - Go-style concurrency in C]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯坦尼斯瓦夫-萊姆的美麗心境 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30699766</id>
-        <link href="https://news.ycombinator.com/item?id=30699766"/>
-        <updated>2022-03-16T15:12:07.000Z</updated>
-        <summary type="html"><![CDATA[The Beautiful Mind-Bending of Stanislaw Lem (2019)]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>

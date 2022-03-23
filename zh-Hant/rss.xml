@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 06:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[斯維奇內核中百萬分之一的錯誤]]></title>
+            <link>https://news.ycombinator.com/item?id=30775433</link>
+            <guid>https://news.ycombinator.com/item?id=30775433</guid>
+            <pubDate>Wed, 23 Mar 2022 05:57:03 GMT</pubDate>
+            <description><![CDATA[A one in a million bug in Switch kernel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[斯維奇內核中百萬分之一的錯誤]]></title>
+            <link>https://news.ycombinator.com/item?id=30775135</link>
+            <guid>https://news.ycombinator.com/item?id=30775135</guid>
+            <pubDate>Wed, 23 Mar 2022 05:01:40 GMT</pubDate>
+            <description><![CDATA[A one in a million bug in Switch kernel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通過遞歸後裔解析表達式(1999)]]></title>
+            <link>https://news.ycombinator.com/item?id=30756822</link>
+            <guid>https://news.ycombinator.com/item?id=30756822</guid>
+            <pubDate>Mon, 21 Mar 2022 17:14:37 GMT</pubDate>
+            <description><![CDATA[Parsing Expressions by Recursive Descent (1999)]]></description>
+        </item>
         <item>
             <title><![CDATA[由於我對Emacs的貢獻，我獲得了FSF頒發的獎項]]></title>
             <link>https://news.ycombinator.com/item?id=30774724</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30699695</guid>
             <pubDate>Wed, 16 Mar 2022 15:05:41 GMT</pubDate>
             <description><![CDATA[The Law of Requisite Variety (2001)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[熵的遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30696095</link>
-            <guid>https://news.ycombinator.com/item?id=30696095</guid>
-            <pubDate>Wed, 16 Mar 2022 07:10:30 GMT</pubDate>
-            <description><![CDATA[Entropy Games]]></description>
-        </item>
-        <item>
-            <title><![CDATA[libmill - C語言中的Go式併發性]]></title>
-            <link>https://news.ycombinator.com/item?id=30699829</link>
-            <guid>https://news.ycombinator.com/item?id=30699829</guid>
-            <pubDate>Wed, 16 Mar 2022 15:16:10 GMT</pubDate>
-            <description><![CDATA[libmill - Go-style concurrency in C]]></description>
-        </item>
-        <item>
-            <title><![CDATA[斯坦尼斯瓦夫-萊姆的美麗心境 (2019)]]></title>
-            <link>https://news.ycombinator.com/item?id=30699766</link>
-            <guid>https://news.ycombinator.com/item?id=30699766</guid>
-            <pubDate>Wed, 16 Mar 2022 15:12:07 GMT</pubDate>
-            <description><![CDATA[The Beautiful Mind-Bending of Stanislaw Lem (2019)]]></description>
         </item>
     </channel>
 </rss>
