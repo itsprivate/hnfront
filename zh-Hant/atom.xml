@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T04:58:35.832Z</updated>
+    <updated>2022-03-24T05:12:21.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vuescan - 對6500型廢棄掃描儀的軟件支持]]></title>
+        <id>https://news.ycombinator.com/item?id=30760850</id>
+        <link href="https://news.ycombinator.com/item?id=30760850"/>
+        <updated>2022-03-21T22:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Vuescan – Software support for 6500 abandoned scanners]]></summary>
+        <author>
+            <name>unixhero</name>
+            <uri>https://news.ycombinator.com/user?id=unixhero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我已經辭去了我的工作]]></title>
         <id>https://news.ycombinator.com/item?id=30786179</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>beezle</name>
             <uri>https://news.ycombinator.com/user?id=beezle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BPG圖像格式]]></title>
-        <id>https://news.ycombinator.com/item?id=30712944</id>
-        <link href="https://news.ycombinator.com/item?id=30712944"/>
-        <updated>2022-03-17T16:27:23.000Z</updated>
-        <summary type="html"><![CDATA[BPG Image Format]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
