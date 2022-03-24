@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T18:40:12.924Z</updated>
+    <updated>2022-03-24T19:11:37.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无临时变量的两个数字互换]]></title>
+        <id>https://news.ycombinator.com/item?id=30793366</id>
+        <link href="https://news.ycombinator.com/item?id=30793366"/>
+        <updated>2022-03-24T18:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Swapping two Numbers without Temporary Variables]]></summary>
+        <author>
+            <name>davesailer</name>
+            <uri>https://news.ycombinator.com/user?id=davesailer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[循证医学的幻觉]]></title>
+        <id>https://news.ycombinator.com/item?id=30793352</id>
+        <link href="https://news.ycombinator.com/item?id=30793352"/>
+        <updated>2022-03-24T17:59:44.000Z</updated>
+        <summary type="html"><![CDATA[The illusion of evidence based medicine]]></summary>
+        <author>
+            <name>pueblito</name>
+            <uri>https://news.ycombinator.com/user?id=pueblito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在相机上使用富士胶片的SDK会导致其保修失效]]></title>
         <id>https://news.ycombinator.com/item?id=30792661</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>weinzierl</name>
             <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Hugo、Docker和一点Python在2022年从头开始建立一个博客]]></title>
-        <id>https://news.ycombinator.com/item?id=30718757</id>
-        <link href="https://news.ycombinator.com/item?id=30718757"/>
-        <updated>2022-03-18T04:31:53.000Z</updated>
-        <summary type="html"><![CDATA[Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python]]></summary>
-        <author>
-            <name>shoobs</name>
-            <uri>https://news.ycombinator.com/user?id=shoobs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用OpenAI的代码-达芬奇模型通过自然语言构建游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30717773</id>
-        <link href="https://news.ycombinator.com/item?id=30717773"/>
-        <updated>2022-03-18T01:33:05.000Z</updated>
-        <summary type="html"><![CDATA[Building games through natural language using OpenAI’s code-DaVinci model]]></summary>
-        <author>
-            <name>dahjelle</name>
-            <uri>https://news.ycombinator.com/user?id=dahjelle</uri>
         </author>
     </entry>
 </feed>
