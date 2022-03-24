@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T14:34:16.345Z</updated>
+    <updated>2022-03-24T14:41:07.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有權勢的人感受、表達的感激之情較少]]></title>
+        <id>https://news.ycombinator.com/item?id=30790160</id>
+        <link href="https://news.ycombinator.com/item?id=30790160"/>
+        <updated>2022-03-24T14:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Powerful people feel, express less gratitude]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[按鈕式有限自動機]]></title>
+        <id>https://news.ycombinator.com/item?id=30775365</id>
+        <link href="https://news.ycombinator.com/item?id=30775365"/>
+        <updated>2022-03-23T05:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Button Finite Automata]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[繼AKHQ（KafkaHQ）之後，我製作了Kestra開源的Airflow替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30790047</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python終於卸下了一些電池]]></title>
-        <id>https://news.ycombinator.com/item?id=30716844</id>
-        <link href="https://news.ycombinator.com/item?id=30716844"/>
-        <updated>2022-03-17T23:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Python finally offloads some batteries]]></summary>
-        <author>
-            <name>jwilk</name>
-            <uri>https://news.ycombinator.com/user?id=jwilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學而思的接班劇]]></title>
-        <id>https://news.ycombinator.com/item?id=30696217</id>
-        <link href="https://news.ycombinator.com/item?id=30696217"/>
-        <updated>2022-03-16T07:34:04.000Z</updated>
-        <summary type="html"><![CDATA[The Succession Drama at Scholastic]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
