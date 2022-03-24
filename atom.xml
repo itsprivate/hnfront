@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T03:03:55.025Z</updated>
+    <updated>2022-03-24T03:24:05.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton vs. M1 vs. M1 Pro Node.js基准测试]]></title>
+        <id>https://news.ycombinator.com/item?id=30785646</id>
+        <link href="https://news.ycombinator.com/item?id=30785646"/>
+        <updated>2022-03-24T01:49:25.000Z</updated>
+        <summary type="html"><![CDATA[AWS Graviton vs. M1 vs. M1 Pro Node.js Benchmarks]]></summary>
+        <author>
+            <name>nreece</name>
+            <uri>https://news.ycombinator.com/user?id=nreece</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paul E Marik等人在一项维生素C试验中捏造数据的证据。]]></title>
         <id>https://news.ycombinator.com/item?id=30785370</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rdpintqogeogsaa</name>
             <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[永远的Flickr。创建最安全、最包容的摄影社区]]></title>
-        <id>https://news.ycombinator.com/item?id=30712130</id>
-        <link href="https://news.ycombinator.com/item?id=30712130"/>
-        <updated>2022-03-17T15:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Flickr forever: Creating the safest, most inclusive photography community]]></summary>
-        <author>
-            <name>jscheel</name>
-            <uri>https://news.ycombinator.com/user?id=jscheel</uri>
         </author>
     </entry>
 </feed>
