@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们是如何分析并修复Golang的内存泄漏的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30785057</link>
+            <guid>https://news.ycombinator.com/item?id=30785057</guid>
+            <pubDate>Wed, 23 Mar 2022 23:54:42 GMT</pubDate>
+            <description><![CDATA[How we analyzed and fixed a Golang memory leak]]></description>
+        </item>
+        <item>
+            <title><![CDATA[但生活有其他计划]]></title>
+            <link>https://news.ycombinator.com/item?id=30784939</link>
+            <guid>https://news.ycombinator.com/item?id=30784939</guid>
+            <pubDate>Wed, 23 Mar 2022 23:36:00 GMT</pubDate>
+            <description><![CDATA[But life had other plans]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我不需要VPS了]]></title>
+            <link>https://news.ycombinator.com/item?id=30771664</link>
+            <guid>https://news.ycombinator.com/item?id=30771664</guid>
+            <pubDate>Tue, 22 Mar 2022 21:14:51 GMT</pubDate>
+            <description><![CDATA[I don't need a VPS anymore]]></description>
+        </item>
+        <item>
+            <title><![CDATA[和睦相处。一个Clojure库，旨在为泛音提供一个附加的合成器]]></title>
+            <link>https://news.ycombinator.com/item?id=30759233</link>
+            <guid>https://news.ycombinator.com/item?id=30759233</guid>
+            <pubDate>Mon, 21 Mar 2022 20:23:47 GMT</pubDate>
+            <description><![CDATA[Harmonikit: A Clojure library designed to provide an additive synth for overtone]]></description>
+        </item>
         <item>
             <title><![CDATA[瓦斯默和商标]]></title>
             <link>https://news.ycombinator.com/item?id=30758651</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30712215</guid>
             <pubDate>Thu, 17 Mar 2022 15:30:35 GMT</pubDate>
             <description><![CDATA[Court finds calling stuff open source when it's not is false advertising]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的Git提交/推送流程是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30712175</link>
-            <guid>https://news.ycombinator.com/item?id=30712175</guid>
-            <pubDate>Thu, 17 Mar 2022 15:27:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is your Git commit/push flow?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[半导体不仅仅是处理器和GPU。更多]]></title>
-            <link>https://news.ycombinator.com/item?id=30711621</link>
-            <guid>https://news.ycombinator.com/item?id=30711621</guid>
-            <pubDate>Thu, 17 Mar 2022 14:33:35 GMT</pubDate>
-            <description><![CDATA[Semiconductors Are More Than Just Processors and GPUs. A Lot More]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊完成了对米高梅的85亿美元收购]]></title>
-            <link>https://news.ycombinator.com/item?id=30711508</link>
-            <guid>https://news.ycombinator.com/item?id=30711508</guid>
-            <pubDate>Thu, 17 Mar 2022 14:23:54 GMT</pubDate>
-            <description><![CDATA[Amazon completes its $8.5 billion acquisition of MGM]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微软意外透露正在测试Windows Explorer中的广告]]></title>
-            <link>https://news.ycombinator.com/item?id=30711277</link>
-            <guid>https://news.ycombinator.com/item?id=30711277</guid>
-            <pubDate>Thu, 17 Mar 2022 14:05:28 GMT</pubDate>
-            <description><![CDATA[Microsoft accidentally reveals that it is testing ads in Windows Explorer]]></description>
         </item>
     </channel>
 </rss>
