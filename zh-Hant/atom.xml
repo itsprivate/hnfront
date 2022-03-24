@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T22:34:34.586Z</updated>
+    <updated>2022-03-24T22:43:31.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Postgres.js - 用於Node和Deno的最快速的全功能PostgreSQL客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30794332</id>
+        <link href="https://news.ycombinator.com/item?id=30794332"/>
+        <updated>2022-03-24T19:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno]]></summary>
+        <author>
+            <name>porsager</name>
+            <uri>https://news.ycombinator.com/user?id=porsager</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何為你的渲染器添加數以千計的燈光，並在此過程中不至於死亡]]></title>
         <id>https://news.ycombinator.com/item?id=30795858</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lma21</name>
             <uri>https://news.ycombinator.com/user?id=lma21</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在寫一個學習編程的MMORPG遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30720259</id>
-        <link href="https://news.ycombinator.com/item?id=30720259"/>
-        <updated>2022-03-18T09:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I'm writing an MMORPG game for learning programming]]></summary>
-        <author>
-            <name>blindpirate</name>
-            <uri>https://news.ycombinator.com/user?id=blindpirate</uri>
         </author>
     </entry>
 </feed>
