@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T05:12:21.702Z</updated>
+    <updated>2022-03-24T05:51:41.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冷酷乐队风格的鲍多特代码发生器]]></title>
+        <id>https://news.ycombinator.com/item?id=30786547</id>
+        <link href="https://news.ycombinator.com/item?id=30786547"/>
+        <updated>2022-03-24T05:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Baudot Code Generator in the Style of Coldplay]]></summary>
+        <author>
+            <name>Bondi_Blue</name>
+            <uri>https://news.ycombinator.com/user?id=Bondi_Blue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vuescan - 对6500型废弃扫描仪的软件支持]]></title>
         <id>https://news.ycombinator.com/item?id=30760850</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>loyalneighbor</name>
             <uri>https://news.ycombinator.com/user?id=loyalneighbor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雅虎无视RFC 5321重试]]></title>
-        <id>https://news.ycombinator.com/item?id=30713068</id>
-        <link href="https://news.ycombinator.com/item?id=30713068"/>
-        <updated>2022-03-17T16:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Yahoo disregarding RFC 5321 retries]]></summary>
-        <author>
-            <name>beezle</name>
-            <uri>https://news.ycombinator.com/user?id=beezle</uri>
         </author>
     </entry>
 </feed>
