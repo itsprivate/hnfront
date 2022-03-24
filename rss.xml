@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Mar 2022 23:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 23:51:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用降落伞来防止死亡：随机对照试验]]></title>
+            <link>https://news.ycombinator.com/item?id=30795522</link>
+            <guid>https://news.ycombinator.com/item?id=30795522</guid>
+            <pubDate>Thu, 24 Mar 2022 21:25:16 GMT</pubDate>
+            <description><![CDATA[Parachute use to prevent death: randomized controlled trial]]></description>
+        </item>
         <item>
             <title><![CDATA[享受我的火焰 关于重金属对罗马帝王的迷恋]]></title>
             <link>https://news.ycombinator.com/item?id=30780221</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30720219</guid>
             <pubDate>Fri, 18 Mar 2022 09:49:52 GMT</pubDate>
             <description><![CDATA[Why I love Formula 1 (and why you might like it too)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[启动HN：Theneo (YC W22) - 生成Stripe风格的API文档]]></title>
-            <link>https://news.ycombinator.com/item?id=30720623</link>
-            <guid>https://news.ycombinator.com/item?id=30720623</guid>
-            <pubDate>Fri, 18 Mar 2022 10:59:51 GMT</pubDate>
-            <description><![CDATA[Launch HN: Theneo (YC W22) – Generate Stripe-Style API Docs]]></description>
         </item>
     </channel>
 </rss>

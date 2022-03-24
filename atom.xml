@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T23:33:55.338Z</updated>
+    <updated>2022-03-24T23:51:50.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用降落伞来防止死亡：随机对照试验]]></title>
+        <id>https://news.ycombinator.com/item?id=30795522</id>
+        <link href="https://news.ycombinator.com/item?id=30795522"/>
+        <updated>2022-03-24T21:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Parachute use to prevent death: randomized controlled trial]]></summary>
+        <author>
+            <name>compiler-guy</name>
+            <uri>https://news.ycombinator.com/user?id=compiler-guy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[享受我的火焰 关于重金属对罗马帝王的迷恋]]></title>
         <id>https://news.ycombinator.com/item?id=30780221</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jroovers</name>
             <uri>https://news.ycombinator.com/user?id=jroovers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Theneo (YC W22) - 生成Stripe风格的API文档]]></title>
-        <id>https://news.ycombinator.com/item?id=30720623</id>
-        <link href="https://news.ycombinator.com/item?id=30720623"/>
-        <updated>2022-03-18T10:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Theneo (YC W22) – Generate Stripe-Style API Docs]]></summary>
-        <author>
-            <name>arobakid</name>
-            <uri>https://news.ycombinator.com/user?id=arobakid</uri>
         </author>
     </entry>
 </feed>
