@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T11:52:18.256Z</updated>
+    <updated>2022-03-24T12:19:08.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黃蜂（YC W21）正在招聘一名開發人員]]></title>
+        <id>https://news.ycombinator.com/item?id=30788655</id>
+        <link href="https://news.ycombinator.com/item?id=30788655"/>
+        <updated>2022-03-24T12:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Wasp (YC W21) Is Hiring a DevRel]]></summary>
+        <author>
+            <name>matijash</name>
+            <uri>https://news.ycombinator.com/user?id=matijash</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去年美國近75%的縣因死亡人數超過出生人數而失去人口]]></title>
+        <id>https://news.ycombinator.com/item?id=30788320</id>
+        <link href="https://news.ycombinator.com/item?id=30788320"/>
+        <updated>2022-03-24T11:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 75% of US counties lost population last year as deaths outnumbered births]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub推出新的算法飼料後，投訴增多]]></title>
         <id>https://news.ycombinator.com/item?id=30788364</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Q26124</name>
             <uri>https://news.ycombinator.com/user?id=Q26124</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每個火狐瀏覽器的下載都有一個獨特的標識符]]></title>
-        <id>https://news.ycombinator.com/item?id=30715163</id>
-        <link href="https://news.ycombinator.com/item?id=30715163"/>
-        <updated>2022-03-17T19:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Each Firefox download has a unique identifier]]></summary>
-        <author>
-            <name>gslin</name>
-            <uri>https://news.ycombinator.com/user?id=gslin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瀏覽器中的瀏覽器（BITB）攻擊]]></title>
-        <id>https://news.ycombinator.com/item?id=30697329</id>
-        <link href="https://news.ycombinator.com/item?id=30697329"/>
-        <updated>2022-03-16T10:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Browser in the Browser (BITB) Attack]]></summary>
-        <author>
-            <name>jcynix</name>
-            <uri>https://news.ycombinator.com/user?id=jcynix</uri>
         </author>
     </entry>
 </feed>

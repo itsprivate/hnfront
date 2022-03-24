@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Mar 2022 11:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 12:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黃蜂（YC W21）正在招聘一名開發人員]]></title>
+            <link>https://news.ycombinator.com/item?id=30788655</link>
+            <guid>https://news.ycombinator.com/item?id=30788655</guid>
+            <pubDate>Thu, 24 Mar 2022 12:00:54 GMT</pubDate>
+            <description><![CDATA[Wasp (YC W21) Is Hiring a DevRel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[去年美國近75%的縣因死亡人數超過出生人數而失去人口]]></title>
+            <link>https://news.ycombinator.com/item?id=30788320</link>
+            <guid>https://news.ycombinator.com/item?id=30788320</guid>
+            <pubDate>Thu, 24 Mar 2022 11:12:25 GMT</pubDate>
+            <description><![CDATA[Nearly 75% of US counties lost population last year as deaths outnumbered births]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub推出新的算法飼料後，投訴增多]]></title>
             <link>https://news.ycombinator.com/item?id=30788364</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30715168</guid>
             <pubDate>Thu, 17 Mar 2022 19:48:41 GMT</pubDate>
             <description><![CDATA[Show HN: A Graphviz Implementation in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每個火狐瀏覽器的下載都有一個獨特的標識符]]></title>
-            <link>https://news.ycombinator.com/item?id=30715163</link>
-            <guid>https://news.ycombinator.com/item?id=30715163</guid>
-            <pubDate>Thu, 17 Mar 2022 19:48:16 GMT</pubDate>
-            <description><![CDATA[Each Firefox download has a unique identifier]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瀏覽器中的瀏覽器（BITB）攻擊]]></title>
-            <link>https://news.ycombinator.com/item?id=30697329</link>
-            <guid>https://news.ycombinator.com/item?id=30697329</guid>
-            <pubDate>Wed, 16 Mar 2022 10:59:16 GMT</pubDate>
-            <description><![CDATA[Browser in the Browser (BITB) Attack]]></description>
         </item>
     </channel>
 </rss>
