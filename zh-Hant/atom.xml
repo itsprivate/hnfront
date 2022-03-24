@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T08:37:11.957Z</updated>
+    <updated>2022-03-24T09:13:10.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[管絃樂演奏家的工作具有不同尋常的挑戰性]]></title>
+        <id>https://news.ycombinator.com/item?id=30785294</id>
+        <link href="https://news.ycombinator.com/item?id=30785294"/>
+        <updated>2022-03-24T00:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Orchestral musicians have unusually challenging jobs]]></summary>
+        <author>
+            <name>barrabas</name>
+            <uri>https://news.ycombinator.com/user?id=barrabas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小型模塊化反應堆的開發者希望他們的時代已經到來]]></title>
         <id>https://news.ycombinator.com/item?id=30787076</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>johmathe</name>
             <uri>https://news.ycombinator.com/user?id=johmathe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜的新角色扮演遊戲可以幫助你建立你的AWS技能]]></title>
-        <id>https://news.ycombinator.com/item?id=30714288</id>
-        <link href="https://news.ycombinator.com/item?id=30714288"/>
-        <updated>2022-03-17T18:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon's new role-playing game can help you build your AWS skills]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
         </author>
     </entry>
 </feed>
