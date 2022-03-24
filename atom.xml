@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T12:19:08.134Z</updated>
+    <updated>2022-03-24T12:58:14.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PlanetScale Rewind: 在不丢失数据的情况下恢复迁移]]></title>
+        <id>https://news.ycombinator.com/item?id=30788768</id>
+        <link href="https://news.ycombinator.com/item?id=30788768"/>
+        <updated>2022-03-24T12:16:03.000Z</updated>
+        <summary type="html"><![CDATA[PlanetScale Rewind: Revert a migration without losing data]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果你不使用SSH证书，你就做错了SSH (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30788544</id>
+        <link href="https://news.ycombinator.com/item?id=30788544"/>
+        <updated>2022-03-24T11:46:33.000Z</updated>
+        <summary type="html"><![CDATA[If you’re not using SSH certificates you’re doing SSH wrong (2019)]]></summary>
+        <author>
+            <name>noyesno</name>
+            <uri>https://news.ycombinator.com/user?id=noyesno</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在其推出近37年后，有人在Windows 1.0中发现了一个复活节彩蛋]]></title>
+        <id>https://news.ycombinator.com/item?id=30777228</id>
+        <link href="https://news.ycombinator.com/item?id=30777228"/>
+        <updated>2022-03-23T11:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Almost 37 years after its launch, someone found an Easter egg in Windows 1.0]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被黑客攻击的GDB仪表板将这一切展示出来]]></title>
+        <id>https://news.ycombinator.com/item?id=30776276</id>
+        <link href="https://news.ycombinator.com/item?id=30776276"/>
+        <updated>2022-03-23T08:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Hacked GDB Dashboard Puts It All on Display]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黄蜂（YC W21）正在招聘一名开发人员]]></title>
         <id>https://news.ycombinator.com/item?id=30788655</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>hemloc_io</name>
             <uri>https://news.ycombinator.com/user?id=hemloc_io</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通往我们细胞中心的旅程]]></title>
-        <id>https://news.ycombinator.com/item?id=30713797</id>
-        <link href="https://news.ycombinator.com/item?id=30713797"/>
-        <updated>2022-03-17T17:38:32.000Z</updated>
-        <summary type="html"><![CDATA[A journey to the center of our cells]]></summary>
-        <author>
-            <name>arbesman</name>
-            <uri>https://news.ycombinator.com/user?id=arbesman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开泰结构。为二进制结构开发解析器的新方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30715406</id>
-        <link href="https://news.ycombinator.com/item?id=30715406"/>
-        <updated>2022-03-17T20:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Kaitai Struct: A new way to develop parsers for binary structures]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔金融化并失去在半导体制造领域的领导地位]]></title>
-        <id>https://news.ycombinator.com/item?id=30715268</id>
-        <link href="https://news.ycombinator.com/item?id=30715268"/>
-        <updated>2022-03-17T19:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Intel Financialized and Lost Leadership in Semiconductor Fabrication]]></summary>
-        <author>
-            <name>kloch</name>
-            <uri>https://news.ycombinator.com/user?id=kloch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust中的Graphviz实现]]></title>
-        <id>https://news.ycombinator.com/item?id=30715168</id>
-        <link href="https://news.ycombinator.com/item?id=30715168"/>
-        <updated>2022-03-17T19:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Graphviz Implementation in Rust]]></summary>
-        <author>
-            <name>Q26124</name>
-            <uri>https://news.ycombinator.com/user?id=Q26124</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Mar 2022 12:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 12:58:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PlanetScale Rewind: 在不丢失数据的情况下恢复迁移]]></title>
+            <link>https://news.ycombinator.com/item?id=30788768</link>
+            <guid>https://news.ycombinator.com/item?id=30788768</guid>
+            <pubDate>Thu, 24 Mar 2022 12:16:03 GMT</pubDate>
+            <description><![CDATA[PlanetScale Rewind: Revert a migration without losing data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果你不使用SSH证书，你就做错了SSH (2019)]]></title>
+            <link>https://news.ycombinator.com/item?id=30788544</link>
+            <guid>https://news.ycombinator.com/item?id=30788544</guid>
+            <pubDate>Thu, 24 Mar 2022 11:46:33 GMT</pubDate>
+            <description><![CDATA[If you’re not using SSH certificates you’re doing SSH wrong (2019)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在其推出近37年后，有人在Windows 1.0中发现了一个复活节彩蛋]]></title>
+            <link>https://news.ycombinator.com/item?id=30777228</link>
+            <guid>https://news.ycombinator.com/item?id=30777228</guid>
+            <pubDate>Wed, 23 Mar 2022 11:12:32 GMT</pubDate>
+            <description><![CDATA[Almost 37 years after its launch, someone found an Easter egg in Windows 1.0]]></description>
+        </item>
+        <item>
+            <title><![CDATA[被黑客攻击的GDB仪表板将这一切展示出来]]></title>
+            <link>https://news.ycombinator.com/item?id=30776276</link>
+            <guid>https://news.ycombinator.com/item?id=30776276</guid>
+            <pubDate>Wed, 23 Mar 2022 08:28:50 GMT</pubDate>
+            <description><![CDATA[Hacked GDB Dashboard Puts It All on Display]]></description>
+        </item>
         <item>
             <title><![CDATA[黄蜂（YC W21）正在招聘一名开发人员]]></title>
             <link>https://news.ycombinator.com/item?id=30788655</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30714509</guid>
             <pubDate>Thu, 17 Mar 2022 18:43:03 GMT</pubDate>
             <description><![CDATA[Inferno: A small operating system for building crossplatform distributed systems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通往我们细胞中心的旅程]]></title>
-            <link>https://news.ycombinator.com/item?id=30713797</link>
-            <guid>https://news.ycombinator.com/item?id=30713797</guid>
-            <pubDate>Thu, 17 Mar 2022 17:38:32 GMT</pubDate>
-            <description><![CDATA[A journey to the center of our cells]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开泰结构。为二进制结构开发解析器的新方法]]></title>
-            <link>https://news.ycombinator.com/item?id=30715406</link>
-            <guid>https://news.ycombinator.com/item?id=30715406</guid>
-            <pubDate>Thu, 17 Mar 2022 20:13:30 GMT</pubDate>
-            <description><![CDATA[Kaitai Struct: A new way to develop parsers for binary structures]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英特尔金融化并失去在半导体制造领域的领导地位]]></title>
-            <link>https://news.ycombinator.com/item?id=30715268</link>
-            <guid>https://news.ycombinator.com/item?id=30715268</guid>
-            <pubDate>Thu, 17 Mar 2022 19:59:12 GMT</pubDate>
-            <description><![CDATA[Intel Financialized and Lost Leadership in Semiconductor Fabrication]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust中的Graphviz实现]]></title>
-            <link>https://news.ycombinator.com/item?id=30715168</link>
-            <guid>https://news.ycombinator.com/item?id=30715168</guid>
-            <pubDate>Thu, 17 Mar 2022 19:48:41 GMT</pubDate>
-            <description><![CDATA[Show HN: A Graphviz Implementation in Rust]]></description>
         </item>
     </channel>
 </rss>
