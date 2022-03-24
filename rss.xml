@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 24 Mar 2022 07:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 08:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一项研究显示，在大流行期间与酒精有关的死亡人数激增]]></title>
+            <link>https://news.ycombinator.com/item?id=30766292</link>
+            <guid>https://news.ycombinator.com/item?id=30766292</guid>
+            <pubDate>Tue, 22 Mar 2022 14:10:22 GMT</pubDate>
+            <description><![CDATA[Alcohol-related deaths spiked during the pandemic, a study shows]]></description>
+        </item>
         <item>
             <title><![CDATA[Manara（YC W21）正在招聘一名全职Slack工程师]]></title>
             <link>https://news.ycombinator.com/item?id=30787009</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30714121</guid>
             <pubDate>Thu, 17 Mar 2022 18:05:00 GMT</pubDate>
             <description><![CDATA[Zotero 6]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于物理的渲染。从理论到实现]]></title>
-            <link>https://news.ycombinator.com/item?id=30714104</link>
-            <guid>https://news.ycombinator.com/item?id=30714104</guid>
-            <pubDate>Thu, 17 Mar 2022 18:03:09 GMT</pubDate>
-            <description><![CDATA[Physically Based Rendering: From Theory to Implementation]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T07:12:14.014Z</updated>
+    <updated>2022-03-24T08:15:05.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一項研究顯示，在大流行期間與酒精有關的死亡人數激增]]></title>
+        <id>https://news.ycombinator.com/item?id=30766292</id>
+        <link href="https://news.ycombinator.com/item?id=30766292"/>
+        <updated>2022-03-22T14:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Alcohol-related deaths spiked during the pandemic, a study shows]]></summary>
+        <author>
+            <name>horseradish</name>
+            <uri>https://news.ycombinator.com/user?id=horseradish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manara（YC W21）正在招聘一名全職Slack工程師]]></title>
         <id>https://news.ycombinator.com/item?id=30787009</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Schiphol</name>
             <uri>https://news.ycombinator.com/user?id=Schiphol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於物理的渲染。從理論到實現]]></title>
-        <id>https://news.ycombinator.com/item?id=30714104</id>
-        <link href="https://news.ycombinator.com/item?id=30714104"/>
-        <updated>2022-03-17T18:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Physically Based Rendering: From Theory to Implementation]]></summary>
-        <author>
-            <name>alasr</name>
-            <uri>https://news.ycombinator.com/user?id=alasr</uri>
         </author>
     </entry>
 </feed>
