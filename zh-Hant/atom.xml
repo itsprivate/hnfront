@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-24T03:54:33.091Z</updated>
+    <updated>2022-03-24T04:58:35.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我已經辭去了我的工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30786179</id>
+        <link href="https://news.ycombinator.com/item?id=30786179"/>
+        <updated>2022-03-24T03:38:51.000Z</updated>
+        <summary type="html"><![CDATA[I have quit my job]]></summary>
+        <author>
+            <name>bitspook</name>
+            <uri>https://news.ycombinator.com/user?id=bitspook</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[副作用如何在FP中發揮作用]]></title>
         <id>https://news.ycombinator.com/item?id=30762281</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[類型與集合（以及類別呢？）]]></title>
-        <id>https://news.ycombinator.com/item?id=30697421</id>
-        <link href="https://news.ycombinator.com/item?id=30697421"/>
-        <updated>2022-03-16T11:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Types versus sets (and what about categories?)]]></summary>
-        <author>
-            <name>carnitine</name>
-            <uri>https://news.ycombinator.com/user?id=carnitine</uri>
         </author>
     </entry>
 </feed>
