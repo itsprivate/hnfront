@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T19:52:34.513Z</updated>
+    <updated>2022-03-25T20:13:59.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從輕量級到羽量級。MicroK8s內存優化(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30802321</id>
+        <link href="https://news.ycombinator.com/item?id=30802321"/>
+        <updated>2022-03-25T14:06:36.000Z</updated>
+        <summary type="html"><![CDATA[From lightweight to featherweight: MicroK8s memory optimisation (2021)]]></summary>
+        <author>
+            <name>sbmthakur</name>
+            <uri>https://news.ycombinator.com/user?id=sbmthakur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API-0.core.keybaseapi.com的證書已經過期。]]></title>
         <id>https://news.ycombinator.com/item?id=30806102</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>adamlynch</name>
             <uri>https://news.ycombinator.com/user?id=adamlynch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南極洲的溫度高了70度。科學家們大吃一驚]]></title>
-        <id>https://news.ycombinator.com/item?id=30733387</id>
-        <link href="https://news.ycombinator.com/item?id=30733387"/>
-        <updated>2022-03-19T12:58:39.000Z</updated>
-        <summary type="html"><![CDATA[It’s 70 degrees warmer in Antarctica. Scientists are flabbergasted]]></summary>
-        <author>
-            <name>elsewhen</name>
-            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
         </author>
     </entry>
 </feed>
