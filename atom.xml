@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T10:52:49.706Z</updated>
+    <updated>2022-03-25T11:12:19.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ESR发生了什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30800573</id>
+        <link href="https://news.ycombinator.com/item?id=30800573"/>
+        <updated>2022-03-25T10:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What Happened to ESR?]]></summary>
+        <author>
+            <name>thowway3445sd</name>
+            <uri>https://news.ycombinator.com/user?id=thowway3445sd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KyuWeb。一个简单的面向文档的网络的建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30799912</id>
+        <link href="https://news.ycombinator.com/item?id=30799912"/>
+        <updated>2022-03-25T08:56:51.000Z</updated>
+        <summary type="html"><![CDATA[KyuWeb: A proposal for a simple document-oriented web]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何提供免费试用而不被滥用？]]></title>
         <id>https://news.ycombinator.com/item?id=30800350</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jaflo</name>
             <uri>https://news.ycombinator.com/user?id=jaflo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Clojure nbb和AWS进行无服务器网站分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30722838</id>
-        <link href="https://news.ycombinator.com/item?id=30722838"/>
-        <updated>2022-03-18T14:38:41.000Z</updated>
-        <summary type="html"><![CDATA[Serverless site analytics with Clojure nbb and AWS]]></summary>
-        <author>
-            <name>Borkdude</name>
-            <uri>https://news.ycombinator.com/user?id=Borkdude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[骆驼。基于CXL的内存分解框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30699555</id>
-        <link href="https://news.ycombinator.com/item?id=30699555"/>
-        <updated>2022-03-16T14:52:37.000Z</updated>
-        <summary type="html"><![CDATA[Camel: CXL-based memory disaggregation framework]]></summary>
-        <author>
-            <name>blopeur</name>
-            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
         </author>
     </entry>
 </feed>

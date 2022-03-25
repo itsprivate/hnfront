@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Mar 2022 10:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 11:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ESR发生了什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30800573</link>
+            <guid>https://news.ycombinator.com/item?id=30800573</guid>
+            <pubDate>Fri, 25 Mar 2022 10:52:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Happened to ESR?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[KyuWeb。一个简单的面向文档的网络的建议]]></title>
+            <link>https://news.ycombinator.com/item?id=30799912</link>
+            <guid>https://news.ycombinator.com/item?id=30799912</guid>
+            <pubDate>Fri, 25 Mar 2022 08:56:51 GMT</pubDate>
+            <description><![CDATA[KyuWeb: A proposal for a simple document-oriented web]]></description>
+        </item>
         <item>
             <title><![CDATA[如何提供免费试用而不被滥用？]]></title>
             <link>https://news.ycombinator.com/item?id=30800350</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30723793</guid>
             <pubDate>Fri, 18 Mar 2022 15:52:23 GMT</pubDate>
             <description><![CDATA[Show HN: Calenday, real-time collaborative calendars for trip planning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Clojure nbb和AWS进行无服务器网站分析]]></title>
-            <link>https://news.ycombinator.com/item?id=30722838</link>
-            <guid>https://news.ycombinator.com/item?id=30722838</guid>
-            <pubDate>Fri, 18 Mar 2022 14:38:41 GMT</pubDate>
-            <description><![CDATA[Serverless site analytics with Clojure nbb and AWS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[骆驼。基于CXL的内存分解框架]]></title>
-            <link>https://news.ycombinator.com/item?id=30699555</link>
-            <guid>https://news.ycombinator.com/item?id=30699555</guid>
-            <pubDate>Wed, 16 Mar 2022 14:52:37 GMT</pubDate>
-            <description><![CDATA[Camel: CXL-based memory disaggregation framework]]></description>
         </item>
     </channel>
 </rss>
