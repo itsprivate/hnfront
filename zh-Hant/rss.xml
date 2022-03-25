@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 06:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你應該製作一個開放的API嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30788901</link>
+            <guid>https://news.ycombinator.com/item?id=30788901</guid>
+            <pubDate>Thu, 24 Mar 2022 12:36:31 GMT</pubDate>
+            <description><![CDATA[Should you make an open API?]]></description>
+        </item>
         <item>
             <title><![CDATA[羅馬天主教牧師：在17世紀法國待了30年，出版了無神論的遺著]]></title>
             <link>https://news.ycombinator.com/item?id=30797686</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30722254</guid>
             <pubDate>Fri, 18 Mar 2022 13:53:56 GMT</pubDate>
             <description><![CDATA[Thefuck: Magnificent app which corrects your previous console command]]></description>
-        </item>
-        <item>
-            <title><![CDATA[野外的Python 3類型]]></title>
-            <link>https://news.ycombinator.com/item?id=30721964</link>
-            <guid>https://news.ycombinator.com/item?id=30721964</guid>
-            <pubDate>Fri, 18 Mar 2022 13:30:00 GMT</pubDate>
-            <description><![CDATA[Python 3 Types in the Wild]]></description>
         </item>
     </channel>
 </rss>
