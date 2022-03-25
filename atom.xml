@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T14:34:37.784Z</updated>
+    <updated>2022-03-25T14:53:17.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[易于使用的Cloudflare隧道]]></title>
+        <id>https://news.ycombinator.com/item?id=30802430</id>
+        <link href="https://news.ycombinator.com/item?id=30802430"/>
+        <updated>2022-03-25T14:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Easy to Use Cloudflare Tunnels]]></summary>
+        <author>
+            <name>eldridgea</name>
+            <uri>https://news.ycombinator.com/user?id=eldridgea</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[独立开发者避免多线程以保持编程的简单和有趣吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30802247</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Naac</name>
             <uri>https://news.ycombinator.com/user?id=Naac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件不再被出售；它被采用]]></title>
-        <id>https://news.ycombinator.com/item?id=30725763</id>
-        <link href="https://news.ycombinator.com/item?id=30725763"/>
-        <updated>2022-03-18T18:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Software is no longer sold; it's adopted]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
