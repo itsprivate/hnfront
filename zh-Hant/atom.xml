@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T09:33:23.685Z</updated>
+    <updated>2022-03-25T09:52:44.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[勒-柯布西耶在設計昌迪加爾時的錯誤（和正確）之處]]></title>
+        <id>https://news.ycombinator.com/item?id=30798429</id>
+        <link href="https://news.ycombinator.com/item?id=30798429"/>
+        <updated>2022-03-25T03:42:22.000Z</updated>
+        <summary type="html"><![CDATA[What Le Corbusier got wrong (and right) in his design of Chandigarh]]></summary>
+        <author>
+            <name>efface</name>
+            <uri>https://news.ycombinator.com/user?id=efface</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果M1上的Java開發--一年回顧]]></title>
         <id>https://news.ycombinator.com/item?id=30799686</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>green-eclipse</name>
             <uri>https://news.ycombinator.com/user?id=green-eclipse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[區塊鏈也許不會摧毀地球]]></title>
-        <id>https://news.ycombinator.com/item?id=30723310</id>
-        <link href="https://news.ycombinator.com/item?id=30723310"/>
-        <updated>2022-03-18T15:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Blockchains will maybe not destroy the planet]]></summary>
-        <author>
-            <name>zeptonaut22</name>
-            <uri>https://news.ycombinator.com/user?id=zeptonaut22</uri>
         </author>
     </entry>
 </feed>
