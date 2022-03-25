@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T08:15:34.230Z</updated>
+    <updated>2022-03-25T08:36:19.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歐盟談判代表同意制定新規則以控制科技巨頭]]></title>
+        <id>https://news.ycombinator.com/item?id=30799567</id>
+        <link href="https://news.ycombinator.com/item?id=30799567"/>
+        <updated>2022-03-25T07:39:06.000Z</updated>
+        <summary type="html"><![CDATA[EU negotiators agree new rules to rein in tech giants]]></summary>
+        <author>
+            <name>raimue</name>
+            <uri>https://news.ycombinator.com/user?id=raimue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文藝復興時期的第一位女超級明星]]></title>
         <id>https://news.ycombinator.com/item?id=30799542</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Bostonian</name>
             <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreWolf - Firefox的分叉，專注於隱私、安全和自由]]></title>
-        <id>https://news.ycombinator.com/item?id=30720301</id>
-        <link href="https://news.ycombinator.com/item?id=30720301"/>
-        <updated>2022-03-18T10:05:28.000Z</updated>
-        <summary type="html"><![CDATA[LibreWolf – A fork of Firefox, focused on privacy, security and freedom]]></summary>
-        <author>
-            <name>gizzlon</name>
-            <uri>https://news.ycombinator.com/user?id=gizzlon</uri>
         </author>
     </entry>
 </feed>
