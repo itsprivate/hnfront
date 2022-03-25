@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T04:41:58.244Z</updated>
+    <updated>2022-03-25T05:31:07.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為工程師做飯]]></title>
+        <id>https://news.ycombinator.com/item?id=30797907</id>
+        <link href="https://news.ycombinator.com/item?id=30797907"/>
+        <updated>2022-03-25T01:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Cooking for Engineers]]></summary>
+        <author>
+            <name>moonka</name>
+            <uri>https://news.ycombinator.com/user?id=moonka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收縮包裝。馴服動態共享對象]]></title>
         <id>https://news.ycombinator.com/item?id=30798569</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joshuafkon</name>
             <uri>https://news.ycombinator.com/user?id=joshuafkon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AEG組合式微波爐更新後無法使用：設備認為它是一個蒸汽爐]]></title>
-        <id>https://news.ycombinator.com/item?id=30721530</id>
-        <link href="https://news.ycombinator.com/item?id=30721530"/>
-        <updated>2022-03-18T12:51:42.000Z</updated>
-        <summary type="html"><![CDATA[AEG combi microwave unusable after update: device thinks it is a steam oven]]></summary>
-        <author>
-            <name>HansHarmannij</name>
-            <uri>https://news.ycombinator.com/user?id=HansHarmannij</uri>
         </author>
     </entry>
 </feed>
