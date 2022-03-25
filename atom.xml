@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T17:52:52.309Z</updated>
+    <updated>2022-03-25T18:15:18.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[仿制药简介]]></title>
+        <id>https://news.ycombinator.com/item?id=30804253</id>
+        <link href="https://news.ycombinator.com/item?id=30804253"/>
+        <updated>2022-03-25T16:37:40.000Z</updated>
+        <summary type="html"><![CDATA[An Introduction to Generics]]></summary>
+        <author>
+            <name>mfrw</name>
+            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搅动。它是如何运作和如何计算的]]></title>
+        <id>https://news.ycombinator.com/item?id=30802000</id>
+        <link href="https://news.ycombinator.com/item?id=30802000"/>
+        <updated>2022-03-25T13:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Churn: How it works and how to calculate it]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本田的各种车辆在每次打开车门时都会发送相同的、未加密的射频信号。]]></title>
         <id>https://news.ycombinator.com/item?id=30804702</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>theolivenbaum</name>
             <uri>https://news.ycombinator.com/user?id=theolivenbaum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区域系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30718656</id>
-        <link href="https://news.ycombinator.com/item?id=30718656"/>
-        <updated>2022-03-18T04:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Zone System]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meticulous (YC S21)正在伦敦招聘2号创始工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=30733094</id>
-        <link href="https://news.ycombinator.com/item?id=30733094"/>
-        <updated>2022-03-19T12:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Meticulous (YC S21) Is Hiring #2 Founding Engineer in London]]></summary>
-        <author>
-            <name>Gabriel_h</name>
-            <uri>https://news.ycombinator.com/user?id=Gabriel_h</uri>
         </author>
     </entry>
 </feed>
