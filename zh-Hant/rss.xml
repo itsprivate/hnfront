@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Mar 2022 20:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 20:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼沒有一個針對二進制格式的Swagger/OpenAPI？]]></title>
+            <link>https://news.ycombinator.com/item?id=30806032</link>
+            <guid>https://news.ycombinator.com/item?id=30806032</guid>
+            <pubDate>Fri, 25 Mar 2022 19:13:55 GMT</pubDate>
+            <description><![CDATA[Why isn't there a Swagger/OpenAPI for binary formats?]]></description>
+        </item>
         <item>
             <title><![CDATA[從輕量級到羽量級。MicroK8s內存優化(2021)]]></title>
             <link>https://news.ycombinator.com/item?id=30802321</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30733500</guid>
             <pubDate>Sat, 19 Mar 2022 13:20:38 GMT</pubDate>
             <description><![CDATA[Large net gain of usable global land due to climate change]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個測試你對當地瞭解程度的遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30733339</link>
-            <guid>https://news.ycombinator.com/item?id=30733339</guid>
-            <pubDate>Sat, 19 Mar 2022 12:50:18 GMT</pubDate>
-            <description><![CDATA[Show HN: A game that tests how well you know your local area]]></description>
         </item>
     </channel>
 </rss>
