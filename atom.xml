@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T23:13:06.655Z</updated>
+    <updated>2022-03-25T23:31:39.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幻影操作系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30807668</id>
+        <link href="https://news.ycombinator.com/item?id=30807668"/>
+        <updated>2022-03-25T22:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Phantom OS]]></summary>
+        <author>
+            <name>ectopod</name>
+            <uri>https://news.ycombinator.com/user?id=ectopod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老龄化的脾脏很糟糕]]></title>
         <id>https://news.ycombinator.com/item?id=30807680</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>brynet</name>
             <uri>https://news.ycombinator.com/user?id=brynet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果新的M1 Ultra不比RTX 3090快]]></title>
-        <id>https://news.ycombinator.com/item?id=30733981</id>
-        <link href="https://news.ycombinator.com/item?id=30733981"/>
-        <updated>2022-03-19T14:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Apple's new M1 Ultra isn't faster than an RTX 3090]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
         </author>
     </entry>
 </feed>
