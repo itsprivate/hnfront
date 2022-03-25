@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T21:51:43.080Z</updated>
+    <updated>2022-03-25T22:13:16.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更強壯的手能延長你的生命]]></title>
+        <id>https://news.ycombinator.com/item?id=30807138</id>
+        <link href="https://news.ycombinator.com/item?id=30807138"/>
+        <updated>2022-03-25T21:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Stronger hands lengthen your life]]></summary>
+        <author>
+            <name>HiroProtagonist</name>
+            <uri>https://news.ycombinator.com/user?id=HiroProtagonist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[95GeV希格斯玻色子的大量證據]]></title>
+        <id>https://news.ycombinator.com/item?id=30807022</id>
+        <link href="https://news.ycombinator.com/item?id=30807022"/>
+        <updated>2022-03-25T21:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Mounting evidence for a 95 GeV Higgs boson]]></summary>
+        <author>
+            <name>kloch</name>
+            <uri>https://news.ycombinator.com/user?id=kloch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直接對存儲在SQLite文件中的數據運行DuckDB查詢]]></title>
+        <id>https://news.ycombinator.com/item?id=30801575</id>
+        <link href="https://news.ycombinator.com/item?id=30801575"/>
+        <updated>2022-03-25T12:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Directly running DuckDB queries on data stored in SQLite files]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數學理解的多樣性]]></title>
         <id>https://news.ycombinator.com/item?id=30807136</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>denisw</name>
             <uri>https://news.ycombinator.com/user?id=denisw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼美國不能再快速建設？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734062</id>
-        <link href="https://news.ycombinator.com/item?id=30734062"/>
-        <updated>2022-03-19T14:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Why can’t America build quickly anymore?]]></summary>
-        <author>
-            <name>burlesona</name>
-            <uri>https://news.ycombinator.com/user?id=burlesona</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印加人用繩結來講述故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30733873</id>
-        <link href="https://news.ycombinator.com/item?id=30733873"/>
-        <updated>2022-03-19T14:16:12.000Z</updated>
-        <summary type="html"><![CDATA[The Inca Used Knots to Tell Stories]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些技術極大地提高了發展的效率？]]></title>
-        <id>https://news.ycombinator.com/item?id=30733384</id>
-        <link href="https://news.ycombinator.com/item?id=30733384"/>
-        <updated>2022-03-19T12:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What technologies greatly improve the efficiency of development?]]></summary>
-        <author>
-            <name>JrisMoore</name>
-            <uri>https://news.ycombinator.com/user?id=JrisMoore</uri>
         </author>
     </entry>
 </feed>
