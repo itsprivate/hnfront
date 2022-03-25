@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T03:39:11.058Z</updated>
+    <updated>2022-03-25T04:14:36.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與時間賽跑--衝擊微小的內核競賽窗口]]></title>
+        <id>https://news.ycombinator.com/item?id=30798302</id>
+        <link href="https://news.ycombinator.com/item?id=30798302"/>
+        <updated>2022-03-25T03:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Racing against the clock – hitting a tiny kernel race window]]></summary>
+        <author>
+            <name>JNRowe</name>
+            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於節點-IPC和信任的重要性]]></title>
         <id>https://news.ycombinator.com/item?id=30793037</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>whiteyford</name>
             <uri>https://news.ycombinator.com/user?id=whiteyford</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[死亡之線 (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=30721728</id>
-        <link href="https://news.ycombinator.com/item?id=30721728"/>
-        <updated>2022-03-18T13:10:20.000Z</updated>
-        <summary type="html"><![CDATA[The Line of Death (2017)]]></summary>
-        <author>
-            <name>Natfan</name>
-            <uri>https://news.ycombinator.com/user?id=Natfan</uri>
         </author>
     </entry>
 </feed>
