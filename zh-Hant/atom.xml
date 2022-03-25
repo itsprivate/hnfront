@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T04:14:36.150Z</updated>
+    <updated>2022-03-25T04:41:58.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[收縮包裝。馴服動態共享對象]]></title>
+        <id>https://news.ycombinator.com/item?id=30798569</id>
+        <link href="https://news.ycombinator.com/item?id=30798569"/>
+        <updated>2022-03-25T04:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Shrinkwrap: Taming Dynamic Shared Objects]]></summary>
+        <author>
+            <name>smasher164</name>
+            <uri>https://news.ycombinator.com/user?id=smasher164</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[論無限的倫理學]]></title>
+        <id>https://news.ycombinator.com/item?id=30798431</id>
+        <link href="https://news.ycombinator.com/item?id=30798431"/>
+        <updated>2022-03-25T03:43:23.000Z</updated>
+        <summary type="html"><![CDATA[On infinite ethics]]></summary>
+        <author>
+            <name>deepbow</name>
+            <uri>https://news.ycombinator.com/user?id=deepbow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postico: 適用於Mac的現代PostgreSQL客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30798274</id>
+        <link href="https://news.ycombinator.com/item?id=30798274"/>
+        <updated>2022-03-25T03:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Postico: A Modern PostgreSQL Client for the Mac]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與時間賽跑--衝擊微小的內核競賽窗口]]></title>
         <id>https://news.ycombinator.com/item?id=30798302</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>HansHarmannij</name>
             <uri>https://news.ycombinator.com/user?id=HansHarmannij</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於老式CPU的微處理器板計劃。6502, Z80, 6809, 等。]]></title>
-        <id>https://news.ycombinator.com/item?id=30721301</id>
-        <link href="https://news.ycombinator.com/item?id=30721301"/>
-        <updated>2022-03-18T12:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Microprocessor Board Plans for Old School CPUs: 6502, Z80, 6809, etc.]]></summary>
-        <author>
-            <name>vertnerd</name>
-            <uri>https://news.ycombinator.com/user?id=vertnerd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的神經衰弱症：職業倦怠如何成為當下的熱門詞彙]]></title>
-        <id>https://news.ycombinator.com/item?id=30698381</id>
-        <link href="https://news.ycombinator.com/item?id=30698381"/>
-        <updated>2022-03-16T13:16:06.000Z</updated>
-        <summary type="html"><![CDATA[The New Neurasthenia: How burnout became the buzzword of the moment]]></summary>
-        <author>
-            <name>miobrien</name>
-            <uri>https://news.ycombinator.com/user?id=miobrien</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRI-O中的關鍵容器逃逸缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30721877</id>
-        <link href="https://news.ycombinator.com/item?id=30721877"/>
-        <updated>2022-03-18T13:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Critical Container Escape Flaw in CRI-O]]></summary>
-        <author>
-            <name>whiteyford</name>
-            <uri>https://news.ycombinator.com/user?id=whiteyford</uri>
         </author>
     </entry>
 </feed>
