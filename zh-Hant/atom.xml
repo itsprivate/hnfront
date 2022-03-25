@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T08:52:50.445Z</updated>
+    <updated>2022-03-25T09:33:23.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果M1上的Java開發--一年回顧]]></title>
+        <id>https://news.ycombinator.com/item?id=30799686</id>
+        <link href="https://news.ycombinator.com/item?id=30799686"/>
+        <updated>2022-03-25T08:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Java Development on an Apple M1 – A One Year Review]]></summary>
+        <author>
+            <name>rieckpil</name>
+            <uri>https://news.ycombinator.com/user?id=rieckpil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50年後，館長們公佈了最後密封的阿波羅樣本之一。]]></title>
         <id>https://news.ycombinator.com/item?id=30788482</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zeptonaut22</name>
             <uri>https://news.ycombinator.com/user?id=zeptonaut22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dav1d，快速AV1解碼器，1.0.0版本發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30722853</id>
-        <link href="https://news.ycombinator.com/item?id=30722853"/>
-        <updated>2022-03-18T14:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Dav1d, fast AV1 decoder, version 1.0.0 released]]></summary>
-        <author>
-            <name>coldpie</name>
-            <uri>https://news.ycombinator.com/user?id=coldpie</uri>
         </author>
     </entry>
 </feed>
