@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T16:53:47.255Z</updated>
+    <updated>2022-03-25T17:07:20.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[捕鲸船 "环游世界 "的宏伟蓝图]]></title>
+        <id>https://news.ycombinator.com/item?id=30787713</id>
+        <link href="https://news.ycombinator.com/item?id=30787713"/>
+        <updated>2022-03-24T09:30:09.000Z</updated>
+        <summary type="html"><![CDATA[The Grand Panorama of a Whaling Voyage 'Round the World']]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猫咪打印机]]></title>
         <id>https://news.ycombinator.com/item?id=30804204</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fermigier</name>
             <uri>https://news.ycombinator.com/user?id=fermigier</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["申请者必须明白，这个职位不会有任何补偿。"]]></title>
-        <id>https://news.ycombinator.com/item?id=30732476</id>
-        <link href="https://news.ycombinator.com/item?id=30732476"/>
-        <updated>2022-03-19T09:50:26.000Z</updated>
-        <summary type="html"><![CDATA[“Applicants must understand there will be no compensation for this position.”]]></summary>
-        <author>
-            <name>jensgk</name>
-            <uri>https://news.ycombinator.com/user?id=jensgk</uri>
         </author>
     </entry>
 </feed>
