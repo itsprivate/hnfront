@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 25 Mar 2022 09:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:52:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何提供免費試用而不被濫用？]]></title>
+            <link>https://news.ycombinator.com/item?id=30800350</link>
+            <guid>https://news.ycombinator.com/item?id=30800350</guid>
+            <pubDate>Fri, 25 Mar 2022 10:15:46 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to provide a free trial without being abused?]]></description>
+        </item>
         <item>
             <title><![CDATA[勒-柯布西耶在設計昌迪加爾時的錯誤（和正確）之處]]></title>
             <link>https://news.ycombinator.com/item?id=30798429</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30699555</guid>
             <pubDate>Wed, 16 Mar 2022 14:52:37 GMT</pubDate>
             <description><![CDATA[Camel: CXL-based memory disaggregation framework]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞馬遜在秘密項目中故意讓人難以取消Prime套餐]]></title>
-            <link>https://news.ycombinator.com/item?id=30723461</link>
-            <guid>https://news.ycombinator.com/item?id=30723461</guid>
-            <pubDate>Fri, 18 Mar 2022 15:25:09 GMT</pubDate>
-            <description><![CDATA[Amazon intentionally made it hard to cancel Prime subscription in secret project]]></description>
         </item>
     </channel>
 </rss>
