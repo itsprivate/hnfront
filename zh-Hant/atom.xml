@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T05:31:07.377Z</updated>
+    <updated>2022-03-25T05:51:38.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[波普爾的柏拉圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30798414</id>
+        <link href="https://news.ycombinator.com/item?id=30798414"/>
+        <updated>2022-03-25T03:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Popper’s Plato]]></summary>
+        <author>
+            <name>besmirch</name>
+            <uri>https://news.ycombinator.com/user?id=besmirch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為工程師做飯]]></title>
         <id>https://news.ycombinator.com/item?id=30797907</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>orzig</name>
             <uri>https://news.ycombinator.com/user?id=orzig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我對指數投資的風險厭惡程度過高]]></title>
-        <id>https://news.ycombinator.com/item?id=30721632</id>
-        <link href="https://news.ycombinator.com/item?id=30721632"/>
-        <updated>2022-03-18T13:01:47.000Z</updated>
-        <summary type="html"><![CDATA[I'm Too Risk-Adverse for Index Investing]]></summary>
-        <author>
-            <name>joshuafkon</name>
-            <uri>https://news.ycombinator.com/user?id=joshuafkon</uri>
         </author>
     </entry>
 </feed>
