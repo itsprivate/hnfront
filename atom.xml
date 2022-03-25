@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T13:29:32.666Z</updated>
+    <updated>2022-03-25T14:00:45.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[融资]]></title>
+        <id>https://news.ycombinator.com/item?id=30801912</id>
+        <link href="https://news.ycombinator.com/item?id=30801912"/>
+        <updated>2022-03-25T13:31:06.000Z</updated>
+        <summary type="html"><![CDATA[ReVanced]]></summary>
+        <author>
+            <name>Gadiguibou</name>
+            <uri>https://news.ycombinator.com/user?id=Gadiguibou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟要求可互操作的信息传递]]></title>
         <id>https://news.ycombinator.com/item?id=30801278</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海狸在离开400年后回到伦敦]]></title>
-        <id>https://news.ycombinator.com/item?id=30708819</id>
-        <link href="https://news.ycombinator.com/item?id=30708819"/>
-        <updated>2022-03-17T08:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Beavers back in London after 400-year absence]]></summary>
-        <author>
-            <name>zeristor</name>
-            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
         </author>
     </entry>
 </feed>
