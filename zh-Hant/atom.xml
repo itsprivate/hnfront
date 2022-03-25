@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T03:18:14.339Z</updated>
+    <updated>2022-03-25T03:39:11.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於節點-IPC和信任的重要性]]></title>
+        <id>https://news.ycombinator.com/item?id=30793037</id>
+        <link href="https://news.ycombinator.com/item?id=30793037"/>
+        <updated>2022-03-24T17:37:36.000Z</updated>
+        <summary type="html"><![CDATA[On node-ipc and the importance of trusting trust]]></summary>
+        <author>
+            <name>magnio</name>
+            <uri>https://news.ycombinator.com/user?id=magnio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旅行照片被低估了]]></title>
+        <id>https://news.ycombinator.com/item?id=30782578</id>
+        <link href="https://news.ycombinator.com/item?id=30782578"/>
+        <updated>2022-03-23T19:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Travel Photos Are Underrated]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我對1Password感到失望]]></title>
         <id>https://news.ycombinator.com/item?id=30798165</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Natfan</name>
             <uri>https://news.ycombinator.com/user?id=Natfan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韋伯的18個鏡面在納米範圍內對齊]]></title>
-        <id>https://news.ycombinator.com/item?id=30721619</id>
-        <link href="https://news.ycombinator.com/item?id=30721619"/>
-        <updated>2022-03-18T13:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Webb’s 18 mirrors aligned within nanometers]]></summary>
-        <author>
-            <name>jrgd</name>
-            <uri>https://news.ycombinator.com/user?id=jrgd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喬治-索羅斯擊垮英格蘭銀行賺取11億美元的那一天]]></title>
-        <id>https://news.ycombinator.com/item?id=30720876</id>
-        <link href="https://news.ycombinator.com/item?id=30720876"/>
-        <updated>2022-03-18T11:38:17.000Z</updated>
-        <summary type="html"><![CDATA[The Day George Soros Broke the Bank of England to Make $1.1B]]></summary>
-        <author>
-            <name>hutrdvnj</name>
-            <uri>https://news.ycombinator.com/user?id=hutrdvnj</uri>
         </author>
     </entry>
 </feed>
