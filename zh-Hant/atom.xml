@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T22:13:16.850Z</updated>
+    <updated>2022-03-25T23:13:06.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[老齡化的脾臟很糟糕]]></title>
+        <id>https://news.ycombinator.com/item?id=30807680</id>
+        <link href="https://news.ycombinator.com/item?id=30807680"/>
+        <updated>2022-03-25T22:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Old Spleens Suck]]></summary>
+        <author>
+            <name>benkuhn</name>
+            <uri>https://news.ycombinator.com/user?id=benkuhn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路易吉-魯索洛的 "喧鬧的未來"(Cacophonous Futures)]]></title>
+        <id>https://news.ycombinator.com/item?id=30792107</id>
+        <link href="https://news.ycombinator.com/item?id=30792107"/>
+        <updated>2022-03-24T16:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Luigi Russolo’s Cacophonous Futures]]></summary>
+        <author>
+            <name>tintinnabula</name>
+            <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更強壯的手能延長你的生命]]></title>
         <id>https://news.ycombinator.com/item?id=30807138</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xmake和C/C++軟件包管理]]></title>
-        <id>https://news.ycombinator.com/item?id=30696061</id>
-        <link href="https://news.ycombinator.com/item?id=30696061"/>
-        <updated>2022-03-16T07:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Xmake and C/C++ Package Management]]></summary>
-        <author>
-            <name>danny0z</name>
-            <uri>https://news.ycombinator.com/user?id=danny0z</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fish 3.4.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30734072</id>
-        <link href="https://news.ycombinator.com/item?id=30734072"/>
-        <updated>2022-03-19T14:37:49.000Z</updated>
-        <summary type="html"><![CDATA[Fish 3.4.0]]></summary>
-        <author>
-            <name>denisw</name>
-            <uri>https://news.ycombinator.com/user?id=denisw</uri>
         </author>
     </entry>
 </feed>
