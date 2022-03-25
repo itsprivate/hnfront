@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-25T20:42:02.299Z</updated>
+    <updated>2022-03-25T21:13:40.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nvidia的研究在眨眼間將2D照片變成3D場景的AI]]></title>
+        <id>https://news.ycombinator.com/item?id=30806925</id>
+        <link href="https://news.ycombinator.com/item?id=30806925"/>
+        <updated>2022-03-25T20:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI]]></summary>
+        <author>
+            <name>bcaulfield</name>
+            <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N2：替代性忍者的實施]]></title>
+        <id>https://news.ycombinator.com/item?id=30806875</id>
+        <link href="https://news.ycombinator.com/item?id=30806875"/>
+        <updated>2022-03-25T20:46:26.000Z</updated>
+        <summary type="html"><![CDATA[N2: Alternative Ninja Implementation]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kani Rust驗證器--Rust的比特精確模型檢查器]]></title>
+        <id>https://news.ycombinator.com/item?id=30786511</id>
+        <link href="https://news.ycombinator.com/item?id=30786511"/>
+        <updated>2022-03-24T05:02:20.000Z</updated>
+        <summary type="html"><![CDATA[Kani Rust Verifier – a bit-precise model-checker for Rust]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[配額計劃可能毀掉奧斯卡獎]]></title>
         <id>https://news.ycombinator.com/item?id=30806656</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rhn_mk1</name>
             <uri>https://news.ycombinator.com/user?id=rhn_mk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德克薩斯州天然氣井中的比特幣礦井]]></title>
-        <id>https://news.ycombinator.com/item?id=30733875</id>
-        <link href="https://news.ycombinator.com/item?id=30733875"/>
-        <updated>2022-03-19T14:16:23.000Z</updated>
-        <summary type="html"><![CDATA[A Bitcoin Mine at a Natural Gas Well in Texas]]></summary>
-        <author>
-            <name>elorant</name>
-            <uri>https://news.ycombinator.com/user?id=elorant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[它就像GPT-3，但用於代碼--有趣、快速、充滿缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30695509</id>
-        <link href="https://news.ycombinator.com/item?id=30695509"/>
-        <updated>2022-03-16T05:04:02.000Z</updated>
-        <summary type="html"><![CDATA[It’s Like GPT-3 but for Code – Fun, Fast, and Full of Flaws]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有的物理學都在9行中--甚至可能是所有的科學]]></title>
-        <id>https://news.ycombinator.com/item?id=30733666</id>
-        <link href="https://news.ycombinator.com/item?id=30733666"/>
-        <updated>2022-03-19T13:47:50.000Z</updated>
-        <summary type="html"><![CDATA[All of physics in 9 lines - maybe even all of science]]></summary>
-        <author>
-            <name>PrettyPebble</name>
-            <uri>https://news.ycombinator.com/user?id=PrettyPebble</uri>
         </author>
     </entry>
 </feed>
