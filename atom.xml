@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T19:52:04.146Z</updated>
+    <updated>2022-03-26T20:13:20.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-1096的Chrome 0day现在被利用了，立即更新]]></title>
+        <id>https://news.ycombinator.com/item?id=30813779</id>
+        <link href="https://news.ycombinator.com/item?id=30813779"/>
+        <updated>2022-03-26T17:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 0day is being exploited now for CVE-2022-1096; update immediately]]></summary>
+        <author>
+            <name>gargarplex</name>
+            <uri>https://news.ycombinator.com/user?id=gargarplex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[经过编辑的《加密货币后进生指南》(The (Edited) Latecomer's Guide to Crypto)]]></title>
         <id>https://news.ycombinator.com/item?id=30814662</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hkgumbs</name>
             <uri>https://news.ycombinator.com/user?id=hkgumbs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲是如何成为世界上最富裕的地区的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30742048</id>
-        <link href="https://news.ycombinator.com/item?id=30742048"/>
-        <updated>2022-03-20T12:19:54.000Z</updated>
-        <summary type="html"><![CDATA[How did Europe become the richest part of the world?]]></summary>
-        <author>
-            <name>elorant</name>
-            <uri>https://news.ycombinator.com/user?id=elorant</uri>
         </author>
     </entry>
 </feed>
