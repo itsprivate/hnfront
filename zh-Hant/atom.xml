@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T02:16:06.980Z</updated>
+    <updated>2022-03-26T03:18:35.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[101高速公路上的橋樑將破土動工]]></title>
+        <id>https://news.ycombinator.com/item?id=30808901</id>
+        <link href="https://news.ycombinator.com/item?id=30808901"/>
+        <updated>2022-03-26T03:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Groundbreaking set for bridge over 101 Freeway]]></summary>
+        <author>
+            <name>opisthenar84</name>
+            <uri>https://news.ycombinator.com/user?id=opisthenar84</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龍巖港被接納為海合會成員]]></title>
+        <id>https://news.ycombinator.com/item?id=30802316</id>
+        <link href="https://news.ycombinator.com/item?id=30802316"/>
+        <updated>2022-03-25T14:06:22.000Z</updated>
+        <summary type="html"><![CDATA[LoongArch Port Accepted into GCC]]></summary>
+        <author>
+            <name>edelsohn</name>
+            <uri>https://news.ycombinator.com/user?id=edelsohn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Librdkafka - 一個Apache Kafka C/C++客戶端庫]]></title>
         <id>https://news.ycombinator.com/item?id=30787254</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>arsalanb</name>
             <uri>https://news.ycombinator.com/user?id=arsalanb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼書改變了你的生活？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734709</id>
-        <link href="https://news.ycombinator.com/item?id=30734709"/>
-        <updated>2022-03-19T15:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What book changed your life?]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[事件循環中的大象]]></title>
-        <id>https://news.ycombinator.com/item?id=30707423</id>
-        <link href="https://news.ycombinator.com/item?id=30707423"/>
-        <updated>2022-03-17T03:41:45.000Z</updated>
-        <summary type="html"><![CDATA[The Elephant in the Event Loop]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
