@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 26 Mar 2022 07:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 08:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[意外的空間天氣導致38顆星聯衛星重返大氣層]]></title>
+            <link>https://news.ycombinator.com/item?id=30809759</link>
+            <guid>https://news.ycombinator.com/item?id=30809759</guid>
+            <pubDate>Sat, 26 Mar 2022 06:32:45 GMT</pubDate>
+            <description><![CDATA[Unexpected space weather causing the reentry of 38 Starlink satellites]]></description>
+        </item>
         <item>
             <title><![CDATA[地熱廠可以在美國西部打開大量的鋰供應]]></title>
             <link>https://news.ycombinator.com/item?id=30809654</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30735800</guid>
             <pubDate>Sat, 19 Mar 2022 17:40:39 GMT</pubDate>
             <description><![CDATA[A DARPA Perspective on Artificial Intelligence [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[`Git add -p`與多個桶的關係]]></title>
-            <link>https://news.ycombinator.com/item?id=30735294</link>
-            <guid>https://news.ycombinator.com/item?id=30735294</guid>
-            <pubDate>Sat, 19 Mar 2022 16:47:27 GMT</pubDate>
-            <description><![CDATA[Show HN: `Git add -p` with multiple buckets]]></description>
         </item>
     </channel>
 </rss>

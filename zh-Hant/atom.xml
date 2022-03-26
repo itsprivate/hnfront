@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T07:51:29.070Z</updated>
+    <updated>2022-03-26T08:13:47.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[意外的空間天氣導致38顆星聯衛星重返大氣層]]></title>
+        <id>https://news.ycombinator.com/item?id=30809759</id>
+        <link href="https://news.ycombinator.com/item?id=30809759"/>
+        <updated>2022-03-26T06:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Unexpected space weather causing the reentry of 38 Starlink satellites]]></summary>
+        <author>
+            <name>yashi</name>
+            <uri>https://news.ycombinator.com/user?id=yashi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地熱廠可以在美國西部打開大量的鋰供應]]></title>
         <id>https://news.ycombinator.com/item?id=30809654</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nulluint</name>
             <uri>https://news.ycombinator.com/user?id=nulluint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`Git add -p`與多個桶的關係]]></title>
-        <id>https://news.ycombinator.com/item?id=30735294</id>
-        <link href="https://news.ycombinator.com/item?id=30735294"/>
-        <updated>2022-03-19T16:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: `Git add -p` with multiple buckets]]></summary>
-        <author>
-            <name>aleclm</name>
-            <uri>https://news.ycombinator.com/user?id=aleclm</uri>
         </author>
     </entry>
 </feed>
