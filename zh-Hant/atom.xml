@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T21:12:31.552Z</updated>
+    <updated>2022-03-26T21:30:25.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[展示我們的展品]]></title>
+        <id>https://news.ycombinator.com/item?id=30810001</id>
+        <link href="https://news.ycombinator.com/item?id=30810001"/>
+        <updated>2022-03-26T07:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Demoing Our Displays]]></summary>
+        <author>
+            <name>nyberg</name>
+            <uri>https://news.ycombinator.com/user?id=nyberg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金正恩在朝鮮電視上主演發射導彈的影片]]></title>
         <id>https://news.ycombinator.com/item?id=30815170</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dannywarner</name>
             <uri>https://news.ycombinator.com/user?id=dannywarner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些開發訓練營/在線課程對於DevOps來說是有價值的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30742324</id>
-        <link href="https://news.ycombinator.com/item?id=30742324"/>
-        <updated>2022-03-20T13:09:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Which dev bootcamps/online courses are good value for DevOps?]]></summary>
-        <author>
-            <name>throzqzy221</name>
-            <uri>https://news.ycombinator.com/user?id=throzqzy221</uri>
         </author>
     </entry>
 </feed>
