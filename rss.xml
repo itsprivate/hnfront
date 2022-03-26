@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 26 Mar 2022 15:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 15:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[重新开始--为新型计算机提供新型操作系统的FOSS建议]]></title>
+            <link>https://news.ycombinator.com/item?id=30811899</link>
+            <guid>https://news.ycombinator.com/item?id=30811899</guid>
+            <pubDate>Sat, 26 Mar 2022 14:08:11 GMT</pubDate>
+            <description><![CDATA[Starting Over – A FOSS proposal for a new type of OS for a new type of computer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Wayland上Podman中的GUI应用]]></title>
+            <link>https://news.ycombinator.com/item?id=30811661</link>
+            <guid>https://news.ycombinator.com/item?id=30811661</guid>
+            <pubDate>Sat, 26 Mar 2022 13:36:21 GMT</pubDate>
+            <description><![CDATA[Show HN: GUI Applications in Podman on Wayland]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Typebot。一个对话式的表单生成器，你可以自我托管]]></title>
+            <link>https://news.ycombinator.com/item?id=30811499</link>
+            <guid>https://news.ycombinator.com/item?id=30811499</guid>
+            <pubDate>Sat, 26 Mar 2022 13:09:13 GMT</pubDate>
+            <description><![CDATA[Typebot: A conversational form builder that you can self-host]]></description>
+        </item>
         <item>
             <title><![CDATA[Python在科学计算中的反直觉崛起 (2020)]]></title>
             <link>https://news.ycombinator.com/item?id=30812086</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30739839</guid>
             <pubDate>Sun, 20 Mar 2022 03:35:26 GMT</pubDate>
             <description><![CDATA[A Letter to Microsoft for Not Attributing Authors of the Edge Flatpak App]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只阅读和回应文章标题的智力破产]]></title>
-            <link>https://news.ycombinator.com/item?id=30739820</link>
-            <guid>https://news.ycombinator.com/item?id=30739820</guid>
-            <pubDate>Sun, 20 Mar 2022 03:31:20 GMT</pubDate>
-            <description><![CDATA[The intellectual bankruptcy of only reading and responding to article titles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战略不是X]]></title>
-            <link>https://news.ycombinator.com/item?id=30719787</link>
-            <guid>https://news.ycombinator.com/item?id=30719787</guid>
-            <pubDate>Fri, 18 Mar 2022 08:26:42 GMT</pubDate>
-            <description><![CDATA[Strategy Is Not X]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust的不安全指针类型需要大修]]></title>
-            <link>https://news.ycombinator.com/item?id=30739557</link>
-            <guid>https://news.ycombinator.com/item?id=30739557</guid>
-            <pubDate>Sun, 20 Mar 2022 02:43:17 GMT</pubDate>
-            <description><![CDATA[Rust's Unsafe Pointer Types Need an Overhaul]]></description>
         </item>
     </channel>
 </rss>

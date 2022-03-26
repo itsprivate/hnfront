@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T15:13:19.396Z</updated>
+    <updated>2022-03-26T15:34:53.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重新开始--为新型计算机提供新型操作系统的FOSS建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30811899</id>
+        <link href="https://news.ycombinator.com/item?id=30811899"/>
+        <updated>2022-03-26T14:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Starting Over – A FOSS proposal for a new type of OS for a new type of computer]]></summary>
+        <author>
+            <name>gjvc</name>
+            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayland上Podman中的GUI应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30811661</id>
+        <link href="https://news.ycombinator.com/item?id=30811661"/>
+        <updated>2022-03-26T13:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GUI Applications in Podman on Wayland]]></summary>
+        <author>
+            <name>moody5bundle</name>
+            <uri>https://news.ycombinator.com/user?id=moody5bundle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typebot。一个对话式的表单生成器，你可以自我托管]]></title>
+        <id>https://news.ycombinator.com/item?id=30811499</id>
+        <link href="https://news.ycombinator.com/item?id=30811499"/>
+        <updated>2022-03-26T13:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Typebot: A conversational form builder that you can self-host]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python在科学计算中的反直觉崛起 (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=30812086</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>kirbyfan64sos</name>
             <uri>https://news.ycombinator.com/user?id=kirbyfan64sos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只阅读和回应文章标题的智力破产]]></title>
-        <id>https://news.ycombinator.com/item?id=30739820</id>
-        <link href="https://news.ycombinator.com/item?id=30739820"/>
-        <updated>2022-03-20T03:31:20.000Z</updated>
-        <summary type="html"><![CDATA[The intellectual bankruptcy of only reading and responding to article titles]]></summary>
-        <author>
-            <name>jamghee</name>
-            <uri>https://news.ycombinator.com/user?id=jamghee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战略不是X]]></title>
-        <id>https://news.ycombinator.com/item?id=30719787</id>
-        <link href="https://news.ycombinator.com/item?id=30719787"/>
-        <updated>2022-03-18T08:26:42.000Z</updated>
-        <summary type="html"><![CDATA[Strategy Is Not X]]></summary>
-        <author>
-            <name>umerf</name>
-            <uri>https://news.ycombinator.com/user?id=umerf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust的不安全指针类型需要大修]]></title>
-        <id>https://news.ycombinator.com/item?id=30739557</id>
-        <link href="https://news.ycombinator.com/item?id=30739557"/>
-        <updated>2022-03-20T02:43:17.000Z</updated>
-        <summary type="html"><![CDATA[Rust's Unsafe Pointer Types Need an Overhaul]]></summary>
-        <author>
-            <name>faitswulff</name>
-            <uri>https://news.ycombinator.com/user?id=faitswulff</uri>
         </author>
     </entry>
 </feed>
