@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T07:39:23.694Z</updated>
+    <updated>2022-03-26T07:51:29.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[地熱廠可以在美國西部打開大量的鋰供應]]></title>
+        <id>https://news.ycombinator.com/item?id=30809654</id>
+        <link href="https://news.ycombinator.com/item?id=30809654"/>
+        <updated>2022-03-26T06:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Geothermal Plants Could Unlock Vast Supplies of Lithium in the American West]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ASK HN]如何從YouTube上過濾掉MSM媒體？]]></title>
         <id>https://news.ycombinator.com/item?id=30809976</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aleclm</name>
             <uri>https://news.ycombinator.com/user?id=aleclm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當雙精度不夠用時]]></title>
-        <id>https://news.ycombinator.com/item?id=30735871</id>
-        <link href="https://news.ycombinator.com/item?id=30735871"/>
-        <updated>2022-03-19T17:47:20.000Z</updated>
-        <summary type="html"><![CDATA[When Double Precision Is Not Enough]]></summary>
-        <author>
-            <name>leonry</name>
-            <uri>https://news.ycombinator.com/user?id=leonry</uri>
         </author>
     </entry>
 </feed>
