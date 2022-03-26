@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T16:14:48.053Z</updated>
+    <updated>2022-03-26T16:45:24.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開放源碼軟件的貨幣化現狀]]></title>
+        <id>https://news.ycombinator.com/item?id=30813031</id>
+        <link href="https://news.ycombinator.com/item?id=30813031"/>
+        <updated>2022-03-26T16:04:00.000Z</updated>
+        <summary type="html"><![CDATA[State of OSS Monetization]]></summary>
+        <author>
+            <name>joergrech</name>
+            <uri>https://news.ycombinator.com/user?id=joergrech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raygui - 一個簡單而易用的即時模式GUI庫]]></title>
         <id>https://news.ycombinator.com/item?id=30813000</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cmeiklejohn</name>
             <uri>https://news.ycombinator.com/user?id=cmeiklejohn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超導HUSIR W波段發射器 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30719871</id>
-        <link href="https://news.ycombinator.com/item?id=30719871"/>
-        <updated>2022-03-18T08:40:08.000Z</updated>
-        <summary type="html"><![CDATA[The super-conducting HUSIR W-Band Transmitter [pdf]]]></summary>
-        <author>
-            <name>lokimedes</name>
-            <uri>https://news.ycombinator.com/user?id=lokimedes</uri>
         </author>
     </entry>
 </feed>

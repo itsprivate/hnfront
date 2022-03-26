@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 26 Mar 2022 16:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 16:45:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開放源碼軟件的貨幣化現狀]]></title>
+            <link>https://news.ycombinator.com/item?id=30813031</link>
+            <guid>https://news.ycombinator.com/item?id=30813031</guid>
+            <pubDate>Sat, 26 Mar 2022 16:04:00 GMT</pubDate>
+            <description><![CDATA[State of OSS Monetization]]></description>
+        </item>
         <item>
             <title><![CDATA[Raygui - 一個簡單而易用的即時模式GUI庫]]></title>
             <link>https://news.ycombinator.com/item?id=30813000</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30730677</guid>
             <pubDate>Sat, 19 Mar 2022 03:27:44 GMT</pubDate>
             <description><![CDATA[Understanding Why Resilience Faults in Microservice Applications Occur]]></description>
-        </item>
-        <item>
-            <title><![CDATA[超導HUSIR W波段發射器 [pdf]]]></title>
-            <link>https://news.ycombinator.com/item?id=30719871</link>
-            <guid>https://news.ycombinator.com/item?id=30719871</guid>
-            <pubDate>Fri, 18 Mar 2022 08:40:08 GMT</pubDate>
-            <description><![CDATA[The super-conducting HUSIR W-Band Transmitter [pdf]]]></description>
         </item>
     </channel>
 </rss>
