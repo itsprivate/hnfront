@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T09:38:57.217Z</updated>
+    <updated>2022-03-26T10:35:39.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瑞典Covid-19大流行期间对科学建议的评估]]></title>
+        <id>https://news.ycombinator.com/item?id=30810534</id>
+        <link href="https://news.ycombinator.com/item?id=30810534"/>
+        <updated>2022-03-26T09:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Evaluation of science advice during the Covid-19 pandemic in Sweden]]></summary>
+        <author>
+            <name>areoform</name>
+            <uri>https://news.ycombinator.com/user?id=areoform</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Docker容器内运行GUI应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30810410</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Eddy_Viscosity2</name>
             <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[结构化并发症]]></title>
-        <id>https://news.ycombinator.com/item?id=30720980</id>
-        <link href="https://news.ycombinator.com/item?id=30720980"/>
-        <updated>2022-03-18T11:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Structured Concurrency]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
