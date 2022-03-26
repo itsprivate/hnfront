@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T22:31:17.903Z</updated>
+    <updated>2022-03-26T22:40:28.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[化石。包括电池的 Git 替代方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30815693</id>
+        <link href="https://news.ycombinator.com/item?id=30815693"/>
+        <updated>2022-03-26T21:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Fossil: Battery Included Git Alternative]]></summary>
+        <author>
+            <name>cassepipe</name>
+            <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可编程说明]]></title>
+        <id>https://news.ycombinator.com/item?id=30814964</id>
+        <link href="https://news.ycombinator.com/item?id=30814964"/>
+        <updated>2022-03-26T20:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Programmable Notes]]></summary>
+        <author>
+            <name>MaysonL</name>
+            <uri>https://news.ycombinator.com/user?id=MaysonL</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[借助范畴理论，数学从平等中逃脱 (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=30809385</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>News-Dog</name>
             <uri>https://news.ycombinator.com/user?id=News-Dog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有谁想出了区块链的用途了吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30741841</id>
-        <link href="https://news.ycombinator.com/item?id=30741841"/>
-        <updated>2022-03-20T11:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone come up with a use for blockchain yet?]]></summary>
-        <author>
-            <name>nixass</name>
-            <uri>https://news.ycombinator.com/user?id=nixass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国草原上的高跷牧羊人，1843-1937年]]></title>
-        <id>https://news.ycombinator.com/item?id=30741556</id>
-        <link href="https://news.ycombinator.com/item?id=30741556"/>
-        <updated>2022-03-20T10:34:46.000Z</updated>
-        <summary type="html"><![CDATA[The stilt-walking shepherds of France's grasslands, 1843-1937]]></summary>
-        <author>
-            <name>ZeljkoS</name>
-            <uri>https://news.ycombinator.com/user?id=ZeljkoS</uri>
         </author>
     </entry>
 </feed>
