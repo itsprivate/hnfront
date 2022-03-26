@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T14:11:47.143Z</updated>
+    <updated>2022-03-26T14:29:17.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你從未聽說過的瀏覽器現在價值10億美元]]></title>
+        <id>https://news.ycombinator.com/item?id=30811808</id>
+        <link href="https://news.ycombinator.com/item?id=30811808"/>
+        <updated>2022-03-26T13:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Browser you've never heard of is now worth a billion dollars]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[切爾諾貝利監測實驗室的髒彈成分不翼而飛]]></title>
+        <id>https://news.ycombinator.com/item?id=30810890</id>
+        <link href="https://news.ycombinator.com/item?id=30810890"/>
+        <updated>2022-03-26T11:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Dirty bomb ingredients go missing from Chornobyl monitoring lab]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個尋找公共鋼琴的網站]]></title>
         <id>https://news.ycombinator.com/item?id=30811648</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>RickJWagner</name>
             <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇怪的科學]]></title>
-        <id>https://news.ycombinator.com/item?id=30718551</id>
-        <link href="https://news.ycombinator.com/item?id=30718551"/>
-        <updated>2022-03-18T03:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Weird Science]]></summary>
-        <author>
-            <name>Petiver</name>
-            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只是一些紅旗。沒有什麼大不了的。只要不理會它們]]></title>
-        <id>https://news.ycombinator.com/item?id=30739030</id>
-        <link href="https://news.ycombinator.com/item?id=30739030"/>
-        <updated>2022-03-20T01:04:34.000Z</updated>
-        <summary type="html"><![CDATA[Just some red flags. No big deal. Just ignore them]]></summary>
-        <author>
-            <name>wglb</name>
-            <uri>https://news.ycombinator.com/user?id=wglb</uri>
         </author>
     </entry>
 </feed>
