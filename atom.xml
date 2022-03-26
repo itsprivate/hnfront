@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T12:50:30.370Z</updated>
+    <updated>2022-03-26T13:35:04.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逃离普京的战时镇压的俄罗斯人]]></title>
+        <id>https://news.ycombinator.com/item?id=30811275</id>
+        <link href="https://news.ycombinator.com/item?id=30811275"/>
+        <updated>2022-03-26T12:27:25.000Z</updated>
+        <summary type="html"><![CDATA[The Russians Fleeing Putin's Wartime Crackdown]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[战争引发的全球饥饿灾难即将到来，解决方案难以获得]]></title>
+        <id>https://news.ycombinator.com/item?id=30811148</id>
+        <link href="https://news.ycombinator.com/item?id=30811148"/>
+        <updated>2022-03-26T12:07:53.000Z</updated>
+        <summary type="html"><![CDATA[War-Fueled Global Hunger Catastrophe on the Way with Solutions Tough to Come By]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一个远程团队的哀悼]]></title>
         <id>https://news.ycombinator.com/item?id=30811187</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ivank</name>
             <uri>https://news.ycombinator.com/user?id=ivank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fzf - 一个命令行的模糊搜索器]]></title>
-        <id>https://news.ycombinator.com/item?id=30736518</id>
-        <link href="https://news.ycombinator.com/item?id=30736518"/>
-        <updated>2022-03-19T18:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Fzf – a command-line fuzzy finder]]></summary>
-        <author>
-            <name>ewuhic</name>
-            <uri>https://news.ycombinator.com/user?id=ewuhic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code在最新的更新中随机删除了包含的头文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30737777</id>
-        <link href="https://news.ycombinator.com/item?id=30737777"/>
-        <updated>2022-03-19T21:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code is randomly erasing included header files with latest update]]></summary>
-        <author>
-            <name>whack</name>
-            <uri>https://news.ycombinator.com/user?id=whack</uri>
         </author>
     </entry>
 </feed>
