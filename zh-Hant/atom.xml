@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T08:13:47.355Z</updated>
+    <updated>2022-03-26T08:35:34.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你試著把你的獵物和呼吸同時束縛起來]]></title>
+        <id>https://news.ycombinator.com/item?id=30802508</id>
+        <link href="https://news.ycombinator.com/item?id=30802508"/>
+        <updated>2022-03-25T14:22:19.000Z</updated>
+        <summary type="html"><![CDATA[You Try Constricting Your Prey and Breathing at the Same Time]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[意外的空間天氣導致38顆星聯衛星重返大氣層]]></title>
         <id>https://news.ycombinator.com/item?id=30809759</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>imgabe</name>
             <uri>https://news.ycombinator.com/user?id=imgabe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DARPA對人工智能的看法 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30735800</id>
-        <link href="https://news.ycombinator.com/item?id=30735800"/>
-        <updated>2022-03-19T17:40:39.000Z</updated>
-        <summary type="html"><![CDATA[A DARPA Perspective on Artificial Intelligence [pdf]]]></summary>
-        <author>
-            <name>nulluint</name>
-            <uri>https://news.ycombinator.com/user?id=nulluint</uri>
         </author>
     </entry>
 </feed>
