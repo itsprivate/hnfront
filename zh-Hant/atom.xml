@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T07:12:20.679Z</updated>
+    <updated>2022-03-26T07:39:23.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[[ASK HN]如何從YouTube上過濾掉MSM媒體？]]></title>
+        <id>https://news.ycombinator.com/item?id=30809976</id>
+        <link href="https://news.ycombinator.com/item?id=30809976"/>
+        <updated>2022-03-26T07:24:19.000Z</updated>
+        <summary type="html"><![CDATA[[ASK HN] how to filter out MSM media from YouTube feed?]]></summary>
+        <author>
+            <name>perlpimp</name>
+            <uri>https://news.ycombinator.com/user?id=perlpimp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[早期階段創業公司執行的案例研究]]></title>
         <id>https://news.ycombinator.com/item?id=30799146</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>leonry</name>
             <uri>https://news.ycombinator.com/user?id=leonry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國半數人口在兒童早期暴露於不良鉛含量中]]></title>
-        <id>https://news.ycombinator.com/item?id=30735722</id>
-        <link href="https://news.ycombinator.com/item?id=30735722"/>
-        <updated>2022-03-19T17:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Half of US population exposed to adverse lead levels in early childhood]]></summary>
-        <author>
-            <name>nabla9</name>
-            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
         </author>
     </entry>
 </feed>
