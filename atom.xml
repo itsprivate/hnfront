@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T16:45:24.177Z</updated>
+    <updated>2022-03-26T17:16:04.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Basis (YC S21)正在招聘我们的第一个开发/设计人员，以建立数据的Figma。]]></title>
+        <id>https://news.ycombinator.com/item?id=30813449</id>
+        <link href="https://news.ycombinator.com/item?id=30813449"/>
+        <updated>2022-03-26T17:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Basis (YC S21) is hiring our first dev/designer to build Figma for data]]></summary>
+        <author>
+            <name>cstanley</name>
+            <uri>https://news.ycombinator.com/user?id=cstanley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia发布144核Grace CPU超级芯片]]></title>
+        <id>https://news.ycombinator.com/item?id=30788218</id>
+        <link href="https://news.ycombinator.com/item?id=30788218"/>
+        <updated>2022-03-24T10:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia Unveils 144-Core Grace CPU Superchip]]></summary>
+        <author>
+            <name>manmal</name>
+            <uri>https://news.ycombinator.com/user?id=manmal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开放源码软件的货币化现状]]></title>
         <id>https://news.ycombinator.com/item?id=30813031</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nnx</name>
             <uri>https://news.ycombinator.com/user?id=nnx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raycast（YC W20）正在招聘，以使工作无障碍（欧洲的远程）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30740743</id>
-        <link href="https://news.ycombinator.com/item?id=30740743"/>
-        <updated>2022-03-20T07:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)]]></summary>
-        <author>
-            <name>thomaspaulmann</name>
-            <uri>https://news.ycombinator.com/user?id=thomaspaulmann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解微服务应用中的弹性故障发生的原因]]></title>
-        <id>https://news.ycombinator.com/item?id=30730677</id>
-        <link href="https://news.ycombinator.com/item?id=30730677"/>
-        <updated>2022-03-19T03:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Why Resilience Faults in Microservice Applications Occur]]></summary>
-        <author>
-            <name>cmeiklejohn</name>
-            <uri>https://news.ycombinator.com/user?id=cmeiklejohn</uri>
         </author>
     </entry>
 </feed>
