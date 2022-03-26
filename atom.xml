@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T09:31:28.921Z</updated>
+    <updated>2022-03-26T09:38:57.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Docker容器内运行GUI应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30810410</id>
+        <link href="https://news.ycombinator.com/item?id=30810410"/>
+        <updated>2022-03-26T09:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Running GUI apps within Docker containers]]></summary>
+        <author>
+            <name>rl1987</name>
+            <uri>https://news.ycombinator.com/user?id=rl1987</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crossrail关于伊丽莎白线开通计划的最新情况]]></title>
         <id>https://news.ycombinator.com/item?id=30810198</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狗狗可能因为和人类一样的原因而感到焦虑]]></title>
-        <id>https://news.ycombinator.com/item?id=30736488</id>
-        <link href="https://news.ycombinator.com/item?id=30736488"/>
-        <updated>2022-03-19T18:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Dogs might be anxious for the same reasons as humans]]></summary>
-        <author>
-            <name>whack</name>
-            <uri>https://news.ycombinator.com/user?id=whack</uri>
         </author>
     </entry>
 </feed>
