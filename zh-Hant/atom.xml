@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T03:18:35.133Z</updated>
+    <updated>2022-03-26T04:14:17.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[`_COPY -chmod`將我的容器鏡像的大小減少了35%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30808945</id>
+        <link href="https://news.ycombinator.com/item?id=30808945"/>
+        <updated>2022-03-26T03:11:58.000Z</updated>
+        <summary type="html"><![CDATA[`COPY –chmod` reduced the size of my container image by 35%]]></summary>
+        <author>
+            <name>unmole</name>
+            <uri>https://news.ycombinator.com/user?id=unmole</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人員發現東亞地區已知的最古老的赭石作坊]]></title>
+        <id>https://news.ycombinator.com/item?id=30798690</id>
+        <link href="https://news.ycombinator.com/item?id=30798690"/>
+        <updated>2022-03-25T04:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Researchers Discover Oldest-Known Ochre Workshop in East Asia]]></summary>
+        <author>
+            <name>diodorus</name>
+            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[101高速公路上的橋樑將破土動工]]></title>
         <id>https://news.ycombinator.com/item?id=30808901</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>yungookim</name>
             <uri>https://news.ycombinator.com/user?id=yungookim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男人的孩子》正在上演]]></title>
-        <id>https://news.ycombinator.com/item?id=30735230</id>
-        <link href="https://news.ycombinator.com/item?id=30735230"/>
-        <updated>2022-03-19T16:41:24.000Z</updated>
-        <summary type="html"><![CDATA['Children of Men' is happening]]></summary>
-        <author>
-            <name>rwmj</name>
-            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啟動HN：Livedocs（YC W22）--在你的文件中的實時數據，無需代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30735058</id>
-        <link href="https://news.ycombinator.com/item?id=30735058"/>
-        <updated>2022-03-19T16:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Livedocs (YC W22) – Live data in your documents, without code]]></summary>
-        <author>
-            <name>arsalanb</name>
-            <uri>https://news.ycombinator.com/user?id=arsalanb</uri>
         </author>
     </entry>
 </feed>

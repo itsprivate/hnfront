@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 26 Mar 2022 03:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 04:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[`_COPY -chmod`將我的容器鏡像的大小減少了35%。]]></title>
+            <link>https://news.ycombinator.com/item?id=30808945</link>
+            <guid>https://news.ycombinator.com/item?id=30808945</guid>
+            <pubDate>Sat, 26 Mar 2022 03:11:58 GMT</pubDate>
+            <description><![CDATA[`COPY –chmod` reduced the size of my container image by 35%]]></description>
+        </item>
+        <item>
+            <title><![CDATA[研究人員發現東亞地區已知的最古老的赭石作坊]]></title>
+            <link>https://news.ycombinator.com/item?id=30798690</link>
+            <guid>https://news.ycombinator.com/item?id=30798690</guid>
+            <pubDate>Fri, 25 Mar 2022 04:36:03 GMT</pubDate>
+            <description><![CDATA[Researchers Discover Oldest-Known Ochre Workshop in East Asia]]></description>
+        </item>
         <item>
             <title><![CDATA[101高速公路上的橋樑將破土動工]]></title>
             <link>https://news.ycombinator.com/item?id=30808901</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30735425</guid>
             <pubDate>Sat, 19 Mar 2022 17:00:23 GMT</pubDate>
             <description><![CDATA[Agentnoon (YC W22) Is Hiring]]></description>
-        </item>
-        <item>
-            <title><![CDATA[男人的孩子》正在上演]]></title>
-            <link>https://news.ycombinator.com/item?id=30735230</link>
-            <guid>https://news.ycombinator.com/item?id=30735230</guid>
-            <pubDate>Sat, 19 Mar 2022 16:41:24 GMT</pubDate>
-            <description><![CDATA['Children of Men' is happening]]></description>
-        </item>
-        <item>
-            <title><![CDATA[啟動HN：Livedocs（YC W22）--在你的文件中的實時數據，無需代碼]]></title>
-            <link>https://news.ycombinator.com/item?id=30735058</link>
-            <guid>https://news.ycombinator.com/item?id=30735058</guid>
-            <pubDate>Sat, 19 Mar 2022 16:25:10 GMT</pubDate>
-            <description><![CDATA[Launch HN: Livedocs (YC W22) – Live data in your documents, without code]]></description>
         </item>
     </channel>
 </rss>
