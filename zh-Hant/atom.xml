@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T17:41:23.598Z</updated>
+    <updated>2022-03-26T18:13:40.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wachy - 一個基於eBPF的性能調試的用戶界面]]></title>
+        <id>https://news.ycombinator.com/item?id=30812988</id>
+        <link href="https://news.ycombinator.com/item?id=30812988"/>
+        <updated>2022-03-26T15:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wachy – A UI for eBPF-based performance debugging]]></summary>
+        <author>
+            <name>vivek-jain</name>
+            <uri>https://news.ycombinator.com/user?id=vivek-jain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何打造最小可愛的產品]]></title>
+        <id>https://news.ycombinator.com/item?id=30799083</id>
+        <link href="https://news.ycombinator.com/item?id=30799083"/>
+        <updated>2022-03-25T05:57:13.000Z</updated>
+        <summary type="html"><![CDATA[How to Build a Minimum Lovable Product]]></summary>
+        <author>
+            <name>dundalk03</name>
+            <uri>https://news.ycombinator.com/user?id=dundalk03</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何建立一個更快的文件傳輸協議]]></title>
         <id>https://news.ycombinator.com/item?id=30813345</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>varun_ch</name>
             <uri>https://news.ycombinator.com/user?id=varun_ch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分片數據庫可以使其更快]]></title>
-        <id>https://news.ycombinator.com/item?id=30695323</id>
-        <link href="https://news.ycombinator.com/item?id=30695323"/>
-        <updated>2022-03-16T04:28:59.000Z</updated>
-        <summary type="html"><![CDATA[Sharding a database can make it faster]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP流媒體音頻]]></title>
-        <id>https://news.ycombinator.com/item?id=30740774</id>
-        <link href="https://news.ycombinator.com/item?id=30740774"/>
-        <updated>2022-03-20T07:07:22.000Z</updated>
-        <summary type="html"><![CDATA[PHP Streaming Audio]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
         </author>
     </entry>
 </feed>
