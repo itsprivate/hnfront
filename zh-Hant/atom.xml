@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T12:17:00.094Z</updated>
+    <updated>2022-03-26T12:50:30.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個遠程團隊的哀悼]]></title>
+        <id>https://news.ycombinator.com/item?id=30811187</id>
+        <link href="https://news.ycombinator.com/item?id=30811187"/>
+        <updated>2022-03-26T12:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Mourning as a Remote Team]]></summary>
+        <author>
+            <name>asyncscrum</name>
+            <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟件工程師入職指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30810786</id>
+        <link href="https://news.ycombinator.com/item?id=30810786"/>
+        <updated>2022-03-26T10:58:36.000Z</updated>
+        <summary type="html"><![CDATA[The Guide to Onboarding Software Engineers]]></summary>
+        <author>
+            <name>ochronus</name>
+            <uri>https://news.ycombinator.com/user?id=ochronus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運行好服務器（和服務）並非易事 (2018)]]></title>
         <id>https://news.ycombinator.com/item?id=30810980</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>whack</name>
             <uri>https://news.ycombinator.com/user?id=whack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅伯特-弗雷塔斯開始 "異體學 "時還在讀大學]]></title>
-        <id>https://news.ycombinator.com/item?id=30723708</id>
-        <link href="https://news.ycombinator.com/item?id=30723708"/>
-        <updated>2022-03-18T15:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Robert Freitas was still in college when he started “Xenology”]]></summary>
-        <author>
-            <name>Breadmaker</name>
-            <uri>https://news.ycombinator.com/user?id=Breadmaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[錯誤信息的傳播。我們反覆看到的一種模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30737768</id>
-        <link href="https://news.ycombinator.com/item?id=30737768"/>
-        <updated>2022-03-19T21:33:04.000Z</updated>
-        <summary type="html"><![CDATA[The spread of misinformation: A pattern we see over and over]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
         </author>
     </entry>
 </feed>
