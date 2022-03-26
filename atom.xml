@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T05:28:59.061Z</updated>
+    <updated>2022-03-26T06:14:21.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[记录你的错误，然后尝试在未来阻止它们]]></title>
+        <id>https://news.ycombinator.com/item?id=30791425</id>
+        <link href="https://news.ycombinator.com/item?id=30791425"/>
+        <updated>2022-03-24T15:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Document your mistakes and then try to block them in the future]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foo Fighters鼓手泰勒-霍金斯去世，享年50岁]]></title>
         <id>https://news.ycombinator.com/item?id=30809314</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aiobe</name>
             <uri>https://news.ycombinator.com/user?id=aiobe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Go中实施的BGP]]></title>
-        <id>https://news.ycombinator.com/item?id=30734712</id>
-        <link href="https://news.ycombinator.com/item?id=30734712"/>
-        <updated>2022-03-19T15:46:15.000Z</updated>
-        <summary type="html"><![CDATA[BGP Implemented in Go]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
         </author>
     </entry>
 </feed>
