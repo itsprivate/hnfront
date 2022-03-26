@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T15:34:53.794Z</updated>
+    <updated>2022-03-26T15:45:28.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Slint：用于Rust、C++或JavaScript的本地GUI工具箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30810533</id>
+        <link href="https://news.ycombinator.com/item?id=30810533"/>
+        <updated>2022-03-26T09:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Slint: Native GUI Toolkit for Rust, C++ or JavaScript]]></summary>
+        <author>
+            <name>surrTurr</name>
+            <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新开始--为新型计算机提供新型操作系统的FOSS建议]]></title>
         <id>https://news.ycombinator.com/item?id=30811899</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ryeguy_24</name>
             <uri>https://news.ycombinator.com/user?id=ryeguy_24</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给微软的一封信，因为它没有为Edge Flatpak应用程序的作者署名。]]></title>
-        <id>https://news.ycombinator.com/item?id=30739839</id>
-        <link href="https://news.ycombinator.com/item?id=30739839"/>
-        <updated>2022-03-20T03:35:26.000Z</updated>
-        <summary type="html"><![CDATA[A Letter to Microsoft for Not Attributing Authors of the Edge Flatpak App]]></summary>
-        <author>
-            <name>kirbyfan64sos</name>
-            <uri>https://news.ycombinator.com/user?id=kirbyfan64sos</uri>
         </author>
     </entry>
 </feed>
