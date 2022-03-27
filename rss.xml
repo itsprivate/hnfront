@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 27 Mar 2022 14:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 14:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["从亚马逊获取我的个人数据是一场噩梦"]]></title>
+            <link>https://news.ycombinator.com/item?id=30820424</link>
+            <guid>https://news.ycombinator.com/item?id=30820424</guid>
+            <pubDate>Sun, 27 Mar 2022 14:17:09 GMT</pubDate>
+            <description><![CDATA[“Obtaining My Personal Data from Amazon Was a Nightmare”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Firejail。Linux命名空间和seccomp-bpf沙箱]]></title>
+            <link>https://news.ycombinator.com/item?id=30820387</link>
+            <guid>https://news.ycombinator.com/item?id=30820387</guid>
+            <pubDate>Sun, 27 Mar 2022 14:11:14 GMT</pubDate>
+            <description><![CDATA[Firejail: Linux namespaces and seccomp-bpf sandbox]]></description>
+        </item>
         <item>
             <title><![CDATA[滚动线。铁路模型仿真器]]></title>
             <link>https://news.ycombinator.com/item?id=30820315</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30746568</guid>
             <pubDate>Sun, 20 Mar 2022 21:00:20 GMT</pubDate>
             <description><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Principal Engineer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[硅谷的性审查制度伤害了所有人]]></title>
-            <link>https://news.ycombinator.com/item?id=30746369</link>
-            <guid>https://news.ycombinator.com/item?id=30746369</guid>
-            <pubDate>Sun, 20 Mar 2022 20:36:12 GMT</pubDate>
-            <description><![CDATA[Silicon Valley's Sex Censorship Harms Everyone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[嵌入恶意代码的node-ipc]]></title>
-            <link>https://news.ycombinator.com/item?id=30746289</link>
-            <guid>https://news.ycombinator.com/item?id=30746289</guid>
-            <pubDate>Sun, 20 Mar 2022 20:28:13 GMT</pubDate>
-            <description><![CDATA[Embedded Malicious Code in node-ipc]]></description>
         </item>
     </channel>
 </rss>
