@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T17:34:10.018Z</updated>
+    <updated>2022-03-27T17:42:11.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Poop.is - 一個蹩腳的鏈接縮短器]]></title>
+        <id>https://news.ycombinator.com/item?id=30822010</id>
+        <link href="https://news.ycombinator.com/item?id=30822010"/>
+        <updated>2022-03-27T17:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Poop.is – A Crappy Link Shortener]]></summary>
+        <author>
+            <name>j3s</name>
+            <uri>https://news.ycombinator.com/user?id=j3s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["HN峰值 "的出現]]></title>
         <id>https://news.ycombinator.com/item?id=30821894</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>clouddrover</name>
             <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vast.ai - 租用你的GPU，或租用別人的GPU的市場。]]></title>
-        <id>https://news.ycombinator.com/item?id=30736459</id>
-        <link href="https://news.ycombinator.com/item?id=30736459"/>
-        <updated>2022-03-19T18:42:48.000Z</updated>
-        <summary type="html"><![CDATA[Vast.ai – marketplace for renting out your GPU, or renting someone else's GPU]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
         </author>
     </entry>
 </feed>
