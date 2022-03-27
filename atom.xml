@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T20:14:00.942Z</updated>
+    <updated>2022-03-27T20:33:38.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Thundernetes让你的游戏服务器在Kubernetes上轻松运行]]></title>
+        <id>https://news.ycombinator.com/item?id=30811847</id>
+        <link href="https://news.ycombinator.com/item?id=30811847"/>
+        <updated>2022-03-26T14:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Thundernetes makes it easy to run your game servers on Kubernetes]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泡沫包装。Linux的无特权沙盒工具]]></title>
         <id>https://news.ycombinator.com/item?id=30823164</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hkc</name>
             <uri>https://news.ycombinator.com/user?id=hkc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国东航MU5735航班坠毁，机上有132人]]></title>
-        <id>https://news.ycombinator.com/item?id=30751785</id>
-        <link href="https://news.ycombinator.com/item?id=30751785"/>
-        <updated>2022-03-21T08:50:20.000Z</updated>
-        <summary type="html"><![CDATA[China Eastern flight MU5735 crashes, 132 people were on board]]></summary>
-        <author>
-            <name>ammo1662</name>
-            <uri>https://news.ycombinator.com/user?id=ammo1662</uri>
         </author>
     </entry>
 </feed>
