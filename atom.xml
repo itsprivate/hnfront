@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T21:12:27.306Z</updated>
+    <updated>2022-03-27T21:31:56.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：确保用Fastmail配置DKIM/SPF]]></title>
+        <id>https://news.ycombinator.com/item?id=30823772</id>
+        <link href="https://news.ycombinator.com/item?id=30823772"/>
+        <updated>2022-03-27T20:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Make sure to configure DKIM/SPF with Fastmail]]></summary>
+        <author>
+            <name>whichdan</name>
+            <uri>https://news.ycombinator.com/user?id=whichdan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[边角料搜索。1年]]></title>
+        <id>https://news.ycombinator.com/item?id=30823481</id>
+        <link href="https://news.ycombinator.com/item?id=30823481"/>
+        <updated>2022-03-27T19:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Marginalia Search: 1 Year]]></summary>
+        <author>
+            <name>georgehill</name>
+            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复制树的高可用性移动操作 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30811072</id>
+        <link href="https://news.ycombinator.com/item?id=30811072"/>
+        <updated>2022-03-26T11:54:06.000Z</updated>
+        <summary type="html"><![CDATA[A highly-available move opertaion for replicated trees [pdf]]]></summary>
+        <author>
+            <name>a7b3fa</name>
+            <uri>https://news.ycombinator.com/user?id=a7b3fa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EasyPost (YC S13)正在招聘远程API工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30824117</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>anticrisis</name>
             <uri>https://news.ycombinator.com/user?id=anticrisis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在同一地点搜索域名和用户名]]></title>
-        <id>https://news.ycombinator.com/item?id=30752067</id>
-        <link href="https://news.ycombinator.com/item?id=30752067"/>
-        <updated>2022-03-21T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Search Domain and Username in the same place]]></summary>
-        <author>
-            <name>rajasimon</name>
-            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代理人的入门知识]]></title>
-        <id>https://news.ycombinator.com/item?id=30736610</id>
-        <link href="https://news.ycombinator.com/item?id=30736610"/>
-        <updated>2022-03-19T18:57:20.000Z</updated>
-        <summary type="html"><![CDATA[A Primer on Proxies]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泛音是现场可编程的音乐和视觉化]]></title>
-        <id>https://news.ycombinator.com/item?id=30752148</id>
-        <link href="https://news.ycombinator.com/item?id=30752148"/>
-        <updated>2022-03-21T09:52:27.000Z</updated>
-        <summary type="html"><![CDATA[Overtone is live programmable music and visualization]]></summary>
-        <author>
-            <name>jakewins</name>
-            <uri>https://news.ycombinator.com/user?id=jakewins</uri>
         </author>
     </entry>
 </feed>

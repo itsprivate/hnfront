@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 27 Mar 2022 21:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 21:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告訴HN：確保用Fastmail配置DKIM/SPF]]></title>
+            <link>https://news.ycombinator.com/item?id=30823772</link>
+            <guid>https://news.ycombinator.com/item?id=30823772</guid>
+            <pubDate>Sun, 27 Mar 2022 20:27:58 GMT</pubDate>
+            <description><![CDATA[Tell HN: Make sure to configure DKIM/SPF with Fastmail]]></description>
+        </item>
+        <item>
+            <title><![CDATA[邊角料搜索。1年]]></title>
+            <link>https://news.ycombinator.com/item?id=30823481</link>
+            <guid>https://news.ycombinator.com/item?id=30823481</guid>
+            <pubDate>Sun, 27 Mar 2022 19:55:18 GMT</pubDate>
+            <description><![CDATA[Marginalia Search: 1 Year]]></description>
+        </item>
+        <item>
+            <title><![CDATA[複製樹的高可用性移動操作 [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30811072</link>
+            <guid>https://news.ycombinator.com/item?id=30811072</guid>
+            <pubDate>Sat, 26 Mar 2022 11:54:06 GMT</pubDate>
+            <description><![CDATA[A highly-available move opertaion for replicated trees [pdf]]]></description>
+        </item>
         <item>
             <title><![CDATA[EasyPost (YC S13)正在招聘遠程API工程師]]></title>
             <link>https://news.ycombinator.com/item?id=30824117</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30751840</guid>
             <pubDate>Mon, 21 Mar 2022 09:01:26 GMT</pubDate>
             <description><![CDATA[Technology’s Impact on Morality]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在同一地點搜索域名和用戶名]]></title>
-            <link>https://news.ycombinator.com/item?id=30752067</link>
-            <guid>https://news.ycombinator.com/item?id=30752067</guid>
-            <pubDate>Mon, 21 Mar 2022 09:40:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Search Domain and Username in the same place]]></description>
-        </item>
-        <item>
-            <title><![CDATA[代理人的入門知識]]></title>
-            <link>https://news.ycombinator.com/item?id=30736610</link>
-            <guid>https://news.ycombinator.com/item?id=30736610</guid>
-            <pubDate>Sat, 19 Mar 2022 18:57:20 GMT</pubDate>
-            <description><![CDATA[A Primer on Proxies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[泛音是現場可編程的音樂和視覺化]]></title>
-            <link>https://news.ycombinator.com/item?id=30752148</link>
-            <guid>https://news.ycombinator.com/item?id=30752148</guid>
-            <pubDate>Mon, 21 Mar 2022 09:52:27 GMT</pubDate>
-            <description><![CDATA[Overtone is live programmable music and visualization]]></description>
         </item>
     </channel>
 </rss>
