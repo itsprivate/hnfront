@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T16:14:48.633Z</updated>
+    <updated>2022-03-27T16:47:58.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[5G怀疑论者]]></title>
+        <id>https://news.ycombinator.com/item?id=30821504</id>
+        <link href="https://news.ycombinator.com/item?id=30821504"/>
+        <updated>2022-03-27T16:22:45.000Z</updated>
+        <summary type="html"><![CDATA[5G Skeptic]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个事件驱动的系统，用Python和pyimgui快速制作GUI]]></title>
+        <id>https://news.ycombinator.com/item?id=30820912</id>
+        <link href="https://news.ycombinator.com/item?id=30820912"/>
+        <updated>2022-03-27T15:21:09.000Z</updated>
+        <summary type="html"><![CDATA[I made an event-driven system to quickly make GUIs with Python and pyimgui]]></summary>
+        <author>
+            <name>jr11</name>
+            <uri>https://news.ycombinator.com/user?id=jr11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火狐浏览器UI/UX历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30820894</id>
+        <link href="https://news.ycombinator.com/item?id=30820894"/>
+        <updated>2022-03-27T15:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Firefox UI/UX History]]></summary>
+        <author>
+            <name>black7375</name>
+            <uri>https://news.ycombinator.com/user?id=black7375</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随机访问噪声 - 基于计数器的伪随机数发生器]]></title>
+        <id>https://news.ycombinator.com/item?id=30787317</id>
+        <link href="https://news.ycombinator.com/item?id=30787317"/>
+        <updated>2022-03-24T08:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Random access noise – counter-based pseudo-random number generator]]></summary>
+        <author>
+            <name>joelkp</name>
+            <uri>https://news.ycombinator.com/user?id=joelkp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twibright Optar - OPTical ARchiver - 一种用于在纸上编码数据的编解码器]]></title>
         <id>https://news.ycombinator.com/item?id=30820836</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>KilledByAPixel</name>
             <uri>https://news.ycombinator.com/user?id=KilledByAPixel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：HN不是DuckDuckGo上 "黑客新闻 "的第一个结果。]]></title>
-        <id>https://news.ycombinator.com/item?id=30747815</id>
-        <link href="https://news.ycombinator.com/item?id=30747815"/>
-        <updated>2022-03-20T23:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: HN is not the first result for “Hacker News” on DuckDuckGo]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeEdit: 为macOS建立一个免费、开源的代码编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=30747211</id>
-        <link href="https://news.ycombinator.com/item?id=30747211"/>
-        <updated>2022-03-20T22:10:31.000Z</updated>
-        <summary type="html"><![CDATA[CodeEdit: Building a free, open-source code editor for macOS]]></summary>
-        <author>
-            <name>readbeard</name>
-            <uri>https://news.ycombinator.com/user?id=readbeard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医生希望病人知道的长科维德的情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30747657</id>
-        <link href="https://news.ycombinator.com/item?id=30747657"/>
-        <updated>2022-03-20T23:00:17.000Z</updated>
-        <summary type="html"><![CDATA[What doctors wish patients knew about long Covid]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows操作系统需要改变优先次序]]></title>
-        <id>https://news.ycombinator.com/item?id=30747332</id>
-        <link href="https://news.ycombinator.com/item?id=30747332"/>
-        <updated>2022-03-20T22:24:22.000Z</updated>
-        <summary type="html"><![CDATA[The Windows OS needs a change in priorities]]></summary>
-        <author>
-            <name>dend</name>
-            <uri>https://news.ycombinator.com/user?id=dend</uri>
         </author>
     </entry>
 </feed>
