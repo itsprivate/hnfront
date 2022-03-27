@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T02:59:07.544Z</updated>
+    <updated>2022-03-27T03:17:30.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kotlin for JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=30817065</id>
+        <link href="https://news.ycombinator.com/item?id=30817065"/>
+        <updated>2022-03-27T01:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Kotlin for JavaScript]]></summary>
+        <author>
+            <name>surrTurr</name>
+            <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于无限小数扩展、缺失数和生成函数(2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30787203</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arkadiyt</name>
             <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通货膨胀是一种疾病 - 米尔顿-弗里德曼]]></title>
-        <id>https://news.ycombinator.com/item?id=30743725</id>
-        <link href="https://news.ycombinator.com/item?id=30743725"/>
-        <updated>2022-03-20T15:56:15.000Z</updated>
-        <summary type="html"><![CDATA[Inflation is a disease – Milton Friedman]]></summary>
-        <author>
-            <name>azizsaya</name>
-            <uri>https://news.ycombinator.com/user?id=azizsaya</uri>
         </author>
     </entry>
 </feed>
