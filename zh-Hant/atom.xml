@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T08:14:10.496Z</updated>
+    <updated>2022-03-27T08:35:49.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在React中把YouTube視頻作為背景]]></title>
+        <id>https://news.ycombinator.com/item?id=30809948</id>
+        <link href="https://news.ycombinator.com/item?id=30809948"/>
+        <updated>2022-03-26T07:18:52.000Z</updated>
+        <summary type="html"><![CDATA[YouTube Video as Background in React]]></summary>
+        <author>
+            <name>debdut</name>
+            <uri>https://news.ycombinator.com/user?id=debdut</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有些黑洞會抹去你的過去（2018）。]]></title>
         <id>https://news.ycombinator.com/item?id=30818363</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mariuz</name>
             <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Instagram的桌面網站如此不可靠？]]></title>
-        <id>https://news.ycombinator.com/item?id=30744392</id>
-        <link href="https://news.ycombinator.com/item?id=30744392"/>
-        <updated>2022-03-20T17:05:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is the Instagram desktop website so unreliable?]]></summary>
-        <author>
-            <name>ent101</name>
-            <uri>https://news.ycombinator.com/user?id=ent101</uri>
         </author>
     </entry>
 </feed>
