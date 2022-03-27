@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T17:51:03.646Z</updated>
+    <updated>2022-03-27T18:14:04.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Raspberry Pi Pico上运行CP/M]]></title>
+        <id>https://news.ycombinator.com/item?id=30820667</id>
+        <link href="https://news.ycombinator.com/item?id=30820667"/>
+        <updated>2022-03-27T14:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Running CP/M on the Raspberry Pi Pico]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日常驾驶Mac，一年后]]></title>
         <id>https://news.ycombinator.com/item?id=30821453</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：你知道你可以在很多东西上谈价格吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30748959</id>
-        <link href="https://news.ycombinator.com/item?id=30748959"/>
-        <updated>2022-03-21T01:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Did you know you can negotiate price on many things?]]></summary>
-        <author>
-            <name>staccatomeasure</name>
-            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
         </author>
     </entry>
 </feed>
