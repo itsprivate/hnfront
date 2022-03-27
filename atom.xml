@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T02:17:44.728Z</updated>
+    <updated>2022-03-27T02:59:07.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于无限小数扩展、缺失数和生成函数(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30787203</id>
+        <link href="https://news.ycombinator.com/item?id=30787203"/>
+        <updated>2022-03-24T07:46:29.000Z</updated>
+        <summary type="html"><![CDATA[On infinite decimal expansions, missing numbers, and generating functions (2021)]]></summary>
+        <author>
+            <name>gone35</name>
+            <uri>https://news.ycombinator.com/user?id=gone35</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andrej Karpathy：TikTok是可怕的好事。它是数字裂缝]]></title>
         <id>https://news.ycombinator.com/item?id=30817017</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>azizsaya</name>
             <uri>https://news.ycombinator.com/user?id=azizsaya</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐浏览器中的Rust有多少？2022年3月]]></title>
-        <id>https://news.ycombinator.com/item?id=30743577</id>
-        <link href="https://news.ycombinator.com/item?id=30743577"/>
-        <updated>2022-03-20T15:41:25.000Z</updated>
-        <summary type="html"><![CDATA[How much Rust in Firefox? March 2022]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>
