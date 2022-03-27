@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T15:52:43.003Z</updated>
+    <updated>2022-03-27T16:14:48.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Twibright Optar - OPTical ARchiver - 一種用於在紙上編碼數據的編解碼器]]></title>
+        <id>https://news.ycombinator.com/item?id=30820836</id>
+        <link href="https://news.ycombinator.com/item?id=30820836"/>
+        <updated>2022-03-27T15:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Twibright Optar – OPTical ARchiver – a codec for encoding data on paper]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真空管的被遺忘的對手]]></title>
         <id>https://news.ycombinator.com/item?id=30821096</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dend</name>
             <uri>https://news.ycombinator.com/user?id=dend</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個平臺，讓項目找到維護者]]></title>
-        <id>https://news.ycombinator.com/item?id=30746326</id>
-        <link href="https://news.ycombinator.com/item?id=30746326"/>
-        <updated>2022-03-20T20:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a platform for projects to find maintainers]]></summary>
-        <author>
-            <name>garritfra</name>
-            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
         </author>
     </entry>
 </feed>
