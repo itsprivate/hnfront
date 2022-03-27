@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T03:38:13.086Z</updated>
+    <updated>2022-03-27T04:40:46.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[古代巴比倫人在天空中看到了什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30809588</id>
+        <link href="https://news.ycombinator.com/item?id=30809588"/>
+        <updated>2022-03-26T05:53:18.000Z</updated>
+        <summary type="html"><![CDATA[What did the ancient Babylonians discern in the skies above?]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無論QuickTime發生了什麼變化？]]></title>
         <id>https://news.ycombinator.com/item?id=30810556</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>baskethead</name>
             <uri>https://news.ycombinator.com/user?id=baskethead</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個更好的分蛋糕的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30743841</id>
-        <link href="https://news.ycombinator.com/item?id=30743841"/>
-        <updated>2022-03-20T16:07:15.000Z</updated>
-        <summary type="html"><![CDATA[A better way to divide the pie]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
