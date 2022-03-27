@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T03:17:30.655Z</updated>
+    <updated>2022-03-27T03:38:13.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[無論QuickTime發生了什麼變化？]]></title>
+        <id>https://news.ycombinator.com/item?id=30810556</id>
+        <link href="https://news.ycombinator.com/item?id=30810556"/>
+        <updated>2022-03-26T10:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Whatever Happened to QuickTime?]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kotlin for JavaScript]]></title>
         <id>https://news.ycombinator.com/item?id=30817065</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州如何建立全國第一個隱私警察]]></title>
-        <id>https://news.ycombinator.com/item?id=30743781</id>
-        <link href="https://news.ycombinator.com/item?id=30743781"/>
-        <updated>2022-03-20T16:01:42.000Z</updated>
-        <summary type="html"><![CDATA[How California Is Building the Nation’s First Privacy Police]]></summary>
-        <author>
-            <name>arkadiyt</name>
-            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
         </author>
     </entry>
 </feed>
