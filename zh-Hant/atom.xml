@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T05:29:44.980Z</updated>
+    <updated>2022-03-27T06:14:02.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[信息有質量]]></title>
+        <id>https://news.ycombinator.com/item?id=30816578</id>
+        <link href="https://news.ycombinator.com/item?id=30816578"/>
+        <updated>2022-03-27T00:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Information Has Mass]]></summary>
+        <author>
+            <name>00117</name>
+            <uri>https://news.ycombinator.com/user?id=00117</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux中的進程調度]]></title>
         <id>https://news.ycombinator.com/item?id=30809937</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你這老蛇]]></title>
-        <id>https://news.ycombinator.com/item?id=30738103</id>
-        <link href="https://news.ycombinator.com/item?id=30738103"/>
-        <updated>2022-03-19T22:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Thou Old Serpent]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
         </author>
     </entry>
 </feed>
