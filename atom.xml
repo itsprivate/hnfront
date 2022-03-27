@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T12:50:15.398Z</updated>
+    <updated>2022-03-27T13:08:05.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么没有一个谷歌的竞争对手出现？]]></title>
+        <id>https://news.ycombinator.com/item?id=30819678</id>
+        <link href="https://news.ycombinator.com/item?id=30819678"/>
+        <updated>2022-03-27T12:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't there a Google competitor emerging?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥克塔。"我们犯了一个错误"，推迟披露Lapsus$黑客攻击事件]]></title>
         <id>https://news.ycombinator.com/item?id=30819368</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PhantomPhreak</name>
             <uri>https://news.ycombinator.com/user?id=PhantomPhreak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按年龄和性别划分的握力]]></title>
-        <id>https://news.ycombinator.com/item?id=30746145</id>
-        <link href="https://news.ycombinator.com/item?id=30746145"/>
-        <updated>2022-03-20T20:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Grip Strength by Age and Sex]]></summary>
-        <author>
-            <name>version_five</name>
-            <uri>https://news.ycombinator.com/user?id=version_five</uri>
         </author>
     </entry>
 </feed>
