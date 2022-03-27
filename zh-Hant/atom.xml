@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T13:08:05.572Z</updated>
+    <updated>2022-03-27T13:43:42.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mach v0.1--跨平臺的Zig圖形，大約60秒內完成]]></title>
+        <id>https://news.ycombinator.com/item?id=30819206</id>
+        <link href="https://news.ycombinator.com/item?id=30819206"/>
+        <updated>2022-03-27T10:36:47.000Z</updated>
+        <summary type="html"><![CDATA[Mach v0.1 – cross-platform Zig graphics in ~60 seconds]]></summary>
+        <author>
+            <name>andreafeletto</name>
+            <uri>https://news.ycombinator.com/user?id=andreafeletto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼沒有一個谷歌的競爭對手出現？]]></title>
         <id>https://news.ycombinator.com/item?id=30819678</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MilnerRoute</name>
             <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投機執行漏洞帶來的現實世界的破壞？]]></title>
-        <id>https://news.ycombinator.com/item?id=30745897</id>
-        <link href="https://news.ycombinator.com/item?id=30745897"/>
-        <updated>2022-03-20T19:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Real-World Breaches from Speculative Execution Vulns?]]></summary>
-        <author>
-            <name>PhantomPhreak</name>
-            <uri>https://news.ycombinator.com/user?id=PhantomPhreak</uri>
         </author>
     </entry>
 </feed>
