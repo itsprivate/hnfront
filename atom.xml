@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T23:32:14.538Z</updated>
+    <updated>2022-03-27T23:51:26.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于失踪的问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30825144</id>
+        <link href="https://news.ycombinator.com/item?id=30825144"/>
+        <updated>2022-03-27T23:15:36.000Z</updated>
+        <summary type="html"><![CDATA[On Being Disappeared]]></summary>
+        <author>
+            <name>k1m</name>
+            <uri>https://news.ycombinator.com/user?id=k1m</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃克梅的道]]></title>
+        <id>https://news.ycombinator.com/item?id=30822743</id>
+        <link href="https://news.ycombinator.com/item?id=30822743"/>
+        <updated>2022-03-27T18:33:46.000Z</updated>
+        <summary type="html"><![CDATA[The Tao of Acme]]></summary>
+        <author>
+            <name>black_knight</name>
+            <uri>https://news.ycombinator.com/user?id=black_knight</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专制主义控制的咬合模式[2020]]]></title>
         <id>https://news.ycombinator.com/item?id=30825012</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hdk</name>
             <uri>https://news.ycombinator.com/user?id=hdk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smarking（YC W15）正在招聘15个职位，以实现655亿美元的停车业数字化。]]></title>
-        <id>https://news.ycombinator.com/item?id=30753031</id>
-        <link href="https://news.ycombinator.com/item?id=30753031"/>
-        <updated>2022-03-21T12:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Smarking (YC W15) Is Hiring on 15 positions to digitize $655B parking industry]]></summary>
-        <author>
-            <name>sangwen</name>
-            <uri>https://news.ycombinator.com/user?id=sangwen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LaBanquePostale付款要求银行密码]]></title>
-        <id>https://news.ycombinator.com/item?id=30752984</id>
-        <link href="https://news.ycombinator.com/item?id=30752984"/>
-        <updated>2022-03-21T11:53:19.000Z</updated>
-        <summary type="html"><![CDATA[LaBanquePostale payments request bank password]]></summary>
-        <author>
-            <name>GistNoesis</name>
-            <uri>https://news.ycombinator.com/user?id=GistNoesis</uri>
         </author>
     </entry>
 </feed>
