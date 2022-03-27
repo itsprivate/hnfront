@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T13:43:42.480Z</updated>
+    <updated>2022-03-27T13:51:18.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过经常听海滩男孩的歌来研究音乐天才]]></title>
+        <id>https://news.ycombinator.com/item?id=30819956</id>
+        <link href="https://news.ycombinator.com/item?id=30819956"/>
+        <updated>2022-03-27T13:14:25.000Z</updated>
+        <summary type="html"><![CDATA[Investigating Musical Genius By Listening To The Beach Boys A Lot]]></summary>
+        <author>
+            <name>optimalsolver</name>
+            <uri>https://news.ycombinator.com/user?id=optimalsolver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mach v0.1--跨平台的Zig图形，大约60秒内完成]]></title>
         <id>https://news.ycombinator.com/item?id=30819206</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prtkgpt</name>
             <uri>https://news.ycombinator.com/user?id=prtkgpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经过600小时，乌克兰切尔诺贝利核电站的64名工人终于解脱了]]></title>
-        <id>https://news.ycombinator.com/item?id=30745931</id>
-        <link href="https://news.ycombinator.com/item?id=30745931"/>
-        <updated>2022-03-20T19:44:34.000Z</updated>
-        <summary type="html"><![CDATA[After 600 hours 64 workers at Ukraine's Chernobyl nuclear plant finally relieved]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
         </author>
     </entry>
 </feed>
