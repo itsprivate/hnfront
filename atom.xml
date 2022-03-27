@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T17:42:11.466Z</updated>
+    <updated>2022-03-27T17:51:03.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日常驾驶Mac，一年后]]></title>
+        <id>https://news.ycombinator.com/item?id=30821453</id>
+        <link href="https://news.ycombinator.com/item?id=30821453"/>
+        <updated>2022-03-27T16:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Daily-driving a Mac, one year later]]></summary>
+        <author>
+            <name>kingofclams</name>
+            <uri>https://news.ycombinator.com/user?id=kingofclams</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poop.is - 一个蹩脚的链接缩短器]]></title>
         <id>https://news.ycombinator.com/item?id=30822010</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>staccatomeasure</name>
             <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高通公司正在增加对AV1的支持，这对在线视频来说可能是巨大的。]]></title>
-        <id>https://news.ycombinator.com/item?id=30737742</id>
-        <link href="https://news.ycombinator.com/item?id=30737742"/>
-        <updated>2022-03-19T21:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Qualcomm is adding AV1 support, which could be huge for online video]]></summary>
-        <author>
-            <name>clouddrover</name>
-            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
         </author>
     </entry>
 </feed>
