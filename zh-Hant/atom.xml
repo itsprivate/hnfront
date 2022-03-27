@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-26T23:31:41.868Z</updated>
+    <updated>2022-03-27T00:43:13.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們為什麼和如何使用原始地圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30799818</id>
+        <link href="https://news.ycombinator.com/item?id=30799818"/>
+        <updated>2022-03-25T08:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Why and how we use primitive maps]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有PCB定子的軸流式電機在電氣化世界中的應用已經成熟]]></title>
         <id>https://news.ycombinator.com/item?id=30816149</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國提出要支付高達500萬美元的獎勵，以獲得關於RU寡頭資產的信息。]]></title>
-        <id>https://news.ycombinator.com/item?id=30743320</id>
-        <link href="https://news.ycombinator.com/item?id=30743320"/>
-        <updated>2022-03-20T15:18:17.000Z</updated>
-        <summary type="html"><![CDATA[The US is offering to pay rewards of up to $5M for info on RU oligarchs assets]]></summary>
-        <author>
-            <name>mhoad</name>
-            <uri>https://news.ycombinator.com/user?id=mhoad</uri>
         </author>
     </entry>
 </feed>
