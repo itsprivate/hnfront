@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T02:28:49.848Z</updated>
+    <updated>2022-03-28T03:16:24.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我討厭視頻遊戲變成這樣]]></title>
+        <id>https://news.ycombinator.com/item?id=30825405</id>
+        <link href="https://news.ycombinator.com/item?id=30825405"/>
+        <updated>2022-03-27T23:57:41.000Z</updated>
+        <summary type="html"><![CDATA[I hate what video games have become]]></summary>
+        <author>
+            <name>mattigames</name>
+            <uri>https://news.ycombinator.com/user?id=mattigames</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在沒有浮點支持的情況下，逐點繪製一個圓形]]></title>
+        <id>https://news.ycombinator.com/item?id=30787020</id>
+        <link href="https://news.ycombinator.com/item?id=30787020"/>
+        <updated>2022-03-24T07:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Drawing a circle, point-by-point, without floating point support]]></summary>
+        <author>
+            <name>threeme3</name>
+            <uri>https://news.ycombinator.com/user?id=threeme3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[錢到底是什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30825505</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>VieEnCode</name>
             <uri>https://news.ycombinator.com/user?id=VieEnCode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墜毀。中國東航B738飛機於2022年3月21日在廣州附近墜毀。]]></title>
-        <id>https://news.ycombinator.com/item?id=30753135</id>
-        <link href="https://news.ycombinator.com/item?id=30753135"/>
-        <updated>2022-03-21T12:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Crash: China Eastern B738 near Guangzhou on Mar 21st 2022]]></summary>
-        <author>
-            <name>qb</name>
-            <uri>https://news.ycombinator.com/user?id=qb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有谷歌產品的替代品的完整列表 - TechSpot]]></title>
-        <id>https://news.ycombinator.com/item?id=30753606</id>
-        <link href="https://news.ycombinator.com/item?id=30753606"/>
-        <updated>2022-03-21T13:02:30.000Z</updated>
-        <summary type="html"><![CDATA[The complete list of alternatives to all Google products – TechSpot]]></summary>
-        <author>
-            <name>johndfsgdgdfg</name>
-            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
         </author>
     </entry>
 </feed>
