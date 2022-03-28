@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T04:42:12.374Z</updated>
+    <updated>2022-03-28T05:12:09.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紫红色工作站]]></title>
+        <id>https://news.ycombinator.com/item?id=30827210</id>
+        <link href="https://news.ycombinator.com/item?id=30827210"/>
+        <updated>2022-03-28T04:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Fuchsia Workstation]]></summary>
+        <author>
+            <name>timsneath</name>
+            <uri>https://news.ycombinator.com/user?id=timsneath</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Filter_var Shenanigans]]></title>
         <id>https://news.ycombinator.com/item?id=30811842</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chemd0ge</name>
             <uri>https://news.ycombinator.com/user?id=chemd0ge</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一个RPA开发者，我最大的错误]]></title>
-        <id>https://news.ycombinator.com/item?id=30741335</id>
-        <link href="https://news.ycombinator.com/item?id=30741335"/>
-        <updated>2022-03-20T09:39:50.000Z</updated>
-        <summary type="html"><![CDATA[My biggest mistake as an RPA developer]]></summary>
-        <author>
-            <name>honey-badger</name>
-            <uri>https://news.ycombinator.com/user?id=honey-badger</uri>
         </author>
     </entry>
 </feed>
