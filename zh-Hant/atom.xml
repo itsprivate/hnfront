@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T11:12:30.082Z</updated>
+    <updated>2022-03-28T11:31:21.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯坦克製造商關閉了生產]]></title>
+        <id>https://news.ycombinator.com/item?id=30829117</id>
+        <link href="https://news.ycombinator.com/item?id=30829117"/>
+        <updated>2022-03-28T10:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Russian tank manufacturer shuts down production]]></summary>
+        <author>
+            <name>borski</name>
+            <uri>https://news.ycombinator.com/user?id=borski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[殘酷的操作系統達到里程碑4]]></title>
         <id>https://news.ycombinator.com/item?id=30829019</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>the-mitr</name>
             <uri>https://news.ycombinator.com/user?id=the-mitr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在線遊戲。虛擬世界中的現實問題(2015) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30737444</id>
-        <link href="https://news.ycombinator.com/item?id=30737444"/>
-        <updated>2022-03-19T20:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Online gaming: Real issues in virtual worlds (2015) [pdf]]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
