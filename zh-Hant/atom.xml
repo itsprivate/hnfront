@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T19:52:49.273Z</updated>
+    <updated>2022-03-28T20:14:32.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幾千年來使人發笑的笑話]]></title>
+        <id>https://news.ycombinator.com/item?id=30818953</id>
+        <link href="https://news.ycombinator.com/item?id=30818953"/>
+        <updated>2022-03-27T09:31:09.000Z</updated>
+        <summary type="html"><![CDATA[The jokes that have made people laugh for thousands of years]]></summary>
+        <author>
+            <name>wjSgoWPm5bWAhXB</name>
+            <uri>https://news.ycombinator.com/user?id=wjSgoWPm5bWAhXB</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[變革的成分]]></title>
         <id>https://news.ycombinator.com/item?id=30834446</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[糾正我們關於錯誤的錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30735240</id>
-        <link href="https://news.ycombinator.com/item?id=30735240"/>
-        <updated>2022-03-19T16:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Correcting our errors about errors]]></summary>
-        <author>
-            <name>hhs</name>
-            <uri>https://news.ycombinator.com/user?id=hhs</uri>
         </author>
     </entry>
 </feed>
