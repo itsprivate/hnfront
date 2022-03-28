@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T04:14:34.060Z</updated>
+    <updated>2022-03-28T04:42:12.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PHP Filter_var Shenanigans]]></title>
+        <id>https://news.ycombinator.com/item?id=30811842</id>
+        <link href="https://news.ycombinator.com/item?id=30811842"/>
+        <updated>2022-03-26T14:00:54.000Z</updated>
+        <summary type="html"><![CDATA[PHP Filter_var Shenanigans]]></summary>
+        <author>
+            <name>mkeeter</name>
+            <uri>https://news.ycombinator.com/user?id=mkeeter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[喬對伊蘭學校]]></title>
         <id>https://news.ycombinator.com/item?id=30826687</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>honey-badger</name>
             <uri>https://news.ycombinator.com/user?id=honey-badger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒館裡的幽靈]]></title>
-        <id>https://news.ycombinator.com/item?id=30742440</id>
-        <link href="https://news.ycombinator.com/item?id=30742440"/>
-        <updated>2022-03-20T13:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Ghosts at the Liquor Store]]></summary>
-        <author>
-            <name>hprotagonist</name>
-            <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
         </author>
     </entry>
 </feed>
