@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T21:12:32.706Z</updated>
+    <updated>2022-03-28T21:51:57.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自arXiv.org的文章作为响应式HTML5网页]]></title>
+        <id>https://news.ycombinator.com/item?id=30835784</id>
+        <link href="https://news.ycombinator.com/item?id=30835784"/>
+        <updated>2022-03-28T21:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Articles from arXiv.org as responsive HTML5 web pages]]></summary>
+        <author>
+            <name>0066cc</name>
+            <uri>https://news.ycombinator.com/user?id=0066cc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Go编写一个从头开始的文档数据库。类似Lucene的过滤器和索引]]></title>
+        <id>https://news.ycombinator.com/item?id=30835444</id>
+        <link href="https://news.ycombinator.com/item?id=30835444"/>
+        <updated>2022-03-28T20:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Writing a document database from scratch in Go: Lucene-like filters and indexes]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Backer：将数据存储在VHS磁带上 (2003)]]></title>
         <id>https://news.ycombinator.com/item?id=30823492</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>firstSpeaker</name>
             <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：一家价值400亿美元的公司杀害了我两岁的儿子。现在他们强迫我保持沉默]]></title>
-        <id>https://news.ycombinator.com/item?id=30763464</id>
-        <link href="https://news.ycombinator.com/item?id=30763464"/>
-        <updated>2022-03-22T07:18:57.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent]]></summary>
-        <author>
-            <name>bereavedparent</name>
-            <uri>https://news.ycombinator.com/user?id=bereavedparent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奔驰驾驶领航员通过承担法律责任击败特斯拉自动驾驶汽车]]></title>
-        <id>https://news.ycombinator.com/item?id=30763522</id>
-        <link href="https://news.ycombinator.com/item?id=30763522"/>
-        <updated>2022-03-22T07:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Mercedes Drive Pilot Beats Tesla Autopilot by Taking Legal Responsibility]]></summary>
-        <author>
-            <name>gscott</name>
-            <uri>https://news.ycombinator.com/user?id=gscott</uri>
         </author>
     </entry>
 </feed>

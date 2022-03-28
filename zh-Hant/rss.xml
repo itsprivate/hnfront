@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 28 Mar 2022 21:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 21:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[來自arXiv.org的文章作為響應式HTML5網頁]]></title>
+            <link>https://news.ycombinator.com/item?id=30835784</link>
+            <guid>https://news.ycombinator.com/item?id=30835784</guid>
+            <pubDate>Mon, 28 Mar 2022 21:24:02 GMT</pubDate>
+            <description><![CDATA[Articles from arXiv.org as responsive HTML5 web pages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Go編寫一個從頭開始的文檔數據庫。類似Lucene的過濾器和索引]]></title>
+            <link>https://news.ycombinator.com/item?id=30835444</link>
+            <guid>https://news.ycombinator.com/item?id=30835444</guid>
+            <pubDate>Mon, 28 Mar 2022 20:54:05 GMT</pubDate>
+            <description><![CDATA[Writing a document database from scratch in Go: Lucene-like filters and indexes]]></description>
+        </item>
         <item>
             <title><![CDATA[Backer：將數據存儲在VHS磁帶上 (2003)]]></title>
             <link>https://news.ycombinator.com/item?id=30823492</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30763516</guid>
             <pubDate>Tue, 22 Mar 2022 07:30:15 GMT</pubDate>
             <description><![CDATA[My guiding principles after 20 years of programming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：一家價值400億美元的公司殺害了我兩歲的兒子。現在他們強迫我保持沉默]]></title>
-            <link>https://news.ycombinator.com/item?id=30763464</link>
-            <guid>https://news.ycombinator.com/item?id=30763464</guid>
-            <pubDate>Tue, 22 Mar 2022 07:18:57 GMT</pubDate>
-            <description><![CDATA[Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奔馳駕駛領航員通過承擔法律責任擊敗特斯拉自動駕駛汽車]]></title>
-            <link>https://news.ycombinator.com/item?id=30763522</link>
-            <guid>https://news.ycombinator.com/item?id=30763522</guid>
-            <pubDate>Tue, 22 Mar 2022 07:31:44 GMT</pubDate>
-            <description><![CDATA[Mercedes Drive Pilot Beats Tesla Autopilot by Taking Legal Responsibility]]></description>
         </item>
     </channel>
 </rss>
