@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-27T23:51:26.319Z</updated>
+    <updated>2022-03-28T00:38:11.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[当我被贴上 "问题 "少年的标签时，我就答应了。]]></title>
+        <id>https://news.ycombinator.com/item?id=30819756</id>
+        <link href="https://news.ycombinator.com/item?id=30819756"/>
+        <updated>2022-03-27T12:34:39.000Z</updated>
+        <summary type="html"><![CDATA[When I was labeled a ‘troubled’ teen, I obliged]]></summary>
+        <author>
+            <name>jasonhansel</name>
+            <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于失踪的问题]]></title>
         <id>https://news.ycombinator.com/item?id=30825144</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊背后的一个人对加密货币的未来感到担忧]]></title>
-        <id>https://news.ycombinator.com/item?id=30753404</id>
-        <link href="https://news.ycombinator.com/item?id=30753404"/>
-        <updated>2022-03-21T12:42:55.000Z</updated>
-        <summary type="html"><![CDATA[A Man Behind Ethereum Is Worried About Crypto's Future]]></summary>
-        <author>
-            <name>hdk</name>
-            <uri>https://news.ycombinator.com/user?id=hdk</uri>
         </author>
     </entry>
 </feed>
