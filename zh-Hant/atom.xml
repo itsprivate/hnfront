@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T15:38:28.744Z</updated>
+    <updated>2022-03-28T15:48:10.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這款遊戲是如此逼真，感覺就像加班一樣]]></title>
+        <id>https://news.ycombinator.com/item?id=30831386</id>
+        <link href="https://news.ycombinator.com/item?id=30831386"/>
+        <updated>2022-03-28T15:17:29.000Z</updated>
+        <summary type="html"><![CDATA[‘This Game Is So Realistic It Feels Just Like Working Overtime’]]></summary>
+        <author>
+            <name>raybb</name>
+            <uri>https://news.ycombinator.com/user?id=raybb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Postfix被稱為Postfix和IBM安全郵件程序]]></title>
         <id>https://news.ycombinator.com/item?id=30831342</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>red0point</name>
             <uri>https://news.ycombinator.com/user?id=red0point</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["在經濟好的時候，無家可歸者會增加"。通貨膨脹與住房問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30759710</id>
-        <link href="https://news.ycombinator.com/item?id=30759710"/>
-        <updated>2022-03-21T21:06:20.000Z</updated>
-        <summary type="html"><![CDATA["In a Good Economy Homelessness Goes Up": Inflation and the Housing Question]]></summary>
-        <author>
-            <name>viburnum</name>
-            <uri>https://news.ycombinator.com/user?id=viburnum</uri>
         </author>
     </entry>
 </feed>
