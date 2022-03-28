@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T06:39:40.290Z</updated>
+    <updated>2022-03-28T07:39:15.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那神秘的微笑背後是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30817714</id>
+        <link href="https://news.ycombinator.com/item?id=30817714"/>
+        <updated>2022-03-27T04:29:02.000Z</updated>
+        <summary type="html"><![CDATA[What’s behind that enigmatic smile?]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司的 "Coda "在奧斯卡獎中獲得歷史性的最佳影片獎]]></title>
         <id>https://news.ycombinator.com/item?id=30827245</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tomgp</name>
             <uri>https://news.ycombinator.com/user?id=tomgp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneWeb將恢復衛星發射，由SpaceX作為發射供應商]]></title>
-        <id>https://news.ycombinator.com/item?id=30755077</id>
-        <link href="https://news.ycombinator.com/item?id=30755077"/>
-        <updated>2022-03-21T15:19:18.000Z</updated>
-        <summary type="html"><![CDATA[OneWeb will resume satellite launches with SpaceX as the launch provider]]></summary>
-        <author>
-            <name>MPSimmons</name>
-            <uri>https://news.ycombinator.com/user?id=MPSimmons</uri>
         </author>
     </entry>
 </feed>
