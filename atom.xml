@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T05:12:09.374Z</updated>
+    <updated>2022-03-28T05:37:16.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用AWS步骤函数和亚马逊API网关运行跨账户工作流]]></title>
+        <id>https://news.ycombinator.com/item?id=30811980</id>
+        <link href="https://news.ycombinator.com/item?id=30811980"/>
+        <updated>2022-03-26T14:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紫红色工作站]]></title>
         <id>https://news.ycombinator.com/item?id=30827210</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>smtx</name>
             <uri>https://news.ycombinator.com/user?id=smtx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭开肛门的神秘面纱]]></title>
-        <id>https://news.ycombinator.com/item?id=30741531</id>
-        <link href="https://news.ycombinator.com/item?id=30741531"/>
-        <updated>2022-03-20T10:29:51.000Z</updated>
-        <summary type="html"><![CDATA[Demystifying the Analemma]]></summary>
-        <author>
-            <name>chemd0ge</name>
-            <uri>https://news.ycombinator.com/user?id=chemd0ge</uri>
         </author>
     </entry>
 </feed>
