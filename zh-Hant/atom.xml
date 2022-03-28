@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T18:16:29.467Z</updated>
+    <updated>2022-03-28T18:40:24.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[保羅-格雷厄姆預測將出現糧食短缺]]></title>
+        <id>https://news.ycombinator.com/item?id=30833538</id>
+        <link href="https://news.ycombinator.com/item?id=30833538"/>
+        <updated>2022-03-28T18:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Paul Graham predicts food shortages]]></summary>
+        <author>
+            <name>simonster</name>
+            <uri>https://news.ycombinator.com/user?id=simonster</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我從經營禮賓服務搜索引擎中學到的東西]]></title>
+        <id>https://news.ycombinator.com/item?id=30832686</id>
+        <link href="https://news.ycombinator.com/item?id=30832686"/>
+        <updated>2022-03-28T16:59:50.000Z</updated>
+        <summary type="html"><![CDATA[What I Learned from Running a Concierge Search Engine]]></summary>
+        <author>
+            <name>researchers</name>
+            <uri>https://news.ycombinator.com/user?id=researchers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鼻腔噴劑可治療小鼠的三角洲變異體感染]]></title>
         <id>https://news.ycombinator.com/item?id=30832807</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>electric_muse</name>
             <uri>https://news.ycombinator.com/user?id=electric_muse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用分子裝配樹探索和映射化學空間]]></title>
-        <id>https://news.ycombinator.com/item?id=30761900</id>
-        <link href="https://news.ycombinator.com/item?id=30761900"/>
-        <updated>2022-03-22T01:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Exploring and mapping chemical space with molecular assembly trees]]></summary>
-        <author>
-            <name>breck</name>
-            <uri>https://news.ycombinator.com/user?id=breck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放式的交流。手勢]]></title>
-        <id>https://news.ycombinator.com/item?id=30759541</id>
-        <link href="https://news.ycombinator.com/item?id=30759541"/>
-        <updated>2022-03-21T20:51:01.000Z</updated>
-        <summary type="html"><![CDATA[Open-Outcry Communication: Hand Signals]]></summary>
-        <author>
-            <name>leonry</name>
-            <uri>https://news.ycombinator.com/user?id=leonry</uri>
         </author>
     </entry>
 </feed>
