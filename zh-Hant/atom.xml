@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T11:51:23.439Z</updated>
+    <updated>2022-03-28T12:19:22.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最糟糕的美國國防計劃]]></title>
+        <id>https://news.ycombinator.com/item?id=30829320</id>
+        <link href="https://news.ycombinator.com/item?id=30829320"/>
+        <updated>2022-03-28T11:23:09.000Z</updated>
+        <summary type="html"><![CDATA[The Worst US Defense Program of All]]></summary>
+        <author>
+            <name>farseer</name>
+            <uri>https://news.ycombinator.com/user?id=farseer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何不確定地對待日期（2020年）]]></title>
         <id>https://news.ycombinator.com/item?id=30818863</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家們說他們幾乎可以讀取試管嬰兒創造的胚胎的整個基因組]]></title>
-        <id>https://news.ycombinator.com/item?id=30756232</id>
-        <link href="https://news.ycombinator.com/item?id=30756232"/>
-        <updated>2022-03-21T16:40:14.000Z</updated>
-        <summary type="html"><![CDATA[Scientists say they can read nearly the whole genome of an IVF-created embryo]]></summary>
-        <author>
-            <name>Metacelsus</name>
-            <uri>https://news.ycombinator.com/user?id=Metacelsus</uri>
         </author>
     </entry>
 </feed>
