@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T12:19:22.819Z</updated>
+    <updated>2022-03-28T12:58:56.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你如何定义奇点？]]></title>
+        <id>https://news.ycombinator.com/item?id=30829666</id>
+        <link href="https://news.ycombinator.com/item?id=30829666"/>
+        <updated>2022-03-28T12:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How do you define the singularity?]]></summary>
+        <author>
+            <name>servytor</name>
+            <uri>https://news.ycombinator.com/user?id=servytor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[骗取美国的流行电子产品连锁店]]></title>
+        <id>https://news.ycombinator.com/item?id=30829593</id>
+        <link href="https://news.ycombinator.com/item?id=30829593"/>
+        <updated>2022-03-28T12:07:30.000Z</updated>
+        <summary type="html"><![CDATA[The popular electronics chain that scammed America]]></summary>
+        <author>
+            <name>yarapavan</name>
+            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发布WASM库时的建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30829170</id>
+        <link href="https://news.ycombinator.com/item?id=30829170"/>
+        <updated>2022-03-28T10:54:35.000Z</updated>
+        <summary type="html"><![CDATA[Recommendations when publishing a WASM library]]></summary>
+        <author>
+            <name>comagoosie</name>
+            <uri>https://news.ycombinator.com/user?id=comagoosie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于。Zlib在deflate上的内存损坏（即压缩）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30828743</id>
+        <link href="https://news.ycombinator.com/item?id=30828743"/>
+        <updated>2022-03-28T09:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Re: Zlib memory corruption on deflate (i.e. compress)]]></summary>
+        <author>
+            <name>0x0</name>
+            <uri>https://news.ycombinator.com/user?id=0x0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[适应性媒体评级：统计学上的成对排名和项目的排序]]></title>
+        <id>https://news.ycombinator.com/item?id=30819460</id>
+        <link href="https://news.ycombinator.com/item?id=30819460"/>
+        <updated>2022-03-27T11:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Resorting Media Ratings: statistical pairwise ranking and sorting of items]]></summary>
+        <author>
+            <name>karlicoss</name>
+            <uri>https://news.ycombinator.com/user?id=karlicoss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最糟糕的美国国防计划]]></title>
         <id>https://news.ycombinator.com/item?id=30829320</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>janvdberg</name>
             <uri>https://news.ycombinator.com/user?id=janvdberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[委员会如何进行发明？(1968) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30739888</id>
-        <link href="https://news.ycombinator.com/item?id=30739888"/>
-        <updated>2022-03-20T03:46:01.000Z</updated>
-        <summary type="html"><![CDATA[How do Committees Invent? (1968) [pdf]]]></summary>
-        <author>
-            <name>arkj</name>
-            <uri>https://news.ycombinator.com/user?id=arkj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：口语化（YC S21）--更好的家具购物]]></title>
-        <id>https://news.ycombinator.com/item?id=30757421</id>
-        <link href="https://news.ycombinator.com/item?id=30757421"/>
-        <updated>2022-03-21T17:53:39.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Spoken (YC S21) – Better furniture shopping]]></summary>
-        <author>
-            <name>lgabraham</name>
-            <uri>https://news.ycombinator.com/user?id=lgabraham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果-1的不寻常的MOS时钟驱动芯片]]></title>
-        <id>https://news.ycombinator.com/item?id=30757336</id>
-        <link href="https://news.ycombinator.com/item?id=30757336"/>
-        <updated>2022-03-21T17:46:09.000Z</updated>
-        <summary type="html"><![CDATA[The Apple-1's unusual MOS clock driver chip]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[添加CSS的！！！重要的原因只有一个]]></title>
-        <id>https://news.ycombinator.com/item?id=30757259</id>
-        <link href="https://news.ycombinator.com/item?id=30757259"/>
-        <updated>2022-03-21T17:40:06.000Z</updated>
-        <summary type="html"><![CDATA[CSS's !important was added for one reason only]]></summary>
-        <author>
-            <name>mmastrac</name>
-            <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不希望我的敌人这样做：卡尔加里人对有电力负荷限制器的生活的看法]]></title>
-        <id>https://news.ycombinator.com/item?id=30757124</id>
-        <link href="https://news.ycombinator.com/item?id=30757124"/>
-        <updated>2022-03-21T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[I dont wish it on my enemy: Calgarians on life with an electricity load limiter]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
