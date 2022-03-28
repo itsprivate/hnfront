@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T13:25:41.304Z</updated>
+    <updated>2022-03-28T13:52:28.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Haskell中的代数数据类型]]></title>
+        <id>https://news.ycombinator.com/item?id=30810769</id>
+        <link href="https://news.ycombinator.com/item?id=30810769"/>
+        <updated>2022-03-26T10:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Algebraic Data Types in Haskell]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有谁的物品被无故从FB市场上删除？]]></title>
         <id>https://news.ycombinator.com/item?id=30830147</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bmlw</name>
             <uri>https://news.ycombinator.com/user?id=bmlw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维密的受害者]]></title>
-        <id>https://news.ycombinator.com/item?id=30758208</id>
-        <link href="https://news.ycombinator.com/item?id=30758208"/>
-        <updated>2022-03-21T18:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Victims of Vimeo]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>
