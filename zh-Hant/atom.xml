@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T05:37:16.330Z</updated>
+    <updated>2022-03-28T05:51:52.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個*神奇的AWS無服務器開發者體驗]]></title>
+        <id>https://news.ycombinator.com/item?id=30827038</id>
+        <link href="https://news.ycombinator.com/item?id=30827038"/>
+        <updated>2022-03-28T04:05:13.000Z</updated>
+        <summary type="html"><![CDATA[A *magical* AWS serverless developer experience]]></summary>
+        <author>
+            <name>ptrik</name>
+            <uri>https://news.ycombinator.com/user?id=ptrik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用AWS步驟函數和亞馬遜API網關運行跨賬戶工作流]]></title>
         <id>https://news.ycombinator.com/item?id=30811980</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hackerwhizz</name>
             <uri>https://news.ycombinator.com/user?id=hackerwhizz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被認為是有害的鉤子]]></title>
-        <id>https://news.ycombinator.com/item?id=30753127</id>
-        <link href="https://news.ycombinator.com/item?id=30753127"/>
-        <updated>2022-03-21T12:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Hooks Considered Harmful]]></summary>
-        <author>
-            <name>smtx</name>
-            <uri>https://news.ycombinator.com/user?id=smtx</uri>
         </author>
     </entry>
 </feed>

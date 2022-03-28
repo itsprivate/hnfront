@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 28 Mar 2022 05:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个*神奇的AWS无服务器开发者体验]]></title>
+            <link>https://news.ycombinator.com/item?id=30827038</link>
+            <guid>https://news.ycombinator.com/item?id=30827038</guid>
+            <pubDate>Mon, 28 Mar 2022 04:05:13 GMT</pubDate>
+            <description><![CDATA[A *magical* AWS serverless developer experience]]></description>
+        </item>
         <item>
             <title><![CDATA[使用AWS步骤函数和亚马逊API网关运行跨账户工作流]]></title>
             <link>https://news.ycombinator.com/item?id=30811980</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30754020</guid>
             <pubDate>Mon, 21 Mar 2022 13:44:10 GMT</pubDate>
             <description><![CDATA[Hackers launch attack platform for common people]]></description>
-        </item>
-        <item>
-            <title><![CDATA[被认为是有害的钩子]]></title>
-            <link>https://news.ycombinator.com/item?id=30753127</link>
-            <guid>https://news.ycombinator.com/item?id=30753127</guid>
-            <pubDate>Mon, 21 Mar 2022 12:11:29 GMT</pubDate>
-            <description><![CDATA[Hooks Considered Harmful]]></description>
         </item>
     </channel>
 </rss>
