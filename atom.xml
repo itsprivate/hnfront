@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T08:40:33.294Z</updated>
+    <updated>2022-03-28T09:51:24.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客访谈。Gummo]]></title>
+        <id>https://news.ycombinator.com/item?id=30812145</id>
+        <link href="https://news.ycombinator.com/item?id=30812145"/>
+        <updated>2022-03-26T14:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Hacker Interview: Gummo]]></summary>
+        <author>
+            <name>miobrien</name>
+            <uri>https://news.ycombinator.com/user?id=miobrien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高等微积分和特殊函数中的特征]]></title>
         <id>https://news.ycombinator.com/item?id=30811979</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mparramon</name>
             <uri>https://news.ycombinator.com/user?id=mparramon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用文件的浏览器，在现实中]]></title>
-        <id>https://news.ycombinator.com/item?id=30739187</id>
-        <link href="https://news.ycombinator.com/item?id=30739187"/>
-        <updated>2022-03-20T01:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Using files with browsers, in reality]]></summary>
-        <author>
-            <name>jamghee</name>
-            <uri>https://news.ycombinator.com/user?id=jamghee</uri>
         </author>
     </entry>
 </feed>

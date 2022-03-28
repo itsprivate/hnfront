@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客访谈。Gummo]]></title>
+            <link>https://news.ycombinator.com/item?id=30812145</link>
+            <guid>https://news.ycombinator.com/item?id=30812145</guid>
+            <pubDate>Sat, 26 Mar 2022 14:32:32 GMT</pubDate>
+            <description><![CDATA[Hacker Interview: Gummo]]></description>
+        </item>
         <item>
             <title><![CDATA[高等微积分和特殊函数中的特征]]></title>
             <link>https://news.ycombinator.com/item?id=30811979</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30742531</guid>
             <pubDate>Sun, 20 Mar 2022 13:42:01 GMT</pubDate>
             <description><![CDATA[Software Leviathans]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用文件的浏览器，在现实中]]></title>
-            <link>https://news.ycombinator.com/item?id=30739187</link>
-            <guid>https://news.ycombinator.com/item?id=30739187</guid>
-            <pubDate>Sun, 20 Mar 2022 01:33:56 GMT</pubDate>
-            <description><![CDATA[Using files with browsers, in reality]]></description>
         </item>
     </channel>
 </rss>
