@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-28T19:26:59.428Z</updated>
+    <updated>2022-03-28T19:52:49.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[变革的成分]]></title>
+        <id>https://news.ycombinator.com/item?id=30834446</id>
+        <link href="https://news.ycombinator.com/item?id=30834446"/>
+        <updated>2022-03-28T19:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ingredients for Change]]></summary>
+        <author>
+            <name>CokieMonster</name>
+            <uri>https://news.ycombinator.com/user?id=CokieMonster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天的创作者经济是建立在订阅者和赞助者之上的。下一步是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30834092</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hhs</name>
             <uri>https://news.ycombinator.com/user?id=hhs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客声称攻破了Okta系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30762520</id>
-        <link href="https://news.ycombinator.com/item?id=30762520"/>
-        <updated>2022-03-22T03:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Hackers claim to have breached Okta systems]]></summary>
-        <author>
-            <name>obi1kenobi</name>
-            <uri>https://news.ycombinator.com/user?id=obi1kenobi</uri>
         </author>
     </entry>
 </feed>
