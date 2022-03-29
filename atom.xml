@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T02:29:16.573Z</updated>
+    <updated>2022-03-29T03:17:49.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们可以做得更好，而不是 "同样的，但是电动"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30838132</id>
+        <link href="https://news.ycombinator.com/item?id=30838132"/>
+        <updated>2022-03-29T02:40:23.000Z</updated>
+        <summary type="html"><![CDATA[We Can Do Better Than “Same, but Electric”]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux内核中nf_tables的CVE-2022-1015,CVE-2022-1016导致权限升级]]></title>
+        <id>https://news.ycombinator.com/item?id=30838037</id>
+        <link href="https://news.ycombinator.com/item?id=30838037"/>
+        <updated>2022-03-29T02:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Linux kernel CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation]]></summary>
+        <author>
+            <name>pdenton</name>
+            <uri>https://news.ycombinator.com/user?id=pdenton</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我发帖。什么是精神分裂症]]></title>
+        <id>https://news.ycombinator.com/item?id=30837071</id>
+        <link href="https://news.ycombinator.com/item?id=30837071"/>
+        <updated>2022-03-29T00:02:45.000Z</updated>
+        <summary type="html"><![CDATA[I Schizopost: What Schizoposting Is]]></summary>
+        <author>
+            <name>exolymph</name>
+            <uri>https://news.ycombinator.com/user?id=exolymph</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morbig - Posix Shell的静态分析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30812330</id>
+        <link href="https://news.ycombinator.com/item?id=30812330"/>
+        <updated>2022-03-26T14:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Morbig – A Static Parser for Posix Shell]]></summary>
+        <author>
+            <name>rasmusfabbe</name>
+            <uri>https://news.ycombinator.com/user?id=rasmusfabbe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[屏蔽一条推文、其作者和每个喜欢它的人]]></title>
         <id>https://news.ycombinator.com/item?id=30836879</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>adrianomartins</name>
             <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你对开源项目有贡献吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30765596</id>
-        <link href="https://news.ycombinator.com/item?id=30765596"/>
-        <updated>2022-03-22T13:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you contribute to open source projects?]]></summary>
-        <author>
-            <name>dirtylowprofile</name>
-            <uri>https://news.ycombinator.com/user?id=dirtylowprofile</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌地图被黑，伪造交通堵塞]]></title>
-        <id>https://news.ycombinator.com/item?id=30765546</id>
-        <link href="https://news.ycombinator.com/item?id=30765546"/>
-        <updated>2022-03-22T13:05:02.000Z</updated>
-        <summary type="html"><![CDATA[Google Maps hacked to fake a traffic jam]]></summary>
-        <author>
-            <name>MrNosy</name>
-            <uri>https://news.ycombinator.com/user?id=MrNosy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对美国法律体系的接管]]></title>
-        <id>https://news.ycombinator.com/item?id=30765294</id>
-        <link href="https://news.ycombinator.com/item?id=30765294"/>
-        <updated>2022-03-22T12:37:51.000Z</updated>
-        <summary type="html"><![CDATA[The takeover of America's legal system]]></summary>
-        <author>
-            <name>kvee</name>
-            <uri>https://news.ycombinator.com/user?id=kvee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Argbash。Bash参数解析代码生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30737701</id>
-        <link href="https://news.ycombinator.com/item?id=30737701"/>
-        <updated>2022-03-19T21:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Argbash: Bash argument parsing code generator]]></summary>
-        <author>
-            <name>ducktective</name>
-            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
         </author>
     </entry>
 </feed>

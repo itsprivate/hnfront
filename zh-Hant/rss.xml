@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 02:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,34 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們可以做得更好，而不是 "同樣的，但是電動"。]]></title>
+            <link>https://news.ycombinator.com/item?id=30838132</link>
+            <guid>https://news.ycombinator.com/item?id=30838132</guid>
+            <pubDate>Tue, 29 Mar 2022 02:40:23 GMT</pubDate>
+            <description><![CDATA[We Can Do Better Than “Same, but Electric”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Linux內核中nf_tables的CVE-2022-1015,CVE-2022-1016導致權限升級]]></title>
+            <link>https://news.ycombinator.com/item?id=30838037</link>
+            <guid>https://news.ycombinator.com/item?id=30838037</guid>
+            <pubDate>Tue, 29 Mar 2022 02:23:35 GMT</pubDate>
+            <description><![CDATA[Linux kernel CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我發帖。什麼是精神分裂症]]></title>
+            <link>https://news.ycombinator.com/item?id=30837071</link>
+            <guid>https://news.ycombinator.com/item?id=30837071</guid>
+            <pubDate>Tue, 29 Mar 2022 00:02:45 GMT</pubDate>
+            <description><![CDATA[I Schizopost: What Schizoposting Is]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Morbig - Posix Shell的靜態分析器]]></title>
+            <link>https://news.ycombinator.com/item?id=30812330</link>
+            <guid>https://news.ycombinator.com/item?id=30812330</guid>
+            <pubDate>Sat, 26 Mar 2022 14:51:25 GMT</pubDate>
+            <description><![CDATA[Morbig – A Static Parser for Posix Shell]]></description>
+        </item>
         <item>
             <title><![CDATA[屏蔽一條推文、其作者和每個喜歡它的人]]></title>
             <link>https://news.ycombinator.com/item?id=30836879</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30757206</guid>
             <pubDate>Mon, 21 Mar 2022 17:36:48 GMT</pubDate>
             <description><![CDATA[The Code Review Pyramid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你對開源項目有貢獻嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=30765596</link>
-            <guid>https://news.ycombinator.com/item?id=30765596</guid>
-            <pubDate>Tue, 22 Mar 2022 13:09:47 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you contribute to open source projects?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌地圖被黑，偽造交通堵塞]]></title>
-            <link>https://news.ycombinator.com/item?id=30765546</link>
-            <guid>https://news.ycombinator.com/item?id=30765546</guid>
-            <pubDate>Tue, 22 Mar 2022 13:05:02 GMT</pubDate>
-            <description><![CDATA[Google Maps hacked to fake a traffic jam]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對美國法律體系的接管]]></title>
-            <link>https://news.ycombinator.com/item?id=30765294</link>
-            <guid>https://news.ycombinator.com/item?id=30765294</guid>
-            <pubDate>Tue, 22 Mar 2022 12:37:51 GMT</pubDate>
-            <description><![CDATA[The takeover of America's legal system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Argbash。Bash參數解析代碼生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30737701</link>
-            <guid>https://news.ycombinator.com/item?id=30737701</guid>
-            <pubDate>Sat, 19 Mar 2022 21:24:47 GMT</pubDate>
-            <description><![CDATA[Argbash: Bash argument parsing code generator]]></description>
         </item>
     </channel>
 </rss>
