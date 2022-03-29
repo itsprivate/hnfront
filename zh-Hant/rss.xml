@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 00:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 02:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[屏蔽一條推文、其作者和每個喜歡它的人]]></title>
+            <link>https://news.ycombinator.com/item?id=30836879</link>
+            <guid>https://news.ycombinator.com/item?id=30836879</guid>
+            <pubDate>Mon, 28 Mar 2022 23:31:43 GMT</pubDate>
+            <description><![CDATA[Block a tweet, its author, and every single person who liked it]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在N64上畫三角形]]></title>
+            <link>https://news.ycombinator.com/item?id=30827417</link>
+            <guid>https://news.ycombinator.com/item?id=30827417</guid>
+            <pubDate>Mon, 28 Mar 2022 05:29:01 GMT</pubDate>
+            <description><![CDATA[Drawing Triangles on N64]]></description>
+        </item>
+        <item>
+            <title><![CDATA[自我修改代碼作為宏的替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=30820053</link>
+            <guid>https://news.ycombinator.com/item?id=30820053</guid>
+            <pubDate>Sun, 27 Mar 2022 13:26:12 GMT</pubDate>
+            <description><![CDATA[Self Modifying Code as an alternative to macros]]></description>
+        </item>
         <item>
             <title><![CDATA[服用主要糖尿病藥物的男性之子出現罕見的生殖器缺陷]]></title>
             <link>https://news.ycombinator.com/item?id=30837092</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30737701</guid>
             <pubDate>Sat, 19 Mar 2022 21:24:47 GMT</pubDate>
             <description><![CDATA[Argbash: Bash argument parsing code generator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[托爾金的繪畫作品]]></title>
-            <link>https://news.ycombinator.com/item?id=30764886</link>
-            <guid>https://news.ycombinator.com/item?id=30764886</guid>
-            <pubDate>Tue, 22 Mar 2022 11:44:54 GMT</pubDate>
-            <description><![CDATA[Tolkien's Paintings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[猛禽地圖（YC S16）正在為太陽能軟件招聘一名首席DevOps工程師]]></title>
-            <link>https://news.ycombinator.com/item?id=30765008</link>
-            <guid>https://news.ycombinator.com/item?id=30765008</guid>
-            <pubDate>Tue, 22 Mar 2022 12:01:00 GMT</pubDate>
-            <description><![CDATA[Raptor Maps (YC S16) Is Hiring a Lead DevOps Engineer for Solar Software]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過分析咳嗽和打噴嚏來預測《沙丘》將獲得最佳影片獎]]></title>
-            <link>https://news.ycombinator.com/item?id=30764701</link>
-            <guid>https://news.ycombinator.com/item?id=30764701</guid>
-            <pubDate>Tue, 22 Mar 2022 11:05:49 GMT</pubDate>
-            <description><![CDATA[Predicting that Dune will win Best Picture by analyzing coughs and sneezes]]></description>
         </item>
     </channel>
 </rss>
