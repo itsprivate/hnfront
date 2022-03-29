@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T13:00:08.449Z</updated>
+    <updated>2022-03-29T13:25:14.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么压力会让最有同情心的人变得不那么善良？]]></title>
+        <id>https://news.ycombinator.com/item?id=30841489</id>
+        <link href="https://news.ycombinator.com/item?id=30841489"/>
+        <updated>2022-03-29T12:11:46.000Z</updated>
+        <summary type="html"><![CDATA[Why Stress Makes the Most Empathetic People Less Kind]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东京Technicolor]]></title>
+        <id>https://news.ycombinator.com/item?id=30818253</id>
+        <link href="https://news.ycombinator.com/item?id=30818253"/>
+        <updated>2022-03-27T06:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Technicolor Tokyo]]></summary>
+        <author>
+            <name>keiferski</name>
+            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每个人都应该有一本用户手册。所以我为自己创建了一个]]></title>
         <id>https://news.ycombinator.com/item?id=30841486</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Naracion</name>
             <uri>https://news.ycombinator.com/user?id=Naracion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adafruit要求2FA以防止机器人买走Raspberry Pi]]></title>
-        <id>https://news.ycombinator.com/item?id=30769201</id>
-        <link href="https://news.ycombinator.com/item?id=30769201"/>
-        <updated>2022-03-22T17:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Adafruit requires 2FA to prevent bots buying out Raspberry Pi]]></summary>
-        <author>
-            <name>7402</name>
-            <uri>https://news.ycombinator.com/user?id=7402</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okta关于Lapsus$的最新声明]]></title>
-        <id>https://news.ycombinator.com/item?id=30769537</id>
-        <link href="https://news.ycombinator.com/item?id=30769537"/>
-        <updated>2022-03-22T18:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Updated Okta Statement on Lapsus$]]></summary>
-        <author>
-            <name>rcoppolo</name>
-            <uri>https://news.ycombinator.com/user?id=rcoppolo</uri>
         </author>
     </entry>
 </feed>
