@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T11:48:32.672Z</updated>
+    <updated>2022-03-29T12:23:47.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Svix Webhook服务（YC W21）正在招聘一名Rust后端工程师（远程）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30841415</id>
+        <link href="https://news.ycombinator.com/item?id=30841415"/>
+        <updated>2022-03-29T12:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)]]></summary>
+        <author>
+            <name>tasn</name>
+            <uri>https://news.ycombinator.com/user?id=tasn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天，谷歌正在为许多之前关闭了追踪功能的用户开启追踪功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30841320</id>
+        <link href="https://news.ycombinator.com/item?id=30841320"/>
+        <updated>2022-03-29T11:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Today Google is turning on tracking for many users that previously turned it off]]></summary>
+        <author>
+            <name>starsep</name>
+            <uri>https://news.ycombinator.com/user?id=starsep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Difftastic。一个理解语法的差异]]></title>
         <id>https://news.ycombinator.com/item?id=30841244</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>intull</name>
             <uri>https://news.ycombinator.com/user?id=intull</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pachyderm正在招聘SDET&Build/Release Eng，为以数据为中心的人工智能平台提供动力]]></title>
-        <id>https://news.ycombinator.com/item?id=30768617</id>
-        <link href="https://news.ycombinator.com/item?id=30768617"/>
-        <updated>2022-03-22T17:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Pachyderm Is Hiring SDET&Build/Release Eng to Power the Data-Centric AI Platform]]></summary>
-        <author>
-            <name>jaz46</name>
-            <uri>https://news.ycombinator.com/user?id=jaz46</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid和心脏。它不放过任何一个人 - 约翰霍普金斯大学]]></title>
-        <id>https://news.ycombinator.com/item?id=30768342</id>
-        <link href="https://news.ycombinator.com/item?id=30768342"/>
-        <updated>2022-03-22T16:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Covid and the Heart: It Spares No One – Johns Hopkins]]></summary>
-        <author>
-            <name>alwillis</name>
-            <uri>https://news.ycombinator.com/user?id=alwillis</uri>
         </author>
     </entry>
 </feed>
