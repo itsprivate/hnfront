@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T03:17:49.320Z</updated>
+    <updated>2022-03-29T03:46:48.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[據報道，亞馬遜在Facebook私人群組中對其Flex司機進行調查]]></title>
+        <id>https://news.ycombinator.com/item?id=24352278</id>
+        <link href="https://news.ycombinator.com/item?id=24352278"/>
+        <updated>2020-09-02T11:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Amazon reportedly surveilling its Flex drivers in private Facebook groups]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們可以做得更好，而不是 "同樣的，但是電動"。]]></title>
         <id>https://news.ycombinator.com/item?id=30838132</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>davesailer</name>
             <uri>https://news.ycombinator.com/user?id=davesailer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代碼審查金字塔]]></title>
-        <id>https://news.ycombinator.com/item?id=30757206</id>
-        <link href="https://news.ycombinator.com/item?id=30757206"/>
-        <updated>2022-03-21T17:36:48.000Z</updated>
-        <summary type="html"><![CDATA[The Code Review Pyramid]]></summary>
-        <author>
-            <name>adrianomartins</name>
-            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
         </author>
     </entry>
 </feed>
