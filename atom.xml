@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T12:23:47.987Z</updated>
+    <updated>2022-03-29T13:00:08.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每个人都应该有一本用户手册。所以我为自己创建了一个]]></title>
+        <id>https://news.ycombinator.com/item?id=30841486</id>
+        <link href="https://news.ycombinator.com/item?id=30841486"/>
+        <updated>2022-03-29T12:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Every person should come with a user manual. So I created one for me]]></summary>
+        <author>
+            <name>davidbauer</name>
+            <uri>https://news.ycombinator.com/user?id=davidbauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥克塔。泄露的Mandiant报告详细说明了漏洞时间表]]></title>
+        <id>https://news.ycombinator.com/item?id=30841413</id>
+        <link href="https://news.ycombinator.com/item?id=30841413"/>
+        <updated>2022-03-29T12:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Okta: Leaked Mandiant report details breach timeline]]></summary>
+        <author>
+            <name>intunderflow</name>
+            <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滚动的犀牛混音]]></title>
+        <id>https://news.ycombinator.com/item?id=30817555</id>
+        <link href="https://news.ycombinator.com/item?id=30817555"/>
+        <updated>2022-03-27T03:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Rolling Rhino Remix]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svix Webhook服务（YC W21）正在招聘一名Rust后端工程师（远程）。]]></title>
         <id>https://news.ycombinator.com/item?id=30841415</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rcoppolo</name>
             <uri>https://news.ycombinator.com/user?id=rcoppolo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appwrite - 开源和自我托管的Firebase替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30769044</id>
-        <link href="https://news.ycombinator.com/item?id=30769044"/>
-        <updated>2022-03-22T17:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Appwrite – Open-Source and Self Hosted Firebase Alternative]]></summary>
-        <author>
-            <name>christyjacob4</name>
-            <uri>https://news.ycombinator.com/user?id=christyjacob4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夜班。技术能塑造我们的梦想吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30754920</id>
-        <link href="https://news.ycombinator.com/item?id=30754920"/>
-        <updated>2022-03-21T15:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Night Shifts: Can technology shape our dreams?]]></summary>
-        <author>
-            <name>Petiver</name>
-            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Grace CPU]]></title>
-        <id>https://news.ycombinator.com/item?id=30768704</id>
-        <link href="https://news.ycombinator.com/item?id=30768704"/>
-        <updated>2022-03-22T17:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia Grace CPU]]></summary>
-        <author>
-            <name>intull</name>
-            <uri>https://news.ycombinator.com/user?id=intull</uri>
         </author>
     </entry>
 </feed>
