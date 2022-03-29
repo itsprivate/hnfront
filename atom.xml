@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T14:53:01.423Z</updated>
+    <updated>2022-03-29T15:14:54.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[青年会2022年冬季会议]]></title>
+        <id>https://news.ycombinator.com/item?id=30843287</id>
+        <link href="https://news.ycombinator.com/item?id=30843287"/>
+        <updated>2022-03-29T14:50:11.000Z</updated>
+        <summary type="html"><![CDATA[The YC Winter 2022 Batch]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Flask和HTMx构建一个全栈式的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30843275</id>
+        <link href="https://news.ycombinator.com/item?id=30843275"/>
+        <updated>2022-03-29T14:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Building a fullstack app with Flask and HTMx]]></summary>
+        <author>
+            <name>sixhobbits</name>
+            <uri>https://news.ycombinator.com/user?id=sixhobbits</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么搜索引擎不让你把垃圾邮件的域名列入黑名单？]]></title>
+        <id>https://news.ycombinator.com/item?id=30842565</id>
+        <link href="https://news.ycombinator.com/item?id=30842565"/>
+        <updated>2022-03-29T13:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do search engines not let you blacklist spam domains?]]></summary>
+        <author>
+            <name>pketh</name>
+            <uri>https://news.ycombinator.com/user?id=pketh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我精通主动射击训练。急救方面呢？]]></title>
         <id>https://news.ycombinator.com/item?id=30842876</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ripley12</name>
             <uri>https://news.ycombinator.com/user?id=ripley12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我关于精益创业的笔记]]></title>
-        <id>https://news.ycombinator.com/item?id=30754186</id>
-        <link href="https://news.ycombinator.com/item?id=30754186"/>
-        <updated>2022-03-21T13:59:06.000Z</updated>
-        <summary type="html"><![CDATA[My Notes on the Lean Startup]]></summary>
-        <author>
-            <name>kevinslin</name>
-            <uri>https://news.ycombinator.com/user?id=kevinslin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小到可以放在手提行李中的折叠式自行车]]></title>
-        <id>https://news.ycombinator.com/item?id=30771928</id>
-        <link href="https://news.ycombinator.com/item?id=30771928"/>
-        <updated>2022-03-22T21:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Folding bicycle small enough to fit in hand luggage]]></summary>
-        <author>
-            <name>bwindels</name>
-            <uri>https://news.ycombinator.com/user?id=bwindels</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[司法部指控：谷歌经常通过抄送律师来隐藏诉讼中的电子邮件]]></title>
-        <id>https://news.ycombinator.com/item?id=30771012</id>
-        <link href="https://news.ycombinator.com/item?id=30771012"/>
-        <updated>2022-03-22T20:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Google routinely hides emails from litigation by CCing attorneys, DOJ alleges]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
         </author>
     </entry>
 </feed>
