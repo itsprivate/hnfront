@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T20:34:25.357Z</updated>
+    <updated>2022-03-29T20:51:17.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这种疯狂是否会结束？]]></title>
+        <id>https://news.ycombinator.com/item?id=30848056</id>
+        <link href="https://news.ycombinator.com/item?id=30848056"/>
+        <updated>2022-03-29T20:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Is the madness ever going to end?]]></summary>
+        <author>
+            <name>denimboy</name>
+            <uri>https://news.ycombinator.com/user?id=denimboy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[经济学家是否将世界的环境政策引入歧途？]]></title>
         <id>https://news.ycombinator.com/item?id=30847268</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>i13e</name>
             <uri>https://news.ycombinator.com/user?id=i13e</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家可能已经解决了霍金的黑洞悖论]]></title>
-        <id>https://news.ycombinator.com/item?id=30755430</id>
-        <link href="https://news.ycombinator.com/item?id=30755430"/>
-        <updated>2022-03-21T15:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Scientists may have solved Stephen Hawking's black hole paradox]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
