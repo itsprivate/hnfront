@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T06:39:00.473Z</updated>
+    <updated>2022-03-29T06:57:12.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[還有人在網上撒謊嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30838788</id>
+        <link href="https://news.ycombinator.com/item?id=30838788"/>
+        <updated>2022-03-29T04:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does anyone else lie on the internet?]]></summary>
+        <author>
+            <name>Mandatum</name>
+            <uri>https://news.ycombinator.com/user?id=Mandatum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Duang (2015)]]></title>
         <id>https://news.ycombinator.com/item?id=30818972</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>macobo</name>
             <uri>https://news.ycombinator.com/user?id=macobo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國皇家鑄幣廠將建立 "世界第一 "工廠，將英國的電子垃圾變成黃金]]></title>
-        <id>https://news.ycombinator.com/item?id=30766302</id>
-        <link href="https://news.ycombinator.com/item?id=30766302"/>
-        <updated>2022-03-22T14:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Royal Mint to build ‘world first’ plant to turn UK’s electronic waste into gold]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
