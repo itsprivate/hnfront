@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T08:39:16.068Z</updated>
+    <updated>2022-03-29T09:13:44.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蝶变决定允许秘密投票]]></title>
+        <id>https://news.ycombinator.com/item?id=30840214</id>
+        <link href="https://news.ycombinator.com/item?id=30840214"/>
+        <updated>2022-03-29T08:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Debian decides to allow secret votes]]></summary>
+        <author>
+            <name>em-bee</name>
+            <uri>https://news.ycombinator.com/user?id=em-bee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人在他们公司使用GitHub问题吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30839934</id>
+        <link href="https://news.ycombinator.com/item?id=30839934"/>
+        <updated>2022-03-29T07:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone use GitHub Issues at their company?]]></summary>
+        <author>
+            <name>brycelarkin</name>
+            <uri>https://news.ycombinator.com/user?id=brycelarkin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JEP 419: 外来函数和内存API]]></title>
         <id>https://news.ycombinator.com/item?id=30812156</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hannahDC</name>
             <uri>https://news.ycombinator.com/user?id=hannahDC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁会在没有集装箱的情况下进行大规模运营？]]></title>
-        <id>https://news.ycombinator.com/item?id=30767393</id>
-        <link href="https://news.ycombinator.com/item?id=30767393"/>
-        <updated>2022-03-22T15:37:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who operates at scale without containers?]]></summary>
-        <author>
-            <name>disintegore</name>
-            <uri>https://news.ycombinator.com/user?id=disintegore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十二生肖杀手的密码终于被破解了]]></title>
-        <id>https://news.ycombinator.com/item?id=30758717</id>
-        <link href="https://news.ycombinator.com/item?id=30758717"/>
-        <updated>2022-03-21T19:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Zodiac Killer’s Cipher Finally Cracked]]></summary>
-        <author>
-            <name>Txoko</name>
-            <uri>https://news.ycombinator.com/user?id=Txoko</uri>
         </author>
     </entry>
 </feed>
