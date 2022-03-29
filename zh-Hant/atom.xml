@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T20:51:18.116Z</updated>
+    <updated>2022-03-29T21:31:35.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[貝蒂-克羅克試驗廚房的無名女性]]></title>
+        <id>https://news.ycombinator.com/item?id=30835766</id>
+        <link href="https://news.ycombinator.com/item?id=30835766"/>
+        <updated>2022-03-28T21:22:29.000Z</updated>
+        <summary type="html"><![CDATA[The Unsung Women of the Betty Crocker Test Kitchens]]></summary>
+        <author>
+            <name>samclemens</name>
+            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這種瘋狂是否會結束？]]></title>
         <id>https://news.ycombinator.com/item?id=30848056</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danny00</name>
             <uri>https://news.ycombinator.com/user?id=danny00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-Droid是無法到達的]]></title>
-        <id>https://news.ycombinator.com/item?id=30776442</id>
-        <link href="https://news.ycombinator.com/item?id=30776442"/>
-        <updated>2022-03-23T08:57:39.000Z</updated>
-        <summary type="html"><![CDATA[F-Droid Is Unreachable]]></summary>
-        <author>
-            <name>i13e</name>
-            <uri>https://news.ycombinator.com/user?id=i13e</uri>
         </author>
     </entry>
 </feed>
