@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T23:43:58.636Z</updated>
+    <updated>2022-03-29T23:51:22.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[審查制度的無用性]]></title>
+        <id>https://news.ycombinator.com/item?id=30849637</id>
+        <link href="https://news.ycombinator.com/item?id=30849637"/>
+        <updated>2022-03-29T23:26:19.000Z</updated>
+        <summary type="html"><![CDATA[The Futility of Censorship]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[濫用異常來執行代碼，第一部分]]></title>
         <id>https://news.ycombinator.com/item?id=30841425</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sm4rk0</name>
             <uri>https://news.ycombinator.com/user?id=sm4rk0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON飼料]]></title>
-        <id>https://news.ycombinator.com/item?id=30776535</id>
-        <link href="https://news.ycombinator.com/item?id=30776535"/>
-        <updated>2022-03-23T09:11:34.000Z</updated>
-        <summary type="html"><![CDATA[JSON Feed]]></summary>
-        <author>
-            <name>edent</name>
-            <uri>https://news.ycombinator.com/user?id=edent</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 23:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 23:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[审查制度的无用性]]></title>
+            <link>https://news.ycombinator.com/item?id=30849637</link>
+            <guid>https://news.ycombinator.com/item?id=30849637</guid>
+            <pubDate>Tue, 29 Mar 2022 23:26:19 GMT</pubDate>
+            <description><![CDATA[The Futility of Censorship]]></description>
+        </item>
         <item>
             <title><![CDATA[滥用异常来执行代码，第一部分]]></title>
             <link>https://news.ycombinator.com/item?id=30841425</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30776698</guid>
             <pubDate>Wed, 23 Mar 2022 09:42:07 GMT</pubDate>
             <description><![CDATA[Firefox now only available via snap on Ubuntu]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JSON饲料]]></title>
-            <link>https://news.ycombinator.com/item?id=30776535</link>
-            <guid>https://news.ycombinator.com/item?id=30776535</guid>
-            <pubDate>Wed, 23 Mar 2022 09:11:34 GMT</pubDate>
-            <description><![CDATA[JSON Feed]]></description>
         </item>
     </channel>
 </rss>
