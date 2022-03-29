@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 18:56:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 19:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Zulip 5.0: 線程化的開源團隊聊天]]></title>
+            <link>https://news.ycombinator.com/item?id=30846659</link>
+            <guid>https://news.ycombinator.com/item?id=30846659</guid>
+            <pubDate>Tue, 29 Mar 2022 18:40:09 GMT</pubDate>
+            <description><![CDATA[Zulip 5.0: Threaded open-source team chat]]></description>
+        </item>
         <item>
             <title><![CDATA[GraphQL現在可以在Supabase上使用]]></title>
             <link>https://news.ycombinator.com/item?id=30846006</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30756822</guid>
             <pubDate>Mon, 21 Mar 2022 17:14:37 GMT</pubDate>
             <description><![CDATA[Parsing Expressions by Recursive Descent (1999)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由於我對Emacs的貢獻，我獲得了FSF頒發的獎項]]></title>
-            <link>https://news.ycombinator.com/item?id=30774724</link>
-            <guid>https://news.ycombinator.com/item?id=30774724</guid>
-            <pubDate>Wed, 23 Mar 2022 03:50:53 GMT</pubDate>
-            <description><![CDATA[I won an award from the FSF for my contributions to Emacs]]></description>
         </item>
     </channel>
 </rss>
