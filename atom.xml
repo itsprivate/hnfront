@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T15:14:54.883Z</updated>
+    <updated>2022-03-29T15:37:21.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[设计师日记。哈希的意外游戏设计 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30818288</id>
+        <link href="https://news.ycombinator.com/item?id=30818288"/>
+        <updated>2022-03-27T06:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Designer Diary: The Accidental Game Design of Hashi (2021)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[青年会2022年冬季会议]]></title>
         <id>https://news.ycombinator.com/item?id=30843287</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>richeyrw</name>
             <uri>https://news.ycombinator.com/user?id=richeyrw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nushell 0.60版发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30772042</id>
-        <link href="https://news.ycombinator.com/item?id=30772042"/>
-        <updated>2022-03-22T21:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Nushell 0.60 Released]]></summary>
-        <author>
-            <name>ripley12</name>
-            <uri>https://news.ycombinator.com/user?id=ripley12</uri>
         </author>
     </entry>
 </feed>
