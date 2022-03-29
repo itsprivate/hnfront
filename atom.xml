@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T07:12:55.135Z</updated>
+    <updated>2022-03-29T07:40:11.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我所犯的10个错误......所以你不必如此 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=30819363</id>
+        <link href="https://news.ycombinator.com/item?id=30819363"/>
+        <updated>2022-03-27T11:11:47.000Z</updated>
+        <summary type="html"><![CDATA[The 10 Mistakes I've made...so you don't have to (2011)]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加利福尼亚野火烟雾在欧洲上空。气溶胶观测的第一个例子]]></title>
+        <id>https://news.ycombinator.com/item?id=26531943</id>
+        <link href="https://news.ycombinator.com/item?id=26531943"/>
+        <updated>2021-03-21T17:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OurWorldInData（YC W19）正在招聘主任Max Roser的行政助理]]></title>
         <id>https://news.ycombinator.com/item?id=30839638</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>deepakprab</name>
             <uri>https://news.ycombinator.com/user?id=deepakprab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 18 / JDK 18：全面上市]]></title>
-        <id>https://news.ycombinator.com/item?id=30766650</id>
-        <link href="https://news.ycombinator.com/item?id=30766650"/>
-        <updated>2022-03-22T14:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Java 18 / JDK 18: General Availability]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bentō是一个有生命的、不稳定的日本噪音盒，由Giorgio Sancristoforo创作。]]></title>
-        <id>https://news.ycombinator.com/item?id=30766572</id>
-        <link href="https://news.ycombinator.com/item?id=30766572"/>
-        <updated>2022-03-22T14:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Bentō is an alive, unstable Japanese noise box by Giorgio Sancristoforo]]></summary>
-        <author>
-            <name>glitcher</name>
-            <uri>https://news.ycombinator.com/user?id=glitcher</uri>
         </author>
     </entry>
 </feed>
