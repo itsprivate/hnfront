@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T19:12:02.986Z</updated>
+    <updated>2022-03-29T19:27:53.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國聯邦貿易委員會起訴Intuit公司，要求停止聲稱TurboTax免費的 "欺騙性 "廣告]]></title>
+        <id>https://news.ycombinator.com/item?id=30846884</id>
+        <link href="https://news.ycombinator.com/item?id=30846884"/>
+        <updated>2022-03-29T18:59:20.000Z</updated>
+        <summary type="html"><![CDATA[FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free]]></summary>
+        <author>
+            <name>nevir</name>
+            <uri>https://news.ycombinator.com/user?id=nevir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[謝爾蓋-布林 Facebook現象是個問題 (2007)]]></title>
+        <id>https://news.ycombinator.com/item?id=30845385</id>
+        <link href="https://news.ycombinator.com/item?id=30845385"/>
+        <updated>2022-03-29T17:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Sergey Brin: The Facebook phenomenon is a problem (2007)]]></summary>
+        <author>
+            <name>mfiguiere</name>
+            <uri>https://news.ycombinator.com/user?id=mfiguiere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zulip 5.0: 線程化的開源團隊聊天]]></title>
         <id>https://news.ycombinator.com/item?id=30846659</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vedanshbhartia</name>
             <uri>https://news.ycombinator.com/user?id=vedanshbhartia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯維奇內核中百萬分之一的錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30775135</id>
-        <link href="https://news.ycombinator.com/item?id=30775135"/>
-        <updated>2022-03-23T05:01:40.000Z</updated>
-        <summary type="html"><![CDATA[A one in a million bug in Switch kernel]]></summary>
-        <author>
-            <name>farmerbb</name>
-            <uri>https://news.ycombinator.com/user?id=farmerbb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過遞歸後裔解析表達式(1999)]]></title>
-        <id>https://news.ycombinator.com/item?id=30756822</id>
-        <link href="https://news.ycombinator.com/item?id=30756822"/>
-        <updated>2022-03-21T17:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Parsing Expressions by Recursive Descent (1999)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
