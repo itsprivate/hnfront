@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T17:38:55.233Z</updated>
+    <updated>2022-03-29T17:45:36.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Visa的营销选择功能已经关闭了一个多星期。这是一个法律问题吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30845335</id>
+        <link href="https://news.ycombinator.com/item?id=30845335"/>
+        <updated>2022-03-29T17:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Visa's marketing opt-out has been down for over a week. Is this a legal issue?]]></summary>
+        <author>
+            <name>robertwiblin</name>
+            <uri>https://news.ycombinator.com/user?id=robertwiblin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用AVX-512更快地将整数转换为十进制字符串]]></title>
+        <id>https://news.ycombinator.com/item?id=30845228</id>
+        <link href="https://news.ycombinator.com/item?id=30845228"/>
+        <updated>2022-03-29T16:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Converting integers to decimal strings faster with AVX-512]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客的搜索引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30844149</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>benbreen</name>
             <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3是集中式的（而且效率不高）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30774457</id>
-        <link href="https://news.ycombinator.com/item?id=30774457"/>
-        <updated>2022-03-23T03:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Web3 Is Centralized (and Inefficient)]]></summary>
-        <author>
-            <name>neelc</name>
-            <uri>https://news.ycombinator.com/user?id=neelc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEV-0537 (LAPSUS$) 针对组织的犯罪行为人]]></title>
-        <id>https://news.ycombinator.com/item?id=30774406</id>
-        <link href="https://news.ycombinator.com/item?id=30774406"/>
-        <updated>2022-03-23T03:05:53.000Z</updated>
-        <summary type="html"><![CDATA[DEV-0537 (LAPSUS$) Criminal actor targeting organizations]]></summary>
-        <author>
-            <name>Hawxy</name>
-            <uri>https://news.ycombinator.com/user?id=Hawxy</uri>
         </author>
     </entry>
 </feed>
