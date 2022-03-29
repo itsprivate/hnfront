@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T10:15:04.183Z</updated>
+    <updated>2022-03-29T10:43:12.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[二次元投票的用戶體驗問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30822489</id>
+        <link href="https://news.ycombinator.com/item?id=30822489"/>
+        <updated>2022-03-27T18:08:03.000Z</updated>
+        <summary type="html"><![CDATA[The user experience problems of quadratic voting]]></summary>
+        <author>
+            <name>timdaub</name>
+            <uri>https://news.ycombinator.com/user?id=timdaub</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MirageOS v4.0.0發佈：帶有單核的自我管理的互聯網基礎設施]]></title>
         <id>https://news.ycombinator.com/item?id=30840571</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>janvdberg</name>
             <uri>https://news.ycombinator.com/user?id=janvdberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將數據中心變成 "AI工廠"。Nvidia推出Hopper、H100 GPU]]></title>
-        <id>https://news.ycombinator.com/item?id=30768476</id>
-        <link href="https://news.ycombinator.com/item?id=30768476"/>
-        <updated>2022-03-22T16:52:27.000Z</updated>
-        <summary type="html"><![CDATA[Turning Data Centers into ‘AI Factories’: Nvidia Introduces Hopper, H100 GPU]]></summary>
-        <author>
-            <name>bcaulfield</name>
-            <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
         </author>
     </entry>
 </feed>
