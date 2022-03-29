@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T19:27:53.376Z</updated>
+    <updated>2022-03-29T19:37:48.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雪葩。Stripe的紅寶石類型檢查器]]></title>
+        <id>https://news.ycombinator.com/item?id=30833555</id>
+        <link href="https://news.ycombinator.com/item?id=30833555"/>
+        <updated>2022-03-28T18:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Sorbet: Stripe's Type Checker for Ruby]]></summary>
+        <author>
+            <name>joeyespo</name>
+            <uri>https://news.ycombinator.com/user?id=joeyespo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國聯邦貿易委員會起訴Intuit公司，要求停止聲稱TurboTax免費的 "欺騙性 "廣告]]></title>
         <id>https://news.ycombinator.com/item?id=30846884</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯維奇內核中百萬分之一的錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30775433</id>
-        <link href="https://news.ycombinator.com/item?id=30775433"/>
-        <updated>2022-03-23T05:57:03.000Z</updated>
-        <summary type="html"><![CDATA[A one in a million bug in Switch kernel]]></summary>
-        <author>
-            <name>vedanshbhartia</name>
-            <uri>https://news.ycombinator.com/user?id=vedanshbhartia</uri>
         </author>
     </entry>
 </feed>
