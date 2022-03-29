@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T23:33:37.450Z</updated>
+    <updated>2022-03-29T23:43:58.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[滥用异常来执行代码，第一部分]]></title>
+        <id>https://news.ycombinator.com/item?id=30841425</id>
+        <link href="https://news.ycombinator.com/item?id=30841425"/>
+        <updated>2022-03-29T12:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Abusing Exceptions for Code Execution, Part 1]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国历史所得税率]]></title>
         <id>https://news.ycombinator.com/item?id=30849355</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>edent</name>
             <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谢谢你，HN]]></title>
-        <id>https://news.ycombinator.com/item?id=30776808</id>
-        <link href="https://news.ycombinator.com/item?id=30776808"/>
-        <updated>2022-03-23T09:59:43.000Z</updated>
-        <summary type="html"><![CDATA[Thank You HN]]></summary>
-        <author>
-            <name>vitalipom</name>
-            <uri>https://news.ycombinator.com/user?id=vitalipom</uri>
         </author>
     </entry>
 </feed>
