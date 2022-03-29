@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-29T07:51:08.841Z</updated>
+    <updated>2022-03-29T08:39:16.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[JEP 419: 外来函数和内存API]]></title>
+        <id>https://news.ycombinator.com/item?id=30812156</id>
+        <link href="https://news.ycombinator.com/item?id=30812156"/>
+        <updated>2022-03-26T14:33:51.000Z</updated>
+        <summary type="html"><![CDATA[JEP 419: Foreign Function and Memory API]]></summary>
+        <author>
+            <name>ahachete</name>
+            <uri>https://news.ycombinator.com/user?id=ahachete</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分析鱼类新鲜度的电子舌 (2008) [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=29048079</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Txoko</name>
             <uri>https://news.ycombinator.com/user?id=Txoko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Helio睡眠（YC S21）--睡眠呼吸障碍的一站式门户]]></title>
-        <id>https://news.ycombinator.com/item?id=30767471</id>
-        <link href="https://news.ycombinator.com/item?id=30767471"/>
-        <updated>2022-03-22T15:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Helio Sleep (YC S21) – One-stop portal for sleep apnea]]></summary>
-        <author>
-            <name>maxgreenfeld</name>
-            <uri>https://news.ycombinator.com/user?id=maxgreenfeld</uri>
         </author>
     </entry>
 </feed>
