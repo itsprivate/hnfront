@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 18:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 18:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[宣布。倾盆大雨]]></title>
+            <link>https://news.ycombinator.com/item?id=30858728</link>
+            <guid>https://news.ycombinator.com/item?id=30858728</guid>
+            <pubDate>Wed, 30 Mar 2022 18:09:40 GMT</pubDate>
+            <description><![CDATA[Announcing: Downpour]]></description>
+        </item>
+        <item>
+            <title><![CDATA[代码艺术家，一个帮助艺术家转向技术职业的团体]]></title>
+            <link>https://news.ycombinator.com/item?id=30857568</link>
+            <guid>https://news.ycombinator.com/item?id=30857568</guid>
+            <pubDate>Wed, 30 Mar 2022 16:38:47 GMT</pubDate>
+            <description><![CDATA[Artists Who Code, a group helping artists switch careers to tech]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SerenityOS浏览器现在通过了Acid3测试]]></title>
+            <link>https://news.ycombinator.com/item?id=30853392</link>
+            <guid>https://news.ycombinator.com/item?id=30853392</guid>
+            <pubDate>Wed, 30 Mar 2022 10:30:22 GMT</pubDate>
+            <description><![CDATA[SerenityOS Browser now passes the Acid3 test]]></description>
+        </item>
         <item>
             <title><![CDATA[SerenityOS网络浏览器通过了Acid3测试]]></title>
             <link>https://news.ycombinator.com/item?id=30858335</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30771664</guid>
             <pubDate>Tue, 22 Mar 2022 21:14:51 GMT</pubDate>
             <description><![CDATA[I don't need a VPS anymore]]></description>
-        </item>
-        <item>
-            <title><![CDATA[和睦相处。一个Clojure库，旨在为泛音提供一个附加的合成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30759233</link>
-            <guid>https://news.ycombinator.com/item?id=30759233</guid>
-            <pubDate>Mon, 21 Mar 2022 20:23:47 GMT</pubDate>
-            <description><![CDATA[Harmonikit: A Clojure library designed to provide an additive synth for overtone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瓦斯默和商标]]></title>
-            <link>https://news.ycombinator.com/item?id=30758651</link>
-            <guid>https://news.ycombinator.com/item?id=30758651</guid>
-            <pubDate>Mon, 21 Mar 2022 19:32:33 GMT</pubDate>
-            <description><![CDATA[Wasmer and Trademarks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令人敬畏的自助服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30782848</link>
-            <guid>https://news.ycombinator.com/item?id=30782848</guid>
-            <pubDate>Wed, 23 Mar 2022 20:22:09 GMT</pubDate>
-            <description><![CDATA[Awesome Self-Hosted]]></description>
         </item>
     </channel>
 </rss>

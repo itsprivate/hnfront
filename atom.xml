@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T18:16:02.095Z</updated>
+    <updated>2022-03-30T18:42:15.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宣布。倾盆大雨]]></title>
+        <id>https://news.ycombinator.com/item?id=30858728</id>
+        <link href="https://news.ycombinator.com/item?id=30858728"/>
+        <updated>2022-03-30T18:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Announcing: Downpour]]></summary>
+        <author>
+            <name>homarp</name>
+            <uri>https://news.ycombinator.com/user?id=homarp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代码艺术家，一个帮助艺术家转向技术职业的团体]]></title>
+        <id>https://news.ycombinator.com/item?id=30857568</id>
+        <link href="https://news.ycombinator.com/item?id=30857568"/>
+        <updated>2022-03-30T16:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Artists Who Code, a group helping artists switch careers to tech]]></summary>
+        <author>
+            <name>linux2647</name>
+            <uri>https://news.ycombinator.com/user?id=linux2647</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SerenityOS浏览器现在通过了Acid3测试]]></title>
+        <id>https://news.ycombinator.com/item?id=30853392</id>
+        <link href="https://news.ycombinator.com/item?id=30853392"/>
+        <updated>2022-03-30T10:30:22.000Z</updated>
+        <summary type="html"><![CDATA[SerenityOS Browser now passes the Acid3 test]]></summary>
+        <author>
+            <name>andreafeletto</name>
+            <uri>https://news.ycombinator.com/user?id=andreafeletto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SerenityOS网络浏览器通过了Acid3测试]]></title>
         <id>https://news.ycombinator.com/item?id=30858335</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jaza</name>
             <uri>https://news.ycombinator.com/user?id=jaza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和睦相处。一个Clojure库，旨在为泛音提供一个附加的合成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30759233</id>
-        <link href="https://news.ycombinator.com/item?id=30759233"/>
-        <updated>2022-03-21T20:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Harmonikit: A Clojure library designed to provide an additive synth for overtone]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瓦斯默和商标]]></title>
-        <id>https://news.ycombinator.com/item?id=30758651</id>
-        <link href="https://news.ycombinator.com/item?id=30758651"/>
-        <updated>2022-03-21T19:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Wasmer and Trademarks]]></summary>
-        <author>
-            <name>syrusakbary</name>
-            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令人敬畏的自助服务]]></title>
-        <id>https://news.ycombinator.com/item?id=30782848</id>
-        <link href="https://news.ycombinator.com/item?id=30782848"/>
-        <updated>2022-03-23T20:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Awesome Self-Hosted]]></summary>
-        <author>
-            <name>jaboutboul</name>
-            <uri>https://news.ycombinator.com/user?id=jaboutboul</uri>
         </author>
     </entry>
 </feed>
