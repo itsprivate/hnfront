@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T03:16:30.468Z</updated>
+    <updated>2022-03-30T03:46:51.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Java 11和Java 17之間有什麼新變化？]]></title>
+        <id>https://news.ycombinator.com/item?id=30850915</id>
+        <link href="https://news.ycombinator.com/item?id=30850915"/>
+        <updated>2022-03-30T02:30:34.000Z</updated>
+        <summary type="html"><![CDATA[What’s New Between Java 11 and Java 17?]]></summary>
+        <author>
+            <name>ptrik</name>
+            <uri>https://news.ycombinator.com/user?id=ptrik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逃之夭夭的披頭士]]></title>
+        <id>https://news.ycombinator.com/item?id=30834327</id>
+        <link href="https://news.ycombinator.com/item?id=30834327"/>
+        <updated>2022-03-28T19:07:12.000Z</updated>
+        <summary type="html"><![CDATA[The Beatle Who Got Away]]></summary>
+        <author>
+            <name>allthings</name>
+            <uri>https://news.ycombinator.com/user?id=allthings</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zee。一個用Rust編寫的現代終端文本編輯器]]></title>
         <id>https://news.ycombinator.com/item?id=30850652</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>commons-tragedy</name>
             <uri>https://news.ycombinator.com/user?id=commons-tragedy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要租房和住在地下室]]></title>
-        <id>https://news.ycombinator.com/item?id=30777795</id>
-        <link href="https://news.ycombinator.com/item?id=30777795"/>
-        <updated>2022-03-23T12:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do not rent and live in basements]]></summary>
-        <author>
-            <name>fthb</name>
-            <uri>https://news.ycombinator.com/user?id=fthb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大陡坡]]></title>
-        <id>https://news.ycombinator.com/item?id=30754743</id>
-        <link href="https://news.ycombinator.com/item?id=30754743"/>
-        <updated>2022-03-21T14:47:48.000Z</updated>
-        <summary type="html"><![CDATA[The Great Steepening]]></summary>
-        <author>
-            <name>makaimc</name>
-            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
         </author>
     </entry>
 </feed>
