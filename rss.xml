@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 19:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 19:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[开发人员把大部分时间花在了摸索系统上]]></title>
+            <link>https://news.ycombinator.com/item?id=30858311</link>
+            <guid>https://news.ycombinator.com/item?id=30858311</guid>
+            <pubDate>Wed, 30 Mar 2022 17:34:52 GMT</pubDate>
+            <description><![CDATA[Developers spend most of their time figuring the system out]]></description>
+        </item>
         <item>
             <title><![CDATA[数据的形状]]></title>
             <link>https://news.ycombinator.com/item?id=30848170</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30740014</guid>
             <pubDate>Sun, 20 Mar 2022 04:09:13 GMT</pubDate>
             <description><![CDATA[The Kekulé Problem (2017)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们是如何分析并修复Golang的内存泄漏的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30785057</link>
-            <guid>https://news.ycombinator.com/item?id=30785057</guid>
-            <pubDate>Wed, 23 Mar 2022 23:54:42 GMT</pubDate>
-            <description><![CDATA[How we analyzed and fixed a Golang memory leak]]></description>
         </item>
     </channel>
 </rss>

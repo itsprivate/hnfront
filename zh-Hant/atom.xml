@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T19:13:24.297Z</updated>
+    <updated>2022-03-30T19:52:58.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發人員把大部分時間花在了摸索系統上]]></title>
+        <id>https://news.ycombinator.com/item?id=30858311</id>
+        <link href="https://news.ycombinator.com/item?id=30858311"/>
+        <updated>2022-03-30T17:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Developers spend most of their time figuring the system out]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數據的形狀]]></title>
         <id>https://news.ycombinator.com/item?id=30848170</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Hooke</name>
             <uri>https://news.ycombinator.com/user?id=Hooke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們是如何分析並修復Golang的內存洩漏的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30785057</id>
-        <link href="https://news.ycombinator.com/item?id=30785057"/>
-        <updated>2022-03-23T23:54:42.000Z</updated>
-        <summary type="html"><![CDATA[How we analyzed and fixed a Golang memory leak]]></summary>
-        <author>
-            <name>sharva</name>
-            <uri>https://news.ycombinator.com/user?id=sharva</uri>
         </author>
     </entry>
 </feed>
