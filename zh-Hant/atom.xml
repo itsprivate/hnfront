@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T22:32:42.625Z</updated>
+    <updated>2022-03-30T22:43:05.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[約翰霍普金斯大學的野獸]]></title>
+        <id>https://news.ycombinator.com/item?id=30861564</id>
+        <link href="https://news.ycombinator.com/item?id=30861564"/>
+        <updated>2022-03-30T22:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Johns Hopkins Beast]]></summary>
+        <author>
+            <name>Petiver</name>
+            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook正在消亡嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860859</id>
+        <link href="https://news.ycombinator.com/item?id=30860859"/>
+        <updated>2022-03-30T21:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Facebook Dying?]]></summary>
+        <author>
+            <name>labrador</name>
+            <uri>https://news.ycombinator.com/user?id=labrador</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JDK9上的Spring Core存在遠程代碼執行漏洞]]></title>
         <id>https://news.ycombinator.com/item?id=30860352</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>laila90</name>
             <uri>https://news.ycombinator.com/user?id=laila90</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸福與存在的藝術]]></title>
-        <id>https://news.ycombinator.com/item?id=30775844</id>
-        <link href="https://news.ycombinator.com/item?id=30775844"/>
-        <updated>2022-03-23T07:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Happiness and the Art of Being]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIF的發明者之一斯蒂芬-E-威爾海特已經去世。]]></title>
-        <id>https://news.ycombinator.com/item?id=30786649</id>
-        <link href="https://news.ycombinator.com/item?id=30786649"/>
-        <updated>2022-03-24T05:37:34.000Z</updated>
-        <summary type="html"><![CDATA[Stephen E. Wilhite, one of the inventors of the GIF, has died]]></summary>
-        <author>
-            <name>Shared404</name>
-            <uri>https://news.ycombinator.com/user?id=Shared404</uri>
         </author>
     </entry>
 </feed>
