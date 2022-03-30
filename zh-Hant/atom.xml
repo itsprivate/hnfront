@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T07:51:45.577Z</updated>
+    <updated>2022-03-30T08:17:17.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將GNU/Linux稱為GNU/Linux是正確的。]]></title>
+        <id>https://news.ycombinator.com/item?id=30851724</id>
+        <link href="https://news.ycombinator.com/item?id=30851724"/>
+        <updated>2022-03-30T05:17:23.000Z</updated>
+        <summary type="html"><![CDATA[It is correct to refer to GNU/Linux as GNU/Linux]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德國國家惡意軟件公司FinFisher破產了]]></title>
         <id>https://news.ycombinator.com/item?id=30852255</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tnorthcutt</name>
             <uri>https://news.ycombinator.com/user?id=tnorthcutt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LPC55S69 ROM中的另一個漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30778778</id>
-        <link href="https://news.ycombinator.com/item?id=30778778"/>
-        <updated>2022-03-23T14:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Another Vulnerability in the LPC55S69 ROM]]></summary>
-        <author>
-            <name>bcantrill</name>
-            <uri>https://news.ycombinator.com/user?id=bcantrill</uri>
         </author>
     </entry>
 </feed>
