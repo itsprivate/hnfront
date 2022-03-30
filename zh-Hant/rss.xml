@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 09:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[熊彼特論戰略]]></title>
+            <link>https://news.ycombinator.com/item?id=30840210</link>
+            <guid>https://news.ycombinator.com/item?id=30840210</guid>
+            <pubDate>Tue, 29 Mar 2022 08:38:35 GMT</pubDate>
+            <description><![CDATA[Schumpeter on Strategy]]></description>
+        </item>
         <item>
             <title><![CDATA[尋找M1的神經引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30852818</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30780517</guid>
             <pubDate>Wed, 23 Mar 2022 16:52:43 GMT</pubDate>
             <description><![CDATA[Apple’s super-powerful Mac Studio was almost two decades in the making]]></description>
-        </item>
-        <item>
-            <title><![CDATA[渲染。運轉良好的Redis]]></title>
-            <link>https://news.ycombinator.com/item?id=30779909</link>
-            <guid>https://news.ycombinator.com/item?id=30779909</guid>
-            <pubDate>Wed, 23 Mar 2022 16:04:55 GMT</pubDate>
-            <description><![CDATA[Render: Redis That Just Works]]></description>
         </item>
     </channel>
 </rss>
