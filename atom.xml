@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T15:56:37.204Z</updated>
+    <updated>2022-03-30T16:19:03.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[泛型可以使你的Go代码更慢]]></title>
+        <id>https://news.ycombinator.com/item?id=30856804</id>
+        <link href="https://news.ycombinator.com/item?id=30856804"/>
+        <updated>2022-03-30T15:47:52.000Z</updated>
+        <summary type="html"><![CDATA[Generics can make your Go code slower]]></summary>
+        <author>
+            <name>tanoku</name>
+            <uri>https://news.ycombinator.com/user?id=tanoku</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究表明，沙漠会 "呼吸 "水蒸气]]></title>
+        <id>https://news.ycombinator.com/item?id=30856636</id>
+        <link href="https://news.ycombinator.com/item?id=30856636"/>
+        <updated>2022-03-30T15:36:42.000Z</updated>
+        <summary type="html"><![CDATA[Deserts ‘breathe’ water vapor, study shows]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斐迪南-凡-凯瑟尔的《世界的四个部分》（约1689年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30836080</id>
+        <link href="https://news.ycombinator.com/item?id=30836080"/>
+        <updated>2022-03-28T21:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Ferdinand van Kessel’s Four Parts of the World (ca. 1689)]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戴森空气净化耳机]]></title>
         <id>https://news.ycombinator.com/item?id=30856651</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>blewboarwastake</name>
             <uri>https://news.ycombinator.com/user?id=blewboarwastake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌将允许安卓应用实施自己的计费系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30782640</id>
-        <link href="https://news.ycombinator.com/item?id=30782640"/>
-        <updated>2022-03-23T20:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Google to allow Android apps to implement their own billing systems]]></summary>
-        <author>
-            <name>robbiet480</name>
-            <uri>https://news.ycombinator.com/user?id=robbiet480</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币交易所收入猛增600%，2021年超过传统市场]]></title>
-        <id>https://news.ycombinator.com/item?id=30783185</id>
-        <link href="https://news.ycombinator.com/item?id=30783185"/>
-        <updated>2022-03-23T20:51:27.000Z</updated>
-        <summary type="html"><![CDATA[Crypto exchange revenue jumps by 600% and surpasses traditional markets in 2021]]></summary>
-        <author>
-            <name>cinquemb</name>
-            <uri>https://news.ycombinator.com/user?id=cinquemb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芬利（YC W21）正在招聘建立B2B金融技术软件（远程）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30783304</id>
-        <link href="https://news.ycombinator.com/item?id=30783304"/>
-        <updated>2022-03-23T21:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Finley (YC W21) is hiring to build B2B fintech software (remote)]]></summary>
-        <author>
-            <name>festinalente</name>
-            <uri>https://news.ycombinator.com/user?id=festinalente</uri>
         </author>
     </entry>
 </feed>

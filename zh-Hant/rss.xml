@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 15:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 16:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[泛型可以使你的Go代碼更慢]]></title>
+            <link>https://news.ycombinator.com/item?id=30856804</link>
+            <guid>https://news.ycombinator.com/item?id=30856804</guid>
+            <pubDate>Wed, 30 Mar 2022 15:47:52 GMT</pubDate>
+            <description><![CDATA[Generics can make your Go code slower]]></description>
+        </item>
+        <item>
+            <title><![CDATA[研究表明，沙漠會 "呼吸 "水蒸氣]]></title>
+            <link>https://news.ycombinator.com/item?id=30856636</link>
+            <guid>https://news.ycombinator.com/item?id=30856636</guid>
+            <pubDate>Wed, 30 Mar 2022 15:36:42 GMT</pubDate>
+            <description><![CDATA[Deserts ‘breathe’ water vapor, study shows]]></description>
+        </item>
+        <item>
+            <title><![CDATA[斐迪南-凡-凱瑟爾的《世界的四個部分》（約1689年）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30836080</link>
+            <guid>https://news.ycombinator.com/item?id=30836080</guid>
+            <pubDate>Mon, 28 Mar 2022 21:52:04 GMT</pubDate>
+            <description><![CDATA[Ferdinand van Kessel’s Four Parts of the World (ca. 1689)]]></description>
+        </item>
         <item>
             <title><![CDATA[戴森空氣淨化耳機]]></title>
             <link>https://news.ycombinator.com/item?id=30856651</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30783422</guid>
             <pubDate>Wed, 23 Mar 2022 21:10:04 GMT</pubDate>
             <description><![CDATA[Scooping the Loop Snooper: proof of the undecidability of the halting problem [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌將允許安卓應用實施自己的計費系統]]></title>
-            <link>https://news.ycombinator.com/item?id=30782640</link>
-            <guid>https://news.ycombinator.com/item?id=30782640</guid>
-            <pubDate>Wed, 23 Mar 2022 20:02:17 GMT</pubDate>
-            <description><![CDATA[Google to allow Android apps to implement their own billing systems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加密貨幣交易所收入猛增600%，2021年超過傳統市場]]></title>
-            <link>https://news.ycombinator.com/item?id=30783185</link>
-            <guid>https://news.ycombinator.com/item?id=30783185</guid>
-            <pubDate>Wed, 23 Mar 2022 20:51:27 GMT</pubDate>
-            <description><![CDATA[Crypto exchange revenue jumps by 600% and surpasses traditional markets in 2021]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芬利（YC W21）正在招聘建立B2B金融技術軟件（遠程）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30783304</link>
-            <guid>https://news.ycombinator.com/item?id=30783304</guid>
-            <pubDate>Wed, 23 Mar 2022 21:00:34 GMT</pubDate>
-            <description><![CDATA[Finley (YC W21) is hiring to build B2B fintech software (remote)]]></description>
         </item>
     </channel>
 </rss>
