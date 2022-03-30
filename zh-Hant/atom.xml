@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T15:38:01.999Z</updated>
+    <updated>2022-03-30T15:56:37.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戴森空氣淨化耳機]]></title>
+        <id>https://news.ycombinator.com/item?id=30856651</id>
+        <link href="https://news.ycombinator.com/item?id=30856651"/>
+        <updated>2022-03-30T15:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Dyson Air-Purifying Headphones]]></summary>
+        <author>
+            <name>bribroder</name>
+            <uri>https://news.ycombinator.com/user?id=bribroder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Python中比較浮點數的正確方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30856434</id>
+        <link href="https://news.ycombinator.com/item?id=30856434"/>
+        <updated>2022-03-30T15:23:38.000Z</updated>
+        <summary type="html"><![CDATA[The Right Way to Compare Floats in Python]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[潮人的PDA (2004)]]></title>
         <id>https://news.ycombinator.com/item?id=30855951</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>festinalente</name>
             <uri>https://news.ycombinator.com/user?id=festinalente</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈克斯。戰略指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30783156</id>
-        <link href="https://news.ycombinator.com/item?id=30783156"/>
-        <updated>2022-03-23T20:48:53.000Z</updated>
-        <summary type="html"><![CDATA[Hex: A Strategy Guide]]></summary>
-        <author>
-            <name>creata</name>
-            <uri>https://news.ycombinator.com/user?id=creata</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於最近服務中斷的最新情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30783051</id>
-        <link href="https://news.ycombinator.com/item?id=30783051"/>
-        <updated>2022-03-23T20:39:48.000Z</updated>
-        <summary type="html"><![CDATA[An update on recent service disruptions]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
