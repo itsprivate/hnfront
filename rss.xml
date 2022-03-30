@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 22:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 22:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[JDK9上的Spring Core存在远程代码执行漏洞]]></title>
+            <link>https://news.ycombinator.com/item?id=30860352</link>
+            <guid>https://news.ycombinator.com/item?id=30860352</guid>
+            <pubDate>Wed, 30 Mar 2022 20:26:23 GMT</pubDate>
+            <description><![CDATA[Spring Core on JDK9 is vulnerable to remote code execution]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：Google Play封锁了拥有100万用户的RIDERS应用程序的付款]]></title>
             <link>https://news.ycombinator.com/item?id=30861147</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30786649</guid>
             <pubDate>Thu, 24 Mar 2022 05:37:34 GMT</pubDate>
             <description><![CDATA[Stephen E. Wilhite, one of the inventors of the GIF, has died]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SFFA在最高法院争辩说，哈佛大学实施了非法的 "亚洲惩罚"。]]></title>
-            <link>https://news.ycombinator.com/item?id=30786533</link>
-            <guid>https://news.ycombinator.com/item?id=30786533</guid>
-            <pubDate>Thu, 24 Mar 2022 05:06:38 GMT</pubDate>
-            <description><![CDATA[SFFA argues in Supreme Court that Harvard imposed an illegal “Asian penalty”]]></description>
         </item>
     </channel>
 </rss>
