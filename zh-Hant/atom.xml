@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T13:27:35.116Z</updated>
+    <updated>2022-03-30T13:48:37.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[靜態分析在GitHub]]></title>
+        <id>https://news.ycombinator.com/item?id=30854916</id>
+        <link href="https://news.ycombinator.com/item?id=30854916"/>
+        <updated>2022-03-30T13:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Static Analysis at GitHub]]></summary>
+        <author>
+            <name>trptcolin</name>
+            <uri>https://news.ycombinator.com/user?id=trptcolin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana Mimir]]></title>
+        <id>https://news.ycombinator.com/item?id=30854737</id>
+        <link href="https://news.ycombinator.com/item?id=30854737"/>
+        <updated>2022-03-30T13:13:21.000Z</updated>
+        <summary type="html"><![CDATA[Grafana Mimir]]></summary>
+        <author>
+            <name>dboreham</name>
+            <uri>https://news.ycombinator.com/user?id=dboreham</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[設計一個REST API。Unix時間與ISO-8601的對比(2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=30854563</id>
+        <link href="https://news.ycombinator.com/item?id=30854563"/>
+        <updated>2022-03-30T13:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Designing a REST API: Unix Time vs. ISO-8601 (2013)]]></summary>
+        <author>
+            <name>ducaale</name>
+            <uri>https://news.ycombinator.com/user?id=ducaale</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack J Dongarra榮獲圖靈獎]]></title>
+        <id>https://news.ycombinator.com/item?id=30854526</id>
+        <link href="https://news.ycombinator.com/item?id=30854526"/>
+        <updated>2022-03-30T12:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Jack J Dongarra wins Turing Award]]></summary>
+        <author>
+            <name>ketanmaheshwari</name>
+            <uri>https://news.ycombinator.com/user?id=ketanmaheshwari</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grafana Mimir - 1B活動系列TSDB]]></title>
         <id>https://news.ycombinator.com/item?id=30854734</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[線性錘子。PCA不是萬能藥]]></title>
-        <id>https://news.ycombinator.com/item?id=30782187</id>
-        <link href="https://news.ycombinator.com/item?id=30782187"/>
-        <updated>2022-03-23T19:17:56.000Z</updated>
-        <summary type="html"><![CDATA[Linear Hammer: PCA is not a panacea]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亞聰明的鳥兒不同意這項科學實驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30761050</id>
-        <link href="https://news.ycombinator.com/item?id=30761050"/>
-        <updated>2022-03-21T23:28:25.000Z</updated>
-        <summary type="html"><![CDATA[Australia’s Clever Birds Did Not Consent to This Science Experiment]]></summary>
-        <author>
-            <name>wglb</name>
-            <uri>https://news.ycombinator.com/user?id=wglb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼收入分享協議沒有成功]]></title>
-        <id>https://news.ycombinator.com/item?id=30782152</id>
-        <link href="https://news.ycombinator.com/item?id=30782152"/>
-        <updated>2022-03-23T19:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Why income share agreements did not work out]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系統六]]></title>
-        <id>https://news.ycombinator.com/item?id=30782101</id>
-        <link href="https://news.ycombinator.com/item?id=30782101"/>
-        <updated>2022-03-23T19:11:01.000Z</updated>
-        <summary type="html"><![CDATA[SystemSix]]></summary>
-        <author>
-            <name>aaronbrethorst</name>
-            <uri>https://news.ycombinator.com/user?id=aaronbrethorst</uri>
         </author>
     </entry>
 </feed>
