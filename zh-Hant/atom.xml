@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T20:14:23.362Z</updated>
+    <updated>2022-03-30T20:36:14.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CPU如何與GPU通信？]]></title>
+        <id>https://news.ycombinator.com/item?id=30860259</id>
+        <link href="https://news.ycombinator.com/item?id=30860259"/>
+        <updated>2022-03-30T20:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does a CPU communicate with a GPU?]]></summary>
+        <author>
+            <name>pedrolins</name>
+            <uri>https://news.ycombinator.com/user?id=pedrolins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怪異的世界。世界紀錄俄羅斯方塊 (2007)]]></title>
         <id>https://news.ycombinator.com/item?id=30854084</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nreece</name>
             <uri>https://news.ycombinator.com/user?id=nreece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paul E Marik等人在一項維生素C試驗中捏造數據的證據。]]></title>
-        <id>https://news.ycombinator.com/item?id=30785370</id>
-        <link href="https://news.ycombinator.com/item?id=30785370"/>
-        <updated>2022-03-24T00:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Evidence of Fabricated Data in a Vitamin C trial by Paul E Marik et al.]]></summary>
-        <author>
-            <name>DantesKite</name>
-            <uri>https://news.ycombinator.com/user?id=DantesKite</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 20:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 20:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CPU如何與GPU通信？]]></title>
+            <link>https://news.ycombinator.com/item?id=30860259</link>
+            <guid>https://news.ycombinator.com/item?id=30860259</guid>
+            <pubDate>Wed, 30 Mar 2022 20:17:45 GMT</pubDate>
+            <description><![CDATA[Ask HN: How does a CPU communicate with a GPU?]]></description>
+        </item>
         <item>
             <title><![CDATA[怪異的世界。世界紀錄俄羅斯方塊 (2007)]]></title>
             <link>https://news.ycombinator.com/item?id=30854084</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30785646</guid>
             <pubDate>Thu, 24 Mar 2022 01:49:25 GMT</pubDate>
             <description><![CDATA[AWS Graviton vs. M1 vs. M1 Pro Node.js Benchmarks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Paul E Marik等人在一項維生素C試驗中捏造數據的證據。]]></title>
-            <link>https://news.ycombinator.com/item?id=30785370</link>
-            <guid>https://news.ycombinator.com/item?id=30785370</guid>
-            <pubDate>Thu, 24 Mar 2022 00:57:42 GMT</pubDate>
-            <description><![CDATA[Evidence of Fabricated Data in a Vitamin C trial by Paul E Marik et al.]]></description>
         </item>
     </channel>
 </rss>
