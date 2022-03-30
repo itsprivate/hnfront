@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T14:12:21.169Z</updated>
+    <updated>2022-03-30T14:30:16.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的電腦是一個分佈式系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30855419</id>
+        <link href="https://news.ycombinator.com/item?id=30855419"/>
+        <updated>2022-03-30T14:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Your Computer Is a Distributed System]]></summary>
+        <author>
+            <name>carlesfe</name>
+            <uri>https://news.ycombinator.com/user?id=carlesfe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌終止了我們的開發者賬戶，說是 "相關"。]]></title>
         <id>https://news.ycombinator.com/item?id=30855065</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>laminarflow</name>
             <uri>https://news.ycombinator.com/user?id=laminarflow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人類並不是為了騎自行車而進化的]]></title>
-        <id>https://news.ycombinator.com/item?id=30782614</id>
-        <link href="https://news.ycombinator.com/item?id=30782614"/>
-        <updated>2022-03-23T19:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Humans did not evolve to ride bicycles]]></summary>
-        <author>
-            <name>ppsreejith</name>
-            <uri>https://news.ycombinator.com/user?id=ppsreejith</uri>
         </author>
     </entry>
 </feed>
