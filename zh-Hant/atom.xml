@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T02:28:44.749Z</updated>
+    <updated>2022-03-30T03:16:30.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zee。一個用Rust編寫的現代終端文本編輯器]]></title>
+        <id>https://news.ycombinator.com/item?id=30850652</id>
+        <link href="https://news.ycombinator.com/item?id=30850652"/>
+        <updated>2022-03-30T01:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Zee: A modern text editor for the terminal written in Rust]]></summary>
+        <author>
+            <name>siraben</name>
+            <uri>https://news.ycombinator.com/user?id=siraben</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Gradio進行實時語音識別]]></title>
+        <id>https://news.ycombinator.com/item?id=30850596</id>
+        <link href="https://news.ycombinator.com/item?id=30850596"/>
+        <updated>2022-03-30T01:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Real Time Speech Recognition with Gradio]]></summary>
+        <author>
+            <name>ak391</name>
+            <uri>https://news.ycombinator.com/user?id=ak391</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只有崩潰的軟件和遞歸的微型重啟器]]></title>
+        <id>https://news.ycombinator.com/item?id=30833582</id>
+        <link href="https://news.ycombinator.com/item?id=30833582"/>
+        <updated>2022-03-28T18:06:12.000Z</updated>
+        <summary type="html"><![CDATA[Crash-Only Software and Recursive Microreboots]]></summary>
+        <author>
+            <name>firloop</name>
+            <uri>https://news.ycombinator.com/user?id=firloop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10萬個星星Chrome瀏覽器的虛擬化實驗]]></title>
         <id>https://news.ycombinator.com/item?id=30850625</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>makaimc</name>
             <uri>https://news.ycombinator.com/user?id=makaimc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[繆斯（YC W12）正在招聘一名高級平臺工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30777542</id>
-        <link href="https://news.ycombinator.com/item?id=30777542"/>
-        <updated>2022-03-23T12:00:11.000Z</updated>
-        <summary type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior Platform Engineer]]></summary>
-        <author>
-            <name>KMinshew</name>
-            <uri>https://news.ycombinator.com/user?id=KMinshew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PowerVR 1系列GPU的原始源代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30777440</id>
-        <link href="https://news.ycombinator.com/item?id=30777440"/>
-        <updated>2022-03-23T11:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Original source code for the PowerVR Series 1 GPUs]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜Corretto 18現已全面上市]]></title>
-        <id>https://news.ycombinator.com/item?id=30777383</id>
-        <link href="https://news.ycombinator.com/item?id=30777383"/>
-        <updated>2022-03-23T11:35:33.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Corretto 18 is now generally available]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
