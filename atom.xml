@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T08:17:17.760Z</updated>
+    <updated>2022-03-30T08:54:21.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只是一个日历。查看简单的日历，无需登录，超级轻便]]></title>
+        <id>https://news.ycombinator.com/item?id=30851174</id>
+        <link href="https://news.ycombinator.com/item?id=30851174"/>
+        <updated>2022-03-30T03:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Just a Calendar: Simple Calendar to look at, no login, super light]]></summary>
+        <author>
+            <name>sharat87</name>
+            <uri>https://news.ycombinator.com/user?id=sharat87</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS级联]]></title>
+        <id>https://news.ycombinator.com/item?id=30828970</id>
+        <link href="https://news.ycombinator.com/item?id=30828970"/>
+        <updated>2022-03-28T10:08:01.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Cascade]]></summary>
+        <author>
+            <name>IA21</name>
+            <uri>https://news.ycombinator.com/user?id=IA21</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将GNU/Linux称为GNU/Linux是正确的。]]></title>
         <id>https://news.ycombinator.com/item?id=30851724</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>davegaeddert</name>
             <uri>https://news.ycombinator.com/user?id=davegaeddert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub事件 2022-03-23]]></title>
-        <id>https://news.ycombinator.com/item?id=30779046</id>
-        <link href="https://news.ycombinator.com/item?id=30779046"/>
-        <updated>2022-03-23T14:51:45.000Z</updated>
-        <summary type="html"><![CDATA[GitHub incident 2022-03-23]]></summary>
-        <author>
-            <name>tpaksoy</name>
-            <uri>https://news.ycombinator.com/user?id=tpaksoy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茶--构建互联网的工具箱]]></title>
-        <id>https://news.ycombinator.com/item?id=30778924</id>
-        <link href="https://news.ycombinator.com/item?id=30778924"/>
-        <updated>2022-03-23T14:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Tea – the toolkit that builds the Internet]]></summary>
-        <author>
-            <name>tnorthcutt</name>
-            <uri>https://news.ycombinator.com/user?id=tnorthcutt</uri>
         </author>
     </entry>
 </feed>
