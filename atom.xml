@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T20:36:14.904Z</updated>
+    <updated>2022-03-30T20:52:05.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[约会应用的StoreKit外部权限的更新]]></title>
+        <id>https://news.ycombinator.com/item?id=30860483</id>
+        <link href="https://news.ycombinator.com/item?id=30860483"/>
+        <updated>2022-03-30T20:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Update on StoreKit External Entitlement for dating apps]]></summary>
+        <author>
+            <name>tech234a</name>
+            <uri>https://news.ycombinator.com/user?id=tech234a</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何远离谷歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30859680</id>
+        <link href="https://news.ycombinator.com/item?id=30859680"/>
+        <updated>2022-03-30T19:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to move away from Google]]></summary>
+        <author>
+            <name>rocode2</name>
+            <uri>https://news.ycombinator.com/user?id=rocode2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CPU如何与GPU通信？]]></title>
         <id>https://news.ycombinator.com/item?id=30860259</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>anchpop</name>
             <uri>https://news.ycombinator.com/user?id=anchpop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla对网络发展的愿景]]></title>
-        <id>https://news.ycombinator.com/item?id=30783509</id>
-        <link href="https://news.ycombinator.com/item?id=30783509"/>
-        <updated>2022-03-23T21:16:55.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla’s Vision for the Evolution of the Web]]></summary>
-        <author>
-            <name>fabrice_d</name>
-            <uri>https://news.ycombinator.com/user?id=fabrice_d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Graviton vs. M1 vs. M1 Pro Node.js基准测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30785646</id>
-        <link href="https://news.ycombinator.com/item?id=30785646"/>
-        <updated>2022-03-24T01:49:25.000Z</updated>
-        <summary type="html"><![CDATA[AWS Graviton vs. M1 vs. M1 Pro Node.js Benchmarks]]></summary>
-        <author>
-            <name>nreece</name>
-            <uri>https://news.ycombinator.com/user?id=nreece</uri>
         </author>
     </entry>
 </feed>
