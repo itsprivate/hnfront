@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T15:13:16.752Z</updated>
+    <updated>2022-03-30T15:38:01.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[潮人的PDA (2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=30855951</id>
+        <link href="https://news.ycombinator.com/item?id=30855951"/>
+        <updated>2022-03-30T14:47:43.000Z</updated>
+        <summary type="html"><![CDATA[The Hipster PDA (2004)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[住在郵輪上的退休人員]]></title>
+        <id>https://news.ycombinator.com/item?id=30855939</id>
+        <link href="https://news.ycombinator.com/item?id=30855939"/>
+        <updated>2022-03-30T14:46:50.000Z</updated>
+        <summary type="html"><![CDATA[The Retirees Who Live on Cruise Ships]]></summary>
+        <author>
+            <name>carlivar</name>
+            <uri>https://news.ycombinator.com/user?id=carlivar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EnvKey 2.0 - 端到端加密環境（現已開放源代碼）]]></title>
+        <id>https://news.ycombinator.com/item?id=30855879</id>
+        <link href="https://news.ycombinator.com/item?id=30855879"/>
+        <updated>2022-03-30T14:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: EnvKey 2.0 – End-To-End Encrypted Environments (now open source)]]></summary>
+        <author>
+            <name>danenania</name>
+            <uri>https://news.ycombinator.com/user?id=danenania</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waymo開始在舊金山進行無人駕駛騎行；將擴展到鳳凰城市中心]]></title>
         <id>https://news.ycombinator.com/item?id=30855624</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你希望你在30多歲時做了什麼/知道什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30782994</id>
-        <link href="https://news.ycombinator.com/item?id=30782994"/>
-        <updated>2022-03-23T20:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you wish you had done/known in your 30s?]]></summary>
-        <author>
-            <name>yamrzou</name>
-            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teclis - 非商業性網絡搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30783037</id>
-        <link href="https://news.ycombinator.com/item?id=30783037"/>
-        <updated>2022-03-23T20:38:55.000Z</updated>
-        <summary type="html"><![CDATA[Teclis – Non-commercial web search]]></summary>
-        <author>
-            <name>samcrawford</name>
-            <uri>https://news.ycombinator.com/user?id=samcrawford</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為RISC-V交叉編譯Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=30754080</id>
-        <link href="https://news.ycombinator.com/item?id=30754080"/>
-        <updated>2022-03-21T13:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Cross-Compiling Rust for RISC-V]]></summary>
-        <author>
-            <name>hasheddan</name>
-            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
         </author>
     </entry>
 </feed>
