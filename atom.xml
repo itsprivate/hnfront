@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T04:41:39.352Z</updated>
+    <updated>2022-03-30T04:58:36.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不喜欢电脑 (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=30851371</id>
+        <link href="https://news.ycombinator.com/item?id=30851371"/>
+        <updated>2022-03-30T04:02:07.000Z</updated>
+        <summary type="html"><![CDATA[I don't like computers (2016)]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个银色的扣子]]></title>
+        <id>https://news.ycombinator.com/item?id=30838855</id>
+        <link href="https://news.ycombinator.com/item?id=30838855"/>
+        <updated>2022-03-29T04:43:21.000Z</updated>
+        <summary type="html"><![CDATA[A Silver Clasp]]></summary>
+        <author>
+            <name>drdee</name>
+            <uri>https://news.ycombinator.com/user?id=drdee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加州研究开始筛选MDMA辅助治疗创伤后应激障碍的方法]]></title>
         <id>https://news.ycombinator.com/item?id=30851245</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rmbyrro</name>
             <uri>https://news.ycombinator.com/user?id=rmbyrro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dum: 一个用Rust编写的NPM脚本运行器]]></title>
-        <id>https://news.ycombinator.com/item?id=30778321</id>
-        <link href="https://news.ycombinator.com/item?id=30778321"/>
-        <updated>2022-03-23T13:39:19.000Z</updated>
-        <summary type="html"><![CDATA[Dum: An NPM scripts runner written in Rust]]></summary>
-        <author>
-            <name>vvoyer</name>
-            <uri>https://news.ycombinator.com/user?id=vvoyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果收购英国开放银行初创公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30778240</id>
-        <link href="https://news.ycombinator.com/item?id=30778240"/>
-        <updated>2022-03-23T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple acquires UK open banking startup]]></summary>
-        <author>
-            <name>rmesters</name>
-            <uri>https://news.ycombinator.com/user?id=rmesters</uri>
         </author>
     </entry>
 </feed>
