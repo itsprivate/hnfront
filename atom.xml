@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T08:54:21.706Z</updated>
+    <updated>2022-03-30T09:13:36.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找M1的神经引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30852818</id>
+        <link href="https://news.ycombinator.com/item?id=30852818"/>
+        <updated>2022-03-30T08:52:44.000Z</updated>
+        <summary type="html"><![CDATA[The hunt for the M1’s neural engine]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只是一个日历。查看简单的日历，无需登录，超级轻便]]></title>
         <id>https://news.ycombinator.com/item?id=30851174</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MikeFaber</name>
             <uri>https://news.ycombinator.com/user?id=MikeFaber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forge - 一个Django SaaS框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30779395</id>
-        <link href="https://news.ycombinator.com/item?id=30779395"/>
-        <updated>2022-03-23T15:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Forge – A Django SaaS Framework]]></summary>
-        <author>
-            <name>davegaeddert</name>
-            <uri>https://news.ycombinator.com/user?id=davegaeddert</uri>
         </author>
     </entry>
 </feed>
