@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-30T17:16:30.215Z</updated>
+    <updated>2022-03-30T17:35:03.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LibJS JavaScript引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30857705</id>
+        <link href="https://news.ycombinator.com/item?id=30857705"/>
+        <updated>2022-03-30T16:48:02.000Z</updated>
+        <summary type="html"><![CDATA[LibJS JavaScript Engine]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emerge Tools（移动香水平台）正在寻找Android性能专家]]></title>
         <id>https://news.ycombinator.com/item?id=30857869</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>digital55</name>
             <uri>https://news.ycombinator.com/user?id=digital55</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是火，为什么它能燃烧？]]></title>
-        <id>https://news.ycombinator.com/item?id=30783777</id>
-        <link href="https://news.ycombinator.com/item?id=30783777"/>
-        <updated>2022-03-23T21:38:20.000Z</updated>
-        <summary type="html"><![CDATA[What’s a fire and why does it burn?]]></summary>
-        <author>
-            <name>kvee</name>
-            <uri>https://news.ycombinator.com/user?id=kvee</uri>
         </author>
     </entry>
 </feed>
