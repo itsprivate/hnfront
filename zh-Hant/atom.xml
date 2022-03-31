@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T02:21:46.012Z</updated>
+    <updated>2022-03-31T03:09:52.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[電子海洋模型（1960年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30853590</id>
+        <link href="https://news.ycombinator.com/item?id=30853590"/>
+        <updated>2022-03-30T11:07:09.000Z</updated>
+        <summary type="html"><![CDATA[The electronic ocean model (1960)]]></summary>
+        <author>
+            <name>shauns</name>
+            <uri>https://news.ycombinator.com/user?id=shauns</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flexport公司正在招聘軟件工程師]]></title>
         <id>https://news.ycombinator.com/item?id=30862697</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>noyesno</name>
             <uri>https://news.ycombinator.com/user?id=noyesno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在其推出近37年後，有人在Windows 1.0中發現了一個復活節彩蛋]]></title>
-        <id>https://news.ycombinator.com/item?id=30777228</id>
-        <link href="https://news.ycombinator.com/item?id=30777228"/>
-        <updated>2022-03-23T11:12:32.000Z</updated>
-        <summary type="html"><![CDATA[Almost 37 years after its launch, someone found an Easter egg in Windows 1.0]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
