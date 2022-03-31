@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T10:53:40.833Z</updated>
+    <updated>2022-03-31T12:18:13.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AgileMD (YC S11)正在招聘企業技術支持人員]]></title>
+        <id>https://news.ycombinator.com/item?id=30866231</id>
+        <link href="https://news.ycombinator.com/item?id=30866231"/>
+        <updated>2022-03-31T12:01:04.000Z</updated>
+        <summary type="html"><![CDATA[AgileMD (YC S11) Is Hiring Enterprise Technical Support]]></summary>
+        <author>
+            <name>borna</name>
+            <uri>https://news.ycombinator.com/user?id=borna</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腐敗塑造了歷史。為什麼我們仍然忽視它？]]></title>
+        <id>https://news.ycombinator.com/item?id=30865974</id>
+        <link href="https://news.ycombinator.com/item?id=30865974"/>
+        <updated>2022-03-31T11:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Corruption Has Shaped History. Why Do We Still Ignore It?]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英派斯太空公司正在押注一個發射成本低廉的未來]]></title>
+        <id>https://news.ycombinator.com/item?id=30853465</id>
+        <link href="https://news.ycombinator.com/item?id=30853465"/>
+        <updated>2022-03-30T10:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Impulse Space is betting on a future where launch is cheap]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找有工作機會的公司，使用你喜歡的技術]]></title>
         <id>https://news.ycombinator.com/item?id=30853281</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即將對Gitlab SaaS免費層的用戶限制進行修改]]></title>
-        <id>https://news.ycombinator.com/item?id=30791162</id>
-        <link href="https://news.ycombinator.com/item?id=30791162"/>
-        <updated>2022-03-24T15:22:15.000Z</updated>
-        <summary type="html"><![CDATA[Upcoming changes to user limits on Free tier of Gitlab SaaS]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼開發者不再製作桌面應用了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30790964</id>
-        <link href="https://news.ycombinator.com/item?id=30790964"/>
-        <updated>2022-03-24T15:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Why aren't devs making desktop apps any more]]></summary>
-        <author>
-            <name>sirjaz</name>
-            <uri>https://news.ycombinator.com/user?id=sirjaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBSD的Slaacd中通過路由器廣告的堆溢出問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30790944</id>
-        <link href="https://news.ycombinator.com/item?id=30790944"/>
-        <updated>2022-03-24T15:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Heap Overflow in OpenBSD's Slaacd via Router Advertisement]]></summary>
-        <author>
-            <name>gray_charger</name>
-            <uri>https://news.ycombinator.com/user?id=gray_charger</uri>
         </author>
     </entry>
 </feed>
