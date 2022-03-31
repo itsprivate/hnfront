@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T10:17:03.126Z</updated>
+    <updated>2022-03-31T10:53:40.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找有工作机会的公司，使用你喜欢的技术]]></title>
+        <id>https://news.ycombinator.com/item?id=30853281</id>
+        <link href="https://news.ycombinator.com/item?id=30853281"/>
+        <updated>2022-03-30T10:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find companies with jobs using technologies you love]]></summary>
+        <author>
+            <name>joergrech</name>
+            <uri>https://news.ycombinator.com/user?id=joergrech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非C类操作系统的狂野世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30851955</id>
+        <link href="https://news.ycombinator.com/item?id=30851955"/>
+        <updated>2022-03-30T06:07:34.000Z</updated>
+        <summary type="html"><![CDATA[The wild world of non-C operating systems]]></summary>
+        <author>
+            <name>dharmatech</name>
+            <uri>https://news.ycombinator.com/user?id=dharmatech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[x86系统的指针标记]]></title>
         <id>https://news.ycombinator.com/item?id=30865423</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gray_charger</name>
             <uri>https://news.ycombinator.com/user?id=gray_charger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub事件: 2022/03/24]]></title>
-        <id>https://news.ycombinator.com/item?id=30790593</id>
-        <link href="https://news.ycombinator.com/item?id=30790593"/>
-        <updated>2022-03-24T14:46:04.000Z</updated>
-        <summary type="html"><![CDATA[GitHub incident: 2022/03/24]]></summary>
-        <author>
-            <name>rsstack</name>
-            <uri>https://news.ycombinator.com/user?id=rsstack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真棒的Pascal - Delphi、FreePascal和Pascal闪亮的东西的一个精心策划的列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30790193</id>
-        <link href="https://news.ycombinator.com/item?id=30790193"/>
-        <updated>2022-03-24T14:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Awesome Pascal – A curated list of Delphi, FreePascal, and Pascal shiny things]]></summary>
-        <author>
-            <name>rsecora</name>
-            <uri>https://news.ycombinator.com/user?id=rsecora</uri>
         </author>
     </entry>
 </feed>
