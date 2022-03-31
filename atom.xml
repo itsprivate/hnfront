@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T06:39:04.741Z</updated>
+    <updated>2022-03-31T06:57:13.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[把你的手机变成一个空间监测工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30864470</id>
+        <link href="https://news.ycombinator.com/item?id=30864470"/>
+        <updated>2022-03-31T06:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Turn your phone into a space monitoring tool]]></summary>
+        <author>
+            <name>JeanMarcS</name>
+            <uri>https://news.ycombinator.com/user?id=JeanMarcS</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火狐浏览器的阅读器视图是如何工作的？]]></title>
         <id>https://news.ycombinator.com/item?id=30864311</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>10000truths</name>
             <uri>https://news.ycombinator.com/user?id=10000truths</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还有人质疑USB-C是一种 "改进 "吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30789426</id>
-        <link href="https://news.ycombinator.com/item?id=30789426"/>
-        <updated>2022-03-24T13:27:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anyone else question USB-C as an “improvement”?]]></summary>
-        <author>
-            <name>kkielhofner</name>
-            <uri>https://news.ycombinator.com/user?id=kkielhofner</uri>
         </author>
     </entry>
 </feed>
