@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 31 Mar 2022 03:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 04:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蝶變的錯覺]]></title>
+            <link>https://news.ycombinator.com/item?id=30863318</link>
+            <guid>https://news.ycombinator.com/item?id=30863318</guid>
+            <pubDate>Thu, 31 Mar 2022 02:44:49 GMT</pubDate>
+            <description><![CDATA[The Delusions of Debian]]></description>
+        </item>
+        <item>
+            <title><![CDATA[無紙化-NGX]]></title>
+            <link>https://news.ycombinator.com/item?id=30852035</link>
+            <guid>https://news.ycombinator.com/item?id=30852035</guid>
+            <pubDate>Wed, 30 Mar 2022 06:21:31 GMT</pubDate>
+            <description><![CDATA[Paperless-NGX]]></description>
+        </item>
         <item>
             <title><![CDATA[電子海洋模型（1960年）。]]></title>
             <link>https://news.ycombinator.com/item?id=30853590</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30775787</guid>
             <pubDate>Wed, 23 Mar 2022 07:03:13 GMT</pubDate>
             <description><![CDATA[Deep Dive into Centaur’s Last CPU Core: CNS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PlanetScale Rewind: 在不丟失數據的情況下恢復遷移]]></title>
-            <link>https://news.ycombinator.com/item?id=30788768</link>
-            <guid>https://news.ycombinator.com/item?id=30788768</guid>
-            <pubDate>Thu, 24 Mar 2022 12:16:03 GMT</pubDate>
-            <description><![CDATA[PlanetScale Rewind: Revert a migration without losing data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你不使用SSH證書，你就做錯了SSH (2019)]]></title>
-            <link>https://news.ycombinator.com/item?id=30788544</link>
-            <guid>https://news.ycombinator.com/item?id=30788544</guid>
-            <pubDate>Thu, 24 Mar 2022 11:46:33 GMT</pubDate>
-            <description><![CDATA[If you’re not using SSH certificates you’re doing SSH wrong (2019)]]></description>
         </item>
     </channel>
 </rss>
