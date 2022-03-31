@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T04:13:39.544Z</updated>
+    <updated>2022-03-31T04:58:37.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[没有走过的路]]></title>
+        <id>https://news.ycombinator.com/item?id=30862400</id>
+        <link href="https://news.ycombinator.com/item?id=30862400"/>
+        <updated>2022-03-31T00:15:30.000Z</updated>
+        <summary type="html"><![CDATA[The Roads Not Taken]]></summary>
+        <author>
+            <name>sidhanthp</name>
+            <uri>https://news.ycombinator.com/user?id=sidhanthp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蝶变的错觉]]></title>
         <id>https://news.ycombinator.com/item?id=30863318</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anuragk11</name>
             <uri>https://news.ycombinator.com/user?id=anuragk11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入研究半人马的最后一个CPU核心。CNS]]></title>
-        <id>https://news.ycombinator.com/item?id=30775787</id>
-        <link href="https://news.ycombinator.com/item?id=30775787"/>
-        <updated>2022-03-23T07:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Deep Dive into Centaur’s Last CPU Core: CNS]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
