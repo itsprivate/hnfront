@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T22:12:43.187Z</updated>
+    <updated>2022-03-31T23:14:08.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在π中尋找沃爾多]]></title>
+        <id>https://news.ycombinator.com/item?id=30872676</id>
+        <link href="https://news.ycombinator.com/item?id=30872676"/>
+        <updated>2022-03-31T22:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Finding Waldo in π]]></summary>
+        <author>
+            <name>Pxtl</name>
+            <uri>https://news.ycombinator.com/user?id=Pxtl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何選擇？(2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=30853328</id>
+        <link href="https://news.ycombinator.com/item?id=30853328"/>
+        <updated>2022-03-30T10:16:40.000Z</updated>
+        <summary type="html"><![CDATA[How to Choose? (2014)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[他們的工作場所禪的秘密？固定電話和以太網線]]></title>
         <id>https://news.ycombinator.com/item?id=30858295</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>js4ever</name>
             <uri>https://news.ycombinator.com/user?id=js4ever</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勒-柯布西耶在設計昌迪加爾時的錯誤（和正確）之處]]></title>
-        <id>https://news.ycombinator.com/item?id=30798429</id>
-        <link href="https://news.ycombinator.com/item?id=30798429"/>
-        <updated>2022-03-25T03:42:22.000Z</updated>
-        <summary type="html"><![CDATA[What Le Corbusier got wrong (and right) in his design of Chandigarh]]></summary>
-        <author>
-            <name>efface</name>
-            <uri>https://news.ycombinator.com/user?id=efface</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果M1上的Java開發--一年回顧]]></title>
-        <id>https://news.ycombinator.com/item?id=30799686</id>
-        <link href="https://news.ycombinator.com/item?id=30799686"/>
-        <updated>2022-03-25T08:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Java Development on an Apple M1 – A One Year Review]]></summary>
-        <author>
-            <name>rieckpil</name>
-            <uri>https://news.ycombinator.com/user?id=rieckpil</uri>
         </author>
     </entry>
 </feed>
