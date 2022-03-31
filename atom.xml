@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T04:58:37.478Z</updated>
+    <updated>2022-03-31T05:12:15.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Redis栈]]></title>
+        <id>https://news.ycombinator.com/item?id=30863327</id>
+        <link href="https://news.ycombinator.com/item?id=30863327"/>
+        <updated>2022-03-31T02:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Redis Stack]]></summary>
+        <author>
+            <name>hadrianpaulo</name>
+            <uri>https://news.ycombinator.com/user?id=hadrianpaulo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学诗歌 (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=30852321</id>
+        <link href="https://news.ycombinator.com/item?id=30852321"/>
+        <updated>2022-03-30T07:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Math Poetry (2015)]]></summary>
+        <author>
+            <name>johnqian</name>
+            <uri>https://news.ycombinator.com/user?id=johnqian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有走过的路]]></title>
         <id>https://news.ycombinator.com/item?id=30862400</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>candiddevmike</name>
             <uri>https://news.ycombinator.com/user?id=candiddevmike</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所以，你想成为一个暗网大毒枭]]></title>
-        <id>https://news.ycombinator.com/item?id=30788530</id>
-        <link href="https://news.ycombinator.com/item?id=30788530"/>
-        <updated>2022-03-24T11:45:14.000Z</updated>
-        <summary type="html"><![CDATA[So, you want to be a darknet drug lord]]></summary>
-        <author>
-            <name>davikr</name>
-            <uri>https://news.ycombinator.com/user?id=davikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在多个平台上建立数字存在的快速方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30788241</id>
-        <link href="https://news.ycombinator.com/item?id=30788241"/>
-        <updated>2022-03-24T11:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fast way to build digital presence across multiple platforms]]></summary>
-        <author>
-            <name>anuragk11</name>
-            <uri>https://news.ycombinator.com/user?id=anuragk11</uri>
         </author>
     </entry>
 </feed>
