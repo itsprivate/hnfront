@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T20:14:46.550Z</updated>
+    <updated>2022-03-31T20:36:04.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nginx常見的有用配置]]></title>
+        <id>https://news.ycombinator.com/item?id=30871242</id>
+        <link href="https://news.ycombinator.com/item?id=30871242"/>
+        <updated>2022-03-31T19:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nginx Common Useful Configuration]]></summary>
+        <author>
+            <name>frizzy</name>
+            <uri>https://news.ycombinator.com/user?id=frizzy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一些人工智能系統可能是不可能計算的]]></title>
         <id>https://news.ycombinator.com/item?id=30871557</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JNRowe</name>
             <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於節點-IPC和信任的重要性]]></title>
-        <id>https://news.ycombinator.com/item?id=30793037</id>
-        <link href="https://news.ycombinator.com/item?id=30793037"/>
-        <updated>2022-03-24T17:37:36.000Z</updated>
-        <summary type="html"><![CDATA[On node-ipc and the importance of trusting trust]]></summary>
-        <author>
-            <name>magnio</name>
-            <uri>https://news.ycombinator.com/user?id=magnio</uri>
         </author>
     </entry>
 </feed>
