@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T06:15:09.093Z</updated>
+    <updated>2022-03-31T06:39:04.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火狐瀏覽器的閱讀器視圖是如何工作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30864311</id>
+        <link href="https://news.ycombinator.com/item?id=30864311"/>
+        <updated>2022-03-31T06:07:43.000Z</updated>
+        <summary type="html"><![CDATA[How does Firefox's Reader View work?]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鐵軌指導》（2016）[視頻］]]></title>
         <id>https://news.ycombinator.com/item?id=30857055</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kkielhofner</name>
             <uri>https://news.ycombinator.com/user?id=kkielhofner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java是否需要一個用於桌面/網絡的現代Java UI工具包？]]></title>
-        <id>https://news.ycombinator.com/item?id=30789337</id>
-        <link href="https://news.ycombinator.com/item?id=30789337"/>
-        <updated>2022-03-24T13:19:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does Java need a modern Java UI toolkit for desktop/web?]]></summary>
-        <author>
-            <name>jeffreportmill1</name>
-            <uri>https://news.ycombinator.com/user?id=jeffreportmill1</uri>
         </author>
     </entry>
 </feed>
