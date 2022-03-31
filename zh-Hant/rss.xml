@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 31 Mar 2022 08:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 09:34:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[電壓效應》評論。我們有一個贏家嗎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30850275</link>
+            <guid>https://news.ycombinator.com/item?id=30850275</guid>
+            <pubDate>Wed, 30 Mar 2022 00:48:14 GMT</pubDate>
+            <description><![CDATA[‘The Voltage Effect’ Review: Do We Have a Winner?]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年世界盃足球賽: Al Rihla]]></title>
             <link>https://news.ycombinator.com/item?id=30855249</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30775365</guid>
             <pubDate>Wed, 23 Mar 2022 05:44:00 GMT</pubDate>
             <description><![CDATA[Button Finite Automata]]></description>
-        </item>
-        <item>
-            <title><![CDATA[繼AKHQ（KafkaHQ）之後，我製作了Kestra開源的Airflow替代品]]></title>
-            <link>https://news.ycombinator.com/item?id=30790047</link>
-            <guid>https://news.ycombinator.com/item?id=30790047</guid>
-            <pubDate>Thu, 24 Mar 2022 14:14:33 GMT</pubDate>
-            <description><![CDATA[Show HN: After AKHQ (KafkaHQ), I Made Kestra Open-Source Airflow Alternative]]></description>
         </item>
     </channel>
 </rss>
