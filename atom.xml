@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T21:32:14.055Z</updated>
+    <updated>2022-03-31T21:52:26.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么不发信号？]]></title>
+        <id>https://news.ycombinator.com/item?id=30872361</id>
+        <link href="https://news.ycombinator.com/item?id=30872361"/>
+        <updated>2022-03-31T21:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Why Not Signal?]]></summary>
+        <author>
+            <name>awll</name>
+            <uri>https://news.ycombinator.com/user?id=awll</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Mod的鲜为人知的功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30872168</id>
+        <link href="https://news.ycombinator.com/item?id=30872168"/>
+        <updated>2022-03-31T21:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Go Mod’s Lesser Known Features]]></summary>
+        <author>
+            <name>philosopher1234</name>
+            <uri>https://news.ycombinator.com/user?id=philosopher1234</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速]]></title>
         <id>https://news.ycombinator.com/item?id=30872279</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟谈判代表同意制定新规则以控制科技巨头]]></title>
-        <id>https://news.ycombinator.com/item?id=30799567</id>
-        <link href="https://news.ycombinator.com/item?id=30799567"/>
-        <updated>2022-03-25T07:39:06.000Z</updated>
-        <summary type="html"><![CDATA[EU negotiators agree new rules to rein in tech giants]]></summary>
-        <author>
-            <name>raimue</name>
-            <uri>https://news.ycombinator.com/user?id=raimue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文艺复兴时期的第一位女超级明星]]></title>
-        <id>https://news.ycombinator.com/item?id=30799542</id>
-        <link href="https://news.ycombinator.com/item?id=30799542"/>
-        <updated>2022-03-25T07:32:58.000Z</updated>
-        <summary type="html"><![CDATA[First Female Superstar of the Renaissance]]></summary>
-        <author>
-            <name>dr_dshiv</name>
-            <uri>https://news.ycombinator.com/user?id=dr_dshiv</uri>
         </author>
     </entry>
 </feed>
