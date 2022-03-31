@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-03-31T13:26:40.553Z</updated>
+    <updated>2022-03-31T14:15:09.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個愚蠢的遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30867002</id>
+        <link href="https://news.ycombinator.com/item?id=30867002"/>
+        <updated>2022-03-31T13:36:05.000Z</updated>
+        <summary type="html"><![CDATA[I Made a Stupid Game]]></summary>
+        <author>
+            <name>last_one_in</name>
+            <uri>https://news.ycombinator.com/user?id=last_one_in</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大的汽車半導體問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30858166</id>
+        <link href="https://news.ycombinator.com/item?id=30858166"/>
+        <updated>2022-03-30T17:23:53.000Z</updated>
+        <summary type="html"><![CDATA[The Big Automotive Semiconductor Problem]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubiquiti INC.對KREBS - Ubiquiti起訴Krebs掩蓋他們的漏洞]]></title>
         <id>https://news.ycombinator.com/item?id=30866597</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bitcharmer</name>
             <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏鴉知道自己知道什麼，可以思考自己的思想內容]]></title>
-        <id>https://news.ycombinator.com/item?id=30792057</id>
-        <link href="https://news.ycombinator.com/item?id=30792057"/>
-        <updated>2022-03-24T16:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Crows know what they know and can ponder the content of their own minds]]></summary>
-        <author>
-            <name>SubiculumCode</name>
-            <uri>https://news.ycombinator.com/user?id=SubiculumCode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視頻。為什麼開放數據對自行車運動很重要？視覺化的騎行城市]]></title>
-        <id>https://news.ycombinator.com/item?id=30791874</id>
-        <link href="https://news.ycombinator.com/item?id=30791874"/>
-        <updated>2022-03-24T16:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Video: Why Open Data Matters for Cycling: Visualizing a Cycling City]]></summary>
-        <author>
-            <name>raybb</name>
-            <uri>https://news.ycombinator.com/user?id=raybb</uri>
         </author>
     </entry>
 </feed>
