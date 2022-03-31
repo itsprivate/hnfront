@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 31 Mar 2022 18:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 18:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我是如何在Heroku擔任員工工程師的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30870148</link>
+            <guid>https://news.ycombinator.com/item?id=30870148</guid>
+            <pubDate>Thu, 31 Mar 2022 17:47:00 GMT</pubDate>
+            <description><![CDATA[How I operated as a Staff engineer at Heroku]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通過學習量化函數提高預測能力]]></title>
+            <link>https://news.ycombinator.com/item?id=30869073</link>
+            <guid>https://news.ycombinator.com/item?id=30869073</guid>
+            <pubDate>Thu, 31 Mar 2022 16:26:59 GMT</pubDate>
+            <description><![CDATA[Improving forecasting by learning quantile functions]]></description>
+        </item>
         <item>
             <title><![CDATA[Reticulum，一個加密的異質網狀網絡協議]]></title>
             <link>https://news.ycombinator.com/item?id=30870187</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30784090</guid>
             <pubDate>Wed, 23 Mar 2022 22:05:03 GMT</pubDate>
             <description><![CDATA[Prehistoric collectors recycled stone tools to preserve the memory of ancestors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[私有網絡中IPFS的性能評估]]></title>
-            <link>https://news.ycombinator.com/item?id=30797568</link>
-            <guid>https://news.ycombinator.com/item?id=30797568</guid>
-            <pubDate>Fri, 25 Mar 2022 00:59:55 GMT</pubDate>
-            <description><![CDATA[Performance Evaluation of IPFS in Private Networks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[構建一個無代碼的毒性分類器 - 通過與GitHub Copilot對話]]></title>
-            <link>https://news.ycombinator.com/item?id=30797381</link>
-            <guid>https://news.ycombinator.com/item?id=30797381</guid>
-            <pubDate>Fri, 25 Mar 2022 00:30:16 GMT</pubDate>
-            <description><![CDATA[Building a No-Code Toxicity Classifier – By Talking to GitHub Copilot]]></description>
         </item>
     </channel>
 </rss>
