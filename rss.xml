@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 31 Mar 2022 20:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 20:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[奇点临近]]></title>
+            <link>https://news.ycombinator.com/item?id=30871775</link>
+            <guid>https://news.ycombinator.com/item?id=30871775</guid>
+            <pubDate>Thu, 31 Mar 2022 20:19:20 GMT</pubDate>
+            <description><![CDATA[The Singularity Is Close]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Grafana可以运行Doom吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30871697</link>
+            <guid>https://news.ycombinator.com/item?id=30871697</guid>
+            <pubDate>Thu, 31 Mar 2022 20:10:25 GMT</pubDate>
+            <description><![CDATA[Can Grafana Run Doom?]]></description>
+        </item>
+        <item>
+            <title><![CDATA["这不应该发生"。猎杀病毒的非营利组织生态健康联盟的内部情况]]></title>
+            <link>https://news.ycombinator.com/item?id=30870435</link>
+            <guid>https://news.ycombinator.com/item?id=30870435</guid>
+            <pubDate>Thu, 31 Mar 2022 18:12:19 GMT</pubDate>
+            <description><![CDATA[“This shouldn’t happen”: Inside the virus-hunting nonprofit EcoHealth Alliance]]></description>
+        </item>
         <item>
             <title><![CDATA[Nginx常见的有用配置]]></title>
             <link>https://news.ycombinator.com/item?id=30871242</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30798569</guid>
             <pubDate>Fri, 25 Mar 2022 04:08:56 GMT</pubDate>
             <description><![CDATA[Shrinkwrap: Taming Dynamic Shared Objects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[论无限的伦理学]]></title>
-            <link>https://news.ycombinator.com/item?id=30798431</link>
-            <guid>https://news.ycombinator.com/item?id=30798431</guid>
-            <pubDate>Fri, 25 Mar 2022 03:43:23 GMT</pubDate>
-            <description><![CDATA[On infinite ethics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Postico: 适用于Mac的现代PostgreSQL客户端]]></title>
-            <link>https://news.ycombinator.com/item?id=30798274</link>
-            <guid>https://news.ycombinator.com/item?id=30798274</guid>
-            <pubDate>Fri, 25 Mar 2022 03:16:33 GMT</pubDate>
-            <description><![CDATA[Postico: A Modern PostgreSQL Client for the Mac]]></description>
-        </item>
-        <item>
-            <title><![CDATA[与时间赛跑--冲击微小的内核竞赛窗口]]></title>
-            <link>https://news.ycombinator.com/item?id=30798302</link>
-            <guid>https://news.ycombinator.com/item?id=30798302</guid>
-            <pubDate>Fri, 25 Mar 2022 03:22:49 GMT</pubDate>
-            <description><![CDATA[Racing against the clock – hitting a tiny kernel race window]]></description>
         </item>
     </channel>
 </rss>
