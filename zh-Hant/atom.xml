@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T02:47:42.009Z</updated>
+    <updated>2022-04-01T03:40:30.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IBM並行Sysplex]]></title>
+        <id>https://news.ycombinator.com/item?id=30858232</id>
+        <link href="https://news.ycombinator.com/item?id=30858232"/>
+        <updated>2022-03-30T17:29:14.000Z</updated>
+        <summary type="html"><![CDATA[IBM Parallel Sysplex]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Deno Deploy上的Supabase功能]]></title>
         <id>https://news.ycombinator.com/item?id=30874530</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gphilip</name>
             <uri>https://news.ycombinator.com/user?id=gphilip</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rescale (YC W12)正在招聘HPC工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30801058</id>
-        <link href="https://news.ycombinator.com/item?id=30801058"/>
-        <updated>2022-03-25T12:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Rescale (YC W12) Is Hiring HPC Engineers]]></summary>
-        <author>
-            <name>amckenzie</name>
-            <uri>https://news.ycombinator.com/user?id=amckenzie</uri>
         </author>
     </entry>
 </feed>
