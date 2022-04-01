@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 07:31:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[解除对Airbnb的束缚]]></title>
+            <link>https://news.ycombinator.com/item?id=30855187</link>
+            <guid>https://news.ycombinator.com/item?id=30855187</guid>
+            <pubDate>Wed, 30 Mar 2022 13:49:10 GMT</pubDate>
+            <description><![CDATA[Unbundling Airbnb]]></description>
+        </item>
         <item>
             <title><![CDATA[OneSignal (YC S11)正在招聘工程师和产品经理，从事信息服务工作]]></title>
             <link>https://news.ycombinator.com/item?id=30875856</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30802430</guid>
             <pubDate>Fri, 25 Mar 2022 14:16:48 GMT</pubDate>
             <description><![CDATA[Easy to Use Cloudflare Tunnels]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独立开发者避免多线程以保持编程的简单和有趣吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30802247</link>
-            <guid>https://news.ycombinator.com/item?id=30802247</guid>
-            <pubDate>Fri, 25 Mar 2022 13:59:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do indie devs avoid multithreading to keep programming easy and fun?]]></description>
         </item>
     </channel>
 </rss>
