@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T09:13:59.955Z</updated>
+    <updated>2022-04-01T09:32:36.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[慢性下背痛與疼痛相關腦區的萎縮有關]]></title>
+        <id>https://news.ycombinator.com/item?id=30853511</id>
+        <link href="https://news.ycombinator.com/item?id=30853511"/>
+        <updated>2022-03-30T10:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Chronic lower back pain linked to atrophy in pain-related brain regions]]></summary>
+        <author>
+            <name>rajnathani</name>
+            <uri>https://news.ycombinator.com/user?id=rajnathani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不應使用PCA進行特徵選擇的5個原因]]></title>
         <id>https://news.ycombinator.com/item?id=30876293</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>camtarn</name>
             <uri>https://news.ycombinator.com/user?id=camtarn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[認識論的可讀性：容易爭論是一種美德]]></title>
-        <id>https://news.ycombinator.com/item?id=30802349</id>
-        <link href="https://news.ycombinator.com/item?id=30802349"/>
-        <updated>2022-03-25T14:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Epistemic legibility: being easy to argue with is a virtue]]></summary>
-        <author>
-            <name>shrikant</name>
-            <uri>https://news.ycombinator.com/user?id=shrikant</uri>
         </author>
     </entry>
 </feed>
