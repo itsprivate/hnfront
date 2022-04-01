@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T19:37:32.355Z</updated>
+    <updated>2022-04-01T20:34:55.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[金属上的OpenCL--如果clvk能用怎么办？]]></title>
+        <id>https://news.ycombinator.com/item?id=30882629</id>
+        <link href="https://news.ycombinator.com/item?id=30882629"/>
+        <updated>2022-04-01T19:58:29.000Z</updated>
+        <summary type="html"><![CDATA[OpenCL on Metal – what if clvk works?]]></summary>
+        <author>
+            <name>my123</name>
+            <uri>https://news.ycombinator.com/user?id=my123</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告别，小学]]></title>
+        <id>https://news.ycombinator.com/item?id=30882622</id>
+        <link href="https://news.ycombinator.com/item?id=30882622"/>
+        <updated>2022-04-01T19:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Farewell, Elementary]]></summary>
+        <author>
+            <name>rglullis</name>
+            <uri>https://news.ycombinator.com/user?id=rglullis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明智地选择你的状态游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30853985</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>perlpimp</name>
             <uri>https://news.ycombinator.com/user?id=perlpimp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早期阶段创业公司执行的案例研究]]></title>
-        <id>https://news.ycombinator.com/item?id=30799146</id>
-        <link href="https://news.ycombinator.com/item?id=30799146"/>
-        <updated>2022-03-25T06:11:25.000Z</updated>
-        <summary type="html"><![CDATA[A case study in early-stage startup execution]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记录你的错误，然后尝试在未来阻止它们]]></title>
-        <id>https://news.ycombinator.com/item?id=30791425</id>
-        <link href="https://news.ycombinator.com/item?id=30791425"/>
-        <updated>2022-03-24T15:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Document your mistakes and then try to block them in the future]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
