@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T10:14:39.945Z</updated>
+    <updated>2022-04-01T10:38:25.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究人员发现超高速电子雨的来源]]></title>
+        <id>https://news.ycombinator.com/item?id=30858832</id>
+        <link href="https://news.ycombinator.com/item?id=30858832"/>
+        <updated>2022-03-30T18:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Researchers discover source of super-fast electron rain]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国推特用户被判处150小时的社区服务]]></title>
         <id>https://news.ycombinator.com/item?id=30876490</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软与数亿美元的外国贿赂有关联]]></title>
-        <id>https://news.ycombinator.com/item?id=30803000</id>
-        <link href="https://news.ycombinator.com/item?id=30803000"/>
-        <updated>2022-03-25T15:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is tied to hundreds of millions of dollars in foreign bribes]]></summary>
-        <author>
-            <name>jrepinc</name>
-            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
         </author>
     </entry>
 </feed>
