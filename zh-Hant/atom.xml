@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T19:27:19.125Z</updated>
+    <updated>2022-04-01T19:37:32.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[明智地選擇你的狀態遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30853985</id>
+        <link href="https://news.ycombinator.com/item?id=30853985"/>
+        <updated>2022-03-30T12:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Choose Your Status Game Wisely]]></summary>
+        <author>
+            <name>throw0101a</name>
+            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丹尼爾.格羅斯 為什麼能量是人才的最佳預測指標]]></title>
         <id>https://news.ycombinator.com/item?id=30881960</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foo Fighters鼓手泰勒-霍金斯去世，享年50歲]]></title>
-        <id>https://news.ycombinator.com/item?id=30809314</id>
-        <link href="https://news.ycombinator.com/item?id=30809314"/>
-        <updated>2022-03-26T04:50:41.000Z</updated>
-        <summary type="html"><![CDATA[Taylor Hawkins, Foo Fighters drummer, dies at 50]]></summary>
-        <author>
-            <name>MontagFTB</name>
-            <uri>https://news.ycombinator.com/user?id=MontagFTB</uri>
         </author>
     </entry>
 </feed>
