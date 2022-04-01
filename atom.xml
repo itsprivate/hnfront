@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T06:39:59.829Z</updated>
+    <updated>2022-04-01T06:58:09.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高中生创造1美元的过滤器来去除水中的铅]]></title>
+        <id>https://news.ycombinator.com/item?id=30875186</id>
+        <link href="https://news.ycombinator.com/item?id=30875186"/>
+        <updated>2022-04-01T04:27:18.000Z</updated>
+        <summary type="html"><![CDATA[High schoolers create $1 filter to remove lead in water]]></summary>
+        <author>
+            <name>rmason</name>
+            <uri>https://news.ycombinator.com/user?id=rmason</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的回收中心教学大纲]]></title>
         <id>https://news.ycombinator.com/item?id=30849257</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TaKO8Ki</name>
             <uri>https://news.ycombinator.com/user?id=TaKO8Ki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟和美国 "原则上 "同意在大西洋两岸分享数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30802088</id>
-        <link href="https://news.ycombinator.com/item?id=30802088"/>
-        <updated>2022-03-25T13:45:27.000Z</updated>
-        <summary type="html"><![CDATA[EU and US agree ‘in principle’ on sharing data across The Atlantic]]></summary>
-        <author>
-            <name>donpott</name>
-            <uri>https://news.ycombinator.com/user?id=donpott</uri>
         </author>
     </entry>
 </feed>
