@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T16:53:45.626Z</updated>
+    <updated>2022-04-01T17:18:50.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日报（YC W16）正在招聘一名技术产品营销经理]]></title>
+        <id>https://news.ycombinator.com/item?id=30880487</id>
+        <link href="https://news.ycombinator.com/item?id=30880487"/>
+        <updated>2022-04-01T17:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Daily (YC W16) Is Hiring a Technical Product Marketing Manager]]></summary>
+        <author>
+            <name>kwindla</name>
+            <uri>https://news.ycombinator.com/user?id=kwindla</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊工人投票决定成立工会，为有组织的劳工带来惊人的胜利]]></title>
+        <id>https://news.ycombinator.com/item?id=30880203</id>
+        <link href="https://news.ycombinator.com/item?id=30880203"/>
+        <updated>2022-04-01T16:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Workers Vote to Unionize in Stunning Win for Organized Labor]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[克拉伦斯-托马斯大法官在我的程序中揭开了一个七年前的漏洞（2013年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30879585</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>opisthenar84</name>
             <uri>https://news.ycombinator.com/user?id=opisthenar84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[龙岩港被接纳为海合会成员]]></title>
-        <id>https://news.ycombinator.com/item?id=30802316</id>
-        <link href="https://news.ycombinator.com/item?id=30802316"/>
-        <updated>2022-03-25T14:06:22.000Z</updated>
-        <summary type="html"><![CDATA[LoongArch Port Accepted into GCC]]></summary>
-        <author>
-            <name>edelsohn</name>
-            <uri>https://news.ycombinator.com/user?id=edelsohn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Librdkafka - 一个Apache Kafka C/C++客户端库]]></title>
-        <id>https://news.ycombinator.com/item?id=30787254</id>
-        <link href="https://news.ycombinator.com/item?id=30787254"/>
-        <updated>2022-03-24T07:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Librdkafka – An Apache Kafka C/C++ client library]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
