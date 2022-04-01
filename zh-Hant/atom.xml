@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T15:14:59.759Z</updated>
+    <updated>2022-04-01T15:40:13.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Redo - 用於快速創建shell函數的命令行工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30878935</id>
+        <link href="https://news.ycombinator.com/item?id=30878935"/>
+        <updated>2022-04-01T15:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Redo – Command line utility for quickly creating shell functions]]></summary>
+        <author>
+            <name>silentprog</name>
+            <uri>https://news.ycombinator.com/user?id=silentprog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微服務世界中的授權]]></title>
+        <id>https://news.ycombinator.com/item?id=30878926</id>
+        <link href="https://news.ycombinator.com/item?id=30878926"/>
+        <updated>2022-04-01T15:11:45.000Z</updated>
+        <summary type="html"><![CDATA[Authorization in a Microservices World]]></summary>
+        <author>
+            <name>zaplin</name>
+            <uri>https://news.ycombinator.com/user?id=zaplin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰在招聘？(2022年4月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30878761</id>
+        <link href="https://news.ycombinator.com/item?id=30878761"/>
+        <updated>2022-04-01T15:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is hiring? (April 2022)]]></summary>
+        <author>
+            <name>whoishiring</name>
+            <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由職業者？尋找自由職業者？(2022年4月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30878760</id>
+        <link href="https://news.ycombinator.com/item?id=30878760"/>
+        <updated>2022-04-01T15:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Freelancer? Seeking freelancer? (April 2022)]]></summary>
+        <author>
+            <name>whoishiring</name>
+            <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我沒有退回我的蘋果工作室顯示器]]></title>
+        <id>https://news.ycombinator.com/item?id=30878736</id>
+        <link href="https://news.ycombinator.com/item?id=30878736"/>
+        <updated>2022-04-01T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[I didn't return my Apple Studio Display]]></summary>
+        <author>
+            <name>carlesfe</name>
+            <uri>https://news.ycombinator.com/user?id=carlesfe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH-MitM 2.0.0 - 許可證變更為GPLv3]]></title>
+        <id>https://news.ycombinator.com/item?id=30878630</id>
+        <link href="https://news.ycombinator.com/item?id=30878630"/>
+        <updated>2022-04-01T14:53:34.000Z</updated>
+        <summary type="html"><![CDATA[SSH-MitM 2.0.0 – Licence change to GPLv3]]></summary>
+        <author>
+            <name>paulsen76</name>
+            <uri>https://news.ycombinator.com/user?id=paulsen76</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[函數式編程中的兩個令人困惑的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30878534</id>
+        <link href="https://news.ycombinator.com/item?id=30878534"/>
+        <updated>2022-04-01T14:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Two Vexing Problems in Functional Programming]]></summary>
+        <author>
+            <name>tomilola39</name>
+            <uri>https://news.ycombinator.com/user?id=tomilola39</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[破解人類的神經密碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30859975</id>
+        <link href="https://news.ycombinator.com/item?id=30859975"/>
+        <updated>2022-03-30T19:49:23.000Z</updated>
+        <summary type="html"><![CDATA[Cracking the Neural Code in Humans]]></summary>
+        <author>
+            <name>breck</name>
+            <uri>https://news.ycombinator.com/user?id=breck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在偷竊我的914之前需要知道的幾件事]]></title>
         <id>https://news.ycombinator.com/item?id=30878489</id>
@@ -6525,94 +6613,6 @@
         <author>
             <name>bcaulfield</name>
             <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N2：替代性忍者的實施]]></title>
-        <id>https://news.ycombinator.com/item?id=30806875</id>
-        <link href="https://news.ycombinator.com/item?id=30806875"/>
-        <updated>2022-03-25T20:46:26.000Z</updated>
-        <summary type="html"><![CDATA[N2: Alternative Ninja Implementation]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kani Rust驗證器--Rust的比特精確模型檢查器]]></title>
-        <id>https://news.ycombinator.com/item?id=30786511</id>
-        <link href="https://news.ycombinator.com/item?id=30786511"/>
-        <updated>2022-03-24T05:02:20.000Z</updated>
-        <summary type="html"><![CDATA[Kani Rust Verifier – a bit-precise model-checker for Rust]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配額計劃可能毀掉奧斯卡獎]]></title>
-        <id>https://news.ycombinator.com/item?id=30806656</id>
-        <link href="https://news.ycombinator.com/item?id=30806656"/>
-        <updated>2022-03-25T20:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Quota Plan May Destroy Oscars]]></summary>
-        <author>
-            <name>kvee</name>
-            <uri>https://news.ycombinator.com/user?id=kvee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有一個針對二進制格式的Swagger/OpenAPI？]]></title>
-        <id>https://news.ycombinator.com/item?id=30806032</id>
-        <link href="https://news.ycombinator.com/item?id=30806032"/>
-        <updated>2022-03-25T19:13:55.000Z</updated>
-        <summary type="html"><![CDATA[Why isn't there a Swagger/OpenAPI for binary formats?]]></summary>
-        <author>
-            <name>woodrowbarlow</name>
-            <uri>https://news.ycombinator.com/user?id=woodrowbarlow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從輕量級到羽量級。MicroK8s內存優化(2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30802321</id>
-        <link href="https://news.ycombinator.com/item?id=30802321"/>
-        <updated>2022-03-25T14:06:36.000Z</updated>
-        <summary type="html"><![CDATA[From lightweight to featherweight: MicroK8s memory optimisation (2021)]]></summary>
-        <author>
-            <name>sbmthakur</name>
-            <uri>https://news.ycombinator.com/user?id=sbmthakur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API-0.core.keybaseapi.com的證書已經過期。]]></title>
-        <id>https://news.ycombinator.com/item?id=30806102</id>
-        <link href="https://news.ycombinator.com/item?id=30806102"/>
-        <updated>2022-03-25T19:20:46.000Z</updated>
-        <summary type="html"><![CDATA[API-0.core.keybaseapi.com has expired certificate]]></summary>
-        <author>
-            <name>StreamBright</name>
-            <uri>https://news.ycombinator.com/user?id=StreamBright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約翰-羅梅羅："在1991年的最後六個月裡，我們開始並運送了五場比賽"]]></title>
-        <id>https://news.ycombinator.com/item?id=30788475</id>
-        <link href="https://news.ycombinator.com/item?id=30788475"/>
-        <updated>2022-03-24T11:37:31.000Z</updated>
-        <summary type="html"><![CDATA[John Romero: “In the last six months of 1991, we started and shipped five games”]]></summary>
-        <author>
-            <name>WithinReason</name>
-            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當紐約市成為竊聽者的夢想時]]></title>
-        <id>https://news.ycombinator.com/item?id=30805400</id>
-        <link href="https://news.ycombinator.com/item?id=30805400"/>
-        <updated>2022-03-25T18:13:11.000Z</updated>
-        <summary type="html"><![CDATA[When New York City Was a Wiretapper’s Dream]]></summary>
-        <author>
-            <name>bangonkeyboard</name>
-            <uri>https://news.ycombinator.com/user?id=bangonkeyboard</uri>
         </author>
     </entry>
 </feed>
