@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T06:15:14.928Z</updated>
+    <updated>2022-04-01T06:39:59.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的回收中心教學大綱]]></title>
+        <id>https://news.ycombinator.com/item?id=30849257</id>
+        <link href="https://news.ycombinator.com/item?id=30849257"/>
+        <updated>2022-03-29T22:39:30.000Z</updated>
+        <summary type="html"><![CDATA[My Recurse Center Syllabus]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從太空看，最長的傳送帶在摩洛哥]]></title>
         <id>https://news.ycombinator.com/item?id=30875304</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>donpott</name>
             <uri>https://news.ycombinator.com/user?id=donpott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國際象棋大師被Twitch暫停，原因是流媒體Dr Disrespect在下棋]]></title>
-        <id>https://news.ycombinator.com/item?id=30801959</id>
-        <link href="https://news.ycombinator.com/item?id=30801959"/>
-        <updated>2022-03-25T13:34:39.000Z</updated>
-        <summary type="html"><![CDATA[Chess Grandmaster suspended by Twitch for streaming Dr Disrespect playing chess]]></summary>
-        <author>
-            <name>nitinreddy88</name>
-            <uri>https://news.ycombinator.com/user?id=nitinreddy88</uri>
         </author>
     </entry>
 </feed>
