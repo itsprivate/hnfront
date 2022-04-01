@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 01 Apr 2022 15:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 15:57:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个纯文本文件格式的工作日程和检查清单]]></title>
+            <link>https://news.ycombinator.com/item?id=30879327</link>
+            <guid>https://news.ycombinator.com/item?id=30879327</guid>
+            <pubDate>Fri, 01 Apr 2022 15:39:56 GMT</pubDate>
+            <description><![CDATA[Show HN: A plain-text file format for todos and check lists]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谁想被录用？(2022年4月)]]></title>
+            <link>https://news.ycombinator.com/item?id=30878759</link>
+            <guid>https://news.ycombinator.com/item?id=30878759</guid>
+            <pubDate>Fri, 01 Apr 2022 15:02:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who wants to be hired? (April 2022)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个Linux安全补丁短暂地破坏了DMA]]></title>
+            <link>https://news.ycombinator.com/item?id=30878549</link>
+            <guid>https://news.ycombinator.com/item?id=30878549</guid>
+            <pubDate>Fri, 01 Apr 2022 14:45:48 GMT</pubDate>
+            <description><![CDATA[A Linux security fix briefly breaks DMA]]></description>
+        </item>
         <item>
             <title><![CDATA[Redo - 用于快速创建shell函数的命令行工具]]></title>
             <link>https://news.ycombinator.com/item?id=30878935</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30807022</guid>
             <pubDate>Fri, 25 Mar 2022 21:02:38 GMT</pubDate>
             <description><![CDATA[Mounting evidence for a 95 GeV Higgs boson]]></description>
-        </item>
-        <item>
-            <title><![CDATA[直接对存储在SQLite文件中的数据运行DuckDB查询]]></title>
-            <link>https://news.ycombinator.com/item?id=30801575</link>
-            <guid>https://news.ycombinator.com/item?id=30801575</guid>
-            <pubDate>Fri, 25 Mar 2022 12:57:24 GMT</pubDate>
-            <description><![CDATA[Directly running DuckDB queries on data stored in SQLite files]]></description>
-        </item>
-        <item>
-            <title><![CDATA[数学理解的多样性]]></title>
-            <link>https://news.ycombinator.com/item?id=30807136</link>
-            <guid>https://news.ycombinator.com/item?id=30807136</guid>
-            <pubDate>Fri, 25 Mar 2022 21:17:09 GMT</pubDate>
-            <description><![CDATA[Varieties of Mathematical Understanding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia的研究在眨眼间将2D照片变成3D场景的AI]]></title>
-            <link>https://news.ycombinator.com/item?id=30806925</link>
-            <guid>https://news.ycombinator.com/item?id=30806925</guid>
-            <pubDate>Fri, 25 Mar 2022 20:51:04 GMT</pubDate>
-            <description><![CDATA[Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI]]></description>
         </item>
     </channel>
 </rss>

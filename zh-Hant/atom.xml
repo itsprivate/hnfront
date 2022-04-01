@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T15:40:13.134Z</updated>
+    <updated>2022-04-01T15:57:53.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個純文本文件格式的工作日程和檢查清單]]></title>
+        <id>https://news.ycombinator.com/item?id=30879327</id>
+        <link href="https://news.ycombinator.com/item?id=30879327"/>
+        <updated>2022-04-01T15:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A plain-text file format for todos and check lists]]></summary>
+        <author>
+            <name>jotaen</name>
+            <uri>https://news.ycombinator.com/user?id=jotaen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰想被錄用？(2022年4月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30878759</id>
+        <link href="https://news.ycombinator.com/item?id=30878759"/>
+        <updated>2022-04-01T15:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who wants to be hired? (April 2022)]]></summary>
+        <author>
+            <name>whoishiring</name>
+            <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個Linux安全補丁短暫地破壞了DMA]]></title>
+        <id>https://news.ycombinator.com/item?id=30878549</id>
+        <link href="https://news.ycombinator.com/item?id=30878549"/>
+        <updated>2022-04-01T14:45:48.000Z</updated>
+        <summary type="html"><![CDATA[A Linux security fix briefly breaks DMA]]></summary>
+        <author>
+            <name>chmaynard</name>
+            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redo - 用於快速創建shell函數的命令行工具]]></title>
         <id>https://news.ycombinator.com/item?id=30878935</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>kloch</name>
             <uri>https://news.ycombinator.com/user?id=kloch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直接對存儲在SQLite文件中的數據運行DuckDB查詢]]></title>
-        <id>https://news.ycombinator.com/item?id=30801575</id>
-        <link href="https://news.ycombinator.com/item?id=30801575"/>
-        <updated>2022-03-25T12:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Directly running DuckDB queries on data stored in SQLite files]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數學理解的多樣性]]></title>
-        <id>https://news.ycombinator.com/item?id=30807136</id>
-        <link href="https://news.ycombinator.com/item?id=30807136"/>
-        <updated>2022-03-25T21:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Varieties of Mathematical Understanding]]></summary>
-        <author>
-            <name>jhshah</name>
-            <uri>https://news.ycombinator.com/user?id=jhshah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia的研究在眨眼間將2D照片變成3D場景的AI]]></title>
-        <id>https://news.ycombinator.com/item?id=30806925</id>
-        <link href="https://news.ycombinator.com/item?id=30806925"/>
-        <updated>2022-03-25T20:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI]]></summary>
-        <author>
-            <name>bcaulfield</name>
-            <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
         </author>
     </entry>
 </feed>
