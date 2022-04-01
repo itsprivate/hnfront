@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T17:18:50.078Z</updated>
+    <updated>2022-04-01T17:40:17.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对Posits的崇拜]]></title>
+        <id>https://news.ycombinator.com/item?id=30856623</id>
+        <link href="https://news.ycombinator.com/item?id=30856623"/>
+        <updated>2022-03-30T15:35:48.000Z</updated>
+        <summary type="html"><![CDATA[The Cult of Posits]]></summary>
+        <author>
+            <name>FullyFunctional</name>
+            <uri>https://news.ycombinator.com/user?id=FullyFunctional</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日报（YC W16）正在招聘一名技术产品营销经理]]></title>
         <id>https://news.ycombinator.com/item?id=30880487</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>diodorus</name>
             <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[101高速公路上的桥梁将破土动工]]></title>
-        <id>https://news.ycombinator.com/item?id=30808901</id>
-        <link href="https://news.ycombinator.com/item?id=30808901"/>
-        <updated>2022-03-26T03:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Groundbreaking set for bridge over 101 Freeway]]></summary>
-        <author>
-            <name>opisthenar84</name>
-            <uri>https://news.ycombinator.com/user?id=opisthenar84</uri>
         </author>
     </entry>
 </feed>
