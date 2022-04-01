@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T20:34:55.900Z</updated>
+    <updated>2022-04-01T20:43:38.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在神經多樣性時代，擁有一個 "奇怪 "的大腦意味著什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30858710</id>
+        <link href="https://news.ycombinator.com/item?id=30858710"/>
+        <updated>2022-03-30T18:08:37.000Z</updated>
+        <summary type="html"><![CDATA[What Does It Mean to Have a ‘Weird’ Brain in the Age of Neurodiversity?]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金屬上的OpenCL--如果clvk能用怎麼辦？]]></title>
         <id>https://news.ycombinator.com/item?id=30882629</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ASK HN]如何從YouTube上過濾掉MSM媒體？]]></title>
-        <id>https://news.ycombinator.com/item?id=30809976</id>
-        <link href="https://news.ycombinator.com/item?id=30809976"/>
-        <updated>2022-03-26T07:24:19.000Z</updated>
-        <summary type="html"><![CDATA[[ASK HN] how to filter out MSM media from YouTube feed?]]></summary>
-        <author>
-            <name>perlpimp</name>
-            <uri>https://news.ycombinator.com/user?id=perlpimp</uri>
         </author>
     </entry>
 </feed>
