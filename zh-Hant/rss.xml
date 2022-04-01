@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:53:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Postgres wire兼容的SQLite代理]]></title>
+            <link>https://news.ycombinator.com/item?id=30875837</link>
+            <guid>https://news.ycombinator.com/item?id=30875837</guid>
+            <pubDate>Fri, 01 Apr 2022 06:58:02 GMT</pubDate>
+            <description><![CDATA[Postgres wire compatible SQLite proxy]]></description>
+        </item>
         <item>
             <title><![CDATA[零信任架構並不能解決所有問題，但部分ZTA可以解決較少問題]]></title>
             <link>https://news.ycombinator.com/item?id=30875908</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30802246</guid>
             <pubDate>Fri, 25 Mar 2022 13:59:32 GMT</pubDate>
             <description><![CDATA[VoWiFi]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國37%的工作可以完全在家裡進行]]></title>
-            <link>https://news.ycombinator.com/item?id=30802137</link>
-            <guid>https://news.ycombinator.com/item?id=30802137</guid>
-            <pubDate>Fri, 25 Mar 2022 13:50:01 GMT</pubDate>
-            <description><![CDATA[37% of jobs in the United States can be performed entirely at home]]></description>
         </item>
     </channel>
 </rss>

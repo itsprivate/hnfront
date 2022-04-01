@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T08:39:43.294Z</updated>
+    <updated>2022-04-01T08:53:43.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Postgres wire兼容的SQLite代理]]></title>
+        <id>https://news.ycombinator.com/item?id=30875837</id>
+        <link href="https://news.ycombinator.com/item?id=30875837"/>
+        <updated>2022-04-01T06:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Postgres wire compatible SQLite proxy]]></summary>
+        <author>
+            <name>ithkuil</name>
+            <uri>https://news.ycombinator.com/user?id=ithkuil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[零信任架構並不能解決所有問題，但部分ZTA可以解決較少問題]]></title>
         <id>https://news.ycombinator.com/item?id=30875908</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國37%的工作可以完全在家裡進行]]></title>
-        <id>https://news.ycombinator.com/item?id=30802137</id>
-        <link href="https://news.ycombinator.com/item?id=30802137"/>
-        <updated>2022-03-25T13:50:01.000Z</updated>
-        <summary type="html"><![CDATA[37% of jobs in the United States can be performed entirely at home]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
