@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T08:16:12.912Z</updated>
+    <updated>2022-04-01T08:39:43.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[零信任架構並不能解決所有問題，但部分ZTA可以解決較少問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30875908</id>
+        <link href="https://news.ycombinator.com/item?id=30875908"/>
+        <updated>2022-04-01T07:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Zero Trust Architecture doesn't solve all problems, but partial ZTA solves fewer]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[土質信息。尼古拉-特斯拉在他的實驗室裡（約1899年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30860585</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rustoo</name>
             <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否存在智力的一般因素？]]></title>
-        <id>https://news.ycombinator.com/item?id=30791424</id>
-        <link href="https://news.ycombinator.com/item?id=30791424"/>
-        <updated>2022-03-24T15:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Is there a general factor of intelligence?]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
