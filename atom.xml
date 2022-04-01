@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T05:30:56.844Z</updated>
+    <updated>2022-04-01T06:15:14.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从太空看，最长的传送带在摩洛哥]]></title>
+        <id>https://news.ycombinator.com/item?id=30875304</id>
+        <link href="https://news.ycombinator.com/item?id=30875304"/>
+        <updated>2022-04-01T04:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Seen from space, the longest conveyor belt is in Morocco]]></summary>
+        <author>
+            <name>jdkee</name>
+            <uri>https://news.ycombinator.com/user?id=jdkee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spin - WebAssembly框架]]></title>
         <id>https://news.ycombinator.com/item?id=30875310</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nitinreddy88</name>
             <uri>https://news.ycombinator.com/user?id=nitinreddy88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抛出--匿名提问和回答问题的新空间]]></title>
-        <id>https://news.ycombinator.com/item?id=30801845</id>
-        <link href="https://news.ycombinator.com/item?id=30801845"/>
-        <updated>2022-03-25T13:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Throw – The new space for asking and answering questions anonymously]]></summary>
-        <author>
-            <name>luisamodio</name>
-            <uri>https://news.ycombinator.com/user?id=luisamodio</uri>
         </author>
     </entry>
 </feed>
