@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T18:16:37.189Z</updated>
+    <updated>2022-04-01T18:41:21.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[严重的是，停止使用RSA]]></title>
+        <id>https://news.ycombinator.com/item?id=30879442</id>
+        <link href="https://news.ycombinator.com/item?id=30879442"/>
+        <updated>2022-04-01T15:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Seriously, Stop Using RSA]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使远程指导有效]]></title>
+        <id>https://news.ycombinator.com/item?id=30853395</id>
+        <link href="https://news.ycombinator.com/item?id=30853395"/>
+        <updated>2022-03-30T10:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Making Remote Mentorship Effective]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Linux中使用脚踏板作为修改键]]></title>
         <id>https://news.ycombinator.com/item?id=30880908</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sangeeth96</name>
             <uri>https://news.ycombinator.com/user?id=sangeeth96</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立法者喝生牛奶庆祝合法化，立即生病 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30808990</id>
-        <link href="https://news.ycombinator.com/item?id=30808990"/>
-        <updated>2022-03-26T03:22:01.000Z</updated>
-        <summary type="html"><![CDATA[Lawmakers Drink Raw Milk to Celebrate Legality, Become Immediately Sick (2016)]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uthash - 用于哈希表和其他的C语言宏]]></title>
-        <id>https://news.ycombinator.com/item?id=30808107</id>
-        <link href="https://news.ycombinator.com/item?id=30808107"/>
-        <updated>2022-03-26T00:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Uthash – C macros for hash tables and more]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
