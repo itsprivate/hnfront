@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-01T10:38:25.705Z</updated>
+    <updated>2022-04-01T10:53:10.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[捍卫比特币的极致主义]]></title>
+        <id>https://news.ycombinator.com/item?id=30876540</id>
+        <link href="https://news.ycombinator.com/item?id=30876540"/>
+        <updated>2022-04-01T09:39:59.000Z</updated>
+        <summary type="html"><![CDATA[In Defense of Bitcoin Maximalism]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究人员发现超高速电子雨的来源]]></title>
         <id>https://news.ycombinator.com/item?id=30858832</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jonbaer</name>
             <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现，半数妇女会得到假阳性的3D乳房X光检查结果]]></title>
-        <id>https://news.ycombinator.com/item?id=30803165</id>
-        <link href="https://news.ycombinator.com/item?id=30803165"/>
-        <updated>2022-03-25T15:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Half of women will get a false positive 3D mammogram, study finds]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
