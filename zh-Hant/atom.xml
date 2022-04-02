@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T21:14:34.706Z</updated>
+    <updated>2022-04-02T21:30:36.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是超臨界流體？]]></title>
+        <id>https://news.ycombinator.com/item?id=30865194</id>
+        <link href="https://news.ycombinator.com/item?id=30865194"/>
+        <updated>2022-03-31T08:59:55.000Z</updated>
+        <summary type="html"><![CDATA[What Is a Supercritical Fluid?]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戰艦]]></title>
         <id>https://news.ycombinator.com/item?id=30891626</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>BerislavLopac</name>
             <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何為我的企業確保域名？]]></title>
-        <id>https://news.ycombinator.com/item?id=30818950</id>
-        <link href="https://news.ycombinator.com/item?id=30818950"/>
-        <updated>2022-03-27T09:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I secure the domain for my business?]]></summary>
-        <author>
-            <name>davidkuennen</name>
-            <uri>https://news.ycombinator.com/user?id=davidkuennen</uri>
         </author>
     </entry>
 </feed>
