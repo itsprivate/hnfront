@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T16:15:31.254Z</updated>
+    <updated>2022-04-02T16:46:04.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普京的游戏结束了]]></title>
+        <id>https://news.ycombinator.com/item?id=30889199</id>
+        <link href="https://news.ycombinator.com/item?id=30889199"/>
+        <updated>2022-04-02T16:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Putin’s Game Ends]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独资企业正在改变经济的面貌]]></title>
+        <id>https://news.ycombinator.com/item?id=30889074</id>
+        <link href="https://news.ycombinator.com/item?id=30889074"/>
+        <updated>2022-04-02T15:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Solopreneurs Are Changing the Face of the Economy]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汽车经销商Napleton因偷收非法垃圾费被罚1000万美元]]></title>
         <id>https://news.ycombinator.com/item?id=30889130</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cassepipe</name>
             <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可编程说明]]></title>
-        <id>https://news.ycombinator.com/item?id=30814964</id>
-        <link href="https://news.ycombinator.com/item?id=30814964"/>
-        <updated>2022-03-26T20:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Programmable Notes]]></summary>
-        <author>
-            <name>MaysonL</name>
-            <uri>https://news.ycombinator.com/user?id=MaysonL</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[借助范畴理论，数学从平等中逃脱 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30809385</id>
-        <link href="https://news.ycombinator.com/item?id=30809385"/>
-        <updated>2022-03-26T05:06:59.000Z</updated>
-        <summary type="html"><![CDATA[With Category Theory, Mathematics Escapes from Equality (2019)]]></summary>
-        <author>
-            <name>sebg</name>
-            <uri>https://news.ycombinator.com/user?id=sebg</uri>
         </author>
     </entry>
 </feed>
