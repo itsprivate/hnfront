@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T06:13:37.394Z</updated>
+    <updated>2022-04-02T06:56:38.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[越南的一個優雅的竹子結構]]></title>
+        <id>https://news.ycombinator.com/item?id=30885979</id>
+        <link href="https://news.ycombinator.com/item?id=30885979"/>
+        <updated>2022-04-02T05:10:13.000Z</updated>
+        <summary type="html"><![CDATA[An elegant bamboo structure in Vietnam]]></summary>
+        <author>
+            <name>jdkee</name>
+            <uri>https://news.ycombinator.com/user?id=jdkee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科學家發現參與制造記憶的特定神經元]]></title>
+        <id>https://news.ycombinator.com/item?id=30867430</id>
+        <link href="https://news.ycombinator.com/item?id=30867430"/>
+        <updated>2022-03-31T14:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Scientists Discover Specific Neurons Involved in Making Memories]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neovim將通過谷歌增加遙測報告]]></title>
         <id>https://news.ycombinator.com/item?id=30885847</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>qrv3w</name>
             <uri>https://news.ycombinator.com/user?id=qrv3w</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐盟將要求信息傳遞平臺之間具有互操作性]]></title>
-        <id>https://news.ycombinator.com/item?id=30811480</id>
-        <link href="https://news.ycombinator.com/item?id=30811480"/>
-        <updated>2022-03-26T13:05:15.000Z</updated>
-        <summary type="html"><![CDATA[EU is going to require interoperability between messaging platforms]]></summary>
-        <author>
-            <name>goodpoint</name>
-            <uri>https://news.ycombinator.com/user?id=goodpoint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌摧毀了我的Play開發者賬戶和我過去2年的工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30811297</id>
-        <link href="https://news.ycombinator.com/item?id=30811297"/>
-        <updated>2022-03-26T12:31:11.000Z</updated>
-        <summary type="html"><![CDATA[Google destroyed my Play Developer Account and my work for the last 2 years]]></summary>
-        <author>
-            <name>miphik</name>
-            <uri>https://news.ycombinator.com/user?id=miphik</uri>
         </author>
     </entry>
 </feed>
