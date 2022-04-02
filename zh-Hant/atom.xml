@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T07:51:20.650Z</updated>
+    <updated>2022-04-02T08:53:08.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用同情心研究陰謀論]]></title>
+        <id>https://news.ycombinator.com/item?id=30859796</id>
+        <link href="https://news.ycombinator.com/item?id=30859796"/>
+        <updated>2022-03-30T19:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Study conspiracy theories with compassion]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我將一個習慣跟蹤器遊戲化以對抗拖延症]]></title>
         <id>https://news.ycombinator.com/item?id=30886183</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>leonry</name>
             <uri>https://news.ycombinator.com/user?id=leonry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當競爭者報名參加你的服務時，你會怎麼做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30812066</id>
-        <link href="https://news.ycombinator.com/item?id=30812066"/>
-        <updated>2022-03-26T14:26:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What do you do when competition signs up for your service?]]></summary>
-        <author>
-            <name>nyellin</name>
-            <uri>https://news.ycombinator.com/user?id=nyellin</uri>
         </author>
     </entry>
 </feed>
