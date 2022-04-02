@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T11:28:35.507Z</updated>
+    <updated>2022-04-02T12:16:48.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[超文本（YC S21）正在招聘一名高級軟件工程師]]></title>
+        <id>https://news.ycombinator.com/item?id=30887572</id>
+        <link href="https://news.ycombinator.com/item?id=30887572"/>
+        <updated>2022-04-02T12:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Hypercontext (YC S21) Is Hiring a Senior Software Engineer]]></summary>
+        <author>
+            <name>grahammc</name>
+            <uri>https://news.ycombinator.com/user?id=grahammc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每個視頻遊戲中的 "Hup "跳躍聲的歷史]]></title>
+        <id>https://news.ycombinator.com/item?id=30864616</id>
+        <link href="https://news.ycombinator.com/item?id=30864616"/>
+        <updated>2022-03-31T07:06:07.000Z</updated>
+        <summary type="html"><![CDATA[A History of 'Hup,' the Jump Sound in Every Video Game]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fresh - 帶有內置FASM彙編器的可視化彙編語言IDE]]></title>
         <id>https://news.ycombinator.com/item?id=30885786</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>manmal</name>
             <uri>https://news.ycombinator.com/user?id=manmal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放源碼軟件的貨幣化現狀]]></title>
-        <id>https://news.ycombinator.com/item?id=30813031</id>
-        <link href="https://news.ycombinator.com/item?id=30813031"/>
-        <updated>2022-03-26T16:04:00.000Z</updated>
-        <summary type="html"><![CDATA[State of OSS Monetization]]></summary>
-        <author>
-            <name>joergrech</name>
-            <uri>https://news.ycombinator.com/user?id=joergrech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raygui - 一個簡單而易用的即時模式GUI庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30813000</id>
-        <link href="https://news.ycombinator.com/item?id=30813000"/>
-        <updated>2022-03-26T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Raygui – A simple and easy-to-use immediate-mode GUI library]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
