@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T11:11:36.512Z</updated>
+    <updated>2022-04-02T11:28:35.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fresh - 带有内置FASM汇编器的可视化汇编语言IDE]]></title>
+        <id>https://news.ycombinator.com/item?id=30885786</id>
+        <link href="https://news.ycombinator.com/item?id=30885786"/>
+        <updated>2022-04-02T04:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Fresh – visual assembly language IDE with built-in FASM assembler]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[采访Webflow联合创始人]]></title>
         <id>https://news.ycombinator.com/item?id=30870898</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类可穿越的虫洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30812638</id>
-        <link href="https://news.ycombinator.com/item?id=30812638"/>
-        <updated>2022-03-26T15:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Humanly Traversable Wormholes]]></summary>
-        <author>
-            <name>nabla9</name>
-            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
         </author>
     </entry>
 </feed>
