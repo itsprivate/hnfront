@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T20:12:44.003Z</updated>
+    <updated>2022-04-02T20:33:04.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Viasat事件：从猜测到技术细节]]></title>
+        <id>https://news.ycombinator.com/item?id=30891220</id>
+        <link href="https://news.ycombinator.com/item?id=30891220"/>
+        <updated>2022-04-02T20:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Viasat incident: from speculation to technical details]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我爱显微镜]]></title>
+        <id>https://news.ycombinator.com/item?id=30882754</id>
+        <link href="https://news.ycombinator.com/item?id=30882754"/>
+        <updated>2022-04-01T20:08:52.000Z</updated>
+        <summary type="html"><![CDATA[I Heart Microscopes]]></summary>
+        <author>
+            <name>hwayne</name>
+            <uri>https://news.ycombinator.com/user?id=hwayne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNU Parallel - 用于在一台或多台计算机上并行执行作业的外壳工具]]></title>
         <id>https://news.ycombinator.com/item?id=30890780</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨尔本肇事逃逸案被指责为特斯拉自动驾驶汽车所致]]></title>
-        <id>https://news.ycombinator.com/item?id=30817369</id>
-        <link href="https://news.ycombinator.com/item?id=30817369"/>
-        <updated>2022-03-27T03:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Melbourne hit-and-run blamed on Tesla Autopilot]]></summary>
-        <author>
-            <name>gravelc</name>
-            <uri>https://news.ycombinator.com/user?id=gravelc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHA-256项目：通过自己实现一个哈希函数来学习如何工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30809352</id>
-        <link href="https://news.ycombinator.com/item?id=30809352"/>
-        <updated>2022-03-26T04:59:35.000Z</updated>
-        <summary type="html"><![CDATA[The SHA-256 Project: learn how hash functions work by implementing one yourself]]></summary>
-        <author>
-            <name>oconnor663</name>
-            <uri>https://news.ycombinator.com/user?id=oconnor663</uri>
         </author>
     </entry>
 </feed>
