@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T19:27:44.815Z</updated>
+    <updated>2022-04-02T19:51:23.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[软件工程师的变压器]]></title>
+        <id>https://news.ycombinator.com/item?id=30883636</id>
+        <link href="https://news.ycombinator.com/item?id=30883636"/>
+        <updated>2022-04-01T21:43:47.000Z</updated>
+        <summary type="html"><![CDATA[Transformers for Software Engineers]]></summary>
+        <author>
+            <name>datkinson</name>
+            <uri>https://news.ycombinator.com/user?id=datkinson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事情的真正成本是多少？]]></title>
         <id>https://news.ycombinator.com/item?id=30890834</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>00117</name>
             <uri>https://news.ycombinator.com/user?id=00117</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux中的进程调度]]></title>
-        <id>https://news.ycombinator.com/item?id=30809937</id>
-        <link href="https://news.ycombinator.com/item?id=30809937"/>
-        <updated>2022-03-26T07:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Process Scheduling in Linux]]></summary>
-        <author>
-            <name>devev</name>
-            <uri>https://news.ycombinator.com/user?id=devev</uri>
         </author>
     </entry>
 </feed>

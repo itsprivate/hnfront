@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 02 Apr 2022 19:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 19:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[軟件工程師的變壓器]]></title>
+            <link>https://news.ycombinator.com/item?id=30883636</link>
+            <guid>https://news.ycombinator.com/item?id=30883636</guid>
+            <pubDate>Fri, 01 Apr 2022 21:43:47 GMT</pubDate>
+            <description><![CDATA[Transformers for Software Engineers]]></description>
+        </item>
         <item>
             <title><![CDATA[事情的真正成本是多少？]]></title>
             <link>https://news.ycombinator.com/item?id=30890834</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30816578</guid>
             <pubDate>Sun, 27 Mar 2022 00:23:10 GMT</pubDate>
             <description><![CDATA[Information Has Mass]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linux中的進程調度]]></title>
-            <link>https://news.ycombinator.com/item?id=30809937</link>
-            <guid>https://news.ycombinator.com/item?id=30809937</guid>
-            <pubDate>Sat, 26 Mar 2022 07:16:19 GMT</pubDate>
-            <description><![CDATA[Process Scheduling in Linux]]></description>
         </item>
     </channel>
 </rss>
