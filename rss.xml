@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 02 Apr 2022 10:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 10:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[又一个GitHub配置文件生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=30886620</link>
+            <guid>https://news.ycombinator.com/item?id=30886620</guid>
+            <pubDate>Sat, 02 Apr 2022 08:02:29 GMT</pubDate>
+            <description><![CDATA[Yet Another GitHub Profile Generator]]></description>
+        </item>
         <item>
             <title><![CDATA[YouTube取消了我的Nextcloud安装方法]]></title>
             <link>https://news.ycombinator.com/item?id=30886834</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30810533</guid>
             <pubDate>Sat, 26 Mar 2022 09:51:31 GMT</pubDate>
             <description><![CDATA[Slint: Native GUI Toolkit for Rust, C++ or JavaScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重新开始--为新型计算机提供新型操作系统的FOSS建议]]></title>
-            <link>https://news.ycombinator.com/item?id=30811899</link>
-            <guid>https://news.ycombinator.com/item?id=30811899</guid>
-            <pubDate>Sat, 26 Mar 2022 14:08:11 GMT</pubDate>
-            <description><![CDATA[Starting Over – A FOSS proposal for a new type of OS for a new type of computer]]></description>
         </item>
     </channel>
 </rss>

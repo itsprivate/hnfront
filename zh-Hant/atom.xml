@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T10:13:36.697Z</updated>
+    <updated>2022-04-02T10:44:57.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[又一個GitHub配置文件生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30886620</id>
+        <link href="https://news.ycombinator.com/item?id=30886620"/>
+        <updated>2022-04-02T08:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Yet Another GitHub Profile Generator]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube取消了我的Nextcloud安裝方法]]></title>
         <id>https://news.ycombinator.com/item?id=30886834</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>surrTurr</name>
             <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新開始--為新型計算機提供新型操作系統的FOSS建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30811899</id>
-        <link href="https://news.ycombinator.com/item?id=30811899"/>
-        <updated>2022-03-26T14:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Starting Over – A FOSS proposal for a new type of OS for a new type of computer]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
         </author>
     </entry>
 </feed>
