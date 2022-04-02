@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T21:30:36.599Z</updated>
+    <updated>2022-04-02T21:38:55.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Nginx、Letsencrypt和SSH反向隧道推出自己的Ngrok]]></title>
+        <id>https://news.ycombinator.com/item?id=30891494</id>
+        <link href="https://news.ycombinator.com/item?id=30891494"/>
+        <updated>2022-04-02T20:41:17.000Z</updated>
+        <summary type="html"><![CDATA[Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling]]></summary>
+        <author>
+            <name>lioeters</name>
+            <uri>https://news.ycombinator.com/user?id=lioeters</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是超临界流体？]]></title>
         <id>https://news.ycombinator.com/item?id=30865194</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kiyanwang</name>
             <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python和Qt简化版。在几分钟内创建一个Python图形用户界面]]></title>
-        <id>https://news.ycombinator.com/item?id=30819136</id>
-        <link href="https://news.ycombinator.com/item?id=30819136"/>
-        <updated>2022-03-27T10:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Python and Qt Simplified. Create a Python GUI in Minutes]]></summary>
-        <author>
-            <name>BerislavLopac</name>
-            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
         </author>
     </entry>
 </feed>
