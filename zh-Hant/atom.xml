@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T14:38:06.922Z</updated>
+    <updated>2022-04-02T15:13:12.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[包流機。捕獲和聚合多個主機的網絡流量]]></title>
+        <id>https://news.ycombinator.com/item?id=30888295</id>
+        <link href="https://news.ycombinator.com/item?id=30888295"/>
+        <updated>2022-04-02T13:52:31.000Z</updated>
+        <summary type="html"><![CDATA[PacketStreamer: Capture and aggregate network traffic across multiple hosts]]></summary>
+        <author>
+            <name>noboruma</name>
+            <uri>https://news.ycombinator.com/user?id=noboruma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太空戰》今天60歲了]]></title>
+        <id>https://news.ycombinator.com/item?id=30886497</id>
+        <link href="https://news.ycombinator.com/item?id=30886497"/>
+        <updated>2022-04-02T07:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Spacewar Is 60 Today]]></summary>
+        <author>
+            <name>masswerk</name>
+            <uri>https://news.ycombinator.com/user?id=masswerk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一系列不幸的蟲子[視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=30871743</id>
+        <link href="https://news.ycombinator.com/item?id=30871743"/>
+        <updated>2022-03-31T20:15:45.000Z</updated>
+        <summary type="html"><![CDATA[A Series of Unfortunate Bugs [video]]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[設置和運行Minitel 2的MAME仿真系統]]></title>
         <id>https://news.ycombinator.com/item?id=30888451</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>dondraper36</name>
             <uri>https://news.ycombinator.com/user?id=dondraper36</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[測試微波的輻射洩漏]]></title>
-        <id>https://news.ycombinator.com/item?id=30813766</id>
-        <link href="https://news.ycombinator.com/item?id=30813766"/>
-        <updated>2022-03-26T17:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Test Microwave for Radiation Leakage]]></summary>
-        <author>
-            <name>uber1geek</name>
-            <uri>https://news.ycombinator.com/user?id=uber1geek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太陽軌道飛行器在週六歷史性地接近太陽]]></title>
-        <id>https://news.ycombinator.com/item?id=30813548</id>
-        <link href="https://news.ycombinator.com/item?id=30813548"/>
-        <updated>2022-03-26T17:17:02.000Z</updated>
-        <summary type="html"><![CDATA[Solar Orbiter passes historically close to sun on Saturday]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建立你自己的經典惠普計算器仿真器]]></title>
-        <id>https://news.ycombinator.com/item?id=30813765</id>
-        <link href="https://news.ycombinator.com/item?id=30813765"/>
-        <updated>2022-03-26T17:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Build Your Own Classic HP Calculator Emulator]]></summary>
-        <author>
-            <name>erickhill</name>
-            <uri>https://news.ycombinator.com/user?id=erickhill</uri>
         </author>
     </entry>
 </feed>
