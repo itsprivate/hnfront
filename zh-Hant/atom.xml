@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T08:53:08.041Z</updated>
+    <updated>2022-04-02T09:31:29.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[觀察世界的殘局]]></title>
+        <id>https://news.ycombinator.com/item?id=30886610</id>
+        <link href="https://news.ycombinator.com/item?id=30886610"/>
+        <updated>2022-04-02T07:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Watching the World Wrecking]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用同情心研究陰謀論]]></title>
         <id>https://news.ycombinator.com/item?id=30859796</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python在科學計算中的反直覺崛起 (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=30812086</id>
-        <link href="https://news.ycombinator.com/item?id=30812086"/>
-        <updated>2022-03-26T14:27:47.000Z</updated>
-        <summary type="html"><![CDATA[The counter-intuitive rise of Python in scientific computing (2020)]]></summary>
-        <author>
-            <name>leonry</name>
-            <uri>https://news.ycombinator.com/user?id=leonry</uri>
         </author>
     </entry>
 </feed>
