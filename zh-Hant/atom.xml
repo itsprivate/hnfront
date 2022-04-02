@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T14:11:54.907Z</updated>
+    <updated>2022-04-02T14:38:06.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[設置和運行Minitel 2的MAME仿真系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30888451</id>
+        <link href="https://news.ycombinator.com/item?id=30888451"/>
+        <updated>2022-04-02T14:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Setting up and running the MAME emulation of the Minitel 2]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mary-kay wilmers如何成為英國最有影響力的編輯（2019年）]]></title>
         <id>https://news.ycombinator.com/item?id=30859206</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>erickhill</name>
             <uri>https://news.ycombinator.com/user?id=erickhill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wachy - 一個基於eBPF的性能調試的用戶界面]]></title>
-        <id>https://news.ycombinator.com/item?id=30812988</id>
-        <link href="https://news.ycombinator.com/item?id=30812988"/>
-        <updated>2022-03-26T15:59:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wachy – A UI for eBPF-based performance debugging]]></summary>
-        <author>
-            <name>vivek-jain</name>
-            <uri>https://news.ycombinator.com/user?id=vivek-jain</uri>
         </author>
     </entry>
 </feed>
