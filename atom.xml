@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T13:09:38.837Z</updated>
+    <updated>2022-04-02T13:34:50.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国将在世界杯上对阵伊朗]]></title>
+        <id>https://news.ycombinator.com/item?id=30887539</id>
+        <link href="https://news.ycombinator.com/item?id=30887539"/>
+        <updated>2022-04-02T11:56:27.000Z</updated>
+        <summary type="html"><![CDATA[The United States will play Iran in the World Cup]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3 "包含了一个乌托邦噩梦的种子]]></title>
         <id>https://news.ycombinator.com/item?id=30887699</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dundalk03</name>
             <uri>https://news.ycombinator.com/user?id=dundalk03</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何建立一个更快的文件传输协议]]></title>
-        <id>https://news.ycombinator.com/item?id=30813345</id>
-        <link href="https://news.ycombinator.com/item?id=30813345"/>
-        <updated>2022-03-26T16:44:54.000Z</updated>
-        <summary type="html"><![CDATA[How to build a faster file transfer protocol]]></summary>
-        <author>
-            <name>mcharawi</name>
-            <uri>https://news.ycombinator.com/user?id=mcharawi</uri>
         </author>
     </entry>
 </feed>
