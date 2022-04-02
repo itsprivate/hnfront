@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T19:10:40.037Z</updated>
+    <updated>2022-04-02T19:27:44.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[事情的真正成本是多少？]]></title>
+        <id>https://news.ycombinator.com/item?id=30890834</id>
+        <link href="https://news.ycombinator.com/item?id=30890834"/>
+        <updated>2022-04-02T19:08:38.000Z</updated>
+        <summary type="html"><![CDATA[How much do things really cost?]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洛杉矶法官裁定LGBT企业多样性法违宪]]></title>
+        <id>https://news.ycombinator.com/item?id=30890674</id>
+        <link href="https://news.ycombinator.com/item?id=30890674"/>
+        <updated>2022-04-02T18:49:36.000Z</updated>
+        <summary type="html"><![CDATA[L.A. Judge Rules LGBT Corporate Diversity Law Unconstitutional]]></summary>
+        <author>
+            <name>zthrowaway</name>
+            <uri>https://news.ycombinator.com/user?id=zthrowaway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[太赫兹波有什么用处？]]></title>
         <id>https://news.ycombinator.com/item?id=30867482</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>devev</name>
             <uri>https://news.ycombinator.com/user?id=devev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家建立电路，用石墨烯产生清洁、无限的电力]]></title>
-        <id>https://news.ycombinator.com/item?id=30817793</id>
-        <link href="https://news.ycombinator.com/item?id=30817793"/>
-        <updated>2022-03-27T04:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Scientists build circuit that generates clean, limitless power from graphene]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉的充电端口使用标准味精在315MHz上打开，并且可以重放。]]></title>
-        <id>https://news.ycombinator.com/item?id=30817581</id>
-        <link href="https://news.ycombinator.com/item?id=30817581"/>
-        <updated>2022-03-27T04:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Tesla's charging ports use a standard msg to open on 315MHz and can be replayed]]></summary>
-        <author>
-            <name>tbakker</name>
-            <uri>https://news.ycombinator.com/user?id=tbakker</uri>
         </author>
     </entry>
 </feed>
