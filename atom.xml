@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T22:12:34.141Z</updated>
+    <updated>2022-04-02T22:31:55.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[巴斯克语-冰岛语皮尔逊语]]></title>
+        <id>https://news.ycombinator.com/item?id=30873832</id>
+        <link href="https://news.ycombinator.com/item?id=30873832"/>
+        <updated>2022-04-01T00:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Basque–Icelandic Pidgin]]></summary>
+        <author>
+            <name>Thevet</name>
+            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个Wi-Fi 6调查套件，看看它在我的地区有多普遍。]]></title>
         <id>https://news.ycombinator.com/item?id=30891962</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>moultano</name>
             <uri>https://news.ycombinator.com/user?id=moultano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FinRL: 第一个用于金融强化学习的开源项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30819436</id>
-        <link href="https://news.ycombinator.com/item?id=30819436"/>
-        <updated>2022-03-27T11:28:24.000Z</updated>
-        <summary type="html"><![CDATA[FinRL: The first open-source project for financial reinforcement learning]]></summary>
-        <author>
-            <name>ghgr</name>
-            <uri>https://news.ycombinator.com/user?id=ghgr</uri>
         </author>
     </entry>
 </feed>
