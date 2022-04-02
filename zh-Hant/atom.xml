@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T23:12:26.798Z</updated>
+    <updated>2022-04-02T23:31:26.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Shrinkwrap: 馴服動態共享對象]]></title>
+        <id>https://news.ycombinator.com/item?id=30891223</id>
+        <link href="https://news.ycombinator.com/item?id=30891223"/>
+        <updated>2022-04-02T20:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Shrinkwrap: Taming Dynamic Shared Objects]]></summary>
+        <author>
+            <name>setheron</name>
+            <uri>https://news.ycombinator.com/user?id=setheron</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[賭場資本主義，字面意思是（2021）。]]></title>
         <id>https://news.ycombinator.com/item?id=30892357</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chockchocschoir</name>
             <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN的人怎麼會對社會科學和人文科學如此精通？]]></title>
-        <id>https://news.ycombinator.com/item?id=30819318</id>
-        <link href="https://news.ycombinator.com/item?id=30819318"/>
-        <updated>2022-03-27T10:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How come HN folks are so well-versed in social sciences and humanities?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
