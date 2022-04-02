@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 02 Apr 2022 21:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 22:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个Wi-Fi 6调查套件，看看它在我的地区有多普遍。]]></title>
+            <link>https://news.ycombinator.com/item?id=30891962</link>
+            <guid>https://news.ycombinator.com/item?id=30891962</guid>
+            <pubDate>Sat, 02 Apr 2022 21:47:13 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area]]></description>
+        </item>
         <item>
             <title><![CDATA[用Nginx、Letsencrypt和SSH反向隧道推出自己的Ngrok]]></title>
             <link>https://news.ycombinator.com/item?id=30891494</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30819436</guid>
             <pubDate>Sun, 27 Mar 2022 11:28:24 GMT</pubDate>
             <description><![CDATA[FinRL: The first open-source project for financial reinforcement learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[节点之道--设计、架构和最佳实践]]></title>
-            <link>https://news.ycombinator.com/item?id=30818914</link>
-            <guid>https://news.ycombinator.com/item?id=30818914</guid>
-            <pubDate>Sun, 27 Mar 2022 09:24:07 GMT</pubDate>
-            <description><![CDATA[Tao of Node – Design, Architecture and Best Practices]]></description>
         </item>
     </channel>
 </rss>

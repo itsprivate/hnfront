@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T21:38:55.883Z</updated>
+    <updated>2022-04-02T22:12:34.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個Wi-Fi 6調查套件，看看它在我的地區有多普遍。]]></title>
+        <id>https://news.ycombinator.com/item?id=30891962</id>
+        <link href="https://news.ycombinator.com/item?id=30891962"/>
+        <updated>2022-04-02T21:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area]]></summary>
+        <author>
+            <name>wirelessbits</name>
+            <uri>https://news.ycombinator.com/user?id=wirelessbits</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Nginx、Letsencrypt和SSH反向隧道推出自己的Ngrok]]></title>
         <id>https://news.ycombinator.com/item?id=30891494</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ghgr</name>
             <uri>https://news.ycombinator.com/user?id=ghgr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[節點之道--設計、架構和最佳實踐]]></title>
-        <id>https://news.ycombinator.com/item?id=30818914</id>
-        <link href="https://news.ycombinator.com/item?id=30818914"/>
-        <updated>2022-03-27T09:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Tao of Node – Design, Architecture and Best Practices]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
         </author>
     </entry>
 </feed>
