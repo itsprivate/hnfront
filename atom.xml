@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T03:13:49.670Z</updated>
+    <updated>2022-04-02T03:43:33.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有用的外壳提示（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30858478</id>
+        <link href="https://news.ycombinator.com/item?id=30858478"/>
+        <updated>2022-03-30T17:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Useful Shell Prompt (2020)]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[挖掘英国丰富的维京人历史]]></title>
         <id>https://news.ycombinator.com/item?id=30875297</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>asyncscrum</name>
             <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件工程师入职指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30810786</id>
-        <link href="https://news.ycombinator.com/item?id=30810786"/>
-        <updated>2022-03-26T10:58:36.000Z</updated>
-        <summary type="html"><![CDATA[The Guide to Onboarding Software Engineers]]></summary>
-        <author>
-            <name>ochronus</name>
-            <uri>https://news.ycombinator.com/user?id=ochronus</uri>
         </author>
     </entry>
 </feed>
