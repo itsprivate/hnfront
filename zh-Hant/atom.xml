@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-02T18:15:00.722Z</updated>
+    <updated>2022-04-02T18:54:13.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要在btrfs snapshotter中使用containerd]]></title>
+        <id>https://news.ycombinator.com/item?id=30890354</id>
+        <link href="https://news.ycombinator.com/item?id=30890354"/>
+        <updated>2022-04-02T18:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Don't use containerd with the btrfs snapshotter]]></summary>
+        <author>
+            <name>jacksgt</name>
+            <uri>https://news.ycombinator.com/user?id=jacksgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[嚴重的是，停止使用RSA: 評論]]></title>
         <id>https://news.ycombinator.com/item?id=30889690</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>benbreen</name>
             <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無論QuickTime發生了什麼變化？]]></title>
-        <id>https://news.ycombinator.com/item?id=30810556</id>
-        <link href="https://news.ycombinator.com/item?id=30810556"/>
-        <updated>2022-03-26T10:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Whatever Happened to QuickTime?]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
