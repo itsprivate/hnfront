@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T03:42:32.917Z</updated>
+    <updated>2022-04-03T04:13:29.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果II的門戶網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30894195</id>
+        <link href="https://news.ycombinator.com/item?id=30894195"/>
+        <updated>2022-04-03T03:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Portal for AppleII]]></summary>
+        <author>
+            <name>axiomdata316</name>
+            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不再有VPN。介紹雲計算隧道]]></title>
+        <id>https://news.ycombinator.com/item?id=30893239</id>
+        <link href="https://news.ycombinator.com/item?id=30893239"/>
+        <updated>2022-04-03T01:06:43.000Z</updated>
+        <summary type="html"><![CDATA[No More VPN. Introducting Cloudflare Tunnel]]></summary>
+        <author>
+            <name>technorange</name>
+            <uri>https://news.ycombinator.com/user?id=technorange</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNU ed吃了我的作業]]></title>
         <id>https://news.ycombinator.com/item?id=30893503</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>serverlessmom</name>
             <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由光製成的氣體在你壓扁它時變得更容易壓縮]]></title>
-        <id>https://news.ycombinator.com/item?id=30800691</id>
-        <link href="https://news.ycombinator.com/item?id=30800691"/>
-        <updated>2022-03-25T11:11:10.000Z</updated>
-        <summary type="html"><![CDATA[A gas made from light becomes easier to compress as you squash it]]></summary>
-        <author>
-            <name>chriskanan</name>
-            <uri>https://news.ycombinator.com/user?id=chriskanan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[殲滅戰（PSX和Windows源代碼）]]></title>
-        <id>https://news.ycombinator.com/item?id=30820591</id>
-        <link href="https://news.ycombinator.com/item?id=30820591"/>
-        <updated>2022-03-27T14:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Wipeout (PSX and Windows Source)]]></summary>
-        <author>
-            <name>haunter</name>
-            <uri>https://news.ycombinator.com/user?id=haunter</uri>
         </author>
     </entry>
 </feed>
