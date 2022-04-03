@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T05:11:40.155Z</updated>
+    <updated>2022-04-03T05:29:24.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我在61岁时获得博士学位]]></title>
+        <id>https://news.ycombinator.com/item?id=30892850</id>
+        <link href="https://news.ycombinator.com/item?id=30892850"/>
+        <updated>2022-04-03T00:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Why I got a PhD at age 61]]></summary>
+        <author>
+            <name>breck</name>
+            <uri>https://news.ycombinator.com/user?id=breck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更好地设计字体格式，第一部分：无聊的扩展]]></title>
+        <id>https://news.ycombinator.com/item?id=30891760</id>
+        <link href="https://news.ycombinator.com/item?id=30891760"/>
+        <updated>2022-04-02T21:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Better-Engineered Font Formats, Part 1: Boring Expansion]]></summary>
+        <author>
+            <name>smasher164</name>
+            <uri>https://news.ycombinator.com/user?id=smasher164</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开泰，二进制格式解析的网络IDE]]></title>
         <id>https://news.ycombinator.com/item?id=30894111</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真空管的被遗忘的对手]]></title>
-        <id>https://news.ycombinator.com/item?id=30821096</id>
-        <link href="https://news.ycombinator.com/item?id=30821096"/>
-        <updated>2022-03-27T15:41:59.000Z</updated>
-        <summary type="html"><![CDATA[The Vacuum Tube’s Forgotten Rival]]></summary>
-        <author>
-            <name>bangonkeyboard</name>
-            <uri>https://news.ycombinator.com/user?id=bangonkeyboard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国调查员指责以色列实行种族隔离制度]]></title>
-        <id>https://news.ycombinator.com/item?id=30821050</id>
-        <link href="https://news.ycombinator.com/item?id=30821050"/>
-        <updated>2022-03-27T15:36:53.000Z</updated>
-        <summary type="html"><![CDATA[U.N. Investigator Accuses Israel of Apartheid]]></summary>
-        <author>
-            <name>caaqil</name>
-            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
         </author>
     </entry>
 </feed>
