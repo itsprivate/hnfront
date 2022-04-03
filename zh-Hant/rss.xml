@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 20:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 20:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什麼是管理？]]></title>
+            <link>https://news.ycombinator.com/item?id=30900074</link>
+            <guid>https://news.ycombinator.com/item?id=30900074</guid>
+            <pubDate>Sun, 03 Apr 2022 20:00:28 GMT</pubDate>
+            <description><![CDATA[What Is Management?]]></description>
+        </item>
         <item>
             <title><![CDATA[告訴HN：OpenBB搜刮GitHub的電子郵件用於營銷垃圾郵件]]></title>
             <link>https://news.ycombinator.com/item?id=30900237</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30811980</guid>
             <pubDate>Sat, 26 Mar 2022 14:15:59 GMT</pubDate>
             <description><![CDATA[Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紫紅色工作站]]></title>
-            <link>https://news.ycombinator.com/item?id=30827210</link>
-            <guid>https://news.ycombinator.com/item?id=30827210</guid>
-            <pubDate>Mon, 28 Mar 2022 04:41:40 GMT</pubDate>
-            <description><![CDATA[Fuchsia Workstation]]></description>
         </item>
     </channel>
 </rss>

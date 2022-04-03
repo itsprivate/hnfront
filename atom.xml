@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T20:43:53.148Z</updated>
+    <updated>2022-04-03T20:51:44.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是管理？]]></title>
+        <id>https://news.ycombinator.com/item?id=30900074</id>
+        <link href="https://news.ycombinator.com/item?id=30900074"/>
+        <updated>2022-04-03T20:00:28.000Z</updated>
+        <summary type="html"><![CDATA[What Is Management?]]></summary>
+        <author>
+            <name>sturza</name>
+            <uri>https://news.ycombinator.com/user?id=sturza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：OpenBB搜刮GitHub的电子邮件用于营销垃圾邮件]]></title>
         <id>https://news.ycombinator.com/item?id=30900237</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kiyanwang</name>
             <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紫红色工作站]]></title>
-        <id>https://news.ycombinator.com/item?id=30827210</id>
-        <link href="https://news.ycombinator.com/item?id=30827210"/>
-        <updated>2022-03-28T04:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Fuchsia Workstation]]></summary>
-        <author>
-            <name>timsneath</name>
-            <uri>https://news.ycombinator.com/user?id=timsneath</uri>
         </author>
     </entry>
 </feed>
