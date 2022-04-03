@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T03:12:14.310Z</updated>
+    <updated>2022-04-03T03:42:32.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GNU ed吃了我的作业]]></title>
+        <id>https://news.ycombinator.com/item?id=30893503</id>
+        <link href="https://news.ycombinator.com/item?id=30893503"/>
+        <updated>2022-04-03T01:50:34.000Z</updated>
+        <summary type="html"><![CDATA[GNU ed ate my homework]]></summary>
+        <author>
+            <name>atan2</name>
+            <uri>https://news.ycombinator.com/user?id=atan2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beewise为机器人蜂箱拉来8000万美元投资]]></title>
+        <id>https://news.ycombinator.com/item?id=30863254</id>
+        <link href="https://news.ycombinator.com/item?id=30863254"/>
+        <updated>2022-03-31T02:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Beewise pulls in $80m investment for robotic beehives]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收费载波系统--开线之歌]]></title>
         <id>https://news.ycombinator.com/item?id=30893638</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>haunter</name>
             <uri>https://news.ycombinator.com/user?id=haunter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word2Vec解释。解释Word2Vec的直觉]]></title>
-        <id>https://news.ycombinator.com/item?id=30820299</id>
-        <link href="https://news.ycombinator.com/item?id=30820299"/>
-        <updated>2022-03-27T14:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Word2Vec Explained. Explaining the Intuition of Word2Vec]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯坦尼斯拉夫-格罗夫采访阿尔伯特-霍夫曼博士，加利福尼亚大苏尔（1984）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30817690</id>
-        <link href="https://news.ycombinator.com/item?id=30817690"/>
-        <updated>2022-03-27T04:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Stanislav Grof Interviews Dr. Albert Hofmann, Big Sur, California (1984)]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
         </author>
     </entry>
 </feed>
