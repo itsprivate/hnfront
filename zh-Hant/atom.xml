@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T22:32:45.980Z</updated>
+    <updated>2022-04-03T22:42:18.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[愛因斯坦與《物理評論》之爭]]></title>
+        <id>https://news.ycombinator.com/item?id=30900857</id>
+        <link href="https://news.ycombinator.com/item?id=30900857"/>
+        <updated>2022-04-03T21:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Einstein versus the Physical Review]]></summary>
+        <author>
+            <name>agnosticmantis</name>
+            <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11可能不會像微軟希望的那樣受歡迎]]></title>
         <id>https://news.ycombinator.com/item?id=30900759</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>miobrien</name>
             <uri>https://news.ycombinator.com/user?id=miobrien</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高等微積分和特殊函數中的特徵]]></title>
-        <id>https://news.ycombinator.com/item?id=30811979</id>
-        <link href="https://news.ycombinator.com/item?id=30811979"/>
-        <updated>2022-03-26T14:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Identities in Higher Calculus and Special Functions]]></summary>
-        <author>
-            <name>cpp_frog</name>
-            <uri>https://news.ycombinator.com/user?id=cpp_frog</uri>
         </author>
     </entry>
 </feed>
