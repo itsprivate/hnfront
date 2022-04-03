@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T14:51:50.713Z</updated>
+    <updated>2022-04-03T15:12:26.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特尔成为首个利用其新的Arc GPU提供全面AV1支持的公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30896760</id>
+        <link href="https://news.ycombinator.com/item?id=30896760"/>
+        <updated>2022-04-03T13:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Intel becomes the first to offer full AV1 support with its new Arc GPUs]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生产的科学]]></title>
         <id>https://news.ycombinator.com/item?id=30896794</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sarchertech</name>
             <uri>https://news.ycombinator.com/user?id=sarchertech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧米茄斯沃琪超霸腕表]]></title>
-        <id>https://news.ycombinator.com/item?id=30810726</id>
-        <link href="https://news.ycombinator.com/item?id=30810726"/>
-        <updated>2022-03-26T10:44:26.000Z</updated>
-        <summary type="html"><![CDATA[Omega Swatch Speedmaster]]></summary>
-        <author>
-            <name>kwikiel</name>
-            <uri>https://news.ycombinator.com/user?id=kwikiel</uri>
         </author>
     </entry>
 </feed>
