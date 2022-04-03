@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T21:30:54.000Z</updated>
+    <updated>2022-04-03T21:51:18.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鞋带。一个网络组件套件]]></title>
+        <id>https://news.ycombinator.com/item?id=30900220</id>
+        <link href="https://news.ycombinator.com/item?id=30900220"/>
+        <updated>2022-04-03T20:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Shoelace: A Web Component Kit]]></summary>
+        <author>
+            <name>pyentropy</name>
+            <uri>https://news.ycombinator.com/user?id=pyentropy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[理查德-费曼的强大学习技巧]]></title>
         <id>https://news.ycombinator.com/item?id=30900420</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RaveForce - 一个用于音乐生成实验的OpenAI Gym风格的工具箱]]></title>
-        <id>https://news.ycombinator.com/item?id=30819646</id>
-        <link href="https://news.ycombinator.com/item?id=30819646"/>
-        <updated>2022-03-27T12:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment]]></summary>
-        <author>
-            <name>chaosprint</name>
-            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
         </author>
     </entry>
 </feed>
