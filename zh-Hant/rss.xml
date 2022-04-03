@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 11:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 11:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[尤里-貝茲梅諾夫：《意識形態顛覆的四個階段》（1984）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30896009</link>
+            <guid>https://news.ycombinator.com/item?id=30896009</guid>
+            <pubDate>Sun, 03 Apr 2022 11:06:30 GMT</pubDate>
+            <description><![CDATA[Yuri Bezmenov: The Four Stages of Ideological Subversion (1984)]]></description>
+        </item>
         <item>
             <title><![CDATA[是否有一個工具可以從規範中生成二進制協議數字？]]></title>
             <link>https://news.ycombinator.com/item?id=30895905</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30822584</guid>
             <pubDate>Sun, 27 Mar 2022 18:16:45 GMT</pubDate>
             <description><![CDATA[Killed by Microsoft]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在一小時內用tre-sitter編寫一個linter]]></title>
-            <link>https://news.ycombinator.com/item?id=30822544</link>
-            <guid>https://news.ycombinator.com/item?id=30822544</guid>
-            <pubDate>Sun, 27 Mar 2022 18:13:26 GMT</pubDate>
-            <description><![CDATA[How to write a linter using tree-sitter in an hour]]></description>
         </item>
     </channel>
 </rss>

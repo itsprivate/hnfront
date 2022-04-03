@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T11:12:08.390Z</updated>
+    <updated>2022-04-03T11:36:29.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尤里-貝茲梅諾夫：《意識形態顛覆的四個階段》（1984）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30896009</id>
+        <link href="https://news.ycombinator.com/item?id=30896009"/>
+        <updated>2022-04-03T11:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Yuri Bezmenov: The Four Stages of Ideological Subversion (1984)]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有一個工具可以從規範中生成二進制協議數字？]]></title>
         <id>https://news.ycombinator.com/item?id=30895905</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sandebert</name>
             <uri>https://news.ycombinator.com/user?id=sandebert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在一小時內用tre-sitter編寫一個linter]]></title>
-        <id>https://news.ycombinator.com/item?id=30822544</id>
-        <link href="https://news.ycombinator.com/item?id=30822544"/>
-        <updated>2022-03-27T18:13:26.000Z</updated>
-        <summary type="html"><![CDATA[How to write a linter using tree-sitter in an hour]]></summary>
-        <author>
-            <name>siraben</name>
-            <uri>https://news.ycombinator.com/user?id=siraben</uri>
         </author>
     </entry>
 </feed>
