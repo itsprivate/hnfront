@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T18:15:07.053Z</updated>
+    <updated>2022-04-03T18:37:40.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紐約市棋手的生活建議]]></title>
+        <id>https://news.ycombinator.com/item?id=30898870</id>
+        <link href="https://news.ycombinator.com/item?id=30898870"/>
+        <updated>2022-04-03T17:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Life advice from NYC chess hustlers]]></summary>
+        <author>
+            <name>gautamcgoel</name>
+            <uri>https://news.ycombinator.com/user?id=gautamcgoel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有一個11000行代碼文件的項目]]></title>
+        <id>https://news.ycombinator.com/item?id=30898803</id>
+        <link href="https://news.ycombinator.com/item?id=30898803"/>
+        <updated>2022-04-03T17:41:14.000Z</updated>
+        <summary type="html"><![CDATA[The project with a single 11,000-line code file]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIST-F1 銫噴泉原子鐘]]></title>
         <id>https://news.ycombinator.com/item?id=30886428</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mattigames</name>
             <uri>https://news.ycombinator.com/user?id=mattigames</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在沒有浮點支持的情況下，逐點繪製一個圓形]]></title>
-        <id>https://news.ycombinator.com/item?id=30787020</id>
-        <link href="https://news.ycombinator.com/item?id=30787020"/>
-        <updated>2022-03-24T07:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Drawing a circle, point-by-point, without floating point support]]></summary>
-        <author>
-            <name>threeme3</name>
-            <uri>https://news.ycombinator.com/user?id=threeme3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[錢到底是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30825505</id>
-        <link href="https://news.ycombinator.com/item?id=30825505"/>
-        <updated>2022-03-28T00:09:00.000Z</updated>
-        <summary type="html"><![CDATA[What is money, anyway?]]></summary>
-        <author>
-            <name>cyber_kinetist</name>
-            <uri>https://news.ycombinator.com/user?id=cyber_kinetist</uri>
         </author>
     </entry>
 </feed>

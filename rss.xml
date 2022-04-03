@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 18:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 18:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[纽约市棋手的生活建议]]></title>
+            <link>https://news.ycombinator.com/item?id=30898870</link>
+            <guid>https://news.ycombinator.com/item?id=30898870</guid>
+            <pubDate>Sun, 03 Apr 2022 17:47:38 GMT</pubDate>
+            <description><![CDATA[Life advice from NYC chess hustlers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有一个11000行代码文件的项目]]></title>
+            <link>https://news.ycombinator.com/item?id=30898803</link>
+            <guid>https://news.ycombinator.com/item?id=30898803</guid>
+            <pubDate>Sun, 03 Apr 2022 17:41:14 GMT</pubDate>
+            <description><![CDATA[The project with a single 11,000-line code file]]></description>
+        </item>
         <item>
             <title><![CDATA[NIST-F1 铯喷泉原子钟]]></title>
             <link>https://news.ycombinator.com/item?id=30886428</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30825405</guid>
             <pubDate>Sun, 27 Mar 2022 23:57:41 GMT</pubDate>
             <description><![CDATA[I hate what video games have become]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在没有浮点支持的情况下，逐点绘制一个圆形]]></title>
-            <link>https://news.ycombinator.com/item?id=30787020</link>
-            <guid>https://news.ycombinator.com/item?id=30787020</guid>
-            <pubDate>Thu, 24 Mar 2022 07:02:17 GMT</pubDate>
-            <description><![CDATA[Drawing a circle, point-by-point, without floating point support]]></description>
-        </item>
-        <item>
-            <title><![CDATA[钱到底是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30825505</link>
-            <guid>https://news.ycombinator.com/item?id=30825505</guid>
-            <pubDate>Mon, 28 Mar 2022 00:09:00 GMT</pubDate>
-            <description><![CDATA[What is money, anyway?]]></description>
         </item>
     </channel>
 </rss>
