@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T20:15:23.696Z</updated>
+    <updated>2022-04-03T20:43:53.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：OpenBB搜刮GitHub的电子邮件用于营销垃圾邮件]]></title>
+        <id>https://news.ycombinator.com/item?id=30900237</id>
+        <link href="https://news.ycombinator.com/item?id=30900237"/>
+        <updated>2022-04-03T20:17:06.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: OpenBB scraping GitHub emails for marketing spam]]></summary>
+        <author>
+            <name>tmp_1649016698</name>
+            <uri>https://news.ycombinator.com/user?id=tmp_1649016698</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杰克-多尔西对建立Twitter感到后悔]]></title>
         <id>https://news.ycombinator.com/item?id=30899950</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>timsneath</name>
             <uri>https://news.ycombinator.com/user?id=timsneath</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Filter_var Shenanigans]]></title>
-        <id>https://news.ycombinator.com/item?id=30811842</id>
-        <link href="https://news.ycombinator.com/item?id=30811842"/>
-        <updated>2022-03-26T14:00:54.000Z</updated>
-        <summary type="html"><![CDATA[PHP Filter_var Shenanigans]]></summary>
-        <author>
-            <name>mkeeter</name>
-            <uri>https://news.ycombinator.com/user?id=mkeeter</uri>
         </author>
     </entry>
 </feed>
