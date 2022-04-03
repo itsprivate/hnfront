@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T10:34:44.452Z</updated>
+    <updated>2022-04-03T10:51:35.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何從抽屜裡運行一個全市性的無線網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30895886</id>
+        <link href="https://news.ycombinator.com/item?id=30895886"/>
+        <updated>2022-04-03T10:28:03.000Z</updated>
+        <summary type="html"><![CDATA[How to run a city-wide wireless network from a drawer]]></summary>
+        <author>
+            <name>adunk</name>
+            <uri>https://news.ycombinator.com/user?id=adunk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創建Commodore 64。工程師的故事]]></title>
         <id>https://news.ycombinator.com/item?id=30895210</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>debanjan16</name>
             <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於機器學習和Python的BlocklyML可視化編程工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30822328</id>
-        <link href="https://news.ycombinator.com/item?id=30822328"/>
-        <updated>2022-03-27T17:52:33.000Z</updated>
-        <summary type="html"><![CDATA[BlocklyML visual programming tool for Machine learning and Python]]></summary>
-        <author>
-            <name>antman</name>
-            <uri>https://news.ycombinator.com/user?id=antman</uri>
         </author>
     </entry>
 </feed>
