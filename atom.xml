@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T18:37:40.181Z</updated>
+    <updated>2022-04-03T18:54:10.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们不使用暂存环境]]></title>
+        <id>https://news.ycombinator.com/item?id=30899362</id>
+        <link href="https://news.ycombinator.com/item?id=30899362"/>
+        <updated>2022-04-03T18:28:42.000Z</updated>
+        <summary type="html"><![CDATA[We don’t use a staging environment]]></summary>
+        <author>
+            <name>Chris86</name>
+            <uri>https://news.ycombinator.com/user?id=Chris86</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纽约市棋手的生活建议]]></title>
         <id>https://news.ycombinator.com/item?id=30898870</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我讨厌视频游戏变成这样]]></title>
-        <id>https://news.ycombinator.com/item?id=30825405</id>
-        <link href="https://news.ycombinator.com/item?id=30825405"/>
-        <updated>2022-03-27T23:57:41.000Z</updated>
-        <summary type="html"><![CDATA[I hate what video games have become]]></summary>
-        <author>
-            <name>mattigames</name>
-            <uri>https://news.ycombinator.com/user?id=mattigames</uri>
         </author>
     </entry>
 </feed>
