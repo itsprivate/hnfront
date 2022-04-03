@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T20:51:44.424Z</updated>
+    <updated>2022-04-03T21:12:41.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BuildZoom（建造定制房屋的更好方法）正在招聘一名发展助理]]></title>
+        <id>https://news.ycombinator.com/item?id=30900591</id>
+        <link href="https://news.ycombinator.com/item?id=30900591"/>
+        <updated>2022-04-03T21:00:35.000Z</updated>
+        <summary type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Growth Associate]]></summary>
+        <author>
+            <name>the_economist</name>
+            <uri>https://news.ycombinator.com/user?id=the_economist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miniscribe砖块惨败[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=30892351</id>
+        <link href="https://news.ycombinator.com/item?id=30892351"/>
+        <updated>2022-04-02T22:46:13.000Z</updated>
+        <summary type="html"><![CDATA[The Miniscribe Brick Fiasco [video]]]></summary>
+        <author>
+            <name>brudgers</name>
+            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是管理？]]></title>
         <id>https://news.ycombinator.com/item?id=30900074</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gjvc</name>
             <uri>https://news.ycombinator.com/user?id=gjvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个*神奇的AWS无服务器开发者体验]]></title>
-        <id>https://news.ycombinator.com/item?id=30827038</id>
-        <link href="https://news.ycombinator.com/item?id=30827038"/>
-        <updated>2022-03-28T04:05:13.000Z</updated>
-        <summary type="html"><![CDATA[A *magical* AWS serverless developer experience]]></summary>
-        <author>
-            <name>ptrik</name>
-            <uri>https://news.ycombinator.com/user?id=ptrik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用AWS步骤函数和亚马逊API网关运行跨账户工作流]]></title>
-        <id>https://news.ycombinator.com/item?id=30811980</id>
-        <link href="https://news.ycombinator.com/item?id=30811980"/>
-        <updated>2022-03-26T14:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
         </author>
     </entry>
 </feed>
