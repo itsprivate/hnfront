@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 13:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 14:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[与创业失败的YC创始人的播客对话]]></title>
+            <link>https://news.ycombinator.com/item?id=30896265</link>
+            <guid>https://news.ycombinator.com/item?id=30896265</guid>
+            <pubDate>Sun, 03 Apr 2022 12:10:00 GMT</pubDate>
+            <description><![CDATA[Podcast-conversations with YC founders whose startups failed]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么在多年的数据共享之后还要关心隐私问题？]]></title>
             <link>https://news.ycombinator.com/item?id=30896837</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30823772</guid>
             <pubDate>Sun, 27 Mar 2022 20:27:58 GMT</pubDate>
             <description><![CDATA[Tell HN: Make sure to configure DKIM/SPF with Fastmail]]></description>
-        </item>
-        <item>
-            <title><![CDATA[边角料搜索。1年]]></title>
-            <link>https://news.ycombinator.com/item?id=30823481</link>
-            <guid>https://news.ycombinator.com/item?id=30823481</guid>
-            <pubDate>Sun, 27 Mar 2022 19:55:18 GMT</pubDate>
-            <description><![CDATA[Marginalia Search: 1 Year]]></description>
         </item>
     </channel>
 </rss>
