@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T22:13:14.930Z</updated>
+    <updated>2022-04-03T22:32:45.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows 11可能不會像微軟希望的那樣受歡迎]]></title>
+        <id>https://news.ycombinator.com/item?id=30900759</id>
+        <link href="https://news.ycombinator.com/item?id=30900759"/>
+        <updated>2022-04-03T21:18:08.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 may not be as popular as Microsoft had hoped]]></summary>
+        <author>
+            <name>jamesdco</name>
+            <uri>https://news.ycombinator.com/user?id=jamesdco</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Covid穗狀蛋白誘導小鼠的認知缺陷和焦慮樣行為]]></title>
         <id>https://news.ycombinator.com/item?id=30901029</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cpp_frog</name>
             <uri>https://news.ycombinator.com/user?id=cpp_frog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那神秘的微笑背後是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30817714</id>
-        <link href="https://news.ycombinator.com/item?id=30817714"/>
-        <updated>2022-03-27T04:29:02.000Z</updated>
-        <summary type="html"><![CDATA[What’s behind that enigmatic smile?]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
         </author>
     </entry>
 </feed>
