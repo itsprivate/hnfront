@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T13:37:05.538Z</updated>
+    <updated>2022-04-03T13:52:16.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么在多年的数据共享之后还要关心隐私问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30896837</id>
+        <link href="https://news.ycombinator.com/item?id=30896837"/>
+        <updated>2022-04-03T13:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Why to Care About Privacy After Years of Sharing Data]]></summary>
+        <author>
+            <name>Bright_Machine</name>
+            <uri>https://news.ycombinator.com/user?id=Bright_Machine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regolith Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=30895619</id>
+        <link href="https://news.ycombinator.com/item?id=30895619"/>
+        <updated>2022-04-03T09:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Regolith Linux]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mataroa博客-赤裸裸的博客平台，适合极简主义者。只要写]]></title>
         <id>https://news.ycombinator.com/item?id=30896661</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>georgehill</name>
             <uri>https://news.ycombinator.com/user?id=georgehill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复制树的高可用性移动操作 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30811072</id>
-        <link href="https://news.ycombinator.com/item?id=30811072"/>
-        <updated>2022-03-26T11:54:06.000Z</updated>
-        <summary type="html"><![CDATA[A highly-available move opertaion for replicated trees [pdf]]]></summary>
-        <author>
-            <name>a7b3fa</name>
-            <uri>https://news.ycombinator.com/user?id=a7b3fa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyPost (YC S13)正在招聘远程API工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=30824117</id>
-        <link href="https://news.ycombinator.com/item?id=30824117"/>
-        <updated>2022-03-27T21:03:20.000Z</updated>
-        <summary type="html"><![CDATA[EasyPost (YC S13) Is Hiring Remote API Engineers]]></summary>
-        <author>
-            <name>jstreebin</name>
-            <uri>https://news.ycombinator.com/user?id=jstreebin</uri>
         </author>
     </entry>
 </feed>
