@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 06:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 06:55:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[阿瓦隆之上。苹果在自己的联盟中]]></title>
+            <link>https://news.ycombinator.com/item?id=30893750</link>
+            <guid>https://news.ycombinator.com/item?id=30893750</guid>
+            <pubDate>Sun, 03 Apr 2022 02:22:07 GMT</pubDate>
+            <description><![CDATA[Above Avalon: Apple Is in a League of Its Own]]></description>
+        </item>
         <item>
             <title><![CDATA[如何让孩子们做家务。玛雅方法有用吗？(2018)]]></title>
             <link>https://news.ycombinator.com/item?id=30887690</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30820912</guid>
             <pubDate>Sun, 27 Mar 2022 15:21:09 GMT</pubDate>
             <description><![CDATA[I made an event-driven system to quickly make GUIs with Python and pyimgui]]></description>
-        </item>
-        <item>
-            <title><![CDATA[火狐浏览器UI/UX历史]]></title>
-            <link>https://news.ycombinator.com/item?id=30820894</link>
-            <guid>https://news.ycombinator.com/item?id=30820894</guid>
-            <pubDate>Sun, 27 Mar 2022 15:18:50 GMT</pubDate>
-            <description><![CDATA[Firefox UI/UX History]]></description>
         </item>
     </channel>
 </rss>

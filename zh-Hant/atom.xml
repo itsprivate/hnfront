@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T06:37:45.755Z</updated>
+    <updated>2022-04-03T06:55:50.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[阿瓦隆之上。蘋果在自己的聯盟中]]></title>
+        <id>https://news.ycombinator.com/item?id=30893750</id>
+        <link href="https://news.ycombinator.com/item?id=30893750"/>
+        <updated>2022-04-03T02:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Above Avalon: Apple Is in a League of Its Own]]></summary>
+        <author>
+            <name>lladnar</name>
+            <uri>https://news.ycombinator.com/user?id=lladnar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何讓孩子們做家務。瑪雅方法有用嗎？(2018)]]></title>
         <id>https://news.ycombinator.com/item?id=30887690</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jr11</name>
             <uri>https://news.ycombinator.com/user?id=jr11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐瀏覽器UI/UX歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=30820894</id>
-        <link href="https://news.ycombinator.com/item?id=30820894"/>
-        <updated>2022-03-27T15:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Firefox UI/UX History]]></summary>
-        <author>
-            <name>black7375</name>
-            <uri>https://news.ycombinator.com/user?id=black7375</uri>
         </author>
     </entry>
 </feed>
