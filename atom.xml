@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-03T21:12:41.064Z</updated>
+    <updated>2022-04-03T21:30:54.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[理查德-费曼的强大学习技巧]]></title>
+        <id>https://news.ycombinator.com/item?id=30900420</id>
+        <link href="https://news.ycombinator.com/item?id=30900420"/>
+        <updated>2022-04-03T20:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Powerful Study Tips from Richard Feynman]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BuildZoom（建造定制房屋的更好方法）正在招聘一名发展助理]]></title>
         <id>https://news.ycombinator.com/item?id=30900591</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chaosprint</name>
             <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弊的微处理器 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30819084</id>
-        <link href="https://news.ycombinator.com/item?id=30819084"/>
-        <updated>2022-03-27T10:06:07.000Z</updated>
-        <summary type="html"><![CDATA[The Cons Microprocessor [pdf]]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
         </author>
     </entry>
 </feed>
