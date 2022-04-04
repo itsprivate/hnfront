@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T11:30:42.100Z</updated>
+    <updated>2022-04-04T11:37:25.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分片管理也是NP-不完全的]]></title>
+        <id>https://news.ycombinator.com/item?id=30894713</id>
+        <link href="https://news.ycombinator.com/item?id=30894713"/>
+        <updated>2022-04-03T05:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Sharding Is Also NP-Complete]]></summary>
+        <author>
+            <name>jonreiter</name>
+            <uri>https://news.ycombinator.com/user?id=jonreiter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-馬斯克擁有9.2%的Twitter股份]]></title>
         <id>https://news.ycombinator.com/item?id=30904988</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>theafh</name>
             <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放式人工智能通過僱傭一支人類大軍來修復GPT的錯誤答案，從而使GPT-3得以運行]]></title>
-        <id>https://news.ycombinator.com/item?id=30832465</id>
-        <link href="https://news.ycombinator.com/item?id=30832465"/>
-        <updated>2022-03-28T16:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers]]></summary>
-        <author>
-            <name>agnosticmantis</name>
-            <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
         </author>
     </entry>
 </feed>
