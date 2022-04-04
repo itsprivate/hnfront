@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T00:39:45.991Z</updated>
+    <updated>2022-04-04T02:32:30.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,83 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用内核TLS和SSL_sendfile提高NGINX性能]]></title>
+        <id>https://news.ycombinator.com/item?id=30902744</id>
+        <link href="https://news.ycombinator.com/item?id=30902744"/>
+        <updated>2022-04-04T02:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Improving NGINX Performance with Kernel TLS and SSL_sendfile]]></summary>
+        <author>
+            <name>limoce</name>
+            <uri>https://news.ycombinator.com/user?id=limoce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技面试准备行业]]></title>
+        <id>https://news.ycombinator.com/item?id=30901896</id>
+        <link href="https://news.ycombinator.com/item?id=30901896"/>
+        <updated>2022-04-03T23:41:42.000Z</updated>
+        <summary type="html"><![CDATA[The tech interview prep industry]]></summary>
+        <author>
+            <name>otras</name>
+            <uri>https://news.ycombinator.com/user?id=otras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于有了新的光线追踪模型，"它能否运行Doom "将不再是一个问题了]]></title>
+        <id>https://news.ycombinator.com/item?id=30901247</id>
+        <link href="https://news.ycombinator.com/item?id=30901247"/>
+        <updated>2022-04-03T22:14:18.000Z</updated>
+        <summary type="html"><![CDATA[“Can it run Doom” will never be the same, thanks to new ray-tracing mod]]></summary>
+        <author>
+            <name>jay_kyburz</name>
+            <uri>https://news.ycombinator.com/user?id=jay_kyburz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从上到下阅读代码 (1999)]]></title>
+        <id>https://news.ycombinator.com/item?id=30897284</id>
+        <link href="https://news.ycombinator.com/item?id=30897284"/>
+        <updated>2022-04-03T14:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Reading code from top to bottom (1999)]]></summary>
+        <author>
+            <name>julietteeb</name>
+            <uri>https://news.ycombinator.com/user?id=julietteeb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安大略省的计算机。巴勒斯的ICON]]></title>
+        <id>https://news.ycombinator.com/item?id=30894348</id>
+        <link href="https://news.ycombinator.com/item?id=30894348"/>
+        <updated>2022-04-03T04:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Ontario's Computer: The Burroughs ICON]]></summary>
+        <author>
+            <name>jasoneckert</name>
+            <uri>https://news.ycombinator.com/user?id=jasoneckert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当蒙古人开始征服世界时，有一个限制性因素。草地]]></title>
+        <id>https://news.ycombinator.com/item?id=30886110</id>
+        <link href="https://news.ycombinator.com/item?id=30886110"/>
+        <updated>2022-04-02T05:50:43.000Z</updated>
+        <summary type="html"><![CDATA[When Mongols Set Out to Conquer the World, There Was One Limiting Factor: Grass]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elektronika MK-61]]></title>
+        <id>https://news.ycombinator.com/item?id=30865226</id>
+        <link href="https://news.ycombinator.com/item?id=30865226"/>
+        <updated>2022-03-31T09:06:47.000Z</updated>
+        <summary type="html"><![CDATA[Elektronika MK-61]]></summary>
+        <author>
+            <name>auvi</name>
+            <uri>https://news.ycombinator.com/user?id=auvi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[活着]]></title>
         <id>https://news.ycombinator.com/item?id=30901560</id>
@@ -6536,83 +6613,6 @@
         <author>
             <name>jwhiles</name>
             <uri>https://news.ycombinator.com/user?id=jwhiles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高保证的锈蚀。开发安全和健壮的软件]]></title>
-        <id>https://news.ycombinator.com/item?id=30829140</id>
-        <link href="https://news.ycombinator.com/item?id=30829140"/>
-        <updated>2022-03-28T10:49:55.000Z</updated>
-        <summary type="html"><![CDATA[High Assurance Rust: Developing Secure and Robust Software]]></summary>
-        <author>
-            <name>sodality2</name>
-            <uri>https://news.ycombinator.com/user?id=sodality2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你如何定义奇点？]]></title>
-        <id>https://news.ycombinator.com/item?id=30829666</id>
-        <link href="https://news.ycombinator.com/item?id=30829666"/>
-        <updated>2022-03-28T12:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do you define the singularity?]]></summary>
-        <author>
-            <name>servytor</name>
-            <uri>https://news.ycombinator.com/user?id=servytor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[骗取美国的流行电子产品连锁店]]></title>
-        <id>https://news.ycombinator.com/item?id=30829593</id>
-        <link href="https://news.ycombinator.com/item?id=30829593"/>
-        <updated>2022-03-28T12:07:30.000Z</updated>
-        <summary type="html"><![CDATA[The popular electronics chain that scammed America]]></summary>
-        <author>
-            <name>yarapavan</name>
-            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发布WASM库时的建议]]></title>
-        <id>https://news.ycombinator.com/item?id=30829170</id>
-        <link href="https://news.ycombinator.com/item?id=30829170"/>
-        <updated>2022-03-28T10:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Recommendations when publishing a WASM library]]></summary>
-        <author>
-            <name>comagoosie</name>
-            <uri>https://news.ycombinator.com/user?id=comagoosie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于。Zlib在deflate上的内存损坏（即压缩）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30828743</id>
-        <link href="https://news.ycombinator.com/item?id=30828743"/>
-        <updated>2022-03-28T09:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Re: Zlib memory corruption on deflate (i.e. compress)]]></summary>
-        <author>
-            <name>0x0</name>
-            <uri>https://news.ycombinator.com/user?id=0x0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[适应性媒体评级：统计学上的成对排名和项目的排序]]></title>
-        <id>https://news.ycombinator.com/item?id=30819460</id>
-        <link href="https://news.ycombinator.com/item?id=30819460"/>
-        <updated>2022-03-27T11:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Resorting Media Ratings: statistical pairwise ranking and sorting of items]]></summary>
-        <author>
-            <name>karlicoss</name>
-            <uri>https://news.ycombinator.com/user?id=karlicoss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最糟糕的美国国防计划]]></title>
-        <id>https://news.ycombinator.com/item?id=30829320</id>
-        <link href="https://news.ycombinator.com/item?id=30829320"/>
-        <updated>2022-03-28T11:23:09.000Z</updated>
-        <summary type="html"><![CDATA[The Worst US Defense Program of All]]></summary>
-        <author>
-            <name>farseer</name>
-            <uri>https://news.ycombinator.com/user?id=farseer</uri>
         </author>
     </entry>
 </feed>
