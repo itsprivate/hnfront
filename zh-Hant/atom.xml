@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T07:32:01.696Z</updated>
+    <updated>2022-04-04T08:14:44.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HTTP饋送]]></title>
+        <id>https://news.ycombinator.com/item?id=30904220</id>
+        <link href="https://news.ycombinator.com/item?id=30904220"/>
+        <updated>2022-04-04T07:44:55.000Z</updated>
+        <summary type="html"><![CDATA[HTTP Feeds]]></summary>
+        <author>
+            <name>mcp_</name>
+            <uri>https://news.ycombinator.com/user?id=mcp_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OwnTracks - 追蹤你自己的位置]]></title>
+        <id>https://news.ycombinator.com/item?id=30904003</id>
+        <link href="https://news.ycombinator.com/item?id=30904003"/>
+        <updated>2022-04-04T07:06:30.000Z</updated>
+        <summary type="html"><![CDATA[OwnTracks – keep track of your own location]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基礎設施即代碼的感覺]]></title>
         <id>https://news.ycombinator.com/item?id=30904019</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福島事件後日本大多數人首次支持核電]]></title>
-        <id>https://news.ycombinator.com/item?id=30831485</id>
-        <link href="https://news.ycombinator.com/item?id=30831485"/>
-        <updated>2022-03-28T15:24:25.000Z</updated>
-        <summary type="html"><![CDATA[Majority in Japan backs nuclear power for first time since Fukushima]]></summary>
-        <author>
-            <name>karaokeyoga</name>
-            <uri>https://news.ycombinator.com/user?id=karaokeyoga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意大利科學家破解披薩物理學，不使用酵母製作麵糰]]></title>
-        <id>https://news.ycombinator.com/item?id=30812313</id>
-        <link href="https://news.ycombinator.com/item?id=30812313"/>
-        <updated>2022-03-26T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Italian scientists hacked pizza physics to make dough without yeast]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>

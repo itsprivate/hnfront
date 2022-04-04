@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HTTP饋送]]></title>
+            <link>https://news.ycombinator.com/item?id=30904220</link>
+            <guid>https://news.ycombinator.com/item?id=30904220</guid>
+            <pubDate>Mon, 04 Apr 2022 07:44:55 GMT</pubDate>
+            <description><![CDATA[HTTP Feeds]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OwnTracks - 追蹤你自己的位置]]></title>
+            <link>https://news.ycombinator.com/item?id=30904003</link>
+            <guid>https://news.ycombinator.com/item?id=30904003</guid>
+            <pubDate>Mon, 04 Apr 2022 07:06:30 GMT</pubDate>
+            <description><![CDATA[OwnTracks – keep track of your own location]]></description>
+        </item>
         <item>
             <title><![CDATA[基礎設施即代碼的感覺]]></title>
             <link>https://news.ycombinator.com/item?id=30904019</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30831688</guid>
             <pubDate>Mon, 28 Mar 2022 15:41:52 GMT</pubDate>
             <description><![CDATA[I wasted $40k on a fantastic startup idea]]></description>
-        </item>
-        <item>
-            <title><![CDATA[福島事件後日本大多數人首次支持核電]]></title>
-            <link>https://news.ycombinator.com/item?id=30831485</link>
-            <guid>https://news.ycombinator.com/item?id=30831485</guid>
-            <pubDate>Mon, 28 Mar 2022 15:24:25 GMT</pubDate>
-            <description><![CDATA[Majority in Japan backs nuclear power for first time since Fukushima]]></description>
-        </item>
-        <item>
-            <title><![CDATA[意大利科學家破解披薩物理學，不使用酵母製作麵糰]]></title>
-            <link>https://news.ycombinator.com/item?id=30812313</link>
-            <guid>https://news.ycombinator.com/item?id=30812313</guid>
-            <pubDate>Sat, 26 Mar 2022 14:50:00 GMT</pubDate>
-            <description><![CDATA[Italian scientists hacked pizza physics to make dough without yeast]]></description>
         </item>
     </channel>
 </rss>
