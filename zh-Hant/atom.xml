@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T09:13:55.699Z</updated>
+    <updated>2022-04-04T09:33:28.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那些你從不使用的HTML屬性]]></title>
+        <id>https://news.ycombinator.com/item?id=30887445</id>
+        <link href="https://news.ycombinator.com/item?id=30887445"/>
+        <updated>2022-04-02T11:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Those HTML Attributes You Never Use]]></summary>
+        <author>
+            <name>makaimc</name>
+            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cython是20]]></title>
         <id>https://news.ycombinator.com/item?id=30904430</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>razin</name>
             <uri>https://news.ycombinator.com/user?id=razin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個PCIe網絡接口卡，為你的服務器增加完整的路由器功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30832134</id>
-        <link href="https://news.ycombinator.com/item?id=30832134"/>
-        <updated>2022-03-28T16:18:18.000Z</updated>
-        <summary type="html"><![CDATA[A PCIe network interface card that adds full router capabilities to your servers]]></summary>
-        <author>
-            <name>Alupis</name>
-            <uri>https://news.ycombinator.com/user?id=Alupis</uri>
         </author>
     </entry>
 </feed>
