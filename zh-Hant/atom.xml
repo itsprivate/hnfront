@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T19:52:55.155Z</updated>
+    <updated>2022-04-04T20:15:20.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是好人還是善人？]]></title>
+        <id>https://news.ycombinator.com/item?id=30911131</id>
+        <link href="https://news.ycombinator.com/item?id=30911131"/>
+        <updated>2022-04-04T19:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Are You Nice or Kind?]]></summary>
+        <author>
+            <name>mahathu</name>
+            <uri>https://news.ycombinator.com/user?id=mahathu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數字模型保存了遊戲節目的歷史]]></title>
         <id>https://news.ycombinator.com/item?id=30900035</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們可以做得更好，而不是 "同樣的，但是電動"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30838132</id>
-        <link href="https://news.ycombinator.com/item?id=30838132"/>
-        <updated>2022-03-29T02:40:23.000Z</updated>
-        <summary type="html"><![CDATA[We Can Do Better Than “Same, but Electric”]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
         </author>
     </entry>
 </feed>
