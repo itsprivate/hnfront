@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T12:57:31.198Z</updated>
+    <updated>2022-04-04T13:25:15.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幻想之地》在VGA上播放]]></title>
+        <id>https://news.ycombinator.com/item?id=30905973</id>
+        <link href="https://news.ycombinator.com/item?id=30905973"/>
+        <updated>2022-04-04T12:46:41.000Z</updated>
+        <summary type="html"><![CDATA[FantasyLand on VGA]]></summary>
+        <author>
+            <name>kencausey</name>
+            <uri>https://news.ycombinator.com/user?id=kencausey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jd]]></title>
         <id>https://news.ycombinator.com/item?id=30905662</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>simonster</name>
             <uri>https://news.ycombinator.com/user?id=simonster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我從經營禮賓服務搜索引擎中學到的東西]]></title>
-        <id>https://news.ycombinator.com/item?id=30832686</id>
-        <link href="https://news.ycombinator.com/item?id=30832686"/>
-        <updated>2022-03-28T16:59:50.000Z</updated>
-        <summary type="html"><![CDATA[What I Learned from Running a Concierge Search Engine]]></summary>
-        <author>
-            <name>researchers</name>
-            <uri>https://news.ycombinator.com/user?id=researchers</uri>
         </author>
     </entry>
 </feed>
