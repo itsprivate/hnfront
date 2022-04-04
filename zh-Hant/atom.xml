@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T21:31:48.003Z</updated>
+    <updated>2022-04-04T21:39:29.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我孩子的學校安裝了間諜軟件，我無法刪除它]]></title>
+        <id>https://news.ycombinator.com/item?id=30911623</id>
+        <link href="https://news.ycombinator.com/item?id=30911623"/>
+        <updated>2022-04-04T20:32:18.000Z</updated>
+        <summary type="html"><![CDATA[My kid's school installed spyware and I can't remove it]]></summary>
+        <author>
+            <name>ccleve</name>
+            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2100年不適合居住的地方（互動地圖）]]></title>
         <id>https://news.ycombinator.com/item?id=30911585</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>apollinaire</name>
             <uri>https://news.ycombinator.com/user?id=apollinaire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinkydink的起源 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30817832</id>
-        <link href="https://news.ycombinator.com/item?id=30817832"/>
-        <updated>2022-03-27T04:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Origins of Coinkydink (2016)]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
