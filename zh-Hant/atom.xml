@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T06:39:25.580Z</updated>
+    <updated>2022-04-04T07:32:01.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基礎設施即代碼的感覺]]></title>
+        <id>https://news.ycombinator.com/item?id=30904019</id>
+        <link href="https://news.ycombinator.com/item?id=30904019"/>
+        <updated>2022-04-04T07:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure as Code Should Feel]]></summary>
+        <author>
+            <name>tutunak</name>
+            <uri>https://news.ycombinator.com/user?id=tutunak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在瀏覽器中直觀地探索神經網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30895478</id>
+        <link href="https://news.ycombinator.com/item?id=30895478"/>
+        <updated>2022-04-03T08:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Exploring Neural Networks Visually in the Browser]]></summary>
+        <author>
+            <name>Ameo</name>
+            <uri>https://news.ycombinator.com/user?id=Ameo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯坦福大學的研究人員解開了舞動的水滴之謎(2015)]]></title>
         <id>https://news.ycombinator.com/item?id=30864607</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這款遊戲是如此逼真，感覺就像加班一樣]]></title>
-        <id>https://news.ycombinator.com/item?id=30831386</id>
-        <link href="https://news.ycombinator.com/item?id=30831386"/>
-        <updated>2022-03-28T15:17:29.000Z</updated>
-        <summary type="html"><![CDATA[‘This Game Is So Realistic It Feels Just Like Working Overtime’]]></summary>
-        <author>
-            <name>raybb</name>
-            <uri>https://news.ycombinator.com/user?id=raybb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Postfix被稱為Postfix和IBM安全郵件程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30831342</id>
-        <link href="https://news.ycombinator.com/item?id=30831342"/>
-        <updated>2022-03-28T15:13:51.000Z</updated>
-        <summary type="html"><![CDATA[Why Postfix is called Postfix and IBM secure mailer]]></summary>
-        <author>
-            <name>gurrone</name>
-            <uri>https://news.ycombinator.com/user?id=gurrone</uri>
         </author>
     </entry>
 </feed>
