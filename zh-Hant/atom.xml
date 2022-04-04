@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T22:51:25.266Z</updated>
+    <updated>2022-04-04T23:14:04.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["Xanadu超文本文件 "架構和數據結構，2019年版]]></title>
+        <id>https://news.ycombinator.com/item?id=30905524</id>
+        <link href="https://news.ycombinator.com/item?id=30905524"/>
+        <updated>2022-04-04T11:46:30.000Z</updated>
+        <summary type="html"><![CDATA[“Xanadu Hypertext Documents” architecture and data structures, 2019 edition]]></summary>
+        <author>
+            <name>AlbertoGP</name>
+            <uri>https://news.ycombinator.com/user?id=AlbertoGP</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YT-Spammer-Purge。掃描並刪除YouTube上的垃圾評論]]></title>
         <id>https://news.ycombinator.com/item?id=30912187</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加利福尼亞野火煙霧在歐洲上空。氣溶膠觀測的第一個例子]]></title>
-        <id>https://news.ycombinator.com/item?id=26531943</id>
-        <link href="https://news.ycombinator.com/item?id=26531943"/>
-        <updated>2021-03-21T17:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
