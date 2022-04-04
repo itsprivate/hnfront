@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T09:33:28.702Z</updated>
+    <updated>2022-04-04T09:51:16.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们是否正在耗尽资源？]]></title>
+        <id>https://news.ycombinator.com/item?id=30904478</id>
+        <link href="https://news.ycombinator.com/item?id=30904478"/>
+        <updated>2022-04-04T08:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Are we running out of resources?]]></summary>
+        <author>
+            <name>randomperson_24</name>
+            <uri>https://news.ycombinator.com/user?id=randomperson_24</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那些你从不使用的HTML属性]]></title>
         <id>https://news.ycombinator.com/item?id=30887445</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工学院恢复其SAT/ACT要求]]></title>
-        <id>https://news.ycombinator.com/item?id=30832350</id>
-        <link href="https://news.ycombinator.com/item?id=30832350"/>
-        <updated>2022-03-28T16:35:29.000Z</updated>
-        <summary type="html"><![CDATA[MIT reinstates its SAT/ACT requirement]]></summary>
-        <author>
-            <name>razin</name>
-            <uri>https://news.ycombinator.com/user?id=razin</uri>
         </author>
     </entry>
 </feed>
