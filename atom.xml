@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T17:53:45.916Z</updated>
+    <updated>2022-04-04T18:42:07.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有史以来拍摄的最高分辨率的太阳照片]]></title>
+        <id>https://news.ycombinator.com/item?id=30910084</id>
+        <link href="https://news.ycombinator.com/item?id=30910084"/>
+        <updated>2022-04-04T18:14:04.000Z</updated>
+        <summary type="html"><![CDATA[The Highest Resolution Photo of the Sun Ever Taken]]></summary>
+        <author>
+            <name>mhb</name>
+            <uri>https://news.ycombinator.com/user?id=mhb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinygrad]]></title>
+        <id>https://news.ycombinator.com/item?id=30909719</id>
+        <link href="https://news.ycombinator.com/item?id=30909719"/>
+        <updated>2022-04-04T17:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Tinygrad]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[离职面谈是个陷阱]]></title>
         <id>https://news.ycombinator.com/item?id=30908551</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>exolymph</name>
             <uri>https://news.ycombinator.com/user?id=exolymph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morbig - Posix Shell的静态分析器]]></title>
-        <id>https://news.ycombinator.com/item?id=30812330</id>
-        <link href="https://news.ycombinator.com/item?id=30812330"/>
-        <updated>2022-03-26T14:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Morbig – A Static Parser for Posix Shell]]></summary>
-        <author>
-            <name>rasmusfabbe</name>
-            <uri>https://news.ycombinator.com/user?id=rasmusfabbe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屏蔽一条推文、其作者和每个喜欢它的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30836879</id>
-        <link href="https://news.ycombinator.com/item?id=30836879"/>
-        <updated>2022-03-28T23:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Block a tweet, its author, and every single person who liked it]]></summary>
-        <author>
-            <name>panarky</name>
-            <uri>https://news.ycombinator.com/user?id=panarky</uri>
         </author>
     </entry>
 </feed>

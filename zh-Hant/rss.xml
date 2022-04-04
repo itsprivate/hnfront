@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 18:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有史以來拍攝的最高分辨率的太陽照片]]></title>
+            <link>https://news.ycombinator.com/item?id=30910084</link>
+            <guid>https://news.ycombinator.com/item?id=30910084</guid>
+            <pubDate>Mon, 04 Apr 2022 18:14:04 GMT</pubDate>
+            <description><![CDATA[The Highest Resolution Photo of the Sun Ever Taken]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tinygrad]]></title>
+            <link>https://news.ycombinator.com/item?id=30909719</link>
+            <guid>https://news.ycombinator.com/item?id=30909719</guid>
+            <pubDate>Mon, 04 Apr 2022 17:48:22 GMT</pubDate>
+            <description><![CDATA[Tinygrad]]></description>
+        </item>
         <item>
             <title><![CDATA[離職面談是個陷阱]]></title>
             <link>https://news.ycombinator.com/item?id=30908551</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30837071</guid>
             <pubDate>Tue, 29 Mar 2022 00:02:45 GMT</pubDate>
             <description><![CDATA[I Schizopost: What Schizoposting Is]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Morbig - Posix Shell的靜態分析器]]></title>
-            <link>https://news.ycombinator.com/item?id=30812330</link>
-            <guid>https://news.ycombinator.com/item?id=30812330</guid>
-            <pubDate>Sat, 26 Mar 2022 14:51:25 GMT</pubDate>
-            <description><![CDATA[Morbig – A Static Parser for Posix Shell]]></description>
-        </item>
-        <item>
-            <title><![CDATA[屏蔽一條推文、其作者和每個喜歡它的人]]></title>
-            <link>https://news.ycombinator.com/item?id=30836879</link>
-            <guid>https://news.ycombinator.com/item?id=30836879</guid>
-            <pubDate>Mon, 28 Mar 2022 23:31:43 GMT</pubDate>
-            <description><![CDATA[Block a tweet, its author, and every single person who liked it]]></description>
         </item>
     </channel>
 </rss>
