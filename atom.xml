@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T05:30:44.712Z</updated>
+    <updated>2022-04-04T05:39:02.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Boopkit: eBPF后门（TCP），用于生成反向外壳]]></title>
+        <id>https://news.ycombinator.com/item?id=30903356</id>
+        <link href="https://news.ycombinator.com/item?id=30903356"/>
+        <updated>2022-04-04T04:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Boopkit: eBPF backdoor (TCP) for spawning reverse shells]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司对iOS中25万个可自动完成的域名的白名单]]></title>
         <id>https://news.ycombinator.com/item?id=30903246</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>1970-01-01</name>
             <uri>https://news.ycombinator.com/user?id=1970-01-01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 "Z "符号可能导致在德国两个州被起诉]]></title>
-        <id>https://news.ycombinator.com/item?id=30830905</id>
-        <link href="https://news.ycombinator.com/item?id=30830905"/>
-        <updated>2022-03-28T14:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Using the “Z” symbol could lead to prosecution in two German states]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
