@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T04:58:20.344Z</updated>
+    <updated>2022-04-04T05:30:44.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司对iOS中25万个可自动完成的域名的白名单]]></title>
+        <id>https://news.ycombinator.com/item?id=30903246</id>
+        <link href="https://news.ycombinator.com/item?id=30903246"/>
+        <updated>2022-04-04T04:10:35.000Z</updated>
+        <summary type="html"><![CDATA[Apple's whitelist of the 250k auto-completable domains in iOS]]></summary>
+        <author>
+            <name>varenc</name>
+            <uri>https://news.ycombinator.com/user?id=varenc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[妇女和她们的头发改造了韩国]]></title>
+        <id>https://news.ycombinator.com/item?id=30890645</id>
+        <link href="https://news.ycombinator.com/item?id=30890645"/>
+        <updated>2022-04-02T18:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Women and their hair transformed South Korea]]></summary>
+        <author>
+            <name>Thevet</name>
+            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西昂硫晶体电池有望在能量密度方面取得突破性进展]]></title>
         <id>https://news.ycombinator.com/item?id=30903209</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[良好的因果关系套件]]></title>
-        <id>https://news.ycombinator.com/item?id=30830808</id>
-        <link href="https://news.ycombinator.com/item?id=30830808"/>
-        <updated>2022-03-28T14:25:08.000Z</updated>
-        <summary type="html"><![CDATA[The Good Karma Kit]]></summary>
-        <author>
-            <name>hkc</name>
-            <uri>https://news.ycombinator.com/user?id=hkc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨量删除行动：发送大数据包如何破坏我们的AWS网络]]></title>
-        <id>https://news.ycombinator.com/item?id=30819506</id>
-        <link href="https://news.ycombinator.com/item?id=30819506"/>
-        <updated>2022-03-27T11:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Operation Jumbo Drop: How sending large packets broke our AWS network]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
         </author>
     </entry>
 </feed>
