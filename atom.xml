@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T10:37:18.294Z</updated>
+    <updated>2022-04-04T11:30:41.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克拥有9.2%的Twitter股份]]></title>
+        <id>https://news.ycombinator.com/item?id=30904988</id>
+        <link href="https://news.ycombinator.com/item?id=30904988"/>
+        <updated>2022-04-04T10:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk owns 9.2% of Twitter]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习数学？像漫画家一样思考]]></title>
         <id>https://news.ycombinator.com/item?id=30876342</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>agnosticmantis</name>
             <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首个无鸡肉蛋白产品进入美国市场]]></title>
-        <id>https://news.ycombinator.com/item?id=30829984</id>
-        <link href="https://news.ycombinator.com/item?id=30829984"/>
-        <updated>2022-03-28T12:50:35.000Z</updated>
-        <summary type="html"><![CDATA[First chicken-free egg white product reaches US markets]]></summary>
-        <author>
-            <name>sahin</name>
-            <uri>https://news.ycombinator.com/user?id=sahin</uri>
         </author>
     </entry>
 </feed>
