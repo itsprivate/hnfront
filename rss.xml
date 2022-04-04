@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 04 Apr 2022 15:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[当FFI函数调用击败Native C时]]></title>
+            <link>https://news.ycombinator.com/item?id=30895444</link>
+            <guid>https://news.ycombinator.com/item?id=30895444</guid>
+            <pubDate>Sun, 03 Apr 2022 08:39:36 GMT</pubDate>
+            <description><![CDATA[When FFI Function Calls Beat Native C]]></description>
+        </item>
         <item>
             <title><![CDATA[RealityScan测试版。移动摄影测量]]></title>
             <link>https://news.ycombinator.com/item?id=30907634</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30833407</guid>
             <pubDate>Mon, 28 Mar 2022 17:52:44 GMT</pubDate>
             <description><![CDATA[Replacing the scroll tracker on GOV.UK]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Maestral - 开源的Dropbox客户端]]></title>
-            <link>https://news.ycombinator.com/item?id=30831214</link>
-            <guid>https://news.ycombinator.com/item?id=30831214</guid>
-            <pubDate>Mon, 28 Mar 2022 15:04:35 GMT</pubDate>
-            <description><![CDATA[Maestral – open-source Dropbox client]]></description>
         </item>
     </channel>
 </rss>
