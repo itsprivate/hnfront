@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T05:39:02.855Z</updated>
+    <updated>2022-04-04T06:39:25.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大學的研究人員解開了舞動的水滴之謎(2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=30864607</id>
+        <link href="https://news.ycombinator.com/item?id=30864607"/>
+        <updated>2022-03-31T07:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Stanford researchers solve the mystery of the dancing droplets (2015)]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boopkit: eBPF後門（TCP），用於生成反向外殼]]></title>
         <id>https://news.ycombinator.com/item?id=30903356</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gurrone</name>
             <uri>https://news.ycombinator.com/user?id=gurrone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約翰尼-卡什無處不在（男人）》（2012）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30830222</id>
-        <link href="https://news.ycombinator.com/item?id=30830222"/>
-        <updated>2022-03-28T13:17:53.000Z</updated>
-        <summary type="html"><![CDATA[Johnny Cash Has Been Everywhere (Man) (2012)]]></summary>
-        <author>
-            <name>1970-01-01</name>
-            <uri>https://news.ycombinator.com/user?id=1970-01-01</uri>
         </author>
     </entry>
 </feed>
