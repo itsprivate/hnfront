@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T18:57:33.360Z</updated>
+    <updated>2022-04-04T19:52:55.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數字模型保存了遊戲節目的歷史]]></title>
+        <id>https://news.ycombinator.com/item?id=30900035</id>
+        <link href="https://news.ycombinator.com/item?id=30900035"/>
+        <updated>2022-04-03T19:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Digital models preserve game show history]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維多利亞時代是如何成為無趣的假正經的參考點的？]]></title>
         <id>https://news.ycombinator.com/item?id=30894353</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gk1</name>
             <uri>https://news.ycombinator.com/user?id=gk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux內核中nf_tables的CVE-2022-1015,CVE-2022-1016導致權限升級]]></title>
-        <id>https://news.ycombinator.com/item?id=30838037</id>
-        <link href="https://news.ycombinator.com/item?id=30838037"/>
-        <updated>2022-03-29T02:23:35.000Z</updated>
-        <summary type="html"><![CDATA[Linux kernel CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation]]></summary>
-        <author>
-            <name>pdenton</name>
-            <uri>https://news.ycombinator.com/user?id=pdenton</uri>
         </author>
     </entry>
 </feed>
