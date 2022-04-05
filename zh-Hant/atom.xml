@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T19:28:18.733Z</updated>
+    <updated>2022-04-05T19:37:17.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自由桌面出版]]></title>
+        <id>https://news.ycombinator.com/item?id=30917175</id>
+        <link href="https://news.ycombinator.com/item?id=30917175"/>
+        <updated>2022-04-05T10:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Libre Desktop Publishing]]></summary>
+        <author>
+            <name>hucste</name>
+            <uri>https://news.ycombinator.com/user?id=hucste</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一鍵結賬創業公司Fast正在裁減一半的員工]]></title>
         <id>https://news.ycombinator.com/item?id=30922981</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arusahni</name>
             <uri>https://news.ycombinator.com/user?id=arusahni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一張紙讓英特爾榿木湖庫存冷卻器安靜下來]]></title>
-        <id>https://news.ycombinator.com/item?id=30840637</id>
-        <link href="https://news.ycombinator.com/item?id=30840637"/>
-        <updated>2022-03-29T09:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Piece of paper quiets Intel Alder Lake stock coolers]]></summary>
-        <author>
-            <name>pubby</name>
-            <uri>https://news.ycombinator.com/user?id=pubby</uri>
         </author>
     </entry>
 </feed>
