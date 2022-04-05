@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T14:15:54.679Z</updated>
+    <updated>2022-04-05T14:32:56.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法羅10]]></title>
+        <id>https://news.ycombinator.com/item?id=30917420</id>
+        <link href="https://news.ycombinator.com/item?id=30917420"/>
+        <updated>2022-04-05T10:52:35.000Z</updated>
+        <summary type="html"><![CDATA[Pharo 10]]></summary>
+        <author>
+            <name>xkriva11</name>
+            <uri>https://news.ycombinator.com/user?id=xkriva11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[呂莫西]]></title>
+        <id>https://news.ycombinator.com/item?id=30895916</id>
+        <link href="https://news.ycombinator.com/item?id=30895916"/>
+        <updated>2022-04-03T10:38:42.000Z</updated>
+        <summary type="html"><![CDATA[LumoSQL]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對Amiga和SGI的崇拜，或為什麼工作站很重要]]></title>
         <id>https://news.ycombinator.com/item?id=30918654</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dbrereton</name>
             <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[進行模糊測試]]></title>
-        <id>https://news.ycombinator.com/item?id=30843814</id>
-        <link href="https://news.ycombinator.com/item?id=30843814"/>
-        <updated>2022-03-29T15:23:47.000Z</updated>
-        <summary type="html"><![CDATA[Go Fuzz Testing]]></summary>
-        <author>
-            <name>andrei</name>
-            <uri>https://news.ycombinator.com/user?id=andrei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遊樂場攝影的古怪、奇妙的歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=30841227</id>
-        <link href="https://news.ycombinator.com/item?id=30841227"/>
-        <updated>2022-03-29T11:34:28.000Z</updated>
-        <summary type="html"><![CDATA[The Weird, Wonderful History of Fairground Photography]]></summary>
-        <author>
-            <name>anarbadalov</name>
-            <uri>https://news.ycombinator.com/user?id=anarbadalov</uri>
         </author>
     </entry>
 </feed>
