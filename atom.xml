@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T17:08:57.267Z</updated>
+    <updated>2022-04-05T17:37:27.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[下一个谷歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30921628</id>
+        <link href="https://news.ycombinator.com/item?id=30921628"/>
+        <updated>2022-04-05T17:03:25.000Z</updated>
+        <summary type="html"><![CDATA[The Next Google]]></summary>
+        <author>
+            <name>dbrereton</name>
+            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warp，一个基于Rust的现代终端]]></title>
+        <id>https://news.ycombinator.com/item?id=30921231</id>
+        <link href="https://news.ycombinator.com/item?id=30921231"/>
+        <updated>2022-04-05T16:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Warp, a Rust-based terminal for the modern age]]></summary>
+        <author>
+            <name>zachlloyd</name>
+            <uri>https://news.ycombinator.com/user?id=zachlloyd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经纬度。21世纪的终端现在处于公开测试阶段]]></title>
+        <id>https://news.ycombinator.com/item?id=30920808</id>
+        <link href="https://news.ycombinator.com/item?id=30920808"/>
+        <updated>2022-04-05T16:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Warp: The 21st century terminal now in public beta]]></summary>
+        <author>
+            <name>cmoog</name>
+            <uri>https://news.ycombinator.com/user?id=cmoog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojure上的海岸]]></title>
+        <id>https://news.ycombinator.com/item?id=30917772</id>
+        <link href="https://news.ycombinator.com/item?id=30917772"/>
+        <updated>2022-04-05T11:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Coast on Clojure]]></summary>
+        <author>
+            <name>adamkl</name>
+            <uri>https://news.ycombinator.com/user?id=adamkl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dover.com (YC S19)正在招聘高级工程师]]></title>
         <id>https://news.ycombinator.com/item?id=30921577</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>bitcharmer</name>
             <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机历史博物馆。抢救Compuserve的收藏品]]></title>
-        <id>https://news.ycombinator.com/item?id=30848845</id>
-        <link href="https://news.ycombinator.com/item?id=30848845"/>
-        <updated>2022-03-29T21:51:01.000Z</updated>
-        <summary type="html"><![CDATA[Computer History Museum: Rescuing the Compuserve Collection]]></summary>
-        <author>
-            <name>geephroh</name>
-            <uri>https://news.ycombinator.com/user?id=geephroh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nat.app，知道你与谁失去联系的个人CRM]]></title>
-        <id>https://news.ycombinator.com/item?id=30836418</id>
-        <link href="https://news.ycombinator.com/item?id=30836418"/>
-        <updated>2022-03-28T22:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nat.app, personal CRM that knows who you're losing touch with]]></summary>
-        <author>
-            <name>nathanganser</name>
-            <uri>https://news.ycombinator.com/user?id=nathanganser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝蒂-克罗克试验厨房的无名女性]]></title>
-        <id>https://news.ycombinator.com/item?id=30835766</id>
-        <link href="https://news.ycombinator.com/item?id=30835766"/>
-        <updated>2022-03-28T21:22:29.000Z</updated>
-        <summary type="html"><![CDATA[The Unsung Women of the Betty Crocker Test Kitchens]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这种疯狂是否会结束？]]></title>
-        <id>https://news.ycombinator.com/item?id=30848056</id>
-        <link href="https://news.ycombinator.com/item?id=30848056"/>
-        <updated>2022-03-29T20:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Is the madness ever going to end?]]></summary>
-        <author>
-            <name>denimboy</name>
-            <uri>https://news.ycombinator.com/user?id=denimboy</uri>
         </author>
     </entry>
 </feed>
