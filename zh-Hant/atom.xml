@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T10:14:52.679Z</updated>
+    <updated>2022-04-05T10:32:53.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pbkit - 用Deno/TypeScript編寫的Protobuf工具箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30903675</id>
+        <link href="https://news.ycombinator.com/item?id=30903675"/>
+        <updated>2022-04-04T05:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pbkit – Protobuf toolkit written in Deno/TypeScript]]></summary>
+        <author>
+            <name>disjukr</name>
+            <uri>https://news.ycombinator.com/user?id=disjukr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI已經解決了XY問題]]></title>
         <id>https://news.ycombinator.com/item?id=30911106</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DocFeind</name>
             <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為萌芽中的地鼠提供免費的編碼練習(2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=30819571</id>
-        <link href="https://news.ycombinator.com/item?id=30819571"/>
-        <updated>2022-03-27T11:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Free coding exercises for budding gophers (2017)]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
         </author>
     </entry>
 </feed>
