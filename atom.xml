@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T10:32:53.040Z</updated>
+    <updated>2022-04-05T11:30:07.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个应用--两个世界：这就是俄罗斯和乌克兰的TikTok]]></title>
+        <id>https://news.ycombinator.com/item?id=30917474</id>
+        <link href="https://news.ycombinator.com/item?id=30917474"/>
+        <updated>2022-04-05T11:03:23.000Z</updated>
+        <summary type="html"><![CDATA[One App – Two Worlds: This Is TikTok in Russia and Ukraine]]></summary>
+        <author>
+            <name>mmgu</name>
+            <uri>https://news.ycombinator.com/user?id=mmgu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国已经夺取了Gazprom Germania的控制权]]></title>
+        <id>https://news.ycombinator.com/item?id=30917396</id>
+        <link href="https://news.ycombinator.com/item?id=30917396"/>
+        <updated>2022-04-05T10:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Germany has seized control of Gazprom Germania]]></summary>
+        <author>
+            <name>guard0g</name>
+            <uri>https://news.ycombinator.com/user?id=guard0g</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[媒体网站：70%的碳足迹由广告和统计数字造成]]></title>
+        <id>https://news.ycombinator.com/item?id=30917052</id>
+        <link href="https://news.ycombinator.com/item?id=30917052"/>
+        <updated>2022-04-05T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Media Websites: 70% of the Carbon Footprint Caused by Ads and Stats]]></summary>
+        <author>
+            <name>sdoering</name>
+            <uri>https://news.ycombinator.com/user?id=sdoering</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱情与战争中的巴勃罗-毕加索]]></title>
+        <id>https://news.ycombinator.com/item?id=30914052</id>
+        <link href="https://news.ycombinator.com/item?id=30914052"/>
+        <updated>2022-04-05T01:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Pablo Picasso in Love and War]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pbkit - 用Deno/TypeScript编写的Protobuf工具箱]]></title>
         <id>https://news.ycombinator.com/item?id=30903675</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天有了一百万美元，你会做什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30842680</id>
-        <link href="https://news.ycombinator.com/item?id=30842680"/>
-        <updated>2022-03-29T14:05:14.000Z</updated>
-        <summary type="html"><![CDATA[What would you do with a million dollars today?]]></summary>
-        <author>
-            <name>vicvvv</name>
-            <uri>https://news.ycombinator.com/user?id=vicvvv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC 1149事件（2001年）：通过鸟类载体的IP。]]></title>
-        <id>https://news.ycombinator.com/item?id=30842778</id>
-        <link href="https://news.ycombinator.com/item?id=30842778"/>
-        <updated>2022-03-29T14:13:25.000Z</updated>
-        <summary type="html"><![CDATA[IP over Avian Carriers RFC 1149 event (2001)]]></summary>
-        <author>
-            <name>tyropita</name>
-            <uri>https://news.ycombinator.com/user?id=tyropita</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不再给学生的作业打分--我希望自己能早点停下来]]></title>
-        <id>https://news.ycombinator.com/item?id=30842587</id>
-        <link href="https://news.ycombinator.com/item?id=30842587"/>
-        <updated>2022-03-29T13:57:54.000Z</updated>
-        <summary type="html"><![CDATA[I no longer grade my students’ work – and I wish I had stopped sooner]]></summary>
-        <author>
-            <name>CapitalistCartr</name>
-            <uri>https://news.ycombinator.com/user?id=CapitalistCartr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡巴斯基被宣布为美国国家安全威胁并被联邦通信委员会禁止使用]]></title>
-        <id>https://news.ycombinator.com/item?id=30842511</id>
-        <link href="https://news.ycombinator.com/item?id=30842511"/>
-        <updated>2022-03-29T13:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Kaspersky Is Declared a US National Security Threat and Is Banned by the FCC]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
         </author>
     </entry>
 </feed>
