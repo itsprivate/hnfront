@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T12:56:21.664Z</updated>
+    <updated>2022-04-05T13:25:50.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们建立了r/place（2021）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30918440</id>
+        <link href="https://news.ycombinator.com/item?id=30918440"/>
+        <updated>2022-04-05T13:05:29.000Z</updated>
+        <summary type="html"><![CDATA[We built r/place (2021)]]></summary>
+        <author>
+            <name>mynameismon</name>
+            <uri>https://news.ycombinator.com/user?id=mynameismon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国的互联网正沿着党派路线分裂开来]]></title>
+        <id>https://news.ycombinator.com/item?id=30918052</id>
+        <link href="https://news.ycombinator.com/item?id=30918052"/>
+        <updated>2022-04-05T12:20:42.000Z</updated>
+        <summary type="html"><![CDATA[America's internet is splitting along party lines]]></summary>
+        <author>
+            <name>abhaysaxena_hk</name>
+            <uri>https://news.ycombinator.com/user?id=abhaysaxena_hk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[父子团队用无限的褶皱解决了几何问题]]></title>
         <id>https://news.ycombinator.com/item?id=30917284</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>LukeEF</name>
             <uri>https://news.ycombinator.com/user?id=LukeEF</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USWDS: 美国的网页设计系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30844002</id>
-        <link href="https://news.ycombinator.com/item?id=30844002"/>
-        <updated>2022-03-29T15:37:09.000Z</updated>
-        <summary type="html"><![CDATA[USWDS: The United States Web Design System]]></summary>
-        <author>
-            <name>jakelazaroff</name>
-            <uri>https://news.ycombinator.com/user?id=jakelazaroff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[影子信用分数可以决定你是否能得到一个公寓]]></title>
-        <id>https://news.ycombinator.com/item?id=30843782</id>
-        <link href="https://news.ycombinator.com/item?id=30843782"/>
-        <updated>2022-03-29T15:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Shadow Credit Score Could Decide Whether You Get an Apartment]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
