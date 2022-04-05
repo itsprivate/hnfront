@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T23:13:36.786Z</updated>
+    <updated>2022-04-05T23:33:32.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用或不使用抗抑郁药就能战胜抑郁症？]]></title>
+        <id>https://news.ycombinator.com/item?id=30923701</id>
+        <link href="https://news.ycombinator.com/item?id=30923701"/>
+        <updated>2022-04-05T19:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Beating depression with or without anti-depressants?]]></summary>
+        <author>
+            <name>jpgvm</name>
+            <uri>https://news.ycombinator.com/user?id=jpgvm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最后站立的人]]></title>
         <id>https://news.ycombinator.com/item?id=30905730</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HB11的氢硼激光聚变试验取得了突破性的成果]]></title>
-        <id>https://news.ycombinator.com/item?id=30841080</id>
-        <link href="https://news.ycombinator.com/item?id=30841080"/>
-        <updated>2022-03-29T11:10:02.000Z</updated>
-        <summary type="html"><![CDATA[HB11's hydrogen-boron laser fusion test yields groundbreaking results]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
