@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T03:44:32.050Z</updated>
+    <updated>2022-04-05T04:39:28.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[25年以上的個人知識管理]]></title>
+        <id>https://news.ycombinator.com/item?id=30903940</id>
+        <link href="https://news.ycombinator.com/item?id=30903940"/>
+        <updated>2022-04-04T06:54:25.000Z</updated>
+        <summary type="html"><![CDATA[25+ years of personal knowledge management]]></summary>
+        <author>
+            <name>dSebastien</name>
+            <uri>https://news.ycombinator.com/user?id=dSebastien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LCEVC如何工作--視頻壓縮的新方法]]></title>
         <id>https://news.ycombinator.com/item?id=30905736</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dryja</name>
             <uri>https://news.ycombinator.com/user?id=dryja</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼以及如何啟動一個服務於新興市場的創業公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30818035</id>
-        <link href="https://news.ycombinator.com/item?id=30818035"/>
-        <updated>2022-03-27T05:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Why and how to start a startup serving emerging markets]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
