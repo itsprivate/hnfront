@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-04T23:44:19.500Z</updated>
+    <updated>2022-04-05T00:40:03.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马斯托顿。一个自由的、开源的、去中心化的、不属于任何人的Twitter]]></title>
+        <id>https://news.ycombinator.com/item?id=30913234</id>
+        <link href="https://news.ycombinator.com/item?id=30913234"/>
+        <updated>2022-04-04T23:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Mastodon: A free, open-source, and decentralized Twitter not owned by anybody]]></summary>
+        <author>
+            <name>adamdegas</name>
+            <uri>https://news.ycombinator.com/user?id=adamdegas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[锈迹斑斑的Espressif芯片 2022年第一季度]]></title>
         <id>https://news.ycombinator.com/item?id=30913359</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>brycelarkin</name>
             <uri>https://news.ycombinator.com/user?id=brycelarkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JEP 419: 外来函数和内存API]]></title>
-        <id>https://news.ycombinator.com/item?id=30812156</id>
-        <link href="https://news.ycombinator.com/item?id=30812156"/>
-        <updated>2022-03-26T14:33:51.000Z</updated>
-        <summary type="html"><![CDATA[JEP 419: Foreign Function and Memory API]]></summary>
-        <author>
-            <name>ahachete</name>
-            <uri>https://news.ycombinator.com/user?id=ahachete</uri>
         </author>
     </entry>
 </feed>
