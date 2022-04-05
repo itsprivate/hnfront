@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T18:40:32.713Z</updated>
+    <updated>2022-04-05T19:00:33.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[個人安全檢查表]]></title>
+        <id>https://news.ycombinator.com/item?id=30922779</id>
+        <link href="https://news.ycombinator.com/item?id=30922779"/>
+        <updated>2022-04-05T18:17:25.000Z</updated>
+        <summary type="html"><![CDATA[The Personal Security Checklist]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Plex結束流媒體的掙扎]]></title>
+        <id>https://news.ycombinator.com/item?id=30922711</id>
+        <link href="https://news.ycombinator.com/item?id=30922711"/>
+        <updated>2022-04-05T18:12:47.000Z</updated>
+        <summary type="html"><![CDATA[End the Streaming Struggle with Plex]]></summary>
+        <author>
+            <name>sp8</name>
+            <uri>https://news.ycombinator.com/user?id=sp8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[300架無人機組成的二維碼，裡克在愚人節當天滾落達拉斯]]></title>
         <id>https://news.ycombinator.com/item?id=30922808</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>simonebrunozzi</name>
             <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[審查制度的無用性]]></title>
-        <id>https://news.ycombinator.com/item?id=30849637</id>
-        <link href="https://news.ycombinator.com/item?id=30849637"/>
-        <updated>2022-03-29T23:26:19.000Z</updated>
-        <summary type="html"><![CDATA[The Futility of Censorship]]></summary>
-        <author>
-            <name>mitchbob</name>
-            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[濫用異常來執行代碼，第一部分]]></title>
-        <id>https://news.ycombinator.com/item?id=30841425</id>
-        <link href="https://news.ycombinator.com/item?id=30841425"/>
-        <updated>2022-03-29T12:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Abusing Exceptions for Code Execution, Part 1]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
