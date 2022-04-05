@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 05 Apr 2022 05:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 06:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Oodle数据中的熵解码。美洲虎上的哈夫曼解码]]></title>
+            <link>https://news.ycombinator.com/item?id=30905587</link>
+            <guid>https://news.ycombinator.com/item?id=30905587</guid>
+            <pubDate>Mon, 04 Apr 2022 11:54:43 GMT</pubDate>
+            <description><![CDATA[Entropy Decoding in Oodle Data: Huffman Decoding on the Jaguar]]></description>
+        </item>
         <item>
             <title><![CDATA[吉姆-亨勒的 "叮当 "计数系统]]></title>
             <link>https://news.ycombinator.com/item?id=30904305</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30841415</guid>
             <pubDate>Tue, 29 Mar 2022 12:00:56 GMT</pubDate>
             <description><![CDATA[The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[今天，谷歌正在为许多之前关闭了追踪功能的用户开启追踪功能]]></title>
-            <link>https://news.ycombinator.com/item?id=30841320</link>
-            <guid>https://news.ycombinator.com/item?id=30841320</guid>
-            <pubDate>Tue, 29 Mar 2022 11:47:55 GMT</pubDate>
-            <description><![CDATA[Today Google is turning on tracking for many users that previously turned it off]]></description>
         </item>
     </channel>
 </rss>

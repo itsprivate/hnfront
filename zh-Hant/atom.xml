@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T05:30:31.637Z</updated>
+    <updated>2022-04-05T06:39:23.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Oodle數據中的熵解碼。美洲虎上的哈夫曼解碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30905587</id>
+        <link href="https://news.ycombinator.com/item?id=30905587"/>
+        <updated>2022-04-04T11:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Entropy Decoding in Oodle Data: Huffman Decoding on the Jaguar]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉姆-亨勒的 "叮噹 "計數系統]]></title>
         <id>https://news.ycombinator.com/item?id=30904305</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tasn</name>
             <uri>https://news.ycombinator.com/user?id=tasn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天，谷歌正在為許多之前關閉了追蹤功能的用戶開啟追蹤功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30841320</id>
-        <link href="https://news.ycombinator.com/item?id=30841320"/>
-        <updated>2022-03-29T11:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Today Google is turning on tracking for many users that previously turned it off]]></summary>
-        <author>
-            <name>starsep</name>
-            <uri>https://news.ycombinator.com/user?id=starsep</uri>
         </author>
     </entry>
 </feed>
