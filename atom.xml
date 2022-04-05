@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T07:54:33.799Z</updated>
+    <updated>2022-04-05T08:15:35.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不记名代币实在是太糟糕了]]></title>
+        <id>https://news.ycombinator.com/item?id=30916192</id>
+        <link href="https://news.ycombinator.com/item?id=30916192"/>
+        <updated>2022-04-05T07:19:46.000Z</updated>
+        <summary type="html"><![CDATA[Bearer tokens are just awful]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们（自发的）为我们的点com域名支付了五位数的费用]]></title>
+        <id>https://news.ycombinator.com/item?id=30916155</id>
+        <link href="https://news.ycombinator.com/item?id=30916155"/>
+        <updated>2022-04-05T07:11:31.000Z</updated>
+        <summary type="html"><![CDATA[We (bootstrapped) paid five-figure for our dot com domain]]></summary>
+        <author>
+            <name>rodolphedutel</name>
+            <uri>https://news.ycombinator.com/user?id=rodolphedutel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[失踪的达尔文笔记本被送回剑桥大学图书馆]]></title>
+        <id>https://news.ycombinator.com/item?id=30915923</id>
+        <link href="https://news.ycombinator.com/item?id=30915923"/>
+        <updated>2022-04-05T06:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Missing Darwin Notebooks Returned to Cambridge University Library]]></summary>
+        <author>
+            <name>vo2maxer</name>
+            <uri>https://news.ycombinator.com/user?id=vo2maxer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Para方法。组织数字信息的通用系统]]></title>
         <id>https://news.ycombinator.com/item?id=30916260</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rustoo</name>
             <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东京Technicolor]]></title>
-        <id>https://news.ycombinator.com/item?id=30818253</id>
-        <link href="https://news.ycombinator.com/item?id=30818253"/>
-        <updated>2022-03-27T06:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Technicolor Tokyo]]></summary>
-        <author>
-            <name>keiferski</name>
-            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每个人都应该有一本用户手册。所以我为自己创建了一个]]></title>
-        <id>https://news.ycombinator.com/item?id=30841486</id>
-        <link href="https://news.ycombinator.com/item?id=30841486"/>
-        <updated>2022-03-29T12:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Every person should come with a user manual. So I created one for me]]></summary>
-        <author>
-            <name>davidbauer</name>
-            <uri>https://news.ycombinator.com/user?id=davidbauer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥克塔。泄露的Mandiant报告详细说明了漏洞时间表]]></title>
-        <id>https://news.ycombinator.com/item?id=30841413</id>
-        <link href="https://news.ycombinator.com/item?id=30841413"/>
-        <updated>2022-03-29T12:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Okta: Leaked Mandiant report details breach timeline]]></summary>
-        <author>
-            <name>intunderflow</name>
-            <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
         </author>
     </entry>
 </feed>
