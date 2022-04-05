@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T16:16:08.106Z</updated>
+    <updated>2022-04-05T16:53:35.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WWDC22]]></title>
+        <id>https://news.ycombinator.com/item?id=30920712</id>
+        <link href="https://news.ycombinator.com/item?id=30920712"/>
+        <updated>2022-04-05T16:03:38.000Z</updated>
+        <summary type="html"><![CDATA[WWDC22]]></summary>
+        <author>
+            <name>coloneltcb</name>
+            <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司忽视了对大苏尔、卡塔利娜两个零日、狂野的漏洞进行修补]]></title>
+        <id>https://news.ycombinator.com/item?id=30920648</id>
+        <link href="https://news.ycombinator.com/item?id=30920648"/>
+        <updated>2022-04-05T15:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Apple Neglects to Patch Two Zero-Day, Wild Vulnerabilities for Big Sur, Catalina]]></summary>
+        <author>
+            <name>jiripospisil</name>
+            <uri>https://news.ycombinator.com/user?id=jiripospisil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们使用GitHub Actions来构建GitHub]]></title>
+        <id>https://news.ycombinator.com/item?id=30920543</id>
+        <link href="https://news.ycombinator.com/item?id=30920543"/>
+        <updated>2022-04-05T15:52:02.000Z</updated>
+        <summary type="html"><![CDATA[We use GitHub Actions to build GitHub]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAE质量]]></title>
+        <id>https://news.ycombinator.com/item?id=30917098</id>
+        <link href="https://news.ycombinator.com/item?id=30917098"/>
+        <updated>2022-04-05T09:57:27.000Z</updated>
+        <summary type="html"><![CDATA[DAE Quality]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虚幻引擎5现已上市]]></title>
         <id>https://news.ycombinator.com/item?id=30920345</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Kesseki</name>
             <uri>https://news.ycombinator.com/user?id=Kesseki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有些人喜欢它，有些人喜欢它。比利-怀尔德如何在二十世纪生存下来]]></title>
-        <id>https://news.ycombinator.com/item?id=30835977</id>
-        <link href="https://news.ycombinator.com/item?id=30835977"/>
-        <updated>2022-03-28T21:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Some Like It Fraught: How Billy Wilder Survived the Twentieth Century]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铬100]]></title>
-        <id>https://news.ycombinator.com/item?id=30847140</id>
-        <link href="https://news.ycombinator.com/item?id=30847140"/>
-        <updated>2022-03-29T19:19:39.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 100]]></summary>
-        <author>
-            <name>NiekvdMaas</name>
-            <uri>https://news.ycombinator.com/user?id=NiekvdMaas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雪葩。Stripe的红宝石类型检查器]]></title>
-        <id>https://news.ycombinator.com/item?id=30833555</id>
-        <link href="https://news.ycombinator.com/item?id=30833555"/>
-        <updated>2022-03-28T18:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Sorbet: Stripe's Type Checker for Ruby]]></summary>
-        <author>
-            <name>joeyespo</name>
-            <uri>https://news.ycombinator.com/user?id=joeyespo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国联邦贸易委员会起诉Intuit公司，要求停止声称TurboTax免费的 "欺骗性 "广告]]></title>
-        <id>https://news.ycombinator.com/item?id=30846884</id>
-        <link href="https://news.ycombinator.com/item?id=30846884"/>
-        <updated>2022-03-29T18:59:20.000Z</updated>
-        <summary type="html"><![CDATA[FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free]]></summary>
-        <author>
-            <name>nevir</name>
-            <uri>https://news.ycombinator.com/user?id=nevir</uri>
         </author>
     </entry>
 </feed>
