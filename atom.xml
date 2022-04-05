@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T15:39:06.118Z</updated>
+    <updated>2022-04-05T15:55:16.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[First Light（牛津大学的衍生公司）实现了核聚变]]></title>
+        <id>https://news.ycombinator.com/item?id=30917750</id>
+        <link href="https://news.ycombinator.com/item?id=30917750"/>
+        <updated>2022-04-05T11:42:47.000Z</updated>
+        <summary type="html"><![CDATA[First Light (Oxford University spinout) achieves nuclear fusion]]></summary>
+        <author>
+            <name>ruaraidh</name>
+            <uri>https://news.ycombinator.com/user?id=ruaraidh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃尔朗私有函数的私密性如何？(2018)]]></title>
         <id>https://news.ycombinator.com/item?id=30903649</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>srijan4</name>
             <uri>https://news.ycombinator.com/user?id=srijan4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL现在可以在Supabase上使用]]></title>
-        <id>https://news.ycombinator.com/item?id=30846006</id>
-        <link href="https://news.ycombinator.com/item?id=30846006"/>
-        <updated>2022-03-29T17:48:16.000Z</updated>
-        <summary type="html"><![CDATA[GraphQL is now available on Supabase]]></summary>
-        <author>
-            <name>yurisagalov</name>
-            <uri>https://news.ycombinator.com/user?id=yurisagalov</uri>
         </author>
     </entry>
 </feed>

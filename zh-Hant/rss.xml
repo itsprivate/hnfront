@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 05 Apr 2022 15:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 15:55:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[First Light（牛津大學的衍生公司）實現了核聚變]]></title>
+            <link>https://news.ycombinator.com/item?id=30917750</link>
+            <guid>https://news.ycombinator.com/item?id=30917750</guid>
+            <pubDate>Tue, 05 Apr 2022 11:42:47 GMT</pubDate>
+            <description><![CDATA[First Light (Oxford University spinout) achieves nuclear fusion]]></description>
+        </item>
         <item>
             <title><![CDATA[埃爾朗私有函數的私密性如何？(2018)]]></title>
             <link>https://news.ycombinator.com/item?id=30903649</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30846659</guid>
             <pubDate>Tue, 29 Mar 2022 18:40:09 GMT</pubDate>
             <description><![CDATA[Zulip 5.0: Threaded open-source team chat]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GraphQL現在可以在Supabase上使用]]></title>
-            <link>https://news.ycombinator.com/item?id=30846006</link>
-            <guid>https://news.ycombinator.com/item?id=30846006</guid>
-            <pubDate>Tue, 29 Mar 2022 17:48:16 GMT</pubDate>
-            <description><![CDATA[GraphQL is now available on Supabase]]></description>
         </item>
     </channel>
 </rss>
