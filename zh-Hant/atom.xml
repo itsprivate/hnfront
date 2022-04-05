@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-05T04:39:28.655Z</updated>
+    <updated>2022-04-05T05:12:10.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網飛公司應該出售廣告]]></title>
+        <id>https://news.ycombinator.com/item?id=30907602</id>
+        <link href="https://news.ycombinator.com/item?id=30907602"/>
+        <updated>2022-04-04T15:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Netflix Should Sell Ads]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25年以上的個人知識管理]]></title>
         <id>https://news.ycombinator.com/item?id=30903940</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tempodox</name>
             <uri>https://news.ycombinator.com/user?id=tempodox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub事件 2022-03-29]]></title>
-        <id>https://news.ycombinator.com/item?id=30840899</id>
-        <link href="https://news.ycombinator.com/item?id=30840899"/>
-        <updated>2022-03-29T10:40:32.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Incident 2022-03-29]]></summary>
-        <author>
-            <name>dryja</name>
-            <uri>https://news.ycombinator.com/user?id=dryja</uri>
         </author>
     </entry>
 </feed>
