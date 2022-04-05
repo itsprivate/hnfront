@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 05 Apr 2022 21:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 21:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[将植物带离地球]]></title>
+            <link>https://news.ycombinator.com/item?id=30905463</link>
+            <guid>https://news.ycombinator.com/item?id=30905463</guid>
+            <pubDate>Mon, 04 Apr 2022 11:38:36 GMT</pubDate>
+            <description><![CDATA[Taking Plants Off Planet]]></description>
+        </item>
         <item>
             <title><![CDATA[Padlet正在招聘其第一位招聘人员，以建立一个美丽的工作场所]]></title>
             <link>https://news.ycombinator.com/item?id=30924960</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30834327</guid>
             <pubDate>Mon, 28 Mar 2022 19:07:12 GMT</pubDate>
             <description><![CDATA[The Beatle Who Got Away]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zee。一个用Rust编写的现代终端文本编辑器]]></title>
-            <link>https://news.ycombinator.com/item?id=30850652</link>
-            <guid>https://news.ycombinator.com/item?id=30850652</guid>
-            <pubDate>Wed, 30 Mar 2022 01:49:44 GMT</pubDate>
-            <description><![CDATA[Zee: A modern text editor for the terminal written in Rust]]></description>
         </item>
     </channel>
 </rss>
