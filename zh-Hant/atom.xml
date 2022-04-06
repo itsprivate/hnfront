@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T06:39:39.479Z</updated>
+    <updated>2022-04-06T07:12:52.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蝶變在合併後的/usr方面仍有問題]]></title>
+        <id>https://news.ycombinator.com/item?id=30929024</id>
+        <link href="https://news.ycombinator.com/item?id=30929024"/>
+        <updated>2022-04-06T06:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Debian still having trouble with merged /usr]]></summary>
+        <author>
+            <name>bitcharmer</name>
+            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CalyxOS為Fairphone 4、OnePlus 8T和OnePlus 9發佈測試版本]]></title>
         <id>https://news.ycombinator.com/item?id=30928853</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>skilled</name>
             <uri>https://news.ycombinator.com/user?id=skilled</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新研究在人類血液中檢測到微塑料]]></title>
-        <id>https://news.ycombinator.com/item?id=30852273</id>
-        <link href="https://news.ycombinator.com/item?id=30852273"/>
-        <updated>2022-03-30T07:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Microplastics Detected in Human Blood in New Study]]></summary>
-        <author>
-            <name>serverlessmom</name>
-            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
         </author>
     </entry>
 </feed>
