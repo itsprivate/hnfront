@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T03:47:55.897Z</updated>
+    <updated>2022-04-06T03:59:26.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[編寫NetBSD內核模塊]]></title>
+        <id>https://news.ycombinator.com/item?id=30927847</id>
+        <link href="https://news.ycombinator.com/item?id=30927847"/>
+        <updated>2022-04-06T02:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Writing a NetBSD Kernel Module]]></summary>
+        <author>
+            <name>jayp1418</name>
+            <uri>https://news.ycombinator.com/user?id=jayp1418</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我對這麼多學科感興趣，但我能用這些做什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30928105</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>RickJWagner</name>
             <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉他英雄玩家是個騙子]]></title>
-        <id>https://news.ycombinator.com/item?id=30851976</id>
-        <link href="https://news.ycombinator.com/item?id=30851976"/>
-        <updated>2022-03-30T06:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Guitar Hero Player Was a Cheat]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
