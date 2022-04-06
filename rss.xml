@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 15:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 15:57:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[请不要再称其为 "魔术"（2017）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30932923</link>
+            <guid>https://news.ycombinator.com/item?id=30932923</guid>
+            <pubDate>Wed, 06 Apr 2022 15:11:12 GMT</pubDate>
+            <description><![CDATA[Please stop calling it “magic” (2017)]]></description>
+        </item>
         <item>
             <title><![CDATA[有人在生产中使用SimH或QEMU与旧的架构/操作系统吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30932896</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30848330</guid>
             <pubDate>Tue, 29 Mar 2022 21:03:32 GMT</pubDate>
             <description><![CDATA[Lapsus$ and SolarWinds hackers both use the same old trick to bypass MFA]]></description>
-        </item>
-        <item>
-            <title><![CDATA[报税可以是免费和简单的。H&R Block和Intuit公司游说反对它 (2017)]]></title>
-            <link>https://news.ycombinator.com/item?id=30856968</link>
-            <guid>https://news.ycombinator.com/item?id=30856968</guid>
-            <pubDate>Wed, 30 Mar 2022 15:57:53 GMT</pubDate>
-            <description><![CDATA[Filing Taxes Could Be Free & Simple. H&R Block & Intuit Lobby Against It (2017)]]></description>
         </item>
     </channel>
 </rss>
