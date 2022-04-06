@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T19:52:40.538Z</updated>
+    <updated>2022-04-06T20:14:24.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[它知道 (2011)]]></title>
+        <id>https://news.ycombinator.com/item?id=30929778</id>
+        <link href="https://news.ycombinator.com/item?id=30929778"/>
+        <updated>2022-04-06T08:26:49.000Z</updated>
+        <summary type="html"><![CDATA[It Knows (2011)]]></summary>
+        <author>
+            <name>freddyym</name>
+            <uri>https://news.ycombinator.com/user?id=freddyym</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KeePassXC 2.7.1版发布]]></title>
         <id>https://news.ycombinator.com/item?id=30936485</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Hooke</name>
             <uri>https://news.ycombinator.com/user?id=Hooke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约翰霍普金斯大学的野兽]]></title>
-        <id>https://news.ycombinator.com/item?id=30861564</id>
-        <link href="https://news.ycombinator.com/item?id=30861564"/>
-        <updated>2022-03-30T22:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Johns Hopkins Beast]]></summary>
-        <author>
-            <name>Petiver</name>
-            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
         </author>
     </entry>
 </feed>
