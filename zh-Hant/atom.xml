@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T07:12:52.179Z</updated>
+    <updated>2022-04-06T07:31:32.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為科學破除多氯聯苯]]></title>
+        <id>https://news.ycombinator.com/item?id=30920173</id>
+        <link href="https://news.ycombinator.com/item?id=30920173"/>
+        <updated>2022-04-05T15:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Breaking PCBs for Science]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蝶變在合併後的/usr方面仍有問題]]></title>
         <id>https://news.ycombinator.com/item?id=30929024</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lermontov</name>
             <uri>https://news.ycombinator.com/user?id=lermontov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客評論是過去的事情了嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30853565</id>
-        <link href="https://news.ycombinator.com/item?id=30853565"/>
-        <updated>2022-03-30T11:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are blog comments a thing of the past?]]></summary>
-        <author>
-            <name>skilled</name>
-            <uri>https://news.ycombinator.com/user?id=skilled</uri>
         </author>
     </entry>
 </feed>
