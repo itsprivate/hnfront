@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T08:37:29.059Z</updated>
+    <updated>2022-04-06T08:54:17.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法拉利所有者Exor希望建立意大利的Y Combinator]]></title>
+        <id>https://news.ycombinator.com/item?id=30929665</id>
+        <link href="https://news.ycombinator.com/item?id=30929665"/>
+        <updated>2022-04-06T08:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Ferrari owner Exor wants to build the Italian Y Combinator]]></summary>
+        <author>
+            <name>cosenal</name>
+            <uri>https://news.ycombinator.com/user?id=cosenal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我需要停止無聊]]></title>
         <id>https://news.ycombinator.com/item?id=30929101</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>drousch</name>
             <uri>https://news.ycombinator.com/user?id=drousch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臉書付錢給戰略公司惡意攻擊TikTok]]></title>
-        <id>https://news.ycombinator.com/item?id=30853836</id>
-        <link href="https://news.ycombinator.com/item?id=30853836"/>
-        <updated>2022-03-30T11:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Facebook paid strategy firm to malign TikTok]]></summary>
-        <author>
-            <name>elsewhen</name>
-            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
         </author>
     </entry>
 </feed>
