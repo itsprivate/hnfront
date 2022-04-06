@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T22:34:37.876Z</updated>
+    <updated>2022-04-06T22:52:01.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MetricFlow - 開源的度量衡框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30938109</id>
+        <link href="https://news.ycombinator.com/item?id=30938109"/>
+        <updated>2022-04-06T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MetricFlow – open-source metric framework]]></summary>
+        <author>
+            <name>nicholashandel</name>
+            <uri>https://news.ycombinator.com/user?id=nicholashandel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倫敦第一家氯胺酮治療診所的內部情況]]></title>
         <id>https://news.ycombinator.com/item?id=30938074</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>johnqian</name>
             <uri>https://news.ycombinator.com/user?id=johnqian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有走過的路]]></title>
-        <id>https://news.ycombinator.com/item?id=30862400</id>
-        <link href="https://news.ycombinator.com/item?id=30862400"/>
-        <updated>2022-03-31T00:15:30.000Z</updated>
-        <summary type="html"><![CDATA[The Roads Not Taken]]></summary>
-        <author>
-            <name>sidhanthp</name>
-            <uri>https://news.ycombinator.com/user?id=sidhanthp</uri>
         </author>
     </entry>
 </feed>
