@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T15:16:26.092Z</updated>
+    <updated>2022-04-06T15:38:09.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人在生产中使用SimH或QEMU与旧的架构/操作系统吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30932896</id>
+        <link href="https://news.ycombinator.com/item?id=30932896"/>
+        <updated>2022-04-06T15:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is anyone using SimH or QEMU with an old architecture/OS in production?]]></summary>
+        <author>
+            <name>greatquux</name>
+            <uri>https://news.ycombinator.com/user?id=greatquux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bcachefs的开发者试图让文件系统再次进入Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=30932830</id>
+        <link href="https://news.ycombinator.com/item?id=30932830"/>
+        <updated>2022-04-06T15:04:58.000Z</updated>
+        <summary type="html"><![CDATA[Devs of bcachefs try to get filesystem into Linux again]]></summary>
+        <author>
+            <name>vanburen</name>
+            <uri>https://news.ycombinator.com/user?id=vanburen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创业失败的故事：20个月，花了2K小时，损失了20万欧元（2021）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30932770</id>
+        <link href="https://news.ycombinator.com/item?id=30932770"/>
+        <updated>2022-04-06T15:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Startup failure stories: 20 months in, 2K hours spent and 200K € lost (2021)]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[诺姆-乔姆斯基："我们正在接近人类历史上最危险的时刻"]]></title>
         <id>https://news.ycombinator.com/item?id=30932508</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>KerryJones</name>
             <uri>https://news.ycombinator.com/user?id=KerryJones</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泛型可以使你的Go代码更慢]]></title>
-        <id>https://news.ycombinator.com/item?id=30856804</id>
-        <link href="https://news.ycombinator.com/item?id=30856804"/>
-        <updated>2022-03-30T15:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Generics can make your Go code slower]]></summary>
-        <author>
-            <name>tanoku</name>
-            <uri>https://news.ycombinator.com/user?id=tanoku</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究表明，沙漠会 "呼吸 "水蒸气]]></title>
-        <id>https://news.ycombinator.com/item?id=30856636</id>
-        <link href="https://news.ycombinator.com/item?id=30856636"/>
-        <updated>2022-03-30T15:36:42.000Z</updated>
-        <summary type="html"><![CDATA[Deserts ‘breathe’ water vapor, study shows]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斐迪南-凡-凯瑟尔的《世界的四个部分》（约1689年）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30836080</id>
-        <link href="https://news.ycombinator.com/item?id=30836080"/>
-        <updated>2022-03-28T21:52:04.000Z</updated>
-        <summary type="html"><![CDATA[Ferdinand van Kessel’s Four Parts of the World (ca. 1689)]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
         </author>
     </entry>
 </feed>
