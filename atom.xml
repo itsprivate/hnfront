@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T21:32:51.011Z</updated>
+    <updated>2022-04-06T21:41:13.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分享你的个人网站]]></title>
+        <id>https://news.ycombinator.com/item?id=30934529</id>
+        <link href="https://news.ycombinator.com/item?id=30934529"/>
+        <updated>2022-04-06T16:48:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Share your personal site]]></summary>
+        <author>
+            <name>MaxLeiter</name>
+            <uri>https://news.ycombinator.com/user?id=MaxLeiter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dim，一个自我托管的媒体管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30922871</id>
+        <link href="https://news.ycombinator.com/item?id=30922871"/>
+        <updated>2022-04-05T18:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Dim, a self-hosted media manager]]></summary>
+        <author>
+            <name>ValentineC</name>
+            <uri>https://news.ycombinator.com/user?id=ValentineC</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个会说24种语言的地毯清洁工的非凡大脑]]></title>
+        <id>https://news.ycombinator.com/item?id=30920287</id>
+        <link href="https://news.ycombinator.com/item?id=30920287"/>
+        <updated>2022-04-05T15:31:04.000Z</updated>
+        <summary type="html"><![CDATA[The remarkable brain of a carpet cleaner who speaks 24 languages]]></summary>
+        <author>
+            <name>NaOH</name>
+            <uri>https://news.ycombinator.com/user?id=NaOH</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale的人类规模网络仍由谷歌和微软控制]]></title>
+        <id>https://news.ycombinator.com/item?id=30911109</id>
+        <link href="https://news.ycombinator.com/item?id=30911109"/>
+        <updated>2022-04-04T19:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Tailscale’s human-scale networks are still controlled by Google and Microsoft]]></summary>
+        <author>
+            <name>xrd</name>
+            <uri>https://news.ycombinator.com/user?id=xrd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TruffleHog v3 - 检测并自动验证600多种凭证类型]]></title>
+        <id>https://news.ycombinator.com/item?id=30910893</id>
+        <link href="https://news.ycombinator.com/item?id=30910893"/>
+        <updated>2022-04-04T19:21:30.000Z</updated>
+        <summary type="html"><![CDATA[TruffleHog v3 – Detect and automatically verify over 600 credential types]]></summary>
+        <author>
+            <name>riverdroid</name>
+            <uri>https://news.ycombinator.com/user?id=riverdroid</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda函数的URL。Lambda的内置HTTPS端点]]></title>
         <id>https://news.ycombinator.com/item?id=30937433</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>thedogeye</name>
             <uri>https://news.ycombinator.com/user?id=thedogeye</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牧羊犬3.5]]></title>
-        <id>https://news.ycombinator.com/item?id=30862612</id>
-        <link href="https://news.ycombinator.com/item?id=30862612"/>
-        <updated>2022-03-31T00:47:36.000Z</updated>
-        <summary type="html"><![CDATA[Mastodon 3.5]]></summary>
-        <author>
-            <name>smbv</name>
-            <uri>https://news.ycombinator.com/user?id=smbv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何利用周末促进心理健康]]></title>
-        <id>https://news.ycombinator.com/item?id=30862058</id>
-        <link href="https://news.ycombinator.com/item?id=30862058"/>
-        <updated>2022-03-30T23:18:41.000Z</updated>
-        <summary type="html"><![CDATA[How to use weekends for mental health]]></summary>
-        <author>
-            <name>prtkgpt</name>
-            <uri>https://news.ycombinator.com/user?id=prtkgpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偶像的话语]]></title>
-        <id>https://news.ycombinator.com/item?id=30860817</id>
-        <link href="https://news.ycombinator.com/item?id=30860817"/>
-        <updated>2022-03-30T21:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Idol Words]]></summary>
-        <author>
-            <name>andromaton</name>
-            <uri>https://news.ycombinator.com/user?id=andromaton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愚蠢的一贯性。领事在Fly.io]]></title>
-        <id>https://news.ycombinator.com/item?id=30857047</id>
-        <link href="https://news.ycombinator.com/item?id=30857047"/>
-        <updated>2022-03-30T16:01:40.000Z</updated>
-        <summary type="html"><![CDATA[A Foolish Consistency: Consul at Fly.io]]></summary>
-        <author>
-            <name>soheilpro</name>
-            <uri>https://news.ycombinator.com/user?id=soheilpro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个小型个人网站的入口]]></title>
-        <id>https://news.ycombinator.com/item?id=30856005</id>
-        <link href="https://news.ycombinator.com/item?id=30856005"/>
-        <updated>2022-03-30T14:52:09.000Z</updated>
-        <summary type="html"><![CDATA[The entrance to a small personal site]]></summary>
-        <author>
-            <name>dbrereton</name>
-            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
         </author>
     </entry>
 </feed>
