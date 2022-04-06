@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T03:59:26.663Z</updated>
+    <updated>2022-04-06T04:14:24.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VisiCalc]]></title>
+        <id>https://news.ycombinator.com/item?id=30928076</id>
+        <link href="https://news.ycombinator.com/item?id=30928076"/>
+        <updated>2022-04-06T03:14:24.000Z</updated>
+        <summary type="html"><![CDATA[VisiCalc]]></summary>
+        <author>
+            <name>timClicks</name>
+            <uri>https://news.ycombinator.com/user?id=timClicks</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作为一个单独的创始人，如何组织自己]]></title>
+        <id>https://news.ycombinator.com/item?id=30917940</id>
+        <link href="https://news.ycombinator.com/item?id=30917940"/>
+        <updated>2022-04-05T12:07:07.000Z</updated>
+        <summary type="html"><![CDATA[How to organize yourself as a solo founder]]></summary>
+        <author>
+            <name>gekkostate</name>
+            <uri>https://news.ycombinator.com/user?id=gekkostate</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[编写NetBSD内核模块]]></title>
         <id>https://news.ycombinator.com/item?id=30927847</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国国家恶意软件公司FinFisher破产了]]></title>
-        <id>https://news.ycombinator.com/item?id=30852255</id>
-        <link href="https://news.ycombinator.com/item?id=30852255"/>
-        <updated>2022-03-30T07:09:37.000Z</updated>
-        <summary type="html"><![CDATA[German State Malware Company FinFisher Is Bankrupt]]></summary>
-        <author>
-            <name>hacka22</name>
-            <uri>https://news.ycombinator.com/user?id=hacka22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在家工作的最糟糕的部分现在正困扰着重新开放的办公室]]></title>
-        <id>https://news.ycombinator.com/item?id=30841372</id>
-        <link href="https://news.ycombinator.com/item?id=30841372"/>
-        <updated>2022-03-29T11:54:31.000Z</updated>
-        <summary type="html"><![CDATA[The worst part of working from home is now haunting reopened offices]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
         </author>
     </entry>
 </feed>
