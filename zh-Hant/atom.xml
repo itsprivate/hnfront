@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T04:42:59.221Z</updated>
+    <updated>2022-04-06T05:30:33.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gephi--開放的圖譜維茲平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30915870</id>
+        <link href="https://news.ycombinator.com/item?id=30915870"/>
+        <updated>2022-04-05T06:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Gephi – The Open Graph Viz Platform]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本網站的設計]]></title>
         <id>https://news.ycombinator.com/item?id=30928081</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sharat87</name>
             <uri>https://news.ycombinator.com/user?id=sharat87</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS級聯]]></title>
-        <id>https://news.ycombinator.com/item?id=30828970</id>
-        <link href="https://news.ycombinator.com/item?id=30828970"/>
-        <updated>2022-03-28T10:08:01.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Cascade]]></summary>
-        <author>
-            <name>IA21</name>
-            <uri>https://news.ycombinator.com/user?id=IA21</uri>
         </author>
     </entry>
 </feed>
