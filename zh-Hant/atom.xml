@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T14:52:17.900Z</updated>
+    <updated>2022-04-06T15:16:26.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[諾姆-喬姆斯基："我們正在接近人類歷史上最危險的時刻"]]></title>
+        <id>https://news.ycombinator.com/item?id=30932508</id>
+        <link href="https://news.ycombinator.com/item?id=30932508"/>
+        <updated>2022-04-06T14:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Noam Chomsky: “We’re approaching the most dangerous point in human history”]]></summary>
+        <author>
+            <name>maram</name>
+            <uri>https://news.ycombinator.com/user?id=maram</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特爾將AMD的Zen微架構介紹變成了一項專利]]></title>
         <id>https://news.ycombinator.com/item?id=30932201</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prismatic</name>
             <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戴森空氣淨化耳機]]></title>
-        <id>https://news.ycombinator.com/item?id=30856651</id>
-        <link href="https://news.ycombinator.com/item?id=30856651"/>
-        <updated>2022-03-30T15:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Dyson Air-Purifying Headphones]]></summary>
-        <author>
-            <name>bribroder</name>
-            <uri>https://news.ycombinator.com/user?id=bribroder</uri>
         </author>
     </entry>
 </feed>
