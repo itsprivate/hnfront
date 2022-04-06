@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 02:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Navi--一個用於命令行的交互式小抄工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30925843</link>
+            <guid>https://news.ycombinator.com/item?id=30925843</guid>
+            <pubDate>Tue, 05 Apr 2022 22:22:24 GMT</pubDate>
+            <description><![CDATA[Navi- an interactive cheatsheet tool for the command line]]></description>
+        </item>
+        <item>
+            <title><![CDATA[骯髒的管道解釋]]></title>
+            <link>https://news.ycombinator.com/item?id=30917819</link>
+            <guid>https://news.ycombinator.com/item?id=30917819</guid>
+            <pubDate>Tue, 05 Apr 2022 11:52:41 GMT</pubDate>
+            <description><![CDATA[Dirty Pipe Explained]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在TypeScript的類型系統中模擬Lambda微積分（2021）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30916394</link>
+            <guid>https://news.ycombinator.com/item?id=30916394</guid>
+            <pubDate>Tue, 05 Apr 2022 07:56:53 GMT</pubDate>
+            <description><![CDATA[Emulating the Lambda Calculus in TypeScript's Type System (2021)]]></description>
+        </item>
         <item>
             <title><![CDATA[有錢人為何恐慌性購買恐慌性房間]]></title>
             <link>https://news.ycombinator.com/item?id=30926423</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30851919</guid>
             <pubDate>Wed, 30 Mar 2022 06:00:41 GMT</pubDate>
             <description><![CDATA[Possible Spring core RCE]]></description>
-        </item>
-        <item>
-            <title><![CDATA[孫原和彭宇的《不能自拔》。]]></title>
-            <link>https://news.ycombinator.com/item?id=30851819</link>
-            <guid>https://news.ycombinator.com/item?id=30851819</guid>
-            <pubDate>Wed, 30 Mar 2022 05:42:04 GMT</pubDate>
-            <description><![CDATA[Can't Help Myself by Sun Yuan and Peng Yu]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python中的預分配列表]]></title>
-            <link>https://news.ycombinator.com/item?id=30828523</link>
-            <guid>https://news.ycombinator.com/item?id=30828523</guid>
-            <pubDate>Mon, 28 Mar 2022 08:41:04 GMT</pubDate>
-            <description><![CDATA[Pre-Allocated Lists in Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個乾淨的替代Hacker News的界面]]></title>
-            <link>https://news.ycombinator.com/item?id=30851402</link>
-            <guid>https://news.ycombinator.com/item?id=30851402</guid>
-            <pubDate>Wed, 30 Mar 2022 04:07:02 GMT</pubDate>
-            <description><![CDATA[Show HN: A clean alternative Hacker News interface]]></description>
         </item>
     </channel>
 </rss>
