@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T17:46:17.883Z</updated>
+    <updated>2022-04-06T17:52:46.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州40%的小企业在过去两年中死亡]]></title>
+        <id>https://news.ycombinator.com/item?id=30925459</id>
+        <link href="https://news.ycombinator.com/item?id=30925459"/>
+        <updated>2022-04-05T21:47:19.000Z</updated>
+        <summary type="html"><![CDATA[40% of California's small businesses died in the last two years]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特尔的 "削弱AMD "功能（2019年）]]></title>
         <id>https://news.ycombinator.com/item?id=30935064</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[便携式调幅收音机是如何做到的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30858856</id>
-        <link href="https://news.ycombinator.com/item?id=30858856"/>
-        <updated>2022-03-30T18:20:48.000Z</updated>
-        <summary type="html"><![CDATA[How is portable AM radio possible?]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
         </author>
     </entry>
 </feed>
