@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T09:33:11.547Z</updated>
+    <updated>2022-04-06T09:43:50.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[至少有6500人死亡 在卡塔爾為世界盃建造體育場館]]></title>
+        <id>https://news.ycombinator.com/item?id=30930117</id>
+        <link href="https://news.ycombinator.com/item?id=30930117"/>
+        <updated>2022-04-06T09:27:02.000Z</updated>
+        <summary type="html"><![CDATA[At least 6,500 deaths constructing stadia in Qatar for the World Cup]]></summary>
+        <author>
+            <name>derriz</name>
+            <uri>https://news.ycombinator.com/user?id=derriz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GenieFramework - 用Julia進行Web開發]]></title>
         <id>https://news.ycombinator.com/item?id=30929873</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rootly (YC S21)正在招聘開發者關係人員]]></title>
-        <id>https://news.ycombinator.com/item?id=30853964</id>
-        <link href="https://news.ycombinator.com/item?id=30853964"/>
-        <updated>2022-03-30T12:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Rootly (YC S21) Is Hiring for Developer Relations]]></summary>
-        <author>
-            <name>jjtang1</name>
-            <uri>https://news.ycombinator.com/user?id=jjtang1</uri>
         </author>
     </entry>
 </feed>
