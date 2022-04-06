@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T08:15:24.645Z</updated>
+    <updated>2022-04-06T08:37:28.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我需要停止无聊]]></title>
+        <id>https://news.ycombinator.com/item?id=30929101</id>
+        <link href="https://news.ycombinator.com/item?id=30929101"/>
+        <updated>2022-04-06T06:39:23.000Z</updated>
+        <summary type="html"><![CDATA[I need to stop being boring]]></summary>
+        <author>
+            <name>patrickz</name>
+            <uri>https://news.ycombinator.com/user?id=patrickz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迪斯尼如何成为一个核电大国]]></title>
         <id>https://news.ycombinator.com/item?id=30929129</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>elsewhen</name>
             <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利德尔公司推出了与AWS的竞争者]]></title>
-        <id>https://news.ycombinator.com/item?id=30853778</id>
-        <link href="https://news.ycombinator.com/item?id=30853778"/>
-        <updated>2022-03-30T11:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Lidl has launched a rival to AWS]]></summary>
-        <author>
-            <name>FlyingSnake</name>
-            <uri>https://news.ycombinator.com/user?id=FlyingSnake</uri>
         </author>
     </entry>
 </feed>
