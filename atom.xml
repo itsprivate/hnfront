@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T14:32:42.030Z</updated>
+    <updated>2022-04-06T14:39:42.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你不是谷歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30931831</id>
+        <link href="https://news.ycombinator.com/item?id=30931831"/>
+        <updated>2022-04-06T13:40:43.000Z</updated>
+        <summary type="html"><![CDATA[You Are Not Google]]></summary>
+        <author>
+            <name>jeremylevy</name>
+            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dall-E 2]]></title>
         <id>https://news.ycombinator.com/item?id=30932095</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[住在邮轮上的退休人员]]></title>
-        <id>https://news.ycombinator.com/item?id=30855939</id>
-        <link href="https://news.ycombinator.com/item?id=30855939"/>
-        <updated>2022-03-30T14:46:50.000Z</updated>
-        <summary type="html"><![CDATA[The Retirees Who Live on Cruise Ships]]></summary>
-        <author>
-            <name>carlivar</name>
-            <uri>https://news.ycombinator.com/user?id=carlivar</uri>
         </author>
     </entry>
 </feed>
