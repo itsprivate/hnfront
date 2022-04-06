@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T12:59:44.772Z</updated>
+    <updated>2022-04-06T13:28:11.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[縮小範圍]]></title>
+        <id>https://news.ycombinator.com/item?id=30931475</id>
+        <link href="https://news.ycombinator.com/item?id=30931475"/>
+        <updated>2022-04-06T12:59:11.000Z</updated>
+        <summary type="html"><![CDATA[CircleCI Down]]></summary>
+        <author>
+            <name>prawnstar</name>
+            <uri>https://news.ycombinator.com/user?id=prawnstar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbolt底座中的PCIe以太網（如何避開Realtek）]]></title>
+        <id>https://news.ycombinator.com/item?id=30931404</id>
+        <link href="https://news.ycombinator.com/item?id=30931404"/>
+        <updated>2022-04-06T12:51:07.000Z</updated>
+        <summary type="html"><![CDATA[PCIe Ethernet in Thunderbolt docks (how to avoid Realtek)]]></summary>
+        <author>
+            <name>danieldk</name>
+            <uri>https://news.ycombinator.com/user?id=danieldk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter正在增加一個編輯按鈕]]></title>
+        <id>https://news.ycombinator.com/item?id=30931398</id>
+        <link href="https://news.ycombinator.com/item?id=30931398"/>
+        <updated>2022-04-06T12:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is adding an edit button]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T的網站在我每次刷新頁面時都會提高價格]]></title>
+        <id>https://news.ycombinator.com/item?id=30931348</id>
+        <link href="https://news.ycombinator.com/item?id=30931348"/>
+        <updated>2022-04-06T12:42:24.000Z</updated>
+        <summary type="html"><![CDATA[AT&T's website raising the price every time I refresh the page]]></summary>
+        <author>
+            <name>temp8964</name>
+            <uri>https://news.ycombinator.com/user?id=temp8964</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天空之城籌集1.5億美元，幫助補償因黑客攻擊而造成的用戶損失]]></title>
         <id>https://news.ycombinator.com/item?id=30931094</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>trptcolin</name>
             <uri>https://news.ycombinator.com/user?id=trptcolin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana Mimir]]></title>
-        <id>https://news.ycombinator.com/item?id=30854737</id>
-        <link href="https://news.ycombinator.com/item?id=30854737"/>
-        <updated>2022-03-30T13:13:21.000Z</updated>
-        <summary type="html"><![CDATA[Grafana Mimir]]></summary>
-        <author>
-            <name>dboreham</name>
-            <uri>https://news.ycombinator.com/user?id=dboreham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[設計一個REST API。Unix時間與ISO-8601的對比(2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=30854563</id>
-        <link href="https://news.ycombinator.com/item?id=30854563"/>
-        <updated>2022-03-30T13:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Designing a REST API: Unix Time vs. ISO-8601 (2013)]]></summary>
-        <author>
-            <name>ducaale</name>
-            <uri>https://news.ycombinator.com/user?id=ducaale</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack J Dongarra榮獲圖靈獎]]></title>
-        <id>https://news.ycombinator.com/item?id=30854526</id>
-        <link href="https://news.ycombinator.com/item?id=30854526"/>
-        <updated>2022-03-30T12:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Jack J Dongarra wins Turing Award]]></summary>
-        <author>
-            <name>ketanmaheshwari</name>
-            <uri>https://news.ycombinator.com/user?id=ketanmaheshwari</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana Mimir - 1B活動系列TSDB]]></title>
-        <id>https://news.ycombinator.com/item?id=30854734</id>
-        <link href="https://news.ycombinator.com/item?id=30854734"/>
-        <updated>2022-03-30T13:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Grafana Mimir – 1B active series TSDB]]></summary>
-        <author>
-            <name>devsecopsify</name>
-            <uri>https://news.ycombinator.com/user?id=devsecopsify</uri>
         </author>
     </entry>
 </feed>
