@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T19:37:07.053Z</updated>
+    <updated>2022-04-06T19:52:40.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[KeePassXC 2.7.1版发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30936485</id>
+        <link href="https://news.ycombinator.com/item?id=30936485"/>
+        <updated>2022-04-06T19:30:54.000Z</updated>
+        <summary type="html"><![CDATA[KeePassXC 2.7.1 Released]]></summary>
+        <author>
+            <name>louib</name>
+            <uri>https://news.ycombinator.com/user?id=louib</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你相信GNU的自由软件吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30935918</id>
+        <link href="https://news.ycombinator.com/item?id=30935918"/>
+        <updated>2022-04-06T18:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you believe in GNU's Free Software?]]></summary>
+        <author>
+            <name>ilovecaching</name>
+            <uri>https://news.ycombinator.com/user?id=ilovecaching</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为简单架构辩护]]></title>
         <id>https://news.ycombinator.com/item?id=30936189</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Petiver</name>
             <uri>https://news.ycombinator.com/user?id=Petiver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook正在消亡吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30860859</id>
-        <link href="https://news.ycombinator.com/item?id=30860859"/>
-        <updated>2022-03-30T21:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is Facebook Dying?]]></summary>
-        <author>
-            <name>labrador</name>
-            <uri>https://news.ycombinator.com/user?id=labrador</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JDK9上的Spring Core存在远程代码执行漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=30860352</id>
-        <link href="https://news.ycombinator.com/item?id=30860352"/>
-        <updated>2022-03-30T20:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Spring Core on JDK9 is vulnerable to remote code execution]]></summary>
-        <author>
-            <name>groundshark</name>
-            <uri>https://news.ycombinator.com/user?id=groundshark</uri>
         </author>
     </entry>
 </feed>
