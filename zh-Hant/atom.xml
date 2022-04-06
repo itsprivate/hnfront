@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T08:54:17.522Z</updated>
+    <updated>2022-04-06T09:33:11.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GenieFramework - 用Julia進行Web開發]]></title>
+        <id>https://news.ycombinator.com/item?id=30929873</id>
+        <link href="https://news.ycombinator.com/item?id=30929873"/>
+        <updated>2022-04-06T08:45:26.000Z</updated>
+        <summary type="html"><![CDATA[GenieFramework – Web Development with Julia]]></summary>
+        <author>
+            <name>msravi</name>
+            <uri>https://news.ycombinator.com/user?id=msravi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法拉利所有者Exor希望建立意大利的Y Combinator]]></title>
         <id>https://news.ycombinator.com/item?id=30929665</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jjtang1</name>
             <uri>https://news.ycombinator.com/user?id=jjtang1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於CI/CD的開放源碼和協作平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30853914</id>
-        <link href="https://news.ycombinator.com/item?id=30853914"/>
-        <updated>2022-03-30T11:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Open source and collaborative platform for CI/CD]]></summary>
-        <author>
-            <name>drousch</name>
-            <uri>https://news.ycombinator.com/user?id=drousch</uri>
         </author>
     </entry>
 </feed>
