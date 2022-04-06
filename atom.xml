@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T16:15:53.867Z</updated>
+    <updated>2022-04-06T16:52:11.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[良好的猜测者]]></title>
+        <id>https://news.ycombinator.com/item?id=30925917</id>
+        <link href="https://news.ycombinator.com/item?id=30925917"/>
+        <updated>2022-04-05T22:30:05.000Z</updated>
+        <summary type="html"><![CDATA[GoodGuesser]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Friday.app正在关闭]]></title>
         <id>https://news.ycombinator.com/item?id=30933379</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pandakar</name>
             <uri>https://news.ycombinator.com/user?id=pandakar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苯肾上腺素的无用性]]></title>
-        <id>https://news.ycombinator.com/item?id=30858202</id>
-        <link href="https://news.ycombinator.com/item?id=30858202"/>
-        <updated>2022-03-30T17:26:47.000Z</updated>
-        <summary type="html"><![CDATA[The Uselessness of Phenylephrine]]></summary>
-        <author>
-            <name>hprotagonist</name>
-            <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
         </author>
     </entry>
 </feed>
