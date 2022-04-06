@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T14:39:42.622Z</updated>
+    <updated>2022-04-06T14:52:17.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特爾將AMD的Zen微架構介紹變成了一項專利]]></title>
+        <id>https://news.ycombinator.com/item?id=30932201</id>
+        <link href="https://news.ycombinator.com/item?id=30932201"/>
+        <updated>2022-04-06T14:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Intel took an AMD Zen microarchitecture presentation and turned it into a patent]]></summary>
+        <author>
+            <name>Parseus</name>
+            <uri>https://news.ycombinator.com/user?id=Parseus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衰弱之塔。每個人的記憶模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30931818</id>
+        <link href="https://news.ycombinator.com/item?id=30931818"/>
+        <updated>2022-04-06T13:39:53.000Z</updated>
+        <summary type="html"><![CDATA[The Tower of Weakenings: Memory Models for Everyone]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你不是谷歌]]></title>
         <id>https://news.ycombinator.com/item?id=30931831</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bribroder</name>
             <uri>https://news.ycombinator.com/user?id=bribroder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Python中比較浮點數的正確方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30856434</id>
-        <link href="https://news.ycombinator.com/item?id=30856434"/>
-        <updated>2022-03-30T15:23:38.000Z</updated>
-        <summary type="html"><![CDATA[The Right Way to Compare Floats in Python]]></summary>
-        <author>
-            <name>EntICOnc</name>
-            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[潮人的PDA (2004)]]></title>
-        <id>https://news.ycombinator.com/item?id=30855951</id>
-        <link href="https://news.ycombinator.com/item?id=30855951"/>
-        <updated>2022-03-30T14:47:43.000Z</updated>
-        <summary type="html"><![CDATA[The Hipster PDA (2004)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
