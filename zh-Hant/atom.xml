@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-06T18:57:05.950Z</updated>
+    <updated>2022-04-06T19:10:48.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MIPS提供高度可擴展的RISC處理器IP]]></title>
+        <id>https://news.ycombinator.com/item?id=30935683</id>
+        <link href="https://news.ycombinator.com/item?id=30935683"/>
+        <updated>2022-04-06T18:24:26.000Z</updated>
+        <summary type="html"><![CDATA[MIPS provides highly scalable RISC processor IP]]></summary>
+        <author>
+            <name>kristianpaul</name>
+            <uri>https://news.ycombinator.com/user?id=kristianpaul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortran的現狀]]></title>
+        <id>https://news.ycombinator.com/item?id=30935633</id>
+        <link href="https://news.ycombinator.com/item?id=30935633"/>
+        <updated>2022-04-06T18:20:19.000Z</updated>
+        <summary type="html"><![CDATA[The State of Fortran]]></summary>
+        <author>
+            <name>MakisH</name>
+            <uri>https://news.ycombinator.com/user?id=MakisH</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們在達到200萬美元ARR時沒有做的事情]]></title>
         <id>https://news.ycombinator.com/item?id=30935709</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>igordebatur</name>
             <uri>https://news.ycombinator.com/user?id=igordebatur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rosta窗口]]></title>
-        <id>https://news.ycombinator.com/item?id=30851220</id>
-        <link href="https://news.ycombinator.com/item?id=30851220"/>
-        <updated>2022-03-30T03:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Rosta Windows]]></summary>
-        <author>
-            <name>brudgers</name>
-            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用智能（YC S17）正在招聘機器學習研究工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30860712</id>
-        <link href="https://news.ycombinator.com/item?id=30860712"/>
-        <updated>2022-03-30T21:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers]]></summary>
-        <author>
-            <name>kanjun</name>
-            <uri>https://news.ycombinator.com/user?id=kanjun</uri>
         </author>
     </entry>
 </feed>
