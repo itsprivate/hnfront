@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T08:38:01.400Z</updated>
+    <updated>2022-04-07T09:33:49.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[單元測試被高估了 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=30942020</id>
+        <link href="https://news.ycombinator.com/item?id=30942020"/>
+        <updated>2022-04-07T08:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Unit Testing is Overrated (2020)]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更小的芯片，更大的包裝，甚至更令人頭疼的問題（2021年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30930200</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>last_one_in</name>
             <uri>https://news.ycombinator.com/user?id=last_one_in</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大的汽車半導體問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30858166</id>
-        <link href="https://news.ycombinator.com/item?id=30858166"/>
-        <updated>2022-03-30T17:23:53.000Z</updated>
-        <summary type="html"><![CDATA[The Big Automotive Semiconductor Problem]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
