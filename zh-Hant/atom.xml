@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T13:02:42.990Z</updated>
+    <updated>2022-04-07T13:26:20.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新報》。重新啟動]]></title>
+        <id>https://news.ycombinator.com/item?id=30943996</id>
+        <link href="https://news.ycombinator.com/item?id=30943996"/>
+        <updated>2022-04-07T13:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Novaya Gazeta: Relaunch]]></summary>
+        <author>
+            <name>zqna</name>
+            <uri>https://news.ycombinator.com/user?id=zqna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全民基本收入會導致通貨膨脹嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30943530</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼黑色MacBook價格更高]]></title>
-        <id>https://news.ycombinator.com/item?id=30868053</id>
-        <link href="https://news.ycombinator.com/item?id=30868053"/>
-        <updated>2022-03-31T15:08:37.000Z</updated>
-        <summary type="html"><![CDATA[Why the Black MacBook Cost More]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
