@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T21:12:56.264Z</updated>
+    <updated>2022-04-07T21:31:29.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[樹莓派更新刪除了默認用戶]]></title>
+        <id>https://news.ycombinator.com/item?id=30949132</id>
+        <link href="https://news.ycombinator.com/item?id=30949132"/>
+        <updated>2022-04-07T19:17:56.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pi update removes the default user]]></summary>
+        <author>
+            <name>ez_mmk</name>
+            <uri>https://news.ycombinator.com/user?id=ez_mmk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[繆斯（YC W12）正在招聘一名高級平臺工程師（瞭解更多）。]]></title>
         <id>https://news.ycombinator.com/item?id=30950300</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他們的工作場所禪的秘密？固定電話和以太網線]]></title>
-        <id>https://news.ycombinator.com/item?id=30858295</id>
-        <link href="https://news.ycombinator.com/item?id=30858295"/>
-        <updated>2022-03-30T17:33:57.000Z</updated>
-        <summary type="html"><![CDATA[Their secret for workplace Zen? Landlines and Ethernet cords]]></summary>
-        <author>
-            <name>imartin2k</name>
-            <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
         </author>
     </entry>
 </feed>
