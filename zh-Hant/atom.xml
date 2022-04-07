@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T15:48:33.089Z</updated>
+    <updated>2022-04-07T15:57:56.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[元數學的物理化和對其基礎的影響]]></title>
+        <id>https://news.ycombinator.com/item?id=30945929</id>
+        <link href="https://news.ycombinator.com/item?id=30945929"/>
+        <updated>2022-04-07T15:37:48.000Z</updated>
+        <summary type="html"><![CDATA[The Physicalization of Metamathematics and the Implications for Its Foundations]]></summary>
+        <author>
+            <name>SvenSchnieders</name>
+            <uri>https://news.ycombinator.com/user?id=SvenSchnieders</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於org-mode的樹狀語法]]></title>
+        <id>https://news.ycombinator.com/item?id=30945926</id>
+        <link href="https://news.ycombinator.com/item?id=30945926"/>
+        <updated>2022-04-07T15:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Tree-sitter grammar for org-mode]]></summary>
+        <author>
+            <name>happy-dude</name>
+            <uri>https://news.ycombinator.com/user?id=happy-dude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[單晶硅的優勢]]></title>
         <id>https://news.ycombinator.com/item?id=30945613</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cassepipe</name>
             <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用人工智能重塑人類身體類型]]></title>
-        <id>https://news.ycombinator.com/item?id=30866004</id>
-        <link href="https://news.ycombinator.com/item?id=30866004"/>
-        <updated>2022-03-31T11:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Reshaping Human Body Types with AI]]></summary>
-        <author>
-            <name>Hard_Space</name>
-            <uri>https://news.ycombinator.com/user?id=Hard_Space</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GiveCampus (YC S15)正在招聘美國遠程工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30869558</id>
-        <link href="https://news.ycombinator.com/item?id=30869558"/>
-        <updated>2022-03-31T17:00:07.000Z</updated>
-        <summary type="html"><![CDATA[GiveCampus (YC S15) Is Hiring US Remote Engineers]]></summary>
-        <author>
-            <name>mkong1</name>
-            <uri>https://news.ycombinator.com/user?id=mkong1</uri>
         </author>
     </entry>
 </feed>
