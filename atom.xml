@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T17:48:44.082Z</updated>
+    <updated>2022-04-07T18:17:23.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[支持WASM编译的Ruby 3.2预览版1可在浏览器中运行]]></title>
+        <id>https://news.ycombinator.com/item?id=30947793</id>
+        <link href="https://news.ycombinator.com/item?id=30947793"/>
+        <updated>2022-04-07T17:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Ruby 3.2 preview 1 with support for WASM compilation can run in browser]]></summary>
+        <author>
+            <name>pvsukale3</name>
+            <uri>https://news.ycombinator.com/user?id=pvsukale3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件工程师可以从 "快速 "的快速崩溃中学习什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30947595</id>
+        <link href="https://news.ycombinator.com/item?id=30947595"/>
+        <updated>2022-04-07T17:23:16.000Z</updated>
+        <summary type="html"><![CDATA[What software engineers can learn from the rapid collapse of Fast]]></summary>
+        <author>
+            <name>gregdoesit</name>
+            <uri>https://news.ycombinator.com/user?id=gregdoesit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pipedream 2.0 - AWS Lambda + Zapier替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30941740</id>
+        <link href="https://news.ycombinator.com/item?id=30941740"/>
+        <updated>2022-04-07T07:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pipedream 2.0 – AWS Lambda + Zapier alternative]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codestat.dev - 来自200万个开放源码库的统计资料]]></title>
+        <id>https://news.ycombinator.com/item?id=30940251</id>
+        <link href="https://news.ycombinator.com/item?id=30940251"/>
+        <updated>2022-04-07T03:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Codestat.dev – Stats from 2M open-source repositories]]></summary>
+        <author>
+            <name>slimsag</name>
+            <uri>https://news.ycombinator.com/user?id=slimsag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript 和 Rust 一样快。TypeScript++]]></title>
         <id>https://news.ycombinator.com/item?id=30947680</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>DyslexicAtheist</name>
             <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tenex固态容积式OLED显示器]]></title>
-        <id>https://news.ycombinator.com/item?id=30854834</id>
-        <link href="https://news.ycombinator.com/item?id=30854834"/>
-        <updated>2022-03-30T13:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Tenex Solid State Volumetric OLED Display]]></summary>
-        <author>
-            <name>MrBuddyCasino</name>
-            <uri>https://news.ycombinator.com/user?id=MrBuddyCasino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奇点临近]]></title>
-        <id>https://news.ycombinator.com/item?id=30871775</id>
-        <link href="https://news.ycombinator.com/item?id=30871775"/>
-        <updated>2022-03-31T20:19:20.000Z</updated>
-        <summary type="html"><![CDATA[The Singularity Is Close]]></summary>
-        <author>
-            <name>mkaic</name>
-            <uri>https://news.ycombinator.com/user?id=mkaic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana可以运行Doom吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30871697</id>
-        <link href="https://news.ycombinator.com/item?id=30871697"/>
-        <updated>2022-03-31T20:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Can Grafana Run Doom?]]></summary>
-        <author>
-            <name>thinkmassive</name>
-            <uri>https://news.ycombinator.com/user?id=thinkmassive</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["这不应该发生"。猎杀病毒的非营利组织生态健康联盟的内部情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30870435</id>
-        <link href="https://news.ycombinator.com/item?id=30870435"/>
-        <updated>2022-03-31T18:12:19.000Z</updated>
-        <summary type="html"><![CDATA[“This shouldn’t happen”: Inside the virus-hunting nonprofit EcoHealth Alliance]]></summary>
-        <author>
-            <name>jashkenas</name>
-            <uri>https://news.ycombinator.com/user?id=jashkenas</uri>
         </author>
     </entry>
 </feed>
