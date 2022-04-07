@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 22:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 23:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在libmshr中發現了一個271,800字符的拆分符號名稱]]></title>
+            <link>https://news.ycombinator.com/item?id=30951018</link>
+            <guid>https://news.ycombinator.com/item?id=30951018</guid>
+            <pubDate>Thu, 07 Apr 2022 22:20:16 GMT</pubDate>
+            <description><![CDATA[I found a 271,800 character demangled symbol name in libmshr]]></description>
+        </item>
         <item>
             <title><![CDATA[鳥類比人類更適合做雙足機器人]]></title>
             <link>https://news.ycombinator.com/item?id=30950780</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30873727</guid>
             <pubDate>Fri, 01 Apr 2022 00:08:33 GMT</pubDate>
             <description><![CDATA[Magician's Own Book: Experiments in Electricity (1862)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[虛假的緊急搜查令引起國會山的審查]]></title>
-            <link>https://news.ycombinator.com/item?id=30873211</link>
-            <guid>https://news.ycombinator.com/item?id=30873211</guid>
-            <pubDate>Thu, 31 Mar 2022 23:00:58 GMT</pubDate>
-            <description><![CDATA[Fake emergency search warrants draw scrutiny from Capitol Hill]]></description>
         </item>
     </channel>
 </rss>

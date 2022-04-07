@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T22:51:21.984Z</updated>
+    <updated>2022-04-07T23:13:49.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在libmshr中发现了一个271,800字符的拆分符号名称]]></title>
+        <id>https://news.ycombinator.com/item?id=30951018</id>
+        <link href="https://news.ycombinator.com/item?id=30951018"/>
+        <updated>2022-04-07T22:20:16.000Z</updated>
+        <summary type="html"><![CDATA[I found a 271,800 character demangled symbol name in libmshr]]></summary>
+        <author>
+            <name>AntiRush</name>
+            <uri>https://news.ycombinator.com/user?id=AntiRush</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鸟类比人类更适合做双足机器人]]></title>
         <id>https://news.ycombinator.com/item?id=30950780</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thomassmith65</name>
             <uri>https://news.ycombinator.com/user?id=thomassmith65</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚假的紧急搜查令引起国会山的审查]]></title>
-        <id>https://news.ycombinator.com/item?id=30873211</id>
-        <link href="https://news.ycombinator.com/item?id=30873211"/>
-        <updated>2022-03-31T23:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Fake emergency search warrants draw scrutiny from Capitol Hill]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
