@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T07:13:49.348Z</updated>
+    <updated>2022-04-07T07:41:21.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[邓巴的数字和演讲是如何比挑跳蚤好2.8倍的]]></title>
+        <id>https://news.ycombinator.com/item?id=30931112</id>
+        <link href="https://news.ycombinator.com/item?id=30931112"/>
+        <updated>2022-04-06T12:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Dunbar’s number and how speaking is 2.8x better than picking fleas]]></summary>
+        <author>
+            <name>Amorymeltzer</name>
+            <uri>https://news.ycombinator.com/user?id=Amorymeltzer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Piepacker (YC S20)正在招聘中]]></title>
         <id>https://news.ycombinator.com/item?id=30941488</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ghostoftiber</name>
             <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：Adobe从其网站上撤下了PDF 1.7规范]]></title>
-        <id>https://news.ycombinator.com/item?id=30865719</id>
-        <link href="https://news.ycombinator.com/item?id=30865719"/>
-        <updated>2022-03-31T10:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Adobe took down the PDF 1.7 specification from their site]]></summary>
-        <author>
-            <name>steerablesafe</name>
-            <uri>https://news.ycombinator.com/user?id=steerablesafe</uri>
         </author>
     </entry>
 </feed>
