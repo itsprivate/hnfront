@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T13:48:29.502Z</updated>
+    <updated>2022-04-07T14:36:53.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我停止了各地的广告，但什么也没有发生]]></title>
+        <id>https://news.ycombinator.com/item?id=30944524</id>
+        <link href="https://news.ycombinator.com/item?id=30944524"/>
+        <updated>2022-04-07T14:01:03.000Z</updated>
+        <summary type="html"><![CDATA[I stopped advertising everywhere and nothing happened]]></summary>
+        <author>
+            <name>deeeej</name>
+            <uri>https://news.ycombinator.com/user?id=deeeej</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在使用Linux 15年后使用Windows]]></title>
+        <id>https://news.ycombinator.com/item?id=30944438</id>
+        <link href="https://news.ycombinator.com/item?id=30944438"/>
+        <updated>2022-04-07T13:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Using Windows after 15 years on Linux]]></summary>
+        <author>
+            <name>dflock</name>
+            <uri>https://news.ycombinator.com/user?id=dflock</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大脑图表：绘制大脑在一生中的快速增长和缓慢下降的地图]]></title>
         <id>https://news.ycombinator.com/item?id=30943370</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>antidnan</name>
             <uri>https://news.ycombinator.com/user?id=antidnan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们分析了10万个技术面试，看看表现最好的人在哪里工作。]]></title>
-        <id>https://news.ycombinator.com/item?id=30868629</id>
-        <link href="https://news.ycombinator.com/item?id=30868629"/>
-        <updated>2022-03-31T15:56:39.000Z</updated>
-        <summary type="html"><![CDATA[We analyzed 100K technical interviews to see where the best performers work]]></summary>
-        <author>
-            <name>leeny</name>
-            <uri>https://news.ycombinator.com/user?id=leeny</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres容器应用程序（beta）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30867644</id>
-        <link href="https://news.ycombinator.com/item?id=30867644"/>
-        <updated>2022-03-31T14:32:59.000Z</updated>
-        <summary type="html"><![CDATA[Postgres Container Apps (beta)]]></summary>
-        <author>
-            <name>mattrighetti</name>
-            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
         </author>
     </entry>
 </feed>
