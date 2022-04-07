@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T21:31:29.424Z</updated>
+    <updated>2022-04-07T21:52:16.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[邓诺尼亚。第一个专门针对AWS Lambda的恶意软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30945900</id>
+        <link href="https://news.ycombinator.com/item?id=30945900"/>
+        <updated>2022-04-07T15:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Denonia: The First Malware Specifically Targeting AWS Lambda]]></summary>
+        <author>
+            <name>jaboutboul</name>
+            <uri>https://news.ycombinator.com/user?id=jaboutboul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[树莓派更新删除了默认用户]]></title>
         <id>https://news.ycombinator.com/item?id=30949132</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Pxtl</name>
             <uri>https://news.ycombinator.com/user?id=Pxtl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何选择？(2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=30853328</id>
-        <link href="https://news.ycombinator.com/item?id=30853328"/>
-        <updated>2022-03-30T10:16:40.000Z</updated>
-        <summary type="html"><![CDATA[How to Choose? (2014)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
