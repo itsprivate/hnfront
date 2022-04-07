@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T14:52:39.130Z</updated>
+    <updated>2022-04-07T15:15:12.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ACM開放第一個50年的背景資料]]></title>
+        <id>https://news.ycombinator.com/item?id=30944881</id>
+        <link href="https://news.ycombinator.com/item?id=30944881"/>
+        <updated>2022-04-07T14:30:16.000Z</updated>
+        <summary type="html"><![CDATA[ACM Opens First 50 Years Backfile]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[離開加州？2022年指南：搬到哪個州最好？]]></title>
         <id>https://news.ycombinator.com/item?id=30944836</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lightslit</name>
             <uri>https://news.ycombinator.com/user?id=lightslit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刮刮樂Instagram]]></title>
-        <id>https://news.ycombinator.com/item?id=30868738</id>
-        <link href="https://news.ycombinator.com/item?id=30868738"/>
-        <updated>2022-03-31T16:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Scraping Instagram]]></summary>
-        <author>
-            <name>mateuszbuda</name>
-            <uri>https://news.ycombinator.com/user?id=mateuszbuda</uri>
         </author>
     </entry>
 </feed>
