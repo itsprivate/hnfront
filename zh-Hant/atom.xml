@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T06:39:48.816Z</updated>
+    <updated>2022-04-07T06:58:21.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我想我今天會有更多的成就，也是在我35歲之前。]]></title>
+        <id>https://news.ycombinator.com/item?id=30941053</id>
+        <link href="https://news.ycombinator.com/item?id=30941053"/>
+        <updated>2022-04-07T05:51:52.000Z</updated>
+        <summary type="html"><![CDATA[I thought I would have accomplished a lot more today and also before I was 35]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手工優化TCC代碼生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30941097</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AgileMD (YC S11)正在招聘企業技術支持人員]]></title>
-        <id>https://news.ycombinator.com/item?id=30866231</id>
-        <link href="https://news.ycombinator.com/item?id=30866231"/>
-        <updated>2022-03-31T12:01:04.000Z</updated>
-        <summary type="html"><![CDATA[AgileMD (YC S11) Is Hiring Enterprise Technical Support]]></summary>
-        <author>
-            <name>borna</name>
-            <uri>https://news.ycombinator.com/user?id=borna</uri>
         </author>
     </entry>
 </feed>
