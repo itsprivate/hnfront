@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T15:57:56.083Z</updated>
+    <updated>2022-04-07T16:15:14.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加拿大將禁止外國人購買房屋]]></title>
+        <id>https://news.ycombinator.com/item?id=30945444</id>
+        <link href="https://news.ycombinator.com/item?id=30945444"/>
+        <updated>2022-04-07T15:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Canada to Ban Foreigners from Buying Homes]]></summary>
+        <author>
+            <name>thazework</name>
+            <uri>https://news.ycombinator.com/user?id=thazework</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元數學的物理化和對其基礎的影響]]></title>
         <id>https://news.ycombinator.com/item?id=30945929</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>matiskay</name>
             <uri>https://news.ycombinator.com/user?id=matiskay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[線性代數的直觀指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30866244</id>
-        <link href="https://news.ycombinator.com/item?id=30866244"/>
-        <updated>2022-03-31T12:03:52.000Z</updated>
-        <summary type="html"><![CDATA[An Intuitive Guide to Linear Algebra]]></summary>
-        <author>
-            <name>cassepipe</name>
-            <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
         </author>
     </entry>
 </feed>
