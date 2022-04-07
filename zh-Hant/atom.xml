@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T02:21:14.739Z</updated>
+    <updated>2022-04-07T03:09:14.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡斯卡特。CSS到聲音的現場編碼系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30929946</id>
+        <link href="https://news.ycombinator.com/item?id=30929946"/>
+        <updated>2022-04-06T08:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Cascade: CSS to sound live coding system]]></summary>
+        <author>
+            <name>tarball</name>
+            <uri>https://news.ycombinator.com/user?id=tarball</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[正餐--20和30年代的食品]]></title>
         <id>https://news.ycombinator.com/item?id=30939482</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年世界盃足球賽: Al Rihla]]></title>
-        <id>https://news.ycombinator.com/item?id=30855249</id>
-        <link href="https://news.ycombinator.com/item?id=30855249"/>
-        <updated>2022-03-30T13:53:30.000Z</updated>
-        <summary type="html"><![CDATA[2022 World Cup Ball: Al Rihla]]></summary>
-        <author>
-            <name>brudgers</name>
-            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
         </author>
     </entry>
 </feed>
