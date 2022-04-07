@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T19:27:56.194Z</updated>
+    <updated>2022-04-07T19:52:16.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從背景塌陷到內容塌陷]]></title>
+        <id>https://news.ycombinator.com/item?id=30943039</id>
+        <link href="https://news.ycombinator.com/item?id=30943039"/>
+        <updated>2022-04-07T11:20:09.000Z</updated>
+        <summary type="html"><![CDATA[From context collapse to content collapse]]></summary>
+        <author>
+            <name>pmlnr</name>
+            <uri>https://news.ycombinator.com/user?id=pmlnr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS降低了PrivateLink、Transit Gateway、Client VPN的數據傳輸價格]]></title>
         <id>https://news.ycombinator.com/item?id=30948994</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>philosopher1234</name>
             <uri>https://news.ycombinator.com/user?id=philosopher1234</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速]]></title>
-        <id>https://news.ycombinator.com/item?id=30872279</id>
-        <link href="https://news.ycombinator.com/item?id=30872279"/>
-        <updated>2022-03-31T21:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Fast]]></summary>
-        <author>
-            <name>TheAlchemist</name>
-            <uri>https://news.ycombinator.com/user?id=TheAlchemist</uri>
         </author>
     </entry>
 </feed>
