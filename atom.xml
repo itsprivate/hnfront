@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T09:33:48.916Z</updated>
+    <updated>2022-04-07T09:43:04.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用VQGAN和Clip的初始图像]]></title>
+        <id>https://news.ycombinator.com/item?id=30935254</id>
+        <link href="https://news.ycombinator.com/item?id=30935254"/>
+        <updated>2022-04-06T17:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Using initial images with VQGAN and Clip]]></summary>
+        <author>
+            <name>mattkevan</name>
+            <uri>https://news.ycombinator.com/user?id=mattkevan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单元测试被高估了 (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=30942020</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个愚蠢的游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30867002</id>
-        <link href="https://news.ycombinator.com/item?id=30867002"/>
-        <updated>2022-03-31T13:36:05.000Z</updated>
-        <summary type="html"><![CDATA[I Made a Stupid Game]]></summary>
-        <author>
-            <name>last_one_in</name>
-            <uri>https://news.ycombinator.com/user?id=last_one_in</uri>
         </author>
     </entry>
 </feed>

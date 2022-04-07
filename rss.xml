@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 09:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用VQGAN和Clip的初始图像]]></title>
+            <link>https://news.ycombinator.com/item?id=30935254</link>
+            <guid>https://news.ycombinator.com/item?id=30935254</guid>
+            <pubDate>Wed, 06 Apr 2022 17:46:47 GMT</pubDate>
+            <description><![CDATA[Using initial images with VQGAN and Clip]]></description>
+        </item>
         <item>
             <title><![CDATA[单元测试被高估了 (2020)]]></title>
             <link>https://news.ycombinator.com/item?id=30942020</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30867227</guid>
             <pubDate>Thu, 31 Mar 2022 13:56:27 GMT</pubDate>
             <description><![CDATA[Missing wheat from the war is less than 1% of global wheat crop]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个愚蠢的游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30867002</link>
-            <guid>https://news.ycombinator.com/item?id=30867002</guid>
-            <pubDate>Thu, 31 Mar 2022 13:36:05 GMT</pubDate>
-            <description><![CDATA[I Made a Stupid Game]]></description>
         </item>
     </channel>
 </rss>
