@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-07T04:41:53.398Z</updated>
+    <updated>2022-04-07T04:59:23.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在一次调用中收集多个系统参数]]></title>
+        <id>https://news.ycombinator.com/item?id=30940337</id>
+        <link href="https://news.ycombinator.com/item?id=30940337"/>
+        <updated>2022-04-07T03:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Gathering multiple system parameters in a single call]]></summary>
+        <author>
+            <name>bitcharmer</name>
+            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能够看到专业知识是一个值得追求的里程碑]]></title>
         <id>https://news.ycombinator.com/item?id=30930985</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dharmatech</name>
             <uri>https://news.ycombinator.com/user?id=dharmatech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x86系统的指针标记]]></title>
-        <id>https://news.ycombinator.com/item?id=30865423</id>
-        <link href="https://news.ycombinator.com/item?id=30865423"/>
-        <updated>2022-03-31T09:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Pointer Tagging for x86 Systems]]></summary>
-        <author>
-            <name>rwmj</name>
-            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
         </author>
     </entry>
 </feed>
