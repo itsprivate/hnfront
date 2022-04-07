@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 19:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 20:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特上不断增加的围墙花园]]></title>
+            <link>https://news.ycombinator.com/item?id=30949048</link>
+            <guid>https://news.ycombinator.com/item?id=30949048</guid>
+            <pubDate>Thu, 07 Apr 2022 19:10:48 GMT</pubDate>
+            <description><![CDATA[The ever-increasing walled-gardeness of Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[从背景塌陷到内容塌陷]]></title>
             <link>https://news.ycombinator.com/item?id=30943039</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30872361</guid>
             <pubDate>Thu, 31 Mar 2022 21:23:35 GMT</pubDate>
             <description><![CDATA[Why Not Signal?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go Mod的鲜为人知的功能]]></title>
-            <link>https://news.ycombinator.com/item?id=30872168</link>
-            <guid>https://news.ycombinator.com/item?id=30872168</guid>
-            <pubDate>Thu, 31 Mar 2022 21:01:56 GMT</pubDate>
-            <description><![CDATA[Go Mod’s Lesser Known Features]]></description>
         </item>
     </channel>
 </rss>
