@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T14:57:59.750Z</updated>
+    <updated>2022-04-08T15:19:11.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[猴岛归来，2022年到来]]></title>
+        <id>https://news.ycombinator.com/item?id=30957917</id>
+        <link href="https://news.ycombinator.com/item?id=30957917"/>
+        <updated>2022-04-08T15:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Return to Monkey Island, Coming 2022]]></summary>
+        <author>
+            <name>endymi0n</name>
+            <uri>https://news.ycombinator.com/user?id=endymi0n</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[静态网站生成器，86行]]></title>
+        <id>https://news.ycombinator.com/item?id=30957181</id>
+        <link href="https://news.ycombinator.com/item?id=30957181"/>
+        <updated>2022-04-08T14:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Static Site Generator in 86 Lines]]></summary>
+        <author>
+            <name>malkosta</name>
+            <uri>https://news.ycombinator.com/user?id=malkosta</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们唯一应该讨论的是气候危机]]></title>
         <id>https://news.ycombinator.com/item?id=30957338</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>silentprog</name>
             <uri>https://news.ycombinator.com/user?id=silentprog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微服务世界中的授权]]></title>
-        <id>https://news.ycombinator.com/item?id=30878926</id>
-        <link href="https://news.ycombinator.com/item?id=30878926"/>
-        <updated>2022-04-01T15:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Authorization in a Microservices World]]></summary>
-        <author>
-            <name>zaplin</name>
-            <uri>https://news.ycombinator.com/user?id=zaplin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在招聘？(2022年4月)]]></title>
-        <id>https://news.ycombinator.com/item?id=30878761</id>
-        <link href="https://news.ycombinator.com/item?id=30878761"/>
-        <updated>2022-04-01T15:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is hiring? (April 2022)]]></summary>
-        <author>
-            <name>whoishiring</name>
-            <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
         </author>
     </entry>
 </feed>
