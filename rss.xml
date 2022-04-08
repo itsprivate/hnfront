@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 08 Apr 2022 08:38:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你可以在JavaScript中抛出()任何东西 - 以及其他异步/等待的考虑因素]]></title>
+            <link>https://news.ycombinator.com/item?id=30942556</link>
+            <guid>https://news.ycombinator.com/item?id=30942556</guid>
+            <pubDate>Thu, 07 Apr 2022 09:54:24 GMT</pubDate>
+            <description><![CDATA[You Can Throw() Anything in JavaScript – and Other Async/Await Considerations]]></description>
+        </item>
         <item>
             <title><![CDATA[SpaceX的星际飞船。美国的秘密武器]]></title>
             <link>https://news.ycombinator.com/item?id=30950087</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30853511</guid>
             <pubDate>Wed, 30 Mar 2022 10:51:21 GMT</pubDate>
             <description><![CDATA[Chronic lower back pain linked to atrophy in pain-related brain regions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不应使用PCA进行特征选择的5个原因]]></title>
-            <link>https://news.ycombinator.com/item?id=30876293</link>
-            <guid>https://news.ycombinator.com/item?id=30876293</guid>
-            <pubDate>Fri, 01 Apr 2022 08:37:59 GMT</pubDate>
-            <description><![CDATA[5 Reasons You Should Never Use PCA for Feature Selection]]></description>
         </item>
     </channel>
 </rss>
