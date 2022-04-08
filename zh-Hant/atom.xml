@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T13:00:07.942Z</updated>
+    <updated>2022-04-08T13:28:55.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個數學聚會遊戲告訴我們關於圖論的信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30941482</id>
+        <link href="https://news.ycombinator.com/item?id=30941482"/>
+        <updated>2022-04-07T06:59:26.000Z</updated>
+        <summary type="html"><![CDATA[What a Math Party Game Tells Us About Graph Theory]]></summary>
+        <author>
+            <name>indogooner</name>
+            <uri>https://news.ycombinator.com/user?id=indogooner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道哪些基於生物理唸的算法？]]></title>
         <id>https://news.ycombinator.com/item?id=30955837</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jstreebin</name>
             <uri>https://news.ycombinator.com/user?id=jstreebin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼PC沒有更好的熵源？]]></title>
-        <id>https://news.ycombinator.com/item?id=30877296</id>
-        <link href="https://news.ycombinator.com/item?id=30877296"/>
-        <updated>2022-04-01T12:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't PCs have better entropy sources?]]></summary>
-        <author>
-            <name>bloopernova</name>
-            <uri>https://news.ycombinator.com/user?id=bloopernova</uri>
         </author>
     </entry>
 </feed>
