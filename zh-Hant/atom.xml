@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T05:30:25.271Z</updated>
+    <updated>2022-04-08T05:38:51.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA['07年的住房不是泡沫'是一個幾乎沒有人相信的真實說法。]]></title>
+        <id>https://news.ycombinator.com/item?id=30952723</id>
+        <link href="https://news.ycombinator.com/item?id=30952723"/>
+        <updated>2022-04-08T02:33:38.000Z</updated>
+        <summary type="html"><![CDATA[‘Housing in ‘07 wasn’t a bubble” is a true statement that almost no one believes]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於GTK的桌面環境還有沒有前途？]]></title>
         <id>https://news.ycombinator.com/item?id=30953218</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jdkee</name>
             <uri>https://news.ycombinator.com/user?id=jdkee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spin - WebAssembly框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30875310</id>
-        <link href="https://news.ycombinator.com/item?id=30875310"/>
-        <updated>2022-04-01T04:55:26.000Z</updated>
-        <summary type="html"><![CDATA[Spin – WebAssembly Framework]]></summary>
-        <author>
-            <name>rammy1234</name>
-            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
         </author>
     </entry>
 </feed>
