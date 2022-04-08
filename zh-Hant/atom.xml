@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T18:15:50.902Z</updated>
+    <updated>2022-04-08T18:41:22.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zaplib - 用Rust+Wasm加速你的webapp]]></title>
+        <id>https://news.ycombinator.com/item?id=30960509</id>
+        <link href="https://news.ycombinator.com/item?id=30960509"/>
+        <updated>2022-04-08T18:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zaplib – Speed up your webapp with Rust+Wasm]]></summary>
+        <author>
+            <name>stevekrouse</name>
+            <uri>https://news.ycombinator.com/user?id=stevekrouse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究表明，Gmail將更多來自保守派的電子郵件發送為垃圾郵件]]></title>
+        <id>https://news.ycombinator.com/item?id=30960246</id>
+        <link href="https://news.ycombinator.com/item?id=30960246"/>
+        <updated>2022-04-08T17:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Gmail sends far more emails from conservatives to spam: study]]></summary>
+        <author>
+            <name>ccleve</name>
+            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愉快的滾動 (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30940901</id>
+        <link href="https://news.ycombinator.com/item?id=30940901"/>
+        <updated>2022-04-07T05:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Scrolling with Pleasure (2017)]]></summary>
+        <author>
+            <name>wooosh</name>
+            <uri>https://news.ycombinator.com/user?id=wooosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我不會再使用Affirm]]></title>
         <id>https://news.ycombinator.com/item?id=30959322</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金屬上的OpenCL--如果clvk能用怎麼辦？]]></title>
-        <id>https://news.ycombinator.com/item?id=30882629</id>
-        <link href="https://news.ycombinator.com/item?id=30882629"/>
-        <updated>2022-04-01T19:58:29.000Z</updated>
-        <summary type="html"><![CDATA[OpenCL on Metal – what if clvk works?]]></summary>
-        <author>
-            <name>my123</name>
-            <uri>https://news.ycombinator.com/user?id=my123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告別，小學]]></title>
-        <id>https://news.ycombinator.com/item?id=30882622</id>
-        <link href="https://news.ycombinator.com/item?id=30882622"/>
-        <updated>2022-04-01T19:57:15.000Z</updated>
-        <summary type="html"><![CDATA[Farewell, Elementary]]></summary>
-        <author>
-            <name>rglullis</name>
-            <uri>https://news.ycombinator.com/user?id=rglullis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明智地選擇你的狀態遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30853985</id>
-        <link href="https://news.ycombinator.com/item?id=30853985"/>
-        <updated>2022-03-30T12:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Choose Your Status Game Wisely]]></summary>
-        <author>
-            <name>throw0101a</name>
-            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
         </author>
     </entry>
 </feed>
