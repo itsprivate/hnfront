@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DTS与杜比的战争实际上已经结束了吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=30942269</link>
+            <guid>https://news.ycombinator.com/item?id=30942269</guid>
+            <pubDate>Thu, 07 Apr 2022 09:08:46 GMT</pubDate>
+            <description><![CDATA[Is the DTS vs. Dolby war effectively over?]]></description>
+        </item>
         <item>
             <title><![CDATA[你可能不需要Cloudflare Tunnel。Linux也可以]]></title>
             <link>https://news.ycombinator.com/item?id=30953744</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30875837</guid>
             <pubDate>Fri, 01 Apr 2022 06:58:02 GMT</pubDate>
             <description><![CDATA[Postgres wire compatible SQLite proxy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[零信任架构并不能解决所有问题，但部分ZTA可以解决较少问题]]></title>
-            <link>https://news.ycombinator.com/item?id=30875908</link>
-            <guid>https://news.ycombinator.com/item?id=30875908</guid>
-            <pubDate>Fri, 01 Apr 2022 07:11:44 GMT</pubDate>
-            <description><![CDATA[Zero Trust Architecture doesn't solve all problems, but partial ZTA solves fewer]]></description>
         </item>
     </channel>
 </rss>

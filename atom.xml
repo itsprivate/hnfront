@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T07:33:08.742Z</updated>
+    <updated>2022-04-08T08:15:00.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DTS与杜比的战争实际上已经结束了吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30942269</id>
+        <link href="https://news.ycombinator.com/item?id=30942269"/>
+        <updated>2022-04-07T09:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Is the DTS vs. Dolby war effectively over?]]></summary>
+        <author>
+            <name>wooptoo</name>
+            <uri>https://news.ycombinator.com/user?id=wooptoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你可能不需要Cloudflare Tunnel。Linux也可以]]></title>
         <id>https://news.ycombinator.com/item?id=30953744</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ithkuil</name>
             <uri>https://news.ycombinator.com/user?id=ithkuil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零信任架构并不能解决所有问题，但部分ZTA可以解决较少问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30875908</id>
-        <link href="https://news.ycombinator.com/item?id=30875908"/>
-        <updated>2022-04-01T07:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Zero Trust Architecture doesn't solve all problems, but partial ZTA solves fewer]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
