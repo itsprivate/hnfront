@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T22:12:51.053Z</updated>
+    <updated>2022-04-08T22:33:52.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[代表性和不确定性]]></title>
+        <id>https://news.ycombinator.com/item?id=30927557</id>
+        <link href="https://news.ycombinator.com/item?id=30927557"/>
+        <updated>2022-04-06T01:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Representation and Uncertainty]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安大略省匿名教师的公开信 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30962871</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rrauenza</name>
             <uri>https://news.ycombinator.com/user?id=rrauenza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vim的颜色计划]]></title>
-        <id>https://news.ycombinator.com/item?id=30885471</id>
-        <link href="https://news.ycombinator.com/item?id=30885471"/>
-        <updated>2022-04-02T02:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Vim Color Schemes]]></summary>
-        <author>
-            <name>auraham</name>
-            <uri>https://news.ycombinator.com/user?id=auraham</uri>
         </author>
     </entry>
 </feed>
