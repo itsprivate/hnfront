@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T05:12:43.609Z</updated>
+    <updated>2022-04-08T05:30:25.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于GTK的桌面环境还有没有前途？]]></title>
+        <id>https://news.ycombinator.com/item?id=30953218</id>
+        <link href="https://news.ycombinator.com/item?id=30953218"/>
+        <updated>2022-04-08T04:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Is there any future for the GTK-based Desktop Environments?]]></summary>
+        <author>
+            <name>rohshall</name>
+            <uri>https://news.ycombinator.com/user?id=rohshall</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大卫-多伊奇的构建者理论]]></title>
         <id>https://news.ycombinator.com/item?id=30942209</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rammy1234</name>
             <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBB希望成为彭博终端的一个开源挑战者]]></title>
-        <id>https://news.ycombinator.com/item?id=30854451</id>
-        <link href="https://news.ycombinator.com/item?id=30854451"/>
-        <updated>2022-03-30T12:51:49.000Z</updated>
-        <summary type="html"><![CDATA[OpenBB wants to be an open source challenger to Bloomberg Terminal]]></summary>
-        <author>
-            <name>alexrustic</name>
-            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
         </author>
     </entry>
 </feed>
