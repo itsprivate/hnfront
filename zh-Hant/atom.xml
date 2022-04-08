@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T04:41:17.237Z</updated>
+    <updated>2022-04-08T05:12:43.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大衛-多伊奇的構建者理論]]></title>
+        <id>https://news.ycombinator.com/item?id=30942209</id>
+        <link href="https://news.ycombinator.com/item?id=30942209"/>
+        <updated>2022-04-07T08:57:20.000Z</updated>
+        <summary type="html"><![CDATA[David Deutsch’s Constructor Theory]]></summary>
+        <author>
+            <name>qualudeheart</name>
+            <uri>https://news.ycombinator.com/user?id=qualudeheart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cohere。世界上最強大的NLP工具箱]]></title>
         <id>https://news.ycombinator.com/item?id=30952871</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>alexrustic</name>
             <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無限的Mac。瀏覽器中即時啟動的Quadra]]></title>
-        <id>https://news.ycombinator.com/item?id=30875259</id>
-        <link href="https://news.ycombinator.com/item?id=30875259"/>
-        <updated>2022-04-01T04:41:57.000Z</updated>
-        <summary type="html"><![CDATA[Infinite Mac: An Instant-Booting Quadra in the Browser]]></summary>
-        <author>
-            <name>jf</name>
-            <uri>https://news.ycombinator.com/user?id=jf</uri>
         </author>
     </entry>
 </feed>
