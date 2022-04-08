@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T16:52:42.337Z</updated>
+    <updated>2022-04-08T17:09:07.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凯博（YC W22）正在招聘创始工程师]]></title>
+        <id>https://news.ycombinator.com/item?id=30959654</id>
+        <link href="https://news.ycombinator.com/item?id=30959654"/>
+        <updated>2022-04-08T17:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Kable (YC W22) Is Hiring Founding Engineers]]></summary>
+        <author>
+            <name>asommer12</name>
+            <uri>https://news.ycombinator.com/user?id=asommer12</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSA-250的因式分解]]></title>
+        <id>https://news.ycombinator.com/item?id=30958912</id>
+        <link href="https://news.ycombinator.com/item?id=30958912"/>
+        <updated>2022-04-08T16:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Factorization of RSA-250]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[裸体跳伞启发了一种让飞行员在飞行中保持方向感的方法]]></title>
         <id>https://news.ycombinator.com/item?id=30959126</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使远程指导有效]]></title>
-        <id>https://news.ycombinator.com/item?id=30853395</id>
-        <link href="https://news.ycombinator.com/item?id=30853395"/>
-        <updated>2022-03-30T10:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Making Remote Mentorship Effective]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux中使用脚踏板作为修改键]]></title>
-        <id>https://news.ycombinator.com/item?id=30880908</id>
-        <link href="https://news.ycombinator.com/item?id=30880908"/>
-        <updated>2022-04-01T17:34:28.000Z</updated>
-        <summary type="html"><![CDATA[Using foot pedals for modifier keys in Linux]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
