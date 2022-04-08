@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-08T05:38:51.304Z</updated>
+    <updated>2022-04-08T06:16:06.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PiGlass v2: 一个可穿戴的Pi Zero 2]]></title>
+        <id>https://news.ycombinator.com/item?id=30941067</id>
+        <link href="https://news.ycombinator.com/item?id=30941067"/>
+        <updated>2022-04-07T05:55:22.000Z</updated>
+        <summary type="html"><![CDATA[PiGlass v2: A wearable Pi Zero 2]]></summary>
+        <author>
+            <name>matt8588</name>
+            <uri>https://news.ycombinator.com/user?id=matt8588</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['07年的住房不是泡沫'是一个几乎没有人相信的真实说法。]]></title>
         <id>https://news.ycombinator.com/item?id=30952723</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从太空看，最长的传送带在摩洛哥]]></title>
-        <id>https://news.ycombinator.com/item?id=30875304</id>
-        <link href="https://news.ycombinator.com/item?id=30875304"/>
-        <updated>2022-04-01T04:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Seen from space, the longest conveyor belt is in Morocco]]></summary>
-        <author>
-            <name>jdkee</name>
-            <uri>https://news.ycombinator.com/user?id=jdkee</uri>
         </author>
     </entry>
 </feed>
