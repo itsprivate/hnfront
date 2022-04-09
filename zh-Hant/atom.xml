@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T15:54:00.277Z</updated>
+    <updated>2022-04-09T16:14:51.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我需要找一間公寓]]></title>
+        <id>https://news.ycombinator.com/item?id=30968721</id>
+        <link href="https://news.ycombinator.com/item?id=30968721"/>
+        <updated>2022-04-09T15:13:49.000Z</updated>
+        <summary type="html"><![CDATA[I Need to Find an Apartment]]></summary>
+        <author>
+            <name>mattrighetti</name>
+            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不透明的瀏覽器。你通往P2P互聯網的門戶]]></title>
         <id>https://news.ycombinator.com/item?id=30968715</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kloch</name>
             <uri>https://news.ycombinator.com/user?id=kloch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡像大廳。Cabala, Spiegel Der Kunst Und Natur, in Alchymia (1615)]]></title>
-        <id>https://news.ycombinator.com/item?id=30875311</id>
-        <link href="https://news.ycombinator.com/item?id=30875311"/>
-        <updated>2022-04-01T04:55:51.000Z</updated>
-        <summary type="html"><![CDATA[A Hall of Mirrors: Cabala, Spiegel Der Kunst Und Natur, in Alchymia (1615)]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
         </author>
     </entry>
 </feed>
