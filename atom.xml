@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T06:38:35.354Z</updated>
+    <updated>2022-04-09T06:57:26.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么要写博客？]]></title>
+        <id>https://news.ycombinator.com/item?id=30965485</id>
+        <link href="https://news.ycombinator.com/item?id=30965485"/>
+        <updated>2022-04-09T05:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Blog at All?]]></summary>
+        <author>
+            <name>pragmatic1</name>
+            <uri>https://news.ycombinator.com/user?id=pragmatic1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[返回印度]]></title>
         <id>https://news.ycombinator.com/item?id=30965402</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fresh - 带有内置FASM汇编器的可视化汇编语言IDE]]></title>
-        <id>https://news.ycombinator.com/item?id=30885786</id>
-        <link href="https://news.ycombinator.com/item?id=30885786"/>
-        <updated>2022-04-02T04:09:39.000Z</updated>
-        <summary type="html"><![CDATA[Fresh – visual assembly language IDE with built-in FASM assembler]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>

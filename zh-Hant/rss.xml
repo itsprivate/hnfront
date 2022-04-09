@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 06:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 06:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼要寫博客？]]></title>
+            <link>https://news.ycombinator.com/item?id=30965485</link>
+            <guid>https://news.ycombinator.com/item?id=30965485</guid>
+            <pubDate>Sat, 09 Apr 2022 05:32:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why Blog at All?]]></description>
+        </item>
         <item>
             <title><![CDATA[返回印度]]></title>
             <link>https://news.ycombinator.com/item?id=30965402</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30864616</guid>
             <pubDate>Thu, 31 Mar 2022 07:06:07 GMT</pubDate>
             <description><![CDATA[A History of 'Hup,' the Jump Sound in Every Video Game]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fresh - 帶有內置FASM彙編器的可視化彙編語言IDE]]></title>
-            <link>https://news.ycombinator.com/item?id=30885786</link>
-            <guid>https://news.ycombinator.com/item?id=30885786</guid>
-            <pubDate>Sat, 02 Apr 2022 04:09:39 GMT</pubDate>
-            <description><![CDATA[Fresh – visual assembly language IDE with built-in FASM assembler]]></description>
         </item>
     </channel>
 </rss>
