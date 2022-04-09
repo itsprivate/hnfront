@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 12:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 12:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[順序運算符]]></title>
+            <link>https://news.ycombinator.com/item?id=30942540</link>
+            <guid>https://news.ycombinator.com/item?id=30942540</guid>
+            <pubDate>Thu, 07 Apr 2022 09:52:49 GMT</pubDate>
+            <description><![CDATA[The Ordering Operators]]></description>
+        </item>
         <item>
             <title><![CDATA[Manara (YC W21) 正在招聘一名前端工程師]]></title>
             <link>https://news.ycombinator.com/item?id=30967273</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30888641</guid>
             <pubDate>Sat, 02 Apr 2022 14:43:30 GMT</pubDate>
             <description><![CDATA[I Lost $150K in a Day]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C++的生命期註解]]></title>
-            <link>https://news.ycombinator.com/item?id=30888172</link>
-            <guid>https://news.ycombinator.com/item?id=30888172</guid>
-            <pubDate>Sat, 02 Apr 2022 13:35:52 GMT</pubDate>
-            <description><![CDATA[Lifetime Annotations for C++]]></description>
         </item>
     </channel>
 </rss>
