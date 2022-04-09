@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T22:43:00.095Z</updated>
+    <updated>2022-04-09T23:12:01.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1980年，一场地震摧毁了意大利的一个城镇，并揭示了另一种情况。]]></title>
+        <id>https://news.ycombinator.com/item?id=30963329</id>
+        <link href="https://news.ycombinator.com/item?id=30963329"/>
+        <updated>2022-04-08T22:34:02.000Z</updated>
+        <summary type="html"><![CDATA[In 1980, an Earthquake Destroyed an Italian Town–and Revealed Another]]></summary>
+        <author>
+            <name>Thevet</name>
+            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超级简单存储服务（S4）]]></title>
         <id>https://news.ycombinator.com/item?id=30972694</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>VigneshBaskaran</name>
             <uri>https://news.ycombinator.com/user?id=VigneshBaskaran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果II的门户网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30894195</id>
-        <link href="https://news.ycombinator.com/item?id=30894195"/>
-        <updated>2022-04-03T03:37:56.000Z</updated>
-        <summary type="html"><![CDATA[Portal for AppleII]]></summary>
-        <author>
-            <name>axiomdata316</name>
-            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
         </author>
     </entry>
 </feed>
