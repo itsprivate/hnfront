@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 22:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 22:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[超级简单存储服务（S4）]]></title>
+            <link>https://news.ycombinator.com/item?id=30972694</link>
+            <guid>https://news.ycombinator.com/item?id=30972694</guid>
+            <pubDate>Sat, 09 Apr 2022 22:21:16 GMT</pubDate>
+            <description><![CDATA[Super Simple Storage Service (S4)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[tmux.nvim - 将Neovim变成一个终端复用器]]></title>
+            <link>https://news.ycombinator.com/item?id=30971946</link>
+            <guid>https://news.ycombinator.com/item?id=30971946</guid>
+            <pubDate>Sat, 09 Apr 2022 20:53:46 GMT</pubDate>
+            <description><![CDATA[Show HN: tmux.nvim – turning Neovim into a terminal multiplexer]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：iOS信号吃了你的磁盘空间]]></title>
             <link>https://news.ycombinator.com/item?id=30972546</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30894195</guid>
             <pubDate>Sun, 03 Apr 2022 03:37:56 GMT</pubDate>
             <description><![CDATA[Portal for AppleII]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不再有VPN。介绍云计算隧道]]></title>
-            <link>https://news.ycombinator.com/item?id=30893239</link>
-            <guid>https://news.ycombinator.com/item?id=30893239</guid>
-            <pubDate>Sun, 03 Apr 2022 01:06:43 GMT</pubDate>
-            <description><![CDATA[No More VPN. Introducting Cloudflare Tunnel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GNU ed吃了我的作业]]></title>
-            <link>https://news.ycombinator.com/item?id=30893503</link>
-            <guid>https://news.ycombinator.com/item?id=30893503</guid>
-            <pubDate>Sun, 03 Apr 2022 01:50:34 GMT</pubDate>
-            <description><![CDATA[GNU ed ate my homework]]></description>
         </item>
     </channel>
 </rss>
