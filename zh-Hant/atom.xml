@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T10:13:44.026Z</updated>
+    <updated>2022-04-09T10:45:21.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[攻克Bcm61650]]></title>
+        <id>https://news.ycombinator.com/item?id=30951215</id>
+        <link href="https://news.ycombinator.com/item?id=30951215"/>
+        <updated>2022-04-07T22:43:52.000Z</updated>
+        <summary type="html"><![CDATA[Pwning the Bcm61650]]></summary>
+        <author>
+            <name>kogir</name>
+            <uri>https://news.ycombinator.com/user?id=kogir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼沒有像macOS那樣 "只管用 "的Linux發行版？]]></title>
         <id>https://news.ycombinator.com/item?id=30966582</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>xdze2</name>
             <uri>https://news.ycombinator.com/user?id=xdze2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[包流機。捕獲和聚合多個主機的網絡流量]]></title>
-        <id>https://news.ycombinator.com/item?id=30888295</id>
-        <link href="https://news.ycombinator.com/item?id=30888295"/>
-        <updated>2022-04-02T13:52:31.000Z</updated>
-        <summary type="html"><![CDATA[PacketStreamer: Capture and aggregate network traffic across multiple hosts]]></summary>
-        <author>
-            <name>noboruma</name>
-            <uri>https://news.ycombinator.com/user?id=noboruma</uri>
         </author>
     </entry>
 </feed>
