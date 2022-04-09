@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T07:12:09.490Z</updated>
+    <updated>2022-04-09T07:37:53.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[秘密的颜色。密码学的温和介绍]]></title>
+        <id>https://news.ycombinator.com/item?id=30953607</id>
+        <link href="https://news.ycombinator.com/item?id=30953607"/>
+        <updated>2022-04-08T05:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Secret Colors: A Gentle Introduction to Cryptography]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stacker（YC S20）正在招聘产品工程师（远程/欧洲）。]]></title>
         <id>https://news.ycombinator.com/item?id=30965803</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐藏的意大利。被禁止的独眼巨人遗址 (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=30856457</id>
-        <link href="https://news.ycombinator.com/item?id=30856457"/>
-        <updated>2022-03-30T15:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Hidden Italy: The Forbidden Cyclopean Ruins (2013)]]></summary>
-        <author>
-            <name>hairytrog</name>
-            <uri>https://news.ycombinator.com/user?id=hairytrog</uri>
         </author>
     </entry>
 </feed>
