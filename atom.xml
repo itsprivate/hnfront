@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T04:41:15.907Z</updated>
+    <updated>2022-04-09T05:29:59.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用WebGL渲染的古代波斯的波斯波利斯]]></title>
+        <id>https://news.ycombinator.com/item?id=30965352</id>
+        <link href="https://news.ycombinator.com/item?id=30965352"/>
+        <updated>2022-04-09T04:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Persepolis of ancient Persia rendered in WebGL]]></summary>
+        <author>
+            <name>avestura</name>
+            <uri>https://news.ycombinator.com/user?id=avestura</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[论亚伦-马茨的 "小说和新生活问题"]]></title>
         <id>https://news.ycombinator.com/item?id=30946977</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ducktective</name>
             <uri>https://news.ycombinator.com/user?id=ducktective</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观察世界的残局]]></title>
-        <id>https://news.ycombinator.com/item?id=30886610</id>
-        <link href="https://news.ycombinator.com/item?id=30886610"/>
-        <updated>2022-04-02T07:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Watching the World Wrecking]]></summary>
-        <author>
-            <name>vitabenes</name>
-            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
         </author>
     </entry>
 </feed>
