@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T16:47:04.757Z</updated>
+    <updated>2022-04-09T17:03:54.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼美國人在談到家人時要用他們的名字，好像我們認識他們一樣？]]></title>
+        <id>https://news.ycombinator.com/item?id=30969575</id>
+        <link href="https://news.ycombinator.com/item?id=30969575"/>
+        <updated>2022-04-09T16:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why do Americans speak about family by their names, like we know them?]]></summary>
+        <author>
+            <name>enw</name>
+            <uri>https://news.ycombinator.com/user?id=enw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Bartholomae的《發明大學》(1986) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30955110</id>
+        <link href="https://news.ycombinator.com/item?id=30955110"/>
+        <updated>2022-04-08T09:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Inventing The University by David Bartholomae (1986) [pdf]]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VisiOn by VisiCorp - 不明就裡的第一個用於IBM PC的完整GUI。]]></title>
         <id>https://news.ycombinator.com/item?id=30969234</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>zthrowaway</name>
             <uri>https://news.ycombinator.com/user?id=zthrowaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太赫茲波有什麼用處？]]></title>
-        <id>https://news.ycombinator.com/item?id=30867482</id>
-        <link href="https://news.ycombinator.com/item?id=30867482"/>
-        <updated>2022-03-31T14:18:09.000Z</updated>
-        <summary type="html"><![CDATA[What are terahertz waves useful for?]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要在btrfs snapshotter中使用containerd]]></title>
-        <id>https://news.ycombinator.com/item?id=30890354</id>
-        <link href="https://news.ycombinator.com/item?id=30890354"/>
-        <updated>2022-04-02T18:15:35.000Z</updated>
-        <summary type="html"><![CDATA[Don't use containerd with the btrfs snapshotter]]></summary>
-        <author>
-            <name>jacksgt</name>
-            <uri>https://news.ycombinator.com/user?id=jacksgt</uri>
         </author>
     </entry>
 </feed>
