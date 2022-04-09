@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T17:51:38.089Z</updated>
+    <updated>2022-04-09T18:37:20.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Pico。這個被混淆的代碼(?)在其啟動ROM中做什麼(l.442)]]></title>
+        <id>https://news.ycombinator.com/item?id=30970274</id>
+        <link href="https://news.ycombinator.com/item?id=30970274"/>
+        <updated>2022-04-09T17:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pi Pico: What is this obfuscated code(?) doing in its boot ROM (l.442)]]></summary>
+        <author>
+            <name>nynyny7</name>
+            <uri>https://news.ycombinator.com/user?id=nynyny7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[滑尺模擬器仿真器收藏]]></title>
         <id>https://news.ycombinator.com/item?id=30955676</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viasat事件：從猜測到技術細節]]></title>
-        <id>https://news.ycombinator.com/item?id=30891220</id>
-        <link href="https://news.ycombinator.com/item?id=30891220"/>
-        <updated>2022-04-02T20:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Viasat incident: from speculation to technical details]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
