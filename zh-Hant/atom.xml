@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T06:14:35.928Z</updated>
+    <updated>2022-04-09T06:38:35.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[返回印度]]></title>
+        <id>https://news.ycombinator.com/item?id=30965402</id>
+        <link href="https://news.ycombinator.com/item?id=30965402"/>
+        <updated>2022-04-09T05:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Back to India]]></summary>
+        <author>
+            <name>sdht0</name>
+            <uri>https://news.ycombinator.com/user?id=sdht0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在用戶離開頁面時可靠地發送HTTP請求]]></title>
+        <id>https://news.ycombinator.com/item?id=30942555</id>
+        <link href="https://news.ycombinator.com/item?id=30942555"/>
+        <updated>2022-04-07T09:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尾部斜線的意想不到的重要性]]></title>
         <id>https://news.ycombinator.com/item?id=30965200</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[採訪Webflow聯合創始人]]></title>
-        <id>https://news.ycombinator.com/item?id=30870898</id>
-        <link href="https://news.ycombinator.com/item?id=30870898"/>
-        <updated>2022-03-31T18:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Interview with Webflow co-founder]]></summary>
-        <author>
-            <name>comeagain</name>
-            <uri>https://news.ycombinator.com/user?id=comeagain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈薩克斯坦總統提出改革以限制其權力]]></title>
-        <id>https://news.ycombinator.com/item?id=30887029</id>
-        <link href="https://news.ycombinator.com/item?id=30887029"/>
-        <updated>2022-04-02T09:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Kazakhstan president proposes reforms to limit his powers]]></summary>
-        <author>
-            <name>NicoJuicy</name>
-            <uri>https://news.ycombinator.com/user?id=NicoJuicy</uri>
         </author>
     </entry>
 </feed>
