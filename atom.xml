@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T08:53:31.409Z</updated>
+    <updated>2022-04-09T09:41:23.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[弗兰克-奥兹说芝麻街已经走下坡路了。他说得对吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30966323</id>
+        <link href="https://news.ycombinator.com/item?id=30966323"/>
+        <updated>2022-04-09T08:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Frank Oz Says Sesame Street Has Gone Downhill. Is He Right?]]></summary>
+        <author>
+            <name>gjvc</name>
+            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[配置和自动化高可用性Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=30953394</id>
+        <link href="https://news.ycombinator.com/item?id=30953394"/>
+        <updated>2022-04-08T04:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Provisioning and Automating High Availability Postgres]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glicol - 以图为导向的实时编码语言/DSP库，用Rust编写]]></title>
         <id>https://news.ycombinator.com/item?id=30942074</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设置和运行Minitel 2的MAME仿真系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30888451</id>
-        <link href="https://news.ycombinator.com/item?id=30888451"/>
-        <updated>2022-04-02T14:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Setting up and running the MAME emulation of the Minitel 2]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mary-kay wilmers如何成为英国最有影响力的编辑（2019年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30859206</id>
-        <link href="https://news.ycombinator.com/item?id=30859206"/>
-        <updated>2022-03-30T18:44:54.000Z</updated>
-        <summary type="html"><![CDATA[How Mary-kay wilmers became Britain’s most influential editor (2019)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
