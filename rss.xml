@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 20:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 20:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特恢复了留下空白代替删除的嵌入式推文的变化]]></title>
+            <link>https://news.ycombinator.com/item?id=30971675</link>
+            <guid>https://news.ycombinator.com/item?id=30971675</guid>
+            <pubDate>Sat, 09 Apr 2022 20:23:31 GMT</pubDate>
+            <description><![CDATA[Twitter reverts change that left blank spaces in lieu of deleted embedded tweets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[厨房里的生活]]></title>
+            <link>https://news.ycombinator.com/item?id=30966046</link>
+            <guid>https://news.ycombinator.com/item?id=30966046</guid>
+            <pubDate>Sat, 09 Apr 2022 07:55:19 GMT</pubDate>
+            <description><![CDATA[Life in the Kitchen]]></description>
+        </item>
         <item>
             <title><![CDATA[斯坦福大学教授报警，称伯克利大学教授曝光她每小时5千美元的咨询费]]></title>
             <link>https://news.ycombinator.com/item?id=30970938</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30891494</guid>
             <pubDate>Sat, 02 Apr 2022 20:41:17 GMT</pubDate>
             <description><![CDATA[Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是超临界流体？]]></title>
-            <link>https://news.ycombinator.com/item?id=30865194</link>
-            <guid>https://news.ycombinator.com/item?id=30865194</guid>
-            <pubDate>Thu, 31 Mar 2022 08:59:55 GMT</pubDate>
-            <description><![CDATA[What Is a Supercritical Fluid?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战舰]]></title>
-            <link>https://news.ycombinator.com/item?id=30891626</link>
-            <guid>https://news.ycombinator.com/item?id=30891626</guid>
-            <pubDate>Sat, 02 Apr 2022 20:58:55 GMT</pubDate>
-            <description><![CDATA[Battleship]]></description>
         </item>
     </channel>
 </rss>

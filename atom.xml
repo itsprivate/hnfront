@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T20:14:01.067Z</updated>
+    <updated>2022-04-09T20:51:33.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特恢复了留下空白代替删除的嵌入式推文的变化]]></title>
+        <id>https://news.ycombinator.com/item?id=30971675</id>
+        <link href="https://news.ycombinator.com/item?id=30971675"/>
+        <updated>2022-04-09T20:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Twitter reverts change that left blank spaces in lieu of deleted embedded tweets]]></summary>
+        <author>
+            <name>crackercrews</name>
+            <uri>https://news.ycombinator.com/user?id=crackercrews</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厨房里的生活]]></title>
+        <id>https://news.ycombinator.com/item?id=30966046</id>
+        <link href="https://news.ycombinator.com/item?id=30966046"/>
+        <updated>2022-04-09T07:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Life in the Kitchen]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯坦福大学教授报警，称伯克利大学教授曝光她每小时5千美元的咨询费]]></title>
         <id>https://news.ycombinator.com/item?id=30970938</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lioeters</name>
             <uri>https://news.ycombinator.com/user?id=lioeters</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是超临界流体？]]></title>
-        <id>https://news.ycombinator.com/item?id=30865194</id>
-        <link href="https://news.ycombinator.com/item?id=30865194"/>
-        <updated>2022-03-31T08:59:55.000Z</updated>
-        <summary type="html"><![CDATA[What Is a Supercritical Fluid?]]></summary>
-        <author>
-            <name>simonebrunozzi</name>
-            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战舰]]></title>
-        <id>https://news.ycombinator.com/item?id=30891626</id>
-        <link href="https://news.ycombinator.com/item?id=30891626"/>
-        <updated>2022-04-02T20:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Battleship]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
