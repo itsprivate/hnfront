@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 11:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 12:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Manara (YC W21) 正在招聘一名前端工程師]]></title>
+            <link>https://news.ycombinator.com/item?id=30967273</link>
+            <guid>https://news.ycombinator.com/item?id=30967273</guid>
+            <pubDate>Sat, 09 Apr 2022 12:00:37 GMT</pubDate>
+            <description><![CDATA[Manara (YC W21) Is Hiring a front end engineer]]></description>
+        </item>
         <item>
             <title><![CDATA[3800年前一場海嘯消滅了阿塔卡馬沙漠的古代社區]]></title>
             <link>https://news.ycombinator.com/item?id=30955318</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30888172</guid>
             <pubDate>Sat, 02 Apr 2022 13:35:52 GMT</pubDate>
             <description><![CDATA[Lifetime Annotations for C++]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Go泛型的更快排序]]></title>
-            <link>https://news.ycombinator.com/item?id=30888125</link>
-            <guid>https://news.ycombinator.com/item?id=30888125</guid>
-            <pubDate>Sat, 02 Apr 2022 13:31:15 GMT</pubDate>
-            <description><![CDATA[Faster Sorting with Go Generics]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T11:51:44.379Z</updated>
+    <updated>2022-04-09T12:16:49.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Manara (YC W21) 正在招聘一名前端工程师]]></title>
+        <id>https://news.ycombinator.com/item?id=30967273</id>
+        <link href="https://news.ycombinator.com/item?id=30967273"/>
+        <updated>2022-04-09T12:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Manara (YC W21) Is Hiring a front end engineer]]></summary>
+        <author>
+            <name>laila90</name>
+            <uri>https://news.ycombinator.com/user?id=laila90</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3800年前一场海啸消灭了阿塔卡马沙漠的古代社区]]></title>
         <id>https://news.ycombinator.com/item?id=30955318</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>akling</name>
             <uri>https://news.ycombinator.com/user?id=akling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Go泛型的更快排序]]></title>
-        <id>https://news.ycombinator.com/item?id=30888125</id>
-        <link href="https://news.ycombinator.com/item?id=30888125"/>
-        <updated>2022-04-02T13:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Faster Sorting with Go Generics]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
