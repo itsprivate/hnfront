@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T10:45:21.903Z</updated>
+    <updated>2022-04-09T11:51:44.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[3800年前一場海嘯消滅了阿塔卡馬沙漠的古代社區]]></title>
+        <id>https://news.ycombinator.com/item?id=30955318</id>
+        <link href="https://news.ycombinator.com/item?id=30955318"/>
+        <updated>2022-04-08T10:27:10.000Z</updated>
+        <summary type="html"><![CDATA[A tsunami wiped out ancient communities in the Atacama Desert 3,800 years ago]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[攻克Bcm61650]]></title>
         <id>https://news.ycombinator.com/item?id=30951215</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於HTML5的物理模擬，用於構建和動畫化有彈性的作品]]></title>
-        <id>https://news.ycombinator.com/item?id=30887695</id>
-        <link href="https://news.ycombinator.com/item?id=30887695"/>
-        <updated>2022-04-02T12:26:10.000Z</updated>
-        <summary type="html"><![CDATA[HTML5-based physics simulation for building and animating springy creations]]></summary>
-        <author>
-            <name>xdze2</name>
-            <uri>https://news.ycombinator.com/user?id=xdze2</uri>
         </author>
     </entry>
 </feed>
