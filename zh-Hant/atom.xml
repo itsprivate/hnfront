@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T14:37:35.471Z</updated>
+    <updated>2022-04-09T14:52:26.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件工程研究的影響力不大]]></title>
+        <id>https://news.ycombinator.com/item?id=30942322</id>
+        <link href="https://news.ycombinator.com/item?id=30942322"/>
+        <updated>2022-04-07T09:17:29.000Z</updated>
+        <summary type="html"><![CDATA[The Underwhelming Impact of Software Engineering Research]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解釋LGBT的爆炸性增長]]></title>
         <id>https://news.ycombinator.com/item?id=30968289</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zachshefska</name>
             <uri>https://news.ycombinator.com/user?id=zachshefska</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[問：7次採訪何時成為 "正常"？]]></title>
-        <id>https://news.ycombinator.com/item?id=30889019</id>
-        <link href="https://news.ycombinator.com/item?id=30889019"/>
-        <updated>2022-04-02T15:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: ASK HN: When did 7 interviews become “normal”?]]></summary>
-        <author>
-            <name>geeky4qwerty</name>
-            <uri>https://news.ycombinator.com/user?id=geeky4qwerty</uri>
         </author>
     </entry>
 </feed>
