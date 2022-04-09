@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T03:48:08.148Z</updated>
+    <updated>2022-04-09T04:41:15.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[论亚伦-马茨的 "小说和新生活问题"]]></title>
+        <id>https://news.ycombinator.com/item?id=30946977</id>
+        <link href="https://news.ycombinator.com/item?id=30946977"/>
+        <updated>2022-04-07T16:44:06.000Z</updated>
+        <summary type="html"><![CDATA[On Aaron Matz’s “The Novel and the Problem of New Life”]]></summary>
+        <author>
+            <name>lermontov</name>
+            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解读英国驱魔手册]]></title>
         <id>https://news.ycombinator.com/item?id=30964949</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vitabenes</name>
             <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用同情心研究阴谋论]]></title>
-        <id>https://news.ycombinator.com/item?id=30859796</id>
-        <link href="https://news.ycombinator.com/item?id=30859796"/>
-        <updated>2022-03-30T19:33:04.000Z</updated>
-        <summary type="html"><![CDATA[Study conspiracy theories with compassion]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
