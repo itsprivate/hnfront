@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T21:52:24.415Z</updated>
+    <updated>2022-04-09T22:13:18.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NumPy的einsum的基本介绍]]></title>
+        <id>https://news.ycombinator.com/item?id=30972389</id>
+        <link href="https://news.ycombinator.com/item?id=30972389"/>
+        <updated>2022-04-09T21:47:23.000Z</updated>
+        <summary type="html"><![CDATA[A basic introduction to NumPy's einsum]]></summary>
+        <author>
+            <name>s1291</name>
+            <uri>https://news.ycombinator.com/user?id=s1291</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个连环杀手专家的解读]]></title>
+        <id>https://news.ycombinator.com/item?id=30965459</id>
+        <link href="https://news.ycombinator.com/item?id=30965459"/>
+        <updated>2022-04-09T05:23:19.000Z</updated>
+        <summary type="html"><![CDATA[The Unravelling of an Expert on Serial Killers]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃默里大学限制不符合助推器要求的学生使用WiFi]]></title>
         <id>https://news.ycombinator.com/item?id=30972245</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[收费载波系统--开线之歌]]></title>
-        <id>https://news.ycombinator.com/item?id=30893638</id>
-        <link href="https://news.ycombinator.com/item?id=30893638"/>
-        <updated>2022-04-03T02:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Toll Carrier Systems – The Song of the Open Wire]]></summary>
-        <author>
-            <name>Lammy</name>
-            <uri>https://news.ycombinator.com/user?id=Lammy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自制软件包管理员的创始人变成了加密盗版者]]></title>
-        <id>https://news.ycombinator.com/item?id=30893268</id>
-        <link href="https://news.ycombinator.com/item?id=30893268"/>
-        <updated>2022-04-03T01:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Homebrew Package Manager Founder Turns Crypto Grifter]]></summary>
-        <author>
-            <name>attilaperez</name>
-            <uri>https://news.ycombinator.com/user?id=attilaperez</uri>
         </author>
     </entry>
 </feed>
