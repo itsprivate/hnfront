@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T00:38:52.367Z</updated>
+    <updated>2022-04-09T02:17:38.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[總是告訴你的孩子真相]]></title>
+        <id>https://news.ycombinator.com/item?id=30964453</id>
+        <link href="https://news.ycombinator.com/item?id=30964453"/>
+        <updated>2022-04-09T01:27:21.000Z</updated>
+        <summary type="html"><![CDATA[Always Tell Your Kids the Truth]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rand()可以調用malloc()。]]></title>
+        <id>https://news.ycombinator.com/item?id=30942146</id>
+        <link href="https://news.ycombinator.com/item?id=30942146"/>
+        <updated>2022-04-07T08:47:37.000Z</updated>
+        <summary type="html"><![CDATA[rand() may call malloc()]]></summary>
+        <author>
+            <name>adunk</name>
+            <uri>https://news.ycombinator.com/user?id=adunk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帕爾默記號]]></title>
         <id>https://news.ycombinator.com/item?id=30939252</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dnetesn</name>
             <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook正在刪除反Facebook的廣告]]></title>
-        <id>https://news.ycombinator.com/item?id=30886357</id>
-        <link href="https://news.ycombinator.com/item?id=30886357"/>
-        <updated>2022-04-02T06:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Facebook is removing anti-Facebook ads]]></summary>
-        <author>
-            <name>punnerud</name>
-            <uri>https://news.ycombinator.com/user?id=punnerud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你會買一個現代的東芝Libretto嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30886243</id>
-        <link href="https://news.ycombinator.com/item?id=30886243"/>
-        <updated>2022-04-02T06:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Would you buy a modern Toshiba Libretto?]]></summary>
-        <author>
-            <name>atdrummond</name>
-            <uri>https://news.ycombinator.com/user?id=atdrummond</uri>
         </author>
     </entry>
 </feed>
