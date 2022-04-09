@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-09T08:36:45.699Z</updated>
+    <updated>2022-04-09T08:53:31.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Glicol - 以图为导向的实时编码语言/DSP库，用Rust编写]]></title>
+        <id>https://news.ycombinator.com/item?id=30942074</id>
+        <link href="https://news.ycombinator.com/item?id=30942074"/>
+        <updated>2022-04-07T08:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Glicol - A Graph-Oriented Live Coding Language/DSP Lib Written in Rust]]></summary>
+        <author>
+            <name>chaosprint</name>
+            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Windows资源管理器的3D模型文件缩略图]]></title>
         <id>https://news.ycombinator.com/item?id=30966099</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国将在世界杯上对阵伊朗]]></title>
-        <id>https://news.ycombinator.com/item?id=30887539</id>
-        <link href="https://news.ycombinator.com/item?id=30887539"/>
-        <updated>2022-04-02T11:56:27.000Z</updated>
-        <summary type="html"><![CDATA[The United States will play Iran in the World Cup]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
