@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T06:39:35.658Z</updated>
+    <updated>2022-04-10T06:56:38.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不確定我是否曾經喜歡過編程]]></title>
+        <id>https://news.ycombinator.com/item?id=30974726</id>
+        <link href="https://news.ycombinator.com/item?id=30974726"/>
+        <updated>2022-04-10T05:48:52.000Z</updated>
+        <summary type="html"><![CDATA[I'm Not Sure I've Ever Enjoyed Programming]]></summary>
+        <author>
+            <name>Alekhine</name>
+            <uri>https://news.ycombinator.com/user?id=Alekhine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓俄羅斯石油流向歐洲的後門]]></title>
         <id>https://news.ycombinator.com/item?id=30974775</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何從抽屜裡運行一個全市性的無線網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30895886</id>
-        <link href="https://news.ycombinator.com/item?id=30895886"/>
-        <updated>2022-04-03T10:28:03.000Z</updated>
-        <summary type="html"><![CDATA[How to run a city-wide wireless network from a drawer]]></summary>
-        <author>
-            <name>adunk</name>
-            <uri>https://news.ycombinator.com/user?id=adunk</uri>
         </author>
     </entry>
 </feed>
