@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T20:33:27.990Z</updated>
+    <updated>2022-04-10T20:42:28.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[平里。一个替代Pinterest的自我托管平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30981280</id>
+        <link href="https://news.ycombinator.com/item?id=30981280"/>
+        <updated>2022-04-10T20:19:33.000Z</updated>
+        <summary type="html"><![CDATA[Pinry: A Selfhosted Alternative to Pinterest]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成就解锁：Rustc segfault]]></title>
+        <id>https://news.ycombinator.com/item?id=30980984</id>
+        <link href="https://news.ycombinator.com/item?id=30980984"/>
+        <updated>2022-04-10T19:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Achievement unlocked: rustc segfault]]></summary>
+        <author>
+            <name>bcantrill</name>
+            <uri>https://news.ycombinator.com/user?id=bcantrill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愚蠢的图像压缩想法]]></title>
+        <id>https://news.ycombinator.com/item?id=30979085</id>
+        <link href="https://news.ycombinator.com/item?id=30979085"/>
+        <updated>2022-04-10T17:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Silly Image Compression Idea]]></summary>
+        <author>
+            <name>sn_fk_n</name>
+            <uri>https://news.ycombinator.com/user?id=sn_fk_n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[万寿菊]]></title>
         <id>https://news.ycombinator.com/item?id=30968534</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>jasoneckert</name>
             <uri>https://news.ycombinator.com/user?id=jasoneckert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当蒙古人开始征服世界时，有一个限制性因素。草地]]></title>
-        <id>https://news.ycombinator.com/item?id=30886110</id>
-        <link href="https://news.ycombinator.com/item?id=30886110"/>
-        <updated>2022-04-02T05:50:43.000Z</updated>
-        <summary type="html"><![CDATA[When Mongols Set Out to Conquer the World, There Was One Limiting Factor: Grass]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elektronika MK-61]]></title>
-        <id>https://news.ycombinator.com/item?id=30865226</id>
-        <link href="https://news.ycombinator.com/item?id=30865226"/>
-        <updated>2022-03-31T09:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Elektronika MK-61]]></summary>
-        <author>
-            <name>auvi</name>
-            <uri>https://news.ycombinator.com/user?id=auvi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[活着]]></title>
-        <id>https://news.ycombinator.com/item?id=30901560</id>
-        <link href="https://news.ycombinator.com/item?id=30901560"/>
-        <updated>2022-04-03T22:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Alive]]></summary>
-        <author>
-            <name>zrules</name>
-            <uri>https://news.ycombinator.com/user?id=zrules</uri>
         </author>
     </entry>
 </feed>
