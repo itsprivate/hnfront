@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T18:14:32.158Z</updated>
+    <updated>2022-04-10T18:38:47.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[單身人士是個壞主意]]></title>
+        <id>https://news.ycombinator.com/item?id=30977481</id>
+        <link href="https://news.ycombinator.com/item?id=30977481"/>
+        <updated>2022-04-10T14:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Singleton Is a Bad Idea]]></summary>
+        <author>
+            <name>NeutralForest</name>
+            <uri>https://news.ycombinator.com/user?id=NeutralForest</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於建立阿迪朗達克山國家公園的想法]]></title>
+        <id>https://news.ycombinator.com/item?id=30966116</id>
+        <link href="https://news.ycombinator.com/item?id=30966116"/>
+        <updated>2022-04-09T08:08:40.000Z</updated>
+        <summary type="html"><![CDATA[On the Idea of an Adirondack Mountains National Park]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是Rust的不安全？]]></title>
         <id>https://news.ycombinator.com/item?id=30979484</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼二維矢量圖形比三維難得多？]]></title>
-        <id>https://news.ycombinator.com/item?id=30901537</id>
-        <link href="https://news.ycombinator.com/item?id=30901537"/>
-        <updated>2022-04-03T22:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Why are 2D vector graphics so much harder than 3D?]]></summary>
-        <author>
-            <name>thesephist</name>
-            <uri>https://news.ycombinator.com/user?id=thesephist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我發現的一些有趣的惡意軟件]]></title>
-        <id>https://news.ycombinator.com/item?id=30901141</id>
-        <link href="https://news.ycombinator.com/item?id=30901141"/>
-        <updated>2022-04-03T22:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Some interesting malware I found]]></summary>
-        <author>
-            <name>bobbiechen</name>
-            <uri>https://news.ycombinator.com/user?id=bobbiechen</uri>
         </author>
     </entry>
 </feed>

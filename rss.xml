@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 10 Apr 2022 18:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 18:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[单身人士是个坏主意]]></title>
+            <link>https://news.ycombinator.com/item?id=30977481</link>
+            <guid>https://news.ycombinator.com/item?id=30977481</guid>
+            <pubDate>Sun, 10 Apr 2022 14:57:52 GMT</pubDate>
+            <description><![CDATA[Singleton Is a Bad Idea]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于建立阿迪朗达克山国家公园的想法]]></title>
+            <link>https://news.ycombinator.com/item?id=30966116</link>
+            <guid>https://news.ycombinator.com/item?id=30966116</guid>
+            <pubDate>Sat, 09 Apr 2022 08:08:40 GMT</pubDate>
+            <description><![CDATA[On the Idea of an Adirondack Mountains National Park]]></description>
+        </item>
         <item>
             <title><![CDATA[什么是Rust的不安全？]]></title>
             <link>https://news.ycombinator.com/item?id=30979484</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30901749</guid>
             <pubDate>Sun, 03 Apr 2022 23:15:22 GMT</pubDate>
             <description><![CDATA[AppleSqueezer GS: A Modern Apple ][ Accelerator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么二维矢量图形比三维难得多？]]></title>
-            <link>https://news.ycombinator.com/item?id=30901537</link>
-            <guid>https://news.ycombinator.com/item?id=30901537</guid>
-            <pubDate>Sun, 03 Apr 2022 22:49:09 GMT</pubDate>
-            <description><![CDATA[Why are 2D vector graphics so much harder than 3D?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我发现的一些有趣的恶意软件]]></title>
-            <link>https://news.ycombinator.com/item?id=30901141</link>
-            <guid>https://news.ycombinator.com/item?id=30901141</guid>
-            <pubDate>Sun, 03 Apr 2022 22:00:11 GMT</pubDate>
-            <description><![CDATA[Some interesting malware I found]]></description>
         </item>
     </channel>
 </rss>
