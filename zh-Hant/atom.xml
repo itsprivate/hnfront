@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T16:15:11.495Z</updated>
+    <updated>2022-04-10T16:47:09.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：如果我在一個網站上看到 "接受cookies"，我會立即關閉它。]]></title>
+        <id>https://news.ycombinator.com/item?id=30978283</id>
+        <link href="https://news.ycombinator.com/item?id=30978283"/>
+        <updated>2022-04-10T15:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: If I see an “accept cookies” on a website, I close it immediately]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：創業公司為營銷目的收割GitHub提交的電子郵件]]></title>
+        <id>https://news.ycombinator.com/item?id=30977883</id>
+        <link href="https://news.ycombinator.com/item?id=30977883"/>
+        <updated>2022-04-10T15:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Startups Harvesting GitHub Commit Emails for Marketing Purposes]]></summary>
+        <author>
+            <name>fouric</name>
+            <uri>https://news.ycombinator.com/user?id=fouric</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用ELisp作為HTML模板引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30966896</id>
+        <link href="https://news.ycombinator.com/item?id=30966896"/>
+        <updated>2022-04-09T10:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Using ELisp as an HTML templating engine]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學家為何對W波色子感到擔憂："有些東西是不正常的]]></title>
         <id>https://news.ycombinator.com/item?id=30977931</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>diodorus</name>
             <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們不使用暫存環境]]></title>
-        <id>https://news.ycombinator.com/item?id=30899362</id>
-        <link href="https://news.ycombinator.com/item?id=30899362"/>
-        <updated>2022-04-03T18:28:42.000Z</updated>
-        <summary type="html"><![CDATA[We don’t use a staging environment]]></summary>
-        <author>
-            <name>Chris86</name>
-            <uri>https://news.ycombinator.com/user?id=Chris86</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紐約市棋手的生活建議]]></title>
-        <id>https://news.ycombinator.com/item?id=30898870</id>
-        <link href="https://news.ycombinator.com/item?id=30898870"/>
-        <updated>2022-04-03T17:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Life advice from NYC chess hustlers]]></summary>
-        <author>
-            <name>gautamcgoel</name>
-            <uri>https://news.ycombinator.com/user?id=gautamcgoel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有一個11000行代碼文件的項目]]></title>
-        <id>https://news.ycombinator.com/item?id=30898803</id>
-        <link href="https://news.ycombinator.com/item?id=30898803"/>
-        <updated>2022-04-03T17:41:14.000Z</updated>
-        <summary type="html"><![CDATA[The project with a single 11,000-line code file]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
