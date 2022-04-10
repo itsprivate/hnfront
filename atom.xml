@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T15:47:17.687Z</updated>
+    <updated>2022-04-10T16:15:11.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科学家为何对W波色子感到担忧："有些东西是不正常的]]></title>
+        <id>https://news.ycombinator.com/item?id=30977931</id>
+        <link href="https://news.ycombinator.com/item?id=30977931"/>
+        <updated>2022-04-10T15:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Why Scientists Are Worried About the W Boson: 'Something Is Amiss']]></summary>
+        <author>
+            <name>hsnewman</name>
+            <uri>https://news.ycombinator.com/user?id=hsnewman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国新的GPU制造商Moore Threads发布了MTT S60 GPU]]></title>
         <id>https://news.ycombinator.com/item?id=30977920</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST-F1 铯喷泉原子钟]]></title>
-        <id>https://news.ycombinator.com/item?id=30886428</id>
-        <link href="https://news.ycombinator.com/item?id=30886428"/>
-        <updated>2022-04-02T07:16:25.000Z</updated>
-        <summary type="html"><![CDATA[NIST-F1 Cesium Fountain Atomic Clock]]></summary>
-        <author>
-            <name>mrintellectual</name>
-            <uri>https://news.ycombinator.com/user?id=mrintellectual</uri>
         </author>
     </entry>
 </feed>
