@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 10 Apr 2022 21:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 21:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[沒有智能手機也能飛行]]></title>
+            <link>https://news.ycombinator.com/item?id=30979975</link>
+            <guid>https://news.ycombinator.com/item?id=30979975</guid>
+            <pubDate>Sun, 10 Apr 2022 18:18:05 GMT</pubDate>
+            <description><![CDATA[Taking Flight Without a Smart Phone]]></description>
+        </item>
         <item>
             <title><![CDATA[我的數學博士研究工作流程。LaTeX筆記和即時pdf參考資料]]></title>
             <link>https://news.ycombinator.com/item?id=30981592</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30894421</guid>
             <pubDate>Sun, 03 Apr 2022 04:24:27 GMT</pubDate>
             <description><![CDATA[Unveiling the Indigenous Knowledge Behind the Mud Houses of Nagercoil]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用內核TLS和SSL_sendfile提高NGINX性能]]></title>
-            <link>https://news.ycombinator.com/item?id=30902744</link>
-            <guid>https://news.ycombinator.com/item?id=30902744</guid>
-            <pubDate>Mon, 04 Apr 2022 02:15:59 GMT</pubDate>
-            <description><![CDATA[Improving NGINX Performance with Kernel TLS and SSL_sendfile]]></description>
         </item>
     </channel>
 </rss>
