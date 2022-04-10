@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T04:13:29.071Z</updated>
+    <updated>2022-04-10T05:12:49.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發者的懺悔。菲萊為何墜毀（2018）]]></title>
+        <id>https://news.ycombinator.com/item?id=30955745</id>
+        <link href="https://news.ycombinator.com/item?id=30955745"/>
+        <updated>2022-04-08T11:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Developer's confession: Why Philae crashed (2018)]]></summary>
+        <author>
+            <name>cubefox</name>
+            <uri>https://news.ycombinator.com/user?id=cubefox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為生產微型芯片所做的巨大努力]]></title>
         <id>https://news.ycombinator.com/item?id=30955568</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arthurmorgan</name>
             <uri>https://news.ycombinator.com/user?id=arthurmorgan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們為什麼和如何使用原始地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30895097</id>
-        <link href="https://news.ycombinator.com/item?id=30895097"/>
-        <updated>2022-04-03T07:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Why and how we use primitive maps]]></summary>
-        <author>
-            <name>skilled</name>
-            <uri>https://news.ycombinator.com/user?id=skilled</uri>
         </author>
     </entry>
 </feed>
