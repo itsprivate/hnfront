@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T00:40:59.028Z</updated>
+    <updated>2022-04-10T02:27:05.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[阿特拉斯公司的产品已经停机4天了]]></title>
+        <id>https://news.ycombinator.com/item?id=30973808</id>
+        <link href="https://news.ycombinator.com/item?id=30973808"/>
+        <updated>2022-04-10T01:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Atlassian products have been down for 4 days]]></summary>
+        <author>
+            <name>Corrado</name>
+            <uri>https://news.ycombinator.com/user?id=Corrado</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Go中从头开始的SMTP协议基础知识：从Gmail接收邮件]]></title>
+        <id>https://news.ycombinator.com/item?id=30973460</id>
+        <link href="https://news.ycombinator.com/item?id=30973460"/>
+        <updated>2022-04-10T00:37:25.000Z</updated>
+        <summary type="html"><![CDATA[SMTP protocol basics from scratch in Go: receiving email from Gmail]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个具有像视觉代码一样的UI的终端]]></title>
+        <id>https://news.ycombinator.com/item?id=30973010</id>
+        <link href="https://news.ycombinator.com/item?id=30973010"/>
+        <updated>2022-04-09T23:07:16.000Z</updated>
+        <summary type="html"><![CDATA[A terminal with UI like visual code]]></summary>
+        <author>
+            <name>zebulon75018</name>
+            <uri>https://news.ycombinator.com/user?id=zebulon75018</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将任何数据变成快速分析的API]]></title>
+        <id>https://news.ycombinator.com/item?id=30955002</id>
+        <link href="https://news.ycombinator.com/item?id=30955002"/>
+        <updated>2022-04-08T09:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Turn any data into a fast analytical API]]></summary>
+        <author>
+            <name>caoxhua</name>
+            <uri>https://news.ycombinator.com/user?id=caoxhua</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当你说话时，你的狗的大脑中会发生什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30954991</id>
+        <link href="https://news.ycombinator.com/item?id=30954991"/>
+        <updated>2022-04-08T09:27:43.000Z</updated>
+        <summary type="html"><![CDATA[What happens in your dog’s brain when you speak]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在月球、火星和戴森球体上建立殖民地需要帮助]]></title>
         <id>https://news.ycombinator.com/item?id=30973294</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>LordAtlas</name>
             <uri>https://news.ycombinator.com/user?id=LordAtlas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite B-Tree模块]]></title>
-        <id>https://news.ycombinator.com/item?id=30894913</id>
-        <link href="https://news.ycombinator.com/item?id=30894913"/>
-        <updated>2022-04-03T06:29:14.000Z</updated>
-        <summary type="html"><![CDATA[SQLite B-Tree Module]]></summary>
-        <author>
-            <name>rdpintqogeogsaa</name>
-            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿瓦隆之上。苹果在自己的联盟中]]></title>
-        <id>https://news.ycombinator.com/item?id=30893750</id>
-        <link href="https://news.ycombinator.com/item?id=30893750"/>
-        <updated>2022-04-03T02:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Above Avalon: Apple Is in a League of Its Own]]></summary>
-        <author>
-            <name>lladnar</name>
-            <uri>https://news.ycombinator.com/user?id=lladnar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何让孩子们做家务。玛雅方法有用吗？(2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=30887690</id>
-        <link href="https://news.ycombinator.com/item?id=30887690"/>
-        <updated>2022-04-02T12:25:33.000Z</updated>
-        <summary type="html"><![CDATA[How to get kids to do chores: Does the Maya method work? (2018)]]></summary>
-        <author>
-            <name>mhb</name>
-            <uri>https://news.ycombinator.com/user?id=mhb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阀门软件档案]]></title>
-        <id>https://news.ycombinator.com/item?id=30894163</id>
-        <link href="https://news.ycombinator.com/item?id=30894163"/>
-        <updated>2022-04-03T03:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Valve Software Archive]]></summary>
-        <author>
-            <name>ecliptik</name>
-            <uri>https://news.ycombinator.com/user?id=ecliptik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我在61岁时获得博士学位]]></title>
-        <id>https://news.ycombinator.com/item?id=30892850</id>
-        <link href="https://news.ycombinator.com/item?id=30892850"/>
-        <updated>2022-04-03T00:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Why I got a PhD at age 61]]></summary>
-        <author>
-            <name>breck</name>
-            <uri>https://news.ycombinator.com/user?id=breck</uri>
         </author>
     </entry>
 </feed>
