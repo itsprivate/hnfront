@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T09:51:35.848Z</updated>
+    <updated>2022-04-10T10:13:39.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[w3m 岩石]]></title>
+        <id>https://news.ycombinator.com/item?id=30975532</id>
+        <link href="https://news.ycombinator.com/item?id=30975532"/>
+        <updated>2022-04-10T09:14:45.000Z</updated>
+        <summary type="html"><![CDATA[w3m rocks]]></summary>
+        <author>
+            <name>marttt</name>
+            <uri>https://news.ycombinator.com/user?id=marttt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模糊的标准是个麻烦]]></title>
+        <id>https://news.ycombinator.com/item?id=30959215</id>
+        <link href="https://news.ycombinator.com/item?id=30959215"/>
+        <updated>2022-04-08T16:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Vague Standards Are Trouble]]></summary>
+        <author>
+            <name>kencausey</name>
+            <uri>https://news.ycombinator.com/user?id=kencausey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evernote发生了什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30975586</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Go重新思考可视化编程]]></title>
-        <id>https://news.ycombinator.com/item?id=30896298</id>
-        <link href="https://news.ycombinator.com/item?id=30896298"/>
-        <updated>2022-04-03T12:14:39.000Z</updated>
-        <summary type="html"><![CDATA[Rethinking Visual Programming with Go]]></summary>
-        <author>
-            <name>techplex</name>
-            <uri>https://news.ycombinator.com/user?id=techplex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年，技术写作的最佳平台是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30896189</id>
-        <link href="https://news.ycombinator.com/item?id=30896189"/>
-        <updated>2022-04-03T11:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's the best platform for technical writing in 2022?]]></summary>
-        <author>
-            <name>rco8786</name>
-            <uri>https://news.ycombinator.com/user?id=rco8786</uri>
         </author>
     </entry>
 </feed>
