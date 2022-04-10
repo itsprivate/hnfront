@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T16:47:09.499Z</updated>
+    <updated>2022-04-10T17:05:12.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何检查一个中央银行是否在印钱]]></title>
+        <id>https://news.ycombinator.com/item?id=30978891</id>
+        <link href="https://news.ycombinator.com/item?id=30978891"/>
+        <updated>2022-04-10T16:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to check if a central bank is printing money]]></summary>
+        <author>
+            <name>tungle</name>
+            <uri>https://news.ycombinator.com/user?id=tungle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究称中国囚犯在执行死刑时被切除了心脏或肺部]]></title>
+        <id>https://news.ycombinator.com/item?id=30978393</id>
+        <link href="https://news.ycombinator.com/item?id=30978393"/>
+        <updated>2022-04-10T16:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Chinese inmates had hearts or lungs removed during executions, study says]]></summary>
+        <author>
+            <name>Vaslo</name>
+            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海居民受困于禁闭，转而在微信群中寻找食物]]></title>
+        <id>https://news.ycombinator.com/item?id=30978074</id>
+        <link href="https://news.ycombinator.com/item?id=30978074"/>
+        <updated>2022-04-10T15:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Trapped in lockdown, Shanghai residents turn to WeChat groups for food]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA：React 18在严格模式下两次调用代码，以检测非故意的副作用]]></title>
+        <id>https://news.ycombinator.com/item?id=30976040</id>
+        <link href="https://news.ycombinator.com/item?id=30976040"/>
+        <updated>2022-04-10T11:03:48.000Z</updated>
+        <summary type="html"><![CDATA[PSA: React 18 calls code twice in strict mode to detect unintended side effects]]></summary>
+        <author>
+            <name>tomduncalf</name>
+            <uri>https://news.ycombinator.com/user?id=tomduncalf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：如果我在一个网站上看到 "接受cookies"，我会立即关闭它。]]></title>
         <id>https://news.ycombinator.com/item?id=30978283</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>brudgers</name>
             <uri>https://news.ycombinator.com/user?id=brudgers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是管理？]]></title>
-        <id>https://news.ycombinator.com/item?id=30900074</id>
-        <link href="https://news.ycombinator.com/item?id=30900074"/>
-        <updated>2022-04-03T20:00:28.000Z</updated>
-        <summary type="html"><![CDATA[What Is Management?]]></summary>
-        <author>
-            <name>sturza</name>
-            <uri>https://news.ycombinator.com/user?id=sturza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：OpenBB搜刮GitHub的电子邮件用于营销垃圾邮件]]></title>
-        <id>https://news.ycombinator.com/item?id=30900237</id>
-        <link href="https://news.ycombinator.com/item?id=30900237"/>
-        <updated>2022-04-03T20:17:06.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: OpenBB scraping GitHub emails for marketing spam]]></summary>
-        <author>
-            <name>tmp_1649016698</name>
-            <uri>https://news.ycombinator.com/user?id=tmp_1649016698</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杰克-多尔西对建立Twitter感到后悔]]></title>
-        <id>https://news.ycombinator.com/item?id=30899950</id>
-        <link href="https://news.ycombinator.com/item?id=30899950"/>
-        <updated>2022-04-03T19:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Jack Dorsey regrets building Twitter]]></summary>
-        <author>
-            <name>CyberRabbi</name>
-            <uri>https://news.ycombinator.com/user?id=CyberRabbi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[词典定义我们：玛格丽特-博伊尔和伊兰-斯塔万斯的对话]]></title>
-        <id>https://news.ycombinator.com/item?id=30881602</id>
-        <link href="https://news.ycombinator.com/item?id=30881602"/>
-        <updated>2022-04-01T18:24:37.000Z</updated>
-        <summary type="html"><![CDATA[Dictionaries Define Us: Margaret Boyle and Ilan Stavans in Conversation]]></summary>
-        <author>
-            <name>diodorus</name>
-            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
         </author>
     </entry>
 </feed>
