@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T05:37:22.494Z</updated>
+    <updated>2022-04-10T05:51:26.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一個掙扎的初級汗青，如何提高？]]></title>
+        <id>https://news.ycombinator.com/item?id=30974544</id>
+        <link href="https://news.ycombinator.com/item?id=30974544"/>
+        <updated>2022-04-10T04:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to improve as a struggling junior swe?]]></summary>
+        <author>
+            <name>3a2d29</name>
+            <uri>https://news.ycombinator.com/user?id=3a2d29</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼密碼管理器有TOTP？]]></title>
         <id>https://news.ycombinator.com/item?id=30974585</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaade - 一個開源的、自我託管的、協作的API開發環境]]></title>
-        <id>https://news.ycombinator.com/item?id=30895372</id>
-        <link href="https://news.ycombinator.com/item?id=30895372"/>
-        <updated>2022-04-03T08:23:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Yaade – An open-source, self-hosted, collaborative API dev environment]]></summary>
-        <author>
-            <name>jonrosner</name>
-            <uri>https://news.ycombinator.com/user?id=jonrosner</uri>
         </author>
     </entry>
 </feed>
