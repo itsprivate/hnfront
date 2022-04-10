@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T18:56:12.204Z</updated>
+    <updated>2022-04-10T19:27:46.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小項目的樂趣]]></title>
+        <id>https://news.ycombinator.com/item?id=30980307</id>
+        <link href="https://news.ycombinator.com/item?id=30980307"/>
+        <updated>2022-04-10T18:43:30.000Z</updated>
+        <summary type="html"><![CDATA[The Joy of Small Projects]]></summary>
+        <author>
+            <name>dschroer</name>
+            <uri>https://news.ycombinator.com/user?id=dschroer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數床單比看起來更復雜 關於摺紙分類第二部分]]></title>
+        <id>https://news.ycombinator.com/item?id=30966556</id>
+        <link href="https://news.ycombinator.com/item?id=30966556"/>
+        <updated>2022-04-09T09:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Counting Sheets Is More Complex Than It Seems: On Origami Classification Part II]]></summary>
+        <author>
+            <name>mkosmul</name>
+            <uri>https://news.ycombinator.com/user?id=mkosmul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司隱藏電子郵件的頌歌]]></title>
         <id>https://news.ycombinator.com/item?id=30979563</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>donsupreme</name>
             <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何過上幸福的生活 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30899312</id>
-        <link href="https://news.ycombinator.com/item?id=30899312"/>
-        <updated>2022-04-03T18:22:48.000Z</updated>
-        <summary type="html"><![CDATA[How to Live a Happy Life (2016)]]></summary>
-        <author>
-            <name>ed</name>
-            <uri>https://news.ycombinator.com/user?id=ed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於計算 "數學上正確的早餐"(2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=30875187</id>
-        <link href="https://news.ycombinator.com/item?id=30875187"/>
-        <updated>2022-04-01T04:27:39.000Z</updated>
-        <summary type="html"><![CDATA[On calculating a “mathematically correct breakfast” (2014)]]></summary>
-        <author>
-            <name>marinesebastian</name>
-            <uri>https://news.ycombinator.com/user?id=marinesebastian</uri>
         </author>
     </entry>
 </feed>
