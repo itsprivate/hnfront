@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T18:38:47.066Z</updated>
+    <updated>2022-04-10T18:56:12.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司隐藏电子邮件的颂歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30979563</id>
+        <link href="https://news.ycombinator.com/item?id=30979563"/>
+        <updated>2022-04-10T17:42:11.000Z</updated>
+        <summary type="html"><![CDATA[An Ode to Apple’s Hide My Email]]></summary>
+        <author>
+            <name>mlapida</name>
+            <uri>https://news.ycombinator.com/user?id=mlapida</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单身人士是个坏主意]]></title>
         <id>https://news.ycombinator.com/item?id=30977481</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>marinesebastian</name>
             <uri>https://news.ycombinator.com/user?id=marinesebastian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppleSqueezer GS：一个现代的苹果][加速器]]></title>
-        <id>https://news.ycombinator.com/item?id=30901749</id>
-        <link href="https://news.ycombinator.com/item?id=30901749"/>
-        <updated>2022-04-03T23:15:22.000Z</updated>
-        <summary type="html"><![CDATA[AppleSqueezer GS: A Modern Apple ][ Accelerator]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
