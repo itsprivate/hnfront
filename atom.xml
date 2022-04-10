@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T14:37:54.700Z</updated>
+    <updated>2022-04-10T15:14:38.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为CP/M恢复了F80编译器代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30977164</id>
+        <link href="https://news.ycombinator.com/item?id=30977164"/>
+        <updated>2022-04-10T14:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Restored F80 compiler code for CP/M]]></summary>
+        <author>
+            <name>elvis70</name>
+            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么编译器不会自动纠正 "明显的 "解析错误？]]></title>
+        <id>https://news.ycombinator.com/item?id=30965572</id>
+        <link href="https://news.ycombinator.com/item?id=30965572"/>
+        <updated>2022-04-09T05:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Why Compilers Don’t Autocorrect “Obvious” Parse Errors]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[异端]]></title>
         <id>https://news.ycombinator.com/item?id=30977147</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jacobwg</name>
             <uri>https://news.ycombinator.com/user?id=jacobwg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼加拉瓜手语是一种主要自发形成的手语。]]></title>
-        <id>https://news.ycombinator.com/item?id=30895240</id>
-        <link href="https://news.ycombinator.com/item?id=30895240"/>
-        <updated>2022-04-03T07:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Nicaraguan Sign Language is a sign language largely spontaneously developed]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主权棋》是一场没有忠诚度和人性的战斗]]></title>
-        <id>https://news.ycombinator.com/item?id=30896250</id>
-        <link href="https://news.ycombinator.com/item?id=30896250"/>
-        <updated>2022-04-03T12:06:13.000Z</updated>
-        <summary type="html"><![CDATA[‘Sovereign Chess’ Is a Battle Without Loyalty or Humanity]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
