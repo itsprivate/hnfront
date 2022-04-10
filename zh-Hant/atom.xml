@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T23:12:27.727Z</updated>
+    <updated>2022-04-10T23:33:05.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互聯網郵件2000]]></title>
+        <id>https://news.ycombinator.com/item?id=30982211</id>
+        <link href="https://news.ycombinator.com/item?id=30982211"/>
+        <updated>2022-04-10T22:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Internet Mail 2000]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我在一個網站上看到 "接受cookies "的橫幅，我會立即關閉它。]]></title>
         <id>https://news.ycombinator.com/item?id=30982470</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sbmthakur</name>
             <uri>https://news.ycombinator.com/user?id=sbmthakur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我喜歡不尋常的書。以下是我想讀的書--如果我有時間的話]]></title>
-        <id>https://news.ycombinator.com/item?id=30882273</id>
-        <link href="https://news.ycombinator.com/item?id=30882273"/>
-        <updated>2022-04-01T19:26:05.000Z</updated>
-        <summary type="html"><![CDATA[I like unusual books. Here’s what I’d read – if I had time]]></summary>
-        <author>
-            <name>miobrien</name>
-            <uri>https://news.ycombinator.com/user?id=miobrien</uri>
         </author>
     </entry>
 </feed>
