@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T06:14:24.250Z</updated>
+    <updated>2022-04-10T06:39:35.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让俄罗斯石油流向欧洲的后门]]></title>
+        <id>https://news.ycombinator.com/item?id=30974775</id>
+        <link href="https://news.ycombinator.com/item?id=30974775"/>
+        <updated>2022-04-10T06:03:18.000Z</updated>
+        <summary type="html"><![CDATA[The Backdoor That Keeps Russian Oil Flowing into Europe]]></summary>
+        <author>
+            <name>krzyk</name>
+            <uri>https://news.ycombinator.com/user?id=krzyk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是欧洲美元体系？(2020) [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=30974598</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>adunk</name>
             <uri>https://news.ycombinator.com/user?id=adunk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创建Commodore 64。工程师的故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30895210</id>
-        <link href="https://news.ycombinator.com/item?id=30895210"/>
-        <updated>2022-04-03T07:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Creating the Commodore 64: The Engineers’ Story]]></summary>
-        <author>
-            <name>rusk</name>
-            <uri>https://news.ycombinator.com/user?id=rusk</uri>
         </author>
     </entry>
 </feed>
