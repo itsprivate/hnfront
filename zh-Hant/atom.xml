@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T20:42:28.764Z</updated>
+    <updated>2022-04-10T21:39:05.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的數學博士研究工作流程。LaTeX筆記和即時pdf參考資料]]></title>
+        <id>https://news.ycombinator.com/item?id=30981592</id>
+        <link href="https://news.ycombinator.com/item?id=30981592"/>
+        <updated>2022-04-10T20:51:26.000Z</updated>
+        <summary type="html"><![CDATA[My Mathematics PhD research workflow: LaTeX notes and instant pdf referencing]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C72: 將最早的C語言編譯器移植到X86上]]></title>
+        <id>https://news.ycombinator.com/item?id=30981549</id>
+        <link href="https://news.ycombinator.com/item?id=30981549"/>
+        <updated>2022-04-10T20:47:54.000Z</updated>
+        <summary type="html"><![CDATA[C72: A port of the earliest C compiler to x86]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我太老了，不能成為一個專業的程序員嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30981254</id>
+        <link href="https://news.ycombinator.com/item?id=30981254"/>
+        <updated>2022-04-10T20:17:03.000Z</updated>
+        <summary type="html"><![CDATA[Am I too old to become a professional programmer?]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於IBM SK-8807紅外專用鍵盤的USB接收器]]></title>
+        <id>https://news.ycombinator.com/item?id=30966244</id>
+        <link href="https://news.ycombinator.com/item?id=30966244"/>
+        <updated>2022-04-09T08:35:40.000Z</updated>
+        <summary type="html"><![CDATA[USB receiver for the IBM SK-8807 Infrared-only keyboard]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[平裡。一個替代Pinterest的自我託管平臺]]></title>
         <id>https://news.ycombinator.com/item?id=30981280</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>limoce</name>
             <uri>https://news.ycombinator.com/user?id=limoce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技面試準備行業]]></title>
-        <id>https://news.ycombinator.com/item?id=30901896</id>
-        <link href="https://news.ycombinator.com/item?id=30901896"/>
-        <updated>2022-04-03T23:41:42.000Z</updated>
-        <summary type="html"><![CDATA[The tech interview prep industry]]></summary>
-        <author>
-            <name>otras</name>
-            <uri>https://news.ycombinator.com/user?id=otras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由於有了新的光線追蹤模型，"它能否運行Doom "將不再是一個問題了]]></title>
-        <id>https://news.ycombinator.com/item?id=30901247</id>
-        <link href="https://news.ycombinator.com/item?id=30901247"/>
-        <updated>2022-04-03T22:14:18.000Z</updated>
-        <summary type="html"><![CDATA[“Can it run Doom” will never be the same, thanks to new ray-tracing mod]]></summary>
-        <author>
-            <name>jay_kyburz</name>
-            <uri>https://news.ycombinator.com/user?id=jay_kyburz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從上到下閱讀代碼 (1999)]]></title>
-        <id>https://news.ycombinator.com/item?id=30897284</id>
-        <link href="https://news.ycombinator.com/item?id=30897284"/>
-        <updated>2022-04-03T14:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Reading code from top to bottom (1999)]]></summary>
-        <author>
-            <name>julietteeb</name>
-            <uri>https://news.ycombinator.com/user?id=julietteeb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安大略省的計算機。巴勒斯的ICON]]></title>
-        <id>https://news.ycombinator.com/item?id=30894348</id>
-        <link href="https://news.ycombinator.com/item?id=30894348"/>
-        <updated>2022-04-03T04:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Ontario's Computer: The Burroughs ICON]]></summary>
-        <author>
-            <name>jasoneckert</name>
-            <uri>https://news.ycombinator.com/user?id=jasoneckert</uri>
         </author>
     </entry>
 </feed>
