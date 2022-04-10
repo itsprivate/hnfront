@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 10 Apr 2022 17:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 18:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什麼是Rust的不安全？]]></title>
+            <link>https://news.ycombinator.com/item?id=30979484</link>
+            <guid>https://news.ycombinator.com/item?id=30979484</guid>
+            <pubDate>Sun, 10 Apr 2022 17:36:49 GMT</pubDate>
+            <description><![CDATA[What Is Rust's Unsafe?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蘇格拉底模式--用語言構成零星的多模態推理]]></title>
+            <link>https://news.ycombinator.com/item?id=30978927</link>
+            <guid>https://news.ycombinator.com/item?id=30978927</guid>
+            <pubDate>Sun, 10 Apr 2022 16:51:52 GMT</pubDate>
+            <description><![CDATA[Socratic Models – Composing Zero-Shot Multimodal Reasoning with Language]]></description>
+        </item>
         <item>
             <title><![CDATA[HN回覆--Hacker News評論回覆的電子郵件通知]]></title>
             <link>https://news.ycombinator.com/item?id=30979295</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30901141</guid>
             <pubDate>Sun, 03 Apr 2022 22:00:11 GMT</pubDate>
             <description><![CDATA[Some interesting malware I found]]></description>
-        </item>
-        <item>
-            <title><![CDATA[數以百萬計的美國人提前退休了。現在他們想再次工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30900183</link>
-            <guid>https://news.ycombinator.com/item?id=30900183</guid>
-            <pubDate>Sun, 03 Apr 2022 20:12:04 GMT</pubDate>
-            <description><![CDATA[Millions of Americans retired early. Now they want to work again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[軟件錯誤導致荷蘭幾乎所有火車停運]]></title>
-            <link>https://news.ycombinator.com/item?id=30901009</link>
-            <guid>https://news.ycombinator.com/item?id=30901009</guid>
-            <pubDate>Sun, 03 Apr 2022 21:44:10 GMT</pubDate>
-            <description><![CDATA[Software bug halts almost all trains in the Netherlands]]></description>
         </item>
     </channel>
 </rss>

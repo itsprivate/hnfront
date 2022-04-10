@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T17:43:28.036Z</updated>
+    <updated>2022-04-10T18:14:32.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是Rust的不安全？]]></title>
+        <id>https://news.ycombinator.com/item?id=30979484</id>
+        <link href="https://news.ycombinator.com/item?id=30979484"/>
+        <updated>2022-04-10T17:36:49.000Z</updated>
+        <summary type="html"><![CDATA[What Is Rust's Unsafe?]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘇格拉底模式--用語言構成零星的多模態推理]]></title>
+        <id>https://news.ycombinator.com/item?id=30978927</id>
+        <link href="https://news.ycombinator.com/item?id=30978927"/>
+        <updated>2022-04-10T16:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Socratic Models – Composing Zero-Shot Multimodal Reasoning with Language]]></summary>
+        <author>
+            <name>parsadotsh</name>
+            <uri>https://news.ycombinator.com/user?id=parsadotsh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN回覆--Hacker News評論回覆的電子郵件通知]]></title>
         <id>https://news.ycombinator.com/item?id=30979295</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bobbiechen</name>
             <uri>https://news.ycombinator.com/user?id=bobbiechen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數以百萬計的美國人提前退休了。現在他們想再次工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30900183</id>
-        <link href="https://news.ycombinator.com/item?id=30900183"/>
-        <updated>2022-04-03T20:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Millions of Americans retired early. Now they want to work again]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件錯誤導致荷蘭幾乎所有火車停運]]></title>
-        <id>https://news.ycombinator.com/item?id=30901009</id>
-        <link href="https://news.ycombinator.com/item?id=30901009"/>
-        <updated>2022-04-03T21:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Software bug halts almost all trains in the Netherlands]]></summary>
-        <author>
-            <name>ar0</name>
-            <uri>https://news.ycombinator.com/user?id=ar0</uri>
         </author>
     </entry>
 </feed>
