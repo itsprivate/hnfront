@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-10T03:15:48.932Z</updated>
+    <updated>2022-04-10T04:13:29.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為生產微型芯片所做的巨大努力]]></title>
+        <id>https://news.ycombinator.com/item?id=30955568</id>
+        <link href="https://news.ycombinator.com/item?id=30955568"/>
+        <updated>2022-04-08T11:13:58.000Z</updated>
+        <summary type="html"><![CDATA[The Huge Endeavor to Produce a Tiny Microchip]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[賭徒的謬誤不是謬誤]]></title>
         <id>https://news.ycombinator.com/item?id=30973324</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>skilled</name>
             <uri>https://news.ycombinator.com/user?id=skilled</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[綠色能源的侷限性正變得更加清晰]]></title>
-        <id>https://news.ycombinator.com/item?id=30894976</id>
-        <link href="https://news.ycombinator.com/item?id=30894976"/>
-        <updated>2022-04-03T06:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Limits to green energy are becoming much clearer]]></summary>
-        <author>
-            <name>cribbles</name>
-            <uri>https://news.ycombinator.com/user?id=cribbles</uri>
         </author>
     </entry>
 </feed>
