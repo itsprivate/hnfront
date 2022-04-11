@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T19:29:22.423Z</updated>
+    <updated>2022-04-11T19:37:14.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个首次使用Mac的用户的印象]]></title>
+        <id>https://news.ycombinator.com/item?id=30993350</id>
+        <link href="https://news.ycombinator.com/item?id=30993350"/>
+        <updated>2022-04-11T19:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Impressions from a first-time Mac user]]></summary>
+        <author>
+            <name>loganmarchione</name>
+            <uri>https://news.ycombinator.com/user?id=loganmarchione</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解密的政府数据显示，星际物体于2014年在地球上空爆炸。]]></title>
         <id>https://news.ycombinator.com/item?id=30992957</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zikohh</name>
             <uri>https://news.ycombinator.com/user?id=zikohh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊工人聊天软件将禁止使用 "工会"、"加薪"、"奴隶劳动 "等词汇]]></title>
-        <id>https://news.ycombinator.com/item?id=30911297</id>
-        <link href="https://news.ycombinator.com/item?id=30911297"/>
-        <updated>2022-04-04T19:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”]]></summary>
-        <author>
-            <name>enraged_camel</name>
-            <uri>https://news.ycombinator.com/user?id=enraged_camel</uri>
         </author>
     </entry>
 </feed>
