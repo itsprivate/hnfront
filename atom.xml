@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T06:18:45.457Z</updated>
+    <updated>2022-04-11T07:13:46.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我必须宣布立即终止SSLPing的服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30985514</id>
+        <link href="https://news.ycombinator.com/item?id=30985514"/>
+        <updated>2022-04-11T06:55:28.000Z</updated>
+        <summary type="html"><![CDATA[I must announce the immediate end of service of SSLPing]]></summary>
+        <author>
+            <name>WelcomeShorty</name>
+            <uri>https://news.ycombinator.com/user?id=WelcomeShorty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工智能的数学 (2022)]]></title>
         <id>https://news.ycombinator.com/item?id=30984662</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>freeCandy</name>
             <uri>https://news.ycombinator.com/user?id=freeCandy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们的智能手机上塞满了照片。挑战在于找到好的照片]]></title>
-        <id>https://news.ycombinator.com/item?id=30875709</id>
-        <link href="https://news.ycombinator.com/item?id=30875709"/>
-        <updated>2022-04-01T06:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Our smartphones are stuffed with photos. The challenge is finding the good ones]]></summary>
-        <author>
-            <name>ciprian_craciun</name>
-            <uri>https://news.ycombinator.com/user?id=ciprian_craciun</uri>
         </author>
     </entry>
 </feed>
