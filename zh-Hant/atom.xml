@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T18:16:19.221Z</updated>
+    <updated>2022-04-11T18:44:35.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Elixir構建的多人遊戲演示]]></title>
+        <id>https://news.ycombinator.com/item?id=30992587</id>
+        <link href="https://news.ycombinator.com/item?id=30992587"/>
+        <updated>2022-04-11T18:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multiplayer Demo Built with Elixir]]></summary>
+        <author>
+            <name>wenbo</name>
+            <uri>https://news.ycombinator.com/user?id=wenbo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全漫畫]]></title>
+        <id>https://news.ycombinator.com/item?id=30991368</id>
+        <link href="https://news.ycombinator.com/item?id=30991368"/>
+        <updated>2022-04-11T16:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Security Comics]]></summary>
+        <author>
+            <name>segudev</name>
+            <uri>https://news.ycombinator.com/user?id=segudev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的建議是否過於市儈？]]></title>
         <id>https://news.ycombinator.com/item?id=30992409</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ccleve</name>
             <uri>https://news.ycombinator.com/user?id=ccleve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2100年不適合居住的地方（互動地圖）]]></title>
-        <id>https://news.ycombinator.com/item?id=30911585</id>
-        <link href="https://news.ycombinator.com/item?id=30911585"/>
-        <updated>2022-04-04T20:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Uninhabitable places in 2100 (interactive map)]]></summary>
-        <author>
-            <name>superphil0</name>
-            <uri>https://news.ycombinator.com/user?id=superphil0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevCycle (YC W14)正在招聘特徵標誌自動化工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30911875</id>
-        <link href="https://news.ycombinator.com/item?id=30911875"/>
-        <updated>2022-04-04T21:00:54.000Z</updated>
-        <summary type="html"><![CDATA[DevCycle (YC W14) Is Hiring Feature Flag Automation Engineers]]></summary>
-        <author>
-            <name>aglazer</name>
-            <uri>https://news.ycombinator.com/user?id=aglazer</uri>
         </author>
     </entry>
 </feed>
