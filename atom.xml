@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T14:16:35.720Z</updated>
+    <updated>2022-04-11T14:31:48.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特币在迈阿密举办派对，我却把它砸了]]></title>
+        <id>https://news.ycombinator.com/item?id=30988557</id>
+        <link href="https://news.ycombinator.com/item?id=30988557"/>
+        <updated>2022-04-11T13:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Threw a Party in Miami and I Crashed It]]></summary>
+        <author>
+            <name>croes</name>
+            <uri>https://news.ycombinator.com/user?id=croes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今晚我们要像1979年一样登录（Telenet, Dialcom and The Source）。]]></title>
         <id>https://news.ycombinator.com/item?id=30988647</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重返猴岛--2022年上市]]></title>
-        <id>https://news.ycombinator.com/item?id=30907731</id>
-        <link href="https://news.ycombinator.com/item?id=30907731"/>
-        <updated>2022-04-04T15:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Return to Monkey Island – Coming 2022]]></summary>
-        <author>
-            <name>pietroppeter</name>
-            <uri>https://news.ycombinator.com/user?id=pietroppeter</uri>
         </author>
     </entry>
 </feed>
