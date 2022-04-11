@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T10:40:22.486Z</updated>
+    <updated>2022-04-11T11:53:59.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们是邪教"。比特币无耻的炒作活动的内幕]]></title>
+        <id>https://news.ycombinator.com/item?id=30986762</id>
+        <link href="https://news.ycombinator.com/item?id=30986762"/>
+        <updated>2022-04-11T10:18:29.000Z</updated>
+        <summary type="html"><![CDATA[‘We’re a Cult’: Inside Bitcoin’s Shameless Hypefest]]></summary>
+        <author>
+            <name>throwaway4good</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway4good</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿特拉斯公司成功恢复了3个受影响客户中略多于1个的数据]]></title>
         <id>https://news.ycombinator.com/item?id=30986732</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dna_polymerase</name>
             <uri>https://news.ycombinator.com/user?id=dna_polymerase</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eigen: 一个用于线性代数的C++模板库]]></title>
-        <id>https://news.ycombinator.com/item?id=30906376</id>
-        <link href="https://news.ycombinator.com/item?id=30906376"/>
-        <updated>2022-04-04T13:26:52.000Z</updated>
-        <summary type="html"><![CDATA[Eigen: A C++ template library for linear algebra]]></summary>
-        <author>
-            <name>cpp_frog</name>
-            <uri>https://news.ycombinator.com/user?id=cpp_frog</uri>
         </author>
     </entry>
 </feed>
