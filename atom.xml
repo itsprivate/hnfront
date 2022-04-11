@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T08:55:05.862Z</updated>
+    <updated>2022-04-11T09:13:16.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[国际象棋、数学和比萨饼中的祖格兹旺]]></title>
+        <id>https://news.ycombinator.com/item?id=30984499</id>
+        <link href="https://news.ycombinator.com/item?id=30984499"/>
+        <updated>2022-04-11T03:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Zugzwang in Chess, Math and Pizzas]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旧金山警察因没有开灯而将一辆Cruise无人驾驶汽车拦下]]></title>
         <id>https://news.ycombinator.com/item?id=30985843</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何培养专注力？]]></title>
-        <id>https://news.ycombinator.com/item?id=30905620</id>
-        <link href="https://news.ycombinator.com/item?id=30905620"/>
-        <updated>2022-04-04T11:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How do I develop focus?]]></summary>
-        <author>
-            <name>FreeHugs</name>
-            <uri>https://news.ycombinator.com/user?id=FreeHugs</uri>
         </author>
     </entry>
 </feed>
