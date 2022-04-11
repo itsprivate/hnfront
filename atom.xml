@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T07:13:46.044Z</updated>
+    <updated>2022-04-11T07:42:44.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[知道Python后，我可以从事什么工作？]]></title>
+        <id>https://news.ycombinator.com/item?id=30985277</id>
+        <link href="https://news.ycombinator.com/item?id=30985277"/>
+        <updated>2022-04-11T06:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What jobs can I have knowing Python?]]></summary>
+        <author>
+            <name>mahdi7d1</name>
+            <uri>https://news.ycombinator.com/user?id=mahdi7d1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我必须宣布立即终止SSLPing的服务]]></title>
         <id>https://news.ycombinator.com/item?id=30985514</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习数学？像漫画家一样思考]]></title>
-        <id>https://news.ycombinator.com/item?id=30876342</id>
-        <link href="https://news.ycombinator.com/item?id=30876342"/>
-        <updated>2022-04-01T08:48:42.000Z</updated>
-        <summary type="html"><![CDATA[Learning math? Think like a cartoonist]]></summary>
-        <author>
-            <name>freeCandy</name>
-            <uri>https://news.ycombinator.com/user?id=freeCandy</uri>
         </author>
     </entry>
 </feed>
