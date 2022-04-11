@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T12:21:21.866Z</updated>
+    <updated>2022-04-11T13:29:57.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js包不值得你信任]]></title>
+        <id>https://news.ycombinator.com/item?id=30988034</id>
+        <link href="https://news.ycombinator.com/item?id=30988034"/>
+        <updated>2022-04-11T12:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Node.js packages don't deserve your trust]]></summary>
+        <author>
+            <name>lewisjoe</name>
+            <uri>https://news.ycombinator.com/user?id=lewisjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepMind的新語言模型，Chinchilla(70B參數)，性能優於GPT-3]]></title>
+        <id>https://news.ycombinator.com/item?id=30987885</id>
+        <link href="https://news.ycombinator.com/item?id=30987885"/>
+        <updated>2022-04-11T12:41:08.000Z</updated>
+        <summary type="html"><![CDATA[DeepMind’s New Language Model,Chinchilla(70B Parameters),Which Outperforms GPT-3]]></summary>
+        <author>
+            <name>georgehill</name>
+            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在本地編輯遠程代碼。最佳實踐？]]></title>
+        <id>https://news.ycombinator.com/item?id=30987770</id>
+        <link href="https://news.ycombinator.com/item?id=30987770"/>
+        <updated>2022-04-11T12:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Editing remote code locally: Best practices?]]></summary>
+        <author>
+            <name>E_Evan</name>
+            <uri>https://news.ycombinator.com/user?id=E_Evan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppet首席執行官的一封公開信。Puppet和Perforce]]></title>
+        <id>https://news.ycombinator.com/item?id=30987472</id>
+        <link href="https://news.ycombinator.com/item?id=30987472"/>
+        <updated>2022-04-11T11:57:26.000Z</updated>
+        <summary type="html"><![CDATA[An Open Letter from the CEO of Puppet: Puppet and Perforce]]></summary>
+        <author>
+            <name>mritzmann</name>
+            <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Basis (YC S21)正在招聘我們的第一個開發/設計人員，以建立數據的Figma。]]></title>
         <id>https://news.ycombinator.com/item?id=30987506</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>canyonero</name>
             <uri>https://news.ycombinator.com/user?id=canyonero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為什麼要參加陸軍預備役--為我的科技界朋友們做個解釋]]></title>
-        <id>https://news.ycombinator.com/item?id=30906879</id>
-        <link href="https://news.ycombinator.com/item?id=30906879"/>
-        <updated>2022-04-04T14:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Why I'm in the Army Reserve–an explainer for my friends in tech]]></summary>
-        <author>
-            <name>chrisseaton</name>
-            <uri>https://news.ycombinator.com/user?id=chrisseaton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是一個嬰兒嗎？一個試金石測試]]></title>
-        <id>https://news.ycombinator.com/item?id=30906621</id>
-        <link href="https://news.ycombinator.com/item?id=30906621"/>
-        <updated>2022-04-04T13:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Are you a baby? A litmus test]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flickr已經刪除了互聯網檔案館的圖書圖片賬戶]]></title>
-        <id>https://news.ycombinator.com/item?id=30907228</id>
-        <link href="https://news.ycombinator.com/item?id=30907228"/>
-        <updated>2022-04-04T14:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Flickr has deleted the Internet Archive Book Images account]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有更多的語言提供流式輸入？]]></title>
-        <id>https://news.ycombinator.com/item?id=30907178</id>
-        <link href="https://news.ycombinator.com/item?id=30907178"/>
-        <updated>2022-04-04T14:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Why Don't More Languages Offer Flow Typing?]]></summary>
-        <author>
-            <name>fourteenminutes</name>
-            <uri>https://news.ycombinator.com/user?id=fourteenminutes</uri>
         </author>
     </entry>
 </feed>
