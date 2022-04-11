@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T18:44:35.345Z</updated>
+    <updated>2022-04-11T18:59:23.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[-h -Help -Help 幫助 -? -?]]></title>
+        <id>https://news.ycombinator.com/item?id=30991834</id>
+        <link href="https://news.ycombinator.com/item?id=30991834"/>
+        <updated>2022-04-11T17:11:22.000Z</updated>
+        <summary type="html"><![CDATA[-h –Help -help Help –? –?]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Elixir構建的多人遊戲演示]]></title>
         <id>https://news.ycombinator.com/item?id=30992587</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lousyd</name>
             <uri>https://news.ycombinator.com/user?id=lousyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我孩子的學校安裝了間諜軟件，我無法刪除它]]></title>
-        <id>https://news.ycombinator.com/item?id=30911623</id>
-        <link href="https://news.ycombinator.com/item?id=30911623"/>
-        <updated>2022-04-04T20:32:18.000Z</updated>
-        <summary type="html"><![CDATA[My kid's school installed spyware and I can't remove it]]></summary>
-        <author>
-            <name>ccleve</name>
-            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
         </author>
     </entry>
 </feed>
