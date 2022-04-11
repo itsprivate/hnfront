@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T15:55:43.854Z</updated>
+    <updated>2022-04-11T16:18:55.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Daily如何以及為何在我們的WebRTC API中使用Rust？]]></title>
+        <id>https://news.ycombinator.com/item?id=30990297</id>
+        <link href="https://news.ycombinator.com/item?id=30990297"/>
+        <updated>2022-04-11T15:39:49.000Z</updated>
+        <summary type="html"><![CDATA[How and why Daily is using Rust for our WebRTC APIs]]></summary>
+        <author>
+            <name>vr000m</name>
+            <uri>https://news.ycombinator.com/user?id=vr000m</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用剪刀和膠水完成的一場藝術革命]]></title>
+        <id>https://news.ycombinator.com/item?id=30984426</id>
+        <link href="https://news.ycombinator.com/item?id=30984426"/>
+        <updated>2022-04-11T03:51:11.000Z</updated>
+        <summary type="html"><![CDATA[An Art Revolution, Made with Scissors and Glue]]></summary>
+        <author>
+            <name>apollinaire</name>
+            <uri>https://news.ycombinator.com/user?id=apollinaire</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[艾特罷工]]></title>
         <id>https://news.ycombinator.com/item?id=30989344</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dmoreno</name>
             <uri>https://news.ycombinator.com/user?id=dmoreno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對屋大維贏得與安東尼和克里奧帕特拉戰爭的原因的新看法]]></title>
-        <id>https://news.ycombinator.com/item?id=30894433</id>
-        <link href="https://news.ycombinator.com/item?id=30894433"/>
-        <updated>2022-04-03T04:26:40.000Z</updated>
-        <summary type="html"><![CDATA[A fresh take on why Octavian won the war against Antony and Cleopatra]]></summary>
-        <author>
-            <name>diodorus</name>
-            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[單芯片處理器已經達到了它們的極限]]></title>
-        <id>https://news.ycombinator.com/item?id=30908908</id>
-        <link href="https://news.ycombinator.com/item?id=30908908"/>
-        <updated>2022-04-04T16:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Single-Chip Processors Have Reached Their Limits]]></summary>
-        <author>
-            <name>blopeur</name>
-            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
         </author>
     </entry>
 </feed>

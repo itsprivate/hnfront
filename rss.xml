@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 15:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 16:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Daily如何以及为何在我们的WebRTC API中使用Rust？]]></title>
+            <link>https://news.ycombinator.com/item?id=30990297</link>
+            <guid>https://news.ycombinator.com/item?id=30990297</guid>
+            <pubDate>Mon, 11 Apr 2022 15:39:49 GMT</pubDate>
+            <description><![CDATA[How and why Daily is using Rust for our WebRTC APIs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用剪刀和胶水完成的一场艺术革命]]></title>
+            <link>https://news.ycombinator.com/item?id=30984426</link>
+            <guid>https://news.ycombinator.com/item?id=30984426</guid>
+            <pubDate>Mon, 11 Apr 2022 03:51:11 GMT</pubDate>
+            <description><![CDATA[An Art Revolution, Made with Scissors and Glue]]></description>
+        </item>
         <item>
             <title><![CDATA[艾特罢工]]></title>
             <link>https://news.ycombinator.com/item?id=30989344</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30908395</guid>
             <pubDate>Mon, 04 Apr 2022 16:17:39 GMT</pubDate>
             <description><![CDATA[Return to Monkey Island]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对屋大维赢得与安东尼和克里奥帕特拉战争的原因的新看法]]></title>
-            <link>https://news.ycombinator.com/item?id=30894433</link>
-            <guid>https://news.ycombinator.com/item?id=30894433</guid>
-            <pubDate>Sun, 03 Apr 2022 04:26:40 GMT</pubDate>
-            <description><![CDATA[A fresh take on why Octavian won the war against Antony and Cleopatra]]></description>
-        </item>
-        <item>
-            <title><![CDATA[单芯片处理器已经达到了它们的极限]]></title>
-            <link>https://news.ycombinator.com/item?id=30908908</link>
-            <guid>https://news.ycombinator.com/item?id=30908908</guid>
-            <pubDate>Mon, 04 Apr 2022 16:53:21 GMT</pubDate>
-            <description><![CDATA[Single-Chip Processors Have Reached Their Limits]]></description>
         </item>
     </channel>
 </rss>
