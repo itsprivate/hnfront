@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T15:38:35.171Z</updated>
+    <updated>2022-04-11T15:55:43.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[艾特罢工]]></title>
+        <id>https://news.ycombinator.com/item?id=30989344</id>
+        <link href="https://news.ycombinator.com/item?id=30989344"/>
+        <updated>2022-04-11T14:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Etsy Strike]]></summary>
+        <author>
+            <name>KarlKemp</name>
+            <uri>https://news.ycombinator.com/user?id=KarlKemp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与火箭实验室的彼得-贝克就可重复使用性、发射需求等问题进行对话]]></title>
         <id>https://news.ycombinator.com/item?id=30989905</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>blopeur</name>
             <uri>https://news.ycombinator.com/user?id=blopeur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jitx（YC S18）正在招聘高级开发人员，以实现电路板设计的自动化]]></title>
-        <id>https://news.ycombinator.com/item?id=30909029</id>
-        <link href="https://news.ycombinator.com/item?id=30909029"/>
-        <updated>2022-04-04T17:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Jitx (YC S18) is hiring senior developers to automate circuit board design]]></summary>
-        <author>
-            <name>DHaldane</name>
-            <uri>https://news.ycombinator.com/user?id=DHaldane</uri>
         </author>
     </entry>
 </feed>

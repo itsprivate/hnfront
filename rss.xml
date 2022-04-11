@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 15:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 15:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[艾特罢工]]></title>
+            <link>https://news.ycombinator.com/item?id=30989344</link>
+            <guid>https://news.ycombinator.com/item?id=30989344</guid>
+            <pubDate>Mon, 11 Apr 2022 14:35:54 GMT</pubDate>
+            <description><![CDATA[Etsy Strike]]></description>
+        </item>
         <item>
             <title><![CDATA[与火箭实验室的彼得-贝克就可重复使用性、发射需求等问题进行对话]]></title>
             <link>https://news.ycombinator.com/item?id=30989905</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30908908</guid>
             <pubDate>Mon, 04 Apr 2022 16:53:21 GMT</pubDate>
             <description><![CDATA[Single-Chip Processors Have Reached Their Limits]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jitx（YC S18）正在招聘高级开发人员，以实现电路板设计的自动化]]></title>
-            <link>https://news.ycombinator.com/item?id=30909029</link>
-            <guid>https://news.ycombinator.com/item?id=30909029</guid>
-            <pubDate>Mon, 04 Apr 2022 17:00:53 GMT</pubDate>
-            <description><![CDATA[Jitx (YC S18) is hiring senior developers to automate circuit board design]]></description>
         </item>
     </channel>
 </rss>
