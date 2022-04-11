@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T07:42:44.272Z</updated>
+    <updated>2022-04-11T08:15:31.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我决定为了我的孩子和我自己的大技术而搬走。]]></title>
+        <id>https://news.ycombinator.com/item?id=30985684</id>
+        <link href="https://news.ycombinator.com/item?id=30985684"/>
+        <updated>2022-04-11T07:21:49.000Z</updated>
+        <summary type="html"><![CDATA[I decided to move away for big tech for my children and myself]]></summary>
+        <author>
+            <name>urlwolf</name>
+            <uri>https://news.ycombinator.com/user?id=urlwolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知道Python后，我可以从事什么工作？]]></title>
         <id>https://news.ycombinator.com/item?id=30985277</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jonreiter</name>
             <uri>https://news.ycombinator.com/user?id=jonreiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克拥有9.2%的Twitter股份]]></title>
-        <id>https://news.ycombinator.com/item?id=30904988</id>
-        <link href="https://news.ycombinator.com/item?id=30904988"/>
-        <updated>2022-04-04T10:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk owns 9.2% of Twitter]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
