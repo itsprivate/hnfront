@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T21:12:53.169Z</updated>
+    <updated>2022-04-11T21:32:18.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[羽毛笔的基本指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30975565</id>
+        <link href="https://news.ycombinator.com/item?id=30975565"/>
+        <updated>2022-04-10T09:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Essential Guide to Feather Quill Pens]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HireArt (YC W12) 是招聘和工程经理]]></title>
         <id>https://news.ycombinator.com/item?id=30994960</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>clouddrover</name>
             <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[牦牛剃头的故事》。意外地为引擎和游戏制作了一种语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30914148</id>
-        <link href="https://news.ycombinator.com/item?id=30914148"/>
-        <updated>2022-04-05T01:17:57.000Z</updated>
-        <summary type="html"><![CDATA[A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game]]></summary>
-        <author>
-            <name>markdog12</name>
-            <uri>https://news.ycombinator.com/user?id=markdog12</uri>
         </author>
     </entry>
 </feed>
