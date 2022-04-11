@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T13:29:57.350Z</updated>
+    <updated>2022-04-11T13:52:48.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我喜欢碳抵消的想法，直到我试图解释它]]></title>
+        <id>https://news.ycombinator.com/item?id=30988390</id>
+        <link href="https://news.ycombinator.com/item?id=30988390"/>
+        <updated>2022-04-11T13:29:43.000Z</updated>
+        <summary type="html"><![CDATA[I Liked the Idea of Carbon Offsets, Until I Tried to Explain It]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个关于规划沙漠风暴的故事]]></title>
+        <id>https://news.ycombinator.com/item?id=30987122</id>
+        <link href="https://news.ycombinator.com/item?id=30987122"/>
+        <updated>2022-04-11T11:14:07.000Z</updated>
+        <summary type="html"><![CDATA[A story about planning for Desert Storm]]></summary>
+        <author>
+            <name>bibliographer</name>
+            <uri>https://news.ycombinator.com/user?id=bibliographer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js包不值得你信任]]></title>
         <id>https://news.ycombinator.com/item?id=30988034</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ivanvas</name>
             <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假设有积极的意图]]></title>
-        <id>https://news.ycombinator.com/item?id=30907527</id>
-        <link href="https://news.ycombinator.com/item?id=30907527"/>
-        <updated>2022-04-04T15:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Assume Positive Intent]]></summary>
-        <author>
-            <name>vxxzy</name>
-            <uri>https://news.ycombinator.com/user?id=vxxzy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedwoodJS今天达到1.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30907119</id>
-        <link href="https://news.ycombinator.com/item?id=30907119"/>
-        <updated>2022-04-04T14:36:43.000Z</updated>
-        <summary type="html"><![CDATA[RedwoodJS Reaches 1.0 Today]]></summary>
-        <author>
-            <name>canyonero</name>
-            <uri>https://news.ycombinator.com/user?id=canyonero</uri>
         </author>
     </entry>
 </feed>
