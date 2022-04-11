@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T17:20:35.463Z</updated>
+    <updated>2022-04-11T17:39:40.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究表明，迷幻药能解放抑郁的大脑]]></title>
+        <id>https://news.ycombinator.com/item?id=30991278</id>
+        <link href="https://news.ycombinator.com/item?id=30991278"/>
+        <updated>2022-04-11T16:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Psychedelic frees up depressed brain, study shows]]></summary>
+        <author>
+            <name>bencollier49</name>
+            <uri>https://news.ycombinator.com/user?id=bencollier49</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pachyderm正在招聘SDET&Build/Release Eng，为以数据为中心的人工智能平台提供动力]]></title>
         <id>https://news.ycombinator.com/item?id=30991676</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aqeelat</name>
             <uri>https://news.ycombinator.com/user?id=aqeelat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datasette（2018）中的有趣想法]]></title>
-        <id>https://news.ycombinator.com/item?id=30886723</id>
-        <link href="https://news.ycombinator.com/item?id=30886723"/>
-        <updated>2022-04-02T08:31:26.000Z</updated>
-        <summary type="html"><![CDATA[The interesting ideas in Datasette (2018)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
