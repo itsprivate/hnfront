@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T17:39:40.315Z</updated>
+    <updated>2022-04-11T17:53:04.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在零重力状态下的猫会失去自动右转的反射能力]]></title>
+        <id>https://news.ycombinator.com/item?id=30990575</id>
+        <link href="https://news.ycombinator.com/item?id=30990575"/>
+        <updated>2022-04-11T15:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Cats in zero-g lose their auto-righting reflex]]></summary>
+        <author>
+            <name>carabiner</name>
+            <uri>https://news.ycombinator.com/user?id=carabiner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究表明，迷幻药能解放抑郁的大脑]]></title>
         <id>https://news.ycombinator.com/item?id=30991278</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sneakymichael</name>
             <uri>https://news.ycombinator.com/user?id=sneakymichael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么直流可能取代交流？]]></title>
-        <id>https://news.ycombinator.com/item?id=30910133</id>
-        <link href="https://news.ycombinator.com/item?id=30910133"/>
-        <updated>2022-04-04T18:17:56.000Z</updated>
-        <summary type="html"><![CDATA[Why DC May Replace AC]]></summary>
-        <author>
-            <name>aqeelat</name>
-            <uri>https://news.ycombinator.com/user?id=aqeelat</uri>
         </author>
     </entry>
 </feed>
