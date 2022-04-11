@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T16:55:15.431Z</updated>
+    <updated>2022-04-11T17:20:35.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pachyderm正在招聘SDET&Build/Release Eng，為以數據為中心的人工智能平臺提供動力]]></title>
+        <id>https://news.ycombinator.com/item?id=30991676</id>
+        <link href="https://news.ycombinator.com/item?id=30991676"/>
+        <updated>2022-04-11T17:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Pachyderm Is Hiring SDET&Build/Release Eng to Power the Data-Centric AI Platform]]></summary>
+        <author>
+            <name>jaz46</name>
+            <uri>https://news.ycombinator.com/user?id=jaz46</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAANG等公司如何構建他們的規模化推薦系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30991392</id>
+        <link href="https://news.ycombinator.com/item?id=30991392"/>
+        <updated>2022-04-11T16:44:26.000Z</updated>
+        <summary type="html"><![CDATA[How FAANG etc. architect their recommendation systems at scale]]></summary>
+        <author>
+            <name>nikhilgarg28</name>
+            <uri>https://news.ycombinator.com/user?id=nikhilgarg28</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何為WASM編譯C/C++，純Clang，無libs，無框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30991235</id>
+        <link href="https://news.ycombinator.com/item?id=30991235"/>
+        <updated>2022-04-11T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework]]></summary>
+        <author>
+            <name>ern0</name>
+            <uri>https://news.ycombinator.com/user?id=ern0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP響應頭中的一首詩]]></title>
+        <id>https://news.ycombinator.com/item?id=30955838</id>
+        <link href="https://news.ycombinator.com/item?id=30955838"/>
+        <updated>2022-04-08T11:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A poem inside HTTP response headers]]></summary>
+        <author>
+            <name>jacobevelyn</name>
+            <uri>https://news.ycombinator.com/user?id=jacobevelyn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elementary Audio: 一個用於編寫高性能音頻軟件的現代平臺]]></title>
         <id>https://news.ycombinator.com/item?id=30990874</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天是反壟斷日。告訴國會，讓人們重新掌握科技的控制權]]></title>
-        <id>https://news.ycombinator.com/item?id=30910986</id>
-        <link href="https://news.ycombinator.com/item?id=30910986"/>
-        <updated>2022-04-04T19:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Today is Antitrust Day. Tell Congress to put people back in control of tech]]></summary>
-        <author>
-            <name>zrm</name>
-            <uri>https://news.ycombinator.com/user?id=zrm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是好人還是善人？]]></title>
-        <id>https://news.ycombinator.com/item?id=30911131</id>
-        <link href="https://news.ycombinator.com/item?id=30911131"/>
-        <updated>2022-04-04T19:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Are You Nice or Kind?]]></summary>
-        <author>
-            <name>mahathu</name>
-            <uri>https://news.ycombinator.com/user?id=mahathu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數字模型保存了遊戲節目的歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=30900035</id>
-        <link href="https://news.ycombinator.com/item?id=30900035"/>
-        <updated>2022-04-03T19:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital models preserve game show history]]></summary>
-        <author>
-            <name>rcarmo</name>
-            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維多利亞時代是如何成為無趣的假正經的參考點的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30894353</id>
-        <link href="https://news.ycombinator.com/item?id=30894353"/>
-        <updated>2022-04-03T04:10:33.000Z</updated>
-        <summary type="html"><![CDATA[How Did the Victorians Become a Reference Point for Joyless Prudery?]]></summary>
-        <author>
-            <name>apollinaire</name>
-            <uri>https://news.ycombinator.com/user?id=apollinaire</uri>
         </author>
     </entry>
 </feed>
