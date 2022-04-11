@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 10:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 10:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[阿特拉斯公司成功恢復了3個受影響客戶中略多於1個的數據]]></title>
+            <link>https://news.ycombinator.com/item?id=30986732</link>
+            <guid>https://news.ycombinator.com/item?id=30986732</guid>
+            <pubDate>Mon, 11 Apr 2022 10:13:08 GMT</pubDate>
+            <description><![CDATA[Atlassian successfully restores just over 1 out of 3 affected customers data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我討厭Spring（Java框架）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30985624</link>
+            <guid>https://news.ycombinator.com/item?id=30985624</guid>
+            <pubDate>Mon, 11 Apr 2022 07:13:48 GMT</pubDate>
+            <description><![CDATA[I hate Spring (the Java framework)]]></description>
+        </item>
         <item>
             <title><![CDATA[楊紫瓊、武術和多元宇宙：年度最瘋狂電影的內幕]]></title>
             <link>https://news.ycombinator.com/item?id=30986471</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30906376</guid>
             <pubDate>Mon, 04 Apr 2022 13:26:52 GMT</pubDate>
             <description><![CDATA[Eigen: A C++ template library for linear algebra]]></description>
-        </item>
-        <item>
-            <title><![CDATA[藍色連接器並不代表USB 3.0]]></title>
-            <link>https://news.ycombinator.com/item?id=30906127</link>
-            <guid>https://news.ycombinator.com/item?id=30906127</guid>
-            <pubDate>Mon, 04 Apr 2022 13:03:08 GMT</pubDate>
-            <description><![CDATA[A Blue Connector Does Not USB 3.0 Make]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meta快速檢測規模化的無聲數據損壞]]></title>
-            <link>https://news.ycombinator.com/item?id=30905636</link>
-            <guid>https://news.ycombinator.com/item?id=30905636</guid>
-            <pubDate>Mon, 04 Apr 2022 12:01:47 GMT</pubDate>
-            <description><![CDATA[Meta quickly detects silent data corruptions at scale]]></description>
         </item>
     </channel>
 </rss>
