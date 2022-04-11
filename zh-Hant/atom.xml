@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T00:42:29.315Z</updated>
+    <updated>2022-04-11T02:38:12.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[噪聲汙染對心臟的傷害]]></title>
+        <id>https://news.ycombinator.com/item?id=30983274</id>
+        <link href="https://news.ycombinator.com/item?id=30983274"/>
+        <updated>2022-04-11T00:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Noise Pollution Hurts the Heart]]></summary>
+        <author>
+            <name>karlzt</name>
+            <uri>https://news.ycombinator.com/user?id=karlzt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[連接斯堪的納維亞半島和地中海的110億美元的隧道]]></title>
+        <id>https://news.ycombinator.com/item?id=30983269</id>
+        <link href="https://news.ycombinator.com/item?id=30983269"/>
+        <updated>2022-04-11T00:37:24.000Z</updated>
+        <summary type="html"><![CDATA[The $11BN Tunnel Connecting Scandinavia to the Mediterranean]]></summary>
+        <author>
+            <name>lelf</name>
+            <uri>https://news.ycombinator.com/user?id=lelf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我從用Rust製作DNS客戶端中學到的東西]]></title>
+        <id>https://news.ycombinator.com/item?id=30983245</id>
+        <link href="https://news.ycombinator.com/item?id=30983245"/>
+        <updated>2022-04-11T00:33:57.000Z</updated>
+        <summary type="html"><![CDATA[What I learned from making a DNS client in Rust]]></summary>
+        <author>
+            <name>adamch</name>
+            <uri>https://news.ycombinator.com/user?id=adamch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iced - 一個跨平臺的Rust GUI庫，靈感來自Elm]]></title>
+        <id>https://news.ycombinator.com/item?id=30983024</id>
+        <link href="https://news.ycombinator.com/item?id=30983024"/>
+        <updated>2022-04-11T00:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Iced – A cross-platform GUI library for Rust, inspired by Elm]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我怎麼會在技術領域工作得這麼不開心？]]></title>
         <id>https://news.ycombinator.com/item?id=30980893</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boopkit: eBPF後門（TCP），用於生成反向外殼]]></title>
-        <id>https://news.ycombinator.com/item?id=30903356</id>
-        <link href="https://news.ycombinator.com/item?id=30903356"/>
-        <updated>2022-04-04T04:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Boopkit: eBPF backdoor (TCP) for spawning reverse shells]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
-            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司對iOS中25萬個可自動完成的域名的白名單]]></title>
-        <id>https://news.ycombinator.com/item?id=30903246</id>
-        <link href="https://news.ycombinator.com/item?id=30903246"/>
-        <updated>2022-04-04T04:10:35.000Z</updated>
-        <summary type="html"><![CDATA[Apple's whitelist of the 250k auto-completable domains in iOS]]></summary>
-        <author>
-            <name>varenc</name>
-            <uri>https://news.ycombinator.com/user?id=varenc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[婦女和她們的頭髮改造了韓國]]></title>
-        <id>https://news.ycombinator.com/item?id=30890645</id>
-        <link href="https://news.ycombinator.com/item?id=30890645"/>
-        <updated>2022-04-02T18:46:43.000Z</updated>
-        <summary type="html"><![CDATA[Women and their hair transformed South Korea]]></summary>
-        <author>
-            <name>Thevet</name>
-            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西昂硫晶體電池有望在能量密度方面取得突破性進展]]></title>
-        <id>https://news.ycombinator.com/item?id=30903209</id>
-        <link href="https://news.ycombinator.com/item?id=30903209"/>
-        <updated>2022-04-04T03:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Theion sulphur crystal batteries promise breakthrough in energy density]]></summary>
-        <author>
-            <name>danboarder</name>
-            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
         </author>
     </entry>
 </feed>
