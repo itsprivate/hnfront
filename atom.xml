@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T07:14:17.856Z</updated>
+    <updated>2022-04-12T07:32:40.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[成为一名远程技术作家]]></title>
+        <id>https://news.ycombinator.com/item?id=30998067</id>
+        <link href="https://news.ycombinator.com/item?id=30998067"/>
+        <updated>2022-04-12T02:57:43.000Z</updated>
+        <summary type="html"><![CDATA[Becoming a Remote Technical Writer]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们的数据世界（YC W19）正在招聘一名运营官]]></title>
         <id>https://news.ycombinator.com/item?id=30999510</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的免费软件摄影工作流程]]></title>
-        <id>https://news.ycombinator.com/item?id=30904845</id>
-        <link href="https://news.ycombinator.com/item?id=30904845"/>
-        <updated>2022-04-04T09:54:27.000Z</updated>
-        <summary type="html"><![CDATA[My free-software photography workflow]]></summary>
-        <author>
-            <name>fidelramos</name>
-            <uri>https://news.ycombinator.com/user?id=fidelramos</uri>
         </author>
     </entry>
 </feed>
