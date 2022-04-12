@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-11T23:34:55.577Z</updated>
+    <updated>2022-04-12T00:39:05.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卵石公司为何失败]]></title>
+        <id>https://news.ycombinator.com/item?id=30995487</id>
+        <link href="https://news.ycombinator.com/item?id=30995487"/>
+        <updated>2022-04-11T21:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Why Pebble Failed]]></summary>
+        <author>
+            <name>zsid</name>
+            <uri>https://news.ycombinator.com/user?id=zsid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[室内气候的演变]]></title>
+        <id>https://news.ycombinator.com/item?id=30965649</id>
+        <link href="https://news.ycombinator.com/item?id=30965649"/>
+        <updated>2022-04-09T06:17:58.000Z</updated>
+        <summary type="html"><![CDATA[The Evolution of Indoor Climate]]></summary>
+        <author>
+            <name>manholio</name>
+            <uri>https://news.ycombinator.com/user?id=manholio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么过去10年的美国生活是独一无二的愚蠢]]></title>
         <id>https://news.ycombinator.com/item?id=30992322</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rodolphedutel</name>
             <uri>https://news.ycombinator.com/user?id=rodolphedutel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[失踪的达尔文笔记本被送回剑桥大学图书馆]]></title>
-        <id>https://news.ycombinator.com/item?id=30915923</id>
-        <link href="https://news.ycombinator.com/item?id=30915923"/>
-        <updated>2022-04-05T06:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Missing Darwin Notebooks Returned to Cambridge University Library]]></summary>
-        <author>
-            <name>vo2maxer</name>
-            <uri>https://news.ycombinator.com/user?id=vo2maxer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Para方法。组织数字信息的通用系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30916260</id>
-        <link href="https://news.ycombinator.com/item?id=30916260"/>
-        <updated>2022-04-05T07:32:15.000Z</updated>
-        <summary type="html"><![CDATA[The Para Method: A Universal System for Organizing Digital Information]]></summary>
-        <author>
-            <name>lorenzfx</name>
-            <uri>https://news.ycombinator.com/user?id=lorenzfx</uri>
         </author>
     </entry>
 </feed>
