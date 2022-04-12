@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T08:55:30.145Z</updated>
+    <updated>2022-04-12T09:13:12.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天我向一家银行申请常规抵押贷款，他们说不行。]]></title>
+        <id>https://news.ycombinator.com/item?id=30999974</id>
+        <link href="https://news.ycombinator.com/item?id=30999974"/>
+        <updated>2022-04-12T08:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Today I asked a bank for a conventional mortgage and they said NO]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用塑料瓶代替煤气罐。无人机Orlan 10俄罗斯技术]]></title>
         <id>https://news.ycombinator.com/item?id=30999189</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hugohamelcom</name>
             <uri>https://news.ycombinator.com/user?id=hugohamelcom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测量能源消耗的Rust测试线束]]></title>
-        <id>https://news.ycombinator.com/item?id=30918318</id>
-        <link href="https://news.ycombinator.com/item?id=30918318"/>
-        <updated>2022-04-05T12:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rust test harness that measures energy consumption]]></summary>
-        <author>
-            <name>thijsr</name>
-            <uri>https://news.ycombinator.com/user?id=thijsr</uri>
         </author>
     </entry>
 </feed>
