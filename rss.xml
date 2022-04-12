@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 12 Apr 2022 05:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 06:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么Gov.uk设计系统团队改变了数字的输入类型（2020）？]]></title>
+            <link>https://news.ycombinator.com/item?id=30997822</link>
+            <guid>https://news.ycombinator.com/item?id=30997822</guid>
+            <pubDate>Tue, 12 Apr 2022 02:16:37 GMT</pubDate>
+            <description><![CDATA[Why the Gov.uk Design System team changed the input type for numbers (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[草地教会我们什么]]></title>
             <link>https://news.ycombinator.com/item?id=30976071</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30917863</guid>
             <pubDate>Tue, 05 Apr 2022 11:56:33 GMT</pubDate>
             <description><![CDATA[Man hacked random-number generator to rig lotteries, investigators say (2016)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sidekiq（一个Ruby背景处理库）在10年内赚了1350万美元]]></title>
-            <link>https://news.ycombinator.com/item?id=30917740</link>
-            <guid>https://news.ycombinator.com/item?id=30917740</guid>
-            <pubDate>Tue, 05 Apr 2022 11:41:30 GMT</pubDate>
-            <description><![CDATA[Sidekiq (a Ruby background processing lib) has made $13.5M in 10 years]]></description>
         </item>
     </channel>
 </rss>

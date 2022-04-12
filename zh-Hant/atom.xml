@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T05:38:45.884Z</updated>
+    <updated>2022-04-12T06:15:19.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Gov.uk設計系統團隊改變了數字的輸入類型（2020）？]]></title>
+        <id>https://news.ycombinator.com/item?id=30997822</id>
+        <link href="https://news.ycombinator.com/item?id=30997822"/>
+        <updated>2022-04-12T02:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Why the Gov.uk Design System team changed the input type for numbers (2020)]]></summary>
+        <author>
+            <name>sebmellen</name>
+            <uri>https://news.ycombinator.com/user?id=sebmellen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[草地教會我們什麼]]></title>
         <id>https://news.ycombinator.com/item?id=30976071</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwawaybutwhy</name>
             <uri>https://news.ycombinator.com/user?id=throwawaybutwhy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sidekiq（一個Ruby背景處理庫）在10年內賺了1350萬美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30917740</id>
-        <link href="https://news.ycombinator.com/item?id=30917740"/>
-        <updated>2022-04-05T11:41:30.000Z</updated>
-        <summary type="html"><![CDATA[Sidekiq (a Ruby background processing lib) has made $13.5M in 10 years]]></summary>
-        <author>
-            <name>nickjj</name>
-            <uri>https://news.ycombinator.com/user?id=nickjj</uri>
         </author>
     </entry>
 </feed>
