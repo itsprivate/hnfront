@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 12 Apr 2022 11:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 11:51:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mizu - Kubernetes的API流量查看器]]></title>
+            <link>https://news.ycombinator.com/item?id=30976293</link>
+            <guid>https://news.ycombinator.com/item?id=30976293</guid>
+            <pubDate>Sun, 10 Apr 2022 12:01:32 GMT</pubDate>
+            <description><![CDATA[Mizu – API traffic viewer for Kubernetes]]></description>
+        </item>
         <item>
             <title><![CDATA[超过15%的世界人口在任何一天都有头痛的问题]]></title>
             <link>https://news.ycombinator.com/item?id=31000803</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30919582</guid>
             <pubDate>Tue, 05 Apr 2022 14:37:12 GMT</pubDate>
             <description><![CDATA[Samsung's latest Galaxy A53 is 33% slower than the previous Galaxy A52s]]></description>
-        </item>
-        <item>
-            <title><![CDATA[pnpm。快速、节省磁盘空间的JavaScript软件包管理器]]></title>
-            <link>https://news.ycombinator.com/item?id=30919487</link>
-            <guid>https://news.ycombinator.com/item?id=30919487</guid>
-            <pubDate>Tue, 05 Apr 2022 14:31:25 GMT</pubDate>
-            <description><![CDATA[pnpm: Fast, disk space efficient package manager for JavaScript]]></description>
         </item>
     </channel>
 </rss>
