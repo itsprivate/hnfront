@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T17:41:42.860Z</updated>
+    <updated>2022-04-12T17:55:54.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[滑板朋克的MediaRecorder指南]]></title>
+        <id>https://news.ycombinator.com/item?id=31005180</id>
+        <link href="https://news.ycombinator.com/item?id=31005180"/>
+        <updated>2022-04-12T16:52:22.000Z</updated>
+        <summary type="html"><![CDATA[The skater punk’s guide to MediaRecorder]]></summary>
+        <author>
+            <name>davekiss</name>
+            <uri>https://news.ycombinator.com/user?id=davekiss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與Chumsky一起在一小時內編寫自己的編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=31000422</id>
+        <link href="https://news.ycombinator.com/item?id=31000422"/>
+        <updated>2022-04-12T09:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Write your own programming language in an hour with Chumsky]]></summary>
+        <author>
+            <name>surrTurr</name>
+            <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果推出具有故事板和魔幻電影功能的新版iMovie]]></title>
         <id>https://news.ycombinator.com/item?id=31005399</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gtzi</name>
             <uri>https://news.ycombinator.com/user?id=gtzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在TypeScript的類型系統中模擬Lambda微積分（2021）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30916394</id>
-        <link href="https://news.ycombinator.com/item?id=30916394"/>
-        <updated>2022-04-05T07:56:53.000Z</updated>
-        <summary type="html"><![CDATA[Emulating the Lambda Calculus in TypeScript's Type System (2021)]]></summary>
-        <author>
-            <name>tempodox</name>
-            <uri>https://news.ycombinator.com/user?id=tempodox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有錢人為何恐慌性購買恐慌性房間]]></title>
-        <id>https://news.ycombinator.com/item?id=30926423</id>
-        <link href="https://news.ycombinator.com/item?id=30926423"/>
-        <updated>2022-04-05T23:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Why rich people are panic-buying panic rooms]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
