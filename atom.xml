@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T18:40:19.708Z</updated>
+    <updated>2022-04-12T18:58:35.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用磁铁和拓扑绝缘体制作 "三明治 "的方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30985535</id>
+        <link href="https://news.ycombinator.com/item?id=30985535"/>
+        <updated>2022-04-11T06:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Making a 'sandwich' out of magnets and topological insulators]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我为你做了一个网站，以第一人称POV的方式环游世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30970911</id>
+        <link href="https://news.ycombinator.com/item?id=30970911"/>
+        <updated>2022-04-09T18:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a website for you to travel the world in first-person POV]]></summary>
+        <author>
+            <name>eddieweng</name>
+            <uri>https://news.ycombinator.com/user?id=eddieweng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊甸园]]></title>
         <id>https://news.ycombinator.com/item?id=31006003</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gekkostate</name>
             <uri>https://news.ycombinator.com/user?id=gekkostate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编写NetBSD内核模块]]></title>
-        <id>https://news.ycombinator.com/item?id=30927847</id>
-        <link href="https://news.ycombinator.com/item?id=30927847"/>
-        <updated>2022-04-06T02:34:48.000Z</updated>
-        <summary type="html"><![CDATA[Writing a NetBSD Kernel Module]]></summary>
-        <author>
-            <name>jayp1418</name>
-            <uri>https://news.ycombinator.com/user?id=jayp1418</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我对这么多学科感兴趣，但我能用这些做什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30928105</id>
-        <link href="https://news.ycombinator.com/item?id=30928105"/>
-        <updated>2022-04-06T03:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm interested in so many disciplines, but what can I do with that?]]></summary>
-        <author>
-            <name>samh748</name>
-            <uri>https://news.ycombinator.com/user?id=samh748</uri>
         </author>
     </entry>
 </feed>
