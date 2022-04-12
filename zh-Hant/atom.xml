@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T10:55:07.456Z</updated>
+    <updated>2022-04-12T11:12:06.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前新疆囚犯抵達美國，成為虐待行為的關鍵證人]]></title>
+        <id>https://news.ycombinator.com/item?id=31000744</id>
+        <link href="https://news.ycombinator.com/item?id=31000744"/>
+        <updated>2022-04-12T10:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Former Xinjiang prisoner arrives in U.S. as key witness to abuses]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[樹莓的免費固件進展如何？]]></title>
         <id>https://news.ycombinator.com/item?id=31000725</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fanieldanara</name>
             <uri>https://news.ycombinator.com/user?id=fanieldanara</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[觀察Zig編程語言]]></title>
-        <id>https://news.ycombinator.com/item?id=30919305</id>
-        <link href="https://news.ycombinator.com/item?id=30919305"/>
-        <updated>2022-04-05T14:19:21.000Z</updated>
-        <summary type="html"><![CDATA[Looking at Zig Programming Language]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
         </author>
     </entry>
 </feed>
