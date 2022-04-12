@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T07:51:34.860Z</updated>
+    <updated>2022-04-12T08:38:38.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[虫子的分类学]]></title>
+        <id>https://news.ycombinator.com/item?id=30999225</id>
+        <link href="https://news.ycombinator.com/item?id=30999225"/>
+        <updated>2022-04-12T06:14:36.000Z</updated>
+        <summary type="html"><![CDATA[A Taxonomy of Bugs]]></summary>
+        <author>
+            <name>pmarin</name>
+            <uri>https://news.ycombinator.com/user?id=pmarin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS RDS漏洞导致AWS内部服务凭证失效]]></title>
+        <id>https://news.ycombinator.com/item?id=30996426</id>
+        <link href="https://news.ycombinator.com/item?id=30996426"/>
+        <updated>2022-04-11T23:14:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS RDS Vulnerability Leads to AWS Internal Service Credentials]]></summary>
+        <author>
+            <name>WalterSobchak</name>
+            <uri>https://news.ycombinator.com/user?id=WalterSobchak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六边形架构和领域驱动设计]]></title>
         <id>https://news.ycombinator.com/item?id=30999322</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sebastianvoelkl</name>
             <uri>https://news.ycombinator.com/user?id=sebastianvoelkl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将植物带离地球]]></title>
-        <id>https://news.ycombinator.com/item?id=30877371</id>
-        <link href="https://news.ycombinator.com/item?id=30877371"/>
-        <updated>2022-04-01T12:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Taking Plants Off Planet]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们建立了r/place（2021）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30918440</id>
-        <link href="https://news.ycombinator.com/item?id=30918440"/>
-        <updated>2022-04-05T13:05:29.000Z</updated>
-        <summary type="html"><![CDATA[We built r/place (2021)]]></summary>
-        <author>
-            <name>mynameismon</name>
-            <uri>https://news.ycombinator.com/user?id=mynameismon</uri>
         </author>
     </entry>
 </feed>
