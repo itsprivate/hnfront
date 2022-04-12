@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T18:16:44.446Z</updated>
+    <updated>2022-04-12T18:40:19.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伊甸園]]></title>
+        <id>https://news.ycombinator.com/item?id=31006003</id>
+        <link href="https://news.ycombinator.com/item?id=31006003"/>
+        <updated>2022-04-12T17:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Eden]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RaidForums被突襲，據稱管理員被逮捕]]></title>
         <id>https://news.ycombinator.com/item?id=31005770</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從歸屬感到倦怠感，在Airbnb的五年]]></title>
-        <id>https://news.ycombinator.com/item?id=30926834</id>
-        <link href="https://news.ycombinator.com/item?id=30926834"/>
-        <updated>2022-04-06T00:17:10.000Z</updated>
-        <summary type="html"><![CDATA[From Belonging to Burnout, Five Years at Airbnb]]></summary>
-        <author>
-            <name>arciini</name>
-            <uri>https://news.ycombinator.com/user?id=arciini</uri>
         </author>
     </entry>
 </feed>
