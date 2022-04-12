@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T03:19:43.551Z</updated>
+    <updated>2022-04-12T03:49:47.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bill.com悄悄決定將客戶資金轉移到不需要的銀行賬戶上]]></title>
+        <id>https://news.ycombinator.com/item?id=30997123</id>
+        <link href="https://news.ycombinator.com/item?id=30997123"/>
+        <updated>2022-04-12T00:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Bill.com Quietly Decided to Divert Customer Funds To Unwanted Bank Accounts]]></summary>
+        <author>
+            <name>CPLX</name>
+            <uri>https://news.ycombinator.com/user?id=CPLX</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小小的白色謊言]]></title>
+        <id>https://news.ycombinator.com/item?id=30973410</id>
+        <link href="https://news.ycombinator.com/item?id=30973410"/>
+        <updated>2022-04-10T00:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Little White Lies]]></summary>
+        <author>
+            <name>diodorus</name>
+            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拉格朗日，一個漂亮的雙子座客戶端，適用於Android（預發佈）。]]></title>
         <id>https://news.ycombinator.com/item?id=30998033</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>disjukr</name>
             <uri>https://news.ycombinator.com/user?id=disjukr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI已經解決了XY問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30911106</id>
-        <link href="https://news.ycombinator.com/item?id=30911106"/>
-        <updated>2022-04-04T19:41:10.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI has solved the XY problem]]></summary>
-        <author>
-            <name>nullc</name>
-            <uri>https://news.ycombinator.com/user?id=nullc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AudioTransmit - 使用音頻在計算機之間傳輸數據]]></title>
-        <id>https://news.ycombinator.com/item?id=30907937</id>
-        <link href="https://news.ycombinator.com/item?id=30907937"/>
-        <updated>2022-04-04T15:42:12.000Z</updated>
-        <summary type="html"><![CDATA[AudioTransmit – Transmitting data between computers using audio]]></summary>
-        <author>
-            <name>lelf</name>
-            <uri>https://news.ycombinator.com/user?id=lelf</uri>
         </author>
     </entry>
 </feed>
