@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T20:34:46.051Z</updated>
+    <updated>2022-04-12T20:44:37.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[EasyPost (YC S13) 正在招聘远程人员]]></title>
+        <id>https://news.ycombinator.com/item?id=30492462</id>
+        <link href="https://news.ycombinator.com/item?id=30492462"/>
+        <updated>2022-02-27T21:01:20.000Z</updated>
+        <summary type="html"><![CDATA[EasyPost (YC S13) Is Hiring Remote]]></summary>
+        <author>
+            <name>jstreebin</name>
+            <uri>https://news.ycombinator.com/user?id=jstreebin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[机器学习研究中的剽窃案例]]></title>
         <id>https://news.ycombinator.com/item?id=31006765</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>epeus</name>
             <uri>https://news.ycombinator.com/user?id=epeus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有时节气会提前到来]]></title>
-        <id>https://news.ycombinator.com/item?id=30917180</id>
-        <link href="https://news.ycombinator.com/item?id=30917180"/>
-        <updated>2022-04-05T10:11:56.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes the knote comes early]]></summary>
-        <author>
-            <name>hucste</name>
-            <uri>https://news.ycombinator.com/user?id=hucste</uri>
         </author>
     </entry>
 </feed>
