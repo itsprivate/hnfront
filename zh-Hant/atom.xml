@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T07:41:30.807Z</updated>
+    <updated>2022-04-12T07:51:34.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[六邊形架構和領域驅動設計]]></title>
+        <id>https://news.ycombinator.com/item?id=30999322</id>
+        <link href="https://news.ycombinator.com/item?id=30999322"/>
+        <updated>2022-04-12T06:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Hexagonal Architecture and Domain Driven Design]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xor互換技巧]]></title>
         <id>https://news.ycombinator.com/item?id=30965550</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mynameismon</name>
             <uri>https://news.ycombinator.com/user?id=mynameismon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國的互聯網正沿著黨派路線分裂開來]]></title>
-        <id>https://news.ycombinator.com/item?id=30918052</id>
-        <link href="https://news.ycombinator.com/item?id=30918052"/>
-        <updated>2022-04-05T12:20:42.000Z</updated>
-        <summary type="html"><![CDATA[America's internet is splitting along party lines]]></summary>
-        <author>
-            <name>abhaysaxena_hk</name>
-            <uri>https://news.ycombinator.com/user?id=abhaysaxena_hk</uri>
         </author>
     </entry>
 </feed>

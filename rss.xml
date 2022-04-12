@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 12 Apr 2022 07:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[六边形架构和领域驱动设计]]></title>
+            <link>https://news.ycombinator.com/item?id=30999322</link>
+            <guid>https://news.ycombinator.com/item?id=30999322</guid>
+            <pubDate>Tue, 12 Apr 2022 06:29:35 GMT</pubDate>
+            <description><![CDATA[Hexagonal Architecture and Domain Driven Design]]></description>
+        </item>
         <item>
             <title><![CDATA[Xor互换技巧]]></title>
             <link>https://news.ycombinator.com/item?id=30965550</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30918440</guid>
             <pubDate>Tue, 05 Apr 2022 13:05:29 GMT</pubDate>
             <description><![CDATA[We built r/place (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国的互联网正沿着党派路线分裂开来]]></title>
-            <link>https://news.ycombinator.com/item?id=30918052</link>
-            <guid>https://news.ycombinator.com/item?id=30918052</guid>
-            <pubDate>Tue, 05 Apr 2022 12:20:42 GMT</pubDate>
-            <description><![CDATA[America's internet is splitting along party lines]]></description>
         </item>
     </channel>
 </rss>
