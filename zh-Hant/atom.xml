@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T11:12:06.673Z</updated>
+    <updated>2022-04-12T11:30:51.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[超過15%的世界人口在任何一天都有頭痛的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=31000803</id>
+        <link href="https://news.ycombinator.com/item?id=31000803"/>
+        <updated>2022-04-12T10:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Over 15% of world population has a headache on any given day]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前新疆囚犯抵達美國，成為虐待行為的關鍵證人]]></title>
         <id>https://news.ycombinator.com/item?id=31000744</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HomeSheet，易於使用的家庭清單軟件]]></title>
-        <id>https://news.ycombinator.com/item?id=30919445</id>
-        <link href="https://news.ycombinator.com/item?id=30919445"/>
-        <updated>2022-04-05T14:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HomeSheet, easy to use home inventory software]]></summary>
-        <author>
-            <name>fanieldanara</name>
-            <uri>https://news.ycombinator.com/user?id=fanieldanara</uri>
         </author>
     </entry>
 </feed>
