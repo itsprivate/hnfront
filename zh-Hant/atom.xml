@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T04:45:17.176Z</updated>
+    <updated>2022-04-12T04:58:43.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何啟動一個創業公司？]]></title>
+        <id>https://news.ycombinator.com/item?id=30998663</id>
+        <link href="https://news.ycombinator.com/item?id=30998663"/>
+        <updated>2022-04-12T04:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How Do I Start a Startup?]]></summary>
+        <author>
+            <name>deathandgravity</name>
+            <uri>https://news.ycombinator.com/user?id=deathandgravity</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在PyTorch中實現DALL-E 2]]></title>
+        <id>https://news.ycombinator.com/item?id=30998651</id>
+        <link href="https://news.ycombinator.com/item?id=30998651"/>
+        <updated>2022-04-12T04:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Implementation of DALL-E 2 in PyTorch]]></summary>
+        <author>
+            <name>m15i</name>
+            <uri>https://news.ycombinator.com/user?id=m15i</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ceephax Acid Crew]]></title>
         <id>https://news.ycombinator.com/item?id=30998462</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個應用--兩個世界：這就是俄羅斯和烏克蘭的TikTok]]></title>
-        <id>https://news.ycombinator.com/item?id=30917474</id>
-        <link href="https://news.ycombinator.com/item?id=30917474"/>
-        <updated>2022-04-05T11:03:23.000Z</updated>
-        <summary type="html"><![CDATA[One App – Two Worlds: This Is TikTok in Russia and Ukraine]]></summary>
-        <author>
-            <name>mmgu</name>
-            <uri>https://news.ycombinator.com/user?id=mmgu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國已經奪取了Gazprom Germania的控制權]]></title>
-        <id>https://news.ycombinator.com/item?id=30917396</id>
-        <link href="https://news.ycombinator.com/item?id=30917396"/>
-        <updated>2022-04-05T10:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Germany has seized control of Gazprom Germania]]></summary>
-        <author>
-            <name>guard0g</name>
-            <uri>https://news.ycombinator.com/user?id=guard0g</uri>
         </author>
     </entry>
 </feed>
