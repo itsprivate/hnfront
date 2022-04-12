@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-12T09:13:12.290Z</updated>
+    <updated>2022-04-12T09:43:46.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript編譯器如何編譯]]></title>
+        <id>https://news.ycombinator.com/item?id=30974581</id>
+        <link href="https://news.ycombinator.com/item?id=30974581"/>
+        <updated>2022-04-10T04:59:24.000Z</updated>
+        <summary type="html"><![CDATA[How the TypeScript Complier Compiles]]></summary>
+        <author>
+            <name>knlam</name>
+            <uri>https://news.ycombinator.com/user?id=knlam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天我向一家銀行申請常規抵押貸款，他們說不行。]]></title>
         <id>https://news.ycombinator.com/item?id=30999974</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>alexrustic</name>
             <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我決定，我必須按自己的意願生活。]]></title>
-        <id>https://news.ycombinator.com/item?id=30918495</id>
-        <link href="https://news.ycombinator.com/item?id=30918495"/>
-        <updated>2022-04-05T13:09:54.000Z</updated>
-        <summary type="html"><![CDATA[I decided that I must live my life on my terms]]></summary>
-        <author>
-            <name>hugohamelcom</name>
-            <uri>https://news.ycombinator.com/user?id=hugohamelcom</uri>
         </author>
     </entry>
 </feed>
