@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 13 Apr 2022 16:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 16:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[借我的耳朵。個人電腦上的無源遠程物理側信道]]></title>
+            <link>https://news.ycombinator.com/item?id=31016334</link>
+            <guid>https://news.ycombinator.com/item?id=31016334</guid>
+            <pubDate>Wed, 13 Apr 2022 16:04:09 GMT</pubDate>
+            <description><![CDATA[Lend Me Your Ear: Passive Remote Physical Side Channels on PCs]]></description>
+        </item>
         <item>
             <title><![CDATA[一種沒有活動部件的新型熱機與蒸汽輪機一樣高效]]></title>
             <link>https://news.ycombinator.com/item?id=31016120</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30934529</guid>
             <pubDate>Wed, 06 Apr 2022 16:48:33 GMT</pubDate>
             <description><![CDATA[Ask HN: Share your personal site]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dim，一個自我託管的媒體管理器]]></title>
-            <link>https://news.ycombinator.com/item?id=30922871</link>
-            <guid>https://news.ycombinator.com/item?id=30922871</guid>
-            <pubDate>Tue, 05 Apr 2022 18:24:59 GMT</pubDate>
-            <description><![CDATA[Dim, a self-hosted media manager]]></description>
         </item>
     </channel>
 </rss>
