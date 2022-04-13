@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Coinbase的内幕交易]]></title>
+            <link>https://news.ycombinator.com/item?id=31012462</link>
+            <guid>https://news.ycombinator.com/item?id=31012462</guid>
+            <pubDate>Wed, 13 Apr 2022 08:48:03 GMT</pubDate>
+            <description><![CDATA[Insider Trading at Coinbase]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在纸上创建手绘GIF]]></title>
+            <link>https://news.ycombinator.com/item?id=31012269</link>
+            <guid>https://news.ycombinator.com/item?id=31012269</guid>
+            <pubDate>Wed, 13 Apr 2022 08:12:14 GMT</pubDate>
+            <description><![CDATA[Create hand-drawn GIFs on paper]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果公司的外部（LCD）显示器之旅]]></title>
             <link>https://news.ycombinator.com/item?id=31011968</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30932923</guid>
             <pubDate>Wed, 06 Apr 2022 15:11:12 GMT</pubDate>
             <description><![CDATA[Please stop calling it “magic” (2017)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有人在生产中使用SimH或QEMU与旧的架构/操作系统吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30932896</link>
-            <guid>https://news.ycombinator.com/item?id=30932896</guid>
-            <pubDate>Wed, 06 Apr 2022 15:09:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is anyone using SimH or QEMU with an old architecture/OS in production?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[bcachefs的开发者试图让文件系统再次进入Linux]]></title>
-            <link>https://news.ycombinator.com/item?id=30932830</link>
-            <guid>https://news.ycombinator.com/item?id=30932830</guid>
-            <pubDate>Wed, 06 Apr 2022 15:04:58 GMT</pubDate>
-            <description><![CDATA[Devs of bcachefs try to get filesystem into Linux again]]></description>
         </item>
     </channel>
 </rss>

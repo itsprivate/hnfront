@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T08:40:23.200Z</updated>
+    <updated>2022-04-13T09:13:38.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Coinbase的內幕交易]]></title>
+        <id>https://news.ycombinator.com/item?id=31012462</id>
+        <link href="https://news.ycombinator.com/item?id=31012462"/>
+        <updated>2022-04-13T08:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Insider Trading at Coinbase]]></summary>
+        <author>
+            <name>Shadonototra</name>
+            <uri>https://news.ycombinator.com/user?id=Shadonototra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在紙上創建手繪GIF]]></title>
+        <id>https://news.ycombinator.com/item?id=31012269</id>
+        <link href="https://news.ycombinator.com/item?id=31012269"/>
+        <updated>2022-04-13T08:12:14.000Z</updated>
+        <summary type="html"><![CDATA[Create hand-drawn GIFs on paper]]></summary>
+        <author>
+            <name>trueduke</name>
+            <uri>https://news.ycombinator.com/user?id=trueduke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司的外部（LCD）顯示器之旅]]></title>
         <id>https://news.ycombinator.com/item?id=31011968</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有人在生產中使用SimH或QEMU與舊的架構/操作系統嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30932896</id>
-        <link href="https://news.ycombinator.com/item?id=30932896"/>
-        <updated>2022-04-06T15:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is anyone using SimH or QEMU with an old architecture/OS in production?]]></summary>
-        <author>
-            <name>greatquux</name>
-            <uri>https://news.ycombinator.com/user?id=greatquux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bcachefs的開發者試圖讓文件系統再次進入Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=30932830</id>
-        <link href="https://news.ycombinator.com/item?id=30932830"/>
-        <updated>2022-04-06T15:04:58.000Z</updated>
-        <summary type="html"><![CDATA[Devs of bcachefs try to get filesystem into Linux again]]></summary>
-        <author>
-            <name>vanburen</name>
-            <uri>https://news.ycombinator.com/user?id=vanburen</uri>
         </author>
     </entry>
 </feed>
