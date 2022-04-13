@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T10:37:28.401Z</updated>
+    <updated>2022-04-13T11:31:02.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[點陣圖的歷史]]></title>
+        <id>https://news.ycombinator.com/item?id=31001126</id>
+        <link href="https://news.ycombinator.com/item?id=31001126"/>
+        <updated>2022-04-12T11:27:59.000Z</updated>
+        <summary type="html"><![CDATA[A Dotfile History]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U+237C ⍼ 直角與向下的人字形箭頭]]></title>
         <id>https://news.ycombinator.com/item?id=31012865</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friday.app正在關閉]]></title>
-        <id>https://news.ycombinator.com/item?id=30933379</id>
-        <link href="https://news.ycombinator.com/item?id=30933379"/>
-        <updated>2022-04-06T15:39:17.000Z</updated>
-        <summary type="html"><![CDATA[Friday.app is shutting down]]></summary>
-        <author>
-            <name>Dangeranger</name>
-            <uri>https://news.ycombinator.com/user?id=Dangeranger</uri>
         </author>
     </entry>
 </feed>
