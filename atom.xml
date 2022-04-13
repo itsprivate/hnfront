@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T14:33:11.435Z</updated>
+    <updated>2022-04-13T14:41:31.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[渴望自由的对数]]></title>
+        <id>https://news.ycombinator.com/item?id=31014701</id>
+        <link href="https://news.ycombinator.com/item?id=31014701"/>
+        <updated>2022-04-13T13:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Logarithms Yearning to Be Free]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莫克西-马林斯派克已卸任Signal公司首席执行官一职]]></title>
         <id>https://news.ycombinator.com/item?id=31014880</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ilovecaching</name>
             <uri>https://news.ycombinator.com/user?id=ilovecaching</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为简单架构辩护]]></title>
-        <id>https://news.ycombinator.com/item?id=30936189</id>
-        <link href="https://news.ycombinator.com/item?id=30936189"/>
-        <updated>2022-04-06T19:04:29.000Z</updated>
-        <summary type="html"><![CDATA[In Defense of Simple Architectures]]></summary>
-        <author>
-            <name>abzug</name>
-            <uri>https://news.ycombinator.com/user?id=abzug</uri>
         </author>
     </entry>
 </feed>
