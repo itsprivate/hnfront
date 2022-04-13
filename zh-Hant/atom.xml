@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T17:40:24.283Z</updated>
+    <updated>2022-04-13T18:40:30.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前端組件架構]]></title>
+        <id>https://news.ycombinator.com/item?id=31018171</id>
+        <link href="https://news.ycombinator.com/item?id=31018171"/>
+        <updated>2022-04-13T18:14:10.000Z</updated>
+        <summary type="html"><![CDATA[Frontend Component Architecture]]></summary>
+        <author>
+            <name>unistyler</name>
+            <uri>https://news.ycombinator.com/user?id=unistyler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[測量古德哈特定律]]></title>
+        <id>https://news.ycombinator.com/item?id=31017965</id>
+        <link href="https://news.ycombinator.com/item?id=31017965"/>
+        <updated>2022-04-13T18:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Measuring Goodhart’s Law]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昆蟲旅館]]></title>
+        <id>https://news.ycombinator.com/item?id=31000852</id>
+        <link href="https://news.ycombinator.com/item?id=31000852"/>
+        <updated>2022-04-12T10:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Insect Hotel]]></summary>
+        <author>
+            <name>keiferski</name>
+            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南加州男子說他的特斯拉電腦凍結了，導致車速卡在83英里/小時]]></title>
         <id>https://news.ycombinator.com/item?id=31017419</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>geoffreymcgill</name>
             <uri>https://news.ycombinator.com/user?id=geoffreymcgill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神秘恩人20年後歸還查爾斯-達爾文丟失的筆記本]]></title>
-        <id>https://news.ycombinator.com/item?id=30924362</id>
-        <link href="https://news.ycombinator.com/item?id=30924362"/>
-        <updated>2022-04-05T20:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Mysterious benefactor returns Charles Darwin’s missing notebooks after 20 years]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的網站是一個二進制的]]></title>
-        <id>https://news.ycombinator.com/item?id=30937515</id>
-        <link href="https://news.ycombinator.com/item?id=30937515"/>
-        <updated>2022-04-06T21:18:00.000Z</updated>
-        <summary type="html"><![CDATA[My website is one binary]]></summary>
-        <author>
-            <name>j3s</name>
-            <uri>https://news.ycombinator.com/user?id=j3s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼可視化編程在遊戲編程中如此受歡迎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30937201</id>
-        <link href="https://news.ycombinator.com/item?id=30937201"/>
-        <updated>2022-04-06T20:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is visual programming so popular for game programming?]]></summary>
-        <author>
-            <name>arduinomancer</name>
-            <uri>https://news.ycombinator.com/user?id=arduinomancer</uri>
         </author>
     </entry>
 </feed>
