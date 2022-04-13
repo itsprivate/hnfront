@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T02:34:59.102Z</updated>
+    <updated>2022-04-13T03:30:27.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于影响部分客户的Atlassian中断的最新情况]]></title>
+        <id>https://news.ycombinator.com/item?id=31010501</id>
+        <link href="https://news.ycombinator.com/item?id=31010501"/>
+        <updated>2022-04-13T02:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Update on the Atlassian outage affecting some customers]]></summary>
+        <author>
+            <name>taspeotis</name>
+            <uri>https://news.ycombinator.com/user?id=taspeotis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在新的试验中，宽带电缆将通过水管铺设]]></title>
+        <id>https://news.ycombinator.com/item?id=30986999</id>
+        <link href="https://news.ycombinator.com/item?id=30986999"/>
+        <updated>2022-04-11T10:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Broadband cables to be routed through water pipes in new trial]]></summary>
+        <author>
+            <name>OJFord</name>
+            <uri>https://news.ycombinator.com/user?id=OJFord</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git 2.30.3 不会在非自有目录下运行]]></title>
         <id>https://news.ycombinator.com/item?id=31009675</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>donohoe</name>
             <uri>https://news.ycombinator.com/user?id=donohoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缩小范围]]></title>
-        <id>https://news.ycombinator.com/item?id=30931475</id>
-        <link href="https://news.ycombinator.com/item?id=30931475"/>
-        <updated>2022-04-06T12:59:11.000Z</updated>
-        <summary type="html"><![CDATA[CircleCI Down]]></summary>
-        <author>
-            <name>prawnstar</name>
-            <uri>https://news.ycombinator.com/user?id=prawnstar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunderbolt底座中的PCIe以太网（如何避开Realtek）]]></title>
-        <id>https://news.ycombinator.com/item?id=30931404</id>
-        <link href="https://news.ycombinator.com/item?id=30931404"/>
-        <updated>2022-04-06T12:51:07.000Z</updated>
-        <summary type="html"><![CDATA[PCIe Ethernet in Thunderbolt docks (how to avoid Realtek)]]></summary>
-        <author>
-            <name>danieldk</name>
-            <uri>https://news.ycombinator.com/user?id=danieldk</uri>
         </author>
     </entry>
 </feed>
