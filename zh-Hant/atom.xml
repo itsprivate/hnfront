@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T00:43:16.170Z</updated>
+    <updated>2022-04-13T02:34:59.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Git 2.30.3 不會在非自有目錄下運行]]></title>
+        <id>https://news.ycombinator.com/item?id=31009675</id>
+        <link href="https://news.ycombinator.com/item?id=31009675"/>
+        <updated>2022-04-13T00:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Git 2.30.3 will not operate in non-owned directories]]></summary>
+        <author>
+            <name>delsarto</name>
+            <uri>https://news.ycombinator.com/user?id=delsarto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[籌資實驗的回顧（2019年）]]></title>
+        <id>https://news.ycombinator.com/item?id=31000473</id>
+        <link href="https://news.ycombinator.com/item?id=31000473"/>
+        <updated>2022-04-12T09:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Recap of the funding experiment (2019)]]></summary>
+        <author>
+            <name>manigandham</name>
+            <uri>https://news.ycombinator.com/user?id=manigandham</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shine: 一個超快的定點MP3編碼器]]></title>
+        <id>https://news.ycombinator.com/item?id=30998693</id>
+        <link href="https://news.ycombinator.com/item?id=30998693"/>
+        <updated>2022-04-12T04:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Shine: A super fast fixed-point MP3 encoder]]></summary>
+        <author>
+            <name>poser-boy</name>
+            <uri>https://news.ycombinator.com/user?id=poser-boy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新研究揭示了遷徙鳥類的碰撞熱點]]></title>
         <id>https://news.ycombinator.com/item?id=31000063</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>danieldk</name>
             <uri>https://news.ycombinator.com/user?id=danieldk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter正在增加一個編輯按鈕]]></title>
-        <id>https://news.ycombinator.com/item?id=30931398</id>
-        <link href="https://news.ycombinator.com/item?id=30931398"/>
-        <updated>2022-04-06T12:50:17.000Z</updated>
-        <summary type="html"><![CDATA[Twitter is adding an edit button]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT&T的網站在我每次刷新頁面時都會提高價格]]></title>
-        <id>https://news.ycombinator.com/item?id=30931348</id>
-        <link href="https://news.ycombinator.com/item?id=30931348"/>
-        <updated>2022-04-06T12:42:24.000Z</updated>
-        <summary type="html"><![CDATA[AT&T's website raising the price every time I refresh the page]]></summary>
-        <author>
-            <name>temp8964</name>
-            <uri>https://news.ycombinator.com/user?id=temp8964</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天空之城籌集1.5億美元，幫助補償因黑客攻擊而造成的用戶損失]]></title>
-        <id>https://news.ycombinator.com/item?id=30931094</id>
-        <link href="https://news.ycombinator.com/item?id=30931094"/>
-        <updated>2022-04-06T12:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Sky Mavis Raises $150M to Help Reimburse User Losses Stemming from Hack]]></summary>
-        <author>
-            <name>boeingUH60</name>
-            <uri>https://news.ycombinator.com/user?id=boeingUH60</uri>
         </author>
     </entry>
 </feed>
