@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T06:40:40.298Z</updated>
+    <updated>2022-04-13T07:13:28.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Svix Webhook服務（YC W21）正在招聘一名Rust後端工程師（遠程）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31011920</id>
+        <link href="https://news.ycombinator.com/item?id=31011920"/>
+        <updated>2022-04-13T07:00:28.000Z</updated>
+        <summary type="html"><![CDATA[The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)]]></summary>
+        <author>
+            <name>tasn</name>
+            <uri>https://news.ycombinator.com/user?id=tasn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[間諜技術規則》(2009) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31011610</id>
+        <link href="https://news.ycombinator.com/item?id=31011610"/>
+        <updated>2022-04-13T05:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Rules of Spycraft (2009) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[康威的生命遊戲--數學與建築 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31000502</id>
+        <link href="https://news.ycombinator.com/item?id=31000502"/>
+        <updated>2022-04-12T09:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Conway's Game of Life – Mathematics and Construction [pdf]]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deekaykwon 2D動畫]]></title>
         <id>https://news.ycombinator.com/item?id=31011643</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Parseus</name>
             <uri>https://news.ycombinator.com/user?id=Parseus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衰弱之塔。每個人的記憶模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30931818</id>
-        <link href="https://news.ycombinator.com/item?id=30931818"/>
-        <updated>2022-04-06T13:39:53.000Z</updated>
-        <summary type="html"><![CDATA[The Tower of Weakenings: Memory Models for Everyone]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不是谷歌]]></title>
-        <id>https://news.ycombinator.com/item?id=30931831</id>
-        <link href="https://news.ycombinator.com/item?id=30931831"/>
-        <updated>2022-04-06T13:40:43.000Z</updated>
-        <summary type="html"><![CDATA[You Are Not Google]]></summary>
-        <author>
-            <name>jeremylevy</name>
-            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dall-E 2]]></title>
-        <id>https://news.ycombinator.com/item?id=30932095</id>
-        <link href="https://news.ycombinator.com/item?id=30932095"/>
-        <updated>2022-04-06T14:09:04.000Z</updated>
-        <summary type="html"><![CDATA[Dall-E 2]]></summary>
-        <author>
-            <name>yigitdemirag</name>
-            <uri>https://news.ycombinator.com/user?id=yigitdemirag</uri>
         </author>
     </entry>
 </feed>
