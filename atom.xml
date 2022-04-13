@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T12:19:54.884Z</updated>
+    <updated>2022-04-13T12:57:32.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Twitch上最受欢迎的国际象棋流媒体人]]></title>
+        <id>https://news.ycombinator.com/item?id=31013829</id>
+        <link href="https://news.ycombinator.com/item?id=31013829"/>
+        <updated>2022-04-13T12:27:32.000Z</updated>
+        <summary type="html"><![CDATA[The Most Popular Chess Streamer on Twitch]]></summary>
+        <author>
+            <name>mitchbob</name>
+            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[串联语言]]></title>
+        <id>https://news.ycombinator.com/item?id=31013100</id>
+        <link href="https://news.ycombinator.com/item?id=31013100"/>
+        <updated>2022-04-13T10:43:54.000Z</updated>
+        <summary type="html"><![CDATA[Concatenative Language]]></summary>
+        <author>
+            <name>optimalsolver</name>
+            <uri>https://news.ycombinator.com/user?id=optimalsolver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cumbuca (YC S21)正在招聘人员]]></title>
         <id>https://news.ycombinator.com/item?id=31013621</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jger15</name>
             <uri>https://news.ycombinator.com/user?id=jger15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔的 "削弱AMD "功能（2019年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30935064</id>
-        <link href="https://news.ycombinator.com/item?id=30935064"/>
-        <updated>2022-04-06T17:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Intel's “Cripple AMD” Function (2019)]]></summary>
-        <author>
-            <name>phab</name>
-            <uri>https://news.ycombinator.com/user?id=phab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turo要求提供驾照号码和信用卡以显示全额价格]]></title>
-        <id>https://news.ycombinator.com/item?id=30934734</id>
-        <link href="https://news.ycombinator.com/item?id=30934734"/>
-        <updated>2022-04-06T17:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Turo Requires a Driver's License Number and Credit Card to Show Full Price]]></summary>
-        <author>
-            <name>tr3ntg</name>
-            <uri>https://news.ycombinator.com/user?id=tr3ntg</uri>
         </author>
     </entry>
 </feed>
