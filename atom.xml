@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T07:13:28.310Z</updated>
+    <updated>2022-04-13T07:51:19.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Web3：由风险投资公司资助的证券欺诈的吉格经济]]></title>
+        <id>https://news.ycombinator.com/item?id=31011894</id>
+        <link href="https://news.ycombinator.com/item?id=31011894"/>
+        <updated>2022-04-13T06:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Web3: A VC-funded gig economy of securities fraud]]></summary>
+        <author>
+            <name>mhoad</name>
+            <uri>https://news.ycombinator.com/user?id=mhoad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svix Webhook服务（YC W21）正在招聘一名Rust后端工程师（远程）。]]></title>
         <id>https://news.ycombinator.com/item?id=31011920</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maram</name>
             <uri>https://news.ycombinator.com/user?id=maram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔将AMD的Zen微架构介绍变成了一项专利]]></title>
-        <id>https://news.ycombinator.com/item?id=30932201</id>
-        <link href="https://news.ycombinator.com/item?id=30932201"/>
-        <updated>2022-04-06T14:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Intel took an AMD Zen microarchitecture presentation and turned it into a patent]]></summary>
-        <author>
-            <name>Parseus</name>
-            <uri>https://news.ycombinator.com/user?id=Parseus</uri>
         </author>
     </entry>
 </feed>
