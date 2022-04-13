@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T19:37:19.158Z</updated>
+    <updated>2022-04-13T20:15:45.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼 Discord 要從 Go 轉到 Rust？]]></title>
+        <id>https://news.ycombinator.com/item?id=31019234</id>
+        <link href="https://news.ycombinator.com/item?id=31019234"/>
+        <updated>2022-04-13T19:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Why Discord is switching from Go to Rust]]></summary>
+        <author>
+            <name>hiena03</name>
+            <uri>https://news.ycombinator.com/user?id=hiena03</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Encrypt獲得列夫琴現實世界密碼學獎]]></title>
+        <id>https://news.ycombinator.com/item?id=31018436</id>
+        <link href="https://news.ycombinator.com/item?id=31018436"/>
+        <updated>2022-04-13T18:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography]]></summary>
+        <author>
+            <name>deaddabe</name>
+            <uri>https://news.ycombinator.com/user?id=deaddabe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否創建了只供你個人使用的程序？]]></title>
         <id>https://news.ycombinator.com/item?id=31018836</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rshi</name>
             <uri>https://news.ycombinator.com/user?id=rshi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wagetap (YC W22)正在招聘一名首席軟件工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30939416</id>
-        <link href="https://news.ycombinator.com/item?id=30939416"/>
-        <updated>2022-04-07T01:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Wagetap (YC W22) Is Hiring a Lead Software Engineer]]></summary>
-        <author>
-            <name>declan_conlon</name>
-            <uri>https://news.ycombinator.com/user?id=declan_conlon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安德魯-吳 不大的人工智能。(或：告別大數據)]]></title>
-        <id>https://news.ycombinator.com/item?id=30939282</id>
-        <link href="https://news.ycombinator.com/item?id=30939282"/>
-        <updated>2022-04-07T00:41:57.000Z</updated>
-        <summary type="html"><![CDATA[Andrew Ng: Unbiggen AI. (Or: Farewell, Big Data)]]></summary>
-        <author>
-            <name>sbehere</name>
-            <uri>https://news.ycombinator.com/user?id=sbehere</uri>
         </author>
     </entry>
 </feed>
