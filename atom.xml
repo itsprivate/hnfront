@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T04:14:58.357Z</updated>
+    <updated>2022-04-13T05:12:34.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[维基百科停止接受加密货币的RFC以多数票通过]]></title>
+        <id>https://news.ycombinator.com/item?id=31011083</id>
+        <link href="https://news.ycombinator.com/item?id=31011083"/>
+        <updated>2022-04-13T03:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote]]></summary>
+        <author>
+            <name>SwimSwimHungry</name>
+            <uri>https://news.ycombinator.com/user?id=SwimSwimHungry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盲人的命令行程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30999207</id>
+        <link href="https://news.ycombinator.com/item?id=30999207"/>
+        <updated>2022-04-12T06:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Command Line Programs for the Blind]]></summary>
+        <author>
+            <name>spencerwgreene</name>
+            <uri>https://news.ycombinator.com/user?id=spencerwgreene</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python中的极简依赖注入(2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30986433</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>T-A</name>
             <uri>https://news.ycombinator.com/user?id=T-A</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国议会通过法律加强可再生能源，目标是在2035年达到80%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30931803</id>
-        <link href="https://news.ycombinator.com/item?id=30931803"/>
-        <updated>2022-04-06T13:38:02.000Z</updated>
-        <summary type="html"><![CDATA[German parliament passes law to ramp up renewable energies, goal is 80% in 2035]]></summary>
-        <author>
-            <name>martin_a</name>
-            <uri>https://news.ycombinator.com/user?id=martin_a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软Azure增加安培Altra Arm CPU]]></title>
-        <id>https://news.ycombinator.com/item?id=30931622</id>
-        <link href="https://news.ycombinator.com/item?id=30931622"/>
-        <updated>2022-04-06T13:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Azure Adds Ampere Altra Arm CPUs]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
         </author>
     </entry>
 </feed>
