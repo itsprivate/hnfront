@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T21:40:14.388Z</updated>
+    <updated>2022-04-13T22:42:09.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[末日之城]]></title>
+        <id>https://news.ycombinator.com/item?id=30998562</id>
+        <link href="https://news.ycombinator.com/item?id=30998562"/>
+        <updated>2022-04-12T04:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Doom Cacowards]]></summary>
+        <author>
+            <name>ecliptik</name>
+            <uri>https://news.ycombinator.com/user?id=ecliptik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界上最偏遠的島嶼在人類到來之前是什麼樣子？]]></title>
         <id>https://news.ycombinator.com/item?id=31006144</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jicea</name>
             <uri>https://news.ycombinator.com/user?id=jicea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是時候啟動Wolfram研究所了]]></title>
-        <id>https://news.ycombinator.com/item?id=30940813</id>
-        <link href="https://news.ycombinator.com/item?id=30940813"/>
-        <updated>2022-04-07T05:08:26.000Z</updated>
-        <summary type="html"><![CDATA[It’s Time to Launch the Wolfram Institute]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
         </author>
     </entry>
 </feed>
