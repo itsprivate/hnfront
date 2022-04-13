@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T15:56:57.155Z</updated>
+    <updated>2022-04-13T16:17:45.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一種沒有活動部件的新型熱機與蒸汽輪機一樣高效]]></title>
+        <id>https://news.ycombinator.com/item?id=31016120</id>
+        <link href="https://news.ycombinator.com/item?id=31016120"/>
+        <updated>2022-04-13T15:48:40.000Z</updated>
+        <summary type="html"><![CDATA[A new heat engine with no moving parts is as efficient as a steam turbine]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼使你的比特翻轉：Mozilla的宇宙射線錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=31016042</id>
+        <link href="https://news.ycombinator.com/item?id=31016042"/>
+        <updated>2022-04-13T15:42:47.000Z</updated>
+        <summary type="html"><![CDATA[What Flips Your Bit: Cosmic Ray Errors at Mozilla]]></summary>
+        <author>
+            <name>dannyobrien</name>
+            <uri>https://news.ycombinator.com/user?id=dannyobrien</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭秘阿特拉斯公司有史以來最長的停工事件]]></title>
+        <id>https://news.ycombinator.com/item?id=31015813</id>
+        <link href="https://news.ycombinator.com/item?id=31015813"/>
+        <updated>2022-04-13T15:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Inside The Longest Atlassian Outage of All Time]]></summary>
+        <author>
+            <name>andyjohnson0</name>
+            <uri>https://news.ycombinator.com/user?id=andyjohnson0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝鮮區塊鏈演講後美國判處加密貨幣專家5年徒刑]]></title>
+        <id>https://news.ycombinator.com/item?id=31015652</id>
+        <link href="https://news.ycombinator.com/item?id=31015652"/>
+        <updated>2022-04-13T15:14:16.000Z</updated>
+        <summary type="html"><![CDATA[US sentences crypto expert to 5 years after North Korea blockchain presentation]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hetzner雲 - 數據丟失事件]]></title>
         <id>https://news.ycombinator.com/item?id=31015840</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>ValentineC</name>
             <uri>https://news.ycombinator.com/user?id=ValentineC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個會說24種語言的地毯清潔工的非凡大腦]]></title>
-        <id>https://news.ycombinator.com/item?id=30920287</id>
-        <link href="https://news.ycombinator.com/item?id=30920287"/>
-        <updated>2022-04-05T15:31:04.000Z</updated>
-        <summary type="html"><![CDATA[The remarkable brain of a carpet cleaner who speaks 24 languages]]></summary>
-        <author>
-            <name>NaOH</name>
-            <uri>https://news.ycombinator.com/user?id=NaOH</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale的人類規模網絡仍由谷歌和微軟控制]]></title>
-        <id>https://news.ycombinator.com/item?id=30911109</id>
-        <link href="https://news.ycombinator.com/item?id=30911109"/>
-        <updated>2022-04-04T19:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Tailscale’s human-scale networks are still controlled by Google and Microsoft]]></summary>
-        <author>
-            <name>xrd</name>
-            <uri>https://news.ycombinator.com/user?id=xrd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TruffleHog v3 - 檢測並自動驗證600多種憑證類型]]></title>
-        <id>https://news.ycombinator.com/item?id=30910893</id>
-        <link href="https://news.ycombinator.com/item?id=30910893"/>
-        <updated>2022-04-04T19:21:30.000Z</updated>
-        <summary type="html"><![CDATA[TruffleHog v3 – Detect and automatically verify over 600 credential types]]></summary>
-        <author>
-            <name>riverdroid</name>
-            <uri>https://news.ycombinator.com/user?id=riverdroid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda函數的URL。Lambda的內置HTTPS端點]]></title>
-        <id>https://news.ycombinator.com/item?id=30937433</id>
-        <link href="https://news.ycombinator.com/item?id=30937433"/>
-        <updated>2022-04-06T21:07:47.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda Function URLs: Built-In HTTPS Endpoints for Lambda]]></summary>
-        <author>
-            <name>vvoyer</name>
-            <uri>https://news.ycombinator.com/user?id=vvoyer</uri>
         </author>
     </entry>
 </feed>
