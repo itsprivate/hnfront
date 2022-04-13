@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T11:31:02.461Z</updated>
+    <updated>2022-04-13T11:52:16.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個網站來搜索你附近的半條麵包]]></title>
+        <id>https://news.ycombinator.com/item?id=31013326</id>
+        <link href="https://news.ycombinator.com/item?id=31013326"/>
+        <updated>2022-04-13T11:15:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a website to search for half loaves of bread near you]]></summary>
+        <author>
+            <name>prashantb</name>
+            <uri>https://news.ycombinator.com/user?id=prashantb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[點陣圖的歷史]]></title>
         <id>https://news.ycombinator.com/item?id=31001126</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aqsalose</name>
             <uri>https://news.ycombinator.com/user?id=aqsalose</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[良好的猜測者]]></title>
-        <id>https://news.ycombinator.com/item?id=30925917</id>
-        <link href="https://news.ycombinator.com/item?id=30925917"/>
-        <updated>2022-04-05T22:30:05.000Z</updated>
-        <summary type="html"><![CDATA[GoodGuesser]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
