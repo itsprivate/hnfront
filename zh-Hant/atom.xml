@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T15:38:22.657Z</updated>
+    <updated>2022-04-13T15:56:57.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hetzner雲 - 數據丟失事件]]></title>
+        <id>https://news.ycombinator.com/item?id=31015840</id>
+        <link href="https://news.ycombinator.com/item?id=31015840"/>
+        <updated>2022-04-13T15:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Hetzner Cloud – Data loss incident]]></summary>
+        <author>
+            <name>bratao</name>
+            <uri>https://news.ycombinator.com/user?id=bratao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷幻藥對抑鬱症患者的大腦進行重塑]]></title>
         <id>https://news.ycombinator.com/item?id=31015636</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vvoyer</name>
             <uri>https://news.ycombinator.com/user?id=vvoyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國國稅局詳細說明更換其最古老的計算機代碼的策略]]></title>
-        <id>https://news.ycombinator.com/item?id=30937181</id>
-        <link href="https://news.ycombinator.com/item?id=30937181"/>
-        <updated>2022-04-06T20:37:56.000Z</updated>
-        <summary type="html"><![CDATA[IRS details strategy for replacing its most ancient computer code]]></summary>
-        <author>
-            <name>CharlesW</name>
-            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
         </author>
     </entry>
 </feed>
