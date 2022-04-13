@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 13 Apr 2022 23:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 23:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推送選項。用Git推送控制Gitlab的CI/CD和合並]]></title>
+            <link>https://news.ycombinator.com/item?id=30996427</link>
+            <guid>https://news.ycombinator.com/item?id=30996427</guid>
+            <pubDate>Mon, 11 Apr 2022 23:14:53 GMT</pubDate>
+            <description><![CDATA[Push Options: Control Gitlab CI/CD and Merges with Git Push]]></description>
+        </item>
         <item>
             <title><![CDATA[混淆不清的模糊不清]]></title>
             <link>https://news.ycombinator.com/item?id=31020977</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30941053</guid>
             <pubDate>Thu, 07 Apr 2022 05:51:52 GMT</pubDate>
             <description><![CDATA[I thought I would have accomplished a lot more today and also before I was 35]]></description>
-        </item>
-        <item>
-            <title><![CDATA[手工優化TCC代碼生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30941097</link>
-            <guid>https://news.ycombinator.com/item?id=30941097</guid>
-            <pubDate>Thu, 07 Apr 2022 06:00:39 GMT</pubDate>
-            <description><![CDATA[Hand-optimizing the TCC code generator]]></description>
         </item>
     </channel>
 </rss>

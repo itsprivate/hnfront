@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T23:12:37.356Z</updated>
+    <updated>2022-04-13T23:42:05.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推送選項。用Git推送控制Gitlab的CI/CD和合並]]></title>
+        <id>https://news.ycombinator.com/item?id=30996427</id>
+        <link href="https://news.ycombinator.com/item?id=30996427"/>
+        <updated>2022-04-11T23:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Push Options: Control Gitlab CI/CD and Merges with Git Push]]></summary>
+        <author>
+            <name>CaliforniaKarl</name>
+            <uri>https://news.ycombinator.com/user?id=CaliforniaKarl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混淆不清的模糊不清]]></title>
         <id>https://news.ycombinator.com/item?id=31020977</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>webmaven</name>
             <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手工優化TCC代碼生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30941097</id>
-        <link href="https://news.ycombinator.com/item?id=30941097"/>
-        <updated>2022-04-07T06:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Hand-optimizing the TCC code generator]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
