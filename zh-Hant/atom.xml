@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-13T13:27:43.973Z</updated>
+    <updated>2022-04-13T13:48:48.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司公佈iPhone Macro挑戰賽的最佳照片]]></title>
+        <id>https://news.ycombinator.com/item?id=31014194</id>
+        <link href="https://news.ycombinator.com/item?id=31014194"/>
+        <updated>2022-04-13T13:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Apple unveils the best photos from the Shot on iPhone Macro Challenge]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荷蘭的醜聞是對歐洲使用算法的風險的警告]]></title>
         <id>https://news.ycombinator.com/item?id=31013994</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>theafh</name>
             <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的競爭對手寫了你要競標的招標書]]></title>
-        <id>https://news.ycombinator.com/item?id=30932596</id>
-        <link href="https://news.ycombinator.com/item?id=30932596"/>
-        <updated>2022-04-06T14:48:40.000Z</updated>
-        <summary type="html"><![CDATA[Your Competitor Wrote the RFP You're Bidding On]]></summary>
-        <author>
-            <name>asyncscrum</name>
-            <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
         </author>
     </entry>
 </feed>
