@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 14 Apr 2022 17:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑暗中的浏览器：用CSS和画布打手电筒]]></title>
+            <link>https://news.ycombinator.com/item?id=31029845</link>
+            <guid>https://news.ycombinator.com/item?id=31029845</guid>
+            <pubDate>Thu, 14 Apr 2022 17:06:38 GMT</pubDate>
+            <description><![CDATA[Browser in the Dark: flashlights with CSS and canvas]]></description>
+        </item>
         <item>
             <title><![CDATA[以太坊有问题]]></title>
             <link>https://news.ycombinator.com/item?id=31029504</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30949132</guid>
             <pubDate>Thu, 07 Apr 2022 19:17:56 GMT</pubDate>
             <description><![CDATA[Raspberry Pi update removes the default user]]></description>
-        </item>
-        <item>
-            <title><![CDATA[缪斯（YC W12）正在招聘一名高级平台工程师（了解更多）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30950300</link>
-            <guid>https://news.ycombinator.com/item?id=30950300</guid>
-            <pubDate>Thu, 07 Apr 2022 21:01:13 GMT</pubDate>
-            <description><![CDATA[The Muse (YC W12) Is Hiring a Senior Platform Engineer (Learn More)]]></description>
         </item>
     </channel>
 </rss>

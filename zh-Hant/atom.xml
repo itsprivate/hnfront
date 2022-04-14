@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T17:40:09.158Z</updated>
+    <updated>2022-04-14T17:53:35.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑暗中的瀏覽器：用CSS和畫布打手電筒]]></title>
+        <id>https://news.ycombinator.com/item?id=31029845</id>
+        <link href="https://news.ycombinator.com/item?id=31029845"/>
+        <updated>2022-04-14T17:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Browser in the Dark: flashlights with CSS and canvas]]></summary>
+        <author>
+            <name>voussoir</name>
+            <uri>https://news.ycombinator.com/user?id=voussoir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊有問題]]></title>
         <id>https://news.ycombinator.com/item?id=31029504</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ez_mmk</name>
             <uri>https://news.ycombinator.com/user?id=ez_mmk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[繆斯（YC W12）正在招聘一名高級平臺工程師（瞭解更多）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30950300</id>
-        <link href="https://news.ycombinator.com/item?id=30950300"/>
-        <updated>2022-04-07T21:01:13.000Z</updated>
-        <summary type="html"><![CDATA[The Muse (YC W12) Is Hiring a Senior Platform Engineer (Learn More)]]></summary>
-        <author>
-            <name>KMinshew</name>
-            <uri>https://news.ycombinator.com/user?id=KMinshew</uri>
         </author>
     </entry>
 </feed>
