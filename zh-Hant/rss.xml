@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 14 Apr 2022 18:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 18:38:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[部分重新編程的深入研究：好的、壞的和部分未解決的問題]]></title>
+            <link>https://news.ycombinator.com/item?id=31008001</link>
+            <guid>https://news.ycombinator.com/item?id=31008001</guid>
+            <pubDate>Tue, 12 Apr 2022 20:42:15 GMT</pubDate>
+            <description><![CDATA[Partial reprogramming deep dive: the good, bad, and partially unresolved]]></description>
+        </item>
         <item>
             <title><![CDATA[我如何才能最好地協助我的妻子進行職業轉型？]]></title>
             <link>https://news.ycombinator.com/item?id=31030740</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30951018</guid>
             <pubDate>Thu, 07 Apr 2022 22:20:16 GMT</pubDate>
             <description><![CDATA[I found a 271,800 character demangled symbol name in libmshr]]></description>
-        </item>
-        <item>
-            <title><![CDATA[鳥類比人類更適合做雙足機器人]]></title>
-            <link>https://news.ycombinator.com/item?id=30950780</link>
-            <guid>https://news.ycombinator.com/item?id=30950780</guid>
-            <pubDate>Thu, 07 Apr 2022 21:52:50 GMT</pubDate>
-            <description><![CDATA[Birds Make Better Bipedal Bots Than Humans Do]]></description>
         </item>
     </channel>
 </rss>

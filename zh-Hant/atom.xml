@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T18:16:14.610Z</updated>
+    <updated>2022-04-14T18:38:15.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[部分重新編程的深入研究：好的、壞的和部分未解決的問題]]></title>
+        <id>https://news.ycombinator.com/item?id=31008001</id>
+        <link href="https://news.ycombinator.com/item?id=31008001"/>
+        <updated>2022-04-12T20:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Partial reprogramming deep dive: the good, bad, and partially unresolved]]></summary>
+        <author>
+            <name>wirelesspotat</name>
+            <uri>https://news.ycombinator.com/user?id=wirelesspotat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何才能最好地協助我的妻子進行職業轉型？]]></title>
         <id>https://news.ycombinator.com/item?id=31030740</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>AntiRush</name>
             <uri>https://news.ycombinator.com/user?id=AntiRush</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鳥類比人類更適合做雙足機器人]]></title>
-        <id>https://news.ycombinator.com/item?id=30950780</id>
-        <link href="https://news.ycombinator.com/item?id=30950780"/>
-        <updated>2022-04-07T21:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Birds Make Better Bipedal Bots Than Humans Do]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
