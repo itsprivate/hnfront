@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T17:22:04.974Z</updated>
+    <updated>2022-04-14T17:40:09.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以太坊有问题]]></title>
+        <id>https://news.ycombinator.com/item?id=31029504</id>
+        <link href="https://news.ycombinator.com/item?id=31029504"/>
+        <updated>2022-04-14T16:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Has Issues]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LunaSec (YC S19)正在招聘一名成长型领导，帮助我们建立GitHub社区]]></title>
         <id>https://news.ycombinator.com/item?id=31029718</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KMinshew</name>
             <uri>https://news.ycombinator.com/user?id=KMinshew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特上不断增加的围墙花园]]></title>
-        <id>https://news.ycombinator.com/item?id=30949048</id>
-        <link href="https://news.ycombinator.com/item?id=30949048"/>
-        <updated>2022-04-07T19:10:48.000Z</updated>
-        <summary type="html"><![CDATA[The ever-increasing walled-gardeness of Twitter]]></summary>
-        <author>
-            <name>matrixagent</name>
-            <uri>https://news.ycombinator.com/user?id=matrixagent</uri>
         </author>
     </entry>
 </feed>
