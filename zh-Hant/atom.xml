@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T19:13:25.487Z</updated>
+    <updated>2022-04-14T19:29:20.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[東京的手稿寫作咖啡館在完成之前不會讓作家離開]]></title>
+        <id>https://news.ycombinator.com/item?id=31012685</id>
+        <link href="https://news.ycombinator.com/item?id=31012685"/>
+        <updated>2022-04-13T09:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Tokyo’s Manuscript Writing Cafe won't let writers leave until they are finished]]></summary>
+        <author>
+            <name>mellosouls</name>
+            <uri>https://news.ycombinator.com/user?id=mellosouls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Youtube.js - 圍繞YouTube的私有API的全功能包裝器]]></title>
         <id>https://news.ycombinator.com/item?id=31021611</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>davidbarker</name>
             <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴克萊銀行安裝傳感器，查看哪些銀行家在辦公桌前工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30952689</id>
-        <link href="https://news.ycombinator.com/item?id=30952689"/>
-        <updated>2022-04-08T02:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Barclays Puts in Sensors to See Which Bankers Are at Their Desks]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
