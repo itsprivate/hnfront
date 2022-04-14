@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 14 Apr 2022 15:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 15:58:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[随着通货膨胀的飙升，亚利桑那州的冰茶怎么还是99美分？]]></title>
+            <link>https://news.ycombinator.com/item?id=31023907</link>
+            <guid>https://news.ycombinator.com/item?id=31023907</guid>
+            <pubDate>Thu, 14 Apr 2022 06:16:48 GMT</pubDate>
+            <description><![CDATA[As inflation soars, how is Arizona iced tea still 99 cents?]]></description>
+        </item>
         <item>
             <title><![CDATA[Stripe的新一键结账产品]]></title>
             <link>https://news.ycombinator.com/item?id=31027880</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30948255</guid>
             <pubDate>Thu, 07 Apr 2022 18:11:17 GMT</pubDate>
             <description><![CDATA[Mantle – Serverless Maps Using Lambda or Cloudflare Workers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[支持WASM编译的Ruby 3.2预览版1可在浏览器中运行]]></title>
-            <link>https://news.ycombinator.com/item?id=30947793</link>
-            <guid>https://news.ycombinator.com/item?id=30947793</guid>
-            <pubDate>Thu, 07 Apr 2022 17:38:00 GMT</pubDate>
-            <description><![CDATA[Ruby 3.2 preview 1 with support for WASM compilation can run in browser]]></description>
         </item>
     </channel>
 </rss>
