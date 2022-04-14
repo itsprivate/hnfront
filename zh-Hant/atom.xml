@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T07:32:19.536Z</updated>
+    <updated>2022-04-14T08:55:21.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鈈和詩歌。特尼狄和奧本海默的閱讀習慣相遇的地方 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=31005586</id>
+        <link href="https://news.ycombinator.com/item?id=31005586"/>
+        <updated>2022-04-12T17:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Plutonium and poetry: Where Trinity and Oppenheimer's reading habits met (2021)]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓Rust更適合Cheri和其他平臺]]></title>
         <id>https://news.ycombinator.com/item?id=31024127</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ohjeez</name>
             <uri>https://news.ycombinator.com/user?id=ohjeez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在過去的50年裡，核電幫助防止了~2M的死亡。]]></title>
-        <id>https://news.ycombinator.com/item?id=30944707</id>
-        <link href="https://news.ycombinator.com/item?id=30944707"/>
-        <updated>2022-04-07T14:15:21.000Z</updated>
-        <summary type="html"><![CDATA[Nuclear power helped prevent ~2M deaths in the last 50 years]]></summary>
-        <author>
-            <name>torts</name>
-            <uri>https://news.ycombinator.com/user?id=torts</uri>
         </author>
     </entry>
 </feed>
