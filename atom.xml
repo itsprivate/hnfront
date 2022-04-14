@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T20:34:38.188Z</updated>
+    <updated>2022-04-14T20:51:23.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Moskva "号巡洋舰在拖曳时沉没]]></title>
+        <id>https://news.ycombinator.com/item?id=31032821</id>
+        <link href="https://news.ycombinator.com/item?id=31032821"/>
+        <updated>2022-04-14T20:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Cruiser “Moskva” sank while towing]]></summary>
+        <author>
+            <name>globalise83</name>
+            <uri>https://news.ycombinator.com/user?id=globalise83</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计算机科学开放数据]]></title>
         <id>https://news.ycombinator.com/item?id=31031883</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hardmaru</name>
             <uri>https://news.ycombinator.com/user?id=hardmaru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[混合/远程软件团队的仪式感]]></title>
-        <id>https://news.ycombinator.com/item?id=30940747</id>
-        <link href="https://news.ycombinator.com/item?id=30940747"/>
-        <updated>2022-04-07T04:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Hybrid/Remote software team rituals]]></summary>
-        <author>
-            <name>codemac</name>
-            <uri>https://news.ycombinator.com/user?id=codemac</uri>
         </author>
     </entry>
 </feed>
