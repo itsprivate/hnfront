@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T19:29:20.014Z</updated>
+    <updated>2022-04-14T19:37:36.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[波特五力对B2B软件行业的不适用性]]></title>
+        <id>https://news.ycombinator.com/item?id=31031528</id>
+        <link href="https://news.ycombinator.com/item?id=31031528"/>
+        <updated>2022-04-14T18:50:49.000Z</updated>
+        <summary type="html"><![CDATA[The Irrelevance of Porter’s Five Forces for the B2B Software Industry]]></summary>
+        <author>
+            <name>djhope</name>
+            <uri>https://news.ycombinator.com/user?id=djhope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[东京的手稿写作咖啡馆在完成之前不会让作家离开]]></title>
         <id>https://news.ycombinator.com/item?id=31012685</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>qualudeheart</name>
             <uri>https://news.ycombinator.com/user?id=qualudeheart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cohere。世界上最强大的NLP工具箱]]></title>
-        <id>https://news.ycombinator.com/item?id=30952871</id>
-        <link href="https://news.ycombinator.com/item?id=30952871"/>
-        <updated>2022-04-08T02:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Cohere: The world’s most powerful NLP toolkit]]></summary>
-        <author>
-            <name>davidbarker</name>
-            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
         </author>
     </entry>
 </feed>
