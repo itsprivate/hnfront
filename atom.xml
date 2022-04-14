@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T22:15:38.176Z</updated>
+    <updated>2022-04-14T22:35:11.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的威胁模型的概述]]></title>
+        <id>https://news.ycombinator.com/item?id=31019964</id>
+        <link href="https://news.ycombinator.com/item?id=31019964"/>
+        <updated>2022-04-13T20:40:18.000Z</updated>
+        <summary type="html"><![CDATA[An overview of my threat model]]></summary>
+        <author>
+            <name>zaik</name>
+            <uri>https://news.ycombinator.com/user?id=zaik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们失去了54000个GitHub之星]]></title>
         <id>https://news.ycombinator.com/item?id=31033758</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>denisw</name>
             <uri>https://news.ycombinator.com/user?id=denisw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可以在JavaScript中抛出()任何东西 - 以及其他异步/等待的考虑因素]]></title>
-        <id>https://news.ycombinator.com/item?id=30942556</id>
-        <link href="https://news.ycombinator.com/item?id=30942556"/>
-        <updated>2022-04-07T09:54:24.000Z</updated>
-        <summary type="html"><![CDATA[You Can Throw() Anything in JavaScript – and Other Async/Await Considerations]]></summary>
-        <author>
-            <name>fagnerbrack</name>
-            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
         </author>
     </entry>
 </feed>
