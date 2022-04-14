@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:32:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[讓Rust更適合Cheri和其他平臺]]></title>
+            <link>https://news.ycombinator.com/item?id=31024127</link>
+            <guid>https://news.ycombinator.com/item?id=31024127</guid>
+            <pubDate>Thu, 14 Apr 2022 07:03:36 GMT</pubDate>
+            <description><![CDATA[Making Rust a Better Fit for Cheri and Other Platforms]]></description>
+        </item>
         <item>
             <title><![CDATA[Sturdy（YC W21）正在招聘高級工程師（瑞典斯德哥爾摩）。]]></title>
             <link>https://news.ycombinator.com/item?id=31024111</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30944707</guid>
             <pubDate>Thu, 07 Apr 2022 14:15:21 GMT</pubDate>
             <description><![CDATA[Nuclear power helped prevent ~2M deaths in the last 50 years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[原始的APT。先進的持久性青少年]]></title>
-            <link>https://news.ycombinator.com/item?id=30935458</link>
-            <guid>https://news.ycombinator.com/item?id=30935458</guid>
-            <pubDate>Wed, 06 Apr 2022 18:05:53 GMT</pubDate>
-            <description><![CDATA[The Original APT: Advanced Persistent Teenagers]]></description>
         </item>
     </channel>
 </rss>
