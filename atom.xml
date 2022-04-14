@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T21:33:14.728Z</updated>
+    <updated>2022-04-14T21:52:19.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么德国不会让其核电站继续开放]]></title>
+        <id>https://news.ycombinator.com/item?id=31033412</id>
+        <link href="https://news.ycombinator.com/item?id=31033412"/>
+        <updated>2022-04-14T21:16:21.000Z</updated>
+        <summary type="html"><![CDATA[Why Germany Won’t Keep Its Nuclear Plants Open]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["彩虹是他们的向导"。玛丽-加塞德的《色彩新论》(1808)]]></title>
         <id>https://news.ycombinator.com/item?id=31018140</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wooptoo</name>
             <uri>https://news.ycombinator.com/user?id=wooptoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可能不需要Cloudflare Tunnel。Linux也可以]]></title>
-        <id>https://news.ycombinator.com/item?id=30953744</id>
-        <link href="https://news.ycombinator.com/item?id=30953744"/>
-        <updated>2022-04-08T05:54:05.000Z</updated>
-        <summary type="html"><![CDATA[You may not need Cloudflare Tunnel. Linux is fine]]></summary>
-        <author>
-            <name>mcovalt</name>
-            <uri>https://news.ycombinator.com/user?id=mcovalt</uri>
         </author>
     </entry>
 </feed>
