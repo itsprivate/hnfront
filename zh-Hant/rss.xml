@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 14 Apr 2022 20:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 20:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[計算機科學開放數據]]></title>
+            <link>https://news.ycombinator.com/item?id=31031883</link>
+            <guid>https://news.ycombinator.com/item?id=31031883</guid>
+            <pubDate>Thu, 14 Apr 2022 19:12:03 GMT</pubDate>
+            <description><![CDATA[Computer Science Open Data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何建立一個可組合的博客]]></title>
+            <link>https://news.ycombinator.com/item?id=31013280</link>
+            <guid>https://news.ycombinator.com/item?id=31013280</guid>
+            <pubDate>Wed, 13 Apr 2022 11:10:01 GMT</pubDate>
+            <description><![CDATA[How to Build a Composable Blog]]></description>
+        </item>
         <item>
             <title><![CDATA[新的研究。希特勒的牙齒證實他死於1945年]]></title>
             <link>https://news.ycombinator.com/item?id=31031698</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30940747</guid>
             <pubDate>Thu, 07 Apr 2022 04:55:48 GMT</pubDate>
             <description><![CDATA[Ask HN: Hybrid/Remote software team rituals]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenSSH 9.0 發行說明]]></title>
-            <link>https://news.ycombinator.com/item?id=30953634</link>
-            <guid>https://news.ycombinator.com/item?id=30953634</guid>
-            <pubDate>Fri, 08 Apr 2022 05:32:10 GMT</pubDate>
-            <description><![CDATA[OpenSSH 9.0 Release Notes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PiGlass v2: 一個可穿戴的Pi Zero 2]]></title>
-            <link>https://news.ycombinator.com/item?id=30941067</link>
-            <guid>https://news.ycombinator.com/item?id=30941067</guid>
-            <pubDate>Thu, 07 Apr 2022 05:55:22 GMT</pubDate>
-            <description><![CDATA[PiGlass v2: A wearable Pi Zero 2]]></description>
         </item>
     </channel>
 </rss>

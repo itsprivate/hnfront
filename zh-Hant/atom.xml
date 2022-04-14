@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T20:14:41.784Z</updated>
+    <updated>2022-04-14T20:34:38.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[計算機科學開放數據]]></title>
+        <id>https://news.ycombinator.com/item?id=31031883</id>
+        <link href="https://news.ycombinator.com/item?id=31031883"/>
+        <updated>2022-04-14T19:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Computer Science Open Data]]></summary>
+        <author>
+            <name>lazyjeff</name>
+            <uri>https://news.ycombinator.com/user?id=lazyjeff</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何建立一個可組合的博客]]></title>
+        <id>https://news.ycombinator.com/item?id=31013280</id>
+        <link href="https://news.ycombinator.com/item?id=31013280"/>
+        <updated>2022-04-13T11:10:01.000Z</updated>
+        <summary type="html"><![CDATA[How to Build a Composable Blog]]></summary>
+        <author>
+            <name>sunilsandhu</name>
+            <uri>https://news.ycombinator.com/user?id=sunilsandhu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的研究。希特勒的牙齒證實他死於1945年]]></title>
         <id>https://news.ycombinator.com/item?id=31031698</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>codemac</name>
             <uri>https://news.ycombinator.com/user?id=codemac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSH 9.0 發行說明]]></title>
-        <id>https://news.ycombinator.com/item?id=30953634</id>
-        <link href="https://news.ycombinator.com/item?id=30953634"/>
-        <updated>2022-04-08T05:32:10.000Z</updated>
-        <summary type="html"><![CDATA[OpenSSH 9.0 Release Notes]]></summary>
-        <author>
-            <name>rurban</name>
-            <uri>https://news.ycombinator.com/user?id=rurban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PiGlass v2: 一個可穿戴的Pi Zero 2]]></title>
-        <id>https://news.ycombinator.com/item?id=30941067</id>
-        <link href="https://news.ycombinator.com/item?id=30941067"/>
-        <updated>2022-04-07T05:55:22.000Z</updated>
-        <summary type="html"><![CDATA[PiGlass v2: A wearable Pi Zero 2]]></summary>
-        <author>
-            <name>matt8588</name>
-            <uri>https://news.ycombinator.com/user?id=matt8588</uri>
         </author>
     </entry>
 </feed>
