@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T22:53:09.387Z</updated>
+    <updated>2022-04-14T23:33:34.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[她的大脑少了一大块。这并不重要]]></title>
+        <id>https://news.ycombinator.com/item?id=31012048</id>
+        <link href="https://news.ycombinator.com/item?id=31012048"/>
+        <updated>2022-04-13T07:28:13.000Z</updated>
+        <summary type="html"><![CDATA[She Was Missing a Chunk of Her Brain. It Didn’t Matter]]></summary>
+        <author>
+            <name>Jaruzel</name>
+            <uri>https://news.ycombinator.com/user?id=Jaruzel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Star Labs StarBook - AMD 14" Linux笔记本电脑，采用coreboot和 "开放保修"。]]></title>
         <id>https://news.ycombinator.com/item?id=31034024</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bilegeek</name>
             <uri>https://news.ycombinator.com/user?id=bilegeek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSH 9.0已经发布]]></title>
-        <id>https://news.ycombinator.com/item?id=30954800</id>
-        <link href="https://news.ycombinator.com/item?id=30954800"/>
-        <updated>2022-04-08T08:53:31.000Z</updated>
-        <summary type="html"><![CDATA[OpenSSH 9.0 has been released]]></summary>
-        <author>
-            <name>raimue</name>
-            <uri>https://news.ycombinator.com/user?id=raimue</uri>
         </author>
     </entry>
 </feed>
