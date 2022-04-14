@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-14T15:58:15.363Z</updated>
+    <updated>2022-04-14T16:17:57.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DALL-E, Metaverse, and Zero Marginal Content]]></title>
+        <id>https://news.ycombinator.com/item?id=31012806</id>
+        <link href="https://news.ycombinator.com/item?id=31012806"/>
+        <updated>2022-04-13T09:53:23.000Z</updated>
+        <summary type="html"><![CDATA[DALL-E, the Metaverse, and Zero Marginal Content]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隨著通貨膨脹的飆升，亞利桑那州的冰茶怎麼還是99美分？]]></title>
         <id>https://news.ycombinator.com/item?id=31023907</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>FrankSansC</name>
             <uri>https://news.ycombinator.com/user?id=FrankSansC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantle - 使用Lambda或Cloudflare Workers的無服務器地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30948255</id>
-        <link href="https://news.ycombinator.com/item?id=30948255"/>
-        <updated>2022-04-07T18:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Mantle – Serverless Maps Using Lambda or Cloudflare Workers]]></summary>
-        <author>
-            <name>bdon</name>
-            <uri>https://news.ycombinator.com/user?id=bdon</uri>
         </author>
     </entry>
 </feed>
