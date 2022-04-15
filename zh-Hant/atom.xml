@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T05:05:15.587Z</updated>
+    <updated>2022-04-15T05:43:01.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對不起，打錯電話了。調試Wine下的崩潰]]></title>
+        <id>https://news.ycombinator.com/item?id=31002174</id>
+        <link href="https://news.ycombinator.com/item?id=31002174"/>
+        <updated>2022-04-12T13:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Sorry, Wrong Number: Debugging a Crash Under Wine]]></summary>
+        <author>
+            <name>jchw</name>
+            <uri>https://news.ycombinator.com/user?id=jchw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜搜索發生了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31036537</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於管理混合/遠程團隊的好書？]]></title>
-        <id>https://news.ycombinator.com/item?id=30956245</id>
-        <link href="https://news.ycombinator.com/item?id=30956245"/>
-        <updated>2022-04-08T12:53:44.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Good books on managing a hybrid/remote team?]]></summary>
-        <author>
-            <name>NoboruWataya</name>
-            <uri>https://news.ycombinator.com/user?id=NoboruWataya</uri>
         </author>
     </entry>
 </feed>
