@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T13:45:58.841Z</updated>
+    <updated>2022-04-15T14:14:04.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[维基百科在全球范围内阻止苹果私人中继IP范围的编辑工作]]></title>
+        <id>https://news.ycombinator.com/item?id=31040301</id>
+        <link href="https://news.ycombinator.com/item?id=31040301"/>
+        <updated>2022-04-15T13:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Wikipedia globally blocks Apple Private Relay IP ranges from editing]]></summary>
+        <author>
+            <name>larcher</name>
+            <uri>https://news.ycombinator.com/user?id=larcher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更多的控制与怠速性]]></title>
+        <id>https://news.ycombinator.com/item?id=31027403</id>
+        <link href="https://news.ycombinator.com/item?id=31027403"/>
+        <updated>2022-04-14T14:20:26.000Z</updated>
+        <summary type="html"><![CDATA[More Control with Idempotency]]></summary>
+        <author>
+            <name>charlieirish</name>
+            <uri>https://news.ycombinator.com/user?id=charlieirish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被审查的不是话题，而是行为。]]></title>
         <id>https://news.ycombinator.com/item?id=31039827</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提高人工智能 - 用人工智能轻松优化你的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30958033</id>
-        <link href="https://news.ycombinator.com/item?id=30958033"/>
-        <updated>2022-04-08T15:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Improve AI – Optimize Your App Easily with AI]]></summary>
-        <author>
-            <name>orasis</name>
-            <uri>https://news.ycombinator.com/user?id=orasis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国数字军团]]></title>
-        <id>https://news.ycombinator.com/item?id=30958919</id>
-        <link href="https://news.ycombinator.com/item?id=30958919"/>
-        <updated>2022-04-08T16:04:30.000Z</updated>
-        <summary type="html"><![CDATA[The United States Digital Corps]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
         </author>
     </entry>
 </feed>
