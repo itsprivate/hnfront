@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T13:23:25.935Z</updated>
+    <updated>2022-04-15T13:45:58.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被审查的不是话题，而是行为。]]></title>
+        <id>https://news.ycombinator.com/item?id=31039827</id>
+        <link href="https://news.ycombinator.com/item?id=31039827"/>
+        <updated>2022-04-15T13:12:29.000Z</updated>
+        <summary type="html"><![CDATA[It is not topics that are censored, it is behaviour]]></summary>
+        <author>
+            <name>martythemaniak</name>
+            <uri>https://news.ycombinator.com/user?id=martythemaniak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim 0.7版发布]]></title>
+        <id>https://news.ycombinator.com/item?id=31039569</id>
+        <link href="https://news.ycombinator.com/item?id=31039569"/>
+        <updated>2022-04-15T12:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Neovim 0.7 Released]]></summary>
+        <author>
+            <name>akrifari</name>
+            <uri>https://news.ycombinator.com/user?id=akrifari</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从SQLite迁移到PostgreSQL]]></title>
         <id>https://news.ycombinator.com/item?id=31038614</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tomrod</name>
             <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turborepo 1.2: 高性能的单片机构建系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30958653</id>
-        <link href="https://news.ycombinator.com/item?id=30958653"/>
-        <updated>2022-04-08T15:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Turborepo 1.2: High-performance build system for monorepos]]></summary>
-        <author>
-            <name>leerob</name>
-            <uri>https://news.ycombinator.com/user?id=leerob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient-VDVAE是一个开源的内存效率高的深度分层VAE]]></title>
-        <id>https://news.ycombinator.com/item?id=30958530</id>
-        <link href="https://news.ycombinator.com/item?id=30958530"/>
-        <updated>2022-04-08T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Efficient-VDVAE an Open-source memory-efficient deep hierarchical VAE]]></summary>
-        <author>
-            <name>Lou-AI</name>
-            <uri>https://news.ycombinator.com/user?id=Lou-AI</uri>
         </author>
     </entry>
 </feed>
