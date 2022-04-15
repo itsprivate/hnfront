@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T12:20:35.126Z</updated>
+    <updated>2022-04-15T12:55:12.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對土地徵稅]]></title>
+        <id>https://news.ycombinator.com/item?id=31039451</id>
+        <link href="https://news.ycombinator.com/item?id=31039451"/>
+        <updated>2022-04-15T12:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Tax the Land]]></summary>
+        <author>
+            <name>iNic</name>
+            <uri>https://news.ycombinator.com/user?id=iNic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用再生療法逆轉聽力損失]]></title>
+        <id>https://news.ycombinator.com/item?id=31039242</id>
+        <link href="https://news.ycombinator.com/item?id=31039242"/>
+        <updated>2022-04-15T12:09:16.000Z</updated>
+        <summary type="html"><![CDATA[Reversing hearing loss with regenerative therapy]]></summary>
+        <author>
+            <name>maxerickson</name>
+            <uri>https://news.ycombinator.com/user?id=maxerickson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Nim語言生成Python擴展]]></title>
+        <id>https://news.ycombinator.com/item?id=31038996</id>
+        <link href="https://news.ycombinator.com/item?id=31038996"/>
+        <updated>2022-04-15T11:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Generate Python extensions using Nim language]]></summary>
+        <author>
+            <name>eagledotRL</name>
+            <uri>https://news.ycombinator.com/user?id=eagledotRL</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCB-rs:編寫軟件仿真硬件的庫]]></title>
+        <id>https://news.ycombinator.com/item?id=31024101</id>
+        <link href="https://news.ycombinator.com/item?id=31024101"/>
+        <updated>2022-04-14T06:58:38.000Z</updated>
+        <summary type="html"><![CDATA[PCB-rs:library to wite Software Emulated Hardware]]></summary>
+        <author>
+            <name>goombacloud</name>
+            <uri>https://news.ycombinator.com/user?id=goombacloud</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nimbus（YC W22）正在招聘我們的創始工程團隊]]></title>
         <id>https://news.ycombinator.com/item?id=31039184</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書評。伯努利的謬誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30957959</id>
-        <link href="https://news.ycombinator.com/item?id=30957959"/>
-        <updated>2022-04-08T15:05:49.000Z</updated>
-        <summary type="html"><![CDATA[Book Review: Bernoulli's Fallacy]]></summary>
-        <author>
-            <name>ThatGeoGuy</name>
-            <uri>https://news.ycombinator.com/user?id=ThatGeoGuy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[騎馬的宇航員是人工智能感知世界旅程中的一個里程碑]]></title>
-        <id>https://news.ycombinator.com/item?id=30939249</id>
-        <link href="https://news.ycombinator.com/item?id=30939249"/>
-        <updated>2022-04-07T00:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Horse-riding astronaut is a milestone in AI’s journey to make sense of the world]]></summary>
-        <author>
-            <name>nkurz</name>
-            <uri>https://news.ycombinator.com/user?id=nkurz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iFixit和谷歌將推出Pixel正品零件計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=30957977</id>
-        <link href="https://news.ycombinator.com/item?id=30957977"/>
-        <updated>2022-04-08T15:06:35.000Z</updated>
-        <summary type="html"><![CDATA[iFixit and Google Are Launching a Genuine Pixel Parts Program]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘇聯的致命的米格-25狐蝠。一架商務飛機？]]></title>
-        <id>https://news.ycombinator.com/item?id=30956662</id>
-        <link href="https://news.ycombinator.com/item?id=30956662"/>
-        <updated>2022-04-08T13:41:45.000Z</updated>
-        <summary type="html"><![CDATA[The Soviet Union's Lethal MiG-25 Foxbat: A Business Jet?]]></summary>
-        <author>
-            <name>aww_dang</name>
-            <uri>https://news.ycombinator.com/user?id=aww_dang</uri>
         </author>
     </entry>
 </feed>
