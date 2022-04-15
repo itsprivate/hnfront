@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 09:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 09:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鄧寧-克魯格效應就是自相矛盾]]></title>
+            <link>https://news.ycombinator.com/item?id=31036800</link>
+            <guid>https://news.ycombinator.com/item?id=31036800</guid>
+            <pubDate>Fri, 15 Apr 2022 05:15:58 GMT</pubDate>
+            <description><![CDATA[The Dunning-Kruger Effect Is Autocorrelation]]></description>
+        </item>
         <item>
             <title><![CDATA[我希望分佈式不是新的默認值]]></title>
             <link>https://news.ycombinator.com/item?id=31037737</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30956846</guid>
             <pubDate>Fri, 08 Apr 2022 14:00:53 GMT</pubDate>
             <description><![CDATA[Why Remotion is a native macOS app (not Electron)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用HTML5做了一個益智遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30956775</link>
-            <guid>https://news.ycombinator.com/item?id=30956775</guid>
-            <pubDate>Fri, 08 Apr 2022 13:54:40 GMT</pubDate>
-            <description><![CDATA[Show HN: I Made a Puzzle Game in HTML5]]></description>
         </item>
     </channel>
 </rss>
