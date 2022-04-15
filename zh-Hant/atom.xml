@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T14:31:52.817Z</updated>
+    <updated>2022-04-15T14:52:26.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[橢圓曲線密碼學。基本介紹]]></title>
+        <id>https://news.ycombinator.com/item?id=31040571</id>
+        <link href="https://news.ycombinator.com/item?id=31040571"/>
+        <updated>2022-04-15T14:21:16.000Z</updated>
+        <summary type="html"><![CDATA[Elliptic Curve Cryptography: A Basic Introduction]]></summary>
+        <author>
+            <name>wagslane</name>
+            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MPLS/LDP創建神話]]></title>
         <id>https://news.ycombinator.com/item?id=31040142</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gscott</name>
             <uri>https://news.ycombinator.com/user?id=gscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們難道不應該把目光投向電力消耗嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30959094</id>
-        <link href="https://news.ycombinator.com/item?id=30959094"/>
-        <updated>2022-04-08T16:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Shouldn't we be turning an eye to power consumption?]]></summary>
-        <author>
-            <name>Damogran6</name>
-            <uri>https://news.ycombinator.com/user?id=Damogran6</uri>
         </author>
     </entry>
 </feed>
