@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 18:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 18:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Bevy 0.7：用Rust構建的面向數據的遊戲引擎]]></title>
+            <link>https://news.ycombinator.com/item?id=31043668</link>
+            <guid>https://news.ycombinator.com/item?id=31043668</guid>
+            <pubDate>Fri, 15 Apr 2022 18:16:35 GMT</pubDate>
+            <description><![CDATA[Bevy 0.7: data oriented game engine built in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Moreutils。一個很久以前沒有人想到要寫的Unix工具集]]></title>
+            <link>https://news.ycombinator.com/item?id=31043655</link>
+            <guid>https://news.ycombinator.com/item?id=31043655</guid>
+            <pubDate>Fri, 15 Apr 2022 18:16:08 GMT</pubDate>
+            <description><![CDATA[Moreutils: A collection of Unix tools that nobody thought to write long ago]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Windows 10去掉了間諜軟件，增加了穩定性和安全性]]></title>
+            <link>https://news.ycombinator.com/item?id=31043375</link>
+            <guid>https://news.ycombinator.com/item?id=31043375</guid>
+            <pubDate>Fri, 15 Apr 2022 17:54:34 GMT</pubDate>
+            <description><![CDATA[Windows 10 minus the spyware plus added stability and security]]></description>
+        </item>
         <item>
             <title><![CDATA[拯救700條生命的意外實驗]]></title>
             <link>https://news.ycombinator.com/item?id=31021417</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30961071</guid>
             <pubDate>Fri, 08 Apr 2022 18:53:20 GMT</pubDate>
             <description><![CDATA[DHL B752 at San Jose on Apr 7 2022 hydraulic failure results in runway excursion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉工廠的無人機拍攝畫面]]></title>
-            <link>https://news.ycombinator.com/item?id=30961370</link>
-            <guid>https://news.ycombinator.com/item?id=30961370</guid>
-            <pubDate>Fri, 08 Apr 2022 19:19:26 GMT</pubDate>
-            <description><![CDATA[Drone Footage of Tesla Factory]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓時間倒流。試驗中人類皮膚細胞減齡30年]]></title>
-            <link>https://news.ycombinator.com/item?id=30960470</link>
-            <guid>https://news.ycombinator.com/item?id=30960470</guid>
-            <pubDate>Fri, 08 Apr 2022 18:03:35 GMT</pubDate>
-            <description><![CDATA[Turning back the clock: Human skin cells de-aged by 30 years in trial]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dall-e 2個Twitter簡介的插圖]]></title>
-            <link>https://news.ycombinator.com/item?id=30961385</link>
-            <guid>https://news.ycombinator.com/item?id=30961385</guid>
-            <pubDate>Fri, 08 Apr 2022 19:20:58 GMT</pubDate>
-            <description><![CDATA[Dall-e 2 illustrations of Twitter bios]]></description>
         </item>
     </channel>
 </rss>

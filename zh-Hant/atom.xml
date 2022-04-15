@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T18:16:02.096Z</updated>
+    <updated>2022-04-15T18:41:29.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bevy 0.7：用Rust構建的面向數據的遊戲引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=31043668</id>
+        <link href="https://news.ycombinator.com/item?id=31043668"/>
+        <updated>2022-04-15T18:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Bevy 0.7: data oriented game engine built in Rust]]></summary>
+        <author>
+            <name>_cart</name>
+            <uri>https://news.ycombinator.com/user?id=_cart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moreutils。一個很久以前沒有人想到要寫的Unix工具集]]></title>
+        <id>https://news.ycombinator.com/item?id=31043655</id>
+        <link href="https://news.ycombinator.com/item?id=31043655"/>
+        <updated>2022-04-15T18:16:08.000Z</updated>
+        <summary type="html"><![CDATA[Moreutils: A collection of Unix tools that nobody thought to write long ago]]></summary>
+        <author>
+            <name>escot</name>
+            <uri>https://news.ycombinator.com/user?id=escot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10去掉了間諜軟件，增加了穩定性和安全性]]></title>
+        <id>https://news.ycombinator.com/item?id=31043375</id>
+        <link href="https://news.ycombinator.com/item?id=31043375"/>
+        <updated>2022-04-15T17:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10 minus the spyware plus added stability and security]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拯救700條生命的意外實驗]]></title>
         <id>https://news.ycombinator.com/item?id=31021417</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mzs</name>
             <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉工廠的無人機拍攝畫面]]></title>
-        <id>https://news.ycombinator.com/item?id=30961370</id>
-        <link href="https://news.ycombinator.com/item?id=30961370"/>
-        <updated>2022-04-08T19:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Drone Footage of Tesla Factory]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓時間倒流。試驗中人類皮膚細胞減齡30年]]></title>
-        <id>https://news.ycombinator.com/item?id=30960470</id>
-        <link href="https://news.ycombinator.com/item?id=30960470"/>
-        <updated>2022-04-08T18:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Turning back the clock: Human skin cells de-aged by 30 years in trial]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dall-e 2個Twitter簡介的插圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30961385</id>
-        <link href="https://news.ycombinator.com/item?id=30961385"/>
-        <updated>2022-04-08T19:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Dall-e 2 illustrations of Twitter bios]]></summary>
-        <author>
-            <name>manesioz</name>
-            <uri>https://news.ycombinator.com/user?id=manesioz</uri>
         </author>
     </entry>
 </feed>
