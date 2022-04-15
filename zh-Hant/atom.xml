@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T23:13:19.489Z</updated>
+    <updated>2022-04-15T23:33:45.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vectorflow。極簡的神經網絡庫，比TensorFlow更快的D語言]]></title>
+        <id>https://news.ycombinator.com/item?id=31046675</id>
+        <link href="https://news.ycombinator.com/item?id=31046675"/>
+        <updated>2022-04-15T22:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Vectorflow: Minimalist neural network library faster than TensorFlow in D]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前僱員下載820萬用戶的Cash App賬戶信息（SEC 8k表格）]]></title>
         <id>https://news.ycombinator.com/item?id=31046849</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sdht0</name>
             <uri>https://news.ycombinator.com/user?id=sdht0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在用戶離開頁面時可靠地發送HTTP請求]]></title>
-        <id>https://news.ycombinator.com/item?id=30942555</id>
-        <link href="https://news.ycombinator.com/item?id=30942555"/>
-        <updated>2022-04-07T09:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></summary>
-        <author>
-            <name>fagnerbrack</name>
-            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
         </author>
     </entry>
 </feed>
