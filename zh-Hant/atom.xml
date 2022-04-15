@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T12:55:12.963Z</updated>
+    <updated>2022-04-15T13:23:26.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從SQLite遷移到PostgreSQL]]></title>
+        <id>https://news.ycombinator.com/item?id=31038614</id>
+        <link href="https://news.ycombinator.com/item?id=31038614"/>
+        <updated>2022-04-15T10:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Migrating from SQLite to PostgreSQL]]></summary>
+        <author>
+            <name>cloudsql</name>
+            <uri>https://news.ycombinator.com/user?id=cloudsql</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對土地徵稅]]></title>
         <id>https://news.ycombinator.com/item?id=31039451</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Lou-AI</name>
             <uri>https://news.ycombinator.com/user?id=Lou-AI</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe 2021年業務更新 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30957966</id>
-        <link href="https://news.ycombinator.com/item?id=30957966"/>
-        <updated>2022-04-08T15:06:01.000Z</updated>
-        <summary type="html"><![CDATA[Stripe 2021 Business Update [pdf]]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>

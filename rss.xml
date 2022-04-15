@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 12:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 13:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从SQLite迁移到PostgreSQL]]></title>
+            <link>https://news.ycombinator.com/item?id=31038614</link>
+            <guid>https://news.ycombinator.com/item?id=31038614</guid>
+            <pubDate>Fri, 15 Apr 2022 10:42:31 GMT</pubDate>
+            <description><![CDATA[Migrating from SQLite to PostgreSQL]]></description>
+        </item>
         <item>
             <title><![CDATA[对土地征税]]></title>
             <link>https://news.ycombinator.com/item?id=31039451</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30958530</guid>
             <pubDate>Fri, 08 Apr 2022 15:35:00 GMT</pubDate>
             <description><![CDATA[Show HN: Efficient-VDVAE an Open-source memory-efficient deep hierarchical VAE]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stripe 2021年业务更新 [pdf]]]></title>
-            <link>https://news.ycombinator.com/item?id=30957966</link>
-            <guid>https://news.ycombinator.com/item?id=30957966</guid>
-            <pubDate>Fri, 08 Apr 2022 15:06:01 GMT</pubDate>
-            <description><![CDATA[Stripe 2021 Business Update [pdf]]]></description>
         </item>
     </channel>
 </rss>
