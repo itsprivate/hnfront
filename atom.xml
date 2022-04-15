@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T11:12:10.287Z</updated>
+    <updated>2022-04-15T11:30:45.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Shirky.com已经消失了（重要的文章，网络的历史，正在消失。）]]></title>
+        <id>https://news.ycombinator.com/item?id=31038660</id>
+        <link href="https://news.ycombinator.com/item?id=31038660"/>
+        <updated>2022-04-15T10:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Shirky.com is gone (important essays, the history of the Web, is disappearing)]]></summary>
+        <author>
+            <name>lkrubner</name>
+            <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[指针是复杂的III，或。指针--整数投射曝光]]></title>
         <id>https://news.ycombinator.com/item?id=31038364</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>malkosta</name>
             <uri>https://news.ycombinator.com/user?id=malkosta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们唯一应该讨论的是气候危机]]></title>
-        <id>https://news.ycombinator.com/item?id=30957338</id>
-        <link href="https://news.ycombinator.com/item?id=30957338"/>
-        <updated>2022-04-08T14:34:36.000Z</updated>
-        <summary type="html"><![CDATA[The only thing we should be talking about is the climate crisis]]></summary>
-        <author>
-            <name>jader201</name>
-            <uri>https://news.ycombinator.com/user?id=jader201</uri>
         </author>
     </entry>
 </feed>
