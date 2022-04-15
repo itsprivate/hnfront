@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T18:41:29.373Z</updated>
+    <updated>2022-04-15T19:12:39.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在马斯克出价430亿美元收购公司后，Twitter董事会通过了毒丸。]]></title>
+        <id>https://news.ycombinator.com/item?id=31043439</id>
+        <link href="https://news.ycombinator.com/item?id=31043439"/>
+        <updated>2022-04-15T17:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Twitter board adopts poison pill after Musk’s $43B bid to buy company]]></summary>
+        <author>
+            <name>grogu88</name>
+            <uri>https://news.ycombinator.com/user?id=grogu88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojure并不适合我]]></title>
+        <id>https://news.ycombinator.com/item?id=31024333</id>
+        <link href="https://news.ycombinator.com/item?id=31024333"/>
+        <updated>2022-04-14T07:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Clojure Isn’t for Me]]></summary>
+        <author>
+            <name>capableweb</name>
+            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bevy 0.7：用Rust构建的面向数据的游戏引擎]]></title>
         <id>https://news.ycombinator.com/item?id=31043668</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>festinalente</name>
             <uri>https://news.ycombinator.com/user?id=festinalente</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣传的真正目的]]></title>
-        <id>https://news.ycombinator.com/item?id=30962199</id>
-        <link href="https://news.ycombinator.com/item?id=30962199"/>
-        <updated>2022-04-08T20:35:14.000Z</updated>
-        <summary type="html"><![CDATA[The True Purpose of Propaganda]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年4月7日，圣何塞的DHL B752飞机出现液压故障，导致跑道偏移]]></title>
-        <id>https://news.ycombinator.com/item?id=30961071</id>
-        <link href="https://news.ycombinator.com/item?id=30961071"/>
-        <updated>2022-04-08T18:53:20.000Z</updated>
-        <summary type="html"><![CDATA[DHL B752 at San Jose on Apr 7 2022 hydraulic failure results in runway excursion]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
