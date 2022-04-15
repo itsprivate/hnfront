@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T05:43:00.989Z</updated>
+    <updated>2022-04-15T06:14:45.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[古生物学家正试图理解为什么化石记录中大部分是男性]]></title>
+        <id>https://news.ycombinator.com/item?id=31036817</id>
+        <link href="https://news.ycombinator.com/item?id=31036817"/>
+        <updated>2022-04-15T05:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对不起，打错电话了。调试Wine下的崩溃]]></title>
         <id>https://news.ycombinator.com/item?id=31002174</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eimrine</name>
             <uri>https://news.ycombinator.com/user?id=eimrine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你为什么要按新的来排序？]]></title>
-        <id>https://news.ycombinator.com/item?id=30956490</id>
-        <link href="https://news.ycombinator.com/item?id=30956490"/>
-        <updated>2022-04-08T13:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are you sorting by new?]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
