@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T11:30:45.936Z</updated>
+    <updated>2022-04-15T11:51:45.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丹尼斯-德尔克]]></title>
+        <id>https://news.ycombinator.com/item?id=31037868</id>
+        <link href="https://news.ycombinator.com/item?id=31037868"/>
+        <updated>2022-04-15T08:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Denny Delk]]></summary>
+        <author>
+            <name>Michelangelo11</name>
+            <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shirky.com已经消失了（重要的文章，网络的历史，正在消失。）]]></title>
         <id>https://news.ycombinator.com/item?id=31038660</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>endymi0n</name>
             <uri>https://news.ycombinator.com/user?id=endymi0n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[静态网站生成器，86行]]></title>
-        <id>https://news.ycombinator.com/item?id=30957181</id>
-        <link href="https://news.ycombinator.com/item?id=30957181"/>
-        <updated>2022-04-08T14:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Static Site Generator in 86 Lines]]></summary>
-        <author>
-            <name>malkosta</name>
-            <uri>https://news.ycombinator.com/user?id=malkosta</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 11:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[丹尼斯-德爾克]]></title>
+            <link>https://news.ycombinator.com/item?id=31037868</link>
+            <guid>https://news.ycombinator.com/item?id=31037868</guid>
+            <pubDate>Fri, 15 Apr 2022 08:42:19 GMT</pubDate>
+            <description><![CDATA[Denny Delk]]></description>
+        </item>
         <item>
             <title><![CDATA[Shirky.com已經消失了（重要的文章，網絡的歷史，正在消失。）]]></title>
             <link>https://news.ycombinator.com/item?id=31038660</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30957917</guid>
             <pubDate>Fri, 08 Apr 2022 15:03:54 GMT</pubDate>
             <description><![CDATA[Return to Monkey Island, Coming 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[靜態網站生成器，86行]]></title>
-            <link>https://news.ycombinator.com/item?id=30957181</link>
-            <guid>https://news.ycombinator.com/item?id=30957181</guid>
-            <pubDate>Fri, 08 Apr 2022 14:25:58 GMT</pubDate>
-            <description><![CDATA[Static Site Generator in 86 Lines]]></description>
         </item>
     </channel>
 </rss>
