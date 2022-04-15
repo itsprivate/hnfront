@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T10:52:47.224Z</updated>
+    <updated>2022-04-15T11:12:10.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[指针是复杂的III，或。指针--整数投射曝光]]></title>
+        <id>https://news.ycombinator.com/item?id=31038364</id>
+        <link href="https://news.ycombinator.com/item?id=31038364"/>
+        <updated>2022-04-15T10:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Pointers Are Complicated III, or: Pointer-integer casts exposed]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solaris 11.4免费用于非生产性个人使用]]></title>
         <id>https://news.ycombinator.com/item?id=31012025</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jader201</name>
             <uri>https://news.ycombinator.com/user?id=jader201</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken关闭了全球总部，因为 "旧金山不安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30957313</id>
-        <link href="https://news.ycombinator.com/item?id=30957313"/>
-        <updated>2022-04-08T14:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Kraken shuts down global headquarters because ‘San Francisco is not safe’]]></summary>
-        <author>
-            <name>tlogan</name>
-            <uri>https://news.ycombinator.com/user?id=tlogan</uri>
         </author>
     </entry>
 </feed>
