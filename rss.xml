@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 20:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 20:44:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[JVM中的Golang]]></title>
+            <link>https://news.ycombinator.com/item?id=31045317</link>
+            <guid>https://news.ycombinator.com/item?id=31045317</guid>
+            <pubDate>Fri, 15 Apr 2022 20:20:24 GMT</pubDate>
+            <description><![CDATA[Golang in the JVM]]></description>
+        </item>
         <item>
             <title><![CDATA[病因不明的急性肝炎 - 英国]]></title>
             <link>https://news.ycombinator.com/item?id=31044907</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30963723</guid>
             <pubDate>Fri, 08 Apr 2022 23:26:19 GMT</pubDate>
             <description><![CDATA[Mozilla Thunderbird Beta now supports Matrix chat]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RIP Bill Jolitz (1957 - 2022), 386BSD的共同作者]]></title>
-            <link>https://news.ycombinator.com/item?id=30963686</link>
-            <guid>https://news.ycombinator.com/item?id=30963686</guid>
-            <pubDate>Fri, 08 Apr 2022 23:20:34 GMT</pubDate>
-            <description><![CDATA[RIP Bill Jolitz (1957 – 2022), co-author of 386BSD]]></description>
         </item>
     </channel>
 </rss>
