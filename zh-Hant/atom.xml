@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T09:33:33.624Z</updated>
+    <updated>2022-04-15T09:43:26.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[純C語言的異步HTTP框架]]></title>
+        <id>https://news.ycombinator.com/item?id=31036758</id>
+        <link href="https://news.ycombinator.com/item?id=31036758"/>
+        <updated>2022-04-15T05:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pure C Asynchronous HTTP Framework]]></summary>
+        <author>
+            <name>adamansky</name>
+            <uri>https://news.ycombinator.com/user?id=adamansky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鄧寧-克魯格效應就是自相矛盾]]></title>
         <id>https://news.ycombinator.com/item?id=31036800</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwawaybutwhy</name>
             <uri>https://news.ycombinator.com/user?id=throwawaybutwhy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Remotion是一個原生的macOS應用（不是Electron）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30956846</id>
-        <link href="https://news.ycombinator.com/item?id=30956846"/>
-        <updated>2022-04-08T14:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Why Remotion is a native macOS app (not Electron)]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>
