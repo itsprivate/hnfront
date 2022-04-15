@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T08:54:57.137Z</updated>
+    <updated>2022-04-15T09:13:23.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我希望分佈式不是新的默認值]]></title>
+        <id>https://news.ycombinator.com/item?id=31037737</id>
+        <link href="https://news.ycombinator.com/item?id=31037737"/>
+        <updated>2022-04-15T08:19:11.000Z</updated>
+        <summary type="html"><![CDATA[I hope distributed is not the new default]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[永恆即將來臨。阿蘭-巴迪歐的《詩人的時代》（The Age of the Poets）。]]></title>
         <id>https://news.ycombinator.com/item?id=31023459</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shubhamjain</name>
             <uri>https://news.ycombinator.com/user?id=shubhamjain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2012年4月9日，HN評論。將此評論加入書籤。2022年見]]></title>
-        <id>https://news.ycombinator.com/item?id=30956875</id>
-        <link href="https://news.ycombinator.com/item?id=30956875"/>
-        <updated>2022-04-08T14:03:54.000Z</updated>
-        <summary type="html"><![CDATA[HN comment April 9, 2012: Bookmark this comment. See you in 2022]]></summary>
-        <author>
-            <name>nabla9</name>
-            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
         </author>
     </entry>
 </feed>
