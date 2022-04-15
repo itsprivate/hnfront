@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 09:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 09:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Chamelon。用於MirageOS的MVP持久性塊存儲]]></title>
+            <link>https://news.ycombinator.com/item?id=31020350</link>
+            <guid>https://news.ycombinator.com/item?id=31020350</guid>
+            <pubDate>Wed, 13 Apr 2022 21:12:23 GMT</pubDate>
+            <description><![CDATA[Chamelon: MVP persistent block storage for MirageOS]]></description>
+        </item>
         <item>
             <title><![CDATA[純C語言的異步HTTP框架]]></title>
             <link>https://news.ycombinator.com/item?id=31036758</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30957273</guid>
             <pubDate>Fri, 08 Apr 2022 14:31:26 GMT</pubDate>
             <description><![CDATA[Old C code – how to upgrade it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[變壓器的推理算術]]></title>
-            <link>https://news.ycombinator.com/item?id=30957012</link>
-            <guid>https://news.ycombinator.com/item?id=30957012</guid>
-            <pubDate>Fri, 08 Apr 2022 14:15:07 GMT</pubDate>
-            <description><![CDATA[Transformer Inference Arithmetic]]></description>
         </item>
     </channel>
 </rss>
