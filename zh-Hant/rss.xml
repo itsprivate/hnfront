@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 21:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 22:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[單身母親因就業率問題起訴編碼訓練營]]></title>
+            <link>https://news.ycombinator.com/item?id=31046184</link>
+            <guid>https://news.ycombinator.com/item?id=31046184</guid>
+            <pubDate>Fri, 15 Apr 2022 21:36:55 GMT</pubDate>
+            <description><![CDATA[Single mom sues coding boot camp over job placement rates]]></description>
+        </item>
         <item>
             <title><![CDATA[一個作為PWA運行的小型Hypercard堆棧]]></title>
             <link>https://news.ycombinator.com/item?id=31041205</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30942489</guid>
             <pubDate>Thu, 07 Apr 2022 09:44:37 GMT</pubDate>
             <description><![CDATA[Nsh, a unified router style CLI for OpenBSD]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用WebGL渲染的古代波斯的波斯波利斯]]></title>
-            <link>https://news.ycombinator.com/item?id=30965352</link>
-            <guid>https://news.ycombinator.com/item?id=30965352</guid>
-            <pubDate>Sat, 09 Apr 2022 04:52:09 GMT</pubDate>
-            <description><![CDATA[Persepolis of ancient Persia rendered in WebGL]]></description>
         </item>
     </channel>
 </rss>
