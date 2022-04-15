@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-15T22:12:06.207Z</updated>
+    <updated>2022-04-15T22:51:33.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一些Salesforce私人GitHub仓库被盗]]></title>
+        <id>https://news.ycombinator.com/item?id=31046791</id>
+        <link href="https://news.ycombinator.com/item?id=31046791"/>
+        <updated>2022-04-15T22:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Some Salesforce private GitHub repos stolen]]></summary>
+        <author>
+            <name>heyoni</name>
+            <uri>https://news.ycombinator.com/user?id=heyoni</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单身母亲因就业率问题起诉编码训练营]]></title>
         <id>https://news.ycombinator.com/item?id=31046184</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bittercynic</name>
             <uri>https://news.ycombinator.com/user?id=bittercynic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nsh, OpenBSD的一个统一的路由器风格的CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=30942489</id>
-        <link href="https://news.ycombinator.com/item?id=30942489"/>
-        <updated>2022-04-07T09:44:37.000Z</updated>
-        <summary type="html"><![CDATA[Nsh, a unified router style CLI for OpenBSD]]></summary>
-        <author>
-            <name>somat</name>
-            <uri>https://news.ycombinator.com/user?id=somat</uri>
         </author>
     </entry>
 </feed>
