@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T10:15:46.808Z</updated>
+    <updated>2022-04-16T11:11:40.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歷史的點滴，建議的話語 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=31045174</id>
+        <link href="https://news.ycombinator.com/item?id=31045174"/>
+        <updated>2022-04-15T20:09:06.000Z</updated>
+        <summary type="html"><![CDATA[Bits of History, Words of Advice (2020)]]></summary>
+        <author>
+            <name>bokchoi</name>
+            <uri>https://news.ycombinator.com/user?id=bokchoi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我避免異步/等待]]></title>
         <id>https://news.ycombinator.com/item?id=31050650</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bluejay2</name>
             <uri>https://news.ycombinator.com/user?id=bluejay2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子表格大熱--產生複雜的代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30955940</id>
-        <link href="https://news.ycombinator.com/item?id=30955940"/>
-        <updated>2022-04-08T12:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets Are Hot–and Cranking Out Complex Code]]></summary>
-        <author>
-            <name>LukeEF</name>
-            <uri>https://news.ycombinator.com/user?id=LukeEF</uri>
         </author>
     </entry>
 </feed>
