@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T05:30:07.048Z</updated>
+    <updated>2022-04-16T06:38:51.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[東芝T1200筆記本電腦的替代電源]]></title>
+        <id>https://news.ycombinator.com/item?id=31025865</id>
+        <link href="https://news.ycombinator.com/item?id=31025865"/>
+        <updated>2022-04-14T12:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Replacement power supply for the Toshiba T1200 laptop computer]]></summary>
+        <author>
+            <name>elvis70</name>
+            <uri>https://news.ycombinator.com/user?id=elvis70</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[懷舊的鐘擺。流行文化趨勢的30年滾動週期]]></title>
         <id>https://news.ycombinator.com/item?id=31037095</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Metacelsus</name>
             <uri>https://news.ycombinator.com/user?id=Metacelsus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[順序運算符]]></title>
-        <id>https://news.ycombinator.com/item?id=30942540</id>
-        <link href="https://news.ycombinator.com/item?id=30942540"/>
-        <updated>2022-04-07T09:52:49.000Z</updated>
-        <summary type="html"><![CDATA[The Ordering Operators]]></summary>
-        <author>
-            <name>Amorymeltzer</name>
-            <uri>https://news.ycombinator.com/user?id=Amorymeltzer</uri>
         </author>
     </entry>
 </feed>
