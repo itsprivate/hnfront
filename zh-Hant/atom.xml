@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T20:42:57.229Z</updated>
+    <updated>2022-04-16T20:51:21.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所有粒子和力量的新地圖 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=31055798</id>
+        <link href="https://news.ycombinator.com/item?id=31055798"/>
+        <updated>2022-04-16T20:26:36.000Z</updated>
+        <summary type="html"><![CDATA[A New Map of All the Particles and Forces (2020)]]></summary>
+        <author>
+            <name>frutiger</name>
+            <uri>https://news.ycombinator.com/user?id=frutiger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蝙蝠俠效應"：擁有另一個自我是如何賦予你力量的]]></title>
         <id>https://news.ycombinator.com/item?id=31055709</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jamespwilliams</name>
             <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmux.nvim - 將Neovim變成一個終端複用器]]></title>
-        <id>https://news.ycombinator.com/item?id=30971946</id>
-        <link href="https://news.ycombinator.com/item?id=30971946"/>
-        <updated>2022-04-09T20:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: tmux.nvim – turning Neovim into a terminal multiplexer]]></summary>
-        <author>
-            <name>spywhere</name>
-            <uri>https://news.ycombinator.com/user?id=spywhere</uri>
         </author>
     </entry>
 </feed>
