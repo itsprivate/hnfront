@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 22:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 23:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[锈迹斑斑的网络了吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=31056433</link>
+            <guid>https://news.ycombinator.com/item?id=31056433</guid>
+            <pubDate>Sat, 16 Apr 2022 21:54:17 GMT</pubDate>
+            <description><![CDATA[Is Rust Web Yet?]]></description>
+        </item>
         <item>
             <title><![CDATA[我的朋友正在制作一个工具，供DnD玩家快速可视化场景。]]></title>
             <link>https://news.ycombinator.com/item?id=31025055</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30955002</guid>
             <pubDate>Fri, 08 Apr 2022 09:29:16 GMT</pubDate>
             <description><![CDATA[Show HN: Turn any data into a fast analytical API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[当你说话时，你的狗的大脑中会发生什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30954991</link>
-            <guid>https://news.ycombinator.com/item?id=30954991</guid>
-            <pubDate>Fri, 08 Apr 2022 09:27:43 GMT</pubDate>
-            <description><![CDATA[What happens in your dog’s brain when you speak]]></description>
         </item>
     </channel>
 </rss>
