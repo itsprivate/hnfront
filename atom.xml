@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T21:30:49.758Z</updated>
+    <updated>2022-04-16T21:38:38.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SUSE Linux Enterprise向公众开放其开发模式]]></title>
+        <id>https://news.ycombinator.com/item?id=31038084</id>
+        <link href="https://news.ycombinator.com/item?id=31038084"/>
+        <updated>2022-04-15T09:20:28.000Z</updated>
+        <summary type="html"><![CDATA[SUSE Linux Enterprise Opens Its Development Model to the Public]]></summary>
+        <author>
+            <name>em-bee</name>
+            <uri>https://news.ycombinator.com/user?id=em-bee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英文维基百科中缺少的著名项目]]></title>
         <id>https://news.ycombinator.com/item?id=31055743</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mitchbob</name>
             <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过33%法则的坚韧和生活教训]]></title>
-        <id>https://news.ycombinator.com/item?id=30965446</id>
-        <link href="https://news.ycombinator.com/item?id=30965446"/>
-        <updated>2022-04-09T05:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Tenacity and Life Lessons through the 33% rule]]></summary>
-        <author>
-            <name>Kagerjay</name>
-            <uri>https://news.ycombinator.com/user?id=Kagerjay</uri>
         </author>
     </entry>
 </feed>
