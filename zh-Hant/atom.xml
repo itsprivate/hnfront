@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T00:43:23.202Z</updated>
+    <updated>2022-04-16T02:20:46.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特爾在酷睿系列處理器上棄用SGX]]></title>
+        <id>https://news.ycombinator.com/item?id=31047888</id>
+        <link href="https://news.ycombinator.com/item?id=31047888"/>
+        <updated>2022-04-16T00:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Intel deprecates SGX on Core series processors]]></summary>
+        <author>
+            <name>thinkmassive</name>
+            <uri>https://news.ycombinator.com/user?id=thinkmassive</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XHTTP：一個單一的C文件中的HTTP服務器庫]]></title>
+        <id>https://news.ycombinator.com/item?id=31047082</id>
+        <link href="https://news.ycombinator.com/item?id=31047082"/>
+        <updated>2022-04-15T23:11:48.000Z</updated>
+        <summary type="html"><![CDATA[XHTTP: An HTTP server library in a single C file]]></summary>
+        <author>
+            <name>cozis</name>
+            <uri>https://news.ycombinator.com/user?id=cozis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[單線圖]]></title>
+        <id>https://news.ycombinator.com/item?id=31040588</id>
+        <link href="https://news.ycombinator.com/item?id=31040588"/>
+        <updated>2022-04-15T14:22:41.000Z</updated>
+        <summary type="html"><![CDATA[One-line drawings]]></summary>
+        <author>
+            <name>qrv3w</name>
+            <uri>https://news.ycombinator.com/user?id=qrv3w</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bibi-binary]]></title>
+        <id>https://news.ycombinator.com/item?id=31038658</id>
+        <link href="https://news.ycombinator.com/item?id=31038658"/>
+        <updated>2022-04-15T10:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Bibi-binary]]></summary>
+        <author>
+            <name>makapuf</name>
+            <uri>https://news.ycombinator.com/user?id=makapuf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度學習有望 "炸燬 "著名的流體方程式]]></title>
+        <id>https://news.ycombinator.com/item?id=31012422</id>
+        <link href="https://news.ycombinator.com/item?id=31012422"/>
+        <updated>2022-04-13T08:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Deep Learning Poised to ‘Blow Up’ Famed Fluid Equations]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怎樣才能真正地僱用到優秀的開發人員]]></title>
         <id>https://news.ycombinator.com/item?id=31047409</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>user_named</name>
             <uri>https://news.ycombinator.com/user?id=user_named</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗蘭克-奧茲說芝麻街已經走下坡路了。他說得對嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30966323</id>
-        <link href="https://news.ycombinator.com/item?id=30966323"/>
-        <updated>2022-04-09T08:51:56.000Z</updated>
-        <summary type="html"><![CDATA[Frank Oz Says Sesame Street Has Gone Downhill. Is He Right?]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配置和自動化高可用性Postgres]]></title>
-        <id>https://news.ycombinator.com/item?id=30953394</id>
-        <link href="https://news.ycombinator.com/item?id=30953394"/>
-        <updated>2022-04-08T04:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Provisioning and Automating High Availability Postgres]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glicol - 以圖為導向的實時編碼語言/DSP庫，用Rust編寫]]></title>
-        <id>https://news.ycombinator.com/item?id=30942074</id>
-        <link href="https://news.ycombinator.com/item?id=30942074"/>
-        <updated>2022-04-07T08:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Glicol - A Graph-Oriented Live Coding Language/DSP Lib Written in Rust]]></summary>
-        <author>
-            <name>chaosprint</name>
-            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Windows資源管理器的3D模型文件縮略圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30966099</id>
-        <link href="https://news.ycombinator.com/item?id=30966099"/>
-        <updated>2022-04-09T08:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 3D model file thumbnails for Windows Explorer]]></summary>
-        <author>
-            <name>eyhn</name>
-            <uri>https://news.ycombinator.com/user?id=eyhn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多重計算。理論科學的第四範式]]></title>
-        <id>https://news.ycombinator.com/item?id=30965828</id>
-        <link href="https://news.ycombinator.com/item?id=30965828"/>
-        <updated>2022-04-09T07:07:52.000Z</updated>
-        <summary type="html"><![CDATA[Multicomputation: A Fourth Paradigm for Theoretical Science]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
         </author>
     </entry>
 </feed>
