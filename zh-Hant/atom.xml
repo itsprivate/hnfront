@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T15:34:35.545Z</updated>
+    <updated>2022-04-16T15:54:38.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究人員發現人類肺部的新細胞類型具有再生特性]]></title>
+        <id>https://news.ycombinator.com/item?id=31053044</id>
+        <link href="https://news.ycombinator.com/item?id=31053044"/>
+        <updated>2022-04-16T15:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Researchers Discover New Cell Type in Human Lung with Regenerative Properties]]></summary>
+        <author>
+            <name>NickRandom</name>
+            <uri>https://news.ycombinator.com/user?id=NickRandom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[製作科學海報比使用PowerPoint更容易]]></title>
         <id>https://news.ycombinator.com/item?id=31039321</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ali92hm</name>
             <uri>https://news.ycombinator.com/user?id=ali92hm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快遞員(YC S19)正在招聘，使軟件與人的溝通變得愉快]]></title>
-        <id>https://news.ycombinator.com/item?id=30969714</id>
-        <link href="https://news.ycombinator.com/item?id=30969714"/>
-        <updated>2022-04-09T17:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Courier (YC S19) Is Hiring to Make Software-to-Human Communication Delightful]]></summary>
-        <author>
-            <name>troygoode</name>
-            <uri>https://news.ycombinator.com/user?id=troygoode</uri>
         </author>
     </entry>
 </feed>
