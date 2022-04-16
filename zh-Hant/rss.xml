@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 03:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 03:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[評估Ruby中的Ruby (2020)]]></title>
+            <link>https://news.ycombinator.com/item?id=31025141</link>
+            <guid>https://news.ycombinator.com/item?id=31025141</guid>
+            <pubDate>Thu, 14 Apr 2022 10:40:31 GMT</pubDate>
+            <description><![CDATA[Evaluating Ruby in Ruby (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[Heroku安全事件]]></title>
             <link>https://news.ycombinator.com/item?id=31048646</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30951215</guid>
             <pubDate>Thu, 07 Apr 2022 22:43:52 GMT</pubDate>
             <description><![CDATA[Pwning the Bcm61650]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼沒有像macOS那樣 "只管用 "的Linux發行版？]]></title>
-            <link>https://news.ycombinator.com/item?id=30966582</link>
-            <guid>https://news.ycombinator.com/item?id=30966582</guid>
-            <pubDate>Sat, 09 Apr 2022 09:52:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why is there no Linux distro that “just works” like macOS?]]></description>
         </item>
     </channel>
 </rss>

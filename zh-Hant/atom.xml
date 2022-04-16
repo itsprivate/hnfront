@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T03:06:48.834Z</updated>
+    <updated>2022-04-16T03:43:01.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[評估Ruby中的Ruby (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=31025141</id>
+        <link href="https://news.ycombinator.com/item?id=31025141"/>
+        <updated>2022-04-14T10:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Evaluating Ruby in Ruby (2020)]]></summary>
+        <author>
+            <name>cribbles</name>
+            <uri>https://news.ycombinator.com/user?id=cribbles</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heroku安全事件]]></title>
         <id>https://news.ycombinator.com/item?id=31048646</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kogir</name>
             <uri>https://news.ycombinator.com/user?id=kogir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有像macOS那樣 "只管用 "的Linux發行版？]]></title>
-        <id>https://news.ycombinator.com/item?id=30966582</id>
-        <link href="https://news.ycombinator.com/item?id=30966582"/>
-        <updated>2022-04-09T09:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why is there no Linux distro that “just works” like macOS?]]></summary>
-        <author>
-            <name>surrTurr</name>
-            <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
         </author>
     </entry>
 </feed>
