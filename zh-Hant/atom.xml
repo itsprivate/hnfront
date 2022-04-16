@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T19:10:49.445Z</updated>
+    <updated>2022-04-16T19:26:49.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的網站，託管在386 25 MHz，4 MiB的內存，38400波特的互聯網上。]]></title>
+        <id>https://news.ycombinator.com/item?id=31055132</id>
+        <link href="https://news.ycombinator.com/item?id=31055132"/>
+        <updated>2022-04-16T19:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet]]></summary>
+        <author>
+            <name>serentty</name>
+            <uri>https://news.ycombinator.com/user?id=serentty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將SBCL Common Lisp作為動態庫使用]]></title>
         <id>https://news.ycombinator.com/item?id=31054796</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cglong</name>
             <uri>https://news.ycombinator.com/user?id=cglong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quaise Energy - 釋放清潔地熱能源的真正力量]]></title>
-        <id>https://news.ycombinator.com/item?id=30972073</id>
-        <link href="https://news.ycombinator.com/item?id=30972073"/>
-        <updated>2022-04-09T21:08:37.000Z</updated>
-        <summary type="html"><![CDATA[Quaise Energy – Unlocking the true power of clean geothermal energy]]></summary>
-        <author>
-            <name>xojoc</name>
-            <uri>https://news.ycombinator.com/user?id=xojoc</uri>
         </author>
     </entry>
 </feed>
