@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T08:37:43.074Z</updated>
+    <updated>2022-04-16T09:32:24.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[連續循環器]]></title>
+        <id>https://news.ycombinator.com/item?id=31039176</id>
+        <link href="https://news.ycombinator.com/item?id=31039176"/>
+        <updated>2022-04-15T11:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Continuous Looper]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用正則表達式解析HTML來召喚克蘇魯人(2021)]]></title>
         <id>https://news.ycombinator.com/item?id=31012999</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古色古香與親密無間]]></title>
-        <id>https://news.ycombinator.com/item?id=30967427</id>
-        <link href="https://news.ycombinator.com/item?id=30967427"/>
-        <updated>2022-04-09T12:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Patina and Intimacy]]></summary>
-        <author>
-            <name>simonsarris</name>
-            <uri>https://news.ycombinator.com/user?id=simonsarris</uri>
         </author>
     </entry>
 </feed>
