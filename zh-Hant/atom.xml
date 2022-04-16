@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T03:43:01.540Z</updated>
+    <updated>2022-04-16T04:15:26.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在電子郵件上簽字。21世紀的書信禮節]]></title>
+        <id>https://news.ycombinator.com/item?id=31025547</id>
+        <link href="https://news.ycombinator.com/item?id=31025547"/>
+        <updated>2022-04-14T11:40:41.000Z</updated>
+        <summary type="html"><![CDATA[How to sign off an email. Epistolary etiquette for the 21st century]]></summary>
+        <author>
+            <name>helsinkiandrew</name>
+            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[評估Ruby中的Ruby (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=31025141</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[攻克Bcm61650]]></title>
-        <id>https://news.ycombinator.com/item?id=30951215</id>
-        <link href="https://news.ycombinator.com/item?id=30951215"/>
-        <updated>2022-04-07T22:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Pwning the Bcm61650]]></summary>
-        <author>
-            <name>kogir</name>
-            <uri>https://news.ycombinator.com/user?id=kogir</uri>
         </author>
     </entry>
 </feed>
