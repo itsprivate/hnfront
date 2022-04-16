@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T14:30:34.443Z</updated>
+    <updated>2022-04-16T14:51:28.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特應該開放算法]]></title>
+        <id>https://news.ycombinator.com/item?id=31051925</id>
+        <link href="https://news.ycombinator.com/item?id=31051925"/>
+        <updated>2022-04-16T12:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Twitter Should Open Up the Algorithm]]></summary>
+        <author>
+            <name>dshipper</name>
+            <uri>https://news.ycombinator.com/user?id=dshipper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鳥兒不是真的》對陰謀論者進行了抨擊]]></title>
         <id>https://news.ycombinator.com/item?id=31052086</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ozfive</name>
             <uri>https://news.ycombinator.com/user?id=ozfive</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼美國人在談到家人時要用他們的名字，好像我們認識他們一樣？]]></title>
-        <id>https://news.ycombinator.com/item?id=30969575</id>
-        <link href="https://news.ycombinator.com/item?id=30969575"/>
-        <updated>2022-04-09T16:45:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do Americans speak about family by their names, like we know them?]]></summary>
-        <author>
-            <name>enw</name>
-            <uri>https://news.ycombinator.com/user?id=enw</uri>
         </author>
     </entry>
 </feed>
