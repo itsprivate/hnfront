@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T18:39:02.044Z</updated>
+    <updated>2022-04-16T19:10:49.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将SBCL Common Lisp作为动态库使用]]></title>
+        <id>https://news.ycombinator.com/item?id=31054796</id>
+        <link href="https://news.ycombinator.com/item?id=31054796"/>
+        <updated>2022-04-16T18:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Using SBCL Common Lisp as a Dynamic Library]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一名初级开发人员，我应该在薪酬谈判中提出什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31038133</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>xojoc</name>
             <uri>https://news.ycombinator.com/user?id=xojoc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否在大洗牌期间换了工作而后悔？]]></title>
-        <id>https://news.ycombinator.com/item?id=30971950</id>
-        <link href="https://news.ycombinator.com/item?id=30971950"/>
-        <updated>2022-04-09T20:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Did you change jobs during the Great Reshuffling and regret it?]]></summary>
-        <author>
-            <name>buttocks</name>
-            <uri>https://news.ycombinator.com/user?id=buttocks</uri>
         </author>
     </entry>
 </feed>
