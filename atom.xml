@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T15:12:48.011Z</updated>
+    <updated>2022-04-16T15:34:35.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[制作科学海报比使用PowerPoint更容易]]></title>
+        <id>https://news.ycombinator.com/item?id=31039321</id>
+        <link href="https://news.ycombinator.com/item?id=31039321"/>
+        <updated>2022-04-15T12:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Make Scientific Posters Easier Than Using PowerPoint]]></summary>
+        <author>
+            <name>flybrand</name>
+            <uri>https://news.ycombinator.com/user?id=flybrand</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多么残酷的生意"：流行歌星在聚光灯下的生活]]></title>
         <id>https://news.ycombinator.com/item?id=31051827</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>troygoode</name>
             <uri>https://news.ycombinator.com/user?id=troygoode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌称AI生成的内容违反准则]]></title>
-        <id>https://news.ycombinator.com/item?id=30969620</id>
-        <link href="https://news.ycombinator.com/item?id=30969620"/>
-        <updated>2022-04-09T16:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Google Says AI Generated Content Is Against Guidelines]]></summary>
-        <author>
-            <name>rolph</name>
-            <uri>https://news.ycombinator.com/user?id=rolph</uri>
         </author>
     </entry>
 </feed>
