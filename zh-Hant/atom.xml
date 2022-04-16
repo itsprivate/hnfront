@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T17:42:18.322Z</updated>
+    <updated>2022-04-16T17:51:27.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[核武器的破壞力並不像你想象的那樣大]]></title>
+        <id>https://news.ycombinator.com/item?id=31054163</id>
+        <link href="https://news.ycombinator.com/item?id=31054163"/>
+        <updated>2022-04-16T17:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Nuclear weapons are not as destructive as you think]]></summary>
+        <author>
+            <name>mikestew</name>
+            <uri>https://news.ycombinator.com/user?id=mikestew</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美俄核戰爭研究報告：最初幾小時內有91.5MM人傷亡（2019年）]]></title>
         <id>https://news.ycombinator.com/item?id=31054050</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DyslexicAtheist</name>
             <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特恢復了留下空白代替刪除的嵌入式推文的變化]]></title>
-        <id>https://news.ycombinator.com/item?id=30971675</id>
-        <link href="https://news.ycombinator.com/item?id=30971675"/>
-        <updated>2022-04-09T20:23:31.000Z</updated>
-        <summary type="html"><![CDATA[Twitter reverts change that left blank spaces in lieu of deleted embedded tweets]]></summary>
-        <author>
-            <name>crackercrews</name>
-            <uri>https://news.ycombinator.com/user?id=crackercrews</uri>
         </author>
     </entry>
 </feed>

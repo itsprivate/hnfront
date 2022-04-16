@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 17:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 17:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[核武器的破壞力並不像你想象的那樣大]]></title>
+            <link>https://news.ycombinator.com/item?id=31054163</link>
+            <guid>https://news.ycombinator.com/item?id=31054163</guid>
+            <pubDate>Sat, 16 Apr 2022 17:24:02 GMT</pubDate>
+            <description><![CDATA[Nuclear weapons are not as destructive as you think]]></description>
+        </item>
         <item>
             <title><![CDATA[美俄核戰爭研究報告：最初幾小時內有91.5MM人傷亡（2019年）]]></title>
             <link>https://news.ycombinator.com/item?id=31054050</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30971052</guid>
             <pubDate>Sat, 09 Apr 2022 19:14:16 GMT</pubDate>
             <description><![CDATA[OpenSSH now uses hybrid post-quantum streamlined NTRU Prime X25519 by default]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特恢復了留下空白代替刪除的嵌入式推文的變化]]></title>
-            <link>https://news.ycombinator.com/item?id=30971675</link>
-            <guid>https://news.ycombinator.com/item?id=30971675</guid>
-            <pubDate>Sat, 09 Apr 2022 20:23:31 GMT</pubDate>
-            <description><![CDATA[Twitter reverts change that left blank spaces in lieu of deleted embedded tweets]]></description>
         </item>
     </channel>
 </rss>
