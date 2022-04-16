@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T23:12:00.825Z</updated>
+    <updated>2022-04-16T23:41:56.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大腦隨著時間的推移而膨脹和縮小]]></title>
+        <id>https://news.ycombinator.com/item?id=31048591</id>
+        <link href="https://news.ycombinator.com/item?id=31048591"/>
+        <updated>2022-04-16T02:14:35.000Z</updated>
+        <summary type="html"><![CDATA[The brain expands and shrinks over time]]></summary>
+        <author>
+            <name>makaimc</name>
+            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鏽跡斑斑的網絡了嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31056433</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zebulon75018</name>
             <uri>https://news.ycombinator.com/user?id=zebulon75018</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將任何數據變成快速分析的API]]></title>
-        <id>https://news.ycombinator.com/item?id=30955002</id>
-        <link href="https://news.ycombinator.com/item?id=30955002"/>
-        <updated>2022-04-08T09:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Turn any data into a fast analytical API]]></summary>
-        <author>
-            <name>caoxhua</name>
-            <uri>https://news.ycombinator.com/user?id=caoxhua</uri>
         </author>
     </entry>
 </feed>
