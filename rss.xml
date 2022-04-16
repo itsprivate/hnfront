@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 16:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 16:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[研究人员从简单的人工智能中获得新的理解]]></title>
+            <link>https://news.ycombinator.com/item?id=31053019</link>
+            <guid>https://news.ycombinator.com/item?id=31053019</guid>
+            <pubDate>Sat, 16 Apr 2022 15:22:43 GMT</pubDate>
+            <description><![CDATA[Researchers Gain New Understanding from Simple AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对kernel.org的透明度日志进行为期一年的监测]]></title>
+            <link>https://news.ycombinator.com/item?id=31053003</link>
+            <guid>https://news.ycombinator.com/item?id=31053003</guid>
+            <pubDate>Sat, 16 Apr 2022 15:20:25 GMT</pubDate>
+            <description><![CDATA[Monitoring the kernel.org Transparency Log for a year]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的手中有什么？手中的通用物体的三维重建]]></title>
+            <link>https://news.ycombinator.com/item?id=31036900</link>
+            <guid>https://news.ycombinator.com/item?id=31036900</guid>
+            <pubDate>Fri, 15 Apr 2022 05:39:27 GMT</pubDate>
+            <description><![CDATA[What's in your hands? 3D Reconstruction of Generic Objects in Hands]]></description>
+        </item>
         <item>
             <title><![CDATA[Golang FFmpeg包装器用于简单的视频I/O和网络摄像头流。]]></title>
             <link>https://news.ycombinator.com/item?id=31053274</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30970777</guid>
             <pubDate>Sat, 09 Apr 2022 18:43:30 GMT</pubDate>
             <description><![CDATA[Parking kills businesses, not bikes or buses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[逆向工程：LM185电压基准芯片及其带隙基准]]></title>
-            <link>https://news.ycombinator.com/item?id=30970599</link>
-            <guid>https://news.ycombinator.com/item?id=30970599</guid>
-            <pubDate>Sat, 09 Apr 2022 18:24:35 GMT</pubDate>
-            <description><![CDATA[Reverse-engineering the LM185 voltage reference chip and its bandgap reference]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何控制编程的元认知过程？]]></title>
-            <link>https://news.ycombinator.com/item?id=30955203</link>
-            <guid>https://news.ycombinator.com/item?id=30955203</guid>
-            <pubDate>Fri, 08 Apr 2022 10:02:52 GMT</pubDate>
-            <description><![CDATA[How to control the metacognition process of programming?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Raspberry Pi Pico。这个被混淆的代码(?)在其启动ROM中做什么(l.442)]]></title>
-            <link>https://news.ycombinator.com/item?id=30970274</link>
-            <guid>https://news.ycombinator.com/item?id=30970274</guid>
-            <pubDate>Sat, 09 Apr 2022 17:53:18 GMT</pubDate>
-            <description><![CDATA[Raspberry Pi Pico: What is this obfuscated code(?) doing in its boot ROM (l.442)]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T16:15:15.224Z</updated>
+    <updated>2022-04-16T16:47:23.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究人員從簡單的人工智能中獲得新的理解]]></title>
+        <id>https://news.ycombinator.com/item?id=31053019</id>
+        <link href="https://news.ycombinator.com/item?id=31053019"/>
+        <updated>2022-04-16T15:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Researchers Gain New Understanding from Simple AI]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對kernel.org的透明度日誌進行為期一年的監測]]></title>
+        <id>https://news.ycombinator.com/item?id=31053003</id>
+        <link href="https://news.ycombinator.com/item?id=31053003"/>
+        <updated>2022-04-16T15:20:25.000Z</updated>
+        <summary type="html"><![CDATA[Monitoring the kernel.org Transparency Log for a year]]></summary>
+        <author>
+            <name>mdb31</name>
+            <uri>https://news.ycombinator.com/user?id=mdb31</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的手中有什麼？手中的通用物體的三維重建]]></title>
+        <id>https://news.ycombinator.com/item?id=31036900</id>
+        <link href="https://news.ycombinator.com/item?id=31036900"/>
+        <updated>2022-04-15T05:39:27.000Z</updated>
+        <summary type="html"><![CDATA[What's in your hands? 3D Reconstruction of Generic Objects in Hands]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Golang FFmpeg包裝器用於簡單的視頻I/O和網絡攝像頭流。]]></title>
         <id>https://news.ycombinator.com/item?id=31053274</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>kitkat_new</name>
             <uri>https://news.ycombinator.com/user?id=kitkat_new</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逆向工程：LM185電壓基準芯片及其帶隙基準]]></title>
-        <id>https://news.ycombinator.com/item?id=30970599</id>
-        <link href="https://news.ycombinator.com/item?id=30970599"/>
-        <updated>2022-04-09T18:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Reverse-engineering the LM185 voltage reference chip and its bandgap reference]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何控制編程的元認知過程？]]></title>
-        <id>https://news.ycombinator.com/item?id=30955203</id>
-        <link href="https://news.ycombinator.com/item?id=30955203"/>
-        <updated>2022-04-08T10:02:52.000Z</updated>
-        <summary type="html"><![CDATA[How to control the metacognition process of programming?]]></summary>
-        <author>
-            <name>harperlee</name>
-            <uri>https://news.ycombinator.com/user?id=harperlee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi Pico。這個被混淆的代碼(?)在其啟動ROM中做什麼(l.442)]]></title>
-        <id>https://news.ycombinator.com/item?id=30970274</id>
-        <link href="https://news.ycombinator.com/item?id=30970274"/>
-        <updated>2022-04-09T17:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pi Pico: What is this obfuscated code(?) doing in its boot ROM (l.442)]]></summary>
-        <author>
-            <name>nynyny7</name>
-            <uri>https://news.ycombinator.com/user?id=nynyny7</uri>
         </author>
     </entry>
 </feed>
