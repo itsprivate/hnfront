@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T22:32:34.389Z</updated>
+    <updated>2022-04-16T22:42:39.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的朋友正在製作一個工具，供DnD玩家快速可視化場景。]]></title>
+        <id>https://news.ycombinator.com/item?id=31025055</id>
+        <link href="https://news.ycombinator.com/item?id=31025055"/>
+        <updated>2022-04-14T10:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My mate is making a tool for DnD players to quickly visualise scenarios]]></summary>
+        <author>
+            <name>gigamick</name>
+            <uri>https://news.ycombinator.com/user?id=gigamick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100位在新澤西州同一所高中就讀的罕見癌症患者要求回答]]></title>
         <id>https://news.ycombinator.com/item?id=31056262</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在月球、火星和戴森球體上建立殖民地需要幫助]]></title>
-        <id>https://news.ycombinator.com/item?id=30973294</id>
-        <link href="https://news.ycombinator.com/item?id=30973294"/>
-        <updated>2022-04-09T23:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Help needed to build the colony on Moon, Mars and the Dyson Sphere]]></summary>
-        <author>
-            <name>grandrew</name>
-            <uri>https://news.ycombinator.com/user?id=grandrew</uri>
         </author>
     </entry>
 </feed>
