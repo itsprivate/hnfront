@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T19:26:49.464Z</updated>
+    <updated>2022-04-16T19:36:44.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流行病学研究的因果图 (1999)]]></title>
+        <id>https://news.ycombinator.com/item?id=31037416</id>
+        <link href="https://news.ycombinator.com/item?id=31037416"/>
+        <updated>2022-04-15T07:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Causal Diagrams for Epidemiologic Research (1999)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的网站，托管在386 25 MHz，4 MiB的内存，38400波特的互联网上。]]></title>
         <id>https://news.ycombinator.com/item?id=31055132</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>benbreen</name>
             <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃默里大学限制不符合助推器要求的学生使用WiFi]]></title>
-        <id>https://news.ycombinator.com/item?id=30972245</id>
-        <link href="https://news.ycombinator.com/item?id=30972245"/>
-        <updated>2022-04-09T21:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Emory Univ. restricts WiFi for students noncompliant with booster requirements]]></summary>
-        <author>
-            <name>cglong</name>
-            <uri>https://news.ycombinator.com/user?id=cglong</uri>
         </author>
     </entry>
 </feed>
