@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T06:38:51.533Z</updated>
+    <updated>2022-04-16T08:37:43.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用正則表達式解析HTML來召喚克蘇魯人(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=31012999</id>
+        <link href="https://news.ycombinator.com/item?id=31012999"/>
+        <updated>2022-04-13T10:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Summoning Cthulhu by Parsing HTML with Regular Expressions (2021)]]></summary>
+        <author>
+            <name>develatio</name>
+            <uri>https://news.ycombinator.com/user?id=develatio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東芝T1200筆記本電腦的替代電源]]></title>
         <id>https://news.ycombinator.com/item?id=31025865</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>simonsarris</name>
             <uri>https://news.ycombinator.com/user?id=simonsarris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工學院的研究生們投票決定成立工會]]></title>
-        <id>https://news.ycombinator.com/item?id=30967375</id>
-        <link href="https://news.ycombinator.com/item?id=30967375"/>
-        <updated>2022-04-09T12:15:25.000Z</updated>
-        <summary type="html"><![CDATA[MIT graduate students vote to unionize]]></summary>
-        <author>
-            <name>Metacelsus</name>
-            <uri>https://news.ycombinator.com/user?id=Metacelsus</uri>
         </author>
     </entry>
 </feed>
