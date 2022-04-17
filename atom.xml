@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T12:17:33.264Z</updated>
+    <updated>2022-04-17T12:52:12.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[子午线新闻(测试版)]]></title>
+        <id>https://news.ycombinator.com/item?id=31059949</id>
+        <link href="https://news.ycombinator.com/item?id=31059949"/>
+        <updated>2022-04-17T10:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Subreply News (Beta)]]></summary>
+        <author>
+            <name>lcnmrn</name>
+            <uri>https://news.ycombinator.com/user?id=lcnmrn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aesthetic (YC S18) 正在招聘一名全栈式网络工程师]]></title>
         <id>https://news.ycombinator.com/item?id=31060276</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>signa11</name>
             <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitmovin（YC S15）正在招聘工程师以构建视频的未来]]></title>
-        <id>https://news.ycombinator.com/item?id=30976290</id>
-        <link href="https://news.ycombinator.com/item?id=30976290"/>
-        <updated>2022-04-10T12:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Bitmovin (YC S15) Is Hiring Engineers to Build the Future of Video]]></summary>
-        <author>
-            <name>slederer</name>
-            <uri>https://news.ycombinator.com/user?id=slederer</uri>
         </author>
     </entry>
 </feed>

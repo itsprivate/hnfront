@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 17 Apr 2022 12:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 12:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[子午線新聞(測試版)]]></title>
+            <link>https://news.ycombinator.com/item?id=31059949</link>
+            <guid>https://news.ycombinator.com/item?id=31059949</guid>
+            <pubDate>Sun, 17 Apr 2022 10:50:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Subreply News (Beta)]]></description>
+        </item>
         <item>
             <title><![CDATA[Aesthetic (YC S18) 正在招聘一名全棧式網絡工程師]]></title>
             <link>https://news.ycombinator.com/item?id=31060276</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30975613</guid>
             <pubDate>Sun, 10 Apr 2022 09:35:24 GMT</pubDate>
             <description><![CDATA[What science says: Could humans survive a nuclear war between NATO and Russia?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bitmovin（YC S15）正在招聘工程師以構建視頻的未來]]></title>
-            <link>https://news.ycombinator.com/item?id=30976290</link>
-            <guid>https://news.ycombinator.com/item?id=30976290</guid>
-            <pubDate>Sun, 10 Apr 2022 12:00:16 GMT</pubDate>
-            <description><![CDATA[Bitmovin (YC S15) Is Hiring Engineers to Build the Future of Video]]></description>
         </item>
     </channel>
 </rss>
