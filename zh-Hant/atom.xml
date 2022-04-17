@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T17:22:21.150Z</updated>
+    <updated>2022-04-17T17:51:36.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用firecracker虛擬機運行e2e測試的速度提高了10倍]]></title>
+        <id>https://news.ycombinator.com/item?id=31062301</id>
+        <link href="https://news.ycombinator.com/item?id=31062301"/>
+        <updated>2022-04-17T17:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Running e2e tests 10x faster using firecracker VMs]]></summary>
+        <author>
+            <name>samanthachai</name>
+            <uri>https://news.ycombinator.com/user?id=samanthachai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用R Markdown和Jupyter創建活的文件和可重複的報告]]></title>
+        <id>https://news.ycombinator.com/item?id=31061081</id>
+        <link href="https://news.ycombinator.com/item?id=31061081"/>
+        <updated>2022-04-17T14:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Creating living documents and reproducible reports with R Markdown and Jupyter]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃裡克-施密特對美國科學政策的影響]]></title>
+        <id>https://news.ycombinator.com/item?id=31058075</id>
+        <link href="https://news.ycombinator.com/item?id=31058075"/>
+        <updated>2022-04-17T02:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Eric Schmidt's influence on U.S. science policy]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NandGame - 從零開始建立一個計算機]]></title>
+        <id>https://news.ycombinator.com/item?id=31055307</id>
+        <link href="https://news.ycombinator.com/item?id=31055307"/>
+        <updated>2022-04-16T19:27:20.000Z</updated>
+        <summary type="html"><![CDATA[NandGame – Build a Computer from Scratch]]></summary>
+        <author>
+            <name>merlinscholz</name>
+            <uri>https://news.ycombinator.com/user?id=merlinscholz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ReadMe (YC W15)正在招聘熱愛開發者體驗的人]]></title>
         <id>https://news.ycombinator.com/item?id=31062305</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>mcovalt</name>
             <uri>https://news.ycombinator.com/user?id=mcovalt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WeekToDo - 免費的極簡主義周計劃軟件]]></title>
-        <id>https://news.ycombinator.com/item?id=30979251</id>
-        <link href="https://news.ycombinator.com/item?id=30979251"/>
-        <updated>2022-04-10T17:17:55.000Z</updated>
-        <summary type="html"><![CDATA[WeekToDo – Free Minimalist Weekly Planner App]]></summary>
-        <author>
-            <name>evo_9</name>
-            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關閉3M公司的芯片冷卻劑工廠可能擾亂半導體行業]]></title>
-        <id>https://news.ycombinator.com/item?id=30979233</id>
-        <link href="https://news.ycombinator.com/item?id=30979233"/>
-        <updated>2022-04-10T17:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Closure of 3M chip coolant plant could upset semiconductor sector]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThorCon：用廉價、可靠、無二氧化碳的電力為我們的世界提供動力]]></title>
-        <id>https://news.ycombinator.com/item?id=30979225</id>
-        <link href="https://news.ycombinator.com/item?id=30979225"/>
-        <updated>2022-04-10T17:15:31.000Z</updated>
-        <summary type="html"><![CDATA[ThorCon: Powering up our world with cheap, reliable, CO2-free electric power]]></summary>
-        <author>
-            <name>NumberWangMan</name>
-            <uri>https://news.ycombinator.com/user?id=NumberWangMan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Locutus。構建去中心化應用的平臺，來自Freenet的創建者]]></title>
-        <id>https://news.ycombinator.com/item?id=30979002</id>
-        <link href="https://news.ycombinator.com/item?id=30979002"/>
-        <updated>2022-04-10T16:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Locutus: A platform for building decentralized apps, from the creator of Freenet]]></summary>
-        <author>
-            <name>sanity31415</name>
-            <uri>https://news.ycombinator.com/user?id=sanity31415</uri>
         </author>
     </entry>
 </feed>
