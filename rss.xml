@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 17 Apr 2022 17:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 18:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,48 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[英雄2.0，一个超低价的3D打印机器人平台]]></title>
+            <link>https://news.ycombinator.com/item?id=31057382</link>
+            <guid>https://news.ycombinator.com/item?id=31057382</guid>
+            <pubDate>Sun, 17 Apr 2022 00:37:38 GMT</pubDate>
+            <description><![CDATA[Hero 2.0, an ultra-low cost 3D-printed robotics platform]]></description>
+        </item>
+        <item>
+            <title><![CDATA[本丢-彼拉多的奇怪身世 (2016)]]></title>
+            <link>https://news.ycombinator.com/item?id=31056484</link>
+            <guid>https://news.ycombinator.com/item?id=31056484</guid>
+            <pubDate>Sat, 16 Apr 2022 22:03:09 GMT</pubDate>
+            <description><![CDATA[The Strange Afterlife of Pontius Pilate (2016)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Insteon倒闭了，可能不会再回来了]]></title>
+            <link>https://news.ycombinator.com/item?id=31056027</link>
+            <guid>https://news.ycombinator.com/item?id=31056027</guid>
+            <pubDate>Sat, 16 Apr 2022 20:57:09 GMT</pubDate>
+            <description><![CDATA[Insteon is down and may not be coming back]]></description>
+        </item>
+        <item>
+            <title><![CDATA[三年前消失的加州自闭症少年在犹他州被发现还活着]]></title>
+            <link>https://news.ycombinator.com/item?id=31055711</link>
+            <guid>https://news.ycombinator.com/item?id=31055711</guid>
+            <pubDate>Sat, 16 Apr 2022 20:14:06 GMT</pubDate>
+            <description><![CDATA[California teen with autism who vanished 3 years ago is found alive in Utah]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在RISC-V汇编中打开一个UDP插座]]></title>
+            <link>https://news.ycombinator.com/item?id=31055300</link>
+            <guid>https://news.ycombinator.com/item?id=31055300</guid>
+            <pubDate>Sat, 16 Apr 2022 19:26:30 GMT</pubDate>
+            <description><![CDATA[Opening a UDP Socket in RISC-V Assembly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[无牌无线电]]></title>
+            <link>https://news.ycombinator.com/item?id=31031858</link>
+            <guid>https://news.ycombinator.com/item?id=31031858</guid>
+            <pubDate>Thu, 14 Apr 2022 19:10:18 GMT</pubDate>
+            <description><![CDATA[Unlicensed Radio]]></description>
+        </item>
         <item>
             <title><![CDATA[使用firecracker虚拟机运行e2e测试的速度提高了10倍]]></title>
             <link>https://news.ycombinator.com/item?id=31062301</link>
@@ -4171,48 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30979563</guid>
             <pubDate>Sun, 10 Apr 2022 17:42:11 GMT</pubDate>
             <description><![CDATA[An Ode to Apple’s Hide My Email]]></description>
-        </item>
-        <item>
-            <title><![CDATA[单身人士是个坏主意]]></title>
-            <link>https://news.ycombinator.com/item?id=30977481</link>
-            <guid>https://news.ycombinator.com/item?id=30977481</guid>
-            <pubDate>Sun, 10 Apr 2022 14:57:52 GMT</pubDate>
-            <description><![CDATA[Singleton Is a Bad Idea]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于建立阿迪朗达克山国家公园的想法]]></title>
-            <link>https://news.ycombinator.com/item?id=30966116</link>
-            <guid>https://news.ycombinator.com/item?id=30966116</guid>
-            <pubDate>Sat, 09 Apr 2022 08:08:40 GMT</pubDate>
-            <description><![CDATA[On the Idea of an Adirondack Mountains National Park]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么是Rust的不安全？]]></title>
-            <link>https://news.ycombinator.com/item?id=30979484</link>
-            <guid>https://news.ycombinator.com/item?id=30979484</guid>
-            <pubDate>Sun, 10 Apr 2022 17:36:49 GMT</pubDate>
-            <description><![CDATA[What Is Rust's Unsafe?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苏格拉底模式--用语言构成零星的多模态推理]]></title>
-            <link>https://news.ycombinator.com/item?id=30978927</link>
-            <guid>https://news.ycombinator.com/item?id=30978927</guid>
-            <pubDate>Sun, 10 Apr 2022 16:51:52 GMT</pubDate>
-            <description><![CDATA[Socratic Models – Composing Zero-Shot Multimodal Reasoning with Language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN回复--Hacker News评论回复的电子邮件通知]]></title>
-            <link>https://news.ycombinator.com/item?id=30979295</link>
-            <guid>https://news.ycombinator.com/item?id=30979295</guid>
-            <pubDate>Sun, 10 Apr 2022 17:21:01 GMT</pubDate>
-            <description><![CDATA[HN Replies – Email Notifications for Hacker News Comment Replies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个愚蠢的笑话导致了一个愚蠢的新闻周期]]></title>
-            <link>https://news.ycombinator.com/item?id=30979256</link>
-            <guid>https://news.ycombinator.com/item?id=30979256</guid>
-            <pubDate>Sun, 10 Apr 2022 17:18:12 GMT</pubDate>
-            <description><![CDATA[A stupid joke resulting in a silly news cycle]]></description>
         </item>
     </channel>
 </rss>
