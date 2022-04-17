@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T03:15:38.517Z</updated>
+    <updated>2022-04-17T03:45:28.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随着对气候的担忧加剧，一些人开始在美国境内迁居]]></title>
+        <id>https://news.ycombinator.com/item?id=31058072</id>
+        <link href="https://news.ycombinator.com/item?id=31058072"/>
+        <updated>2022-04-17T02:58:15.000Z</updated>
+        <summary type="html"><![CDATA[As Climate Fears Mount, Some Are Relocating Within the US]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的球拍制造系统]]></title>
         <id>https://news.ycombinator.com/item?id=31055611</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>daenz</name>
             <uri>https://news.ycombinator.com/user?id=daenz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发者的忏悔。菲莱为何坠毁（2018）]]></title>
-        <id>https://news.ycombinator.com/item?id=30955745</id>
-        <link href="https://news.ycombinator.com/item?id=30955745"/>
-        <updated>2022-04-08T11:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Developer's confession: Why Philae crashed (2018)]]></summary>
-        <author>
-            <name>cubefox</name>
-            <uri>https://news.ycombinator.com/user?id=cubefox</uri>
         </author>
     </entry>
 </feed>
