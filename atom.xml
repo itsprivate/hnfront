@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T06:14:00.068Z</updated>
+    <updated>2022-04-17T06:57:25.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[死后生命在眼前闪现的证据]]></title>
+        <id>https://news.ycombinator.com/item?id=31048423</id>
+        <link href="https://news.ycombinator.com/item?id=31048423"/>
+        <updated>2022-04-16T01:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Evidence that life flashes before the eyes upon death]]></summary>
+        <author>
+            <name>relaunched</name>
+            <uri>https://news.ycombinator.com/user?id=relaunched</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在过去的50年里，你吃的鸡肉体积增加了364%。]]></title>
         <id>https://news.ycombinator.com/item?id=31058636</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Equiet</name>
             <uri>https://news.ycombinator.com/user?id=Equiet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杀死命令信息：我们应该使用事件还是文件？(2007)]]></title>
-        <id>https://news.ycombinator.com/item?id=30954165</id>
-        <link href="https://news.ycombinator.com/item?id=30954165"/>
-        <updated>2022-04-08T07:08:47.000Z</updated>
-        <summary type="html"><![CDATA[Killing the Command message: should we use Events or Documents? (2007)]]></summary>
-        <author>
-            <name>laerus</name>
-            <uri>https://news.ycombinator.com/user?id=laerus</uri>
         </author>
     </entry>
 </feed>
