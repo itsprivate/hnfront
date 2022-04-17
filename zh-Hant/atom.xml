@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T05:51:37.311Z</updated>
+    <updated>2022-04-17T06:14:00.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在過去的50年裡，你吃的雞肉體積增加了364%。]]></title>
+        <id>https://news.ycombinator.com/item?id=31058636</id>
+        <link href="https://news.ycombinator.com/item?id=31058636"/>
+        <updated>2022-04-17T04:57:48.000Z</updated>
+        <summary type="html"><![CDATA[The chicken you are eating has increased 364% in size over the last 50 years]]></summary>
+        <author>
+            <name>kaycebasques</name>
+            <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[u-root CPU命令]]></title>
+        <id>https://news.ycombinator.com/item?id=31057873</id>
+        <link href="https://news.ycombinator.com/item?id=31057873"/>
+        <updated>2022-04-17T02:17:35.000Z</updated>
+        <summary type="html"><![CDATA[The u-root CPU command]]></summary>
+        <author>
+            <name>liveranga</name>
+            <uri>https://news.ycombinator.com/user?id=liveranga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過渡性建築]]></title>
         <id>https://news.ycombinator.com/item?id=31024514</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>laerus</name>
             <uri>https://news.ycombinator.com/user?id=laerus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不確定我是否曾經喜歡過編程]]></title>
-        <id>https://news.ycombinator.com/item?id=30974726</id>
-        <link href="https://news.ycombinator.com/item?id=30974726"/>
-        <updated>2022-04-10T05:48:52.000Z</updated>
-        <summary type="html"><![CDATA[I'm Not Sure I've Ever Enjoyed Programming]]></summary>
-        <author>
-            <name>Alekhine</name>
-            <uri>https://news.ycombinator.com/user?id=Alekhine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓俄羅斯石油流向歐洲的後門]]></title>
-        <id>https://news.ycombinator.com/item?id=30974775</id>
-        <link href="https://news.ycombinator.com/item?id=30974775"/>
-        <updated>2022-04-10T06:03:18.000Z</updated>
-        <summary type="html"><![CDATA[The Backdoor That Keeps Russian Oil Flowing into Europe]]></summary>
-        <author>
-            <name>krzyk</name>
-            <uri>https://news.ycombinator.com/user?id=krzyk</uri>
         </author>
     </entry>
 </feed>
