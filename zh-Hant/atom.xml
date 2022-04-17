@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T08:54:02.125Z</updated>
+    <updated>2022-04-17T09:12:57.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你好，V-Lang]]></title>
+        <id>https://news.ycombinator.com/item?id=31058910</id>
+        <link href="https://news.ycombinator.com/item?id=31058910"/>
+        <updated>2022-04-17T06:15:33.000Z</updated>
+        <summary type="html"><![CDATA[Hello V-Lang]]></summary>
+        <author>
+            <name>hackersreboot</name>
+            <uri>https://news.ycombinator.com/user?id=hackersreboot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[算法和數據結構 - 過渡系統 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=31037988</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wooosh</name>
             <uri>https://news.ycombinator.com/user?id=wooosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在非洲，美國訓練的軍隊正在政變中推翻平民政府]]></title>
-        <id>https://news.ycombinator.com/item?id=30975194</id>
-        <link href="https://news.ycombinator.com/item?id=30975194"/>
-        <updated>2022-04-10T07:49:58.000Z</updated>
-        <summary type="html"><![CDATA[In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments in Coups]]></summary>
-        <author>
-            <name>gscott</name>
-            <uri>https://news.ycombinator.com/user?id=gscott</uri>
         </author>
     </entry>
 </feed>
