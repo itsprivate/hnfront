@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T17:04:00.284Z</updated>
+    <updated>2022-04-17T17:22:21.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ReadMe (YC W15)正在招聘熱愛開發者體驗的人]]></title>
+        <id>https://news.ycombinator.com/item?id=31062305</id>
+        <link href="https://news.ycombinator.com/item?id=31062305"/>
+        <updated>2022-04-17T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[ReadMe (YC W15) is hiring people who love Developer Experience]]></summary>
+        <author>
+            <name>gkoberger</name>
+            <uri>https://news.ycombinator.com/user?id=gkoberger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[類似於DX7的Dexed調頻合成器在裸機Raspberry Pi上運行]]></title>
+        <id>https://news.ycombinator.com/item?id=31062237</id>
+        <link href="https://news.ycombinator.com/item?id=31062237"/>
+        <updated>2022-04-17T16:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我應該養雞嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31062111</id>
+        <link href="https://news.ycombinator.com/item?id=31062111"/>
+        <updated>2022-04-17T16:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Should I get chickens?]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軟件架構的五句箴言]]></title>
+        <id>https://news.ycombinator.com/item?id=31036632</id>
+        <link href="https://news.ycombinator.com/item?id=31036632"/>
+        <updated>2022-04-15T04:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Five Koans of Software Architecture]]></summary>
+        <author>
+            <name>mbellotti</name>
+            <uri>https://news.ycombinator.com/user?id=mbellotti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[豆莖農場穩定幣項目虧損1.82億美元被利用]]></title>
         <id>https://news.ycombinator.com/item?id=31061802</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>sanity31415</name>
             <uri>https://news.ycombinator.com/user?id=sanity31415</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTK4矩陣客戶端]]></title>
-        <id>https://news.ycombinator.com/item?id=30978726</id>
-        <link href="https://news.ycombinator.com/item?id=30978726"/>
-        <updated>2022-04-10T16:34:22.000Z</updated>
-        <summary type="html"><![CDATA[GTK4 Matrix Client]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澤特醫療（YC S21）正在招聘一名高級軟件工程師，以改善中風護理。]]></title>
-        <id>https://news.ycombinator.com/item?id=30979036</id>
-        <link href="https://news.ycombinator.com/item?id=30979036"/>
-        <updated>2022-04-10T17:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Zeit Medical (YC S21) is hiring a Senior Software Engineer to improve stroke care]]></summary>
-        <author>
-            <name>ycorvar</name>
-            <uri>https://news.ycombinator.com/user?id=ycorvar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[估計PaLM的培訓成本]]></title>
-        <id>https://news.ycombinator.com/item?id=30979009</id>
-        <link href="https://news.ycombinator.com/item?id=30979009"/>
-        <updated>2022-04-10T16:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Estimating PaLM's Training Cost]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eero Pro 6E和Eero 6評論。快速和簡單]]></title>
-        <id>https://news.ycombinator.com/item?id=30965772</id>
-        <link href="https://news.ycombinator.com/item?id=30965772"/>
-        <updated>2022-04-09T06:51:05.000Z</updated>
-        <summary type="html"><![CDATA[Eero Pro 6E and Eero 6 Review: Fast and Easy]]></summary>
-        <author>
-            <name>ec109685</name>
-            <uri>https://news.ycombinator.com/user?id=ec109685</uri>
         </author>
     </entry>
 </feed>
