@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 17 Apr 2022 16:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 16:47:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為你的下一個Chrome擴展提供CLI]]></title>
+            <link>https://news.ycombinator.com/item?id=31061781</link>
+            <guid>https://news.ycombinator.com/item?id=31061781</guid>
+            <pubDate>Sun, 17 Apr 2022 16:00:26 GMT</pubDate>
+            <description><![CDATA[The CLI for your next Chrome Extension]]></description>
+        </item>
+        <item>
+            <title><![CDATA[零知識中間箱：對加密流量執行網絡政策]]></title>
+            <link>https://news.ycombinator.com/item?id=31061628</link>
+            <guid>https://news.ycombinator.com/item?id=31061628</guid>
+            <pubDate>Sun, 17 Apr 2022 15:44:51 GMT</pubDate>
+            <description><![CDATA[Zero-Knowledge Middleboxes: enforce network policies on encrypted traffic]]></description>
+        </item>
         <item>
             <title><![CDATA[Clojure Dart]]></title>
             <link>https://news.ycombinator.com/item?id=31050693</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30978393</guid>
             <pubDate>Sun, 10 Apr 2022 16:05:26 GMT</pubDate>
             <description><![CDATA[Chinese inmates had hearts or lungs removed during executions, study says]]></description>
-        </item>
-        <item>
-            <title><![CDATA[上海居民受困于禁閉，轉而在微信群中尋找食物]]></title>
-            <link>https://news.ycombinator.com/item?id=30978074</link>
-            <guid>https://news.ycombinator.com/item?id=30978074</guid>
-            <pubDate>Sun, 10 Apr 2022 15:41:46 GMT</pubDate>
-            <description><![CDATA[Trapped in lockdown, Shanghai residents turn to WeChat groups for food]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PSA：React 18在嚴格模式下兩次調用代碼，以檢測非故意的副作用]]></title>
-            <link>https://news.ycombinator.com/item?id=30976040</link>
-            <guid>https://news.ycombinator.com/item?id=30976040</guid>
-            <pubDate>Sun, 10 Apr 2022 11:03:48 GMT</pubDate>
-            <description><![CDATA[PSA: React 18 calls code twice in strict mode to detect unintended side effects]]></description>
         </item>
     </channel>
 </rss>
