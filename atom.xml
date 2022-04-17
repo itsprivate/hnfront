@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T09:12:57.126Z</updated>
+    <updated>2022-04-17T09:32:01.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[远程工作是否让你更加拖延？]]></title>
+        <id>https://news.ycombinator.com/item?id=31058930</id>
+        <link href="https://news.ycombinator.com/item?id=31058930"/>
+        <updated>2022-04-17T06:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has remote work made you procrastinate more?]]></summary>
+        <author>
+            <name>johndavid9991</name>
+            <uri>https://news.ycombinator.com/user?id=johndavid9991</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你好，V-Lang]]></title>
         <id>https://news.ycombinator.com/item?id=31058910</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maxmouchet</name>
             <uri>https://news.ycombinator.com/user?id=maxmouchet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1998年《小偷》的3D软件渲染技术。黑暗计划 (2011)]]></title>
-        <id>https://news.ycombinator.com/item?id=30966251</id>
-        <link href="https://news.ycombinator.com/item?id=30966251"/>
-        <updated>2022-04-09T08:36:31.000Z</updated>
-        <summary type="html"><![CDATA[3D Software Rendering Technology of 1998's Thief: The Dark Project (2011)]]></summary>
-        <author>
-            <name>wooosh</name>
-            <uri>https://news.ycombinator.com/user?id=wooosh</uri>
         </author>
     </entry>
 </feed>
