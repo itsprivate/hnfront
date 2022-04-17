@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T15:35:45.668Z</updated>
+    <updated>2022-04-17T15:47:50.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["YouTube-dl "和 "海盗湾 "回到DDG上]]></title>
+        <id>https://news.ycombinator.com/item?id=31061163</id>
+        <link href="https://news.ycombinator.com/item?id=31061163"/>
+        <updated>2022-04-17T14:41:34.000Z</updated>
+        <summary type="html"><![CDATA[“YouTube-dl” and “Pirate Bay” back on DDG]]></summary>
+        <author>
+            <name>ikt</name>
+            <uri>https://news.ycombinator.com/user?id=ikt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们正在拆除QZ.com上的付费墙]]></title>
         <id>https://news.ycombinator.com/item?id=31061385</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：创业公司为营销目的收割GitHub提交的电子邮件]]></title>
-        <id>https://news.ycombinator.com/item?id=30977883</id>
-        <link href="https://news.ycombinator.com/item?id=30977883"/>
-        <updated>2022-04-10T15:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Startups Harvesting GitHub Commit Emails for Marketing Purposes]]></summary>
-        <author>
-            <name>fouric</name>
-            <uri>https://news.ycombinator.com/user?id=fouric</uri>
         </author>
     </entry>
 </feed>
