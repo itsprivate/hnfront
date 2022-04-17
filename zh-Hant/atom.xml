@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T22:12:09.664Z</updated>
+    <updated>2022-04-17T22:51:44.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習語言的新舊方式 (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=31064421</id>
+        <link href="https://news.ycombinator.com/item?id=31064421"/>
+        <updated>2022-04-17T20:55:05.000Z</updated>
+        <summary type="html"><![CDATA[The New Old Way of Learning Languages (2008)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 "Avgeeks "一起看飛機]]></title>
         <id>https://news.ycombinator.com/item?id=31051189</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我怎麼會在技術領域工作得這麼不開心？]]></title>
-        <id>https://news.ycombinator.com/item?id=30980893</id>
-        <link href="https://news.ycombinator.com/item?id=30980893"/>
-        <updated>2022-04-10T19:39:34.000Z</updated>
-        <summary type="html"><![CDATA[How did I get so unhappy working in tech?]]></summary>
-        <author>
-            <name>linuxbo</name>
-            <uri>https://news.ycombinator.com/user?id=linuxbo</uri>
         </author>
     </entry>
 </feed>
