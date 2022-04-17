@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T15:13:33.641Z</updated>
+    <updated>2022-04-17T15:35:45.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们正在拆除QZ.com上的付费墙]]></title>
+        <id>https://news.ycombinator.com/item?id=31061385</id>
+        <link href="https://news.ycombinator.com/item?id=31061385"/>
+        <updated>2022-04-17T15:11:56.000Z</updated>
+        <summary type="html"><![CDATA[We’re taking down the paywall on QZ.com]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在低技能、低工资的世界里，"糟糕的工作 "意味着什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31061138</id>
+        <link href="https://news.ycombinator.com/item?id=31061138"/>
+        <updated>2022-04-17T14:38:49.000Z</updated>
+        <summary type="html"><![CDATA[What Does “Shitty Job” Mean in the Low-Skill, Low-Pay World?]]></summary>
+        <author>
+            <name>hn-0001</name>
+            <uri>https://news.ycombinator.com/user?id=hn-0001</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[查理的日记。我为什么讨厌星际迷航 (2009)]]></title>
+        <id>https://news.ycombinator.com/item?id=31061034</id>
+        <link href="https://news.ycombinator.com/item?id=31061034"/>
+        <updated>2022-04-17T14:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Charlie's Diary: Why I Hate Star Trek (2009)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任天堂不想让你玩的游戏。腾博会官网诚信为本]]></title>
         <id>https://news.ycombinator.com/item?id=31061154</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>fouric</name>
             <uri>https://news.ycombinator.com/user?id=fouric</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用ELisp作为HTML模板引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30966896</id>
-        <link href="https://news.ycombinator.com/item?id=30966896"/>
-        <updated>2022-04-09T10:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Using ELisp as an HTML templating engine]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家为何对W波色子感到担忧："有些东西是不正常的]]></title>
-        <id>https://news.ycombinator.com/item?id=30977931</id>
-        <link href="https://news.ycombinator.com/item?id=30977931"/>
-        <updated>2022-04-10T15:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Why Scientists Are Worried About the W Boson: 'Something Is Amiss']]></summary>
-        <author>
-            <name>hsnewman</name>
-            <uri>https://news.ycombinator.com/user?id=hsnewman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国新的GPU制造商Moore Threads发布了MTT S60 GPU]]></title>
-        <id>https://news.ycombinator.com/item?id=30977920</id>
-        <link href="https://news.ycombinator.com/item?id=30977920"/>
-        <updated>2022-04-10T15:29:59.000Z</updated>
-        <summary type="html"><![CDATA[New Chinese GPU Maker Moore Threads Unveils the MTT S60 GPU]]></summary>
-        <author>
-            <name>lelf</name>
-            <uri>https://news.ycombinator.com/user?id=lelf</uri>
         </author>
     </entry>
 </feed>
