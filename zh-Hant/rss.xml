@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 17 Apr 2022 02:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 03:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[新的球拍製造系統]]></title>
+            <link>https://news.ycombinator.com/item?id=31055611</link>
+            <guid>https://news.ycombinator.com/item?id=31055611</guid>
+            <pubDate>Sat, 16 Apr 2022 20:01:14 GMT</pubDate>
+            <description><![CDATA[New Racket Build System]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Crossbeam - Rust中的併發編程工具]]></title>
+            <link>https://news.ycombinator.com/item?id=31037971</link>
+            <guid>https://news.ycombinator.com/item?id=31037971</guid>
+            <pubDate>Fri, 15 Apr 2022 09:00:26 GMT</pubDate>
+            <description><![CDATA[Crossbeam – Tools for concurrent programming in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[自由電話在隱私方面並不出色]]></title>
             <link>https://news.ycombinator.com/item?id=31057615</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30955745</guid>
             <pubDate>Fri, 08 Apr 2022 11:44:11 GMT</pubDate>
             <description><![CDATA[Developer's confession: Why Philae crashed (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為生產微型芯片所做的巨大努力]]></title>
-            <link>https://news.ycombinator.com/item?id=30955568</link>
-            <guid>https://news.ycombinator.com/item?id=30955568</guid>
-            <pubDate>Fri, 08 Apr 2022 11:13:58 GMT</pubDate>
-            <description><![CDATA[The Huge Endeavor to Produce a Tiny Microchip]]></description>
-        </item>
-        <item>
-            <title><![CDATA[賭徒的謬誤不是謬誤]]></title>
-            <link>https://news.ycombinator.com/item?id=30973324</link>
-            <guid>https://news.ycombinator.com/item?id=30973324</guid>
-            <pubDate>Sun, 10 Apr 2022 00:03:52 GMT</pubDate>
-            <description><![CDATA[The Gambler's Fallacy Is Not a Fallacy]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T02:26:07.752Z</updated>
+    <updated>2022-04-17T03:15:38.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的球拍製造系統]]></title>
+        <id>https://news.ycombinator.com/item?id=31055611</id>
+        <link href="https://news.ycombinator.com/item?id=31055611"/>
+        <updated>2022-04-16T20:01:14.000Z</updated>
+        <summary type="html"><![CDATA[New Racket Build System]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crossbeam - Rust中的併發編程工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31037971</id>
+        <link href="https://news.ycombinator.com/item?id=31037971"/>
+        <updated>2022-04-15T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Crossbeam – Tools for concurrent programming in Rust]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由電話在隱私方面並不出色]]></title>
         <id>https://news.ycombinator.com/item?id=31057615</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cubefox</name>
             <uri>https://news.ycombinator.com/user?id=cubefox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為生產微型芯片所做的巨大努力]]></title>
-        <id>https://news.ycombinator.com/item?id=30955568</id>
-        <link href="https://news.ycombinator.com/item?id=30955568"/>
-        <updated>2022-04-08T11:13:58.000Z</updated>
-        <summary type="html"><![CDATA[The Huge Endeavor to Produce a Tiny Microchip]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賭徒的謬誤不是謬誤]]></title>
-        <id>https://news.ycombinator.com/item?id=30973324</id>
-        <link href="https://news.ycombinator.com/item?id=30973324"/>
-        <updated>2022-04-10T00:03:52.000Z</updated>
-        <summary type="html"><![CDATA[The Gambler's Fallacy Is Not a Fallacy]]></summary>
-        <author>
-            <name>goldenkey</name>
-            <uri>https://news.ycombinator.com/user?id=goldenkey</uri>
         </author>
     </entry>
 </feed>
