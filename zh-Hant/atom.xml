@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T14:12:15.867Z</updated>
+    <updated>2022-04-17T14:29:47.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何更清晰地寫作，更清晰地思考，並學習複雜的材料 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31060362</id>
+        <link href="https://news.ycombinator.com/item?id=31060362"/>
+        <updated>2022-04-17T12:23:43.000Z</updated>
+        <summary type="html"><![CDATA[How to Write More Clearly, Think More Clearly, and Learn Complex Material [pdf]]]></summary>
+        <author>
+            <name>Secrethus</name>
+            <uri>https://news.ycombinator.com/user?id=Secrethus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數字音頻發行沒有補丁]]></title>
         <id>https://news.ycombinator.com/item?id=31060640</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>elvis70</name>
             <uri>https://news.ycombinator.com/user?id=elvis70</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼編譯器不會自動糾正 "明顯的 "解析錯誤？]]></title>
-        <id>https://news.ycombinator.com/item?id=30965572</id>
-        <link href="https://news.ycombinator.com/item?id=30965572"/>
-        <updated>2022-04-09T05:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Why Compilers Don’t Autocorrect “Obvious” Parse Errors]]></summary>
-        <author>
-            <name>skilled</name>
-            <uri>https://news.ycombinator.com/user?id=skilled</uri>
         </author>
     </entry>
 </feed>
