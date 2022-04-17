@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T05:12:00.928Z</updated>
+    <updated>2022-04-17T05:51:37.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[过渡性建筑]]></title>
+        <id>https://news.ycombinator.com/item?id=31024514</id>
+        <link href="https://news.ycombinator.com/item?id=31024514"/>
+        <updated>2022-04-14T08:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Transitional Architecture]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Miniclip将停用桌面网站并完全过渡到移动游戏]]></title>
         <id>https://news.ycombinator.com/item?id=31058283</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>krzyk</name>
             <uri>https://news.ycombinator.com/user?id=krzyk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是欧洲美元体系？(2020) [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30974598</id>
-        <link href="https://news.ycombinator.com/item?id=30974598"/>
-        <updated>2022-04-10T05:01:55.000Z</updated>
-        <summary type="html"><![CDATA[What is the Eurodollar System? (2020) [pdf]]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
         </author>
     </entry>
 </feed>
