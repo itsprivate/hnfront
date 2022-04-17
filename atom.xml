@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T18:38:38.116Z</updated>
+    <updated>2022-04-17T18:55:45.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何以低于100美元的价格制作自己的CFexpress卡]]></title>
+        <id>https://news.ycombinator.com/item?id=31052229</id>
+        <link href="https://news.ycombinator.com/item?id=31052229"/>
+        <updated>2022-04-16T13:40:14.000Z</updated>
+        <summary type="html"><![CDATA[How to make your own CFexpress card for under $100]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[打开speedtest时，互联网神奇地变快了？]]></title>
         <id>https://news.ycombinator.com/item?id=31062799</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>benbreen</name>
             <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小项目的乐趣]]></title>
-        <id>https://news.ycombinator.com/item?id=30980307</id>
-        <link href="https://news.ycombinator.com/item?id=30980307"/>
-        <updated>2022-04-10T18:43:30.000Z</updated>
-        <summary type="html"><![CDATA[The Joy of Small Projects]]></summary>
-        <author>
-            <name>dschroer</name>
-            <uri>https://news.ycombinator.com/user?id=dschroer</uri>
         </author>
     </entry>
 </feed>
