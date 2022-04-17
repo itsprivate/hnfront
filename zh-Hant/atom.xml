@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T22:51:44.555Z</updated>
+    <updated>2022-04-17T23:13:12.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我所收到的工程面試問題，第一部分]]></title>
+        <id>https://news.ycombinator.com/item?id=31065143</id>
+        <link href="https://news.ycombinator.com/item?id=31065143"/>
+        <updated>2022-04-17T22:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Engineering interview question I’ve ever gotten, Part 1]]></summary>
+        <author>
+            <name>db48x</name>
+            <uri>https://news.ycombinator.com/user?id=db48x</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[考古學家在伊拉克發掘出古代蘇美爾人的河船]]></title>
+        <id>https://news.ycombinator.com/item?id=31033936</id>
+        <link href="https://news.ycombinator.com/item?id=31033936"/>
+        <updated>2022-04-14T22:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Archaeologists unearth ancient Sumerian riverboat in Iraq]]></summary>
+        <author>
+            <name>diodorus</name>
+            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習語言的新舊方式 (2008)]]></title>
         <id>https://news.ycombinator.com/item?id=31064421</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lelf</name>
             <uri>https://news.ycombinator.com/user?id=lelf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我從用Rust製作DNS客戶端中學到的東西]]></title>
-        <id>https://news.ycombinator.com/item?id=30983245</id>
-        <link href="https://news.ycombinator.com/item?id=30983245"/>
-        <updated>2022-04-11T00:33:57.000Z</updated>
-        <summary type="html"><![CDATA[What I learned from making a DNS client in Rust]]></summary>
-        <author>
-            <name>adamch</name>
-            <uri>https://news.ycombinator.com/user?id=adamch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iced - 一個跨平臺的Rust GUI庫，靈感來自Elm]]></title>
-        <id>https://news.ycombinator.com/item?id=30983024</id>
-        <link href="https://news.ycombinator.com/item?id=30983024"/>
-        <updated>2022-04-11T00:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Iced – A cross-platform GUI library for Rust, inspired by Elm]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
