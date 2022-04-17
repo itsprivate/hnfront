@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T10:14:32.541Z</updated>
+    <updated>2022-04-17T11:29:03.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[即使是轻微的Covid-19也会导致你的大脑萎缩]]></title>
+        <id>https://news.ycombinator.com/item?id=31059990</id>
+        <link href="https://news.ycombinator.com/item?id=31059990"/>
+        <updated>2022-04-17T11:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Even mild Covid-19 can cause your brain to shrink]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维持成人网络摄像头行业运作的屏幕外工作人员]]></title>
         <id>https://news.ycombinator.com/item?id=31037525</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>l2dy</name>
             <uri>https://news.ycombinator.com/user?id=l2dy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[w3m 岩石]]></title>
-        <id>https://news.ycombinator.com/item?id=30975532</id>
-        <link href="https://news.ycombinator.com/item?id=30975532"/>
-        <updated>2022-04-10T09:14:45.000Z</updated>
-        <summary type="html"><![CDATA[w3m rocks]]></summary>
-        <author>
-            <name>marttt</name>
-            <uri>https://news.ycombinator.com/user?id=marttt</uri>
         </author>
     </entry>
 </feed>
