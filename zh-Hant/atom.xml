@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-16T23:41:56.486Z</updated>
+    <updated>2022-04-17T00:43:39.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自作自受的數據洩露]]></title>
+        <id>https://news.ycombinator.com/item?id=31043137</id>
+        <link href="https://news.ycombinator.com/item?id=31043137"/>
+        <updated>2022-04-15T17:38:51.000Z</updated>
+        <summary type="html"><![CDATA[A self-inflicted data breach]]></summary>
+        <author>
+            <name>aiguuu</name>
+            <uri>https://news.ycombinator.com/user?id=aiguuu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大腦隨著時間的推移而膨脹和縮小]]></title>
         <id>https://news.ycombinator.com/item?id=31048591</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eatonphil</name>
             <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個具有像視覺代碼一樣的UI的終端]]></title>
-        <id>https://news.ycombinator.com/item?id=30973010</id>
-        <link href="https://news.ycombinator.com/item?id=30973010"/>
-        <updated>2022-04-09T23:07:16.000Z</updated>
-        <summary type="html"><![CDATA[A terminal with UI like visual code]]></summary>
-        <author>
-            <name>zebulon75018</name>
-            <uri>https://news.ycombinator.com/user?id=zebulon75018</uri>
         </author>
     </entry>
 </feed>
