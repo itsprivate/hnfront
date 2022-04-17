@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T12:52:13.012Z</updated>
+    <updated>2022-04-17T13:22:08.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[遠程工作的喬爾測試]]></title>
+        <id>https://news.ycombinator.com/item?id=31059770</id>
+        <link href="https://news.ycombinator.com/item?id=31059770"/>
+        <updated>2022-04-17T10:03:31.000Z</updated>
+        <summary type="html"><![CDATA[The Joel test for remote work]]></summary>
+        <author>
+            <name>fidrelity</name>
+            <uri>https://news.ycombinator.com/user?id=fidrelity</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox備份]]></title>
+        <id>https://news.ycombinator.com/item?id=31037944</id>
+        <link href="https://news.ycombinator.com/item?id=31037944"/>
+        <updated>2022-04-15T08:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Dropbox Backup]]></summary>
+        <author>
+            <name>coolandsmartrr</name>
+            <uri>https://news.ycombinator.com/user?id=coolandsmartrr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子午線新聞(測試版)]]></title>
         <id>https://news.ycombinator.com/item?id=31059949</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tsujp</name>
             <uri>https://news.ycombinator.com/user?id=tsujp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zine - 一個簡單而有觀點的工具，可以建立你自己的雜誌]]></title>
-        <id>https://news.ycombinator.com/item?id=30966362</id>
-        <link href="https://news.ycombinator.com/item?id=30966362"/>
-        <updated>2022-04-09T09:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Zine – an simple and opinionated tool to build your own magazine]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學是怎麼說的。人類能在北約和俄羅斯之間的核戰爭中生存嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30975613</id>
-        <link href="https://news.ycombinator.com/item?id=30975613"/>
-        <updated>2022-04-10T09:35:24.000Z</updated>
-        <summary type="html"><![CDATA[What science says: Could humans survive a nuclear war between NATO and Russia?]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
