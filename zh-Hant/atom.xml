@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-17T20:13:29.842Z</updated>
+    <updated>2022-04-17T20:43:21.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三星電子文化問題導致晶圓廠、LSI和DRAM的災難]]></title>
+        <id>https://news.ycombinator.com/item?id=31064080</id>
+        <link href="https://news.ycombinator.com/item?id=31064080"/>
+        <updated>2022-04-17T20:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Samsung Electronics Cultural Issues Causing Disasters in Foundry, LSI, & DRAM]]></summary>
+        <author>
+            <name>craigjb</name>
+            <uri>https://news.ycombinator.com/user?id=craigjb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法官拒絕監禁兩名被指控冒充聯邦特工的男子]]></title>
         <id>https://news.ycombinator.com/item?id=31063522</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>elpg101</name>
             <uri>https://news.ycombinator.com/user?id=elpg101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有智能手機也能飛行]]></title>
-        <id>https://news.ycombinator.com/item?id=30979975</id>
-        <link href="https://news.ycombinator.com/item?id=30979975"/>
-        <updated>2022-04-10T18:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Taking Flight Without a Smart Phone]]></summary>
-        <author>
-            <name>devtailz</name>
-            <uri>https://news.ycombinator.com/user?id=devtailz</uri>
         </author>
     </entry>
 </feed>
