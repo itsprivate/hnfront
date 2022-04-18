@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T17:22:35.967Z</updated>
+    <updated>2022-04-18T17:52:38.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lezer解析器系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31073800</id>
+        <link href="https://news.ycombinator.com/item?id=31073800"/>
+        <updated>2022-04-18T17:27:56.000Z</updated>
+        <summary type="html"><![CDATA[The Lezer Parser System]]></summary>
+        <author>
+            <name>auggierose</name>
+            <uri>https://news.ycombinator.com/user?id=auggierose</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SimpleHash (YC W22)正在招聘一名高级后端工程师，负责建立NFT APIs]]></title>
         <id>https://news.ycombinator.com/item?id=31073409</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20年后的负数牙床]]></title>
-        <id>https://news.ycombinator.com/item?id=30993527</id>
-        <link href="https://news.ycombinator.com/item?id=30993527"/>
-        <updated>2022-04-11T19:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Negative dentries, 20 years later]]></summary>
-        <author>
-            <name>bitcharmer</name>
-            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
         </author>
     </entry>
 </feed>
