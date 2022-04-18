@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T19:52:26.817Z</updated>
+    <updated>2022-04-18T20:15:59.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最近，MacBooks似乎是唯一可行的选择]]></title>
+        <id>https://news.ycombinator.com/item?id=31074881</id>
+        <link href="https://news.ycombinator.com/item?id=31074881"/>
+        <updated>2022-04-18T18:52:46.000Z</updated>
+        <summary type="html"><![CDATA[MacBooks seems to be the only viable option these days]]></summary>
+        <author>
+            <name>open1414</name>
+            <uri>https://news.ycombinator.com/user?id=open1414</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国上诉法院重申网络搜刮是合法的]]></title>
         <id>https://news.ycombinator.com/item?id=31075396</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>physicsfox</name>
             <uri>https://news.ycombinator.com/user?id=physicsfox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿拉斯加对近期航班取消的回应]]></title>
-        <id>https://news.ycombinator.com/item?id=30995382</id>
-        <link href="https://news.ycombinator.com/item?id=30995382"/>
-        <updated>2022-04-11T21:32:43.000Z</updated>
-        <summary type="html"><![CDATA[Alaska response to recent flight cancellations]]></summary>
-        <author>
-            <name>aoetalks</name>
-            <uri>https://news.ycombinator.com/user?id=aoetalks</uri>
         </author>
     </entry>
 </feed>
