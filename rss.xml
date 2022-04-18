@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 18 Apr 2022 22:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 23:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[六家公司控制了你所读、所看、所听的90%的内容]]></title>
+            <link>https://news.ycombinator.com/item?id=31077525</link>
+            <guid>https://news.ycombinator.com/item?id=31077525</guid>
+            <pubDate>Mon, 18 Apr 2022 22:35:32 GMT</pubDate>
+            <description><![CDATA[Six companies control 90% of what you read, watch, and hear]]></description>
+        </item>
         <item>
             <title><![CDATA[具有各向异性的Z轴导电性的3M胶带]]></title>
             <link>https://news.ycombinator.com/item?id=31060526</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30998663</guid>
             <pubDate>Tue, 12 Apr 2022 04:35:02 GMT</pubDate>
             <description><![CDATA[Ask HN: How Do I Start a Startup?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在PyTorch中实现DALL-E 2]]></title>
-            <link>https://news.ycombinator.com/item?id=30998651</link>
-            <guid>https://news.ycombinator.com/item?id=30998651</guid>
-            <pubDate>Tue, 12 Apr 2022 04:32:37 GMT</pubDate>
-            <description><![CDATA[Implementation of DALL-E 2 in PyTorch]]></description>
         </item>
     </channel>
 </rss>

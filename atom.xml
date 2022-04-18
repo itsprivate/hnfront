@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T22:52:15.140Z</updated>
+    <updated>2022-04-18T23:11:44.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[六家公司控制了你所读、所看、所听的90%的内容]]></title>
+        <id>https://news.ycombinator.com/item?id=31077525</id>
+        <link href="https://news.ycombinator.com/item?id=31077525"/>
+        <updated>2022-04-18T22:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Six companies control 90% of what you read, watch, and hear]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有各向异性的Z轴导电性的3M胶带]]></title>
         <id>https://news.ycombinator.com/item?id=31060526</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>deathandgravity</name>
             <uri>https://news.ycombinator.com/user?id=deathandgravity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在PyTorch中实现DALL-E 2]]></title>
-        <id>https://news.ycombinator.com/item?id=30998651</id>
-        <link href="https://news.ycombinator.com/item?id=30998651"/>
-        <updated>2022-04-12T04:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Implementation of DALL-E 2 in PyTorch]]></summary>
-        <author>
-            <name>m15i</name>
-            <uri>https://news.ycombinator.com/user?id=m15i</uri>
         </author>
     </entry>
 </feed>
