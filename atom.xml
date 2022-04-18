@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T19:12:55.205Z</updated>
+    <updated>2022-04-18T19:36:46.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一架直升机将尝试在空中捕捉火箭助推器]]></title>
+        <id>https://news.ycombinator.com/item?id=31075075</id>
+        <link href="https://news.ycombinator.com/item?id=31075075"/>
+        <updated>2022-04-18T19:09:09.000Z</updated>
+        <summary type="html"><![CDATA[A Helicopter Will Try to Catch a Rocket Booster Mid-Air]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们将在银河系的哪里开采锂？]]></title>
         <id>https://news.ycombinator.com/item?id=31074896</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aabdulrahim</name>
             <uri>https://news.ycombinator.com/user?id=aabdulrahim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熟悉Go Workspaces]]></title>
-        <id>https://news.ycombinator.com/item?id=30995029</id>
-        <link href="https://news.ycombinator.com/item?id=30995029"/>
-        <updated>2022-04-11T21:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Get Familiar with Go Workspaces]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
