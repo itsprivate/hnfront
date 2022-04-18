@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T09:33:43.627Z</updated>
+    <updated>2022-04-18T11:13:13.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安全專家在安全審計後宣佈所有寶騰的應用程序都是安全的]]></title>
+        <id>https://news.ycombinator.com/item?id=31068985</id>
+        <link href="https://news.ycombinator.com/item?id=31068985"/>
+        <updated>2022-04-18T10:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Security experts declare all Proton apps secure after security audit]]></summary>
+        <author>
+            <name>chmars</name>
+            <uri>https://news.ycombinator.com/user?id=chmars</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臉書因隱私法威脅離開歐洲 監管機構稱 "請照辦]]></title>
         <id>https://news.ycombinator.com/item?id=31068718</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PeledYuval</name>
             <uri>https://news.ycombinator.com/user?id=PeledYuval</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們是邪教"。比特幣無恥的炒作活動的內幕]]></title>
-        <id>https://news.ycombinator.com/item?id=30986762</id>
-        <link href="https://news.ycombinator.com/item?id=30986762"/>
-        <updated>2022-04-11T10:18:29.000Z</updated>
-        <summary type="html"><![CDATA[‘We’re a Cult’: Inside Bitcoin’s Shameless Hypefest]]></summary>
-        <author>
-            <name>throwaway4good</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway4good</uri>
         </author>
     </entry>
 </feed>
