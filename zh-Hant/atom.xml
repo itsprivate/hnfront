@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T07:41:00.205Z</updated>
+    <updated>2022-04-18T08:55:55.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[60歲之前，智力速度都很高]]></title>
+        <id>https://news.ycombinator.com/item?id=31068388</id>
+        <link href="https://news.ycombinator.com/item?id=31068388"/>
+        <updated>2022-04-18T07:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Mental speed is high until age 60]]></summary>
+        <author>
+            <name>qw</name>
+            <uri>https://news.ycombinator.com/user?id=qw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們是否應該一天吃三頓飯？]]></title>
         <id>https://news.ycombinator.com/item?id=31068170</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>takiwatanga</name>
             <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跳出發行版和詢問其他人選擇的操作系統的缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30986028</id>
-        <link href="https://news.ycombinator.com/item?id=30986028"/>
-        <updated>2022-04-11T08:19:41.000Z</updated>
-        <summary type="html"><![CDATA[The flaws of distro hopping and asking other people about their OS of choice]]></summary>
-        <author>
-            <name>WhyNotHugo</name>
-            <uri>https://news.ycombinator.com/user?id=WhyNotHugo</uri>
         </author>
     </entry>
 </feed>
