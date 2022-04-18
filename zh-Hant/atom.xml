@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T06:40:41.666Z</updated>
+    <updated>2022-04-18T07:41:00.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們是否應該一天吃三頓飯？]]></title>
+        <id>https://news.ycombinator.com/item?id=31068170</id>
+        <link href="https://news.ycombinator.com/item?id=31068170"/>
+        <updated>2022-04-18T07:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Should we be eating three meals a day?]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[決定什麼成為歷史的人]]></title>
         <id>https://news.ycombinator.com/item?id=31049847</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>WhyNotHugo</name>
             <uri>https://news.ycombinator.com/user?id=WhyNotHugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國際象棋、數學和比薩餅中的祖格茲旺]]></title>
-        <id>https://news.ycombinator.com/item?id=30984499</id>
-        <link href="https://news.ycombinator.com/item?id=30984499"/>
-        <updated>2022-04-11T03:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Zugzwang in Chess, Math and Pizzas]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
         </author>
     </entry>
 </feed>
