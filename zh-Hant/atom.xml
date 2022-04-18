@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T05:41:52.428Z</updated>
+    <updated>2022-04-18T06:40:41.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[決定什麼成為歷史的人]]></title>
+        <id>https://news.ycombinator.com/item?id=31049847</id>
+        <link href="https://news.ycombinator.com/item?id=31049847"/>
+        <updated>2022-04-16T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[People Who Decide What Becomes History]]></summary>
+        <author>
+            <name>samclemens</name>
+            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Giggle - 一個自我託管的可定製和無廣告的谷歌搜索界面]]></title>
         <id>https://news.ycombinator.com/item?id=31067354</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舊金山警察因沒有開燈而將一輛Cruise無人駕駛汽車攔下]]></title>
-        <id>https://news.ycombinator.com/item?id=30985843</id>
-        <link href="https://news.ycombinator.com/item?id=30985843"/>
-        <updated>2022-04-11T07:48:27.000Z</updated>
-        <summary type="html"><![CDATA[San Francisco cops pull over a Cruise driverless car for no lights on]]></summary>
-        <author>
-            <name>bmitc</name>
-            <uri>https://news.ycombinator.com/user?id=bmitc</uri>
         </author>
     </entry>
 </feed>
