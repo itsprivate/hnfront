@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T19:36:46.650Z</updated>
+    <updated>2022-04-18T19:52:26.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國上訴法院重申網絡搜刮是合法的]]></title>
+        <id>https://news.ycombinator.com/item?id=31075396</id>
+        <link href="https://news.ycombinator.com/item?id=31075396"/>
+        <updated>2022-04-18T19:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping is legal, US appeals court reaffirms]]></summary>
+        <author>
+            <name>spenvo</name>
+            <uri>https://news.ycombinator.com/user?id=spenvo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何建立一個邪惡的編譯器]]></title>
+        <id>https://news.ycombinator.com/item?id=31062077</id>
+        <link href="https://news.ycombinator.com/item?id=31062077"/>
+        <updated>2022-04-17T16:36:03.000Z</updated>
+        <summary type="html"><![CDATA[How to Build an Evil Compiler]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一架直升機將嘗試在空中捕捉火箭助推器]]></title>
         <id>https://news.ycombinator.com/item?id=31075075</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>aoetalks</name>
             <uri>https://news.ycombinator.com/user?id=aoetalks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國早期共和國對楓糖的讚美]]></title>
-        <id>https://news.ycombinator.com/item?id=30973370</id>
-        <link href="https://news.ycombinator.com/item?id=30973370"/>
-        <updated>2022-04-10T00:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Praising Maple Sugar in the Early American Republic]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Web3不會使世界更平等]]></title>
-        <id>https://news.ycombinator.com/item?id=30995667</id>
-        <link href="https://news.ycombinator.com/item?id=30995667"/>
-        <updated>2022-04-11T22:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Why Web3 won't make the world more equal]]></summary>
-        <author>
-            <name>aabdulrahim</name>
-            <uri>https://news.ycombinator.com/user?id=aabdulrahim</uri>
         </author>
     </entry>
 </feed>
