@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-18T18:17:32.077Z</updated>
+    <updated>2022-04-18T18:41:58.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[没有人想要你的花哨算法]]></title>
+        <id>https://news.ycombinator.com/item?id=31074177</id>
+        <link href="https://news.ycombinator.com/item?id=31074177"/>
+        <updated>2022-04-18T17:56:57.000Z</updated>
+        <summary type="html"><![CDATA[Nobody Wants Your Fancy Algorithm]]></summary>
+        <author>
+            <name>campchase</name>
+            <uri>https://news.ycombinator.com/user?id=campchase</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lambda-the-Ultimate.org发生了什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31073922</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nsedlet</name>
             <uri>https://news.ycombinator.com/user?id=nsedlet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medusa是一个允许将旧电脑连接到现代显示器的设备。]]></title>
-        <id>https://news.ycombinator.com/item?id=30994637</id>
-        <link href="https://news.ycombinator.com/item?id=30994637"/>
-        <updated>2022-04-11T20:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Medusa is a device that allows connecting of old computers to modern displays]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>
