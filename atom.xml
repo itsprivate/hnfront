@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T19:11:50.290Z</updated>
+    <updated>2022-04-19T19:29:24.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哪个电子邮件应用程序可以信任我的数据？]]></title>
+        <id>https://news.ycombinator.com/item?id=31087248</id>
+        <link href="https://news.ycombinator.com/item?id=31087248"/>
+        <updated>2022-04-19T18:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which email app can be trusted with my data?]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly 2.0第一个工作草案]]></title>
+        <id>https://news.ycombinator.com/item?id=31086217</id>
+        <link href="https://news.ycombinator.com/item?id=31086217"/>
+        <updated>2022-04-19T17:36:29.000Z</updated>
+        <summary type="html"><![CDATA[WebAssembly 2.0 First Working Draft]]></summary>
+        <author>
+            <name>syrusakbary</name>
+            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数学不只是严谨和证明 (2007)]]></title>
         <id>https://news.ycombinator.com/item?id=31086970</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>diodorus</name>
             <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyPost (YC S13) 正在招聘远程人员]]></title>
-        <id>https://news.ycombinator.com/item?id=30492462</id>
-        <link href="https://news.ycombinator.com/item?id=30492462"/>
-        <updated>2022-02-27T21:01:20.000Z</updated>
-        <summary type="html"><![CDATA[EasyPost (YC S13) Is Hiring Remote]]></summary>
-        <author>
-            <name>jstreebin</name>
-            <uri>https://news.ycombinator.com/user?id=jstreebin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器学习研究中的剽窃案例]]></title>
-        <id>https://news.ycombinator.com/item?id=31006765</id>
-        <link href="https://news.ycombinator.com/item?id=31006765"/>
-        <updated>2022-04-12T18:46:39.000Z</updated>
-        <summary type="html"><![CDATA[A Case of Plagarism in Machine Learning Research]]></summary>
-        <author>
-            <name>EvgeniyZh</name>
-            <uri>https://news.ycombinator.com/user?id=EvgeniyZh</uri>
         </author>
     </entry>
 </feed>
