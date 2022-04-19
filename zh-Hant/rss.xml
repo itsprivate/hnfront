@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 19 Apr 2022 15:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 15:59:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DALL-E 2如何運作]]></title>
+            <link>https://news.ycombinator.com/item?id=31084312</link>
+            <guid>https://news.ycombinator.com/item?id=31084312</guid>
+            <pubDate>Tue, 19 Apr 2022 15:19:09 GMT</pubDate>
+            <description><![CDATA[How DALL-E 2 Works]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ajax之戰。XMLHttpRequest vs. Fetch API]]></title>
+            <link>https://news.ycombinator.com/item?id=31084264</link>
+            <guid>https://news.ycombinator.com/item?id=31084264</guid>
+            <pubDate>Tue, 19 Apr 2022 15:15:05 GMT</pubDate>
+            <description><![CDATA[Ajax Battle: XMLHttpRequest vs. the Fetch API]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Insteon關機後所有物聯網設備都被燒燬了]]></title>
+            <link>https://news.ycombinator.com/item?id=31083921</link>
+            <guid>https://news.ycombinator.com/item?id=31083921</guid>
+            <pubDate>Tue, 19 Apr 2022 14:50:31 GMT</pubDate>
+            <description><![CDATA[All IoT devices Bricked after Insteon shuts down]]></description>
+        </item>
         <item>
             <title><![CDATA[我們如何升級我們的4TB PostgreSQL數據庫]]></title>
             <link>https://news.ycombinator.com/item?id=31084147</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31005209</guid>
             <pubDate>Tue, 12 Apr 2022 16:54:12 GMT</pubDate>
             <description><![CDATA[WireGuard multihop available in the Mullvad app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你的開發文檔中添加可運行的實時代碼]]></title>
-            <link>https://news.ycombinator.com/item?id=31004973</link>
-            <guid>https://news.ycombinator.com/item?id=31004973</guid>
-            <pubDate>Tue, 12 Apr 2022 16:38:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Add live runnable code to your dev docs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用OAuth2保護你的API的完整指南]]></title>
-            <link>https://news.ycombinator.com/item?id=31004928</link>
-            <guid>https://news.ycombinator.com/item?id=31004928</guid>
-            <pubDate>Tue, 12 Apr 2022 16:34:57 GMT</pubDate>
-            <description><![CDATA[The complete guide to protecting your APIs with OAuth2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[精算壽命表]]></title>
-            <link>https://news.ycombinator.com/item?id=31004783</link>
-            <guid>https://news.ycombinator.com/item?id=31004783</guid>
-            <pubDate>Tue, 12 Apr 2022 16:25:43 GMT</pubDate>
-            <description><![CDATA[Actuarial Life Table]]></description>
         </item>
     </channel>
 </rss>

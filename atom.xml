@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T15:39:28.014Z</updated>
+    <updated>2022-04-19T15:59:06.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DALL-E 2如何运作]]></title>
+        <id>https://news.ycombinator.com/item?id=31084312</id>
+        <link href="https://news.ycombinator.com/item?id=31084312"/>
+        <updated>2022-04-19T15:19:09.000Z</updated>
+        <summary type="html"><![CDATA[How DALL-E 2 Works]]></summary>
+        <author>
+            <name>SleekEagle</name>
+            <uri>https://news.ycombinator.com/user?id=SleekEagle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ajax之战。XMLHttpRequest vs. Fetch API]]></title>
+        <id>https://news.ycombinator.com/item?id=31084264</id>
+        <link href="https://news.ycombinator.com/item?id=31084264"/>
+        <updated>2022-04-19T15:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Ajax Battle: XMLHttpRequest vs. the Fetch API]]></summary>
+        <author>
+            <name>ceeb</name>
+            <uri>https://news.ycombinator.com/user?id=ceeb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insteon关机后所有物联网设备都被烧毁了]]></title>
+        <id>https://news.ycombinator.com/item?id=31083921</id>
+        <link href="https://news.ycombinator.com/item?id=31083921"/>
+        <updated>2022-04-19T14:50:31.000Z</updated>
+        <summary type="html"><![CDATA[All IoT devices Bricked after Insteon shuts down]]></summary>
+        <author>
+            <name>ClumsyPilot</name>
+            <uri>https://news.ycombinator.com/user?id=ClumsyPilot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们如何升级我们的4TB PostgreSQL数据库]]></title>
         <id>https://news.ycombinator.com/item?id=31084147</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>qalter</name>
             <uri>https://news.ycombinator.com/user?id=qalter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的开发文档中添加可运行的实时代码]]></title>
-        <id>https://news.ycombinator.com/item?id=31004973</id>
-        <link href="https://news.ycombinator.com/item?id=31004973"/>
-        <updated>2022-04-12T16:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Add live runnable code to your dev docs]]></summary>
-        <author>
-            <name>mlejva</name>
-            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用OAuth2保护你的API的完整指南]]></title>
-        <id>https://news.ycombinator.com/item?id=31004928</id>
-        <link href="https://news.ycombinator.com/item?id=31004928"/>
-        <updated>2022-04-12T16:34:57.000Z</updated>
-        <summary type="html"><![CDATA[The complete guide to protecting your APIs with OAuth2]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精算寿命表]]></title>
-        <id>https://news.ycombinator.com/item?id=31004783</id>
-        <link href="https://news.ycombinator.com/item?id=31004783"/>
-        <updated>2022-04-12T16:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Actuarial Life Table]]></summary>
-        <author>
-            <name>j765</name>
-            <uri>https://news.ycombinator.com/user?id=j765</uri>
         </author>
     </entry>
 </feed>
