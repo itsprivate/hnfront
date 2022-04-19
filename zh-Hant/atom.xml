@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T19:53:31.523Z</updated>
+    <updated>2022-04-19T20:53:30.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix 10多年來首次失去用戶]]></title>
+        <id>https://news.ycombinator.com/item?id=31088353</id>
+        <link href="https://news.ycombinator.com/item?id=31088353"/>
+        <updated>2022-04-19T20:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Netflix loses subscribers for the first time in 10+ years]]></summary>
+        <author>
+            <name>gordon_freeman</name>
+            <uri>https://news.ycombinator.com/user?id=gordon_freeman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[編寫McCLIM後端--SVG案例研究]]></title>
+        <id>https://news.ycombinator.com/item?id=31086363</id>
+        <link href="https://news.ycombinator.com/item?id=31086363"/>
+        <updated>2022-04-19T17:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Writing McCLIM backends – SVG case study]]></summary>
+        <author>
+            <name>jackdaniel</name>
+            <uri>https://news.ycombinator.com/user?id=jackdaniel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你能保證在俄羅斯方塊中清除一條線嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31087923</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>grappler</name>
             <uri>https://news.ycombinator.com/user?id=grappler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在使用DALL-E方面學到的幾件事]]></title>
-        <id>https://news.ycombinator.com/item?id=31009129</id>
-        <link href="https://news.ycombinator.com/item?id=31009129"/>
-        <updated>2022-04-12T22:43:56.000Z</updated>
-        <summary type="html"><![CDATA[A few things I learned about using DALL·E]]></summary>
-        <author>
-            <name>_bramses</name>
-            <uri>https://news.ycombinator.com/user?id=_bramses</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[墨西哥卡車司機抗議德克薩斯州的新檢查，在邊境橋樑上停止貿易]]></title>
-        <id>https://news.ycombinator.com/item?id=31008860</id>
-        <link href="https://news.ycombinator.com/item?id=31008860"/>
-        <updated>2022-04-12T22:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Mexico truckers protest new Texas inspections, halt trade at border bridges]]></summary>
-        <author>
-            <name>rascul</name>
-            <uri>https://news.ycombinator.com/user?id=rascul</uri>
         </author>
     </entry>
 </feed>
