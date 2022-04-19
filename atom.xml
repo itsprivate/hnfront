@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T05:53:10.860Z</updated>
+    <updated>2022-04-19T06:58:31.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[零信任安全的现状 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31062107</id>
+        <link href="https://news.ycombinator.com/item?id=31062107"/>
+        <updated>2022-04-17T16:39:04.000Z</updated>
+        <summary type="html"><![CDATA[The State of Zero Trust Security [pdf]]]></summary>
+        <author>
+            <name>vmoore</name>
+            <uri>https://news.ycombinator.com/user?id=vmoore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[远距离工作？将SSH与Teleport配对]]></title>
         <id>https://news.ycombinator.com/item?id=31061905</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>slightknack</name>
             <uri>https://news.ycombinator.com/user?id=slightknack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript编译器如何编译]]></title>
-        <id>https://news.ycombinator.com/item?id=30974581</id>
-        <link href="https://news.ycombinator.com/item?id=30974581"/>
-        <updated>2022-04-10T04:59:24.000Z</updated>
-        <summary type="html"><![CDATA[How the TypeScript Complier Compiles]]></summary>
-        <author>
-            <name>knlam</name>
-            <uri>https://news.ycombinator.com/user?id=knlam</uri>
         </author>
     </entry>
 </feed>
