@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 19 Apr 2022 03:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 04:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Nixery - 使用Nix飞行的Docker图像]]></title>
+            <link>https://news.ycombinator.com/item?id=31079144</link>
+            <guid>https://news.ycombinator.com/item?id=31079144</guid>
+            <pubDate>Tue, 19 Apr 2022 02:13:11 GMT</pubDate>
+            <description><![CDATA[Nixery – Docker images on the fly with Nix]]></description>
+        </item>
+        <item>
+            <title><![CDATA["长期支持 "Unix和其中的软件版本]]></title>
+            <link>https://news.ycombinator.com/item?id=31062066</link>
+            <guid>https://news.ycombinator.com/item?id=31062066</guid>
+            <pubDate>Sun, 17 Apr 2022 16:35:05 GMT</pubDate>
+            <description><![CDATA[“Long term support” Unixes and versions of software in them]]></description>
+        </item>
         <item>
             <title><![CDATA[蝶变与固件 - 我们要怎么做呢？]]></title>
             <link>https://news.ycombinator.com/item?id=31079253</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30975489</guid>
             <pubDate>Sun, 10 Apr 2022 09:04:40 GMT</pubDate>
             <description><![CDATA[The journey of the electronic plastic bottle (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[虫子的分类学]]></title>
-            <link>https://news.ycombinator.com/item?id=30999225</link>
-            <guid>https://news.ycombinator.com/item?id=30999225</guid>
-            <pubDate>Tue, 12 Apr 2022 06:14:36 GMT</pubDate>
-            <description><![CDATA[A Taxonomy of Bugs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AWS RDS漏洞导致AWS内部服务凭证失效]]></title>
-            <link>https://news.ycombinator.com/item?id=30996426</link>
-            <guid>https://news.ycombinator.com/item?id=30996426</guid>
-            <pubDate>Mon, 11 Apr 2022 23:14:44 GMT</pubDate>
-            <description><![CDATA[AWS RDS Vulnerability Leads to AWS Internal Service Credentials]]></description>
         </item>
     </channel>
 </rss>

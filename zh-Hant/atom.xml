@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T03:51:28.524Z</updated>
+    <updated>2022-04-19T04:22:29.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nixery - 使用Nix飛行的Docker圖像]]></title>
+        <id>https://news.ycombinator.com/item?id=31079144</id>
+        <link href="https://news.ycombinator.com/item?id=31079144"/>
+        <updated>2022-04-19T02:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Nixery – Docker images on the fly with Nix]]></summary>
+        <author>
+            <name>merlinscholz</name>
+            <uri>https://news.ycombinator.com/user?id=merlinscholz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["長期支持 "Unix和其中的軟件版本]]></title>
+        <id>https://news.ycombinator.com/item?id=31062066</id>
+        <link href="https://news.ycombinator.com/item?id=31062066"/>
+        <updated>2022-04-17T16:35:05.000Z</updated>
+        <summary type="html"><![CDATA[“Long term support” Unixes and versions of software in them]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蝶變與固件 - 我們要怎麼做呢？]]></title>
         <id>https://news.ycombinator.com/item?id=31079253</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蟲子的分類學]]></title>
-        <id>https://news.ycombinator.com/item?id=30999225</id>
-        <link href="https://news.ycombinator.com/item?id=30999225"/>
-        <updated>2022-04-12T06:14:36.000Z</updated>
-        <summary type="html"><![CDATA[A Taxonomy of Bugs]]></summary>
-        <author>
-            <name>pmarin</name>
-            <uri>https://news.ycombinator.com/user?id=pmarin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS RDS漏洞導致AWS內部服務憑證失效]]></title>
-        <id>https://news.ycombinator.com/item?id=30996426</id>
-        <link href="https://news.ycombinator.com/item?id=30996426"/>
-        <updated>2022-04-11T23:14:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS RDS Vulnerability Leads to AWS Internal Service Credentials]]></summary>
-        <author>
-            <name>WalterSobchak</name>
-            <uri>https://news.ycombinator.com/user?id=WalterSobchak</uri>
         </author>
     </entry>
 </feed>
