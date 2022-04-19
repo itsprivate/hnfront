@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T21:12:48.483Z</updated>
+    <updated>2022-04-19T21:40:57.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[秦始皇兵馬俑是中國歷史上最古老的兵馬俑之一，也是世界上最古老的兵馬俑之一。]]></title>
+        <id>https://news.ycombinator.com/item?id=31087175</id>
+        <link href="https://news.ycombinator.com/item?id=31087175"/>
+        <updated>2022-04-19T18:43:03.000Z</updated>
+        <summary type="html"><![CDATA[HackerRank (YC S11) Has DMCA'ed the SymPy Docs]]></summary>
+        <author>
+            <name>kilovoltaire</name>
+            <uri>https://news.ycombinator.com/user?id=kilovoltaire</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rescale (YC W12)正在招聘軟件工程師]]></title>
         <id>https://news.ycombinator.com/item?id=31089071</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>delsarto</name>
             <uri>https://news.ycombinator.com/user?id=delsarto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[籌資實驗的回顧（2019年）]]></title>
-        <id>https://news.ycombinator.com/item?id=31000473</id>
-        <link href="https://news.ycombinator.com/item?id=31000473"/>
-        <updated>2022-04-12T09:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Recap of the funding experiment (2019)]]></summary>
-        <author>
-            <name>manigandham</name>
-            <uri>https://news.ycombinator.com/user?id=manigandham</uri>
         </author>
     </entry>
 </feed>
