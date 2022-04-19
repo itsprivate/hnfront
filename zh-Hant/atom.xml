@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T21:40:57.854Z</updated>
+    <updated>2022-04-19T22:37:23.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[框架 筆記本電腦主機板]]></title>
+        <id>https://news.ycombinator.com/item?id=31089677</id>
+        <link href="https://news.ycombinator.com/item?id=31089677"/>
+        <updated>2022-04-19T21:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Framework Laptop Mainboard]]></summary>
+        <author>
+            <name>hecanjog</name>
+            <uri>https://news.ycombinator.com/user?id=hecanjog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jepsen測試rqlite，建立在Raft和SQLite上的分佈式數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=31089363</id>
+        <link href="https://news.ycombinator.com/item?id=31089363"/>
+        <updated>2022-04-19T21:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Jepsen testing rqlite, the distributed database built on Raft and SQLite]]></summary>
+        <author>
+            <name>otoolep</name>
+            <uri>https://news.ycombinator.com/user?id=otoolep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秦始皇兵馬俑是中國歷史上最古老的兵馬俑之一，也是世界上最古老的兵馬俑之一。]]></title>
         <id>https://news.ycombinator.com/item?id=31087175</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>taspeotis</name>
             <uri>https://news.ycombinator.com/user?id=taspeotis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在新的試驗中，寬帶電纜將通過水管鋪設]]></title>
-        <id>https://news.ycombinator.com/item?id=30986999</id>
-        <link href="https://news.ycombinator.com/item?id=30986999"/>
-        <updated>2022-04-11T10:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Broadband cables to be routed through water pipes in new trial]]></summary>
-        <author>
-            <name>OJFord</name>
-            <uri>https://news.ycombinator.com/user?id=OJFord</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git 2.30.3 不會在非自有目錄下運行]]></title>
-        <id>https://news.ycombinator.com/item?id=31009675</id>
-        <link href="https://news.ycombinator.com/item?id=31009675"/>
-        <updated>2022-04-13T00:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Git 2.30.3 will not operate in non-owned directories]]></summary>
-        <author>
-            <name>delsarto</name>
-            <uri>https://news.ycombinator.com/user?id=delsarto</uri>
         </author>
     </entry>
 </feed>

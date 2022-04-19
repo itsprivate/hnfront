@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 19 Apr 2022 21:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 22:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[框架 笔记本电脑主机板]]></title>
+            <link>https://news.ycombinator.com/item?id=31089677</link>
+            <guid>https://news.ycombinator.com/item?id=31089677</guid>
+            <pubDate>Tue, 19 Apr 2022 21:43:41 GMT</pubDate>
+            <description><![CDATA[Framework Laptop Mainboard]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jepsen测试rqlite，建立在Raft和SQLite上的分布式数据库]]></title>
+            <link>https://news.ycombinator.com/item?id=31089363</link>
+            <guid>https://news.ycombinator.com/item?id=31089363</guid>
+            <pubDate>Tue, 19 Apr 2022 21:19:28 GMT</pubDate>
+            <description><![CDATA[Jepsen testing rqlite, the distributed database built on Raft and SQLite]]></description>
+        </item>
         <item>
             <title><![CDATA[秦始皇兵马俑是中国历史上最古老的兵马俑之一，也是世界上最古老的兵马俑之一。]]></title>
             <link>https://news.ycombinator.com/item?id=31087175</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31010501</guid>
             <pubDate>Wed, 13 Apr 2022 02:12:11 GMT</pubDate>
             <description><![CDATA[Update on the Atlassian outage affecting some customers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在新的试验中，宽带电缆将通过水管铺设]]></title>
-            <link>https://news.ycombinator.com/item?id=30986999</link>
-            <guid>https://news.ycombinator.com/item?id=30986999</guid>
-            <pubDate>Mon, 11 Apr 2022 10:56:51 GMT</pubDate>
-            <description><![CDATA[Broadband cables to be routed through water pipes in new trial]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Git 2.30.3 不会在非自有目录下运行]]></title>
-            <link>https://news.ycombinator.com/item?id=31009675</link>
-            <guid>https://news.ycombinator.com/item?id=31009675</guid>
-            <pubDate>Wed, 13 Apr 2022 00:02:29 GMT</pubDate>
-            <description><![CDATA[Git 2.30.3 will not operate in non-owned directories]]></description>
         </item>
     </channel>
 </rss>
