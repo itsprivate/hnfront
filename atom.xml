@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T08:39:52.993Z</updated>
+    <updated>2022-04-19T09:13:17.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安装在隐形眼镜中的LED，可用于虚拟/增强现实显示]]></title>
+        <id>https://news.ycombinator.com/item?id=31060377</id>
+        <link href="https://news.ycombinator.com/item?id=31060377"/>
+        <updated>2022-04-17T12:26:27.000Z</updated>
+        <summary type="html"><![CDATA[LED mounted in a contact lens for possible virtual / augmented reality displays]]></summary>
+        <author>
+            <name>mhb</name>
+            <uri>https://news.ycombinator.com/user?id=mhb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[努尔岛，最真实的虚构之地 [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=31080519</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cwwc</name>
             <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[树莓的免费固件进展如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=31000725</id>
-        <link href="https://news.ycombinator.com/item?id=31000725"/>
-        <updated>2022-04-12T10:23:23.000Z</updated>
-        <summary type="html"><![CDATA[How is the free firmware for the Raspberry progressing?]]></summary>
-        <author>
-            <name>JNRowe</name>
-            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
         </author>
     </entry>
 </feed>
