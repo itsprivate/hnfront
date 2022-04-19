@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T05:04:55.862Z</updated>
+    <updated>2022-04-19T05:53:10.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[远距离工作？将SSH与Teleport配对]]></title>
+        <id>https://news.ycombinator.com/item?id=31061905</id>
+        <link href="https://news.ycombinator.com/item?id=31061905"/>
+        <updated>2022-04-17T16:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Working Remotely? Pair SSH with Teleport]]></summary>
+        <author>
+            <name>ashitlerferad</name>
+            <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[模拟 "莫斯科 "号沉没的战争游戏]]></title>
         <id>https://news.ycombinator.com/item?id=31079574</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>knlam</name>
             <uri>https://news.ycombinator.com/user?id=knlam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天我向一家银行申请常规抵押贷款，他们说不行。]]></title>
-        <id>https://news.ycombinator.com/item?id=30999974</id>
-        <link href="https://news.ycombinator.com/item?id=30999974"/>
-        <updated>2022-04-12T08:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Today I asked a bank for a conventional mortgage and they said NO]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
