@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T12:22:18.748Z</updated>
+    <updated>2022-04-19T13:06:15.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[坦克已经死了。标枪、弹簧刀、......万岁？]]></title>
+        <id>https://news.ycombinator.com/item?id=31082046</id>
+        <link href="https://news.ycombinator.com/item?id=31082046"/>
+        <updated>2022-04-19T12:10:15.000Z</updated>
+        <summary type="html"><![CDATA[The tank is dead: Long live the javelin, the switchblade, the ... ?]]></summary>
+        <author>
+            <name>therealchiggs</name>
+            <uri>https://news.ycombinator.com/user?id=therealchiggs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个博客，是一个单一的可执行二进制文件]]></title>
+        <id>https://news.ycombinator.com/item?id=31081049</id>
+        <link href="https://news.ycombinator.com/item?id=31081049"/>
+        <updated>2022-04-19T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog that is a single executable binary]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个复杂的十年的脉动全景图]]></title>
+        <id>https://news.ycombinator.com/item?id=31063913</id>
+        <link href="https://news.ycombinator.com/item?id=31063913"/>
+        <updated>2022-04-17T20:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Pulsating Panorama of a Complex Decade]]></summary>
+        <author>
+            <name>pepys</name>
+            <uri>https://news.ycombinator.com/user?id=pepys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PolicyFly (YC W22) 正在招聘高级后端工程师(远程)]]></title>
         <id>https://news.ycombinator.com/item?id=31081990</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>nihkolberg</name>
             <uri>https://news.ycombinator.com/user?id=nihkolberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现独立网络，每次都是一篇博文]]></title>
-        <id>https://news.ycombinator.com/item?id=31002171</id>
-        <link href="https://news.ycombinator.com/item?id=31002171"/>
-        <updated>2022-04-12T13:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Discover the IndieWeb, one blog post at a time]]></summary>
-        <author>
-            <name>splitbrain</name>
-            <uri>https://news.ycombinator.com/user?id=splitbrain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月消费者价格上涨8.5%--1981年以来最高]]></title>
-        <id>https://news.ycombinator.com/item?id=31002002</id>
-        <link href="https://news.ycombinator.com/item?id=31002002"/>
-        <updated>2022-04-12T12:56:17.000Z</updated>
-        <summary type="html"><![CDATA[Consumer prices rose 8.5% in March – highest since 1981]]></summary>
-        <author>
-            <name>arbuge</name>
-            <uri>https://news.ycombinator.com/user?id=arbuge</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monocle - 双向的代码生成库]]></title>
-        <id>https://news.ycombinator.com/item?id=31001922</id>
-        <link href="https://news.ycombinator.com/item?id=31001922"/>
-        <updated>2022-04-12T12:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Monocle – bidirectional code generation library]]></summary>
-        <author>
-            <name>lucasluitjes</name>
-            <uri>https://news.ycombinator.com/user?id=lucasluitjes</uri>
         </author>
     </entry>
 </feed>
