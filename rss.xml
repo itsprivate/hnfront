@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 19 Apr 2022 20:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 21:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rescale (YC W12)正在招聘软件工程师]]></title>
+            <link>https://news.ycombinator.com/item?id=31089071</link>
+            <guid>https://news.ycombinator.com/item?id=31089071</guid>
+            <pubDate>Tue, 19 Apr 2022 21:00:52 GMT</pubDate>
+            <description><![CDATA[Rescale (YC W12) Is Hiring Software Engineers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[服务器端渲染的荒谬复杂性]]></title>
+            <link>https://news.ycombinator.com/item?id=31087795</link>
+            <guid>https://news.ycombinator.com/item?id=31087795</guid>
+            <pubDate>Tue, 19 Apr 2022 19:30:58 GMT</pubDate>
+            <description><![CDATA[The absurd complexity of server-side rendering]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Mapr: Rust中的原生跨平台地图]]></title>
+            <link>https://news.ycombinator.com/item?id=31086087</link>
+            <guid>https://news.ycombinator.com/item?id=31086087</guid>
+            <pubDate>Tue, 19 Apr 2022 17:24:54 GMT</pubDate>
+            <description><![CDATA[Mapr: Native cross platform maps in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[Netflix 10多年来首次失去用户]]></title>
             <link>https://news.ycombinator.com/item?id=31088353</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31000473</guid>
             <pubDate>Tue, 12 Apr 2022 09:43:07 GMT</pubDate>
             <description><![CDATA[Recap of the funding experiment (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shine: 一个超快的定点MP3编码器]]></title>
-            <link>https://news.ycombinator.com/item?id=30998693</link>
-            <guid>https://news.ycombinator.com/item?id=30998693</guid>
-            <pubDate>Tue, 12 Apr 2022 04:40:38 GMT</pubDate>
-            <description><![CDATA[Shine: A super fast fixed-point MP3 encoder]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新研究揭示了迁徙鸟类的碰撞热点]]></title>
-            <link>https://news.ycombinator.com/item?id=31000063</link>
-            <guid>https://news.ycombinator.com/item?id=31000063</guid>
-            <pubDate>Tue, 12 Apr 2022 08:37:32 GMT</pubDate>
-            <description><![CDATA[Collision hotspots for migrating birds revealed in new study]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的命令行工具列表 - Julia Evans]]></title>
-            <link>https://news.ycombinator.com/item?id=31009313</link>
-            <guid>https://news.ycombinator.com/item?id=31009313</guid>
-            <pubDate>Tue, 12 Apr 2022 23:08:52 GMT</pubDate>
-            <description><![CDATA[A list of new(ish) command line tools – Julia Evans]]></description>
         </item>
     </channel>
 </rss>
