@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T13:43:28.825Z</updated>
+    <updated>2022-04-19T14:03:07.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[降低鈉的攝入量對心臟病患者沒有幫助]]></title>
+        <id>https://news.ycombinator.com/item?id=31081529</id>
+        <link href="https://news.ycombinator.com/item?id=31081529"/>
+        <updated>2022-04-19T10:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Lowering sodium intake doesn’t help heart patients]]></summary>
+        <author>
+            <name>johndcook</name>
+            <uri>https://news.ycombinator.com/user?id=johndcook</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32 SSH服務器 - 通過遠程SSH連接到ESP32 UART的Tx/Rx引腳]]></title>
+        <id>https://news.ycombinator.com/item?id=31081227</id>
+        <link href="https://news.ycombinator.com/item?id=31081227"/>
+        <updated>2022-04-19T09:47:36.000Z</updated>
+        <summary type="html"><![CDATA[ESP32 SSH Server – Connect to Tx/Rx Pins on ESP32 UART via Remote SSH]]></summary>
+        <author>
+            <name>svermigo</name>
+            <uri>https://news.ycombinator.com/user?id=svermigo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每個人都會弄錯數字，即使是《紐約時報》也不例外]]></title>
         <id>https://news.ycombinator.com/item?id=31082687</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Sean-Der</name>
             <uri>https://news.ycombinator.com/user?id=Sean-Der</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭示大英圖書館的版畫]]></title>
-        <id>https://news.ycombinator.com/item?id=30984577</id>
-        <link href="https://news.ycombinator.com/item?id=30984577"/>
-        <updated>2022-04-11T04:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Revealing Prints at the British Library]]></summary>
-        <author>
-            <name>drdee</name>
-            <uri>https://news.ycombinator.com/user?id=drdee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zapier。50億美元的鬆綁機會]]></title>
-        <id>https://news.ycombinator.com/item?id=31003071</id>
-        <link href="https://news.ycombinator.com/item?id=31003071"/>
-        <updated>2022-04-12T14:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Zapier: The $5B Unbundling Opportunity]]></summary>
-        <author>
-            <name>georgesequeira</name>
-            <uri>https://news.ycombinator.com/user?id=georgesequeira</uri>
         </author>
     </entry>
 </feed>
