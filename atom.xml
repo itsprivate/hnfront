@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T09:13:17.434Z</updated>
+    <updated>2022-04-19T10:14:45.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[梦想比任何人想象的都要真实 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=31061581</id>
+        <link href="https://news.ycombinator.com/item?id=31061581"/>
+        <updated>2022-04-17T15:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Dreams Are More Real Than Anyone Thought (2021)]]></summary>
+        <author>
+            <name>devy</name>
+            <uri>https://news.ycombinator.com/user?id=devy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安装在隐形眼镜中的LED，可用于虚拟/增强现实显示]]></title>
         <id>https://news.ycombinator.com/item?id=31060377</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前新疆囚犯抵达美国，成为虐待行为的关键证人]]></title>
-        <id>https://news.ycombinator.com/item?id=31000744</id>
-        <link href="https://news.ycombinator.com/item?id=31000744"/>
-        <updated>2022-04-12T10:26:26.000Z</updated>
-        <summary type="html"><![CDATA[Former Xinjiang prisoner arrives in U.S. as key witness to abuses]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
