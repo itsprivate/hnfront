@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T15:15:08.937Z</updated>
+    <updated>2022-04-19T15:39:28.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們如何升級我們的4TB PostgreSQL數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=31084147</id>
+        <link href="https://news.ycombinator.com/item?id=31084147"/>
+        <updated>2022-04-19T15:07:10.000Z</updated>
+        <summary type="html"><![CDATA[How we upgraded our 4TB PostgreSQL database]]></summary>
+        <author>
+            <name>mrbabbage</name>
+            <uri>https://news.ycombinator.com/user?id=mrbabbage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欺騙引擎包含GPL許可的代碼，但不允許商業使用。]]></title>
+        <id>https://news.ycombinator.com/item?id=31084128</id>
+        <link href="https://news.ycombinator.com/item?id=31084128"/>
+        <updated>2022-04-19T15:05:55.000Z</updated>
+        <summary type="html"><![CDATA[Cheat Engine contains GPL-licensed code but disallows commercial use]]></summary>
+        <author>
+            <name>btdmaster</name>
+            <uri>https://news.ycombinator.com/user?id=btdmaster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Commodore 64 - We Are Stardust [視頻]]]></title>
         <id>https://news.ycombinator.com/item?id=31061249</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>j765</name>
             <uri>https://news.ycombinator.com/user?id=j765</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在緩慢的開始之後，CNN+將進行大規模削減]]></title>
-        <id>https://news.ycombinator.com/item?id=31003729</id>
-        <link href="https://news.ycombinator.com/item?id=31003729"/>
-        <updated>2022-04-12T15:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Big cuts coming for CNN+ after slow start]]></summary>
-        <author>
-            <name>uptown</name>
-            <uri>https://news.ycombinator.com/user?id=uptown</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼得到一份工作並不是擺脫貧困的門票]]></title>
-        <id>https://news.ycombinator.com/item?id=31003580</id>
-        <link href="https://news.ycombinator.com/item?id=31003580"/>
-        <updated>2022-04-12T14:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Why getting a job isn't a ticket out of poverty]]></summary>
-        <author>
-            <name>aabdulrahim</name>
-            <uri>https://news.ycombinator.com/user?id=aabdulrahim</uri>
         </author>
     </entry>
 </feed>
