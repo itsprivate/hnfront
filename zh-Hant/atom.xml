@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T17:23:23.559Z</updated>
+    <updated>2022-04-19T17:49:16.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究人員發現，"最大的混蛋 "往往是中年男子]]></title>
+        <id>https://news.ycombinator.com/item?id=31086129</id>
+        <link href="https://news.ycombinator.com/item?id=31086129"/>
+        <updated>2022-04-19T17:28:36.000Z</updated>
+        <summary type="html"><![CDATA[“Biggest Assholes,” Often Middle-Aged Men, Researchers Discover]]></summary>
+        <author>
+            <name>bcaulfield</name>
+            <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Massdriver (YC W22)正在招聘一名首席Elixir工程師]]></title>
         <id>https://news.ycombinator.com/item?id=31085758</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>taubek</name>
             <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為你做了一個網站，以第一人稱POV的方式環遊世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30970911</id>
-        <link href="https://news.ycombinator.com/item?id=30970911"/>
-        <updated>2022-04-09T18:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a website for you to travel the world in first-person POV]]></summary>
-        <author>
-            <name>eddieweng</name>
-            <uri>https://news.ycombinator.com/user?id=eddieweng</uri>
         </author>
     </entry>
 </feed>
