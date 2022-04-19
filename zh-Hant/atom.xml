@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T11:13:27.713Z</updated>
+    <updated>2022-04-19T11:51:42.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[31%的加拿大人的收入不足以支付他們的賬單。調查顯示]]></title>
+        <id>https://news.ycombinator.com/item?id=31081347</id>
+        <link href="https://news.ycombinator.com/item?id=31081347"/>
+        <updated>2022-04-19T10:15:22.000Z</updated>
+        <summary type="html"><![CDATA[31% of Canadians don't earn enough to pay their bills: Survey]]></summary>
+        <author>
+            <name>okasaki</name>
+            <uri>https://news.ycombinator.com/user?id=okasaki</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加拿大禁止外國購房者兩年]]></title>
         <id>https://news.ycombinator.com/item?id=31081417</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throw1138</name>
             <uri>https://news.ycombinator.com/user?id=throw1138</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo瀏覽器Mac版進入測試階段（有等待名單）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31001518</id>
-        <link href="https://news.ycombinator.com/item?id=31001518"/>
-        <updated>2022-04-12T12:13:38.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo browser for Mac in Beta (with waitlist)]]></summary>
-        <author>
-            <name>ripap</name>
-            <uri>https://news.ycombinator.com/user?id=ripap</uri>
         </author>
     </entry>
 </feed>
