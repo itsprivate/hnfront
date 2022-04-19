@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T15:59:06.918Z</updated>
+    <updated>2022-04-19T16:16:25.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[利用未來的天王星和海王星任務對暗物質進行局部探測]]></title>
+        <id>https://news.ycombinator.com/item?id=31084401</id>
+        <link href="https://news.ycombinator.com/item?id=31084401"/>
+        <updated>2022-04-19T15:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Local detection of dark matter with future missions to Uranus and Neptune]]></summary>
+        <author>
+            <name>ArtWomb</name>
+            <uri>https://news.ycombinator.com/user?id=ArtWomb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify邊緣功能。由Deno支持的新的無服務器運行時間]]></title>
+        <id>https://news.ycombinator.com/item?id=31084301</id>
+        <link href="https://news.ycombinator.com/item?id=31084301"/>
+        <updated>2022-04-19T15:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Netlify Edge Functions: A new serverless runtime powered by Deno]]></summary>
+        <author>
+            <name>csmajorfive</name>
+            <uri>https://news.ycombinator.com/user?id=csmajorfive</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個鬧鬼的地方。一個民族失去其文化的地方]]></title>
+        <id>https://news.ycombinator.com/item?id=31068031</id>
+        <link href="https://news.ycombinator.com/item?id=31068031"/>
+        <updated>2022-04-18T06:35:56.000Z</updated>
+        <summary type="html"><![CDATA[A Haunted Place: The Land Where a People Lost Their Culture]]></summary>
+        <author>
+            <name>vector_spaces</name>
+            <uri>https://news.ycombinator.com/user?id=vector_spaces</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DALL-E 2如何運作]]></title>
         <id>https://news.ycombinator.com/item?id=31084312</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌驅動器。取代存儲在多個位置的文件和文件夾的快捷方式]]></title>
-        <id>https://news.ycombinator.com/item?id=31005330</id>
-        <link href="https://news.ycombinator.com/item?id=31005330"/>
-        <updated>2022-04-12T17:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Google Drive: Shortcuts replacing files and folders stored in multiple locations]]></summary>
-        <author>
-            <name>cube00</name>
-            <uri>https://news.ycombinator.com/user?id=cube00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great Question (YC W21) 正在招聘高級客戶執行員]]></title>
-        <id>https://news.ycombinator.com/item?id=31005324</id>
-        <link href="https://news.ycombinator.com/item?id=31005324"/>
-        <updated>2022-04-12T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Great Question (YC W21) Is Hiring Senior Account Exec]]></summary>
-        <author>
-            <name>nedwin</name>
-            <uri>https://news.ycombinator.com/user?id=nedwin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mullvad應用程序中提供WireGuard多跳功能]]></title>
-        <id>https://news.ycombinator.com/item?id=31005209</id>
-        <link href="https://news.ycombinator.com/item?id=31005209"/>
-        <updated>2022-04-12T16:54:12.000Z</updated>
-        <summary type="html"><![CDATA[WireGuard multihop available in the Mullvad app]]></summary>
-        <author>
-            <name>qalter</name>
-            <uri>https://news.ycombinator.com/user?id=qalter</uri>
         </author>
     </entry>
 </feed>
