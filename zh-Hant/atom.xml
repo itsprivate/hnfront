@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T14:03:07.002Z</updated>
+    <updated>2022-04-19T14:13:29.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Srcset and Sizes (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=31061916</id>
+        <link href="https://news.ycombinator.com/item?id=31061916"/>
+        <updated>2022-04-17T16:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Srcset and Sizes (2014)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[降低鈉的攝入量對心臟病患者沒有幫助]]></title>
         <id>https://news.ycombinator.com/item?id=31081529</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ilovecaching</name>
             <uri>https://news.ycombinator.com/user?id=ilovecaching</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AV1和WebRTC]]></title>
-        <id>https://news.ycombinator.com/item?id=31003111</id>
-        <link href="https://news.ycombinator.com/item?id=31003111"/>
-        <updated>2022-04-12T14:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AV1 and WebRTC]]></summary>
-        <author>
-            <name>Sean-Der</name>
-            <uri>https://news.ycombinator.com/user?id=Sean-Der</uri>
         </author>
     </entry>
 </feed>
