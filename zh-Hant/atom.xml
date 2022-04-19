@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-19T18:15:39.089Z</updated>
+    <updated>2022-04-19T18:41:29.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌文檔將 "警告你遠離不適當的詞彙"]]></title>
+        <id>https://news.ycombinator.com/item?id=31086310</id>
+        <link href="https://news.ycombinator.com/item?id=31086310"/>
+        <updated>2022-04-19T17:43:20.000Z</updated>
+        <summary type="html"><![CDATA[Google Docs will “warn you away from inappropriate words”]]></summary>
+        <author>
+            <name>memish</name>
+            <uri>https://news.ycombinator.com/user?id=memish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在機器學習模型中植入不可察覺的後門]]></title>
+        <id>https://news.ycombinator.com/item?id=31064787</id>
+        <link href="https://news.ycombinator.com/item?id=31064787"/>
+        <updated>2022-04-17T21:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Planting Undetectable Backdoors in Machine Learning Models]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用RP2040處理音頻]]></title>
         <id>https://news.ycombinator.com/item?id=31068635</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hnburnsy</name>
             <uri>https://news.ycombinator.com/user?id=hnburnsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鼓勵自我懷疑]]></title>
-        <id>https://news.ycombinator.com/item?id=30990443</id>
-        <link href="https://news.ycombinator.com/item?id=30990443"/>
-        <updated>2022-04-11T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Encouraging Self-Doubt]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假藝術家問題比你意識到的要嚴重得多]]></title>
-        <id>https://news.ycombinator.com/item?id=31004588</id>
-        <link href="https://news.ycombinator.com/item?id=31004588"/>
-        <updated>2022-04-12T16:11:45.000Z</updated>
-        <summary type="html"><![CDATA[The Fake Artists Problem Is Much Worse Than You Realize]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
         </author>
     </entry>
 </feed>
