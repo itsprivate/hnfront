@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T07:13:16.411Z</updated>
+    <updated>2022-04-20T08:14:53.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用SQL分析iMessage]]></title>
+        <id>https://news.ycombinator.com/item?id=31066656</id>
+        <link href="https://news.ycombinator.com/item?id=31066656"/>
+        <updated>2022-04-18T02:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing iMessage with SQL]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opvia (YC S20)正在伦敦招聘人员]]></title>
         <id>https://news.ycombinator.com/item?id=31093663</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prashantb</name>
             <uri>https://news.ycombinator.com/user?id=prashantb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[点阵图的历史]]></title>
-        <id>https://news.ycombinator.com/item?id=31001126</id>
-        <link href="https://news.ycombinator.com/item?id=31001126"/>
-        <updated>2022-04-12T11:27:59.000Z</updated>
-        <summary type="html"><![CDATA[A Dotfile History]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
