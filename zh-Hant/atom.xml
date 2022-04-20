@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T04:04:21.893Z</updated>
+    <updated>2022-04-20T05:27:52.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[停止用Regex驗證電子郵件地址 (2012)]]></title>
+        <id>https://news.ycombinator.com/item?id=31092912</id>
+        <link href="https://news.ycombinator.com/item?id=31092912"/>
+        <updated>2022-04-20T04:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Stop Validating Email Addresses with Regex (2012)]]></summary>
+        <author>
+            <name>gitgud</name>
+            <uri>https://news.ycombinator.com/user?id=gitgud</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在OpenBSD下與本地IPMI對話]]></title>
+        <id>https://news.ycombinator.com/item?id=31079878</id>
+        <link href="https://news.ycombinator.com/item?id=31079878"/>
+        <updated>2022-04-19T05:00:39.000Z</updated>
+        <summary type="html"><![CDATA[How to talk to a local IPMI under OpenBSD]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找風險投資工作的招聘網站]]></title>
         <id>https://news.ycombinator.com/item?id=31092262</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3：由風險投資公司資助的證券欺詐的吉格經濟]]></title>
-        <id>https://news.ycombinator.com/item?id=31011894</id>
-        <link href="https://news.ycombinator.com/item?id=31011894"/>
-        <updated>2022-04-13T06:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Web3: A VC-funded gig economy of securities fraud]]></summary>
-        <author>
-            <name>mhoad</name>
-            <uri>https://news.ycombinator.com/user?id=mhoad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svix Webhook服務（YC W21）正在招聘一名Rust後端工程師（遠程）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31011920</id>
-        <link href="https://news.ycombinator.com/item?id=31011920"/>
-        <updated>2022-04-13T07:00:28.000Z</updated>
-        <summary type="html"><![CDATA[The Svix Webhook Service (YC W21) Is Hiring a Rust Back End Engineer (Remote)]]></summary>
-        <author>
-            <name>tasn</name>
-            <uri>https://news.ycombinator.com/user?id=tasn</uri>
         </author>
     </entry>
 </feed>
