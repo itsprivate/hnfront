@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 18:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["年度密碼錯誤"。ECDSA簽名在Java中被破解]]></title>
+            <link>https://news.ycombinator.com/item?id=31100439</link>
+            <guid>https://news.ycombinator.com/item?id=31100439</guid>
+            <pubDate>Wed, 20 Apr 2022 17:45:34 GMT</pubDate>
+            <description><![CDATA[“Crypto bug of the year”: ECDSA signatures broken in Java]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一所大學向拒絕使用學生代名詞的教授支付40萬美金]]></title>
+            <link>https://news.ycombinator.com/item?id=31100011</link>
+            <guid>https://news.ycombinator.com/item?id=31100011</guid>
+            <pubDate>Wed, 20 Apr 2022 17:12:03 GMT</pubDate>
+            <description><![CDATA[A university pays $400K to professor who refused to use a student's pronouns]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你是那個混蛋嗎？- 人工智能驅動的AITA回答機器人]]></title>
+            <link>https://news.ycombinator.com/item?id=31099655</link>
+            <guid>https://news.ycombinator.com/item?id=31099655</guid>
+            <pubDate>Wed, 20 Apr 2022 16:45:00 GMT</pubDate>
+            <description><![CDATA[Are You the Asshole? – AI Powered AITA Answer Bot]]></description>
+        </item>
         <item>
             <title><![CDATA[在Brave搜索中的討論：搜索結果中的真實人類答案]]></title>
             <link>https://news.ycombinator.com/item?id=31099450</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31019234</guid>
             <pubDate>Wed, 13 Apr 2022 19:38:40 GMT</pubDate>
             <description><![CDATA[Why Discord is switching from Go to Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Let's Encrypt獲得列夫琴現實世界密碼學獎]]></title>
-            <link>https://news.ycombinator.com/item?id=31018436</link>
-            <guid>https://news.ycombinator.com/item?id=31018436</guid>
-            <pubDate>Wed, 13 Apr 2022 18:34:50 GMT</pubDate>
-            <description><![CDATA[Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是否創建了只供你個人使用的程序？]]></title>
-            <link>https://news.ycombinator.com/item?id=31018836</link>
-            <guid>https://news.ycombinator.com/item?id=31018836</guid>
-            <pubDate>Wed, 13 Apr 2022 19:05:58 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have you created programs for only your personal use?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國本土圓柱體錄音和美國民俗中心（2013年）]]></title>
-            <link>https://news.ycombinator.com/item?id=31007875</link>
-            <guid>https://news.ycombinator.com/item?id=31007875</guid>
-            <pubDate>Tue, 12 Apr 2022 20:30:11 GMT</pubDate>
-            <description><![CDATA[Indigenous American Cylinder Recordings and the American Folklife Center (2013)]]></description>
         </item>
     </channel>
 </rss>

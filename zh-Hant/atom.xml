@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T17:58:15.638Z</updated>
+    <updated>2022-04-20T18:13:57.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["年度密碼錯誤"。ECDSA簽名在Java中被破解]]></title>
+        <id>https://news.ycombinator.com/item?id=31100439</id>
+        <link href="https://news.ycombinator.com/item?id=31100439"/>
+        <updated>2022-04-20T17:45:34.000Z</updated>
+        <summary type="html"><![CDATA[“Crypto bug of the year”: ECDSA signatures broken in Java]]></summary>
+        <author>
+            <name>kibwen</name>
+            <uri>https://news.ycombinator.com/user?id=kibwen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一所大學向拒絕使用學生代名詞的教授支付40萬美金]]></title>
+        <id>https://news.ycombinator.com/item?id=31100011</id>
+        <link href="https://news.ycombinator.com/item?id=31100011"/>
+        <updated>2022-04-20T17:12:03.000Z</updated>
+        <summary type="html"><![CDATA[A university pays $400K to professor who refused to use a student's pronouns]]></summary>
+        <author>
+            <name>ilamont</name>
+            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你是那個混蛋嗎？- 人工智能驅動的AITA回答機器人]]></title>
+        <id>https://news.ycombinator.com/item?id=31099655</id>
+        <link href="https://news.ycombinator.com/item?id=31099655"/>
+        <updated>2022-04-20T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Are You the Asshole? – AI Powered AITA Answer Bot]]></summary>
+        <author>
+            <name>davidcelis</name>
+            <uri>https://news.ycombinator.com/user?id=davidcelis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Brave搜索中的討論：搜索結果中的真實人類答案]]></title>
         <id>https://news.ycombinator.com/item?id=31099450</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>hiena03</name>
             <uri>https://news.ycombinator.com/user?id=hiena03</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Encrypt獲得列夫琴現實世界密碼學獎]]></title>
-        <id>https://news.ycombinator.com/item?id=31018436</id>
-        <link href="https://news.ycombinator.com/item?id=31018436"/>
-        <updated>2022-04-13T18:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Let’s Encrypt Receives the Levchin Prize for Real-World Cryptography]]></summary>
-        <author>
-            <name>deaddabe</name>
-            <uri>https://news.ycombinator.com/user?id=deaddabe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否創建了只供你個人使用的程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=31018836</id>
-        <link href="https://news.ycombinator.com/item?id=31018836"/>
-        <updated>2022-04-13T19:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you created programs for only your personal use?]]></summary>
-        <author>
-            <name>smarri</name>
-            <uri>https://news.ycombinator.com/user?id=smarri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國本土圓柱體錄音和美國民俗中心（2013年）]]></title>
-        <id>https://news.ycombinator.com/item?id=31007875</id>
-        <link href="https://news.ycombinator.com/item?id=31007875"/>
-        <updated>2022-04-12T20:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Indigenous American Cylinder Recordings and the American Folklife Center (2013)]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
         </author>
     </entry>
 </feed>
