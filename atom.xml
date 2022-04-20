@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T19:52:57.445Z</updated>
+    <updated>2022-04-20T20:16:42.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[框架笔记本电脑上的Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=31101449</id>
+        <link href="https://news.ycombinator.com/item?id=31101449"/>
+        <updated>2022-04-20T19:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Linux on the Framework Laptop]]></summary>
+        <author>
+            <name>pimterry</name>
+            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有人的自传。珍妮特-马尔科姆在她的新书中研究了斯坦因和托克拉斯。]]></title>
+        <id>https://news.ycombinator.com/item?id=26150497</id>
+        <link href="https://news.ycombinator.com/item?id=26150497"/>
+        <updated>2021-02-16T03:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Nobody’s Autobiography: Janet Malcolm examines Stein and Toklas in her new book]]></summary>
+        <author>
+            <name>apollinaire</name>
+            <uri>https://news.ycombinator.com/user?id=apollinaire</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[增长是线性的，不是指数性的？]]></title>
         <id>https://news.ycombinator.com/item?id=31101622</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>matt_d</name>
             <uri>https://news.ycombinator.com/user?id=matt_d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Badmodems已经不存在了]]></title>
-        <id>https://news.ycombinator.com/item?id=31021652</id>
-        <link href="https://news.ycombinator.com/item?id=31021652"/>
-        <updated>2022-04-13T23:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Badmodems No Longer Exists]]></summary>
-        <author>
-            <name>Flollop</name>
-            <uri>https://news.ycombinator.com/user?id=Flollop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果的M1 Ultra带有32MB的TLB瓶颈]]></title>
-        <id>https://news.ycombinator.com/item?id=31020484</id>
-        <link href="https://news.ycombinator.com/item?id=31020484"/>
-        <updated>2022-04-13T21:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Apple's M1 Ultra comes with a 32MB TLB bottleneck]]></summary>
-        <author>
-            <name>retskrad</name>
-            <uri>https://news.ycombinator.com/user?id=retskrad</uri>
         </author>
     </entry>
 </feed>
