@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T10:54:23.935Z</updated>
+    <updated>2022-04-20T11:12:53.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[那次索尼在數千臺電腦上安裝了rootkit軟件[視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=31095056</id>
+        <link href="https://news.ycombinator.com/item?id=31095056"/>
+        <updated>2022-04-20T10:53:49.000Z</updated>
+        <summary type="html"><![CDATA[That time Sony installed rootkit software on thousands of computers [video]]]></summary>
+        <author>
+            <name>mrcsharp</name>
+            <uri>https://news.ycombinator.com/user?id=mrcsharp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[糠蟲。通過使軟件更容易出錯來阻止攻擊者（2018）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31060376</id>
+        <link href="https://news.ycombinator.com/item?id=31060376"/>
+        <updated>2022-04-17T12:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Chaff Bugs: Deterring Attackers by Making Software Buggier (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[記憶的戰爭。為什麼Z-戰爭不會以和平結束]]></title>
         <id>https://news.ycombinator.com/item?id=31094131</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷蘭的醜聞是對歐洲使用算法的風險的警告]]></title>
-        <id>https://news.ycombinator.com/item?id=31013994</id>
-        <link href="https://news.ycombinator.com/item?id=31013994"/>
-        <updated>2022-04-13T12:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Dutch scandal serves as a warning for Europe over risks of using algorithms]]></summary>
-        <author>
-            <name>Kiala</name>
-            <uri>https://news.ycombinator.com/user?id=Kiala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於鐵循環的儲能和發電]]></title>
-        <id>https://news.ycombinator.com/item?id=31013988</id>
-        <link href="https://news.ycombinator.com/item?id=31013988"/>
-        <updated>2022-04-13T12:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Iron Cycle based energy storage and generation]]></summary>
-        <author>
-            <name>jacquesm</name>
-            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
         </author>
     </entry>
 </feed>
