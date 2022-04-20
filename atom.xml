@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T10:37:47.961Z</updated>
+    <updated>2022-04-20T10:54:23.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[记忆的战争。为什么Z-战争不会以和平结束]]></title>
+        <id>https://news.ycombinator.com/item?id=31094131</id>
+        <link href="https://news.ycombinator.com/item?id=31094131"/>
+        <updated>2022-04-20T08:18:30.000Z</updated>
+        <summary type="html"><![CDATA[War of memes: Why Z-war won't end with peace]]></summary>
+        <author>
+            <name>boffinism</name>
+            <uri>https://news.ycombinator.com/user?id=boffinism</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移植到Rust的Ruby YJIT]]></title>
         <id>https://news.ycombinator.com/item?id=31094130</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jacquesm</name>
             <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用LapLink通过DOS上的并行端口传输文件]]></title>
-        <id>https://news.ycombinator.com/item?id=31013707</id>
-        <link href="https://news.ycombinator.com/item?id=31013707"/>
-        <updated>2022-04-13T12:12:01.000Z</updated>
-        <summary type="html"><![CDATA[File transfers via the parallel port on DOS using LapLink]]></summary>
-        <author>
-            <name>fcambus</name>
-            <uri>https://news.ycombinator.com/user?id=fcambus</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 10:54:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[记忆的战争。为什么Z-战争不会以和平结束]]></title>
+            <link>https://news.ycombinator.com/item?id=31094131</link>
+            <guid>https://news.ycombinator.com/item?id=31094131</guid>
+            <pubDate>Wed, 20 Apr 2022 08:18:30 GMT</pubDate>
+            <description><![CDATA[War of memes: Why Z-war won't end with peace]]></description>
+        </item>
         <item>
             <title><![CDATA[移植到Rust的Ruby YJIT]]></title>
             <link>https://news.ycombinator.com/item?id=31094130</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31013988</guid>
             <pubDate>Wed, 13 Apr 2022 12:49:15 GMT</pubDate>
             <description><![CDATA[Iron Cycle based energy storage and generation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用LapLink通过DOS上的并行端口传输文件]]></title>
-            <link>https://news.ycombinator.com/item?id=31013707</link>
-            <guid>https://news.ycombinator.com/item?id=31013707</guid>
-            <pubDate>Wed, 13 Apr 2022 12:12:01 GMT</pubDate>
-            <description><![CDATA[File transfers via the parallel port on DOS using LapLink]]></description>
         </item>
     </channel>
 </rss>
