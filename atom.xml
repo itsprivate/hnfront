@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T23:33:47.582Z</updated>
+    <updated>2022-04-20T23:51:59.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国国会大厦因可能的飞机威胁而被疏散]]></title>
+        <id>https://news.ycombinator.com/item?id=31104157</id>
+        <link href="https://news.ycombinator.com/item?id=31104157"/>
+        <updated>2022-04-20T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[US Capitol evacuated due to possible aircraft threat]]></summary>
+        <author>
+            <name>bison3</name>
+            <uri>https://news.ycombinator.com/user?id=bison3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[塞拉的动词]]></title>
         <id>https://news.ycombinator.com/item?id=31103488</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zegl</name>
             <uri>https://news.ycombinator.com/user?id=zegl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约时报》迫使Wordle档案项目被关闭]]></title>
-        <id>https://news.ycombinator.com/item?id=31024767</id>
-        <link href="https://news.ycombinator.com/item?id=31024767"/>
-        <updated>2022-04-14T09:22:22.000Z</updated>
-        <summary type="html"><![CDATA[The New York Times compels the Wordle Archive project to be shut down]]></summary>
-        <author>
-            <name>Santosh83</name>
-            <uri>https://news.ycombinator.com/user?id=Santosh83</uri>
         </author>
     </entry>
 </feed>
