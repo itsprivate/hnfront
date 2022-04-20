@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T06:42:45.246Z</updated>
+    <updated>2022-04-20T07:00:31.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[短波電臺：你現在能聽到我嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31063637</id>
+        <link href="https://news.ycombinator.com/item?id=31063637"/>
+        <updated>2022-04-17T19:33:22.000Z</updated>
+        <summary type="html"><![CDATA[Shortwave radio: can you hear me now?]]></summary>
+        <author>
+            <name>DyslexicAtheist</name>
+            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[木星的衛星歐羅巴上的淺水丘陵上的雙脊形成]]></title>
         <id>https://news.ycombinator.com/item?id=31093499</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rntn</name>
             <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系統巫師的軟件包管理器謀殺之謎]]></title>
-        <id>https://news.ycombinator.com/item?id=30987106</id>
-        <link href="https://news.ycombinator.com/item?id=30987106"/>
-        <updated>2022-04-11T11:11:25.000Z</updated>
-        <summary type="html"><![CDATA[A System-Witch’s Package Manager Murder Mystery]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
