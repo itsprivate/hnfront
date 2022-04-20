@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T22:36:08.614Z</updated>
+    <updated>2022-04-20T22:56:13.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州科技亿万富翁启动参议院竞选活动，与特斯拉对垒]]></title>
+        <id>https://news.ycombinator.com/item?id=31103976</id>
+        <link href="https://news.ycombinator.com/item?id=31103976"/>
+        <updated>2022-04-20T22:37:10.000Z</updated>
+        <summary type="html"><![CDATA[California tech billionaire launches Senate campaign to take on Tesla]]></summary>
+        <author>
+            <name>sbuttgereit</name>
+            <uri>https://news.ycombinator.com/user?id=sbuttgereit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个塑料袋的2000英里旅程]]></title>
         <id>https://news.ycombinator.com/item?id=31103543</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么红宝石有符号]]></title>
-        <id>https://news.ycombinator.com/item?id=31024363</id>
-        <link href="https://news.ycombinator.com/item?id=31024363"/>
-        <updated>2022-04-14T07:52:59.000Z</updated>
-        <summary type="html"><![CDATA[Why Ruby Has Symbols]]></summary>
-        <author>
-            <name>dmitrytsepelev</name>
-            <uri>https://news.ycombinator.com/user?id=dmitrytsepelev</uri>
         </author>
     </entry>
 </feed>
