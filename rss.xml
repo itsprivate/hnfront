@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 13:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 13:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Java 15引入了一个密码学漏洞]]></title>
+            <link>https://news.ycombinator.com/item?id=31096184</link>
+            <guid>https://news.ycombinator.com/item?id=31096184</guid>
+            <pubDate>Wed, 20 Apr 2022 12:57:06 GMT</pubDate>
+            <description><![CDATA[Java 15 introduced a cryptographic vulnerability]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Scripnix。适用于macOS/BSD和*NIX的实用Python3和bash shell脚本]]></title>
+            <link>https://news.ycombinator.com/item?id=31079223</link>
+            <guid>https://news.ycombinator.com/item?id=31079223</guid>
+            <pubDate>Tue, 19 Apr 2022 02:28:20 GMT</pubDate>
+            <description><![CDATA[Scripnix: Useful Python3 and bash shell scripts for macOS/BSD and *NIX]]></description>
+        </item>
         <item>
             <title><![CDATA[是什么让Cloudflare有权查封暴露网站真实IP的应用程序？]]></title>
             <link>https://news.ycombinator.com/item?id=31095709</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31015055</guid>
             <pubDate>Wed, 13 Apr 2022 14:29:20 GMT</pubDate>
             <description><![CDATA[What's next for AlphaFold and the AI protein-folding revolution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可微分编程--简单介绍]]></title>
-            <link>https://news.ycombinator.com/item?id=31000709</link>
-            <guid>https://news.ycombinator.com/item?id=31000709</guid>
-            <pubDate>Tue, 12 Apr 2022 10:21:14 GMT</pubDate>
-            <description><![CDATA[Differentiable Programming – A Simple Introduction]]></description>
-        </item>
-        <item>
-            <title><![CDATA[K-最近的邻居]]></title>
-            <link>https://news.ycombinator.com/item?id=31015242</link>
-            <guid>https://news.ycombinator.com/item?id=31015242</guid>
-            <pubDate>Wed, 13 Apr 2022 14:42:56 GMT</pubDate>
-            <description><![CDATA[K-Nearest Neighbors]]></description>
         </item>
     </channel>
 </rss>
