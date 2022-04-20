@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T10:15:25.638Z</updated>
+    <updated>2022-04-20T10:37:47.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[移植到Rust的Ruby YJIT]]></title>
+        <id>https://news.ycombinator.com/item?id=31094130</id>
+        <link href="https://news.ycombinator.com/item?id=31094130"/>
+        <updated>2022-04-20T08:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Ruby YJIT Ported to Rust]]></summary>
+        <author>
+            <name>the_duke</name>
+            <uri>https://news.ycombinator.com/user?id=the_duke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从自由、公开的网络信息中预测初创企业的融资情况]]></title>
         <id>https://news.ycombinator.com/item?id=31064172</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fcambus</name>
             <uri>https://news.ycombinator.com/user?id=fcambus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥尔德斯-赫胥黎坚持认为《克罗姆黄》是虚构的。奥托林-莫雷尔不同意]]></title>
-        <id>https://news.ycombinator.com/item?id=30997257</id>
-        <link href="https://news.ycombinator.com/item?id=30997257"/>
-        <updated>2022-04-12T00:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Aldous Huxley insisted “Crome Yellow” was fiction. Ottoline Morrell disagreed]]></summary>
-        <author>
-            <name>lermontov</name>
-            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
         </author>
     </entry>
 </feed>

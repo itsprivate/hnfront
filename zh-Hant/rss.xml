@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 10:37:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[移植到Rust的Ruby YJIT]]></title>
+            <link>https://news.ycombinator.com/item?id=31094130</link>
+            <guid>https://news.ycombinator.com/item?id=31094130</guid>
+            <pubDate>Wed, 20 Apr 2022 08:18:30 GMT</pubDate>
+            <description><![CDATA[Ruby YJIT Ported to Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[從自由、公開的網絡信息中預測初創企業的融資情況]]></title>
             <link>https://news.ycombinator.com/item?id=31064172</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31013707</guid>
             <pubDate>Wed, 13 Apr 2022 12:12:01 GMT</pubDate>
             <description><![CDATA[File transfers via the parallel port on DOS using LapLink]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奧爾德斯-赫胥黎堅持認為《克羅姆黃》是虛構的。奧托林-莫雷爾不同意]]></title>
-            <link>https://news.ycombinator.com/item?id=30997257</link>
-            <guid>https://news.ycombinator.com/item?id=30997257</guid>
-            <pubDate>Tue, 12 Apr 2022 00:55:32 GMT</pubDate>
-            <description><![CDATA[Aldous Huxley insisted “Crome Yellow” was fiction. Ottoline Morrell disagreed]]></description>
         </item>
     </channel>
 </rss>
