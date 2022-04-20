@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T17:26:53.910Z</updated>
+    <updated>2022-04-20T17:51:01.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[状态机复制，以及为什么你应该关注]]></title>
+        <id>https://news.ycombinator.com/item?id=31100023</id>
+        <link href="https://news.ycombinator.com/item?id=31100023"/>
+        <updated>2022-04-20T17:13:12.000Z</updated>
+        <summary type="html"><![CDATA[State Machine Replication, and Why You Should Care]]></summary>
+        <author>
+            <name>yminsky</name>
+            <uri>https://news.ycombinator.com/user?id=yminsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日报（YC W16）正在招聘一名技术产品营销经理]]></title>
         <id>https://news.ycombinator.com/item?id=31099872</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rmason</name>
             <uri>https://news.ycombinator.com/user?id=rmason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端组件架构]]></title>
-        <id>https://news.ycombinator.com/item?id=31018171</id>
-        <link href="https://news.ycombinator.com/item?id=31018171"/>
-        <updated>2022-04-13T18:14:10.000Z</updated>
-        <summary type="html"><![CDATA[Frontend Component Architecture]]></summary>
-        <author>
-            <name>unistyler</name>
-            <uri>https://news.ycombinator.com/user?id=unistyler</uri>
         </author>
     </entry>
 </feed>

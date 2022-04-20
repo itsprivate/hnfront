@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[状态机复制，以及为什么你应该关注]]></title>
+            <link>https://news.ycombinator.com/item?id=31100023</link>
+            <guid>https://news.ycombinator.com/item?id=31100023</guid>
+            <pubDate>Wed, 20 Apr 2022 17:13:12 GMT</pubDate>
+            <description><![CDATA[State Machine Replication, and Why You Should Care]]></description>
+        </item>
         <item>
             <title><![CDATA[日报（YC W16）正在招聘一名技术产品营销经理]]></title>
             <link>https://news.ycombinator.com/item?id=31099872</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31018709</guid>
             <pubDate>Wed, 13 Apr 2022 18:57:33 GMT</pubDate>
             <description><![CDATA[California's Vanished Dream, by the Numbers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[前端组件架构]]></title>
-            <link>https://news.ycombinator.com/item?id=31018171</link>
-            <guid>https://news.ycombinator.com/item?id=31018171</guid>
-            <pubDate>Wed, 13 Apr 2022 18:14:10 GMT</pubDate>
-            <description><![CDATA[Frontend Component Architecture]]></description>
         </item>
     </channel>
 </rss>
