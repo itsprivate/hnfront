@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T05:27:52.263Z</updated>
+    <updated>2022-04-20T05:55:51.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[北卡羅來納州達勒姆市拒絕支付授予被錯誤監禁數十年的男子的600萬美元賠償金]]></title>
+        <id>https://news.ycombinator.com/item?id=31092766</id>
+        <link href="https://news.ycombinator.com/item?id=31092766"/>
+        <updated>2022-04-20T04:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Durham, NC, Refuses to Pay $6MM Awarded to Man Wrongfully Imprisoned for Decades]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[停止用Regex驗證電子郵件地址 (2012)]]></title>
         <id>https://news.ycombinator.com/item?id=31092912</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mgmt - 下一代分佈式、事件驅動、並行的配置管理]]></title>
-        <id>https://news.ycombinator.com/item?id=30998872</id>
-        <link href="https://news.ycombinator.com/item?id=30998872"/>
-        <updated>2022-04-12T05:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Mgmt – Next generation distributed, event-driven, parallel config management]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
