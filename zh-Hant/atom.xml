@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-20T18:13:57.157Z</updated>
+    <updated>2022-04-20T18:41:00.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BCI讓被完全 "鎖住 "的男子與他的兒子溝通，要求喝啤酒]]></title>
+        <id>https://news.ycombinator.com/item?id=31100521</id>
+        <link href="https://news.ycombinator.com/item?id=31100521"/>
+        <updated>2022-04-20T17:50:54.000Z</updated>
+        <summary type="html"><![CDATA[BCI lets completely “locked-in” man communicate with his son, ask for a beer]]></summary>
+        <author>
+            <name>sizzle</name>
+            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IKOS：基於抽象解釋理論的C/C++靜態分析器]]></title>
+        <id>https://news.ycombinator.com/item?id=31100483</id>
+        <link href="https://news.ycombinator.com/item?id=31100483"/>
+        <updated>2022-04-20T17:48:56.000Z</updated>
+        <summary type="html"><![CDATA[IKOS: Static analyzer for C/C++ based on the theory of Abstract Interpretation]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我創建了一個來自網絡上的非常有用的網站集合]]></title>
+        <id>https://news.ycombinator.com/item?id=31099366</id>
+        <link href="https://news.ycombinator.com/item?id=31099366"/>
+        <updated>2022-04-20T16:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I created a collection of insanely useful websites from around the web]]></summary>
+        <author>
+            <name>jayra</name>
+            <uri>https://news.ycombinator.com/user?id=jayra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於離開土耳其（2021年）]]></title>
+        <id>https://news.ycombinator.com/item?id=31069230</id>
+        <link href="https://news.ycombinator.com/item?id=31069230"/>
+        <updated>2022-04-18T10:54:43.000Z</updated>
+        <summary type="html"><![CDATA[On leaving Turkey (2021)]]></summary>
+        <author>
+            <name>ahmetomer</name>
+            <uri>https://news.ycombinator.com/user?id=ahmetomer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["年度密碼錯誤"。ECDSA簽名在Java中被破解]]></title>
         <id>https://news.ycombinator.com/item?id=31100439</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>thejash</name>
             <uri>https://news.ycombinator.com/user?id=thejash</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉米-卡特的白宮太陽能電池板 (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=31019349</id>
-        <link href="https://news.ycombinator.com/item?id=31019349"/>
-        <updated>2022-04-13T19:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Jimmy Carter's White House Solar Panels (2019)]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面的、有洞察力的和其他有趣的數據科學博客]]></title>
-        <id>https://news.ycombinator.com/item?id=31019522</id>
-        <link href="https://news.ycombinator.com/item?id=31019522"/>
-        <updated>2022-04-13T19:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive, insightful, and otherwise interesting data science blogs]]></summary>
-        <author>
-            <name>flreln</name>
-            <uri>https://news.ycombinator.com/user?id=flreln</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在白天工作的同時找工作]]></title>
-        <id>https://news.ycombinator.com/item?id=31007660</id>
-        <link href="https://news.ycombinator.com/item?id=31007660"/>
-        <updated>2022-04-12T20:08:43.000Z</updated>
-        <summary type="html"><![CDATA[Job Hunting While Day-Jobbing]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼 Discord 要從 Go 轉到 Rust？]]></title>
-        <id>https://news.ycombinator.com/item?id=31019234</id>
-        <link href="https://news.ycombinator.com/item?id=31019234"/>
-        <updated>2022-04-13T19:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Why Discord is switching from Go to Rust]]></summary>
-        <author>
-            <name>hiena03</name>
-            <uri>https://news.ycombinator.com/user?id=hiena03</uri>
         </author>
     </entry>
 </feed>
