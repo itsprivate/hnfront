@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T22:12:20.707Z</updated>
+    <updated>2022-04-21T22:33:46.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub。私人檔案測試版]]></title>
+        <id>https://news.ycombinator.com/item?id=31115642</id>
+        <link href="https://news.ycombinator.com/item?id=31115642"/>
+        <updated>2022-04-21T21:52:55.000Z</updated>
+        <summary type="html"><![CDATA[GitHub: Private Profiles beta]]></summary>
+        <author>
+            <name>judge2020</name>
+            <uri>https://news.ycombinator.com/user?id=judge2020</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開源SQL解析器]]></title>
         <id>https://news.ycombinator.com/item?id=31107231</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[永恆即將來臨。阿蘭-巴迪歐的《詩人的時代》（The Age of the Poets）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31023459</id>
-        <link href="https://news.ycombinator.com/item?id=31023459"/>
-        <updated>2022-04-14T04:39:10.000Z</updated>
-        <summary type="html"><![CDATA[Eternity Is Coming: The Age of the Poets by Alain Badiou]]></summary>
-        <author>
-            <name>50</name>
-            <uri>https://news.ycombinator.com/user?id=50</uri>
         </author>
     </entry>
 </feed>
