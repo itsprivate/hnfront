@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T05:28:50.575Z</updated>
+    <updated>2022-04-21T05:57:55.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[掌握音頻製作的手段]]></title>
+        <id>https://news.ycombinator.com/item?id=31106274</id>
+        <link href="https://news.ycombinator.com/item?id=31106274"/>
+        <updated>2022-04-21T05:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Seizing the Means of Audio Production]]></summary>
+        <author>
+            <name>tintinnabula</name>
+            <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go將在下一個版本中使用pdqsort]]></title>
         <id>https://news.ycombinator.com/item?id=31106157</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用戶體驗和文明進程]]></title>
-        <id>https://news.ycombinator.com/item?id=31007610</id>
-        <link href="https://news.ycombinator.com/item?id=31007610"/>
-        <updated>2022-04-12T20:03:16.000Z</updated>
-        <summary type="html"><![CDATA[UX and the Civilizing Process]]></summary>
-        <author>
-            <name>agmm</name>
-            <uri>https://news.ycombinator.com/user?id=agmm</uri>
         </author>
     </entry>
 </feed>
