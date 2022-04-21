@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 13:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 13:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[利用字形擾動在文本文件中嵌入信息]]></title>
+            <link>https://news.ycombinator.com/item?id=31109071</link>
+            <guid>https://news.ycombinator.com/item?id=31109071</guid>
+            <pubDate>Thu, 21 Apr 2022 13:26:20 GMT</pubDate>
+            <description><![CDATA[Embedding Information in Text Documents Using Glyph Perturbation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OpenBSD 7.1]]></title>
+            <link>https://news.ycombinator.com/item?id=31109046</link>
+            <guid>https://news.ycombinator.com/item?id=31109046</guid>
+            <pubDate>Thu, 21 Apr 2022 13:23:45 GMT</pubDate>
+            <description><![CDATA[OpenBSD 7.1]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在提交頻率較高的repo中，如何整合拉動請求？]]></title>
+            <link>https://news.ycombinator.com/item?id=31108828</link>
+            <guid>https://news.ycombinator.com/item?id=31108828</guid>
+            <pubDate>Thu, 21 Apr 2022 13:04:43 GMT</pubDate>
+            <description><![CDATA[Ask HN: How are pull requests integrated in a repo with high commit frequency?]]></description>
+        </item>
         <item>
             <title><![CDATA[我是一名安全工程師，我還是差點被騙了]]></title>
             <link>https://news.ycombinator.com/item?id=31108897</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31030761</guid>
             <pubDate>Thu, 14 Apr 2022 18:02:49 GMT</pubDate>
             <description><![CDATA[Link: Simple, secure one-click payments by Stripe]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由GPT-3驅動的占卜板可以移動你的鼠標]]></title>
-            <link>https://news.ycombinator.com/item?id=31030425</link>
-            <guid>https://news.ycombinator.com/item?id=31030425</guid>
-            <pubDate>Thu, 14 Apr 2022 17:43:01 GMT</pubDate>
-            <description><![CDATA[Show HN: GPT-3 powered Ouija spirit board that moves your mouse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[茴香。一個實用的Lisp]]></title>
-            <link>https://news.ycombinator.com/item?id=31029478</link>
-            <guid>https://news.ycombinator.com/item?id=31029478</guid>
-            <pubDate>Thu, 14 Apr 2022 16:45:22 GMT</pubDate>
-            <description><![CDATA[Fennel: A Practical Lisp]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ninjam是開源軟件，允許人們一起製作真正的音樂]]></title>
-            <link>https://news.ycombinator.com/item?id=31018600</link>
-            <guid>https://news.ycombinator.com/item?id=31018600</guid>
-            <pubDate>Wed, 13 Apr 2022 18:48:19 GMT</pubDate>
-            <description><![CDATA[Ninjam is open source software to allow people to make real music together]]></description>
         </item>
     </channel>
 </rss>
