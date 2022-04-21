@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 22:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 22:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特的算法饲料如何工作]]></title>
+            <link>https://news.ycombinator.com/item?id=31115755</link>
+            <guid>https://news.ycombinator.com/item?id=31115755</guid>
+            <pubDate>Thu, 21 Apr 2022 22:05:06 GMT</pubDate>
+            <description><![CDATA[How Twitter's Algorithmic Feed Works]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么炎症是一种危险的需要？]]></title>
+            <link>https://news.ycombinator.com/item?id=31115136</link>
+            <guid>https://news.ycombinator.com/item?id=31115136</guid>
+            <pubDate>Thu, 21 Apr 2022 21:02:13 GMT</pubDate>
+            <description><![CDATA[Why Is Inflammation a Dangerous Necessity?]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub。私人档案测试版]]></title>
             <link>https://news.ycombinator.com/item?id=31115642</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31036758</guid>
             <pubDate>Fri, 15 Apr 2022 05:06:34 GMT</pubDate>
             <description><![CDATA[Show HN: Pure C Asynchronous HTTP Framework]]></description>
-        </item>
-        <item>
-            <title><![CDATA[邓宁-克鲁格效应就是自相矛盾]]></title>
-            <link>https://news.ycombinator.com/item?id=31036800</link>
-            <guid>https://news.ycombinator.com/item?id=31036800</guid>
-            <pubDate>Fri, 15 Apr 2022 05:15:58 GMT</pubDate>
-            <description><![CDATA[The Dunning-Kruger Effect Is Autocorrelation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我希望分布式不是新的默认值]]></title>
-            <link>https://news.ycombinator.com/item?id=31037737</link>
-            <guid>https://news.ycombinator.com/item?id=31037737</guid>
-            <pubDate>Fri, 15 Apr 2022 08:19:11 GMT</pubDate>
-            <description><![CDATA[I hope distributed is not the new default]]></description>
         </item>
     </channel>
 </rss>
