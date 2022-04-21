@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T15:16:01.161Z</updated>
+    <updated>2022-04-21T15:40:06.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从SourceForge的衰落中得到的警示故事]]></title>
+        <id>https://news.ycombinator.com/item?id=31110206</id>
+        <link href="https://news.ycombinator.com/item?id=31110206"/>
+        <updated>2022-04-21T14:53:53.000Z</updated>
+        <summary type="html"><![CDATA[A Cautionary Tale from the Decline of SourceForge]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专栏--第一家为开发商设立的特许银行]]></title>
+        <id>https://news.ycombinator.com/item?id=31109170</id>
+        <link href="https://news.ycombinator.com/item?id=31109170"/>
+        <updated>2022-04-21T13:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Column – the first chartered bank for developers]]></summary>
+        <author>
+            <name>whockey</name>
+            <uri>https://news.ycombinator.com/user?id=whockey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenBSD 7.1: 风扇噪音和高温解决方案]]></title>
         <id>https://news.ycombinator.com/item?id=31109466</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rmason</name>
             <uri>https://news.ycombinator.com/user?id=rmason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对洛杉矶地铁自行车应用程序的抱怨]]></title>
-        <id>https://news.ycombinator.com/item?id=31031771</id>
-        <link href="https://news.ycombinator.com/item?id=31031771"/>
-        <updated>2022-04-14T19:05:25.000Z</updated>
-        <summary type="html"><![CDATA[A Gripe about the Los Angeles Metro Bike App]]></summary>
-        <author>
-            <name>polalavik</name>
-            <uri>https://news.ycombinator.com/user?id=polalavik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能把硬件木马间谍软件的IP插入到集成电路中吗？可以]]></title>
-        <id>https://news.ycombinator.com/item?id=31029443</id>
-        <link href="https://news.ycombinator.com/item?id=31029443"/>
-        <updated>2022-04-14T16:43:08.000Z</updated>
-        <summary type="html"><![CDATA[Can You Insert Hardware Trojan Spyware IP into an IC at the Fab? Yes]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
