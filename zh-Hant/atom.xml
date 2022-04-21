@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T15:57:53.312Z</updated>
+    <updated>2022-04-21T16:16:18.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SCRU128: 可排序、基於時鐘和隨機數的唯一標識符]]></title>
+        <id>https://news.ycombinator.com/item?id=31089723</id>
+        <link href="https://news.ycombinator.com/item?id=31089723"/>
+        <updated>2022-04-19T21:48:02.000Z</updated>
+        <summary type="html"><![CDATA[SCRU128: Sortable, Clock and Random number-based Unique identifier]]></summary>
+        <author>
+            <name>andrenth</name>
+            <uri>https://news.ycombinator.com/user?id=andrenth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在商業目標下從關注產出到關注結果]]></title>
         <id>https://news.ycombinator.com/item?id=31110550</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lazyjeff</name>
             <uri>https://news.ycombinator.com/user?id=lazyjeff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何建立一個可組合的博客]]></title>
-        <id>https://news.ycombinator.com/item?id=31013280</id>
-        <link href="https://news.ycombinator.com/item?id=31013280"/>
-        <updated>2022-04-13T11:10:01.000Z</updated>
-        <summary type="html"><![CDATA[How to Build a Composable Blog]]></summary>
-        <author>
-            <name>sunilsandhu</name>
-            <uri>https://news.ycombinator.com/user?id=sunilsandhu</uri>
         </author>
     </entry>
 </feed>
