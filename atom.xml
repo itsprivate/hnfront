@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T15:40:06.647Z</updated>
+    <updated>2022-04-21T15:57:53.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在商业目标下从关注产出到关注结果]]></title>
+        <id>https://news.ycombinator.com/item?id=31110550</id>
+        <link href="https://news.ycombinator.com/item?id=31110550"/>
+        <updated>2022-04-21T15:16:11.000Z</updated>
+        <summary type="html"><![CDATA[How to move from output to outcome focus with business goals]]></summary>
+        <author>
+            <name>J3T</name>
+            <uri>https://news.ycombinator.com/user?id=J3T</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从SourceForge的衰落中得到的警示故事]]></title>
         <id>https://news.ycombinator.com/item?id=31110206</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sunilsandhu</name>
             <uri>https://news.ycombinator.com/user?id=sunilsandhu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的研究。希特勒的牙齿证实他死于1945年]]></title>
-        <id>https://news.ycombinator.com/item?id=31031698</id>
-        <link href="https://news.ycombinator.com/item?id=31031698"/>
-        <updated>2022-04-14T19:01:06.000Z</updated>
-        <summary type="html"><![CDATA[New Research: Hitler’s Teeth Confirm He Died in 1945]]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
         </author>
     </entry>
 </feed>
