@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 20:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 20:54:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Python的 "類型提示 "讓我感到有點失望]]></title>
+            <link>https://news.ycombinator.com/item?id=31114554</link>
+            <guid>https://news.ycombinator.com/item?id=31114554</guid>
+            <pubDate>Thu, 21 Apr 2022 20:05:35 GMT</pubDate>
+            <description><![CDATA[Python’s “Type Hints” are a bit of a disappointment to me]]></description>
+        </item>
         <item>
             <title><![CDATA[滌綸如何反彈]]></title>
             <link>https://news.ycombinator.com/item?id=31114188</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31036817</guid>
             <pubDate>Fri, 15 Apr 2022 05:21:39 GMT</pubDate>
             <description><![CDATA[Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對不起，打錯電話了。調試Wine下的崩潰]]></title>
-            <link>https://news.ycombinator.com/item?id=31002174</link>
-            <guid>https://news.ycombinator.com/item?id=31002174</guid>
-            <pubDate>Tue, 12 Apr 2022 13:11:39 GMT</pubDate>
-            <description><![CDATA[Sorry, Wrong Number: Debugging a Crash Under Wine]]></description>
         </item>
     </channel>
 </rss>

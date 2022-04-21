@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T20:39:27.833Z</updated>
+    <updated>2022-04-21T20:54:26.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python的 "類型提示 "讓我感到有點失望]]></title>
+        <id>https://news.ycombinator.com/item?id=31114554</id>
+        <link href="https://news.ycombinator.com/item?id=31114554"/>
+        <updated>2022-04-21T20:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Python’s “Type Hints” are a bit of a disappointment to me]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[滌綸如何反彈]]></title>
         <id>https://news.ycombinator.com/item?id=31114188</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對不起，打錯電話了。調試Wine下的崩潰]]></title>
-        <id>https://news.ycombinator.com/item?id=31002174</id>
-        <link href="https://news.ycombinator.com/item?id=31002174"/>
-        <updated>2022-04-12T13:11:39.000Z</updated>
-        <summary type="html"><![CDATA[Sorry, Wrong Number: Debugging a Crash Under Wine]]></summary>
-        <author>
-            <name>jchw</name>
-            <uri>https://news.ycombinator.com/user?id=jchw</uri>
         </author>
     </entry>
 </feed>
