@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T08:42:02.946Z</updated>
+    <updated>2022-04-21T08:57:51.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从外部SSD启动Mac Studio，以及它不能解决的问题]]></title>
+        <id>https://news.ycombinator.com/item?id=31080421</id>
+        <link href="https://news.ycombinator.com/item?id=31080421"/>
+        <updated>2022-04-19T07:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Booting a Mac Studio from an external SSD, and what it doesn’t solve]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新自由主义正在占领网络]]></title>
         <id>https://news.ycombinator.com/item?id=31106892</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊在卖家费用中增加5%的 "燃料和通货膨胀附加费]]></title>
-        <id>https://news.ycombinator.com/item?id=31027352</id>
-        <link href="https://news.ycombinator.com/item?id=31027352"/>
-        <updated>2022-04-14T14:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Amazon adds 5% ‘fuel and inflation surcharge’ to seller fees]]></summary>
-        <author>
-            <name>ProAm</name>
-            <uri>https://news.ycombinator.com/user?id=ProAm</uri>
         </author>
     </entry>
 </feed>
