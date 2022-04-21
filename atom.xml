@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T18:43:44.231Z</updated>
+    <updated>2022-04-21T19:10:05.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[好的科学项目]]></title>
+        <id>https://news.ycombinator.com/item?id=31090893</id>
+        <link href="https://news.ycombinator.com/item?id=31090893"/>
+        <updated>2022-04-19T23:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Good Science Project]]></summary>
+        <author>
+            <name>how-about-this</name>
+            <uri>https://news.ycombinator.com/user?id=how-about-this</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fig现在支持JetBrains IDEs]]></title>
         <id>https://news.ycombinator.com/item?id=31113396</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的人不使用Gmail吗？他们为什么不改进它？]]></title>
-        <id>https://news.ycombinator.com/item?id=31035734</id>
-        <link href="https://news.ycombinator.com/item?id=31035734"/>
-        <updated>2022-04-15T01:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do people at Google not use Gmail? Why don't they improve it?]]></summary>
-        <author>
-            <name>mr-pink</name>
-            <uri>https://news.ycombinator.com/user?id=mr-pink</uri>
         </author>
     </entry>
 </feed>
