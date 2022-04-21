@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 22:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 23:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[互联网公司找不到任何会阻止加州网络中立性法律的法官]]></title>
+            <link>https://news.ycombinator.com/item?id=31114876</link>
+            <guid>https://news.ycombinator.com/item?id=31114876</guid>
+            <pubDate>Thu, 21 Apr 2022 20:38:50 GMT</pubDate>
+            <description><![CDATA[ISPs can’t find any judges who will block California net neutrality law]]></description>
+        </item>
         <item>
             <title><![CDATA[5G是一个笑话，而iPhone是适时的打趣。]]></title>
             <link>https://news.ycombinator.com/item?id=31115906</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31038118</guid>
             <pubDate>Fri, 15 Apr 2022 09:25:31 GMT</pubDate>
             <description><![CDATA[What Is at Stake in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chamelon。用于MirageOS的MVP持久性块存储]]></title>
-            <link>https://news.ycombinator.com/item?id=31020350</link>
-            <guid>https://news.ycombinator.com/item?id=31020350</guid>
-            <pubDate>Wed, 13 Apr 2022 21:12:23 GMT</pubDate>
-            <description><![CDATA[Chamelon: MVP persistent block storage for MirageOS]]></description>
         </item>
     </channel>
 </rss>

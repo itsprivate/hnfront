@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T22:51:50.829Z</updated>
+    <updated>2022-04-21T23:13:17.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互聯網公司找不到任何會阻止加州網絡中立性法律的法官]]></title>
+        <id>https://news.ycombinator.com/item?id=31114876</id>
+        <link href="https://news.ycombinator.com/item?id=31114876"/>
+        <updated>2022-04-21T20:38:50.000Z</updated>
+        <summary type="html"><![CDATA[ISPs can’t find any judges who will block California net neutrality law]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5G是一個笑話，而iPhone是適時的打趣。]]></title>
         <id>https://news.ycombinator.com/item?id=31115906</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nathan_phoenix</name>
             <uri>https://news.ycombinator.com/user?id=nathan_phoenix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chamelon。用於MirageOS的MVP持久性塊存儲]]></title>
-        <id>https://news.ycombinator.com/item?id=31020350</id>
-        <link href="https://news.ycombinator.com/item?id=31020350"/>
-        <updated>2022-04-13T21:12:23.000Z</updated>
-        <summary type="html"><![CDATA[Chamelon: MVP persistent block storage for MirageOS]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
