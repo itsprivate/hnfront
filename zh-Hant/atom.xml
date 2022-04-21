@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T23:13:17.744Z</updated>
+    <updated>2022-04-21T23:33:04.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我放不下 "鄧寧-克魯格效應就是自相矛盾"]]></title>
+        <id>https://news.ycombinator.com/item?id=31115078</id>
+        <link href="https://news.ycombinator.com/item?id=31115078"/>
+        <updated>2022-04-21T20:56:49.000Z</updated>
+        <summary type="html"><![CDATA[I can't let go of “The Dunning-Kruger Effect is Autocorrelation”]]></summary>
+        <author>
+            <name>keshet</name>
+            <uri>https://news.ycombinator.com/user?id=keshet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[互聯網公司找不到任何會阻止加州網絡中立性法律的法官]]></title>
         <id>https://news.ycombinator.com/item?id=31114876</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nix23</name>
             <uri>https://news.ycombinator.com/user?id=nix23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏克蘭的利害關係是什麼]]></title>
-        <id>https://news.ycombinator.com/item?id=31038118</id>
-        <link href="https://news.ycombinator.com/item?id=31038118"/>
-        <updated>2022-04-15T09:25:31.000Z</updated>
-        <summary type="html"><![CDATA[What Is at Stake in Ukraine]]></summary>
-        <author>
-            <name>nathan_phoenix</name>
-            <uri>https://news.ycombinator.com/user?id=nathan_phoenix</uri>
         </author>
     </entry>
 </feed>
