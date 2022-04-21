@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T06:14:24.338Z</updated>
+    <updated>2022-04-21T07:01:51.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蒸汽船的發明者們。第二代]]></title>
+        <id>https://news.ycombinator.com/item?id=31079670</id>
+        <link href="https://news.ycombinator.com/item?id=31079670"/>
+        <updated>2022-04-19T04:06:46.000Z</updated>
+        <summary type="html"><![CDATA[The Steamboat Inventors: The Second Generation]]></summary>
+        <author>
+            <name>cfmcdonald</name>
+            <uri>https://news.ycombinator.com/user?id=cfmcdonald</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在經營初創企業時管理你的心理健康]]></title>
         <id>https://news.ycombinator.com/item?id=31106150</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tjr</name>
             <uri>https://news.ycombinator.com/user?id=tjr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼沒有一個標準的網絡音頻協議？]]></title>
-        <id>https://news.ycombinator.com/item?id=31027526</id>
-        <link href="https://news.ycombinator.com/item?id=31027526"/>
-        <updated>2022-04-14T14:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why isn't there a standard network audio protocol?]]></summary>
-        <author>
-            <name>armagon</name>
-            <uri>https://news.ycombinator.com/user?id=armagon</uri>
         </author>
     </entry>
 </feed>
