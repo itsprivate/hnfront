@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T10:55:15.313Z</updated>
+    <updated>2022-04-21T11:39:36.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ASML正在购买洗衣机来撕掉芯片并重新使用它们]]></title>
+        <id>https://news.ycombinator.com/item?id=31107768</id>
+        <link href="https://news.ycombinator.com/item?id=31107768"/>
+        <updated>2022-04-21T10:34:08.000Z</updated>
+        <summary type="html"><![CDATA[ASML is buying washing machines to rip out the chips and reuse them]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你如何在网上找到可信的信息？]]></title>
         <id>https://news.ycombinator.com/item?id=31107699</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>0414throwaway</name>
             <uri>https://news.ycombinator.com/user?id=0414throwaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邪恶的JSLint的使用许可]]></title>
-        <id>https://news.ycombinator.com/item?id=31027104</id>
-        <link href="https://news.ycombinator.com/item?id=31027104"/>
-        <updated>2022-04-14T13:58:32.000Z</updated>
-        <summary type="html"><![CDATA[License to Use JSLint for Evil]]></summary>
-        <author>
-            <name>erenon</name>
-            <uri>https://news.ycombinator.com/user?id=erenon</uri>
         </author>
     </entry>
 </feed>
