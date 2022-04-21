@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T21:32:27.169Z</updated>
+    <updated>2022-04-21T21:52:01.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Postgres如何选择在查询中使用哪个索引]]></title>
+        <id>https://news.ycombinator.com/item?id=31115492</id>
+        <link href="https://news.ycombinator.com/item?id=31115492"/>
+        <updated>2022-04-21T21:37:14.000Z</updated>
+        <summary type="html"><![CDATA[How Postgres Chooses Which Index to Use for a Query]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uyuni - SUSE Manager的开源版本]]></title>
         <id>https://news.ycombinator.com/item?id=31115254</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rcarmo</name>
             <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文化厌恶症。在稀薄的世界中追求更厚的欲望]]></title>
-        <id>https://news.ycombinator.com/item?id=31037724</id>
-        <link href="https://news.ycombinator.com/item?id=31037724"/>
-        <updated>2022-04-15T08:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Cultural Anorexia: The Pursuit of Thicker Desires in a Thinning World]]></summary>
-        <author>
-            <name>vitabenes</name>
-            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
         </author>
     </entry>
 </feed>

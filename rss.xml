@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 21:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Postgres如何选择在查询中使用哪个索引]]></title>
+            <link>https://news.ycombinator.com/item?id=31115492</link>
+            <guid>https://news.ycombinator.com/item?id=31115492</guid>
+            <pubDate>Thu, 21 Apr 2022 21:37:14 GMT</pubDate>
+            <description><![CDATA[How Postgres Chooses Which Index to Use for a Query]]></description>
+        </item>
         <item>
             <title><![CDATA[Uyuni - SUSE Manager的开源版本]]></title>
             <link>https://news.ycombinator.com/item?id=31115254</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31037729</guid>
             <pubDate>Fri, 15 Apr 2022 08:16:53 GMT</pubDate>
             <description><![CDATA[It’s Still Stupidly, Difficult to Buy a ‘Dumb’ TV]]></description>
-        </item>
-        <item>
-            <title><![CDATA[文化厌恶症。在稀薄的世界中追求更厚的欲望]]></title>
-            <link>https://news.ycombinator.com/item?id=31037724</link>
-            <guid>https://news.ycombinator.com/item?id=31037724</guid>
-            <pubDate>Fri, 15 Apr 2022 08:15:51 GMT</pubDate>
-            <description><![CDATA[Cultural Anorexia: The Pursuit of Thicker Desires in a Thinning World]]></description>
         </item>
     </channel>
 </rss>
