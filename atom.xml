@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T21:12:48.852Z</updated>
+    <updated>2022-04-21T21:32:27.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Uyuni - SUSE Manager的开源版本]]></title>
+        <id>https://news.ycombinator.com/item?id=31115254</id>
+        <link href="https://news.ycombinator.com/item?id=31115254"/>
+        <updated>2022-04-21T21:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Uyuni – open-source release of SUSE Manager]]></summary>
+        <author>
+            <name>merlinscholz</name>
+            <uri>https://news.ycombinator.com/user?id=merlinscholz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来自Hypercard的艺术片段]]></title>
+        <id>https://news.ycombinator.com/item?id=31115238</id>
+        <link href="https://news.ycombinator.com/item?id=31115238"/>
+        <updated>2022-04-21T21:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Art Bits from Hypercard]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我开发Common Lisp 3D软件历程的新博客]]></title>
+        <id>https://news.ycombinator.com/item?id=31115221</id>
+        <link href="https://news.ycombinator.com/item?id=31115221"/>
+        <updated>2022-04-21T21:09:26.000Z</updated>
+        <summary type="html"><![CDATA[New blog about my journey to develop a Common Lisp 3D software]]></summary>
+        <author>
+            <name>kaveh808</name>
+            <uri>https://news.ycombinator.com/user?id=kaveh808</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skio（Shopify的订阅，轻松实现ReCharge迁移）正在纽约市招聘工程师]]></title>
         <id>https://news.ycombinator.com/item?id=31115125</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>vitabenes</name>
             <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[查询大型JSON文件的最快工具是用Python写的（基准）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31004563</id>
-        <link href="https://news.ycombinator.com/item?id=31004563"/>
-        <updated>2022-04-12T16:10:25.000Z</updated>
-        <summary type="html"><![CDATA[The fastest tool for querying large JSON files is written in Python (benchmark)]]></summary>
-        <author>
-            <name>dmoura</name>
-            <uri>https://news.ycombinator.com/user?id=dmoura</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[边境上的Rustaceans [Linux Kernel] 。]]></title>
-        <id>https://news.ycombinator.com/item?id=31037273</id>
-        <link href="https://news.ycombinator.com/item?id=31037273"/>
-        <updated>2022-04-15T06:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Rustaceans at the Border [Linux Kernel]]]></summary>
-        <author>
-            <name>bitcharmer</name>
-            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编写突变引擎和突破Aimware]]></title>
-        <id>https://news.ycombinator.com/item?id=31023860</id>
-        <link href="https://news.ycombinator.com/item?id=31023860"/>
-        <updated>2022-04-14T06:06:50.000Z</updated>
-        <summary type="html"><![CDATA[Writing a Mutation Engine and Breaking Aimware]]></summary>
-        <author>
-            <name>disk0</name>
-            <uri>https://news.ycombinator.com/user?id=disk0</uri>
         </author>
     </entry>
 </feed>
