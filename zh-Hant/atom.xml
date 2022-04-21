@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T20:54:26.114Z</updated>
+    <updated>2022-04-21T21:12:48.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Skio（Shopify的訂閱，輕鬆實現ReCharge遷移）正在紐約市招聘工程師]]></title>
+        <id>https://news.ycombinator.com/item?id=31115125</id>
+        <link href="https://news.ycombinator.com/item?id=31115125"/>
+        <updated>2022-04-21T21:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring eng in NYC]]></summary>
+        <author>
+            <name>kennandavison</name>
+            <uri>https://news.ycombinator.com/user?id=kennandavison</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python的 "類型提示 "讓我感到有點失望]]></title>
         <id>https://news.ycombinator.com/item?id=31114554</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>disk0</name>
             <uri>https://news.ycombinator.com/user?id=disk0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古生物學家正試圖理解為什麼化石記錄中大部分是男性]]></title>
-        <id>https://news.ycombinator.com/item?id=31036817</id>
-        <link href="https://news.ycombinator.com/item?id=31036817"/>
-        <updated>2022-04-15T05:21:39.000Z</updated>
-        <summary type="html"><![CDATA[Paleontologists Are Trying to Understand Why the Fossil Record Is Mostly Males]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
