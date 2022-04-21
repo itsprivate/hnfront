@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T08:57:51.048Z</updated>
+    <updated>2022-04-21T09:13:51.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fedora考虑废止传统的BIOS]]></title>
+        <id>https://news.ycombinator.com/item?id=31107262</id>
+        <link href="https://news.ycombinator.com/item?id=31107262"/>
+        <updated>2022-04-21T08:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Fedora considers deprecating legacy BIOS]]></summary>
+        <author>
+            <name>bitcharmer</name>
+            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从外部SSD启动Mac Studio，以及它不能解决的问题]]></title>
         <id>https://news.ycombinator.com/item?id=31080421</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arzmir</name>
             <uri>https://news.ycombinator.com/user?id=arzmir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天然葡萄酒、继承的金钱和 "未来富有的千禧一代 "的幻想]]></title>
-        <id>https://news.ycombinator.com/item?id=31027629</id>
-        <link href="https://news.ycombinator.com/item?id=31027629"/>
-        <updated>2022-04-14T14:40:58.000Z</updated>
-        <summary type="html"><![CDATA[Natural Wine, Inherited Money, and the Delusions of the “Future-Rich Millennial”]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
