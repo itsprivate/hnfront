@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T17:51:49.110Z</updated>
+    <updated>2022-04-21T17:57:36.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宣佈a16z加密貨幣研究]]></title>
+        <id>https://news.ycombinator.com/item?id=31112043</id>
+        <link href="https://news.ycombinator.com/item?id=31112043"/>
+        <updated>2022-04-21T17:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Announcing a16z crypto research]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果停產macOS服務器]]></title>
         <id>https://news.ycombinator.com/item?id=31112639</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>car</name>
             <uri>https://news.ycombinator.com/user?id=car</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電錶兩邊的能源儲存的未來]]></title>
-        <id>https://news.ycombinator.com/item?id=31021845</id>
-        <link href="https://news.ycombinator.com/item?id=31021845"/>
-        <updated>2022-04-14T00:01:08.000Z</updated>
-        <summary type="html"><![CDATA[The Future of Energy Storage on Both Sides of the Meter]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
