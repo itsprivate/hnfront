@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T22:34:14.692Z</updated>
+    <updated>2022-04-22T23:33:59.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用WebAssembly的JavaScript垃圾收集今天是可能的]]></title>
+        <id>https://news.ycombinator.com/item?id=31107591</id>
+        <link href="https://news.ycombinator.com/item?id=31107591"/>
+        <updated>2022-04-21T10:00:46.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript Garbage Collection with WebAssembly Is Possible Today]]></summary>
+        <author>
+            <name>PainfullyNormal</name>
+            <uri>https://news.ycombinator.com/user?id=PainfullyNormal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有用的自我改进干预措施]]></title>
         <id>https://news.ycombinator.com/item?id=31102991</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>goindeep</name>
             <uri>https://news.ycombinator.com/user?id=goindeep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单手键盘（不仅仅是为残疾人服务的）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31050827</id>
-        <link href="https://news.ycombinator.com/item?id=31050827"/>
-        <updated>2022-04-16T08:59:12.000Z</updated>
-        <summary type="html"><![CDATA[One-Handed Keyboard (Not just for the disabled)]]></summary>
-        <author>
-            <name>pseingatl</name>
-            <uri>https://news.ycombinator.com/user?id=pseingatl</uri>
         </author>
     </entry>
 </feed>
