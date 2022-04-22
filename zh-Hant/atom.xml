@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T14:13:54.565Z</updated>
+    <updated>2022-04-22T14:32:03.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CNN+的混亂崩潰]]></title>
+        <id>https://news.ycombinator.com/item?id=31120706</id>
+        <link href="https://news.ycombinator.com/item?id=31120706"/>
+        <updated>2022-04-22T12:19:28.000Z</updated>
+        <summary type="html"><![CDATA[The Chaotic Collapse of CNN+]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[返回辦公室的天價費用]]></title>
         <id>https://news.ycombinator.com/item?id=31120298</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mzs</name>
             <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[錯誤是構建的，而不是發現的]]></title>
-        <id>https://news.ycombinator.com/item?id=31013595</id>
-        <link href="https://news.ycombinator.com/item?id=31013595"/>
-        <updated>2022-04-13T11:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Errors are constructed, not discovered]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
