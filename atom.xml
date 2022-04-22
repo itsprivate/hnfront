@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T21:32:32.872Z</updated>
+    <updated>2022-04-22T21:40:36.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纸上稀释剂]]></title>
+        <id>https://news.ycombinator.com/item?id=31128011</id>
+        <link href="https://news.ycombinator.com/item?id=31128011"/>
+        <updated>2022-04-22T20:57:18.000Z</updated>
+        <summary type="html"><![CDATA[Thinner on Paper]]></summary>
+        <author>
+            <name>nopg</name>
+            <uri>https://news.ycombinator.com/user?id=nopg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何建立一个家庭实验室]]></title>
+        <id>https://news.ycombinator.com/item?id=31094301</id>
+        <link href="https://news.ycombinator.com/item?id=31094301"/>
+        <updated>2022-04-20T08:49:24.000Z</updated>
+        <summary type="html"><![CDATA[How to Build a Homelab]]></summary>
+        <author>
+            <name>ashitlerferad</name>
+            <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不可能超过USPS平价小盒的重量限制]]></title>
         <id>https://news.ycombinator.com/item?id=31116024</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>david_l_lin</name>
             <uri>https://news.ycombinator.com/user?id=david_l_lin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度学习理论的原则]]></title>
-        <id>https://news.ycombinator.com/item?id=31051540</id>
-        <link href="https://news.ycombinator.com/item?id=31051540"/>
-        <updated>2022-04-16T11:41:04.000Z</updated>
-        <summary type="html"><![CDATA[The Principles of Deep Learning Theory]]></summary>
-        <author>
-            <name>Anon84</name>
-            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[归因堆栈。如何在iOS14之后的世界中做出预算决策]]></title>
-        <id>https://news.ycombinator.com/item?id=31024705</id>
-        <link href="https://news.ycombinator.com/item?id=31024705"/>
-        <updated>2022-04-14T09:06:50.000Z</updated>
-        <summary type="html"><![CDATA[The Attribution Stack: How to Make Budget Decisions in a Post-iOS14 World]]></summary>
-        <author>
-            <name>hammer_mt</name>
-            <uri>https://news.ycombinator.com/user?id=hammer_mt</uri>
         </author>
     </entry>
 </feed>
