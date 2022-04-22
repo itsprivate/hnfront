@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T09:14:06.451Z</updated>
+    <updated>2022-04-22T09:34:57.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何建立你自己的量子糾纏實驗]]></title>
+        <id>https://news.ycombinator.com/item?id=31089768</id>
+        <link href="https://news.ycombinator.com/item?id=31089768"/>
+        <updated>2022-04-19T21:51:50.000Z</updated>
+        <summary type="html"><![CDATA[How to Build Your Own Quantum Entanglement Experiment]]></summary>
+        <author>
+            <name>abrax3141</name>
+            <uri>https://news.ycombinator.com/user?id=abrax3141</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恩索公司（YC S21）正在招聘高級Rust開發人員]]></title>
         <id>https://news.ycombinator.com/item?id=31119597</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Dangeranger</name>
             <uri>https://news.ycombinator.com/user?id=Dangeranger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我會用你的錢做的可怕事情]]></title>
-        <id>https://news.ycombinator.com/item?id=31041153</id>
-        <link href="https://news.ycombinator.com/item?id=31041153"/>
-        <updated>2022-04-15T15:15:47.000Z</updated>
-        <summary type="html"><![CDATA[The terrible things I'd do with your money]]></summary>
-        <author>
-            <name>timdaub</name>
-            <uri>https://news.ycombinator.com/user?id=timdaub</uri>
         </author>
     </entry>
 </feed>
