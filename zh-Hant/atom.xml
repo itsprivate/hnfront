@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T08:39:04.961Z</updated>
+    <updated>2022-04-22T08:57:05.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於x86/x86_64/ARM的Snowman本地代碼轉C/C++反編譯器]]></title>
+        <id>https://news.ycombinator.com/item?id=31119138</id>
+        <link href="https://news.ycombinator.com/item?id=31119138"/>
+        <updated>2022-04-22T07:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Snowman native code to C/C++ decompiler for x86/x86_64/ARM]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[x86架構是個怪人，第二部分]]></title>
         <id>https://news.ycombinator.com/item?id=31077912</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>germinalphrase</name>
             <uri>https://news.ycombinator.com/user?id=germinalphrase</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[億萬富翁關注平行媒體世界]]></title>
-        <id>https://news.ycombinator.com/item?id=31040875</id>
-        <link href="https://news.ycombinator.com/item?id=31040875"/>
-        <updated>2022-04-15T14:49:20.000Z</updated>
-        <summary type="html"><![CDATA[Billionaires eye parallel media universe]]></summary>
-        <author>
-            <name>Bhilai</name>
-            <uri>https://news.ycombinator.com/user?id=Bhilai</uri>
         </author>
     </entry>
 </feed>
