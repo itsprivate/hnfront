@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T05:51:12.996Z</updated>
+    <updated>2022-04-22T06:15:45.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有谁厌倦了所有公司的胡说八道？]]></title>
+        <id>https://news.ycombinator.com/item?id=31117981</id>
+        <link href="https://news.ycombinator.com/item?id=31117981"/>
+        <updated>2022-04-22T03:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else is tired of all the corporate bs?]]></summary>
+        <author>
+            <name>boredemployee</name>
+            <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洋葱报》已被永久禁止在Twitter上发表文章]]></title>
         <id>https://news.ycombinator.com/item?id=31118395</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wagslane</name>
             <uri>https://news.ycombinator.com/user?id=wagslane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPLS/LDP创建神话]]></title>
-        <id>https://news.ycombinator.com/item?id=31040142</id>
-        <link href="https://news.ycombinator.com/item?id=31040142"/>
-        <updated>2022-04-15T13:44:41.000Z</updated>
-        <summary type="html"><![CDATA[MPLS/LDP Creation Myths]]></summary>
-        <author>
-            <name>liotier</name>
-            <uri>https://news.ycombinator.com/user?id=liotier</uri>
         </author>
     </entry>
 </feed>
