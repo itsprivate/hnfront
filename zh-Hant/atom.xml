@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T19:51:46.366Z</updated>
+    <updated>2022-04-22T20:15:09.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幾何深度學習。第一個步驟]]></title>
+        <id>https://news.ycombinator.com/item?id=31126132</id>
+        <link href="https://news.ycombinator.com/item?id=31126132"/>
+        <updated>2022-04-22T18:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Geometric deep learning: First steps]]></summary>
+        <author>
+            <name>A_N_T_O_N_I_O</name>
+            <uri>https://news.ycombinator.com/user?id=A_N_T_O_N_I_O</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是否有任何農村科技社區？]]></title>
         <id>https://news.ycombinator.com/item?id=31126749</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>helsinkiandrew</name>
             <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[評估Ruby中的Ruby (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=31025141</id>
-        <link href="https://news.ycombinator.com/item?id=31025141"/>
-        <updated>2022-04-14T10:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Evaluating Ruby in Ruby (2020)]]></summary>
-        <author>
-            <name>cribbles</name>
-            <uri>https://news.ycombinator.com/user?id=cribbles</uri>
         </author>
     </entry>
 </feed>
