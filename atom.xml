@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T14:03:27.477Z</updated>
+    <updated>2022-04-22T14:13:54.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[返回办公室的天价费用]]></title>
+        <id>https://news.ycombinator.com/item?id=31120298</id>
+        <link href="https://news.ycombinator.com/item?id=31120298"/>
+        <updated>2022-04-22T11:19:34.000Z</updated>
+        <summary type="html"><![CDATA[The sky-high cost of returning to the office]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[真正的生物钟是你会死的（2018）。]]></title>
         <id>https://news.ycombinator.com/item?id=31121453</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo从其搜索结果中删除了海盗网站和YouTube-DL]]></title>
-        <id>https://news.ycombinator.com/item?id=31044587</id>
-        <link href="https://news.ycombinator.com/item?id=31044587"/>
-        <updated>2022-04-15T19:22:11.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
