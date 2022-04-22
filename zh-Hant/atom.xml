@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T06:15:45.330Z</updated>
+    <updated>2022-04-22T06:40:25.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美容院的秘密密碼]]></title>
+        <id>https://news.ycombinator.com/item?id=31088049</id>
+        <link href="https://news.ycombinator.com/item?id=31088049"/>
+        <updated>2022-04-19T19:48:57.000Z</updated>
+        <summary type="html"><![CDATA[The Secret Code of Beauty Spots]]></summary>
+        <author>
+            <name>evilsimon</name>
+            <uri>https://news.ycombinator.com/user?id=evilsimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有誰厭倦了所有公司的胡說八道？]]></title>
         <id>https://news.ycombinator.com/item?id=31117981</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lelf</name>
             <uri>https://news.ycombinator.com/user?id=lelf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[橢圓曲線密碼學。基本介紹]]></title>
-        <id>https://news.ycombinator.com/item?id=31040571</id>
-        <link href="https://news.ycombinator.com/item?id=31040571"/>
-        <updated>2022-04-15T14:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Elliptic Curve Cryptography: A Basic Introduction]]></summary>
-        <author>
-            <name>wagslane</name>
-            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
         </author>
     </entry>
 </feed>
