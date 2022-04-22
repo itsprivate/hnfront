@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T18:40:33.830Z</updated>
+    <updated>2022-04-22T19:28:21.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Pico和Microwriter Cykey和弦的类似议程的键盘]]></title>
+        <id>https://news.ycombinator.com/item?id=31094065</id>
+        <link href="https://news.ycombinator.com/item?id=31094065"/>
+        <updated>2022-04-20T08:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Agenda-Like Chord Keyboard Using a Pico and the Microwriter Cykey Chords]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带网枪的无人机拦截器]]></title>
         <id>https://news.ycombinator.com/item?id=31120498</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cozis</name>
             <uri>https://news.ycombinator.com/user?id=cozis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单线图]]></title>
-        <id>https://news.ycombinator.com/item?id=31040588</id>
-        <link href="https://news.ycombinator.com/item?id=31040588"/>
-        <updated>2022-04-15T14:22:41.000Z</updated>
-        <summary type="html"><![CDATA[One-line drawings]]></summary>
-        <author>
-            <name>qrv3w</name>
-            <uri>https://news.ycombinator.com/user?id=qrv3w</uri>
         </author>
     </entry>
 </feed>
