@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-22T07:31:50.667Z</updated>
+    <updated>2022-04-22T08:39:04.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[x86架構是個怪人，第二部分]]></title>
+        <id>https://news.ycombinator.com/item?id=31077912</id>
+        <link href="https://news.ycombinator.com/item?id=31077912"/>
+        <updated>2022-04-18T23:14:47.000Z</updated>
+        <summary type="html"><![CDATA[The x86 architecture is the weirdo, part 2]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更快的GDB啟動]]></title>
         <id>https://news.ycombinator.com/item?id=31102872</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Bhilai</name>
             <uri>https://news.ycombinator.com/user?id=Bhilai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科羅拉多州的安全站是國家的法律]]></title>
-        <id>https://news.ycombinator.com/item?id=31040669</id>
-        <link href="https://news.ycombinator.com/item?id=31040669"/>
-        <updated>2022-04-15T14:29:55.000Z</updated>
-        <summary type="html"><![CDATA[The Colorado Safety Stop is the law of the land]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
