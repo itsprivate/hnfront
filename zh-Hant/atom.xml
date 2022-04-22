@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-21T23:52:01.320Z</updated>
+    <updated>2022-04-22T00:47:04.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[打印機隱寫術 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31093692</id>
+        <link href="https://news.ycombinator.com/item?id=31093692"/>
+        <updated>2022-04-20T07:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Printer Steganography [pdf]]]></summary>
+        <author>
+            <name>manjana</name>
+            <uri>https://news.ycombinator.com/user?id=manjana</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[據報道，Meta首席運營官桑德伯格試圖阻止有關動視首席執行官科蒂克的報道。]]></title>
         <id>https://news.ycombinator.com/item?id=31116303</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lkrubner</name>
             <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指針是複雜的III，或。指針--整數投射曝光]]></title>
-        <id>https://news.ycombinator.com/item?id=31038364</id>
-        <link href="https://news.ycombinator.com/item?id=31038364"/>
-        <updated>2022-04-15T10:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Pointers Are Complicated III, or: Pointer-integer casts exposed]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
         </author>
     </entry>
 </feed>
