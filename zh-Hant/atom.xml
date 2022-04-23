@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T11:36:57.210Z</updated>
+    <updated>2022-04-23T11:51:55.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三行單二進制編譯器免費博客]]></title>
+        <id>https://news.ycombinator.com/item?id=31119322</id>
+        <link href="https://news.ycombinator.com/item?id=31119322"/>
+        <updated>2022-04-22T08:04:18.000Z</updated>
+        <summary type="html"><![CDATA[The three line single binary compiler free blog]]></summary>
+        <author>
+            <name>georgia_peach</name>
+            <uri>https://news.ycombinator.com/user?id=georgia_peach</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於Lineage OS用戶來說，什麼是最好的流媒體設備？]]></title>
         <id>https://news.ycombinator.com/item?id=31132966</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vmoore</name>
             <uri>https://news.ycombinator.com/user?id=vmoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InvenTree: 開源的庫存管理系統]]></title>
-        <id>https://news.ycombinator.com/item?id=31030047</id>
-        <link href="https://news.ycombinator.com/item?id=31030047"/>
-        <updated>2022-04-14T17:19:11.000Z</updated>
-        <summary type="html"><![CDATA[InvenTree: Open-source inventory management system]]></summary>
-        <author>
-            <name>OJFord</name>
-            <uri>https://news.ycombinator.com/user?id=OJFord</uri>
         </author>
     </entry>
 </feed>
