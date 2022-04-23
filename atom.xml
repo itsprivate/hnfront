@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T21:31:33.361Z</updated>
+    <updated>2022-04-23T22:13:02.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[永恒的地狱]]></title>
+        <id>https://news.ycombinator.com/item?id=31100438</id>
+        <link href="https://news.ycombinator.com/item?id=31100438"/>
+        <updated>2022-04-20T17:45:28.000Z</updated>
+        <summary type="html"><![CDATA[The Ever Loving Hell]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Ubuntu 22.04上从.deb（不是从snap）下载火狐。]]></title>
         <id>https://news.ycombinator.com/item?id=31138413</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mcraiha</name>
             <uri>https://news.ycombinator.com/user?id=mcraiha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去你的奇迹年]]></title>
-        <id>https://news.ycombinator.com/item?id=31060475</id>
-        <link href="https://news.ycombinator.com/item?id=31060475"/>
-        <updated>2022-04-17T12:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Fuck Your Miracle Year]]></summary>
-        <author>
-            <name>ianwehba</name>
-            <uri>https://news.ycombinator.com/user?id=ianwehba</uri>
         </author>
     </entry>
 </feed>
