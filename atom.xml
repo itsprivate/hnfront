@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T14:30:25.304Z</updated>
+    <updated>2022-04-23T14:51:47.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我升级到25Gbit/s光纤到户]]></title>
+        <id>https://news.ycombinator.com/item?id=31134534</id>
+        <link href="https://news.ycombinator.com/item?id=31134534"/>
+        <updated>2022-04-23T14:25:22.000Z</updated>
+        <summary type="html"><![CDATA[My upgrade to 25 Gbit/s Fiber To The Home]]></summary>
+        <author>
+            <name>secure</name>
+            <uri>https://news.ycombinator.com/user?id=secure</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让开源硬件设计成为现实]]></title>
+        <id>https://news.ycombinator.com/item?id=31134201</id>
+        <link href="https://news.ycombinator.com/item?id=31134201"/>
+        <updated>2022-04-23T13:43:59.000Z</updated>
+        <summary type="html"><![CDATA[Making open source hardware design a reality]]></summary>
+        <author>
+            <name>adapteva</name>
+            <uri>https://news.ycombinator.com/user?id=adapteva</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我正在使用SNI代理和IPv6在Webapps之间共享443端口]]></title>
+        <id>https://news.ycombinator.com/item?id=31120137</id>
+        <link href="https://news.ycombinator.com/item?id=31120137"/>
+        <updated>2022-04-22T10:52:19.000Z</updated>
+        <summary type="html"><![CDATA[I'm Using SNI Proxying and IPv6 to Share Port 443 Between Webapps]]></summary>
+        <author>
+            <name>petercooper</name>
+            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[圣克莱尔光谱的DevOps]]></title>
         <id>https://news.ycombinator.com/item?id=31134121</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>em-bee</name>
             <uri>https://news.ycombinator.com/user?id=em-bee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英文维基百科中缺少的著名项目]]></title>
-        <id>https://news.ycombinator.com/item?id=31055743</id>
-        <link href="https://news.ycombinator.com/item?id=31055743"/>
-        <updated>2022-04-16T20:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Notable items missing from English Wikipedia]]></summary>
-        <author>
-            <name>AndrewDucker</name>
-            <uri>https://news.ycombinator.com/user?id=AndrewDucker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[标准ML系列]]></title>
-        <id>https://news.ycombinator.com/item?id=31055564</id>
-        <link href="https://news.ycombinator.com/item?id=31055564"/>
-        <updated>2022-04-16T19:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Standard ML Family]]></summary>
-        <author>
-            <name>rdpintqogeogsaa</name>
-            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有粒子和力量的新地图 (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=31055798</id>
-        <link href="https://news.ycombinator.com/item?id=31055798"/>
-        <updated>2022-04-16T20:26:36.000Z</updated>
-        <summary type="html"><![CDATA[A New Map of All the Particles and Forces (2020)]]></summary>
-        <author>
-            <name>frutiger</name>
-            <uri>https://news.ycombinator.com/user?id=frutiger</uri>
         </author>
     </entry>
 </feed>
