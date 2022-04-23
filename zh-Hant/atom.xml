@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T20:34:20.237Z</updated>
+    <updated>2022-04-23T20:44:08.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司的編譯器（TASC）。我們擁有源代碼，從某種意義上說]]></title>
+        <id>https://news.ycombinator.com/item?id=31138214</id>
+        <link href="https://news.ycombinator.com/item?id=31138214"/>
+        <updated>2022-04-23T20:31:55.000Z</updated>
+        <summary type="html"><![CDATA[The Applesoft Compiler (TASC): We have the source code, in a sense]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北越的米格機攻擊美國海軍軍艦的那一次]]></title>
         <id>https://news.ycombinator.com/item?id=31137646</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jdasdf</name>
             <uri>https://news.ycombinator.com/user?id=jdasdf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD手冊改進調查]]></title>
-        <id>https://news.ycombinator.com/item?id=31060331</id>
-        <link href="https://news.ycombinator.com/item?id=31060331"/>
-        <updated>2022-04-17T12:15:06.000Z</updated>
-        <summary type="html"><![CDATA[FreeBSD Handbook Improvement Survey]]></summary>
-        <author>
-            <name>rdpintqogeogsaa</name>
-            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
         </author>
     </entry>
 </feed>
