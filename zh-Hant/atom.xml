@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T08:37:10.004Z</updated>
+    <updated>2022-04-23T09:42:41.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寬波段WebSDR]]></title>
+        <id>https://news.ycombinator.com/item?id=31094927</id>
+        <link href="https://news.ycombinator.com/item?id=31094927"/>
+        <updated>2022-04-20T10:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Wide-Band WebSDR]]></summary>
+        <author>
+            <name>smusamashah</name>
+            <uri>https://news.ycombinator.com/user?id=smusamashah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元素--在測試中引入線程]]></title>
         <id>https://news.ycombinator.com/item?id=31132313</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Yertis</name>
             <uri>https://news.ycombinator.com/user?id=Yertis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[操作系統。CPU調度]]></title>
-        <id>https://news.ycombinator.com/item?id=31053734</id>
-        <link href="https://news.ycombinator.com/item?id=31053734"/>
-        <updated>2022-04-16T16:34:49.000Z</updated>
-        <summary type="html"><![CDATA[Operating Systems: CPU Scheduling]]></summary>
-        <author>
-            <name>peter_d_sherman</name>
-            <uri>https://news.ycombinator.com/user?id=peter_d_sherman</uri>
         </author>
     </entry>
 </feed>
