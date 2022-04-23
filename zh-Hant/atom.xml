@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T06:38:49.295Z</updated>
+    <updated>2022-04-23T07:12:37.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Stacker（YC S20）正在招聘產品工程師（遠程/歐洲）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31132065</id>
+        <link href="https://news.ycombinator.com/item?id=31132065"/>
+        <updated>2022-04-23T07:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Stacker (YC S20) Is Hiring a Product Engineer (Remote/Europe)]]></summary>
+        <author>
+            <name>davyson</name>
+            <uri>https://news.ycombinator.com/user?id=davyson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電動滑板車的復興--亞當-澤魯夫（2019）。]]></title>
         <id>https://news.ycombinator.com/item?id=31094354</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang FFmpeg包裝器用於簡單的視頻I/O和網絡攝像頭流。]]></title>
-        <id>https://news.ycombinator.com/item?id=31053274</id>
-        <link href="https://news.ycombinator.com/item?id=31053274"/>
-        <updated>2022-04-16T15:51:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming]]></summary>
-        <author>
-            <name>crypt0lution</name>
-            <uri>https://news.ycombinator.com/user?id=crypt0lution</uri>
         </author>
     </entry>
 </feed>
