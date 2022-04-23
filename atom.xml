@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T21:13:01.326Z</updated>
+    <updated>2022-04-23T21:31:33.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Ubuntu 22.04上从.deb（不是从snap）下载火狐。]]></title>
+        <id>https://news.ycombinator.com/item?id=31138413</id>
+        <link href="https://news.ycombinator.com/item?id=31138413"/>
+        <updated>2022-04-23T20:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Firefox on Ubuntu 22.04 from .deb (not from snap)]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发明Postscript--让印刷业不再痛苦的技术]]></title>
+        <id>https://news.ycombinator.com/item?id=31138228</id>
+        <link href="https://news.ycombinator.com/item?id=31138228"/>
+        <updated>2022-04-23T20:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Inventing Postscript, the Tech That Took the Pain Out of Printing]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[凯博（YC W22）正在招聘创始工程师（远程）。]]></title>
         <id>https://news.ycombinator.com/item?id=31138491</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ianwehba</name>
             <uri>https://news.ycombinator.com/user?id=ianwehba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要建立无用的功能]]></title>
-        <id>https://news.ycombinator.com/item?id=31060461</id>
-        <link href="https://news.ycombinator.com/item?id=31060461"/>
-        <updated>2022-04-17T12:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Don't Build Useless Features]]></summary>
-        <author>
-            <name>staccatomeasure</name>
-            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吸血鬼的攻击Twitter]]></title>
-        <id>https://news.ycombinator.com/item?id=31060368</id>
-        <link href="https://news.ycombinator.com/item?id=31060368"/>
-        <updated>2022-04-17T12:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Vampire Attack Twitter]]></summary>
-        <author>
-            <name>ProtonPower</name>
-            <uri>https://news.ycombinator.com/user?id=ProtonPower</uri>
         </author>
     </entry>
 </feed>
