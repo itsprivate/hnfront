@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T13:51:38.105Z</updated>
+    <updated>2022-04-23T14:13:15.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由于代码不良，3400万美元被永久锁定在AkuDreams合同中]]></title>
+        <id>https://news.ycombinator.com/item?id=31134154</id>
+        <link href="https://news.ycombinator.com/item?id=31134154"/>
+        <updated>2022-04-23T13:37:38.000Z</updated>
+        <summary type="html"><![CDATA[$34M permanently locked into AkuDreams contract forever due to bad code]]></summary>
+        <author>
+            <name>donohoe</name>
+            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我停止了关于黑洞信息丢失的工作。这就是原因]]></title>
+        <id>https://news.ycombinator.com/item?id=31134074</id>
+        <link href="https://news.ycombinator.com/item?id=31134074"/>
+        <updated>2022-04-23T13:28:21.000Z</updated>
+        <summary type="html"><![CDATA[I stopped working on black hole information loss. Here’s why]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布莱斯悖论]]></title>
+        <id>https://news.ycombinator.com/item?id=31133775</id>
+        <link href="https://news.ycombinator.com/item?id=31133775"/>
+        <updated>2022-04-23T12:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Braess Paradox]]></summary>
+        <author>
+            <name>Anon84</name>
+            <uri>https://news.ycombinator.com/user?id=Anon84</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三行单二进制编译器免费博客]]></title>
+        <id>https://news.ycombinator.com/item?id=31133550</id>
+        <link href="https://news.ycombinator.com/item?id=31133550"/>
+        <updated>2022-04-23T12:06:54.000Z</updated>
+        <summary type="html"><![CDATA[The three line single binary compiler free blog]]></summary>
+        <author>
+            <name>rhabarba</name>
+            <uri>https://news.ycombinator.com/user?id=rhabarba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[芝加哥的新闻业和腐败，1912-1931年]]></title>
         <id>https://news.ycombinator.com/item?id=31105610</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>istoica</name>
             <uri>https://news.ycombinator.com/user?id=istoica</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4917 儿童机器代码 - 纸牌游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=31039229</id>
-        <link href="https://news.ycombinator.com/item?id=31039229"/>
-        <updated>2022-04-15T12:07:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 4917 Machine Code for Kids – Card Game]]></summary>
-        <author>
-            <name>throwaway47292</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway47292</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流行病学研究的因果图 (1999)]]></title>
-        <id>https://news.ycombinator.com/item?id=31037416</id>
-        <link href="https://news.ycombinator.com/item?id=31037416"/>
-        <updated>2022-04-15T07:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Causal Diagrams for Epidemiologic Research (1999)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的网站，托管在386 25 MHz，4 MiB的内存，38400波特的互联网上。]]></title>
-        <id>https://news.ycombinator.com/item?id=31055132</id>
-        <link href="https://news.ycombinator.com/item?id=31055132"/>
-        <updated>2022-04-16T19:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet]]></summary>
-        <author>
-            <name>serentty</name>
-            <uri>https://news.ycombinator.com/user?id=serentty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将SBCL Common Lisp作为动态库使用]]></title>
-        <id>https://news.ycombinator.com/item?id=31054796</id>
-        <link href="https://news.ycombinator.com/item?id=31054796"/>
-        <updated>2022-04-16T18:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Using SBCL Common Lisp as a Dynamic Library]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
