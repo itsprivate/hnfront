@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T18:38:40.199Z</updated>
+    <updated>2022-04-23T18:56:26.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[構建逆向吉姆-克萊默指數]]></title>
+        <id>https://news.ycombinator.com/item?id=31137060</id>
+        <link href="https://news.ycombinator.com/item?id=31137060"/>
+        <updated>2022-04-23T18:40:34.000Z</updated>
+        <summary type="html"><![CDATA[Building the Inverse Jim Cramer Index]]></summary>
+        <author>
+            <name>vampiretooth1</name>
+            <uri>https://news.ycombinator.com/user?id=vampiretooth1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彼得-布拉瑟合成器設計]]></title>
+        <id>https://news.ycombinator.com/item?id=31118911</id>
+        <link href="https://news.ycombinator.com/item?id=31118911"/>
+        <updated>2022-04-22T06:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Peter Blasser Synth Design]]></summary>
+        <author>
+            <name>brudgers</name>
+            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓在五年內失去了8%的全球操作系統市場份額]]></title>
         <id>https://news.ycombinator.com/item?id=31136586</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pipedream：入侵工業控制系統的 "瑞士軍刀]]></title>
-        <id>https://news.ycombinator.com/item?id=31024778</id>
-        <link href="https://news.ycombinator.com/item?id=31024778"/>
-        <updated>2022-04-14T09:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Pipedream: ‘Swiss Army Knife’ for Hacking Industrial Control Systems]]></summary>
-        <author>
-            <name>draugadrotten</name>
-            <uri>https://news.ycombinator.com/user?id=draugadrotten</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raycast（YC W20）正在招聘，以使工作無障礙（歐洲的遠程）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31059075</id>
-        <link href="https://news.ycombinator.com/item?id=31059075"/>
-        <updated>2022-04-17T07:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Raycast (YC W20) Is Hiring to Make Work Frictionless (Remote in Europe)]]></summary>
-        <author>
-            <name>thomaspaulmann</name>
-            <uri>https://news.ycombinator.com/user?id=thomaspaulmann</uri>
         </author>
     </entry>
 </feed>
