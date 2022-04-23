@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T10:36:12.830Z</updated>
+    <updated>2022-04-23T10:53:10.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[興趣愛好的貨幣化]]></title>
+        <id>https://news.ycombinator.com/item?id=31107128</id>
+        <link href="https://news.ycombinator.com/item?id=31107128"/>
+        <updated>2022-04-21T08:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Monetizing Hobbies]]></summary>
+        <author>
+            <name>victorstanciu</name>
+            <uri>https://news.ycombinator.com/user?id=victorstanciu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盧布為什麼會穩定下來，發生了什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=31132780</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mikestew</name>
             <uri>https://news.ycombinator.com/user?id=mikestew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美俄核戰爭研究報告：最初幾小時內有91.5MM人傷亡（2019年）]]></title>
-        <id>https://news.ycombinator.com/item?id=31054050</id>
-        <link href="https://news.ycombinator.com/item?id=31054050"/>
-        <updated>2022-04-16T17:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Study on US-Russia nuclear war: 91.5 MM casualties in first few hours (2019)]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
-            <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
         </author>
     </entry>
 </feed>
