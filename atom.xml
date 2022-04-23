@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T00:42:45.149Z</updated>
+    <updated>2022-04-23T02:27:41.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[资助GNOME的去中心化/本地优先应用]]></title>
+        <id>https://news.ycombinator.com/item?id=31130511</id>
+        <link href="https://news.ycombinator.com/item?id=31130511"/>
+        <updated>2022-04-23T01:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Funding decentralised/local-first applications for GNOME]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端开发者的终端指南]]></title>
+        <id>https://news.ycombinator.com/item?id=31107606</id>
+        <link href="https://news.ycombinator.com/item?id=31107606"/>
+        <updated>2022-04-21T10:03:12.000Z</updated>
+        <summary type="html"><![CDATA[The Front-End Developer's Guide to the Terminal]]></summary>
+        <author>
+            <name>PainfullyNormal</name>
+            <uri>https://news.ycombinator.com/user?id=PainfullyNormal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杀死坦克。美国的 "标枪 "导弹首屈一指]]></title>
         <id>https://news.ycombinator.com/item?id=31129670</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>GreenPower</name>
             <uri>https://news.ycombinator.com/user?id=GreenPower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zig自我托管的编译器现在能够自我构建。]]></title>
-        <id>https://news.ycombinator.com/item?id=31052029</id>
-        <link href="https://news.ycombinator.com/item?id=31052029"/>
-        <updated>2022-04-16T13:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Zig self hosted compiler is now capable of building itself]]></summary>
-        <author>
-            <name>marcthe12</name>
-            <uri>https://news.ycombinator.com/user?id=marcthe12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布伦丹-格雷格将离开Netflix]]></title>
-        <id>https://news.ycombinator.com/item?id=31051662</id>
-        <link href="https://news.ycombinator.com/item?id=31051662"/>
-        <updated>2022-04-16T12:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Brendan Gregg is leaving Netflix]]></summary>
-        <author>
-            <name>heinrichhartman</name>
-            <uri>https://news.ycombinator.com/user?id=heinrichhartman</uri>
         </author>
     </entry>
 </feed>
