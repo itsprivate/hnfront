@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T18:14:16.870Z</updated>
+    <updated>2022-04-23T18:38:40.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安卓在五年内失去了8%的全球操作系统市场份额]]></title>
+        <id>https://news.ycombinator.com/item?id=31136586</id>
+        <link href="https://news.ycombinator.com/item?id=31136586"/>
+        <updated>2022-04-23T17:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Android loses 8% of its global OS market share in five years]]></summary>
+        <author>
+            <name>galogon</name>
+            <uri>https://news.ycombinator.com/user?id=galogon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测量与阿波罗飞船距离的数字测距系统]]></title>
         <id>https://news.ycombinator.com/item?id=31136285</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thomaspaulmann</name>
             <uri>https://news.ycombinator.com/user?id=thomaspaulmann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[死后生命在眼前闪现的证据]]></title>
-        <id>https://news.ycombinator.com/item?id=31048423</id>
-        <link href="https://news.ycombinator.com/item?id=31048423"/>
-        <updated>2022-04-16T01:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Evidence that life flashes before the eyes upon death]]></summary>
-        <author>
-            <name>relaunched</name>
-            <uri>https://news.ycombinator.com/user?id=relaunched</uri>
         </author>
     </entry>
 </feed>
