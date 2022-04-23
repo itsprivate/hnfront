@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-23T11:30:28.106Z</updated>
+    <updated>2022-04-23T11:36:57.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对于Lineage OS用户来说，什么是最好的流媒体设备？]]></title>
+        <id>https://news.ycombinator.com/item?id=31132966</id>
+        <link href="https://news.ycombinator.com/item?id=31132966"/>
+        <updated>2022-04-23T10:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is the best streaming device for a Lineage OS user?]]></summary>
+        <author>
+            <name>acqbu</name>
+            <uri>https://news.ycombinator.com/user?id=acqbu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[实验性] Fleet--Rust的构建工具，速度快达5倍。]]></title>
         <id>https://news.ycombinator.com/item?id=31132659</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>OJFord</name>
             <uri>https://news.ycombinator.com/user?id=OJFord</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacktape - 以类似Heroku的体验充分发挥AWS的力量]]></title>
-        <id>https://news.ycombinator.com/item?id=31014247</id>
-        <link href="https://news.ycombinator.com/item?id=31014247"/>
-        <updated>2022-04-13T13:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stacktape – Full power of AWS with Heroku-like experience]]></summary>
-        <author>
-            <name>matus_congrady</name>
-            <uri>https://news.ycombinator.com/user?id=matus_congrady</uri>
         </author>
     </entry>
 </feed>
