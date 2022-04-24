@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T22:33:11.326Z</updated>
+    <updated>2022-04-24T23:42:56.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[产生测量与阿波罗飞船距离的伪随机码]]></title>
+        <id>https://news.ycombinator.com/item?id=31149188</id>
+        <link href="https://news.ycombinator.com/item?id=31149188"/>
+        <updated>2022-04-24T23:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Generating the pseudo-random codes that measured distance to Apollo spacecraft]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[几乎线性时间内的最大流量和最小成本流量]]></title>
+        <id>https://news.ycombinator.com/item?id=31149038</id>
+        <link href="https://news.ycombinator.com/item?id=31149038"/>
+        <updated>2022-04-24T22:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Maximum Flow and Minimum-Cost Flow in Almost-Linear Time]]></summary>
+        <author>
+            <name>tarxzvf</name>
+            <uri>https://news.ycombinator.com/user?id=tarxzvf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特重新审视埃隆-马斯克的出价，可能更愿意接受交易]]></title>
+        <id>https://news.ycombinator.com/item?id=31146573</id>
+        <link href="https://news.ycombinator.com/item?id=31146573"/>
+        <updated>2022-04-24T18:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Twitter re-examines Elon Musk’s bid, may be more receptive to a deal]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让3D打印成为真正的3D]]></title>
+        <id>https://news.ycombinator.com/item?id=31142051</id>
+        <link href="https://news.ycombinator.com/item?id=31142051"/>
+        <updated>2022-04-24T07:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Making 3D printing truly 3D]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国人喜欢这两家便宜的德国杂货店连锁店]]></title>
         <id>https://news.ycombinator.com/item?id=31148682</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>pjmlp</name>
             <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鲜通过创纪录的加密货币黑客攻击实现了对以太坊的多元化发展]]></title>
-        <id>https://news.ycombinator.com/item?id=31071326</id>
-        <link href="https://news.ycombinator.com/item?id=31071326"/>
-        <updated>2022-04-18T14:44:26.000Z</updated>
-        <summary type="html"><![CDATA[North Korea Diversifies into Ethereum via Record Crypto Hack]]></summary>
-        <author>
-            <name>nscalf</name>
-            <uri>https://news.ycombinator.com/user?id=nscalf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的客厅里仍然有3台电视，但我有遗憾]]></title>
-        <id>https://news.ycombinator.com/item?id=31070749</id>
-        <link href="https://news.ycombinator.com/item?id=31070749"/>
-        <updated>2022-04-18T14:04:41.000Z</updated>
-        <summary type="html"><![CDATA[My living room still has 3 TVs but I have regrets]]></summary>
-        <author>
-            <name>sjav</name>
-            <uri>https://news.ycombinator.com/user?id=sjav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就计算而言，"守护者 "的起源是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31069163</id>
-        <link href="https://news.ycombinator.com/item?id=31069163"/>
-        <updated>2022-04-18T10:43:53.000Z</updated>
-        <summary type="html"><![CDATA[What is the origin of “daemon” with regards to computing?]]></summary>
-        <author>
-            <name>djoldman</name>
-            <uri>https://news.ycombinator.com/user?id=djoldman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西雅图的雨量有多大？它甚至不在美国主要城市的前列。]]></title>
-        <id>https://news.ycombinator.com/item?id=31069733</id>
-        <link href="https://news.ycombinator.com/item?id=31069733"/>
-        <updated>2022-04-18T12:23:21.000Z</updated>
-        <summary type="html"><![CDATA[How Rainy Is Seattle? It's Not Even in the Top of Major U.S. Cities]]></summary>
-        <author>
-            <name>mgh2</name>
-            <uri>https://news.ycombinator.com/user?id=mgh2</uri>
         </author>
     </entry>
 </feed>
