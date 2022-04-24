@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T03:13:48.958Z</updated>
+    <updated>2022-04-24T04:14:28.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从iOS备份中提取WhatsApp信息]]></title>
+        <id>https://news.ycombinator.com/item?id=31141042</id>
+        <link href="https://news.ycombinator.com/item?id=31141042"/>
+        <updated>2022-04-24T03:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Extracting WhatsApp Messages from an iOS Backup]]></summary>
+        <author>
+            <name>yasoob</name>
+            <uri>https://news.ycombinator.com/user?id=yasoob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本将依靠氨气运行？]]></title>
         <id>https://news.ycombinator.com/item?id=31140324</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零知识中间箱：对加密流量执行网络政策]]></title>
-        <id>https://news.ycombinator.com/item?id=31061628</id>
-        <link href="https://news.ycombinator.com/item?id=31061628"/>
-        <updated>2022-04-17T15:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Zero-Knowledge Middleboxes: enforce network policies on encrypted traffic]]></summary>
-        <author>
-            <name>self</name>
-            <uri>https://news.ycombinator.com/user?id=self</uri>
         </author>
     </entry>
 </feed>
