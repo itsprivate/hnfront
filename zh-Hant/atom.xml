@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T04:14:28.998Z</updated>
+    <updated>2022-04-24T04:41:16.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在CPU上建立一個BVH（邊界體積層次）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31126402</id>
+        <link href="https://news.ycombinator.com/item?id=31126402"/>
+        <updated>2022-04-22T18:55:12.000Z</updated>
+        <summary type="html"><![CDATA[How to Build a BVH (Bounding Volume Hierarchy) on the CPU]]></summary>
+        <author>
+            <name>henkie_b</name>
+            <uri>https://news.ycombinator.com/user?id=henkie_b</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從iOS備份中提取WhatsApp信息]]></title>
         <id>https://news.ycombinator.com/item?id=31141042</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>xmhidalgo</name>
             <uri>https://news.ycombinator.com/user?id=xmhidalgo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為你的下一個Chrome擴展提供CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=31061781</id>
-        <link href="https://news.ycombinator.com/item?id=31061781"/>
-        <updated>2022-04-17T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[The CLI for your next Chrome Extension]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>

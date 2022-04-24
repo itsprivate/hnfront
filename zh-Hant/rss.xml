@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 24 Apr 2022 04:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何在CPU上建立一個BVH（邊界體積層次）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31126402</link>
+            <guid>https://news.ycombinator.com/item?id=31126402</guid>
+            <pubDate>Fri, 22 Apr 2022 18:55:12 GMT</pubDate>
+            <description><![CDATA[How to Build a BVH (Bounding Volume Hierarchy) on the CPU]]></description>
+        </item>
         <item>
             <title><![CDATA[從iOS備份中提取WhatsApp信息]]></title>
             <link>https://news.ycombinator.com/item?id=31141042</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31061683</guid>
             <pubDate>Sun, 17 Apr 2022 15:50:34 GMT</pubDate>
             <description><![CDATA[Choosing the Right Integers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為你的下一個Chrome擴展提供CLI]]></title>
-            <link>https://news.ycombinator.com/item?id=31061781</link>
-            <guid>https://news.ycombinator.com/item?id=31061781</guid>
-            <pubDate>Sun, 17 Apr 2022 16:00:26 GMT</pubDate>
-            <description><![CDATA[The CLI for your next Chrome Extension]]></description>
         </item>
     </channel>
 </rss>
