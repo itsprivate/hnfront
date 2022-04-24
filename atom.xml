@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T17:25:15.036Z</updated>
+    <updated>2022-04-24T17:42:16.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于如何使用滑尺的图解式自我指导课程]]></title>
+        <id>https://news.ycombinator.com/item?id=31146003</id>
+        <link href="https://news.ycombinator.com/item?id=31146003"/>
+        <updated>2022-04-24T17:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Illustrated Self-Guided Course on How to Use the Slide Rule]]></summary>
+        <author>
+            <name>tigerlily</name>
+            <uri>https://news.ycombinator.com/user?id=tigerlily</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卑微的页码]]></title>
         <id>https://news.ycombinator.com/item?id=31145862</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kaibeezy</name>
             <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[决定什么成为历史的人]]></title>
-        <id>https://news.ycombinator.com/item?id=31049847</id>
-        <link href="https://news.ycombinator.com/item?id=31049847"/>
-        <updated>2022-04-16T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[People Who Decide What Becomes History]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
         </author>
     </entry>
 </feed>
