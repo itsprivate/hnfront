@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T10:53:28.154Z</updated>
+    <updated>2022-04-24T11:11:04.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[考虑使用微小的石墨烯纳米带支架进行人体头部移植]]></title>
+        <id>https://news.ycombinator.com/item?id=31142514</id>
+        <link href="https://news.ycombinator.com/item?id=31142514"/>
+        <updated>2022-04-24T09:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Human head transplant is contemplated using tiny graphene nanoribbon scaffolds]]></summary>
+        <author>
+            <name>aj7</name>
+            <uri>https://news.ycombinator.com/user?id=aj7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超轻液态氢罐有望使喷气机燃料过时]]></title>
         <id>https://news.ycombinator.com/item?id=31142530</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bandibus</name>
             <uri>https://news.ycombinator.com/user?id=bandibus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warpgate。智能SSH堡垒，可与任何SSH客户端配合使用]]></title>
-        <id>https://news.ycombinator.com/item?id=31062399</id>
-        <link href="https://news.ycombinator.com/item?id=31062399"/>
-        <updated>2022-04-17T17:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Warpgate: Smart SSH bastion that works with any SSH client]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
