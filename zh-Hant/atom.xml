@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T08:14:48.235Z</updated>
+    <updated>2022-04-24T08:38:10.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼採用英特爾/AMD的無風扇筆記本電腦這麼少？]]></title>
+        <id>https://news.ycombinator.com/item?id=31142209</id>
+        <link href="https://news.ycombinator.com/item?id=31142209"/>
+        <updated>2022-04-24T08:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Why are there so few fanless laptops with Intel/AMD?]]></summary>
+        <author>
+            <name>pappeyrome</name>
+            <uri>https://news.ycombinator.com/user?id=pappeyrome</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我作為軟件工程師的典型工作時間]]></title>
+        <id>https://news.ycombinator.com/item?id=31142043</id>
+        <link href="https://news.ycombinator.com/item?id=31142043"/>
+        <updated>2022-04-24T07:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My typical working day as Software Engineer]]></summary>
+        <author>
+            <name>myle</name>
+            <uri>https://news.ycombinator.com/user?id=myle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修補依賴關係比分叉更容易]]></title>
+        <id>https://news.ycombinator.com/item?id=31123272</id>
+        <link href="https://news.ycombinator.com/item?id=31123272"/>
+        <updated>2022-04-22T15:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Patching dependencies is easier than forking]]></summary>
+        <author>
+            <name>irtefa</name>
+            <uri>https://news.ycombinator.com/user?id=irtefa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軟件到位]]></title>
         <id>https://news.ycombinator.com/item?id=31142025</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三年前消失的加州自閉症少年在猶他州被發現還活著]]></title>
-        <id>https://news.ycombinator.com/item?id=31055711</id>
-        <link href="https://news.ycombinator.com/item?id=31055711"/>
-        <updated>2022-04-16T20:14:06.000Z</updated>
-        <summary type="html"><![CDATA[California teen with autism who vanished 3 years ago is found alive in Utah]]></summary>
-        <author>
-            <name>MilnerRoute</name>
-            <uri>https://news.ycombinator.com/user?id=MilnerRoute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在RISC-V彙編中打開一個UDP插座]]></title>
-        <id>https://news.ycombinator.com/item?id=31055300</id>
-        <link href="https://news.ycombinator.com/item?id=31055300"/>
-        <updated>2022-04-16T19:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Opening a UDP Socket in RISC-V Assembly]]></summary>
-        <author>
-            <name>hasheddan</name>
-            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無牌無線電]]></title>
-        <id>https://news.ycombinator.com/item?id=31031858</id>
-        <link href="https://news.ycombinator.com/item?id=31031858"/>
-        <updated>2022-04-14T19:10:18.000Z</updated>
-        <summary type="html"><![CDATA[Unlicensed Radio]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
