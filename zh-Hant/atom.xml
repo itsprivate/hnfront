@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T07:12:56.912Z</updated>
+    <updated>2022-04-24T07:39:45.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nix和NixOS如何獲得如此接近完美的效果]]></title>
+        <id>https://news.ycombinator.com/item?id=31141377</id>
+        <link href="https://news.ycombinator.com/item?id=31141377"/>
+        <updated>2022-04-24T04:49:11.000Z</updated>
+        <summary type="html"><![CDATA[How Nix and NixOS Get So Close to Perfect]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[非機動車組 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=31114642</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>samanthachai</name>
             <uri>https://news.ycombinator.com/user?id=samanthachai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用R Markdown和Jupyter創建活的文件和可重複的報告]]></title>
-        <id>https://news.ycombinator.com/item?id=31061081</id>
-        <link href="https://news.ycombinator.com/item?id=31061081"/>
-        <updated>2022-04-17T14:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Creating living documents and reproducible reports with R Markdown and Jupyter]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
         </author>
     </entry>
 </feed>

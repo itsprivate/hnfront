@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 24 Apr 2022 07:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 07:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Nix和NixOS如何获得如此接近完美的效果]]></title>
+            <link>https://news.ycombinator.com/item?id=31141377</link>
+            <guid>https://news.ycombinator.com/item?id=31141377</guid>
+            <pubDate>Sun, 24 Apr 2022 04:49:11 GMT</pubDate>
+            <description><![CDATA[How Nix and NixOS Get So Close to Perfect]]></description>
+        </item>
         <item>
             <title><![CDATA[非机动车组 (2021)]]></title>
             <link>https://news.ycombinator.com/item?id=31114642</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31062301</guid>
             <pubDate>Sun, 17 Apr 2022 17:00:06 GMT</pubDate>
             <description><![CDATA[Running e2e tests 10x faster using firecracker VMs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用R Markdown和Jupyter创建活的文件和可重复的报告]]></title>
-            <link>https://news.ycombinator.com/item?id=31061081</link>
-            <guid>https://news.ycombinator.com/item?id=31061081</guid>
-            <pubDate>Sun, 17 Apr 2022 14:30:32 GMT</pubDate>
-            <description><![CDATA[Creating living documents and reproducible reports with R Markdown and Jupyter]]></description>
         </item>
     </channel>
 </rss>
