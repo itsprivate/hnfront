@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T07:39:45.904Z</updated>
+    <updated>2022-04-24T08:14:48.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[软件到位]]></title>
+        <id>https://news.ycombinator.com/item?id=31142025</id>
+        <link href="https://news.ycombinator.com/item?id=31142025"/>
+        <updated>2022-04-24T07:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Software Mise En Place]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nix和NixOS如何获得如此接近完美的效果]]></title>
         <id>https://news.ycombinator.com/item?id=31141377</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用firecracker虚拟机运行e2e测试的速度提高了10倍]]></title>
-        <id>https://news.ycombinator.com/item?id=31062301</id>
-        <link href="https://news.ycombinator.com/item?id=31062301"/>
-        <updated>2022-04-17T17:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Running e2e tests 10x faster using firecracker VMs]]></summary>
-        <author>
-            <name>samanthachai</name>
-            <uri>https://news.ycombinator.com/user?id=samanthachai</uri>
         </author>
     </entry>
 </feed>

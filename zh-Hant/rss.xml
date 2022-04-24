@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 24 Apr 2022 07:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 08:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[軟件到位]]></title>
+            <link>https://news.ycombinator.com/item?id=31142025</link>
+            <guid>https://news.ycombinator.com/item?id=31142025</guid>
+            <pubDate>Sun, 24 Apr 2022 07:41:19 GMT</pubDate>
+            <description><![CDATA[Software Mise En Place]]></description>
+        </item>
         <item>
             <title><![CDATA[Nix和NixOS如何獲得如此接近完美的效果]]></title>
             <link>https://news.ycombinator.com/item?id=31141377</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31031858</guid>
             <pubDate>Thu, 14 Apr 2022 19:10:18 GMT</pubDate>
             <description><![CDATA[Unlicensed Radio]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用firecracker虛擬機運行e2e測試的速度提高了10倍]]></title>
-            <link>https://news.ycombinator.com/item?id=31062301</link>
-            <guid>https://news.ycombinator.com/item?id=31062301</guid>
-            <pubDate>Sun, 17 Apr 2022 17:00:06 GMT</pubDate>
-            <description><![CDATA[Running e2e tests 10x faster using firecracker VMs]]></description>
         </item>
     </channel>
 </rss>
