@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-24T14:12:04.547Z</updated>
+    <updated>2022-04-24T14:31:10.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Ghidra对1996年的嵌入式合成器操作系统进行修补]]></title>
+        <id>https://news.ycombinator.com/item?id=31144106</id>
+        <link href="https://news.ycombinator.com/item?id=31144106"/>
+        <updated>2022-04-24T14:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Patching an Embedded Synthesiser OS from 1996 with Ghidra]]></summary>
+        <author>
+            <name>tomduncalf</name>
+            <uri>https://news.ycombinator.com/user?id=tomduncalf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何阅读RFC（2018）？]]></title>
+        <id>https://news.ycombinator.com/item?id=31132863</id>
+        <link href="https://news.ycombinator.com/item?id=31132863"/>
+        <updated>2022-04-23T10:21:18.000Z</updated>
+        <summary type="html"><![CDATA[How to read an RFC (2018)]]></summary>
+        <author>
+            <name>mattrighetti</name>
+            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在法国大选前建立了一个官方数据的仪表板]]></title>
         <id>https://news.ycombinator.com/item?id=31142826</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>db48x</name>
             <uri>https://news.ycombinator.com/user?id=db48x</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考古学家在伊拉克发掘出古代苏美尔人的河船]]></title>
-        <id>https://news.ycombinator.com/item?id=31033936</id>
-        <link href="https://news.ycombinator.com/item?id=31033936"/>
-        <updated>2022-04-14T22:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Archaeologists unearth ancient Sumerian riverboat in Iraq]]></summary>
-        <author>
-            <name>diodorus</name>
-            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习语言的新旧方式 (2008)]]></title>
-        <id>https://news.ycombinator.com/item?id=31064421</id>
-        <link href="https://news.ycombinator.com/item?id=31064421"/>
-        <updated>2022-04-17T20:55:05.000Z</updated>
-        <summary type="html"><![CDATA[The New Old Way of Learning Languages (2008)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
