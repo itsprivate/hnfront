@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T03:40:23.280Z</updated>
+    <updated>2022-04-25T04:47:04.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可编程的GPU核心 (2011) [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31142372</id>
+        <link href="https://news.ycombinator.com/item?id=31142372"/>
+        <updated>2022-04-24T09:07:54.000Z</updated>
+        <summary type="html"><![CDATA[The Programmable GPU Core (2011) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海的视频压倒了中国的审查员，获得了4亿的浏览量]]></title>
         <id>https://news.ycombinator.com/item?id=31150370</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[温哥华提议对没有电动车充电的加油站收取1万美元的年费]]></title>
-        <id>https://news.ycombinator.com/item?id=31072651</id>
-        <link href="https://news.ycombinator.com/item?id=31072651"/>
-        <updated>2022-04-18T16:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Vancouver proposes 10k-dollar annual fee for gas stations without EV charging]]></summary>
-        <author>
-            <name>grawprog</name>
-            <uri>https://news.ycombinator.com/user?id=grawprog</uri>
         </author>
     </entry>
 </feed>
