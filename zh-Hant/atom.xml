@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T23:46:38.610Z</updated>
+    <updated>2022-04-25T23:54:05.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這是一個網絡釣魚的嘗試嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31112115</id>
+        <link href="https://news.ycombinator.com/item?id=31112115"/>
+        <updated>2022-04-21T17:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Was this a phishing attempt?]]></summary>
+        <author>
+            <name>starwind</name>
+            <uri>https://news.ycombinator.com/user?id=starwind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐洲風能行業遭遇黑客攻擊潮]]></title>
         <id>https://news.ycombinator.com/item?id=31162093</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pepys</name>
             <uri>https://news.ycombinator.com/user?id=pepys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PolicyFly (YC W22) 正在招聘高級後端工程師(遠程)]]></title>
-        <id>https://news.ycombinator.com/item?id=31081990</id>
-        <link href="https://news.ycombinator.com/item?id=31081990"/>
-        <updated>2022-04-19T12:01:12.000Z</updated>
-        <summary type="html"><![CDATA[PolicyFly (YC W22) Is Hiring a Senior Back End Engineer (Remote)]]></summary>
-        <author>
-            <name>snupha</name>
-            <uri>https://news.ycombinator.com/user?id=snupha</uri>
         </author>
     </entry>
 </feed>
