@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T17:09:48.597Z</updated>
+    <updated>2022-04-25T17:40:46.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C++20的範圍算法--7個非修改性操作]]></title>
+        <id>https://news.ycombinator.com/item?id=31157626</id>
+        <link href="https://news.ycombinator.com/item?id=31157626"/>
+        <updated>2022-04-25T16:58:38.000Z</updated>
+        <summary type="html"><![CDATA[C++20 Ranges Algorithms – 7 Non-Modifying Operations]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個魔術:)]]></title>
         <id>https://news.ycombinator.com/item?id=31157122</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ashitlerferad</name>
             <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模擬 "莫斯科 "號沉沒的戰爭遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=31079574</id>
-        <link href="https://news.ycombinator.com/item?id=31079574"/>
-        <updated>2022-04-19T03:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Wargame Simulating the Sinking of the Moskva]]></summary>
-        <author>
-            <name>dragontamer</name>
-            <uri>https://news.ycombinator.com/user?id=dragontamer</uri>
         </author>
     </entry>
 </feed>
