@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T15:17:17.530Z</updated>
+    <updated>2022-04-25T15:41:19.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Facebook的大漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=31155935</id>
+        <link href="https://news.ycombinator.com/item?id=31155935"/>
+        <updated>2022-04-25T15:08:34.000Z</updated>
+        <summary type="html"><![CDATA[Facebook’s big vulnerability]]></summary>
+        <author>
+            <name>isthispermanent</name>
+            <uri>https://news.ycombinator.com/user?id=isthispermanent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機器學習就業市場]]></title>
+        <id>https://news.ycombinator.com/item?id=31155782</id>
+        <link href="https://news.ycombinator.com/item?id=31155782"/>
+        <updated>2022-04-25T14:58:25.000Z</updated>
+        <summary type="html"><![CDATA[The Machine Learning Job Market]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abcdesktop - 一個雲原生無桌面系統]]></title>
+        <id>https://news.ycombinator.com/item?id=31155489</id>
+        <link href="https://news.ycombinator.com/item?id=31155489"/>
+        <updated>2022-04-25T14:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Abcdesktop – a cloud native desktopless system]]></summary>
+        <author>
+            <name>o-</name>
+            <uri>https://news.ycombinator.com/user?id=o-</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好的基因是好的，但快樂是更好的]]></title>
+        <id>https://news.ycombinator.com/item?id=31141836</id>
+        <link href="https://news.ycombinator.com/item?id=31141836"/>
+        <updated>2022-04-24T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Good genes are nice, but joy is better]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司的編譯器（TASC）。我們擁有源代碼，從某種意義上說]]></title>
+        <id>https://news.ycombinator.com/item?id=31093092</id>
+        <link href="https://news.ycombinator.com/item?id=31093092"/>
+        <updated>2022-04-20T05:18:35.000Z</updated>
+        <summary type="html"><![CDATA[The Applesoft Compiler (TASC): We have the source code, in a sense]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大腦掃描能揭示行為嗎？爆炸性的研究說還不能]]></title>
         <id>https://news.ycombinator.com/item?id=31155527</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>marcodiego</name>
             <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缺少的Kubernetes類型系統]]></title>
-        <id>https://news.ycombinator.com/item?id=31062666</id>
-        <link href="https://news.ycombinator.com/item?id=31062666"/>
-        <updated>2022-04-17T17:45:48.000Z</updated>
-        <summary type="html"><![CDATA[The Missing Kubernetes Type System]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直接使用APK構建OCI鏡像，無需Dockerfile]]></title>
-        <id>https://news.ycombinator.com/item?id=31078663</id>
-        <link href="https://news.ycombinator.com/item?id=31078663"/>
-        <updated>2022-04-19T00:58:36.000Z</updated>
-        <summary type="html"><![CDATA[Build OCI images using APK directly without Dockerfile]]></summary>
-        <author>
-            <name>encryptluks2</name>
-            <uri>https://news.ycombinator.com/user?id=encryptluks2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社會性動物以令人驚訝的複雜方式尋求權力]]></title>
-        <id>https://news.ycombinator.com/item?id=31060005</id>
-        <link href="https://news.ycombinator.com/item?id=31060005"/>
-        <updated>2022-04-17T11:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Social Animals Seek Power in Surprisingly Complex Ways]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隨著薩爾頓海鋰礦鑽探的進展，研究人員正在解決細節問題]]></title>
-        <id>https://news.ycombinator.com/item?id=31077070</id>
-        <link href="https://news.ycombinator.com/item?id=31077070"/>
-        <updated>2022-04-18T21:50:59.000Z</updated>
-        <summary type="html"><![CDATA[As Lithium Drilling Advances at the Salton Sea, Researchers Work Out the Details]]></summary>
-        <author>
-            <name>jelliclesfarm</name>
-            <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六家公司控制了你所讀、所看、所聽的90%的內容]]></title>
-        <id>https://news.ycombinator.com/item?id=31077525</id>
-        <link href="https://news.ycombinator.com/item?id=31077525"/>
-        <updated>2022-04-18T22:35:32.000Z</updated>
-        <summary type="html"><![CDATA[Six companies control 90% of what you read, watch, and hear]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
         </author>
     </entry>
 </feed>
