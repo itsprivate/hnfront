@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T13:31:48.393Z</updated>
+    <updated>2022-04-25T13:51:45.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[手术的长期风险："它让人们的大脑很难受]]></title>
+        <id>https://news.ycombinator.com/item?id=31153857</id>
+        <link href="https://news.ycombinator.com/item?id=31153857"/>
+        <updated>2022-04-25T13:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Long-term risks of surgery: ‘It gives people’s brains a hard time’]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[低延迟、高吞吐量的垃圾收集 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=31153434</id>
+        <link href="https://news.ycombinator.com/item?id=31153434"/>
+        <updated>2022-04-25T12:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Low-Latency, High-Throughput Garbage Collection [pdf]]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP 8.2中的新内容]]></title>
         <id>https://news.ycombinator.com/item?id=31153698</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Michelangelo11</name>
             <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motion（YC W20）正在招聘全栈工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=31076487</id>
-        <link href="https://news.ycombinator.com/item?id=31076487"/>
-        <updated>2022-04-18T21:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Motion (YC W20) Is Hiring Full Stack Engineers]]></summary>
-        <author>
-            <name>ethanyu94</name>
-            <uri>https://news.ycombinator.com/user?id=ethanyu94</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[操作系统之争。OpenBSD vs. NixOS]]></title>
-        <id>https://news.ycombinator.com/item?id=31075570</id>
-        <link href="https://news.ycombinator.com/item?id=31075570"/>
-        <updated>2022-04-18T19:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Operating systems battle: OpenBSD vs. NixOS]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
