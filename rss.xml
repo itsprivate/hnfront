@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 20:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 20:46:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在2022年写一个Linux内核的遥控器]]></title>
+            <link>https://news.ycombinator.com/item?id=31159036</link>
+            <guid>https://news.ycombinator.com/item?id=31159036</guid>
+            <pubDate>Mon, 25 Apr 2022 18:47:29 GMT</pubDate>
+            <description><![CDATA[Writing a Linux Kernel Remote in 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[投票：马斯克被收购后，你会离开Twitter吗？]]></title>
             <link>https://news.ycombinator.com/item?id=31159585</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31080999</guid>
             <pubDate>Tue, 19 Apr 2022 09:04:43 GMT</pubDate>
             <description><![CDATA[Universal's Audible Watermark]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Rust中重写Sysctl(8)。Systeroid]]></title>
-            <link>https://news.ycombinator.com/item?id=31060939</link>
-            <guid>https://news.ycombinator.com/item?id=31060939</guid>
-            <pubDate>Sun, 17 Apr 2022 14:11:52 GMT</pubDate>
-            <description><![CDATA[Rewriting Sysctl(8) in Rust: Systeroid]]></description>
         </item>
     </channel>
 </rss>
