@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T09:46:05.984Z</updated>
+    <updated>2022-04-25T10:38:58.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否使用过SQLite作为主数据库？]]></title>
+        <id>https://news.ycombinator.com/item?id=31152490</id>
+        <link href="https://news.ycombinator.com/item?id=31152490"/>
+        <updated>2022-04-25T10:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you used SQLite as a primary database?]]></summary>
+        <author>
+            <name>barryhennessy</name>
+            <uri>https://news.ycombinator.com/user?id=barryhennessy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马友友表演理查德-费曼的《生命奇迹颂》，动画版]]></title>
         <id>https://news.ycombinator.com/item?id=31143025</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jelliclesfarm</name>
             <uri>https://news.ycombinator.com/user?id=jelliclesfarm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一队的8分是另一队的2分]]></title>
-        <id>https://news.ycombinator.com/item?id=31074861</id>
-        <link href="https://news.ycombinator.com/item?id=31074861"/>
-        <updated>2022-04-18T18:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Eight points for one team is two points for another team]]></summary>
-        <author>
-            <name>whack</name>
-            <uri>https://news.ycombinator.com/user?id=whack</uri>
         </author>
     </entry>
 </feed>
