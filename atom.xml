@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T05:02:45.718Z</updated>
+    <updated>2022-04-25T05:44:12.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[希拉-赫迪谈《安妮-霍尔》中的爱与妄想]]></title>
+        <id>https://news.ycombinator.com/item?id=31142722</id>
+        <link href="https://news.ycombinator.com/item?id=31142722"/>
+        <updated>2022-04-24T10:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Sheila Heti on Love and Delusion in Annie Hall]]></summary>
+        <author>
+            <name>philosopherfool</name>
+            <uri>https://news.ycombinator.com/user?id=philosopherfool</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原子式习惯。培养好习惯和打破坏习惯的简单且行之有效的方法]]></title>
         <id>https://news.ycombinator.com/item?id=31148659</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>xweb</name>
             <uri>https://news.ycombinator.com/user?id=xweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用Gitlab和Gitpod从iPad上进行编码、构建和部署]]></title>
-        <id>https://news.ycombinator.com/item?id=31060363</id>
-        <link href="https://news.ycombinator.com/item?id=31060363"/>
-        <updated>2022-04-17T12:23:50.000Z</updated>
-        <summary type="html"><![CDATA[How to code, build, and deploy from an iPad using Gitlab and Gitpod]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
