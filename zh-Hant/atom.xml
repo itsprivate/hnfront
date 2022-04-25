@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T17:40:46.832Z</updated>
+    <updated>2022-04-25T18:16:38.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[tcpcp - 在主機之間傳遞TCP連接 (2005)]]></title>
+        <id>https://news.ycombinator.com/item?id=31150186</id>
+        <link href="https://news.ycombinator.com/item?id=31150186"/>
+        <updated>2022-04-25T02:17:05.000Z</updated>
+        <summary type="html"><![CDATA[tcpcp - passing TCP connections between hosts (2005)]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++20的範圍算法--7個非修改性操作]]></title>
         <id>https://news.ycombinator.com/item?id=31157626</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vmoore</name>
             <uri>https://news.ycombinator.com/user?id=vmoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠距離工作？將SSH與Teleport配對]]></title>
-        <id>https://news.ycombinator.com/item?id=31061905</id>
-        <link href="https://news.ycombinator.com/item?id=31061905"/>
-        <updated>2022-04-17T16:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Working Remotely? Pair SSH with Teleport]]></summary>
-        <author>
-            <name>ashitlerferad</name>
-            <uri>https://news.ycombinator.com/user?id=ashitlerferad</uri>
         </author>
     </entry>
 </feed>
