@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T22:13:01.873Z</updated>
+    <updated>2022-04-25T22:35:05.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GoldWave开源目标]]></title>
+        <id>https://news.ycombinator.com/item?id=31161515</id>
+        <link href="https://news.ycombinator.com/item?id=31161515"/>
+        <updated>2022-04-25T22:20:40.000Z</updated>
+        <summary type="html"><![CDATA[GoldWave Open Source Goal]]></summary>
+        <author>
+            <name>sp8</name>
+            <uri>https://news.ycombinator.com/user?id=sp8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移植的免疫细胞能对抗爱因斯坦-巴尔病毒，使多发性硬化症得以逆转]]></title>
         <id>https://news.ycombinator.com/item?id=31152289</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>okasaki</name>
             <uri>https://news.ycombinator.com/user?id=okasaki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大禁止外国购房者两年]]></title>
-        <id>https://news.ycombinator.com/item?id=31081417</id>
-        <link href="https://news.ycombinator.com/item?id=31081417"/>
-        <updated>2022-04-19T10:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Canada bans foreign home buyers for two years]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
