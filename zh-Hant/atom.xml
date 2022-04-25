@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T13:01:23.110Z</updated>
+    <updated>2022-04-25T13:31:48.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.2中的新內容]]></title>
+        <id>https://news.ycombinator.com/item?id=31153698</id>
+        <link href="https://news.ycombinator.com/item?id=31153698"/>
+        <updated>2022-04-25T12:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Whats New in PHP 8.2]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瀏覽器中的體素月球登陸器]]></title>
         <id>https://news.ycombinator.com/item?id=31153333</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tri-County成為佛羅里達州第一個處理FTTH的電力合作社]]></title>
-        <id>https://news.ycombinator.com/item?id=31075626</id>
-        <link href="https://news.ycombinator.com/item?id=31075626"/>
-        <updated>2022-04-18T19:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Tri-County becomes the first electric co-op in Florida to tackle FTTH]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
