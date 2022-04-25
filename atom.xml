@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T14:42:38.430Z</updated>
+    <updated>2022-04-25T14:53:40.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[启动HN：回声总部（YC S21）--方便开发者的活动报告]]></title>
+        <id>https://news.ycombinator.com/item?id=31155542</id>
+        <link href="https://news.ycombinator.com/item?id=31155542"/>
+        <updated>2022-04-25T14:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Echoes HQ (YC S21) – Developer-friendly activity reports]]></summary>
+        <author>
+            <name>icecrime</name>
+            <uri>https://news.ycombinator.com/user?id=icecrime</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克出价收购推特后，更多用户涌向马斯特丹公司]]></title>
         <id>https://news.ycombinator.com/item?id=31154911</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SDF公共接入Unix系统]]></title>
-        <id>https://news.ycombinator.com/item?id=31076886</id>
-        <link href="https://news.ycombinator.com/item?id=31076886"/>
-        <updated>2022-04-18T21:34:23.000Z</updated>
-        <summary type="html"><![CDATA[SDF Public Access Unix System]]></summary>
-        <author>
-            <name>wcerfgba</name>
-            <uri>https://news.ycombinator.com/user?id=wcerfgba</uri>
         </author>
     </entry>
 </feed>
