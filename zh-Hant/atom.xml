@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T19:52:09.324Z</updated>
+    <updated>2022-04-25T20:15:37.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[投票：馬斯克被收購後，你會離開Twitter嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31159585</id>
+        <link href="https://news.ycombinator.com/item?id=31159585"/>
+        <updated>2022-04-25T19:39:51.000Z</updated>
+        <summary type="html"><![CDATA[Poll: Are you going to leave Twitter after Musk's acquisition?]]></summary>
+        <author>
+            <name>rglullis</name>
+            <uri>https://news.ycombinator.com/user?id=rglullis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[磚塊可能會拯救點擊率]]></title>
+        <id>https://news.ycombinator.com/item?id=31148923</id>
+        <link href="https://news.ycombinator.com/item?id=31148923"/>
+        <updated>2022-04-24T22:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Bricks Might Save Clicks]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sorbet和100%cov使Ruby重構成為可能]]></title>
         <id>https://news.ycombinator.com/item?id=31159010</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sbt567</name>
             <uri>https://news.ycombinator.com/user?id=sbt567</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夢想比任何人想象的都要真實 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=31061581</id>
-        <link href="https://news.ycombinator.com/item?id=31061581"/>
-        <updated>2022-04-17T15:38:56.000Z</updated>
-        <summary type="html"><![CDATA[Dreams Are More Real Than Anyone Thought (2021)]]></summary>
-        <author>
-            <name>devy</name>
-            <uri>https://news.ycombinator.com/user?id=devy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安裝在隱形眼鏡中的LED，可用於虛擬/增強現實顯示]]></title>
-        <id>https://news.ycombinator.com/item?id=31060377</id>
-        <link href="https://news.ycombinator.com/item?id=31060377"/>
-        <updated>2022-04-17T12:26:27.000Z</updated>
-        <summary type="html"><![CDATA[LED mounted in a contact lens for possible virtual / augmented reality displays]]></summary>
-        <author>
-            <name>mhb</name>
-            <uri>https://news.ycombinator.com/user?id=mhb</uri>
         </author>
     </entry>
 </feed>
