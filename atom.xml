@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T06:16:36.381Z</updated>
+    <updated>2022-04-25T06:43:17.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瑞典慢电视：麋鹿大迁徙 [现场] 。]]></title>
+        <id>https://news.ycombinator.com/item?id=31150996</id>
+        <link href="https://news.ycombinator.com/item?id=31150996"/>
+        <updated>2022-04-25T05:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Swedish slow TV : The great moose migration [Live]]]></summary>
+        <author>
+            <name>MasterYoda</name>
+            <uri>https://news.ycombinator.com/user?id=MasterYoda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猴子爱喝酒]]></title>
+        <id>https://news.ycombinator.com/item?id=31134363</id>
+        <link href="https://news.ycombinator.com/item?id=31134363"/>
+        <updated>2022-04-23T14:03:31.000Z</updated>
+        <summary type="html"><![CDATA[Monkeys Love Their Alcohol]]></summary>
+        <author>
+            <name>pepys</name>
+            <uri>https://news.ycombinator.com/user?id=pepys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么是LSP？]]></title>
         <id>https://news.ycombinator.com/item?id=31151048</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hindsightbias</name>
             <uri>https://news.ycombinator.com/user?id=hindsightbias</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git 2.36的亮点]]></title>
-        <id>https://news.ycombinator.com/item?id=31073154</id>
-        <link href="https://news.ycombinator.com/item?id=31073154"/>
-        <updated>2022-04-18T16:44:42.000Z</updated>
-        <summary type="html"><![CDATA[Highlights from Git 2.36]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux的平均负载来自于内核的什么地方]]></title>
-        <id>https://news.ycombinator.com/item?id=31073145</id>
-        <link href="https://news.ycombinator.com/item?id=31073145"/>
-        <updated>2022-04-18T16:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Where Linux's load average comes from in the kernel]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
