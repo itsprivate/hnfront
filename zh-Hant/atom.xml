@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T10:54:36.551Z</updated>
+    <updated>2022-04-25T11:52:29.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[克米特--誤解與爭議 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=31141417</id>
+        <link href="https://news.ycombinator.com/item?id=31141417"/>
+        <updated>2022-04-24T04:59:52.000Z</updated>
+        <summary type="html"><![CDATA[Kermit – Misconceptions and Controversies (2021)]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub軟件包和頁面下降]]></title>
         <id>https://news.ycombinator.com/item?id=31152403</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>open1414</name>
             <uri>https://news.ycombinator.com/user?id=open1414</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國上訴法院重申網絡搜刮是合法的]]></title>
-        <id>https://news.ycombinator.com/item?id=31075396</id>
-        <link href="https://news.ycombinator.com/item?id=31075396"/>
-        <updated>2022-04-18T19:37:55.000Z</updated>
-        <summary type="html"><![CDATA[Web scraping is legal, US appeals court reaffirms]]></summary>
-        <author>
-            <name>spenvo</name>
-            <uri>https://news.ycombinator.com/user?id=spenvo</uri>
         </author>
     </entry>
 </feed>
