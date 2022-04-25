@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T07:13:36.723Z</updated>
+    <updated>2022-04-25T07:34:14.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使得shell脚本出现性能问题的一些事情]]></title>
+        <id>https://news.ycombinator.com/item?id=31150788</id>
+        <link href="https://news.ycombinator.com/item?id=31150788"/>
+        <updated>2022-04-25T04:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Some things that make shell scripts have performance issues]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deepnote（YC S19）正在招聘工程师，以建立一个更好的Jupyter笔记本]]></title>
         <id>https://news.ycombinator.com/item?id=31151375</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>auggierose</name>
             <uri>https://news.ycombinator.com/user?id=auggierose</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SimpleHash (YC W22)正在招聘一名高级后端工程师，负责建立NFT APIs]]></title>
-        <id>https://news.ycombinator.com/item?id=31073409</id>
-        <link href="https://news.ycombinator.com/item?id=31073409"/>
-        <updated>2022-04-18T17:01:02.000Z</updated>
-        <summary type="html"><![CDATA[SimpleHash (YC W22) Is Hiring a Senior Back End Engineer to Build NFT APIs]]></summary>
-        <author>
-            <name>owfwduke</name>
-            <uri>https://news.ycombinator.com/user?id=owfwduke</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 07:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使得shell腳本出現性能問題的一些事情]]></title>
+            <link>https://news.ycombinator.com/item?id=31150788</link>
+            <guid>https://news.ycombinator.com/item?id=31150788</guid>
+            <pubDate>Mon, 25 Apr 2022 04:34:47 GMT</pubDate>
+            <description><![CDATA[Some things that make shell scripts have performance issues]]></description>
+        </item>
         <item>
             <title><![CDATA[Deepnote（YC S19）正在招聘工程師，以建立一個更好的Jupyter筆記本]]></title>
             <link>https://news.ycombinator.com/item?id=31151375</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31073800</guid>
             <pubDate>Mon, 18 Apr 2022 17:27:56 GMT</pubDate>
             <description><![CDATA[The Lezer Parser System]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SimpleHash (YC W22)正在招聘一名高級後端工程師，負責建立NFT APIs]]></title>
-            <link>https://news.ycombinator.com/item?id=31073409</link>
-            <guid>https://news.ycombinator.com/item?id=31073409</guid>
-            <pubDate>Mon, 18 Apr 2022 17:01:02 GMT</pubDate>
-            <description><![CDATA[SimpleHash (YC W22) Is Hiring a Senior Back End Engineer to Build NFT APIs]]></description>
         </item>
     </channel>
 </rss>
