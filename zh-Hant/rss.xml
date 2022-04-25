@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 08:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[宣佈Hare編程語言]]></title>
+            <link>https://news.ycombinator.com/item?id=31151591</link>
+            <guid>https://news.ycombinator.com/item?id=31151591</guid>
+            <pubDate>Mon, 25 Apr 2022 07:44:19 GMT</pubDate>
+            <description><![CDATA[Announcing the Hare programming language]]></description>
+        </item>
+        <item>
+            <title><![CDATA[macOS如何管理M1 CPU內核]]></title>
+            <link>https://news.ycombinator.com/item?id=31151393</link>
+            <guid>https://news.ycombinator.com/item?id=31151393</guid>
+            <pubDate>Mon, 25 Apr 2022 07:04:32 GMT</pubDate>
+            <description><![CDATA[How macOS manages M1 CPU cores]]></description>
+        </item>
         <item>
             <title><![CDATA[牛津街的糖果店]]></title>
             <link>https://news.ycombinator.com/item?id=31141991</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31073922</guid>
             <pubDate>Mon, 18 Apr 2022 17:37:06 GMT</pubDate>
             <description><![CDATA[Ask HN: What Happened to Lambda-the-Ultimate.org?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果公司是如何做到既保密又保證發佈質量的？]]></title>
-            <link>https://news.ycombinator.com/item?id=31073754</link>
-            <guid>https://news.ycombinator.com/item?id=31073754</guid>
-            <pubDate>Mon, 18 Apr 2022 17:24:32 GMT</pubDate>
-            <description><![CDATA[How does Apple achieve both secrecy and quality for a release?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Castor: 一個C++庫，用於 "按照Matlab "進行編碼]]></title>
-            <link>https://news.ycombinator.com/item?id=31065361</link>
-            <guid>https://news.ycombinator.com/item?id=31065361</guid>
-            <pubDate>Sun, 17 Apr 2022 23:00:16 GMT</pubDate>
-            <description><![CDATA[Castor: A C++ library to code “à la Matlab”]]></description>
         </item>
     </channel>
 </rss>

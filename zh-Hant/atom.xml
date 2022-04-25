@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-25T07:42:12.858Z</updated>
+    <updated>2022-04-25T08:16:17.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宣佈Hare編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=31151591</id>
+        <link href="https://news.ycombinator.com/item?id=31151591"/>
+        <updated>2022-04-25T07:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Announcing the Hare programming language]]></summary>
+        <author>
+            <name>ddevault</name>
+            <uri>https://news.ycombinator.com/user?id=ddevault</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS如何管理M1 CPU內核]]></title>
+        <id>https://news.ycombinator.com/item?id=31151393</id>
+        <link href="https://news.ycombinator.com/item?id=31151393"/>
+        <updated>2022-04-25T07:04:32.000Z</updated>
+        <summary type="html"><![CDATA[How macOS manages M1 CPU cores]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[牛津街的糖果店]]></title>
         <id>https://news.ycombinator.com/item?id=31141991</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>psczvnadfjk</name>
             <uri>https://news.ycombinator.com/user?id=psczvnadfjk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司是如何做到既保密又保證發佈質量的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31073754</id>
-        <link href="https://news.ycombinator.com/item?id=31073754"/>
-        <updated>2022-04-18T17:24:32.000Z</updated>
-        <summary type="html"><![CDATA[How does Apple achieve both secrecy and quality for a release?]]></summary>
-        <author>
-            <name>billti</name>
-            <uri>https://news.ycombinator.com/user?id=billti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castor: 一個C++庫，用於 "按照Matlab "進行編碼]]></title>
-        <id>https://news.ycombinator.com/item?id=31065361</id>
-        <link href="https://news.ycombinator.com/item?id=31065361"/>
-        <updated>2022-04-17T23:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Castor: A C++ library to code “à la Matlab”]]></summary>
-        <author>
-            <name>SiempreViernes</name>
-            <uri>https://news.ycombinator.com/user?id=SiempreViernes</uri>
         </author>
     </entry>
 </feed>
