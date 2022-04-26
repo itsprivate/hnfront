@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T19:37:05.454Z</updated>
+    <updated>2022-04-26T20:15:30.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Sqwok - 一個替代Twitter和Reddit的社交聊天工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31160302</id>
+        <link href="https://news.ycombinator.com/item?id=31160302"/>
+        <updated>2022-04-25T20:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sqwok – A social chat alternative to Twitter and Reddit]]></summary>
+        <author>
+            <name>holler</name>
+            <uri>https://news.ycombinator.com/user?id=holler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FrogFind: 復古電腦的搜索引擎]]></title>
         <id>https://news.ycombinator.com/item?id=31152866</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>boffinism</name>
             <uri>https://news.ycombinator.com/user?id=boffinism</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移植到Rust的Ruby YJIT]]></title>
-        <id>https://news.ycombinator.com/item?id=31094130</id>
-        <link href="https://news.ycombinator.com/item?id=31094130"/>
-        <updated>2022-04-20T08:18:30.000Z</updated>
-        <summary type="html"><![CDATA[Ruby YJIT Ported to Rust]]></summary>
-        <author>
-            <name>the_duke</name>
-            <uri>https://news.ycombinator.com/user?id=the_duke</uri>
         </author>
     </entry>
 </feed>
