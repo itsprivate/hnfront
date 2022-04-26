@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 19:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 19:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FrogFind: 復古電腦的搜索引擎]]></title>
+            <link>https://news.ycombinator.com/item?id=31152866</link>
+            <guid>https://news.ycombinator.com/item?id=31152866</guid>
+            <pubDate>Mon, 25 Apr 2022 11:03:30 GMT</pubDate>
+            <description><![CDATA[FrogFind: the Search Engine for Vintage Computers]]></description>
+        </item>
         <item>
             <title><![CDATA[在Nim、Zig、Rust和C++中進行編譯時評估]]></title>
             <link>https://news.ycombinator.com/item?id=31160234</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31094130</guid>
             <pubDate>Wed, 20 Apr 2022 08:18:30 GMT</pubDate>
             <description><![CDATA[Ruby YJIT Ported to Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從自由、公開的網絡信息中預測初創企業的融資情況]]></title>
-            <link>https://news.ycombinator.com/item?id=31064172</link>
-            <guid>https://news.ycombinator.com/item?id=31064172</guid>
-            <pubDate>Sun, 17 Apr 2022 20:30:49 GMT</pubDate>
-            <description><![CDATA[Predicting Startup Funding from Freely, Publicly Available Web Information]]></description>
         </item>
     </channel>
 </rss>
