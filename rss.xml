@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 06:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 06:58:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[彼得-蒂尔在2022年的一次审查中为零]]></title>
+            <link>https://news.ycombinator.com/item?id=31164209</link>
+            <guid>https://news.ycombinator.com/item?id=31164209</guid>
+            <pubDate>Tue, 26 Apr 2022 05:18:48 GMT</pubDate>
+            <description><![CDATA[Peter Thiel Zero to one review in 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[从谁开始，而不是从为什么开始]]></title>
             <link>https://news.ycombinator.com/item?id=31154926</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31084401</guid>
             <pubDate>Tue, 19 Apr 2022 15:25:31 GMT</pubDate>
             <description><![CDATA[Local detection of dark matter with future missions to Uranus and Neptune]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Netlify边缘功能。由Deno支持的新的无服务器运行时间]]></title>
-            <link>https://news.ycombinator.com/item?id=31084301</link>
-            <guid>https://news.ycombinator.com/item?id=31084301</guid>
-            <pubDate>Tue, 19 Apr 2022 15:18:06 GMT</pubDate>
-            <description><![CDATA[Netlify Edge Functions: A new serverless runtime powered by Deno]]></description>
         </item>
     </channel>
 </rss>
