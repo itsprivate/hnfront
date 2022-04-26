@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T04:52:35.398Z</updated>
+    <updated>2022-04-26T05:17:17.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[電子學解釋。工程師、技術員和製造者的基礎知識]]></title>
+        <id>https://news.ycombinator.com/item?id=31163871</id>
+        <link href="https://news.ycombinator.com/item?id=31163871"/>
+        <updated>2022-04-26T04:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Electronics Explained: Fundamentals for Engineers, Technicians, and Makers]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過測試學習圍棋]]></title>
+        <id>https://news.ycombinator.com/item?id=31163709</id>
+        <link href="https://news.ycombinator.com/item?id=31163709"/>
+        <updated>2022-04-26T03:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Learn Go with Tests]]></summary>
+        <author>
+            <name>Lantt</name>
+            <uri>https://news.ycombinator.com/user?id=Lantt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在一年內賣出了640本我的書]]></title>
+        <id>https://news.ycombinator.com/item?id=31153963</id>
+        <link href="https://news.ycombinator.com/item?id=31153963"/>
+        <updated>2022-04-25T13:07:59.000Z</updated>
+        <summary type="html"><![CDATA[I sold 640 copies of my book in one year]]></summary>
+        <author>
+            <name>strzibny</name>
+            <uri>https://news.ycombinator.com/user?id=strzibny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寫作文化的工具 (2021)]]></title>
         <id>https://news.ycombinator.com/item?id=31163877</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ceeb</name>
             <uri>https://news.ycombinator.com/user?id=ceeb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insteon關機後所有物聯網設備都被燒燬了]]></title>
-        <id>https://news.ycombinator.com/item?id=31083921</id>
-        <link href="https://news.ycombinator.com/item?id=31083921"/>
-        <updated>2022-04-19T14:50:31.000Z</updated>
-        <summary type="html"><![CDATA[All IoT devices Bricked after Insteon shuts down]]></summary>
-        <author>
-            <name>ClumsyPilot</name>
-            <uri>https://news.ycombinator.com/user?id=ClumsyPilot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們如何升級我們的4TB PostgreSQL數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=31084147</id>
-        <link href="https://news.ycombinator.com/item?id=31084147"/>
-        <updated>2022-04-19T15:07:10.000Z</updated>
-        <summary type="html"><![CDATA[How we upgraded our 4TB PostgreSQL database]]></summary>
-        <author>
-            <name>mrbabbage</name>
-            <uri>https://news.ycombinator.com/user?id=mrbabbage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欺騙引擎包含GPL許可的代碼，但不允許商業使用。]]></title>
-        <id>https://news.ycombinator.com/item?id=31084128</id>
-        <link href="https://news.ycombinator.com/item?id=31084128"/>
-        <updated>2022-04-19T15:05:55.000Z</updated>
-        <summary type="html"><![CDATA[Cheat Engine contains GPL-licensed code but disallows commercial use]]></summary>
-        <author>
-            <name>btdmaster</name>
-            <uri>https://news.ycombinator.com/user?id=btdmaster</uri>
         </author>
     </entry>
 </feed>
