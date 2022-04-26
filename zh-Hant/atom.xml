@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T15:38:16.278Z</updated>
+    <updated>2022-04-26T15:58:58.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[3,200年前的埃及石碑記錄了人們錯過工作的藉口]]></title>
+        <id>https://news.ycombinator.com/item?id=31168862</id>
+        <link href="https://news.ycombinator.com/item?id=31168862"/>
+        <updated>2022-04-26T15:38:51.000Z</updated>
+        <summary type="html"><![CDATA[3,200-Year-Old Egyptian Tablet Records Excuses for Why People Missed Work]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓我們來談談供應鏈攻擊和背道而馳的依賴關係]]></title>
+        <id>https://news.ycombinator.com/item?id=31168668</id>
+        <link href="https://news.ycombinator.com/item?id=31168668"/>
+        <updated>2022-04-26T15:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Let's talk about supply chain attacks and backdoored dependencies]]></summary>
+        <author>
+            <name>sylvain_kerkour</name>
+            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完全在瀏覽器中運行的macOS 8]]></title>
+        <id>https://news.ycombinator.com/item?id=31168646</id>
+        <link href="https://news.ycombinator.com/item?id=31168646"/>
+        <updated>2022-04-26T15:25:15.000Z</updated>
+        <summary type="html"><![CDATA[macOS 8 running entirely in the browser]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[土著神話與科學。從埃及到新西蘭]]></title>
+        <id>https://news.ycombinator.com/item?id=31168586</id>
+        <link href="https://news.ycombinator.com/item?id=31168586"/>
+        <updated>2022-04-26T15:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Indigenous Myth and Science: From Egypt to New Zealand]]></summary>
+        <author>
+            <name>leephillips</name>
+            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reloadium--Python的高級熱重裝系統]]></title>
         <id>https://news.ycombinator.com/item?id=31168069</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANSi網絡瀏覽器概念 (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=31067713</id>
-        <link href="https://news.ycombinator.com/item?id=31067713"/>
-        <updated>2022-04-18T05:26:37.000Z</updated>
-        <summary type="html"><![CDATA[ANSi Web Browser concept (2012)]]></summary>
-        <author>
-            <name>marttt</name>
-            <uri>https://news.ycombinator.com/user?id=marttt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博通公司推出Wi-Fi 7芯片組解決方案]]></title>
-        <id>https://news.ycombinator.com/item?id=31060452</id>
-        <link href="https://news.ycombinator.com/item?id=31060452"/>
-        <updated>2022-04-17T12:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Broadcom introduces Wi-Fi 7 chipset solutions]]></summary>
-        <author>
-            <name>teleforce</name>
-            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[框架 筆記本電腦主機板]]></title>
-        <id>https://news.ycombinator.com/item?id=31089677</id>
-        <link href="https://news.ycombinator.com/item?id=31089677"/>
-        <updated>2022-04-19T21:43:41.000Z</updated>
-        <summary type="html"><![CDATA[Framework Laptop Mainboard]]></summary>
-        <author>
-            <name>hecanjog</name>
-            <uri>https://news.ycombinator.com/user?id=hecanjog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jepsen測試rqlite，建立在Raft和SQLite上的分佈式數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=31089363</id>
-        <link href="https://news.ycombinator.com/item?id=31089363"/>
-        <updated>2022-04-19T21:19:28.000Z</updated>
-        <summary type="html"><![CDATA[Jepsen testing rqlite, the distributed database built on Raft and SQLite]]></summary>
-        <author>
-            <name>otoolep</name>
-            <uri>https://news.ycombinator.com/user?id=otoolep</uri>
         </author>
     </entry>
 </feed>
