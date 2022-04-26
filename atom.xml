@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T15:15:46.938Z</updated>
+    <updated>2022-04-26T15:38:16.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reloadium--Python的高级热重装系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31168069</id>
+        <link href="https://news.ycombinator.com/item?id=31168069"/>
+        <updated>2022-04-26T14:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Reloadium – Advanced hot reloading for Python]]></summary>
+        <author>
+            <name>kwazar90</name>
+            <uri>https://news.ycombinator.com/user?id=kwazar90</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraalVM 22.1。开发者体验的改进，苹果硅的构建等]]></title>
+        <id>https://news.ycombinator.com/item?id=31168001</id>
+        <link href="https://news.ycombinator.com/item?id=31168001"/>
+        <updated>2022-04-26T14:36:40.000Z</updated>
+        <summary type="html"><![CDATA[GraalVM 22.1: Developer experience improvements, Apple Silicon builds, and more]]></summary>
+        <author>
+            <name>fniephaus</name>
+            <uri>https://news.ycombinator.com/user?id=fniephaus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有效围棋]]></title>
+        <id>https://news.ycombinator.com/item?id=31167935</id>
+        <link href="https://news.ycombinator.com/item?id=31167935"/>
+        <updated>2022-04-26T14:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Effective Go]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Howdy - 用于Linux的Windows Hello式面部认证]]></title>
+        <id>https://news.ycombinator.com/item?id=31150180</id>
+        <link href="https://news.ycombinator.com/item?id=31150180"/>
+        <updated>2022-04-25T02:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Howdy – Windows Hello style facial authentication for Linux]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大学是我人生中最大的错误]]></title>
         <id>https://news.ycombinator.com/item?id=31167959</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>otoolep</name>
             <uri>https://news.ycombinator.com/user?id=otoolep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秦始皇兵马俑是中国历史上最古老的兵马俑之一，也是世界上最古老的兵马俑之一。]]></title>
-        <id>https://news.ycombinator.com/item?id=31087175</id>
-        <link href="https://news.ycombinator.com/item?id=31087175"/>
-        <updated>2022-04-19T18:43:03.000Z</updated>
-        <summary type="html"><![CDATA[HackerRank (YC S11) Has DMCA'ed the SymPy Docs]]></summary>
-        <author>
-            <name>kilovoltaire</name>
-            <uri>https://news.ycombinator.com/user?id=kilovoltaire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rescale (YC W12)正在招聘软件工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=31089071</id>
-        <link href="https://news.ycombinator.com/item?id=31089071"/>
-        <updated>2022-04-19T21:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Rescale (YC W12) Is Hiring Software Engineers]]></summary>
-        <author>
-            <name>amckenzie</name>
-            <uri>https://news.ycombinator.com/user?id=amckenzie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[服务器端渲染的荒谬复杂性]]></title>
-        <id>https://news.ycombinator.com/item?id=31087795</id>
-        <link href="https://news.ycombinator.com/item?id=31087795"/>
-        <updated>2022-04-19T19:30:58.000Z</updated>
-        <summary type="html"><![CDATA[The absurd complexity of server-side rendering]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapr: Rust中的原生跨平台地图]]></title>
-        <id>https://news.ycombinator.com/item?id=31086087</id>
-        <link href="https://news.ycombinator.com/item?id=31086087"/>
-        <updated>2022-04-19T17:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Mapr: Native cross platform maps in Rust]]></summary>
-        <author>
-            <name>adamnemecek</name>
-            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
         </author>
     </entry>
 </feed>
