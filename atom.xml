@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T10:40:35.068Z</updated>
+    <updated>2022-04-26T11:32:32.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[投票：我应该写什么书？]]></title>
+        <id>https://news.ycombinator.com/item?id=31165257</id>
+        <link href="https://news.ycombinator.com/item?id=31165257"/>
+        <updated>2022-04-26T08:35:25.000Z</updated>
+        <summary type="html"><![CDATA[Poll: What book should I write?]]></summary>
+        <author>
+            <name>mjburgess</name>
+            <uri>https://news.ycombinator.com/user?id=mjburgess</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRT制造]]></title>
+        <id>https://news.ycombinator.com/item?id=31153453</id>
+        <link href="https://news.ycombinator.com/item?id=31153453"/>
+        <updated>2022-04-25T12:23:48.000Z</updated>
+        <summary type="html"><![CDATA[CRT Manufacturing]]></summary>
+        <author>
+            <name>grunthos</name>
+            <uri>https://news.ycombinator.com/user?id=grunthos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在macOS上不能做而在Ubuntu上可以做的事情]]></title>
         <id>https://news.ycombinator.com/item?id=31165505</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现，"最大的混蛋 "往往是中年男子]]></title>
-        <id>https://news.ycombinator.com/item?id=31086129</id>
-        <link href="https://news.ycombinator.com/item?id=31086129"/>
-        <updated>2022-04-19T17:28:36.000Z</updated>
-        <summary type="html"><![CDATA[“Biggest Assholes,” Often Middle-Aged Men, Researchers Discover]]></summary>
-        <author>
-            <name>bcaulfield</name>
-            <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massdriver (YC W22)正在招聘一名首席Elixir工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=31085758</id>
-        <link href="https://news.ycombinator.com/item?id=31085758"/>
-        <updated>2022-04-19T17:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Massdriver (YC W22) Is Hiring a Principal Elixir Engineer]]></summary>
-        <author>
-            <name>Coryodaniel</name>
-            <uri>https://news.ycombinator.com/user?id=Coryodaniel</uri>
         </author>
     </entry>
 </feed>
