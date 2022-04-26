@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T05:35:47.912Z</updated>
+    <updated>2022-04-26T05:51:43.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德国的核失误]]></title>
+        <id>https://news.ycombinator.com/item?id=31164161</id>
+        <link href="https://news.ycombinator.com/item?id=31164161"/>
+        <updated>2022-04-26T05:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Germany's Nuclear Fumble]]></summary>
+        <author>
+            <name>thereare5lights</name>
+            <uri>https://news.ycombinator.com/user?id=thereare5lights</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastodon--一个联盟式的Twitter替代品]]></title>
         <id>https://news.ycombinator.com/item?id=31164135</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vector_spaces</name>
             <uri>https://news.ycombinator.com/user?id=vector_spaces</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALL-E 2如何运作]]></title>
-        <id>https://news.ycombinator.com/item?id=31084312</id>
-        <link href="https://news.ycombinator.com/item?id=31084312"/>
-        <updated>2022-04-19T15:19:09.000Z</updated>
-        <summary type="html"><![CDATA[How DALL-E 2 Works]]></summary>
-        <author>
-            <name>SleekEagle</name>
-            <uri>https://news.ycombinator.com/user?id=SleekEagle</uri>
         </author>
     </entry>
 </feed>
