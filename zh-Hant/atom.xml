@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T05:17:17.081Z</updated>
+    <updated>2022-04-26T05:35:47.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mastodon--一個聯盟式的Twitter替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=31164135</id>
+        <link href="https://news.ycombinator.com/item?id=31164135"/>
+        <updated>2022-04-26T05:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Mastodon – A Federated Twitter Alternative]]></summary>
+        <author>
+            <name>i5heu</name>
+            <uri>https://news.ycombinator.com/user?id=i5heu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電子學解釋。工程師、技術員和製造者的基礎知識]]></title>
         <id>https://news.ycombinator.com/item?id=31163871</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>SleekEagle</name>
             <uri>https://news.ycombinator.com/user?id=SleekEagle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ajax之戰。XMLHttpRequest vs. Fetch API]]></title>
-        <id>https://news.ycombinator.com/item?id=31084264</id>
-        <link href="https://news.ycombinator.com/item?id=31084264"/>
-        <updated>2022-04-19T15:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Ajax Battle: XMLHttpRequest vs. the Fetch API]]></summary>
-        <author>
-            <name>ceeb</name>
-            <uri>https://news.ycombinator.com/user?id=ceeb</uri>
         </author>
     </entry>
 </feed>

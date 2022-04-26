@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 05:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 05:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mastodon--一個聯盟式的Twitter替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=31164135</link>
+            <guid>https://news.ycombinator.com/item?id=31164135</guid>
+            <pubDate>Tue, 26 Apr 2022 05:05:51 GMT</pubDate>
+            <description><![CDATA[Mastodon – A Federated Twitter Alternative]]></description>
+        </item>
         <item>
             <title><![CDATA[電子學解釋。工程師、技術員和製造者的基礎知識]]></title>
             <link>https://news.ycombinator.com/item?id=31163871</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31084312</guid>
             <pubDate>Tue, 19 Apr 2022 15:19:09 GMT</pubDate>
             <description><![CDATA[How DALL-E 2 Works]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ajax之戰。XMLHttpRequest vs. Fetch API]]></title>
-            <link>https://news.ycombinator.com/item?id=31084264</link>
-            <guid>https://news.ycombinator.com/item?id=31084264</guid>
-            <pubDate>Tue, 19 Apr 2022 15:15:05 GMT</pubDate>
-            <description><![CDATA[Ajax Battle: XMLHttpRequest vs. the Fetch API]]></description>
         </item>
     </channel>
 </rss>
