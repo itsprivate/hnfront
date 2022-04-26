@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T02:58:37.036Z</updated>
+    <updated>2022-04-26T03:49:21.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[0day/CVE应用安全研究入门指南]]></title>
+        <id>https://news.ycombinator.com/item?id=31152385</id>
+        <link href="https://news.ycombinator.com/item?id=31152385"/>
+        <updated>2022-04-25T09:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Beginners Guide to 0day/CVE AppSec Research]]></summary>
+        <author>
+            <name>weinzierl</name>
+            <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hush，一种现代shell脚本语言]]></title>
         <id>https://news.ycombinator.com/item?id=31163083</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>skywal_l</name>
             <uri>https://news.ycombinator.com/user?id=skywal_l</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让你的PDF在浏览器中看起来是扫描的]]></title>
-        <id>https://news.ycombinator.com/item?id=31083432</id>
-        <link href="https://news.ycombinator.com/item?id=31083432"/>
-        <updated>2022-04-19T14:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make Your PDF Look Scanned in Browser]]></summary>
-        <author>
-            <name>seedgou</name>
-            <uri>https://news.ycombinator.com/user?id=seedgou</uri>
         </author>
     </entry>
 </feed>
