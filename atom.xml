@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T14:32:40.891Z</updated>
+    <updated>2022-04-26T14:41:26.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MCC（Master Chief Collection）服务器事件摘要]]></title>
+        <id>https://news.ycombinator.com/item?id=31167900</id>
+        <link href="https://news.ycombinator.com/item?id=31167900"/>
+        <updated>2022-04-26T14:29:25.000Z</updated>
+        <summary type="html"><![CDATA[MCC (Master Chief Collection) Server Incident Summary]]></summary>
+        <author>
+            <name>DivisionSol</name>
+            <uri>https://news.ycombinator.com/user?id=DivisionSol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丢失的夏洛特-勃朗特手稿以125万美元售出]]></title>
         <id>https://news.ycombinator.com/item?id=31150737</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gordon_freeman</name>
             <uri>https://news.ycombinator.com/user?id=gordon_freeman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编写McCLIM后端--SVG案例研究]]></title>
-        <id>https://news.ycombinator.com/item?id=31086363</id>
-        <link href="https://news.ycombinator.com/item?id=31086363"/>
-        <updated>2022-04-19T17:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Writing McCLIM backends – SVG case study]]></summary>
-        <author>
-            <name>jackdaniel</name>
-            <uri>https://news.ycombinator.com/user?id=jackdaniel</uri>
         </author>
     </entry>
 </feed>
