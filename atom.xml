@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T08:16:34.111Z</updated>
+    <updated>2022-04-26T08:40:44.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[thin.dev，用于制作实时、类型安全的React应用程序的后端]]></title>
+        <id>https://news.ycombinator.com/item?id=31164799</id>
+        <link href="https://news.ycombinator.com/item?id=31164799"/>
+        <updated>2022-04-26T07:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: thin.dev, back end for making realtime, typesafe React Apps]]></summary>
+        <author>
+            <name>_query</name>
+            <uri>https://news.ycombinator.com/user?id=_query</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超越图书馆和框架的创新]]></title>
         <id>https://news.ycombinator.com/item?id=31152874</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>w0ts0n</name>
             <uri>https://news.ycombinator.com/user?id=w0ts0n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为旧的PalmOS设备提供串行连接的SD]]></title>
-        <id>https://news.ycombinator.com/item?id=31084804</id>
-        <link href="https://news.ycombinator.com/item?id=31084804"/>
-        <updated>2022-04-19T15:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Serially-attached SD for old PalmOS devices]]></summary>
-        <author>
-            <name>dmitrygr</name>
-            <uri>https://news.ycombinator.com/user?id=dmitrygr</uri>
         </author>
     </entry>
 </feed>
