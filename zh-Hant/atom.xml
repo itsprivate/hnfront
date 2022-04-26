@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T08:40:44.815Z</updated>
+    <updated>2022-04-26T09:35:11.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開放源代碼的未來。關於帝國主義和理想主義]]></title>
+        <id>https://news.ycombinator.com/item?id=31155794</id>
+        <link href="https://news.ycombinator.com/item?id=31155794"/>
+        <updated>2022-04-25T14:59:13.000Z</updated>
+        <summary type="html"><![CDATA[The Future of Open Source: On Imperialism and Idealism]]></summary>
+        <author>
+            <name>marttt</name>
+            <uri>https://news.ycombinator.com/user?id=marttt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[thin.dev，用於製作實時、類型安全的React應用程序的後端]]></title>
         <id>https://news.ycombinator.com/item?id=31164799</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去掉AMP。剔除谷歌]]></title>
-        <id>https://news.ycombinator.com/item?id=31085051</id>
-        <link href="https://news.ycombinator.com/item?id=31085051"/>
-        <updated>2022-04-19T16:07:58.000Z</updated>
-        <summary type="html"><![CDATA[De-AMP: Cutting Out Google]]></summary>
-        <author>
-            <name>w0ts0n</name>
-            <uri>https://news.ycombinator.com/user?id=w0ts0n</uri>
         </author>
     </entry>
 </feed>
