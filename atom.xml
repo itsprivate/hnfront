@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T09:35:11.369Z</updated>
+    <updated>2022-04-26T10:40:35.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在macOS上不能做而在Ubuntu上可以做的事情]]></title>
+        <id>https://news.ycombinator.com/item?id=31165505</id>
+        <link href="https://news.ycombinator.com/item?id=31165505"/>
+        <updated>2022-04-26T09:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Things I can’t do on macOS which I can do on Ubuntu]]></summary>
+        <author>
+            <name>robin_reala</name>
+            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恐慌的玩伴》深度回顾]]></title>
+        <id>https://news.ycombinator.com/item?id=31092909</id>
+        <link href="https://news.ycombinator.com/item?id=31092909"/>
+        <updated>2022-04-20T04:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Panic Playdate In-Depth Review]]></summary>
+        <author>
+            <name>marcobambini</name>
+            <uri>https://news.ycombinator.com/user?id=marcobambini</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开放源代码的未来。关于帝国主义和理想主义]]></title>
         <id>https://news.ycombinator.com/item?id=31155794</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Coryodaniel</name>
             <uri>https://news.ycombinator.com/user?id=Coryodaniel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刚刚在GitHub上达到10万美元/年的赞助额]]></title>
-        <id>https://news.ycombinator.com/item?id=31085385</id>
-        <link href="https://news.ycombinator.com/item?id=31085385"/>
-        <updated>2022-04-19T16:30:32.000Z</updated>
-        <summary type="html"><![CDATA[I Just Hit $100k/Yr on GitHub Sponsors]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clojure和Doom Emacs在一台全新的M1电脑上的应用]]></title>
-        <id>https://news.ycombinator.com/item?id=31064724</id>
-        <link href="https://news.ycombinator.com/item?id=31064724"/>
-        <updated>2022-04-17T21:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Clojure and Doom Emacs on a brand new M1 computer]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
