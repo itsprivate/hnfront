@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T19:02:04.109Z</updated>
+    <updated>2022-04-26T19:11:55.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Nim、Zig、Rust和C++中进行编译时评估]]></title>
+        <id>https://news.ycombinator.com/item?id=31160234</id>
+        <link href="https://news.ycombinator.com/item?id=31160234"/>
+        <updated>2022-04-25T20:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Compile time evaluation in Nim, Zig, Rust and C++]]></summary>
+        <author>
+            <name>lukastyrychtr</name>
+            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们拔掉了一个数据中心的电源以测试我们的灾难准备情况]]></title>
+        <id>https://news.ycombinator.com/item?id=31155625</id>
+        <link href="https://news.ycombinator.com/item?id=31155625"/>
+        <updated>2022-04-25T14:47:00.000Z</updated>
+        <summary type="html"><![CDATA[We unplugged a data center to test our disaster readiness]]></summary>
+        <author>
+            <name>ianrahman</name>
+            <uri>https://news.ycombinator.com/user?id=ianrahman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用RasPi Pico和RAM扩展实现一个透明人系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31148607</id>
+        <link href="https://news.ycombinator.com/item?id=31148607"/>
+        <updated>2022-04-24T21:42:09.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a Transputer system using RasPi Pico and RAM expansion]]></summary>
+        <author>
+            <name>lproven</name>
+            <uri>https://news.ycombinator.com/user?id=lproven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么悲观主义听起来很聪明]]></title>
         <id>https://news.ycombinator.com/item?id=31171288</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于反加密货币的毒性]]></title>
-        <id>https://news.ycombinator.com/item?id=31094479</id>
-        <link href="https://news.ycombinator.com/item?id=31094479"/>
-        <updated>2022-04-20T09:24:24.000Z</updated>
-        <summary type="html"><![CDATA[On Anti-Crypto Toxicity]]></summary>
-        <author>
-            <name>chalst</name>
-            <uri>https://news.ycombinator.com/user?id=chalst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在-2000美元范围内，有什么好的笔记本电脑适合软件开发？]]></title>
-        <id>https://news.ycombinator.com/item?id=31094361</id>
-        <link href="https://news.ycombinator.com/item?id=31094361"/>
-        <updated>2022-04-20T09:03:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What's a good laptop for software development in –$2000 range]]></summary>
-        <author>
-            <name>kellogs_aran</name>
-            <uri>https://news.ycombinator.com/user?id=kellogs_aran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南非正在耗尽马尔米特食品]]></title>
-        <id>https://news.ycombinator.com/item?id=31069149</id>
-        <link href="https://news.ycombinator.com/item?id=31069149"/>
-        <updated>2022-04-18T10:41:18.000Z</updated>
-        <summary type="html"><![CDATA[South Africa is running out of Marmite]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
-            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
         </author>
     </entry>
 </feed>
