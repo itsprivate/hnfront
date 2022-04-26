@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T22:14:13.274Z</updated>
+    <updated>2022-04-26T22:34:05.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[犀利的東西]]></title>
+        <id>https://news.ycombinator.com/item?id=31163172</id>
+        <link href="https://news.ycombinator.com/item?id=31163172"/>
+        <updated>2022-04-26T02:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Something Sharp]]></summary>
+        <author>
+            <name>boovic</name>
+            <uri>https://news.ycombinator.com/user?id=boovic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何寫一個好的Git提交信息]]></title>
         <id>https://news.ycombinator.com/item?id=31173484</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>michaeldwan</name>
             <uri>https://news.ycombinator.com/user?id=michaeldwan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勒-柯布西耶的項目Plan Voisin--1925年巴黎的激進城市設計]]></title>
-        <id>https://news.ycombinator.com/item?id=31094958</id>
-        <link href="https://news.ycombinator.com/item?id=31094958"/>
-        <updated>2022-04-20T10:39:03.000Z</updated>
-        <summary type="html"><![CDATA[Le Corbusier's project Plan Voisin – a radical urban design for Paris from 1925]]></summary>
-        <author>
-            <name>revolucien</name>
-            <uri>https://news.ycombinator.com/user?id=revolucien</uri>
         </author>
     </entry>
 </feed>
