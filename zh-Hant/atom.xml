@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T07:32:34.892Z</updated>
+    <updated>2022-04-26T08:16:34.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[超越圖書館和框架的創新]]></title>
+        <id>https://news.ycombinator.com/item?id=31152874</id>
+        <link href="https://news.ycombinator.com/item?id=31152874"/>
+        <updated>2022-04-25T11:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Innovating beyond libraries and frameworks]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於超光速旅行和時間旅行的講座]]></title>
         <id>https://news.ycombinator.com/item?id=31156276</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dmitrygr</name>
             <uri>https://news.ycombinator.com/user?id=dmitrygr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hathora: 多人遊戲輕鬆搞定]]></title>
-        <id>https://news.ycombinator.com/item?id=31084779</id>
-        <link href="https://news.ycombinator.com/item?id=31084779"/>
-        <updated>2022-04-19T15:50:33.000Z</updated>
-        <summary type="html"><![CDATA[Hathora: Multiplayer Made Easy]]></summary>
-        <author>
-            <name>hpx7</name>
-            <uri>https://news.ycombinator.com/user?id=hpx7</uri>
         </author>
     </entry>
 </feed>
