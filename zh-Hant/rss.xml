@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 14:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 14:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[丟失的夏洛特-勃朗特手稿以125萬美元售出]]></title>
+            <link>https://news.ycombinator.com/item?id=31150737</link>
+            <guid>https://news.ycombinator.com/item?id=31150737</guid>
+            <pubDate>Mon, 25 Apr 2022 04:22:28 GMT</pubDate>
+            <description><![CDATA[Lost Charlotte Brontë Manuscript Sells for $1.25M]]></description>
+        </item>
         <item>
             <title><![CDATA[機械開關的問題評論]]></title>
             <link>https://news.ycombinator.com/item?id=31167383</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31086363</guid>
             <pubDate>Tue, 19 Apr 2022 17:46:20 GMT</pubDate>
             <description><![CDATA[Writing McCLIM backends – SVG case study]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你能保證在俄羅斯方塊中清除一條線嗎？]]></title>
-            <link>https://news.ycombinator.com/item?id=31087923</link>
-            <guid>https://news.ycombinator.com/item?id=31087923</guid>
-            <pubDate>Tue, 19 Apr 2022 19:38:13 GMT</pubDate>
-            <description><![CDATA[Can you be sure to clear a line at Tetris?]]></description>
         </item>
     </channel>
 </rss>
