@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-26T15:58:57.942Z</updated>
+    <updated>2022-04-26T16:18:22.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[M3O - 通用公共API接口]]></title>
+        <id>https://news.ycombinator.com/item?id=31152511</id>
+        <link href="https://news.ycombinator.com/item?id=31152511"/>
+        <updated>2022-04-25T10:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: M3O – Universal Public API Interface]]></summary>
+        <author>
+            <name>asim</name>
+            <uri>https://news.ycombinator.com/user?id=asim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3,200年前的埃及石碑记录了人们错过工作的借口]]></title>
         <id>https://news.ycombinator.com/item?id=31168862</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Caiero</name>
             <uri>https://news.ycombinator.com/user?id=Caiero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Windows中实现全局注入和挂接]]></title>
-        <id>https://news.ycombinator.com/item?id=31068634</id>
-        <link href="https://news.ycombinator.com/item?id=31068634"/>
-        <updated>2022-04-18T08:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Implementing Global Injection and Hooking in Windows]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
