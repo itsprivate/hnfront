@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T07:12:53.985Z</updated>
+    <updated>2022-04-27T07:33:54.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg現在支持JPEG XL]]></title>
+        <id>https://news.ycombinator.com/item?id=31177098</id>
+        <link href="https://news.ycombinator.com/item?id=31177098"/>
+        <updated>2022-04-27T06:59:35.000Z</updated>
+        <summary type="html"><![CDATA[FFmpeg now supports JPEG XL]]></summary>
+        <author>
+            <name>867-5309</name>
+            <uri>https://news.ycombinator.com/user?id=867-5309</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將一條信息翻譯成不同的語言並返回10次]]></title>
+        <id>https://news.ycombinator.com/item?id=31176883</id>
+        <link href="https://news.ycombinator.com/item?id=31176883"/>
+        <updated>2022-04-27T06:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Translate a message 10 times into different languages and back]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baseten - 構建以ML為動力的應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=31169193</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sizzle</name>
             <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IKOS：基於抽象解釋理論的C/C++靜態分析器]]></title>
-        <id>https://news.ycombinator.com/item?id=31100483</id>
-        <link href="https://news.ycombinator.com/item?id=31100483"/>
-        <updated>2022-04-20T17:48:56.000Z</updated>
-        <summary type="html"><![CDATA[IKOS: Static analyzer for C/C++ based on the theory of Abstract Interpretation]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我創建了一個來自網絡上的非常有用的網站集合]]></title>
-        <id>https://news.ycombinator.com/item?id=31099366</id>
-        <link href="https://news.ycombinator.com/item?id=31099366"/>
-        <updated>2022-04-20T16:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I created a collection of insanely useful websites from around the web]]></summary>
-        <author>
-            <name>jayra</name>
-            <uri>https://news.ycombinator.com/user?id=jayra</uri>
         </author>
     </entry>
 </feed>
