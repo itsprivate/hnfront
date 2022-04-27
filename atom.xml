@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T15:58:40.513Z</updated>
+    <updated>2022-04-27T16:58:14.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在AWS Lambda上运行容器]]></title>
+        <id>https://news.ycombinator.com/item?id=31182099</id>
+        <link href="https://news.ycombinator.com/item?id=31182099"/>
+        <updated>2022-04-27T16:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Running Containers on AWS Lambda]]></summary>
+        <author>
+            <name>shaicoleman</name>
+            <uri>https://news.ycombinator.com/user?id=shaicoleman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gq - 像jq或zq一样，但你使用Go]]></title>
+        <id>https://news.ycombinator.com/item?id=31181898</id>
+        <link href="https://news.ycombinator.com/item?id=31181898"/>
+        <updated>2022-04-27T16:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: gq – like jq or zq, but you use Go]]></summary>
+        <author>
+            <name>errnil</name>
+            <uri>https://news.ycombinator.com/user?id=errnil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度的热浪打破记录，仍在不断恶化]]></title>
+        <id>https://news.ycombinator.com/item?id=31181735</id>
+        <link href="https://news.ycombinator.com/item?id=31181735"/>
+        <updated>2022-04-27T16:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Heatwave in India breaks records, still worsening]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So Long Surrogates: 我们如何在Haskell中转移到UTF-8？]]></title>
+        <id>https://news.ycombinator.com/item?id=31181595</id>
+        <link href="https://news.ycombinator.com/item?id=31181595"/>
+        <updated>2022-04-27T15:55:13.000Z</updated>
+        <summary type="html"><![CDATA[So Long Surrogates: How We Moved to UTF-8 in Haskell]]></summary>
+        <author>
+            <name>wofo</name>
+            <uri>https://news.ycombinator.com/user?id=wofo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loodio - 一种浴室隐私装置]]></title>
         <id>https://news.ycombinator.com/item?id=31181237</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>gorkemcetin</name>
             <uri>https://news.ycombinator.com/user?id=gorkemcetin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[协作式电子表格和甘特中的双向Jira同步]]></title>
-        <id>https://news.ycombinator.com/item?id=31098065</id>
-        <link href="https://news.ycombinator.com/item?id=31098065"/>
-        <updated>2022-04-20T15:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Two-way Jira sync in a collaborative spreadsheet and Gantt]]></summary>
-        <author>
-            <name>electric_muse</name>
-            <uri>https://news.ycombinator.com/user?id=electric_muse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初创企业举债的注意事项]]></title>
-        <id>https://news.ycombinator.com/item?id=31063775</id>
-        <link href="https://news.ycombinator.com/item?id=31063775"/>
-        <updated>2022-04-17T19:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Things to know about raising debt for startups]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-            <uri>https://news.ycombinator.com/user?id=atlasunshrugged</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃米莉 (2010)]]></title>
-        <id>https://news.ycombinator.com/item?id=31103510</id>
-        <link href="https://news.ycombinator.com/item?id=31103510"/>
-        <updated>2022-04-20T21:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Emilie (2010)]]></summary>
-        <author>
-            <name>animalcule</name>
-            <uri>https://news.ycombinator.com/user?id=animalcule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州电网在4月3日创造了97%的可再生能源电力记录]]></title>
-        <id>https://news.ycombinator.com/item?id=31103275</id>
-        <link href="https://news.ycombinator.com/item?id=31103275"/>
-        <updated>2022-04-20T21:30:16.000Z</updated>
-        <summary type="html"><![CDATA[California grid set record of 97% renewable power on April 3]]></summary>
-        <author>
-            <name>lizparody23</name>
-            <uri>https://news.ycombinator.com/user?id=lizparody23</uri>
         </author>
     </entry>
 </feed>
