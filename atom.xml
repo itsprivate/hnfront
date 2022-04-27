@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T19:29:46.694Z</updated>
+    <updated>2022-04-27T19:37:45.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Go Generics将谷歌的B-Tree实施减少40%。]]></title>
+        <id>https://news.ycombinator.com/item?id=31182645</id>
+        <link href="https://news.ycombinator.com/item?id=31182645"/>
+        <updated>2022-04-27T17:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Shaving 40% Off Google’s B-Tree Implementation with Go Generics]]></summary>
+        <author>
+            <name>PeterCorless</name>
+            <uri>https://news.ycombinator.com/user?id=PeterCorless</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于ZFS的交互式、文件级的类似于时间机器的工具]]></title>
         <id>https://news.ycombinator.com/item?id=31184404</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jamesy0ung</name>
             <uri>https://news.ycombinator.com/user?id=jamesy0ung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络广告的下行期即将到来]]></title>
-        <id>https://news.ycombinator.com/item?id=31091984</id>
-        <link href="https://news.ycombinator.com/item?id=31091984"/>
-        <updated>2022-04-20T02:12:04.000Z</updated>
-        <summary type="html"><![CDATA[A Downtick Is Coming for Online Advertising]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>

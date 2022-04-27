@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 19:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 19:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Go Generics将谷歌的B-Tree实施减少40%。]]></title>
+            <link>https://news.ycombinator.com/item?id=31182645</link>
+            <guid>https://news.ycombinator.com/item?id=31182645</guid>
+            <pubDate>Wed, 27 Apr 2022 17:03:05 GMT</pubDate>
+            <description><![CDATA[Shaving 40% Off Google’s B-Tree Implementation with Go Generics]]></description>
+        </item>
         <item>
             <title><![CDATA[用于ZFS的交互式、文件级的类似于时间机器的工具]]></title>
             <link>https://news.ycombinator.com/item?id=31184404</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31105320</guid>
             <pubDate>Thu, 21 Apr 2022 02:04:41 GMT</pubDate>
             <description><![CDATA[Turning scrap copper into beautiful crystals]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网络广告的下行期即将到来]]></title>
-            <link>https://news.ycombinator.com/item?id=31091984</link>
-            <guid>https://news.ycombinator.com/item?id=31091984</guid>
-            <pubDate>Wed, 20 Apr 2022 02:12:04 GMT</pubDate>
-            <description><![CDATA[A Downtick Is Coming for Online Advertising]]></description>
         </item>
     </channel>
 </rss>
