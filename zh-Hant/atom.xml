@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T14:01:21.291Z</updated>
+    <updated>2022-04-27T14:13:45.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臉譜網正從進軍播客領域中撤出]]></title>
+        <id>https://news.ycombinator.com/item?id=31137283</id>
+        <link href="https://news.ycombinator.com/item?id=31137283"/>
+        <updated>2022-04-23T19:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Facebook Is Pulling Back from Its Foray into Podcasting]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國頂級企業在利潤激增的情況下仍對美國人漲價]]></title>
         <id>https://news.ycombinator.com/item?id=31179003</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>yodon</name>
             <uri>https://news.ycombinator.com/user?id=yodon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTL：一種用於轉換和處理數據的語言和JavaScript庫]]></title>
-        <id>https://news.ycombinator.com/item?id=31098205</id>
-        <link href="https://news.ycombinator.com/item?id=31098205"/>
-        <updated>2022-04-20T15:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DTL: a language and JavaScript lib to transform and manipulate data]]></summary>
-        <author>
-            <name>jk0ne</name>
-            <uri>https://news.ycombinator.com/user?id=jk0ne</uri>
         </author>
     </entry>
 </feed>
