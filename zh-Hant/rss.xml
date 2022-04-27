@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 19:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 20:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[rq: 結構化數據（JSON、MessagePack、CBOR等）之間的通用轉換工具。]]></title>
+            <link>https://news.ycombinator.com/item?id=31184825</link>
+            <guid>https://news.ycombinator.com/item?id=31184825</guid>
+            <pubDate>Wed, 27 Apr 2022 19:44:44 GMT</pubDate>
+            <description><![CDATA[rq: Universal convertor between structured data (JSON, MessagePack, CBOR, etc.)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[波音公司尋找其夢想飛機的缺陷，並無法停止發現它們]]></title>
+            <link>https://news.ycombinator.com/item?id=31183019</link>
+            <guid>https://news.ycombinator.com/item?id=31183019</guid>
+            <pubDate>Wed, 27 Apr 2022 17:27:09 GMT</pubDate>
+            <description><![CDATA[Boeing looked for flaws in its Dreamliner and couldn’t stop finding them]]></description>
+        </item>
         <item>
             <title><![CDATA[用Go Generics將谷歌的B-Tree實施減少40%。]]></title>
             <link>https://news.ycombinator.com/item?id=31182645</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31105513</guid>
             <pubDate>Thu, 21 Apr 2022 02:39:23 GMT</pubDate>
             <description><![CDATA[HUDS and GUIs: an inspiration resource site featuring Future User Interfaces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cog: 機器學習的容器]]></title>
-            <link>https://news.ycombinator.com/item?id=31105507</link>
-            <guid>https://news.ycombinator.com/item?id=31105507</guid>
-            <pubDate>Thu, 21 Apr 2022 02:38:19 GMT</pubDate>
-            <description><![CDATA[Cog: Containers for Machine Learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[把廢銅變成美麗的水晶]]></title>
-            <link>https://news.ycombinator.com/item?id=31105320</link>
-            <guid>https://news.ycombinator.com/item?id=31105320</guid>
-            <pubDate>Thu, 21 Apr 2022 02:04:41 GMT</pubDate>
-            <description><![CDATA[Turning scrap copper into beautiful crystals]]></description>
         </item>
     </channel>
 </rss>

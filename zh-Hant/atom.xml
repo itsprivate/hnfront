@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T19:37:45.495Z</updated>
+    <updated>2022-04-27T20:16:15.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[rq: 結構化數據（JSON、MessagePack、CBOR等）之間的通用轉換工具。]]></title>
+        <id>https://news.ycombinator.com/item?id=31184825</id>
+        <link href="https://news.ycombinator.com/item?id=31184825"/>
+        <updated>2022-04-27T19:44:44.000Z</updated>
+        <summary type="html"><![CDATA[rq: Universal convertor between structured data (JSON, MessagePack, CBOR, etc.)]]></summary>
+        <author>
+            <name>ducktective</name>
+            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波音公司尋找其夢想飛機的缺陷，並無法停止發現它們]]></title>
+        <id>https://news.ycombinator.com/item?id=31183019</id>
+        <link href="https://news.ycombinator.com/item?id=31183019"/>
+        <updated>2022-04-27T17:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Boeing looked for flaws in its Dreamliner and couldn’t stop finding them]]></summary>
+        <author>
+            <name>dangle1</name>
+            <uri>https://news.ycombinator.com/user?id=dangle1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Go Generics將谷歌的B-Tree實施減少40%。]]></title>
         <id>https://news.ycombinator.com/item?id=31182645</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>harporoeder</name>
             <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cog: 機器學習的容器]]></title>
-        <id>https://news.ycombinator.com/item?id=31105507</id>
-        <link href="https://news.ycombinator.com/item?id=31105507"/>
-        <updated>2022-04-21T02:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Cog: Containers for Machine Learning]]></summary>
-        <author>
-            <name>fdalvi</name>
-            <uri>https://news.ycombinator.com/user?id=fdalvi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把廢銅變成美麗的水晶]]></title>
-        <id>https://news.ycombinator.com/item?id=31105320</id>
-        <link href="https://news.ycombinator.com/item?id=31105320"/>
-        <updated>2022-04-21T02:04:41.000Z</updated>
-        <summary type="html"><![CDATA[Turning scrap copper into beautiful crystals]]></summary>
-        <author>
-            <name>jamesy0ung</name>
-            <uri>https://news.ycombinator.com/user?id=jamesy0ung</uri>
         </author>
     </entry>
 </feed>
