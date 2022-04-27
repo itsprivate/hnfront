@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[麻省理工学院的研究人员开发出一种纸质薄型扬声器]]></title>
+            <link>https://news.ycombinator.com/item?id=31178022</link>
+            <guid>https://news.ycombinator.com/item?id=31178022</guid>
+            <pubDate>Wed, 27 Apr 2022 09:34:39 GMT</pubDate>
+            <description><![CDATA[MIT researchers develop a paper thin loudspeaker]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高可用性的简史]]></title>
+            <link>https://news.ycombinator.com/item?id=31166079</link>
+            <guid>https://news.ycombinator.com/item?id=31166079</guid>
+            <pubDate>Tue, 26 Apr 2022 11:21:41 GMT</pubDate>
+            <description><![CDATA[A Brief History of High Availability]]></description>
+        </item>
         <item>
             <title><![CDATA[OLAP数据库中的矢量化]]></title>
             <link>https://news.ycombinator.com/item?id=31167322</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=25027279</guid>
             <pubDate>Sun, 08 Nov 2020 17:34:39 GMT</pubDate>
             <description><![CDATA['Jeopardy’ host Alex Trebek dead at 80 after cancer battle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Videolan.org Robots.txt]]></title>
-            <link>https://news.ycombinator.com/item?id=31101613</link>
-            <guid>https://news.ycombinator.com/item?id=31101613</guid>
-            <pubDate>Wed, 20 Apr 2022 19:17:48 GMT</pubDate>
-            <description><![CDATA[Videolan.org Robots.txt]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你可能不需要AWS，没有它更好。]]></title>
-            <link>https://news.ycombinator.com/item?id=31101516</link>
-            <guid>https://news.ycombinator.com/item?id=31101516</guid>
-            <pubDate>Wed, 20 Apr 2022 19:09:29 GMT</pubDate>
-            <description><![CDATA[You probably don’t need AWS and are better off without it]]></description>
         </item>
     </channel>
 </rss>

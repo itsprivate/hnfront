@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T09:14:12.412Z</updated>
+    <updated>2022-04-27T09:53:56.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[麻省理工学院的研究人员开发出一种纸质薄型扬声器]]></title>
+        <id>https://news.ycombinator.com/item?id=31178022</id>
+        <link href="https://news.ycombinator.com/item?id=31178022"/>
+        <updated>2022-04-27T09:34:39.000Z</updated>
+        <summary type="html"><![CDATA[MIT researchers develop a paper thin loudspeaker]]></summary>
+        <author>
+            <name>go_prodev</name>
+            <uri>https://news.ycombinator.com/user?id=go_prodev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高可用性的简史]]></title>
+        <id>https://news.ycombinator.com/item?id=31166079</id>
+        <link href="https://news.ycombinator.com/item?id=31166079"/>
+        <updated>2022-04-26T11:21:41.000Z</updated>
+        <summary type="html"><![CDATA[A Brief History of High Availability]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OLAP数据库中的矢量化]]></title>
         <id>https://news.ycombinator.com/item?id=31167322</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ComputerGuru</name>
             <uri>https://news.ycombinator.com/user?id=ComputerGuru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Videolan.org Robots.txt]]></title>
-        <id>https://news.ycombinator.com/item?id=31101613</id>
-        <link href="https://news.ycombinator.com/item?id=31101613"/>
-        <updated>2022-04-20T19:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Videolan.org Robots.txt]]></summary>
-        <author>
-            <name>pingiun</name>
-            <uri>https://news.ycombinator.com/user?id=pingiun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可能不需要AWS，没有它更好。]]></title>
-        <id>https://news.ycombinator.com/item?id=31101516</id>
-        <link href="https://news.ycombinator.com/item?id=31101516"/>
-        <updated>2022-04-20T19:09:29.000Z</updated>
-        <summary type="html"><![CDATA[You probably don’t need AWS and are better off without it]]></summary>
-        <author>
-            <name>rl1987</name>
-            <uri>https://news.ycombinator.com/user?id=rl1987</uri>
         </author>
     </entry>
 </feed>
