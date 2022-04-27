@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T07:45:43.500Z</updated>
+    <updated>2022-04-27T08:38:56.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[統計分析顯示Echos處理語音以提供廣告服務]]></title>
+        <id>https://news.ycombinator.com/item?id=31177454</id>
+        <link href="https://news.ycombinator.com/item?id=31177454"/>
+        <updated>2022-04-27T07:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Statistical Analysis shows Echos process voice to serve ads]]></summary>
+        <author>
+            <name>BeniBoy</name>
+            <uri>https://news.ycombinator.com/user?id=BeniBoy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在JavaScript中的數據記錄]]></title>
+        <id>https://news.ycombinator.com/item?id=31154039</id>
+        <link href="https://news.ycombinator.com/item?id=31154039"/>
+        <updated>2022-04-25T13:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Datalog in JavaScript]]></summary>
+        <author>
+            <name>stopachka</name>
+            <uri>https://news.ycombinator.com/user?id=stopachka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML事件處理程序的屬性：進入兔子洞]]></title>
         <id>https://news.ycombinator.com/item?id=31172653</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>steve8708</name>
             <uri>https://news.ycombinator.com/user?id=steve8708</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guido van Rossum: 讓Web3在一個燃燒的火球中死亡]]></title>
-        <id>https://news.ycombinator.com/item?id=31101082</id>
-        <link href="https://news.ycombinator.com/item?id=31101082"/>
-        <updated>2022-04-20T18:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Guido van Rossum: Let Web3 die in a flaming ball of fire]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果將向英國推出兒童安全功能，掃描信息中的裸體內容]]></title>
-        <id>https://news.ycombinator.com/item?id=31100340</id>
-        <link href="https://news.ycombinator.com/item?id=31100340"/>
-        <updated>2022-04-20T17:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Apple to roll out child safety feature that scans messages for nudity to UK]]></summary>
-        <author>
-            <name>Larrikin</name>
-            <uri>https://news.ycombinator.com/user?id=Larrikin</uri>
         </author>
     </entry>
 </feed>
