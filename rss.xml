@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 04:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:04:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,41 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SELinux是无法管理的；如果它妨碍了你，就把它关掉吧]]></title>
+            <link>https://news.ycombinator.com/item?id=31176138</link>
+            <guid>https://news.ycombinator.com/item?id=31176138</guid>
+            <pubDate>Wed, 27 Apr 2022 04:00:36 GMT</pubDate>
+            <description><![CDATA[SELinux is unmanageable; just turn it off if it gets in your way]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在AGPL下许可的代码不得在谷歌使用。]]></title>
+            <link>https://news.ycombinator.com/item?id=31176071</link>
+            <guid>https://news.ycombinator.com/item?id=31176071</guid>
+            <pubDate>Wed, 27 Apr 2022 03:46:10 GMT</pubDate>
+            <description><![CDATA[Code licensed under the AGPL must not be used at Google]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Datasette 生态系统]]></title>
+            <link>https://news.ycombinator.com/item?id=31176054</link>
+            <guid>https://news.ycombinator.com/item?id=31176054</guid>
+            <pubDate>Wed, 27 Apr 2022 03:43:29 GMT</pubDate>
+            <description><![CDATA[The Datasette Ecosystem]]></description>
+        </item>
+        <item>
+            <title><![CDATA[以编程方式修改古代字体]]></title>
+            <link>https://news.ycombinator.com/item?id=31168681</link>
+            <guid>https://news.ycombinator.com/item?id=31168681</guid>
+            <pubDate>Tue, 26 Apr 2022 15:27:36 GMT</pubDate>
+            <description><![CDATA[Programmatically modifying ancient fonts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TBD54566975的命名背后是什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=31164769</link>
+            <guid>https://news.ycombinator.com/item?id=31164769</guid>
+            <pubDate>Tue, 26 Apr 2022 06:57:45 GMT</pubDate>
+            <description><![CDATA[What’s Behind the Naming of TBD54566975?]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌扫描的对象。高质量的三维扫描家用物品数据集]]></title>
             <link>https://news.ycombinator.com/item?id=31175472</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=31063830</guid>
             <pubDate>Sun, 17 Apr 2022 19:51:51 GMT</pubDate>
             <description><![CDATA[The reason high school bullies get back in touch later in life (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在谷歌的规模和其他方面改变std:sort]]></title>
-            <link>https://news.ycombinator.com/item?id=31098822</link>
-            <guid>https://news.ycombinator.com/item?id=31098822</guid>
-            <pubDate>Wed, 20 Apr 2022 15:57:01 GMT</pubDate>
-            <description><![CDATA[Changing std:sort at Google’s Scale and Beyond]]></description>
-        </item>
-        <item>
-            <title><![CDATA[房间和迷宫。程序化的地牢生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=31096914</link>
-            <guid>https://news.ycombinator.com/item?id=31096914</guid>
-            <pubDate>Wed, 20 Apr 2022 13:48:46 GMT</pubDate>
-            <description><![CDATA[Rooms and Mazes: A Procedural Dungeon Generator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[候选人可以在愤世嫉俗的时代发出真诚的信号]]></title>
-            <link>https://news.ycombinator.com/item?id=31099022</link>
-            <guid>https://news.ycombinator.com/item?id=31099022</guid>
-            <pubDate>Wed, 20 Apr 2022 16:08:43 GMT</pubDate>
-            <description><![CDATA[Candidates Can Signal Sincerity in an Era of Cynicism]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国免除了4万个学生贷款]]></title>
-            <link>https://news.ycombinator.com/item?id=31098347</link>
-            <guid>https://news.ycombinator.com/item?id=31098347</guid>
-            <pubDate>Wed, 20 Apr 2022 15:28:42 GMT</pubDate>
-            <description><![CDATA[U.S. forgives 40k student loans]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在实验室中对地球磁层进行建模]]></title>
-            <link>https://news.ycombinator.com/item?id=31061868</link>
-            <guid>https://news.ycombinator.com/item?id=31061868</guid>
-            <pubDate>Sun, 17 Apr 2022 16:09:56 GMT</pubDate>
-            <description><![CDATA[Modeling Earth's Magnetosphere in the Laboratory]]></description>
         </item>
     </channel>
 </rss>

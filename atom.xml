@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T04:07:56.579Z</updated>
+    <updated>2022-04-27T05:04:03.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SELinux是无法管理的；如果它妨碍了你，就把它关掉吧]]></title>
+        <id>https://news.ycombinator.com/item?id=31176138</id>
+        <link href="https://news.ycombinator.com/item?id=31176138"/>
+        <updated>2022-04-27T04:00:36.000Z</updated>
+        <summary type="html"><![CDATA[SELinux is unmanageable; just turn it off if it gets in your way]]></summary>
+        <author>
+            <name>HyphenSam</name>
+            <uri>https://news.ycombinator.com/user?id=HyphenSam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在AGPL下许可的代码不得在谷歌使用。]]></title>
+        <id>https://news.ycombinator.com/item?id=31176071</id>
+        <link href="https://news.ycombinator.com/item?id=31176071"/>
+        <updated>2022-04-27T03:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Code licensed under the AGPL must not be used at Google]]></summary>
+        <author>
+            <name>assttoasstmgr</name>
+            <uri>https://news.ycombinator.com/user?id=assttoasstmgr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datasette 生态系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31176054</id>
+        <link href="https://news.ycombinator.com/item?id=31176054"/>
+        <updated>2022-04-27T03:43:29.000Z</updated>
+        <summary type="html"><![CDATA[The Datasette Ecosystem]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以编程方式修改古代字体]]></title>
+        <id>https://news.ycombinator.com/item?id=31168681</id>
+        <link href="https://news.ycombinator.com/item?id=31168681"/>
+        <updated>2022-04-26T15:27:36.000Z</updated>
+        <summary type="html"><![CDATA[Programmatically modifying ancient fonts]]></summary>
+        <author>
+            <name>pawptart</name>
+            <uri>https://news.ycombinator.com/user?id=pawptart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TBD54566975的命名背后是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31164769</id>
+        <link href="https://news.ycombinator.com/item?id=31164769"/>
+        <updated>2022-04-26T06:57:45.000Z</updated>
+        <summary type="html"><![CDATA[What’s Behind the Naming of TBD54566975?]]></summary>
+        <author>
+            <name>alexrustic</name>
+            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌扫描的对象。高质量的三维扫描家用物品数据集]]></title>
         <id>https://news.ycombinator.com/item?id=31175472</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>optimalsolver</name>
             <uri>https://news.ycombinator.com/user?id=optimalsolver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在谷歌的规模和其他方面改变std:sort]]></title>
-        <id>https://news.ycombinator.com/item?id=31098822</id>
-        <link href="https://news.ycombinator.com/item?id=31098822"/>
-        <updated>2022-04-20T15:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Changing std:sort at Google’s Scale and Beyond]]></summary>
-        <author>
-            <name>ashvardanian</name>
-            <uri>https://news.ycombinator.com/user?id=ashvardanian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[房间和迷宫。程序化的地牢生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=31096914</id>
-        <link href="https://news.ycombinator.com/item?id=31096914"/>
-        <updated>2022-04-20T13:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Rooms and Mazes: A Procedural Dungeon Generator]]></summary>
-        <author>
-            <name>probabletrain</name>
-            <uri>https://news.ycombinator.com/user?id=probabletrain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[候选人可以在愤世嫉俗的时代发出真诚的信号]]></title>
-        <id>https://news.ycombinator.com/item?id=31099022</id>
-        <link href="https://news.ycombinator.com/item?id=31099022"/>
-        <updated>2022-04-20T16:08:43.000Z</updated>
-        <summary type="html"><![CDATA[Candidates Can Signal Sincerity in an Era of Cynicism]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国免除了4万个学生贷款]]></title>
-        <id>https://news.ycombinator.com/item?id=31098347</id>
-        <link href="https://news.ycombinator.com/item?id=31098347"/>
-        <updated>2022-04-20T15:28:42.000Z</updated>
-        <summary type="html"><![CDATA[U.S. forgives 40k student loans]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在实验室中对地球磁层进行建模]]></title>
-        <id>https://news.ycombinator.com/item?id=31061868</id>
-        <link href="https://news.ycombinator.com/item?id=31061868"/>
-        <updated>2022-04-17T16:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Modeling Earth's Magnetosphere in the Laboratory]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
