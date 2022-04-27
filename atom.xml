@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T20:16:15.542Z</updated>
+    <updated>2022-04-27T20:38:08.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们用Tailwind CSS建立了50个即将推出的页面模板，因为我们找不到]]></title>
+        <id>https://news.ycombinator.com/item?id=31184968</id>
+        <link href="https://news.ycombinator.com/item?id=31184968"/>
+        <updated>2022-04-27T19:58:28.000Z</updated>
+        <summary type="html"><![CDATA[We built 50 coming soon page templates with Tailwind CSS cause we couldn't find]]></summary>
+        <author>
+            <name>hey_fk</name>
+            <uri>https://news.ycombinator.com/user?id=hey_fk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝鲜人正在对手机进行越狱以获取被禁止的媒体]]></title>
+        <id>https://news.ycombinator.com/item?id=31184724</id>
+        <link href="https://news.ycombinator.com/item?id=31184724"/>
+        <updated>2022-04-27T19:35:52.000Z</updated>
+        <summary type="html"><![CDATA[North Koreans Are Jailbreaking Phones to Access Forbidden Media]]></summary>
+        <author>
+            <name>8bitsrule</name>
+            <uri>https://news.ycombinator.com/user?id=8bitsrule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[护理的目标]]></title>
+        <id>https://news.ycombinator.com/item?id=31173399</id>
+        <link href="https://news.ycombinator.com/item?id=31173399"/>
+        <updated>2022-04-26T21:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Goals of Care]]></summary>
+        <author>
+            <name>mstats</name>
+            <uri>https://news.ycombinator.com/user?id=mstats</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[rq: 结构化数据（JSON、MessagePack、CBOR等）之间的通用转换工具。]]></title>
         <id>https://news.ycombinator.com/item?id=31184825</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>tintinnabula</name>
             <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go将在下一个版本中使用pdqsort]]></title>
-        <id>https://news.ycombinator.com/item?id=31106157</id>
-        <link href="https://news.ycombinator.com/item?id=31106157"/>
-        <updated>2022-04-21T05:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Go will use pdqsort in next release]]></summary>
-        <author>
-            <name>ngaut</name>
-            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与糖尿病治疗目标相关的预期寿命的潜在增长 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31085193</id>
-        <link href="https://news.ycombinator.com/item?id=31085193"/>
-        <updated>2022-04-19T16:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Potential Gains in Life Expectancy Associated with Diabetes Treatment Goals [pdf]]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUDS和GUI：一个以未来用户界面为特色的灵感资源网站]]></title>
-        <id>https://news.ycombinator.com/item?id=31105513</id>
-        <link href="https://news.ycombinator.com/item?id=31105513"/>
-        <updated>2022-04-21T02:39:23.000Z</updated>
-        <summary type="html"><![CDATA[HUDS and GUIs: an inspiration resource site featuring Future User Interfaces]]></summary>
-        <author>
-            <name>harporoeder</name>
-            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
         </author>
     </entry>
 </feed>
