@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T07:33:54.214Z</updated>
+    <updated>2022-04-27T07:45:43.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML事件處理程序的屬性：進入兔子洞]]></title>
+        <id>https://news.ycombinator.com/item?id=31172653</id>
+        <link href="https://news.ycombinator.com/item?id=31172653"/>
+        <updated>2022-04-26T20:20:26.000Z</updated>
+        <summary type="html"><![CDATA[HTML event handler attributes: down the rabbit hole]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FFmpeg現在支持JPEG XL]]></title>
         <id>https://news.ycombinator.com/item?id=31177098</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Larrikin</name>
             <uri>https://news.ycombinator.com/user?id=Larrikin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BCI讓被完全 "鎖住 "的男子與他的兒子溝通，要求喝啤酒]]></title>
-        <id>https://news.ycombinator.com/item?id=31100521</id>
-        <link href="https://news.ycombinator.com/item?id=31100521"/>
-        <updated>2022-04-20T17:50:54.000Z</updated>
-        <summary type="html"><![CDATA[BCI lets completely “locked-in” man communicate with his son, ask for a beer]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
         </author>
     </entry>
 </feed>
