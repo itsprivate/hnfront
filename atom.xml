@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T11:31:18.515Z</updated>
+    <updated>2022-04-27T11:52:33.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不，你不能通过关闭你的 "待机 "设备每年节省30英镑]]></title>
+        <id>https://news.ycombinator.com/item?id=31178506</id>
+        <link href="https://news.ycombinator.com/item?id=31178506"/>
+        <updated>2022-04-27T11:09:50.000Z</updated>
+        <summary type="html"><![CDATA[No, you can’t save £30 per year by switching off your “standby” devices]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yacht - 管理Docker容器的网络接口]]></title>
         <id>https://news.ycombinator.com/item?id=31177376</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jasoncrawford</name>
             <uri>https://news.ycombinator.com/user?id=jasoncrawford</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么加密货币游戏不是未来]]></title>
-        <id>https://news.ycombinator.com/item?id=31101585</id>
-        <link href="https://news.ycombinator.com/item?id=31101585"/>
-        <updated>2022-04-20T19:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Why crypto gaming is not the future]]></summary>
-        <author>
-            <name>allenleein</name>
-            <uri>https://news.ycombinator.com/user?id=allenleein</uri>
         </author>
     </entry>
 </feed>
