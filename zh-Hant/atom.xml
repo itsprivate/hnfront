@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T07:00:51.216Z</updated>
+    <updated>2022-04-27T07:12:53.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Baseten - 構建以ML為動力的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31169193</id>
+        <link href="https://news.ycombinator.com/item?id=31169193"/>
+        <updated>2022-04-26T16:05:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Baseten – Build ML-powered applications]]></summary>
+        <author>
+            <name>philipkiely</name>
+            <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript框架的四個時代]]></title>
         <id>https://news.ycombinator.com/item?id=31176910</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jayra</name>
             <uri>https://news.ycombinator.com/user?id=jayra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於離開土耳其（2021年）]]></title>
-        <id>https://news.ycombinator.com/item?id=31069230</id>
-        <link href="https://news.ycombinator.com/item?id=31069230"/>
-        <updated>2022-04-18T10:54:43.000Z</updated>
-        <summary type="html"><![CDATA[On leaving Turkey (2021)]]></summary>
-        <author>
-            <name>ahmetomer</name>
-            <uri>https://news.ycombinator.com/user?id=ahmetomer</uri>
         </author>
     </entry>
 </feed>
