@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T17:25:02.664Z</updated>
+    <updated>2022-04-27T17:50:56.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[失落的C結構包裝藝術 (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=31182449</id>
+        <link href="https://news.ycombinator.com/item?id=31182449"/>
+        <updated>2022-04-27T16:50:24.000Z</updated>
+        <summary type="html"><![CDATA[The Lost Art of C Structure Packing (2014)]]></summary>
+        <author>
+            <name>isaacimagine</name>
+            <uri>https://news.ycombinator.com/user?id=isaacimagine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小心那個東西，它是一個保密的咖啡機]]></title>
+        <id>https://news.ycombinator.com/item?id=31168150</id>
+        <link href="https://news.ycombinator.com/item?id=31168150"/>
+        <updated>2022-04-26T14:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Be careful with that thing, it's a confidential coffee maker]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100多名曾在新澤西州一所高中上學的人現在患有腦癌]]></title>
         <id>https://news.ycombinator.com/item?id=31182663</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tintinnabula</name>
             <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國國會大廈因可能的飛機威脅而被疏散]]></title>
-        <id>https://news.ycombinator.com/item?id=31104157</id>
-        <link href="https://news.ycombinator.com/item?id=31104157"/>
-        <updated>2022-04-20T23:00:20.000Z</updated>
-        <summary type="html"><![CDATA[US Capitol evacuated due to possible aircraft threat]]></summary>
-        <author>
-            <name>bison3</name>
-            <uri>https://news.ycombinator.com/user?id=bison3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塞拉的動詞]]></title>
-        <id>https://news.ycombinator.com/item?id=31103488</id>
-        <link href="https://news.ycombinator.com/item?id=31103488"/>
-        <updated>2022-04-20T21:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Serra's Verbs]]></summary>
-        <author>
-            <name>tws</name>
-            <uri>https://news.ycombinator.com/user?id=tws</uri>
         </author>
     </entry>
 </feed>
