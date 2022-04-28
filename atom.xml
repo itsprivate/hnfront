@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T05:39:34.697Z</updated>
+    <updated>2022-04-28T06:04:10.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SymPy/HackerRank DMCA事件]]></title>
+        <id>https://news.ycombinator.com/item?id=31188923</id>
+        <link href="https://news.ycombinator.com/item?id=31188923"/>
+        <updated>2022-04-28T05:00:59.000Z</updated>
+        <summary type="html"><![CDATA[The SymPy/HackerRank DMCA Incident]]></summary>
+        <author>
+            <name>mattip</name>
+            <uri>https://news.ycombinator.com/user?id=mattip</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ravada。免费的、易于使用和部署的VDI解决方案]]></title>
         <id>https://news.ycombinator.com/item?id=31188731</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>coloneltcb</name>
             <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用字形扰动在文本文件中嵌入信息]]></title>
-        <id>https://news.ycombinator.com/item?id=31109071</id>
-        <link href="https://news.ycombinator.com/item?id=31109071"/>
-        <updated>2022-04-21T13:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Embedding Information in Text Documents Using Glyph Perturbation]]></summary>
-        <author>
-            <name>epilys</name>
-            <uri>https://news.ycombinator.com/user?id=epilys</uri>
         </author>
     </entry>
 </feed>
