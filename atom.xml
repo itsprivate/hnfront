@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T11:37:51.788Z</updated>
+    <updated>2022-04-28T11:52:01.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[噼里啪啦的头发 (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=31186043</id>
+        <link href="https://news.ycombinator.com/item?id=31186043"/>
+        <updated>2022-04-27T21:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Crackling Hair (2019)]]></summary>
+        <author>
+            <name>item</name>
+            <uri>https://news.ycombinator.com/user?id=item</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们需要一个曾经做过 "它 "的人]]></title>
         <id>https://news.ycombinator.com/item?id=31190669</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust9x。为Windows 95、NT及以上版本编译Rust代码]]></title>
-        <id>https://news.ycombinator.com/item?id=31112273</id>
-        <link href="https://news.ycombinator.com/item?id=31112273"/>
-        <updated>2022-04-21T17:14:10.000Z</updated>
-        <summary type="html"><![CDATA[Rust9x: Compile Rust code for Windows 95, NT and above]]></summary>
-        <author>
-            <name>seritools</name>
-            <uri>https://news.ycombinator.com/user?id=seritools</uri>
         </author>
     </entry>
 </feed>
