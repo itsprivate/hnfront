@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T13:10:00.662Z</updated>
+    <updated>2022-04-28T13:43:15.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国第一季度经济年率萎缩1.4]]></title>
+        <id>https://news.ycombinator.com/item?id=31191744</id>
+        <link href="https://news.ycombinator.com/item?id=31191744"/>
+        <updated>2022-04-28T12:38:23.000Z</updated>
+        <summary type="html"><![CDATA[U.S. economy shrank at a 1.4% annual rate in the first quarter]]></summary>
+        <author>
+            <name>Bostonian</name>
+            <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E Ink 推出 E Ink Gallery 3 色（可卷曲）电子纸]]></title>
         <id>https://news.ycombinator.com/item?id=31191850</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>how-about-this</name>
             <uri>https://news.ycombinator.com/user?id=how-about-this</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fig现在支持JetBrains IDEs]]></title>
-        <id>https://news.ycombinator.com/item?id=31113396</id>
-        <link href="https://news.ycombinator.com/item?id=31113396"/>
-        <updated>2022-04-21T18:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Fig now supports JetBrains IDEs]]></summary>
-        <author>
-            <name>michael_fine</name>
-            <uri>https://news.ycombinator.com/user?id=michael_fine</uri>
         </author>
     </entry>
 </feed>
