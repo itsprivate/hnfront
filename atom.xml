@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T09:54:16.086Z</updated>
+    <updated>2022-04-28T10:38:48.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Rust中实现具有故障检测功能的分散式集群成员制]]></title>
+        <id>https://news.ycombinator.com/item?id=31190586</id>
+        <link href="https://news.ycombinator.com/item?id=31190586"/>
+        <updated>2022-04-28T09:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a decentralized cluster membership with failure detection in rust]]></summary>
+        <author>
+            <name>evanxg852000</name>
+            <uri>https://news.ycombinator.com/user?id=evanxg852000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国宇航局的火星直升机发现了帮助毅力车着陆的齿轮]]></title>
+        <id>https://news.ycombinator.com/item?id=31190306</id>
+        <link href="https://news.ycombinator.com/item?id=31190306"/>
+        <updated>2022-04-28T09:15:02.000Z</updated>
+        <summary type="html"><![CDATA[NASA’s Mars Helicopter Spots Gear That Helped Perseverance Rover Land]]></summary>
+        <author>
+            <name>revorad</name>
+            <uri>https://news.ycombinator.com/user?id=revorad</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hatch 1.0.0 - 现代、可扩展的Python项目管理]]></title>
+        <id>https://news.ycombinator.com/item?id=31190027</id>
+        <link href="https://news.ycombinator.com/item?id=31190027"/>
+        <updated>2022-04-28T08:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hatch 1.0.0 – Modern, extensible Python project management]]></summary>
+        <author>
+            <name>ofek</name>
+            <uri>https://news.ycombinator.com/user?id=ofek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帽子只是故事的一部分，我们需要PACELC]]></title>
         <id>https://news.ycombinator.com/item?id=31178312</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>timthorn</name>
             <uri>https://news.ycombinator.com/user?id=timthorn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司必须向一名男子支付1000美元，因为新的iPhone没有包括电源适配器]]></title>
-        <id>https://news.ycombinator.com/item?id=31110994</id>
-        <link href="https://news.ycombinator.com/item?id=31110994"/>
-        <updated>2022-04-21T15:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Apple must pay a man $1,000 for not including a power adapter with new iPhone]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCRU128: 可排序、基于时钟和随机数的唯一标识符]]></title>
-        <id>https://news.ycombinator.com/item?id=31089723</id>
-        <link href="https://news.ycombinator.com/item?id=31089723"/>
-        <updated>2022-04-19T21:48:02.000Z</updated>
-        <summary type="html"><![CDATA[SCRU128: Sortable, Clock and Random number-based Unique identifier]]></summary>
-        <author>
-            <name>andrenth</name>
-            <uri>https://news.ycombinator.com/user?id=andrenth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在商业目标下从关注产出到关注结果]]></title>
-        <id>https://news.ycombinator.com/item?id=31110550</id>
-        <link href="https://news.ycombinator.com/item?id=31110550"/>
-        <updated>2022-04-21T15:16:11.000Z</updated>
-        <summary type="html"><![CDATA[How to move from output to outcome focus with business goals]]></summary>
-        <author>
-            <name>J3T</name>
-            <uri>https://news.ycombinator.com/user?id=J3T</uri>
         </author>
     </entry>
 </feed>
