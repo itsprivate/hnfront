@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T07:11:39.328Z</updated>
+    <updated>2022-04-28T07:32:54.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科學家們。日本將核廢料倒入太平洋的計劃不安全]]></title>
+        <id>https://news.ycombinator.com/item?id=31189504</id>
+        <link href="https://news.ycombinator.com/item?id=31189504"/>
+        <updated>2022-04-28T06:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Scientists: Japan's Plan to Dump Nuclear Waste into the Pacific Ocean Not Safe]]></summary>
+        <author>
+            <name>miscon</name>
+            <uri>https://news.ycombinator.com/user?id=miscon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clipboard Health (YC W17)正在招聘工程經理，QA]]></title>
         <id>https://news.ycombinator.com/item?id=31189529</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>carride</name>
             <uri>https://news.ycombinator.com/user?id=carride</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有下一代替代數據的股票研究網站]]></title>
-        <id>https://news.ycombinator.com/item?id=31108379</id>
-        <link href="https://news.ycombinator.com/item?id=31108379"/>
-        <updated>2022-04-21T12:06:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stock research website with next-gen alternative data]]></summary>
-        <author>
-            <name>jakubroz</name>
-            <uri>https://news.ycombinator.com/user?id=jakubroz</uri>
         </author>
     </entry>
 </feed>
