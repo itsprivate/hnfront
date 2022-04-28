@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-27T23:55:03.772Z</updated>
+    <updated>2022-04-28T01:00:39.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我有史以来第一次尝试创建一个备忘录]]></title>
+        <id>https://news.ycombinator.com/item?id=31187215</id>
+        <link href="https://news.ycombinator.com/item?id=31187215"/>
+        <updated>2022-04-27T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[My first-ever attempt to create a meme]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你可以使用WebP文件作为Open Graph协议的图像吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=31160168</id>
+        <link href="https://news.ycombinator.com/item?id=31160168"/>
+        <updated>2022-04-25T20:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Can you use a WebP file as an Open Graph Protocol image?]]></summary>
+        <author>
+            <name>zaik</name>
+            <uri>https://news.ycombinator.com/user?id=zaik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是如何将我的整个生活放入一个数据库的]]></title>
         <id>https://news.ycombinator.com/item?id=31186696</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>benbreen</name>
             <uri>https://news.ycombinator.com/user?id=benbreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网页颜色仍然破损]]></title>
-        <id>https://news.ycombinator.com/item?id=31107643</id>
-        <link href="https://news.ycombinator.com/item?id=31107643"/>
-        <updated>2022-04-21T10:08:35.000Z</updated>
-        <summary type="html"><![CDATA[Web color is still broken]]></summary>
-        <author>
-            <name>Aissen</name>
-            <uri>https://news.ycombinator.com/user?id=Aissen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新英格兰地区野生动物的新黄金时代]]></title>
-        <id>https://news.ycombinator.com/item?id=31083030</id>
-        <link href="https://news.ycombinator.com/item?id=31083030"/>
-        <updated>2022-04-19T13:48:05.000Z</updated>
-        <summary type="html"><![CDATA[The new golden age of wildlife in New England]]></summary>
-        <author>
-            <name>nkurz</name>
-            <uri>https://news.ycombinator.com/user?id=nkurz</uri>
         </author>
     </entry>
 </feed>
