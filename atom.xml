@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T06:30:18.885Z</updated>
+    <updated>2022-04-28T06:53:33.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的台北检疫局]]></title>
+        <id>https://news.ycombinator.com/item?id=31164423</id>
+        <link href="https://news.ycombinator.com/item?id=31164423"/>
+        <updated>2022-04-26T05:58:20.000Z</updated>
+        <summary type="html"><![CDATA[My Taipei Quarantine]]></summary>
+        <author>
+            <name>skrebbel</name>
+            <uri>https://news.ycombinator.com/user?id=skrebbel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由于住房贷款市场萎缩，火箭抵押贷款公司将裁减8%的劳动力]]></title>
         <id>https://news.ycombinator.com/item?id=31189088</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hucste</name>
             <uri>https://news.ycombinator.com/user?id=hucste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你需要什么和弦？]]></title>
-        <id>https://news.ycombinator.com/item?id=31109456</id>
-        <link href="https://news.ycombinator.com/item?id=31109456"/>
-        <updated>2022-04-21T13:56:09.000Z</updated>
-        <summary type="html"><![CDATA[What Chords Do You Need?]]></summary>
-        <author>
-            <name>janvdberg</name>
-            <uri>https://news.ycombinator.com/user?id=janvdberg</uri>
         </author>
     </entry>
 </feed>
