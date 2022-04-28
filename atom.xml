@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T09:36:38.059Z</updated>
+    <updated>2022-04-28T09:54:16.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帽子只是故事的一部分，我们需要PACELC]]></title>
+        <id>https://news.ycombinator.com/item?id=31178312</id>
+        <link href="https://news.ycombinator.com/item?id=31178312"/>
+        <updated>2022-04-27T10:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Cap is Only Part of the Story, we need PACELC]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过光纤、静止卫星和星链测量TCP性能]]></title>
         <id>https://news.ycombinator.com/item?id=31190247</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>J3T</name>
             <uri>https://news.ycombinator.com/user?id=J3T</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从SourceForge的衰落中得到的警示故事]]></title>
-        <id>https://news.ycombinator.com/item?id=31110206</id>
-        <link href="https://news.ycombinator.com/item?id=31110206"/>
-        <updated>2022-04-21T14:53:53.000Z</updated>
-        <summary type="html"><![CDATA[A Cautionary Tale from the Decline of SourceForge]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
