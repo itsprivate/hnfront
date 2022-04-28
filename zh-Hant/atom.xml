@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T08:16:57.454Z</updated>
+    <updated>2022-04-28T08:56:05.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[區塊鏈是危險的胡說八道]]></title>
+        <id>https://news.ycombinator.com/item?id=31190062</id>
+        <link href="https://news.ycombinator.com/item?id=31190062"/>
+        <updated>2022-04-28T08:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain Is Dangerous Nonsense]]></summary>
+        <author>
+            <name>davebloggt</name>
+            <uri>https://news.ycombinator.com/user?id=davebloggt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼沒有人談論土壤問題？到2040年可能出現的世界末日的原因]]></title>
         <id>https://news.ycombinator.com/item?id=31189762</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>whockey</name>
             <uri>https://news.ycombinator.com/user?id=whockey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBSD 7.1: 風扇噪音和高溫解決方案]]></title>
-        <id>https://news.ycombinator.com/item?id=31109466</id>
-        <link href="https://news.ycombinator.com/item?id=31109466"/>
-        <updated>2022-04-21T13:56:55.000Z</updated>
-        <summary type="html"><![CDATA[OpenBSD 7.1: fan noise and high temperature solution]]></summary>
-        <author>
-            <name>hucste</name>
-            <uri>https://news.ycombinator.com/user?id=hucste</uri>
         </author>
     </entry>
 </feed>
