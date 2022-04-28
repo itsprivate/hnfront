@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T08:56:05.437Z</updated>
+    <updated>2022-04-28T09:36:38.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过光纤、静止卫星和星链测量TCP性能]]></title>
+        <id>https://news.ycombinator.com/item?id=31190247</id>
+        <link href="https://news.ycombinator.com/item?id=31190247"/>
+        <updated>2022-04-28T09:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Measuring TCP performance over Fibre, geostationary satellite and Starlink]]></summary>
+        <author>
+            <name>jhealy</name>
+            <uri>https://news.ycombinator.com/user?id=jhealy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[区块链是危险的胡说八道]]></title>
         <id>https://news.ycombinator.com/item?id=31190062</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专栏--第一家为开发商设立的特许银行]]></title>
-        <id>https://news.ycombinator.com/item?id=31109170</id>
-        <link href="https://news.ycombinator.com/item?id=31109170"/>
-        <updated>2022-04-21T13:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Column – the first chartered bank for developers]]></summary>
-        <author>
-            <name>whockey</name>
-            <uri>https://news.ycombinator.com/user?id=whockey</uri>
         </author>
     </entry>
 </feed>
