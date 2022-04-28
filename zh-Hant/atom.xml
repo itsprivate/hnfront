@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-04-28T07:40:48.871Z</updated>
+    <updated>2022-04-28T07:53:04.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：Facebook把publiccode.eu的公開信倡議作為垃圾郵件屏蔽了]]></title>
+        <id>https://news.ycombinator.com/item?id=31189377</id>
+        <link href="https://news.ycombinator.com/item?id=31189377"/>
+        <updated>2022-04-28T06:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Facebook is blocking the publiccode.eu open letter initiative as spam]]></summary>
+        <author>
+            <name>dusted</name>
+            <uri>https://news.ycombinator.com/user?id=dusted</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技術投資回報率討論被打破]]></title>
         <id>https://news.ycombinator.com/item?id=31184851</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>yurivish</name>
             <uri>https://news.ycombinator.com/user?id=yurivish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望在計算機代數系統中看到的東西]]></title>
-        <id>https://news.ycombinator.com/item?id=31101332</id>
-        <link href="https://news.ycombinator.com/item?id=31101332"/>
-        <updated>2022-04-20T18:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Things I would like to see in a computer algebra system]]></summary>
-        <author>
-            <name>panic</name>
-            <uri>https://news.ycombinator.com/user?id=panic</uri>
         </author>
     </entry>
 </feed>
