@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-02T20:02:12.199Z</updated>
+    <updated>2022-06-02T20:32:31.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[商業-Emacs
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31599981</id>
+        <link href="https://news.ycombinator.com/item?id=31599981"/>
+        <updated>2022-06-02T20:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Commercial-Emacs]]></summary>
+        <author>
+            <name>rvieira</name>
+            <uri>https://news.ycombinator.com/user?id=rvieira</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular v14現在已經推出
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31599651</id>
+        <link href="https://news.ycombinator.com/item?id=31599651"/>
+        <updated>2022-06-02T19:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Angular v14 is now available]]></summary>
+        <author>
+            <name>Alex3917</name>
+            <uri>https://news.ycombinator.com/user?id=Alex3917</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視覺分析的互動動力學 (2012)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31579929</id>
+        <link href="https://news.ycombinator.com/item?id=31579929"/>
+        <updated>2022-06-01T10:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Dynamics for Visual Analysis (2012)]]></summary>
+        <author>
+            <name>djoldman</name>
+            <uri>https://news.ycombinator.com/user?id=djoldman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我利用假期編寫了一個現代JVM彙編程序
 ]]></title>
@@ -6621,39 +6657,6 @@
         <author>
             <name>cvanvlack</name>
             <uri>https://news.ycombinator.com/user?id=cvanvlack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子科普。量子物理學科學套件]]></title>
-        <id>https://news.ycombinator.com/item?id=31085330</id>
-        <link href="https://news.ycombinator.com/item?id=31085330"/>
-        <updated>2022-04-19T16:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Quantenkoffer: Quantum Physics Science Kit]]></summary>
-        <author>
-            <name>abrax3141</name>
-            <uri>https://news.ycombinator.com/user?id=abrax3141</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黃金貴族的戰爭 (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=31107390</id>
-        <link href="https://news.ycombinator.com/item?id=31107390"/>
-        <updated>2022-04-21T09:17:07.000Z</updated>
-        <summary type="html"><![CDATA[The War of the Gold Nobles (2018)]]></summary>
-        <author>
-            <name>rwmj</name>
-            <uri>https://news.ycombinator.com/user?id=rwmj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倫敦失落的環形道]]></title>
-        <id>https://news.ycombinator.com/item?id=31119470</id>
-        <link href="https://news.ycombinator.com/item?id=31119470"/>
-        <updated>2022-04-22T08:42:11.000Z</updated>
-        <summary type="html"><![CDATA[London’s Lost Ringways]]></summary>
-        <author>
-            <name>bananapear</name>
-            <uri>https://news.ycombinator.com/user?id=bananapear</uri>
         </author>
     </entry>
 </feed>
