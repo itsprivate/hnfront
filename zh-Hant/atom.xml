@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-02T19:27:47.237Z</updated>
+    <updated>2022-06-02T20:02:12.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我利用假期編寫了一個現代JVM彙編程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31599603</id>
+        <link href="https://news.ycombinator.com/item?id=31599603"/>
+        <updated>2022-06-02T19:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I spent my vacation writing a modern JVM assembler]]></summary>
+        <author>
+            <name>noone_youknow</name>
+            <uri>https://news.ycombinator.com/user?id=noone_youknow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我擔心我們會被關閉
 ]]></title>
@@ -6642,17 +6654,6 @@
         <author>
             <name>bananapear</name>
             <uri>https://news.ycombinator.com/user?id=bananapear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何建立你自己的量子糾纏實驗]]></title>
-        <id>https://news.ycombinator.com/item?id=31089768</id>
-        <link href="https://news.ycombinator.com/item?id=31089768"/>
-        <updated>2022-04-19T21:51:50.000Z</updated>
-        <summary type="html"><![CDATA[How to Build Your Own Quantum Entanglement Experiment]]></summary>
-        <author>
-            <name>abrax3141</name>
-            <uri>https://news.ycombinator.com/user?id=abrax3141</uri>
         </author>
     </entry>
 </feed>
