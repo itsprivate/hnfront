@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-02T21:27:56.978Z</updated>
+    <updated>2022-06-02T21:45:32.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用激光筆在等離子顯示器上繪圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31600612</id>
+        <link href="https://news.ycombinator.com/item?id=31600612"/>
+        <updated>2022-06-02T21:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Drawing on a plasma display with a laser pointer]]></summary>
+        <author>
+            <name>codetrotter</name>
+            <uri>https://news.ycombinator.com/user?id=codetrotter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[招聘計劃的最新情況
 ]]></title>
@@ -6651,17 +6663,6 @@
         <author>
             <name>michaelt</name>
             <uri>https://news.ycombinator.com/user?id=michaelt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年獅子座流星雨--時間、日期和地點]]></title>
-        <id>https://news.ycombinator.com/item?id=31120152</id>
-        <link href="https://news.ycombinator.com/item?id=31120152"/>
-        <updated>2022-04-22T10:54:59.000Z</updated>
-        <summary type="html"><![CDATA[Lyrids Meteor Shower 2022 - Times, Dates and Locations]]></summary>
-        <author>
-            <name>Trouble_007</name>
-            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
         </author>
     </entry>
 </feed>
