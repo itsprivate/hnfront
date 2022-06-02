@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-02T18:57:05.205Z</updated>
+    <updated>2022-06-02T19:27:47.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我担心我们会被关闭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31598978</id>
+        <link href="https://news.ycombinator.com/item?id=31598978"/>
+        <updated>2022-06-02T18:47:03.000Z</updated>
+        <summary type="html"><![CDATA[I'm Afraid We're Shutting Down]]></summary>
+        <author>
+            <name>RBBronson123</name>
+            <uri>https://news.ycombinator.com/user?id=RBBronson123</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Julia中建立一个变压器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31571704</id>
+        <link href="https://news.ycombinator.com/item?id=31571704"/>
+        <updated>2022-05-31T16:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Building a transformer in Julia]]></summary>
+        <author>
+            <name>the_origami_fox</name>
+            <uri>https://news.ycombinator.com/user?id=the_origami_fox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学越来越难了
 ]]></title>
@@ -6629,28 +6653,6 @@
         <author>
             <name>abrax3141</name>
             <uri>https://news.ycombinator.com/user?id=abrax3141</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恩索公司（YC S21）正在招聘高级Rust开发人员]]></title>
-        <id>https://news.ycombinator.com/item?id=31119597</id>
-        <link href="https://news.ycombinator.com/item?id=31119597"/>
-        <updated>2022-04-22T09:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Enso (YC S21) Is Hiring Senior Rust Developer]]></summary>
-        <author>
-            <name>sbrodacka</name>
-            <uri>https://news.ycombinator.com/user?id=sbrodacka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于x86/x86_64/ARM的Snowman本地代码转C/C++反编译器]]></title>
-        <id>https://news.ycombinator.com/item?id=31119138</id>
-        <link href="https://news.ycombinator.com/item?id=31119138"/>
-        <updated>2022-04-22T07:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Snowman native code to C/C++ decompiler for x86/x86_64/ARM]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
