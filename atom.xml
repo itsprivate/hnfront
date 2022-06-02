@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-02T21:45:31.949Z</updated>
+    <updated>2022-06-02T22:29:34.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[回望二十年来的代码编写工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31567039</id>
+        <link href="https://news.ycombinator.com/item?id=31567039"/>
+        <updated>2022-05-31T07:48:18.000Z</updated>
+        <summary type="html"><![CDATA[A look back at twenty years of writing code]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用激光笔在等离子显示器上绘图
 ]]></title>
@@ -6652,17 +6664,6 @@
         <author>
             <name>pepys</name>
             <uri>https://news.ycombinator.com/user?id=pepys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅谷动物园。CPU芯片上的微小艺术品]]></title>
-        <id>https://news.ycombinator.com/item?id=31120439</id>
-        <link href="https://news.ycombinator.com/item?id=31120439"/>
-        <updated>2022-04-22T11:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Silicon Zoo: Tiny artwork on CPU dies]]></summary>
-        <author>
-            <name>michaelt</name>
-            <uri>https://news.ycombinator.com/user?id=michaelt</uri>
         </author>
     </entry>
 </feed>
