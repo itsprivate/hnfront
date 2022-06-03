@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T15:51:45.120Z</updated>
+    <updated>2022-06-03T16:04:18.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[危险的礼物
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31609602</id>
+        <link href="https://news.ycombinator.com/item?id=31609602"/>
+        <updated>2022-06-03T15:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Dangerous Gift]]></summary>
+        <author>
+            <name>rdpintqogeogsaa</name>
+            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加糖和不加糖的咖啡消费与死亡率的关系
 ]]></title>
@@ -6715,17 +6727,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazarus - 专业的免费Pascal Rad IDE]]></title>
-        <id>https://news.ycombinator.com/item?id=31130067</id>
-        <link href="https://news.ycombinator.com/item?id=31130067"/>
-        <updated>2022-04-23T00:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Lazarus – Professional Free Pascal Rad IDE]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
