@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T07:44:29.619Z</updated>
+    <updated>2022-06-03T08:35:20.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比较Kubernetes中的Ceph、Linstor、Mayastor和Vitastor存储性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605302</id>
+        <link href="https://news.ycombinator.com/item?id=31605302"/>
+        <updated>2022-06-03T07:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes]]></summary>
+        <author>
+            <name>kvaps</name>
+            <uri>https://news.ycombinator.com/user?id=kvaps</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西方的命名方式浪费了多少人的时间？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605275</id>
+        <link href="https://news.ycombinator.com/item?id=31605275"/>
+        <updated>2022-06-03T07:26:18.000Z</updated>
+        <summary type="html"><![CDATA[How many man years are wasted with western naming convensions?]]></summary>
+        <author>
+            <name>drudru</name>
+            <uri>https://news.ycombinator.com/user?id=drudru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在OpenBSD上运行一个Minecraft服务器 -current
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605261</id>
+        <link href="https://news.ycombinator.com/item?id=31605261"/>
+        <updated>2022-06-03T07:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Running a Minecraft server on OpenBSD -current]]></summary>
+        <author>
+            <name>hucste</name>
+            <uri>https://news.ycombinator.com/user?id=hucste</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python库跟踪能源消耗并计算你的碳排放量
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605243</id>
+        <link href="https://news.ycombinator.com/item?id=31605243"/>
+        <updated>2022-06-03T07:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Python library tracks energy consumption and calculates your carbon emissions]]></summary>
+        <author>
+            <name>fvaleye</name>
+            <uri>https://news.ycombinator.com/user?id=fvaleye</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通量、形式化方法辅助下的LLVM模糊测试
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31579690</id>
+        <link href="https://news.ycombinator.com/item?id=31579690"/>
+        <updated>2022-06-01T09:21:10.000Z</updated>
+        <summary type="html"><![CDATA[High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM]]></summary>
+        <author>
+            <name>djoldman</name>
+            <uri>https://news.ycombinator.com/user?id=djoldman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌面试热身
 ]]></title>
@@ -6638,61 +6698,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80年代以来，CPU有什么新变化？]]></title>
-        <id>https://news.ycombinator.com/item?id=31093430</id>
-        <link href="https://news.ycombinator.com/item?id=31093430"/>
-        <updated>2022-04-20T06:11:38.000Z</updated>
-        <summary type="html"><![CDATA[What's new in CPUs since the 80s?]]></summary>
-        <author>
-            <name>snvzz</name>
-            <uri>https://news.ycombinator.com/user?id=snvzz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度议员在推特上批评纳伦德拉-莫迪后被捕]]></title>
-        <id>https://news.ycombinator.com/item?id=31124419</id>
-        <link href="https://news.ycombinator.com/item?id=31124419"/>
-        <updated>2022-04-22T17:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Indian lawmaker arrested after tweet criticising Narendra Modi]]></summary>
-        <author>
-            <name>nigerian1981</name>
-            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad的SketchUp。iPad上的三维可视化]]></title>
-        <id>https://news.ycombinator.com/item?id=31106536</id>
-        <link href="https://news.ycombinator.com/item?id=31106536"/>
-        <updated>2022-04-21T06:28:49.000Z</updated>
-        <summary type="html"><![CDATA[SketchUp for iPad: 3D Visualization on iPad]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meticulous (YC S21) 正在伦敦招聘2号工程师]]></title>
-        <id>https://news.ycombinator.com/item?id=31124426</id>
-        <link href="https://news.ycombinator.com/item?id=31124426"/>
-        <updated>2022-04-22T17:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Meticulous (YC S21) Is Hiring #2 Engineer in London]]></summary>
-        <author>
-            <name>Gabriel_h</name>
-            <uri>https://news.ycombinator.com/user?id=Gabriel_h</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[决策的算法 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31123683</id>
-        <link href="https://news.ycombinator.com/item?id=31123683"/>
-        <updated>2022-04-22T16:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Algorithms for Decision Making [pdf]]]></summary>
-        <author>
-            <name>mindcrime</name>
-            <uri>https://news.ycombinator.com/user?id=mindcrime</uri>
         </author>
     </entry>
 </feed>
