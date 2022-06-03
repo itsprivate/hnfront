@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T10:02:58.711Z</updated>
+    <updated>2022-06-03T10:34:30.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[維多利亞時代加拿大的聾人殖民者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31579934</id>
+        <link href="https://news.ycombinator.com/item?id=31579934"/>
+        <updated>2022-06-01T10:14:56.000Z</updated>
+        <summary type="html"><![CDATA[Deaf Colonists in Victorian-Era Canada]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GSoC 22：為Thunar文件管理器添加功能
 ]]></title>
@@ -6693,17 +6705,6 @@
         <author>
             <name>aaronbrethorst</name>
             <uri>https://news.ycombinator.com/user?id=aaronbrethorst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[薩米的鮑裡歌舞團，約1945年]]></title>
-        <id>https://news.ycombinator.com/item?id=31104923</id>
-        <link href="https://news.ycombinator.com/item?id=31104923"/>
-        <updated>2022-04-21T00:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Sammy's Bowery Follies, circa 1945]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
         </author>
     </entry>
 </feed>
