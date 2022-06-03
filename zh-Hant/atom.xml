@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T22:46:38.384Z</updated>
+    <updated>2022-06-03T23:27:11.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是的，谷歌的替代品，與創作者分享收入。作者：Ahrefs
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31614518</id>
+        <link href="https://news.ycombinator.com/item?id=31614518"/>
+        <updated>2022-06-03T22:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Yep, the Google alternative that shares revenue with creators. By Ahrefs]]></summary>
+        <author>
+            <name>daolf</name>
+            <uri>https://news.ycombinator.com/user?id=daolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌高級經理因達利特活動家被禁止講課而辭職
 ]]></title>
@@ -6747,17 +6759,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三行單二進制編譯器免費博客]]></title>
-        <id>https://news.ycombinator.com/item?id=31133550</id>
-        <link href="https://news.ycombinator.com/item?id=31133550"/>
-        <updated>2022-04-23T12:06:54.000Z</updated>
-        <summary type="html"><![CDATA[The three line single binary compiler free blog]]></summary>
-        <author>
-            <name>rhabarba</name>
-            <uri>https://news.ycombinator.com/user?id=rhabarba</uri>
         </author>
     </entry>
 </feed>
