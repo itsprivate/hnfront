@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T18:36:01.380Z</updated>
+    <updated>2022-06-03T18:52:52.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼地圖這麼難做？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31587950</id>
+        <link href="https://news.ycombinator.com/item?id=31587950"/>
+        <updated>2022-06-01T20:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Why are maps so hard to make?]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瑞士頂級法院裁定Uber是僱主，上訴失敗
 ]]></title>
@@ -6726,17 +6738,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能代理：帕蒂-梅斯如何幾乎發明了社交媒體]]></title>
-        <id>https://news.ycombinator.com/item?id=31117044</id>
-        <link href="https://news.ycombinator.com/item?id=31117044"/>
-        <updated>2022-04-22T00:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Intelligent Agent: How Pattie Maes Almost Invented Social Media]]></summary>
-        <author>
-            <name>Hooke</name>
-            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
         </author>
     </entry>
 </feed>
