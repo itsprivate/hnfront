@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T19:45:58.917Z</updated>
+    <updated>2022-06-03T19:59:03.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Plasmo - 构建现代Chrome扩展的框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31609896</id>
+        <link href="https://news.ycombinator.com/item?id=31609896"/>
+        <updated>2022-06-03T15:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Plasmo – a framework for building modern Chrome extensions]]></summary>
+        <author>
+            <name>coldsauce</name>
+            <uri>https://news.ycombinator.com/user?id=coldsauce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeWitt条款，或者你能以%数据库%为基准而不受影响吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31599097</id>
+        <link href="https://news.ycombinator.com/item?id=31599097"/>
+        <updated>2022-06-02T18:56:36.000Z</updated>
+        <summary type="html"><![CDATA[DeWitt Clause, or can you benchmark %database% and get away with it]]></summary>
+        <author>
+            <name>arjunnarayan</name>
+            <uri>https://news.ycombinator.com/user?id=arjunnarayan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[异步Rust不一定很困难
 ]]></title>
@@ -6721,28 +6745,6 @@
         <author>
             <name>victorstanciu</name>
             <uri>https://news.ycombinator.com/user?id=victorstanciu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卢布为什么会稳定下来，发生了什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31132780</id>
-        <link href="https://news.ycombinator.com/item?id=31132780"/>
-        <updated>2022-04-23T10:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why did Ruble stabilize and what's going on?]]></summary>
-        <author>
-            <name>helij</name>
-            <uri>https://news.ycombinator.com/user?id=helij</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌、Meta和其他公司必须根据欧盟新法规解释算法]]></title>
-        <id>https://news.ycombinator.com/item?id=31132769</id>
-        <link href="https://news.ycombinator.com/item?id=31132769"/>
-        <updated>2022-04-23T09:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Google, Meta and others have to explain algorithms under new EU legislation]]></summary>
-        <author>
-            <name>niklasmtj</name>
-            <uri>https://news.ycombinator.com/user?id=niklasmtj</uri>
         </author>
     </entry>
 </feed>
