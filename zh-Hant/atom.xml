@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T07:27:40.617Z</updated>
+    <updated>2022-06-03T07:44:29.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌面試熱身
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605131</id>
+        <link href="https://news.ycombinator.com/item?id=31605131"/>
+        <updated>2022-06-03T07:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Google Interview Warmup]]></summary>
+        <author>
+            <name>lastdong</name>
+            <uri>https://news.ycombinator.com/user?id=lastdong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terra (YC W21)正在倫敦招聘一名創始人助理
 ]]></title>
@@ -6681,17 +6693,6 @@
         <author>
             <name>mindcrime</name>
             <uri>https://news.ycombinator.com/user?id=mindcrime</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只用一個網頁就能防止你的電腦睡覺]]></title>
-        <id>https://news.ycombinator.com/item?id=31123522</id>
-        <link href="https://news.ycombinator.com/item?id=31123522"/>
-        <updated>2022-04-22T16:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Prevent your computer sleeping with just a webpage]]></summary>
-        <author>
-            <name>bradleyjkemp</name>
-            <uri>https://news.ycombinator.com/user?id=bradleyjkemp</uri>
         </author>
     </entry>
 </feed>
