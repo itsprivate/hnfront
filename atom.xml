@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T10:34:30.761Z</updated>
+    <updated>2022-06-03T11:43:10.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rethink-app。通过HTTPS的DNS、防火墙和安卓的连接跟踪器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31555505</id>
+        <link href="https://news.ycombinator.com/item?id=31555505"/>
+        <updated>2022-05-30T04:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Rethink-app: DNS over HTTPS, firewall, and connection tracker for Android]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维多利亚时代加拿大的聋人殖民者
 ]]></title>
@@ -6694,17 +6706,6 @@
         <author>
             <name>frostmatthew</name>
             <uri>https://news.ycombinator.com/user?id=frostmatthew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一辆使用 "智能召唤 "的特斯拉汽车似乎撞上了一架价值3.5万美元的私人飞机]]></title>
-        <id>https://news.ycombinator.com/item?id=31126854</id>
-        <link href="https://news.ycombinator.com/item?id=31126854"/>
-        <updated>2022-04-22T19:27:09.000Z</updated>
-        <summary type="html"><![CDATA[A Tesla vehicle using ‘Smart Summon’ appears to crash into a $3.5mm private jet]]></summary>
-        <author>
-            <name>aaronbrethorst</name>
-            <uri>https://news.ycombinator.com/user?id=aaronbrethorst</uri>
         </author>
     </entry>
 </feed>
