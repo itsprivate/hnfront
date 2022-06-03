@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T12:53:28.709Z</updated>
+    <updated>2022-06-03T13:28:57.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉将削减10%的工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31607248</id>
+        <link href="https://news.ycombinator.com/item?id=31607248"/>
+        <updated>2022-06-03T12:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Tesla to Cut 10% of Jobs]]></summary>
+        <author>
+            <name>ra7</name>
+            <uri>https://news.ycombinator.com/user?id=ra7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify。改进的工作流程和定价变化的新角色
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31606573</id>
+        <link href="https://news.ycombinator.com/item?id=31606573"/>
+        <updated>2022-06-03T10:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Netlify: Improved workflow and new role for pricing changes]]></summary>
+        <author>
+            <name>SenHeng</name>
+            <uri>https://news.ycombinator.com/user?id=SenHeng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我恢复了Palm的webOS应用目录、SDK和在线帮助系统
 ]]></title>
@@ -6688,28 +6712,6 @@
         <author>
             <name>donquichotte</name>
             <uri>https://news.ycombinator.com/user?id=donquichotte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ribbit Scheme用Posix shell引导，同时支持TCO、call/cc和GC]]></title>
-        <id>https://news.ycombinator.com/item?id=31096771</id>
-        <link href="https://news.ycombinator.com/item?id=31096771"/>
-        <updated>2022-04-20T13:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Ribbit Scheme bootstraps with Posix shell while supporting TCO, call/cc and GC]]></summary>
-        <author>
-            <name>feeley</name>
-            <uri>https://news.ycombinator.com/user?id=feeley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smarking（YC W15）正在招聘一名高级ML工程师，负责扩展动态定价]]></title>
-        <id>https://news.ycombinator.com/item?id=31128068</id>
-        <link href="https://news.ycombinator.com/item?id=31128068"/>
-        <updated>2022-04-22T21:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Smarking (YC W15) is hiring a senior ML engineer to scale dynamic pricing]]></summary>
-        <author>
-            <name>sangwen</name>
-            <uri>https://news.ycombinator.com/user?id=sangwen</uri>
         </author>
     </entry>
 </feed>
