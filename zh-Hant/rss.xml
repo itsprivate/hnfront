@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 03 Jun 2022 19:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 19:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[異步Rust不一定很困難
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31611456</link>
+            <guid>https://news.ycombinator.com/item?id=31611456</guid>
+            <pubDate>Fri, 03 Jun 2022 17:45:55 GMT</pubDate>
+            <description><![CDATA[Async Rust doesn't have to be hard]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中小型企業的Y Combinator？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31595211</link>
+            <guid>https://news.ycombinator.com/item?id=31595211</guid>
+            <pubDate>Thu, 02 Jun 2022 14:18:55 GMT</pubDate>
+            <description><![CDATA[Y Combinator for Mittelstands?]]></description>
+        </item>
         <item>
             <title><![CDATA[談到隱私問題，默認設置很重要 (2019)
 ]]></title>
@@ -4327,20 +4343,6 @@
             <guid>https://news.ycombinator.com/item?id=31132769</guid>
             <pubDate>Sat, 23 Apr 2022 09:56:48 GMT</pubDate>
             <description><![CDATA[Google, Meta and others have to explain algorithms under new EU legislation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是我瘋了還是區塊鏈技術真的沒有價值？]]></title>
-            <link>https://news.ycombinator.com/item?id=31132610</link>
-            <guid>https://news.ycombinator.com/item?id=31132610</guid>
-            <pubDate>Sat, 23 Apr 2022 09:18:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: Am I going insane or is there genuinely no value in blockchain tech?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐盟DSA：行業和政府利益高於公民的數字權利]]></title>
-            <link>https://news.ycombinator.com/item?id=31132417</link>
-            <guid>https://news.ycombinator.com/item?id=31132417</guid>
-            <pubDate>Sat, 23 Apr 2022 08:22:02 GMT</pubDate>
-            <description><![CDATA[EU DSA: Industry and government interests prevail over citizens’ digital rights]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T19:25:55.704Z</updated>
+    <updated>2022-06-03T19:45:58.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[异步Rust不一定很困难
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611456</id>
+        <link href="https://news.ycombinator.com/item?id=31611456"/>
+        <updated>2022-06-03T17:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Async Rust doesn't have to be hard]]></summary>
+        <author>
+            <name>drogus</name>
+            <uri>https://news.ycombinator.com/user?id=drogus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中小型企业的Y Combinator？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31595211</id>
+        <link href="https://news.ycombinator.com/item?id=31595211"/>
+        <updated>2022-06-02T14:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Y Combinator for Mittelstands?]]></summary>
+        <author>
+            <name>thanedar</name>
+            <uri>https://news.ycombinator.com/user?id=thanedar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谈到隐私问题，默认设置很重要 (2019)
 ]]></title>
@@ -6719,28 +6743,6 @@
         <author>
             <name>niklasmtj</name>
             <uri>https://news.ycombinator.com/user?id=niklasmtj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是我疯了还是区块链技术真的没有价值？]]></title>
-        <id>https://news.ycombinator.com/item?id=31132610</id>
-        <link href="https://news.ycombinator.com/item?id=31132610"/>
-        <updated>2022-04-23T09:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Am I going insane or is there genuinely no value in blockchain tech?]]></summary>
-        <author>
-            <name>ak_111</name>
-            <uri>https://news.ycombinator.com/user?id=ak_111</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟DSA：行业和政府利益高于公民的数字权利]]></title>
-        <id>https://news.ycombinator.com/item?id=31132417</id>
-        <link href="https://news.ycombinator.com/item?id=31132417"/>
-        <updated>2022-04-23T08:22:02.000Z</updated>
-        <summary type="html"><![CDATA[EU DSA: Industry and government interests prevail over citizens’ digital rights]]></summary>
-        <author>
-            <name>deutschepost</name>
-            <uri>https://news.ycombinator.com/user?id=deutschepost</uri>
         </author>
     </entry>
 </feed>
