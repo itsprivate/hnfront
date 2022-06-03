@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-03T05:27:27.868Z</updated>
+    <updated>2022-06-03T06:35:13.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Folia是一款用於敘事遊戲的極簡主義創作工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31594873</id>
+        <link href="https://news.ycombinator.com/item?id=31594873"/>
+        <updated>2022-06-02T13:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Folia is a minimalistic authoring tool for narrative games]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個建造自己的大教堂的人
 ]]></title>
@@ -6674,17 +6686,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insteon的終結以及為什麼智能家居一直搖擺不定]]></title>
-        <id>https://news.ycombinator.com/item?id=31122720</id>
-        <link href="https://news.ycombinator.com/item?id=31122720"/>
-        <updated>2022-04-22T15:22:06.000Z</updated>
-        <summary type="html"><![CDATA[The end of Insteon and why the smart home keeps faltering]]></summary>
-        <author>
-            <name>vanburen</name>
-            <uri>https://news.ycombinator.com/user?id=vanburen</uri>
         </author>
     </entry>
 </feed>
