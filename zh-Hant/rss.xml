@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 03 Jun 2022 13:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 14:47:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Semantle：根據Word2vec的相似度得分來猜測單詞
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31588388</link>
+            <guid>https://news.ycombinator.com/item?id=31588388</guid>
+            <pubDate>Wed, 01 Jun 2022 21:29:30 GMT</pubDate>
+            <description><![CDATA[Semantle: guess words based on Word2vec similarity scores]]></description>
+        </item>
         <item>
             <title><![CDATA[Twitter阻止了與Mastodon.social的鏈接
 ]]></title>
@@ -4308,13 +4316,6 @@
             <guid>https://news.ycombinator.com/item?id=31128011</guid>
             <pubDate>Fri, 22 Apr 2022 20:57:18 GMT</pubDate>
             <description><![CDATA[Thinner on Paper]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何建立一個家庭實驗室]]></title>
-            <link>https://news.ycombinator.com/item?id=31094301</link>
-            <guid>https://news.ycombinator.com/item?id=31094301</guid>
-            <pubDate>Wed, 20 Apr 2022 08:49:24 GMT</pubDate>
-            <description><![CDATA[How to Build a Homelab]]></description>
         </item>
     </channel>
 </rss>
