@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-04T13:39:42.867Z</updated>
+    <updated>2022-06-04T13:59:33.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么代码图的生成工具没有更普遍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31620002</id>
+        <link href="https://news.ycombinator.com/item?id=31620002"/>
+        <updated>2022-06-04T13:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why aren't code diagram generating tools more common?]]></summary>
+        <author>
+            <name>lurker137</name>
+            <uri>https://news.ycombinator.com/user?id=lurker137</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Zig中写下约会游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619956</id>
+        <link href="https://news.ycombinator.com/item?id=31619956"/>
+        <updated>2022-06-04T13:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Write Playdate Games in Zig]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有伟大故事的非暴力视频游戏？
 ]]></title>
@@ -6779,28 +6803,6 @@
         <author>
             <name>bspear</name>
             <uri>https://news.ycombinator.com/user?id=bspear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司的编译器（TASC）。我们拥有源代码，从某种意义上说]]></title>
-        <id>https://news.ycombinator.com/item?id=31138214</id>
-        <link href="https://news.ycombinator.com/item?id=31138214"/>
-        <updated>2022-04-23T20:31:55.000Z</updated>
-        <summary type="html"><![CDATA[The Applesoft Compiler (TASC): We have the source code, in a sense]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北越的米格机攻击美国海军军舰的那一次]]></title>
-        <id>https://news.ycombinator.com/item?id=31137646</id>
-        <link href="https://news.ycombinator.com/item?id=31137646"/>
-        <updated>2022-04-23T19:33:26.000Z</updated>
-        <summary type="html"><![CDATA[The one time North Vietnam’s MiGs attacked U.S. navy warships]]></summary>
-        <author>
-            <name>vinnyglennon</name>
-            <uri>https://news.ycombinator.com/user?id=vinnyglennon</uri>
         </author>
     </entry>
 </feed>
