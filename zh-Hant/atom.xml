@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-04T17:03:34.082Z</updated>
+    <updated>2022-06-04T17:28:11.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Basis (YC S21) 正在招聘開發人員，幫助建立數據的Figma。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31622706</id>
+        <link href="https://news.ycombinator.com/item?id=31622706"/>
+        <updated>2022-06-04T17:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Basis (YC S21) Is hiring devs to help build Figma for data]]></summary>
+        <author>
+            <name>cstanley</name>
+            <uri>https://news.ycombinator.com/user?id=cstanley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用SIMD顯著提高quicksort速度
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31622548</id>
+        <link href="https://news.ycombinator.com/item?id=31622548"/>
+        <updated>2022-06-04T16:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Significantly faster quicksort using SIMD]]></summary>
+        <author>
+            <name>slackerIII</name>
+            <uri>https://news.ycombinator.com/user?id=slackerIII</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PiRogue - 移動取證和網絡分析
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31616837</id>
+        <link href="https://news.ycombinator.com/item?id=31616837"/>
+        <updated>2022-06-04T03:56:46.000Z</updated>
+        <summary type="html"><![CDATA[PiRogue – mobile forensic and network analysis]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聯邦調查局試圖伏擊我的消息來源。現在我正在講述整個故事
 ]]></title>
@@ -6784,39 +6820,6 @@
         <author>
             <name>takiwatanga</name>
             <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[練習編程]]></title>
-        <id>https://news.ycombinator.com/item?id=31110928</id>
-        <link href="https://news.ycombinator.com/item?id=31110928"/>
-        <updated>2022-04-21T15:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Practising Programming]]></summary>
-        <author>
-            <name>mattpogue</name>
-            <uri>https://news.ycombinator.com/user?id=mattpogue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在CPU上建立一個BVH（邊界體積層次）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31126402</id>
-        <link href="https://news.ycombinator.com/item?id=31126402"/>
-        <updated>2022-04-22T18:55:12.000Z</updated>
-        <summary type="html"><![CDATA[How to Build a BVH (Bounding Volume Hierarchy) on the CPU]]></summary>
-        <author>
-            <name>henkie_b</name>
-            <uri>https://news.ycombinator.com/user?id=henkie_b</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從iOS備份中提取WhatsApp信息]]></title>
-        <id>https://news.ycombinator.com/item?id=31141042</id>
-        <link href="https://news.ycombinator.com/item?id=31141042"/>
-        <updated>2022-04-24T03:22:08.000Z</updated>
-        <summary type="html"><![CDATA[Extracting WhatsApp Messages from an iOS Backup]]></summary>
-        <author>
-            <name>yasoob</name>
-            <uri>https://news.ycombinator.com/user?id=yasoob</uri>
         </author>
     </entry>
 </feed>
