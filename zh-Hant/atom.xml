@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-04T16:38:12.299Z</updated>
+    <updated>2022-06-04T17:03:34.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聯邦調查局試圖伏擊我的消息來源。現在我正在講述整個故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31622250</id>
+        <link href="https://news.ycombinator.com/item?id=31622250"/>
+        <updated>2022-06-04T16:24:58.000Z</updated>
+        <summary type="html"><![CDATA[The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強大的C語言編譯器
 ]]></title>
@@ -6805,17 +6817,6 @@
         <author>
             <name>yasoob</name>
             <uri>https://news.ycombinator.com/user?id=yasoob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本將依靠氨氣運行？]]></title>
-        <id>https://news.ycombinator.com/item?id=31140324</id>
-        <link href="https://news.ycombinator.com/item?id=31140324"/>
-        <updated>2022-04-24T01:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Will Japan Run on Ammonia?]]></summary>
-        <author>
-            <name>Trouble_007</name>
-            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
         </author>
     </entry>
 </feed>
