@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-04T18:32:08.537Z</updated>
+    <updated>2022-06-04T18:50:30.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["我想知道RMS是否预计到，... 奔驰会运送这些迷你CD"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31622795</id>
+        <link href="https://news.ycombinator.com/item?id=31622795"/>
+        <updated>2022-06-04T17:09:18.000Z</updated>
+        <summary type="html"><![CDATA[“I wonder if RMS anticipated that,.. Mercedes would be shipping these mini CDs”]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个私人资助的杀手级小行星观测器
 ]]></title>
@@ -6814,17 +6826,6 @@
         <author>
             <name>Caiero</name>
             <uri>https://news.ycombinator.com/user?id=Caiero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写 shell 脚本的诱惑，图解]]></title>
-        <id>https://news.ycombinator.com/item?id=31141415</id>
-        <link href="https://news.ycombinator.com/item?id=31141415"/>
-        <updated>2022-04-24T04:59:27.000Z</updated>
-        <summary type="html"><![CDATA[The temptation of writing shell scripts, illustrated]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
