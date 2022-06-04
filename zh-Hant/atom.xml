@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-04T05:58:49.177Z</updated>
+    <updated>2022-06-04T06:30:59.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[制裁和戰略轟炸
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617282</id>
+        <link href="https://news.ycombinator.com/item?id=31617282"/>
+        <updated>2022-06-04T05:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Sanctions and Strategic Bombing]]></summary>
+        <author>
+            <name>jaspax</name>
+            <uri>https://news.ycombinator.com/user?id=jaspax</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["我認為絕大多數的開發者仍然使用print()語句進行調試"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611389</id>
+        <link href="https://news.ycombinator.com/item?id=31611389"/>
+        <updated>2022-06-03T17:41:01.000Z</updated>
+        <summary type="html"><![CDATA[“I think the vast majority of developers still debug using print() statements”]]></summary>
+        <author>
+            <name>FatalLogic</name>
+            <uri>https://news.ycombinator.com/user?id=FatalLogic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ModelRunner - 開源的、支持語音的數據管理平臺
 ]]></title>
@@ -6755,28 +6779,6 @@
         <author>
             <name>politician</name>
             <uri>https://news.ycombinator.com/user?id=politician</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VeriGPU。鬆散地基於RISC-V ISA的Verilog的GPU]]></title>
-        <id>https://news.ycombinator.com/item?id=31136100</id>
-        <link href="https://news.ycombinator.com/item?id=31136100"/>
-        <updated>2022-04-23T17:10:21.000Z</updated>
-        <summary type="html"><![CDATA[VeriGPU: GPU in Verilog loosely based on RISC-V ISA]]></summary>
-        <author>
-            <name>btdmaster</name>
-            <uri>https://news.ycombinator.com/user?id=btdmaster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特禁止在氣候變化問題上與科學相牴觸的廣告]]></title>
-        <id>https://news.ycombinator.com/item?id=31135991</id>
-        <link href="https://news.ycombinator.com/item?id=31135991"/>
-        <updated>2022-04-23T16:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Twitter bans ads that contradict science on climate change]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
         </author>
     </entry>
 </feed>
