@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-04T21:45:42.938Z</updated>
+    <updated>2022-06-04T21:58:25.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉在没有法院命令的情况下不会给司机提供自己的碰撞数据（2018）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31625004</id>
+        <link href="https://news.ycombinator.com/item?id=31625004"/>
+        <updated>2022-06-04T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Tesla won’t give drivers their own crash data without a court order (2018)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于日常开发的无痛桌面容器
 ]]></title>
@@ -6826,17 +6838,6 @@
         <author>
             <name>clouddrover</name>
             <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国能源趋势，2021年10月至12月 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31142132</id>
-        <link href="https://news.ycombinator.com/item?id=31142132"/>
-        <updated>2022-04-24T08:06:22.000Z</updated>
-        <summary type="html"><![CDATA[Energy Trends UK, October to December 2021 [pdf]]]></summary>
-        <author>
-            <name>zeristor</name>
-            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
         </author>
     </entry>
 </feed>
