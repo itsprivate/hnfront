@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-04T06:30:59.202Z</updated>
+    <updated>2022-06-04T06:51:56.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于有效利他主义的说明
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31609325</id>
+        <link href="https://news.ycombinator.com/item?id=31609325"/>
+        <updated>2022-06-03T15:07:32.000Z</updated>
+        <summary type="html"><![CDATA[Notes on Effective Altruism]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[制裁和战略轰炸
 ]]></title>
@@ -6768,17 +6780,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新思考南太平洋的海底光缆项目]]></title>
-        <id>https://news.ycombinator.com/item?id=31136059</id>
-        <link href="https://news.ycombinator.com/item?id=31136059"/>
-        <updated>2022-04-23T17:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Rethinking submarine fibre cable projects in the South Pacific]]></summary>
-        <author>
-            <name>politician</name>
-            <uri>https://news.ycombinator.com/user?id=politician</uri>
         </author>
     </entry>
 </feed>
