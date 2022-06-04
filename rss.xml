@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 04 Jun 2022 14:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 15:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RAII的术语应该是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31621013</link>
+            <guid>https://news.ycombinator.com/item?id=31621013</guid>
+            <pubDate>Sat, 04 Jun 2022 14:55:04 GMT</pubDate>
+            <description><![CDATA[Ask HN: What should have been the term for RAII?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[失败在槽中
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31595183</link>
+            <guid>https://news.ycombinator.com/item?id=31595183</guid>
+            <pubDate>Thu, 02 Jun 2022 14:16:21 GMT</pubDate>
+            <description><![CDATA[Failing in the Trough]]></description>
+        </item>
         <item>
             <title><![CDATA[对于国际分布的团队来说，什么是最好的管辖权？
 ]]></title>
@@ -4395,20 +4411,6 @@
             <guid>https://news.ycombinator.com/item?id=31133023</guid>
             <pubDate>Sat, 23 Apr 2022 10:40:49 GMT</pubDate>
             <description><![CDATA[History of roff]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chris Lattner谈垃圾收集与自动引用计数（2017）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31139610</link>
-            <guid>https://news.ycombinator.com/item?id=31139610</guid>
-            <pubDate>Sat, 23 Apr 2022 23:14:28 GMT</pubDate>
-            <description><![CDATA[Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着科罗拉多河的萎缩，亚利桑那州的干旱未来开始了]]></title>
-            <link>https://news.ycombinator.com/item?id=31139376</link>
-            <guid>https://news.ycombinator.com/item?id=31139376</guid>
-            <pubDate>Sat, 23 Apr 2022 22:42:21 GMT</pubDate>
-            <description><![CDATA[Arizona’s Dry Future Begins as Colorado River Shrinks]]></description>
         </item>
     </channel>
 </rss>
