@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 05 Jun 2022 16:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 17:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[引擎盖下的Goroutines
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31607274</link>
+            <guid>https://news.ycombinator.com/item?id=31607274</guid>
+            <pubDate>Fri, 03 Jun 2022 12:21:41 GMT</pubDate>
+            <description><![CDATA[Goroutines Under the Hood]]></description>
+        </item>
         <item>
             <title><![CDATA[我只关心有帮助的通知，不关心促销的通知。
 ]]></title>
@@ -4503,13 +4511,6 @@
             <guid>https://news.ycombinator.com/item?id=31149801</guid>
             <pubDate>Mon, 25 Apr 2022 01:07:06 GMT</pubDate>
             <description><![CDATA[Crimes with Go Generics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界博览会的兴衰]]></title>
-            <link>https://news.ycombinator.com/item?id=31141886</link>
-            <guid>https://news.ycombinator.com/item?id=31141886</guid>
-            <pubDate>Sun, 24 Apr 2022 07:07:01 GMT</pubDate>
-            <description><![CDATA[The Rise and Fall of World’s Fairs]]></description>
         </item>
     </channel>
 </rss>

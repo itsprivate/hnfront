@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T16:38:34.394Z</updated>
+    <updated>2022-06-05T17:04:33.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[引擎蓋下的Goroutines
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31607274</id>
+        <link href="https://news.ycombinator.com/item?id=31607274"/>
+        <updated>2022-06-03T12:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Goroutines Under the Hood]]></summary>
+        <author>
+            <name>s3micolon0</name>
+            <uri>https://news.ycombinator.com/user?id=s3micolon0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我只關心有幫助的通知，不關心促銷的通知。
 ]]></title>
@@ -6899,17 +6911,6 @@
         <author>
             <name>psxuaw</name>
             <uri>https://news.ycombinator.com/user?id=psxuaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界博覽會的興衰]]></title>
-        <id>https://news.ycombinator.com/item?id=31141886</id>
-        <link href="https://news.ycombinator.com/item?id=31141886"/>
-        <updated>2022-04-24T07:07:01.000Z</updated>
-        <summary type="html"><![CDATA[The Rise and Fall of World’s Fairs]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
