@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T12:46:13.666Z</updated>
+    <updated>2022-06-05T13:40:24.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于MT3配置文件和/dev/tty设置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617508</id>
+        <link href="https://news.ycombinator.com/item?id=31617508"/>
+        <updated>2022-06-04T06:11:46.000Z</updated>
+        <summary type="html"><![CDATA[About MT3 profile and /dev/tty set]]></summary>
+        <author>
+            <name>molteanu</name>
+            <uri>https://news.ycombinator.com/user?id=molteanu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AOL 3.0终于被反向设计了
 ]]></title>
@@ -6879,17 +6891,6 @@
         <author>
             <name>Kaibeezy</name>
             <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeit Medical (YC S21) 正在招聘一名ML科学家以实现早期中风检测]]></title>
-        <id>https://news.ycombinator.com/item?id=31148292</id>
-        <link href="https://news.ycombinator.com/item?id=31148292"/>
-        <updated>2022-04-24T21:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Zeit Medical (YC S21) Is Hiring an ML scientist to enable early stroke detection]]></summary>
-        <author>
-            <name>ycorvar</name>
-            <uri>https://news.ycombinator.com/user?id=ycorvar</uri>
         </author>
     </entry>
 </feed>
