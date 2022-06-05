@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T15:50:03.059Z</updated>
+    <updated>2022-06-05T16:01:09.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[算法在研究舊望遠鏡數據後檢測到一百多顆小行星
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31631632</id>
+        <link href="https://news.ycombinator.com/item?id=31631632"/>
+        <updated>2022-06-05T15:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Algorithm detected over a hundred asteroids after studying old telescope data]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將諾基亞1680功能手機變成一臺Linux電腦
 ]]></title>
@@ -6895,17 +6907,6 @@
         <author>
             <name>harpiaharpyja</name>
             <uri>https://news.ycombinator.com/user?id=harpiaharpyja</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BL602 NuttX上的按鈕]]></title>
-        <id>https://news.ycombinator.com/item?id=31142413</id>
-        <link href="https://news.ycombinator.com/item?id=31142413"/>
-        <updated>2022-04-24T09:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Buttons on BL602 NuttX]]></summary>
-        <author>
-            <name>lupyuen</name>
-            <uri>https://news.ycombinator.com/user?id=lupyuen</uri>
         </author>
     </entry>
 </feed>
