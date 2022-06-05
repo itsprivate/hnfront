@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T08:32:04.662Z</updated>
+    <updated>2022-06-05T08:49:53.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在微软的面试中作弊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628886</id>
+        <link href="https://news.ycombinator.com/item?id=31628886"/>
+        <updated>2022-06-05T07:50:08.000Z</updated>
+        <summary type="html"><![CDATA[I Cheated on My Microsoft Interview]]></summary>
+        <author>
+            <name>DeathArrow</name>
+            <uri>https://news.ycombinator.com/user?id=DeathArrow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在《暗黑破坏神》中，完全装备好需要11万美金
 ]]></title>
@@ -6865,17 +6877,6 @@
         <author>
             <name>ali92hm</name>
             <uri>https://news.ycombinator.com/user?id=ali92hm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[呼叫NSA找到你的加密密钥，在几个比特被翻转后（2010年）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31137345</id>
-        <link href="https://news.ycombinator.com/item?id=31137345"/>
-        <updated>2022-04-23T19:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Calling NSA to find your encryption key after a few bits were flipped (2010)]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
         </author>
     </entry>
 </feed>
