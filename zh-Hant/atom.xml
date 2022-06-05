@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T19:58:42.499Z</updated>
+    <updated>2022-06-05T20:45:25.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉客戶得到的新Model 3有裂縫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634333</id>
+        <link href="https://news.ycombinator.com/item?id=31634333"/>
+        <updated>2022-06-05T20:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Tesla customer gets new Model 3 with cracks]]></summary>
+        <author>
+            <name>dubswithus</name>
+            <uri>https://news.ycombinator.com/user?id=dubswithus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼Gitlab不支持按月計費？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634206</id>
+        <link href="https://news.ycombinator.com/item?id=31634206"/>
+        <updated>2022-06-05T19:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Why won't Gitlab support monthly billing?]]></summary>
+        <author>
+            <name>ethanwillis</name>
+            <uri>https://news.ycombinator.com/user?id=ethanwillis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太中的代理人
 ]]></title>
@@ -6901,28 +6925,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣佈Hare編程語言]]></title>
-        <id>https://news.ycombinator.com/item?id=31151591</id>
-        <link href="https://news.ycombinator.com/item?id=31151591"/>
-        <updated>2022-04-25T07:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Announcing the Hare programming language]]></summary>
-        <author>
-            <name>ddevault</name>
-            <uri>https://news.ycombinator.com/user?id=ddevault</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS如何管理M1 CPU內核]]></title>
-        <id>https://news.ycombinator.com/item?id=31151393</id>
-        <link href="https://news.ycombinator.com/item?id=31151393"/>
-        <updated>2022-04-25T07:04:32.000Z</updated>
-        <summary type="html"><![CDATA[How macOS manages M1 CPU cores]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
