@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T21:58:15.540Z</updated>
+    <updated>2022-06-05T22:26:40.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国科技大学的堕落
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634937</id>
+        <link href="https://news.ycombinator.com/item?id=31634937"/>
+        <updated>2022-06-05T21:16:56.000Z</updated>
+        <summary type="html"><![CDATA[The Depegging of UST]]></summary>
+        <author>
+            <name>denotational</name>
+            <uri>https://news.ycombinator.com/user?id=denotational</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人成功地将LibreOffice用于他们的业务吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634704</id>
+        <link href="https://news.ycombinator.com/item?id=31634704"/>
+        <updated>2022-06-05T20:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone successfully used LibreOffice for their business?]]></summary>
+        <author>
+            <name>gtf21</name>
+            <uri>https://news.ycombinator.com/user?id=gtf21</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我使用Fossil SCM而不是其他源码控制系统？
 ]]></title>
@@ -6909,28 +6933,6 @@
         <author>
             <name>omot</name>
             <uri>https://news.ycombinator.com/user?id=omot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克米特--误解与争议 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=31141417</id>
-        <link href="https://news.ycombinator.com/item?id=31141417"/>
-        <updated>2022-04-24T04:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Kermit – Misconceptions and Controversies (2021)]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub软件包和页面下降]]></title>
-        <id>https://news.ycombinator.com/item?id=31152403</id>
-        <link href="https://news.ycombinator.com/item?id=31152403"/>
-        <updated>2022-04-25T09:54:43.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Packages and Pages Down]]></summary>
-        <author>
-            <name>angrygoat</name>
-            <uri>https://news.ycombinator.com/user?id=angrygoat</uri>
         </author>
     </entry>
 </feed>
