@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T06:31:35.903Z</updated>
+    <updated>2022-06-05T06:52:02.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[創建一個在Minecraft中尋找鑽石的機器人（使用強化學習）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628436</id>
+        <link href="https://news.ycombinator.com/item?id=31628436"/>
+        <updated>2022-06-05T06:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Create a Bot to Find Diamonds in Minecraft (using reinforcement learning)]]></summary>
+        <author>
+            <name>gosub</name>
+            <uri>https://news.ycombinator.com/user?id=gosub</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的本週》：世界上運行時間最長的訪談節目
 ]]></title>
@@ -6858,17 +6870,6 @@
         <author>
             <name>tigerlily</name>
             <uri>https://news.ycombinator.com/user?id=tigerlily</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卑微的頁碼]]></title>
-        <id>https://news.ycombinator.com/item?id=31145862</id>
-        <link href="https://news.ycombinator.com/item?id=31145862"/>
-        <updated>2022-04-24T16:59:27.000Z</updated>
-        <summary type="html"><![CDATA[The lowly page number]]></summary>
-        <author>
-            <name>hobble</name>
-            <uri>https://news.ycombinator.com/user?id=hobble</uri>
         </author>
     </entry>
 </feed>
