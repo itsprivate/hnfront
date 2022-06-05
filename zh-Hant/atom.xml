@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T10:29:47.795Z</updated>
+    <updated>2022-06-05T10:46:08.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[追溯對莎士比亞作者身份問題的痴迷
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31612898</id>
+        <link href="https://news.ycombinator.com/item?id=31612898"/>
+        <updated>2022-06-03T19:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Tracing an obsession with the Shakespeare authorship question]]></summary>
+        <author>
+            <name>purgator</name>
+            <uri>https://news.ycombinator.com/user?id=purgator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電魚如何能夠進化出電器官
 ]]></title>
@@ -6871,17 +6883,6 @@
         <author>
             <name>pumkesjaan</name>
             <uri>https://news.ycombinator.com/user?id=pumkesjaan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在從頭開始建立一個網絡應用程序時的優先事項]]></title>
-        <id>https://news.ycombinator.com/item?id=31146458</id>
-        <link href="https://news.ycombinator.com/item?id=31146458"/>
-        <updated>2022-04-24T17:57:05.000Z</updated>
-        <summary type="html"><![CDATA[My priorities while building a webapp from scratch]]></summary>
-        <author>
-            <name>adenta</name>
-            <uri>https://news.ycombinator.com/user?id=adenta</uri>
         </author>
     </entry>
 </feed>
