@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T23:27:42.677Z</updated>
+    <updated>2022-06-05T23:44:24.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Org模式为懒人写博客
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634559</id>
+        <link href="https://news.ycombinator.com/item?id=31634559"/>
+        <updated>2022-06-05T20:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Blogging with Org-mode for lazy people]]></summary>
+        <author>
+            <name>clircle</name>
+            <uri>https://news.ycombinator.com/user?id=clircle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有父亲的儿子有更多的睾丸激素
 ]]></title>
@@ -6926,17 +6938,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器中的体素月球登陆器]]></title>
-        <id>https://news.ycombinator.com/item?id=31153333</id>
-        <link href="https://news.ycombinator.com/item?id=31153333"/>
-        <updated>2022-04-25T12:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Voxel Lunar Lander in the Browser]]></summary>
-        <author>
-            <name>JKCalhoun</name>
-            <uri>https://news.ycombinator.com/user?id=JKCalhoun</uri>
         </author>
     </entry>
 </feed>
