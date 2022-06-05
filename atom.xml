@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-05T22:44:58.006Z</updated>
+    <updated>2022-06-05T22:59:23.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cannoli - 高性能的QEMU内存和指令追踪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634813</id>
+        <link href="https://news.ycombinator.com/item?id=31634813"/>
+        <updated>2022-06-05T21:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Cannoli – High-performance QEMU memory and instruction tracing]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flossbank的尝试
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31629261</id>
+        <link href="https://news.ycombinator.com/item?id=31629261"/>
+        <updated>2022-06-05T09:16:44.000Z</updated>
+        <summary type="html"><![CDATA[The Flossbank Attempt]]></summary>
+        <author>
+            <name>protontypes</name>
+            <uri>https://news.ycombinator.com/user?id=protontypes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[意大利CPU - Genesys B52 MMX
 ]]></title>
@@ -6912,28 +6936,6 @@
         <author>
             <name>marban</name>
             <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发明骰子 (2014)]]></title>
-        <id>https://news.ycombinator.com/item?id=31143735</id>
-        <link href="https://news.ycombinator.com/item?id=31143735"/>
-        <updated>2022-04-24T13:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Invention Dice (2014)]]></summary>
-        <author>
-            <name>akeck</name>
-            <uri>https://news.ycombinator.com/user?id=akeck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitmovin（YC S15）正在招聘初级销售和面向客户的职位]]></title>
-        <id>https://news.ycombinator.com/item?id=31153297</id>
-        <link href="https://news.ycombinator.com/item?id=31153297"/>
-        <updated>2022-04-25T12:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Bitmovin (YC S15) Is Hiring Junior Sales and Customer-Facing Roles]]></summary>
-        <author>
-            <name>slederer</name>
-            <uri>https://news.ycombinator.com/user?id=slederer</uri>
         </author>
     </entry>
 </feed>
