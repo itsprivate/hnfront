@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T05:28:47.346Z</updated>
+    <updated>2022-06-06T05:59:10.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[仅从Python X.Y开始语法上有效的No-op语句
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31637428</id>
+        <link href="https://news.ycombinator.com/item?id=31637428"/>
+        <updated>2022-06-06T05:18:56.000Z</updated>
+        <summary type="html"><![CDATA[No-op statements syntactically valid only since Python X.Y]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印章--为你的私人想法提供可验证的时间戳
 ]]></title>
@@ -6948,17 +6960,6 @@
         <author>
             <name>njaaazi</name>
             <uri>https://news.ycombinator.com/user?id=njaaazi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[减少分裂的简单方法]]></title>
-        <id>https://news.ycombinator.com/item?id=31132735</id>
-        <link href="https://news.ycombinator.com/item?id=31132735"/>
-        <updated>2022-04-23T09:47:25.000Z</updated>
-        <summary type="html"><![CDATA[Simple Ways to Be Less Divisive]]></summary>
-        <author>
-            <name>staccatomeasure</name>
-            <uri>https://news.ycombinator.com/user?id=staccatomeasure</uri>
         </author>
     </entry>
 </feed>
