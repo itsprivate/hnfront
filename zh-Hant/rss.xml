@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 06 Jun 2022 02:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 03:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我作為初級開發者沒有學到的絕對真理（2019年）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31636812</link>
+            <guid>https://news.ycombinator.com/item?id=31636812</guid>
+            <pubDate>Mon, 06 Jun 2022 02:31:50 GMT</pubDate>
+            <description><![CDATA[Absolute truths I unlearned as junior developer (2019)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tinygo。基於LLVM的Go編譯器，用於微控制器、WASM和CLI工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31636642</link>
+            <guid>https://news.ycombinator.com/item?id=31636642</guid>
+            <pubDate>Mon, 06 Jun 2022 01:57:03 GMT</pubDate>
+            <description><![CDATA[Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是時候恢復AIM的信息了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31627427</link>
+            <guid>https://news.ycombinator.com/item?id=31627427</guid>
+            <pubDate>Sun, 05 Jun 2022 02:35:23 GMT</pubDate>
+            <description><![CDATA[It's time to bring back the AIM away message]]></description>
+        </item>
         <item>
             <title><![CDATA[4kb demoscene製作的源代碼 "Elevated "發佈(2016)
 ]]></title>
@@ -4526,27 +4550,6 @@
             <guid>https://news.ycombinator.com/item?id=31155489</guid>
             <pubDate>Mon, 25 Apr 2022 14:39:23 GMT</pubDate>
             <description><![CDATA[Abcdesktop – a cloud native desktopless system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好的基因是好的，但快樂是更好的]]></title>
-            <link>https://news.ycombinator.com/item?id=31141836</link>
-            <guid>https://news.ycombinator.com/item?id=31141836</guid>
-            <pubDate>Sun, 24 Apr 2022 06:51:00 GMT</pubDate>
-            <description><![CDATA[Good genes are nice, but joy is better]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果公司的編譯器（TASC）。我們擁有源代碼，從某種意義上說]]></title>
-            <link>https://news.ycombinator.com/item?id=31093092</link>
-            <guid>https://news.ycombinator.com/item?id=31093092</guid>
-            <pubDate>Wed, 20 Apr 2022 05:18:35 GMT</pubDate>
-            <description><![CDATA[The Applesoft Compiler (TASC): We have the source code, in a sense]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大腦掃描能揭示行為嗎？爆炸性的研究說還不能]]></title>
-            <link>https://news.ycombinator.com/item?id=31155527</link>
-            <guid>https://news.ycombinator.com/item?id=31155527</guid>
-            <pubDate>Mon, 25 Apr 2022 14:41:19 GMT</pubDate>
-            <description><![CDATA[Can brain scans reveal behaviour? Bombshell study says not yet]]></description>
         </item>
     </channel>
 </rss>
