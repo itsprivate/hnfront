@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T13:55:42.672Z</updated>
+    <updated>2022-06-06T14:05:30.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python 3.11的性能基準看起來非常好
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31640049</id>
+        <link href="https://news.ycombinator.com/item?id=31640049"/>
+        <updated>2022-06-06T13:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Python 3.11 Performance Benchmarks Are Looking Fantastic]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我不關心你籌集了多少錢
 ]]></title>
@@ -6975,17 +6987,6 @@
         <author>
             <name>ggambetta</name>
             <uri>https://news.ycombinator.com/user?id=ggambetta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[優雅的六頁紙證明揭示了隨機結構的出現]]></title>
-        <id>https://news.ycombinator.com/item?id=31162576</id>
-        <link href="https://news.ycombinator.com/item?id=31162576"/>
-        <updated>2022-04-26T00:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Elegant Six-Page Proof Reveals the Emergence of Random Structure]]></summary>
-        <author>
-            <name>davidvarela_us</name>
-            <uri>https://news.ycombinator.com/user?id=davidvarela_us</uri>
         </author>
     </entry>
 </feed>
