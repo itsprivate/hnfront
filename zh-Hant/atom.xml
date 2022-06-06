@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T06:34:01.696Z</updated>
+    <updated>2022-06-06T07:26:31.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[純文本。有行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31637910</id>
+        <link href="https://news.ycombinator.com/item?id=31637910"/>
+        <updated>2022-06-06T07:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Plain Text. With Lines]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetBSD RC.d系統的設計和實現[pdf] 。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31637755</id>
+        <link href="https://news.ycombinator.com/item?id=31637755"/>
+        <updated>2022-06-06T06:29:14.000Z</updated>
+        <summary type="html"><![CDATA[The Design and Implementation of the NetBSD RC.d System [pdf]]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲椋鳥令人著迷的淙淙聲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628740</id>
+        <link href="https://news.ycombinator.com/item?id=31628740"/>
+        <updated>2022-06-05T07:12:35.000Z</updated>
+        <summary type="html"><![CDATA[The mesmerising murmurations of Europe’s starlings]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GRML - 一個為系統管理員設計的Linux發行版
 ]]></title>
@@ -6928,39 +6964,6 @@
         <author>
             <name>rukshn</name>
             <uri>https://news.ycombinator.com/user?id=rukshn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tcpcp - 在主機之間傳遞TCP連接 (2005)]]></title>
-        <id>https://news.ycombinator.com/item?id=31150186</id>
-        <link href="https://news.ycombinator.com/item?id=31150186"/>
-        <updated>2022-04-25T02:17:05.000Z</updated>
-        <summary type="html"><![CDATA[tcpcp - passing TCP connections between hosts (2005)]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++20的範圍算法--7個非修改性操作]]></title>
-        <id>https://news.ycombinator.com/item?id=31157626</id>
-        <link href="https://news.ycombinator.com/item?id=31157626"/>
-        <updated>2022-04-25T16:58:38.000Z</updated>
-        <summary type="html"><![CDATA[C++20 Ranges Algorithms – 7 Non-Modifying Operations]]></summary>
-        <author>
-            <name>ibobev</name>
-            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個魔術:)]]></title>
-        <id>https://news.ycombinator.com/item?id=31157122</id>
-        <link href="https://news.ycombinator.com/item?id=31157122"/>
-        <updated>2022-04-25T16:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Made a Magic Trick:)]]></summary>
-        <author>
-            <name>croshan</name>
-            <uri>https://news.ycombinator.com/user?id=croshan</uri>
         </author>
     </entry>
 </feed>
