@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T09:36:15.985Z</updated>
+    <updated>2022-06-06T11:01:24.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Yandex首席执行官在被欧盟制裁后辞职
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31638526</id>
+        <link href="https://news.ycombinator.com/item?id=31638526"/>
+        <updated>2022-06-06T09:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Yandex CEO resigns after being targeted by EU sanctions]]></summary>
+        <author>
+            <name>marban</name>
+            <uri>https://news.ycombinator.com/user?id=marban</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算多项式的零点的可疑方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628780</id>
+        <link href="https://news.ycombinator.com/item?id=31628780"/>
+        <updated>2022-06-05T07:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Dubious Ways to Compute the Zeros of a Polynomial]]></summary>
+        <author>
+            <name>vector_spaces</name>
+            <uri>https://news.ycombinator.com/user?id=vector_spaces</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想象一下，没有人为错误
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31629470</id>
+        <link href="https://news.ycombinator.com/item?id=31629470"/>
+        <updated>2022-06-05T09:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Imagine there’s no human error]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在已越狱的iPhone 12 / iOS 14.1上使用硬件加速的Linux虚拟机
 ]]></title>
@@ -6935,39 +6971,6 @@
         <author>
             <name>rglullis</name>
             <uri>https://news.ycombinator.com/user?id=rglullis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[砖块可能会拯救点击率]]></title>
-        <id>https://news.ycombinator.com/item?id=31148923</id>
-        <link href="https://news.ycombinator.com/item?id=31148923"/>
-        <updated>2022-04-24T22:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Bricks Might Save Clicks]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sorbet和100%cov使Ruby重构成为可能]]></title>
-        <id>https://news.ycombinator.com/item?id=31159010</id>
-        <link href="https://news.ycombinator.com/item?id=31159010"/>
-        <updated>2022-04-25T18:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Sorbet and 100% cov makes Ruby refactoring possible]]></summary>
-        <author>
-            <name>craigkerstiens</name>
-            <uri>https://news.ycombinator.com/user?id=craigkerstiens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexells - 绘制纹理的细胞自组织系统[WebGL]]]></title>
-        <id>https://news.ycombinator.com/item?id=31158717</id>
-        <link href="https://news.ycombinator.com/item?id=31158717"/>
-        <updated>2022-04-25T18:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Hexells – Self-Organising System of Cells Drawing Textures [WebGL]]]></summary>
-        <author>
-            <name>sva_</name>
-            <uri>https://news.ycombinator.com/user?id=sva_</uri>
         </author>
     </entry>
 </feed>
