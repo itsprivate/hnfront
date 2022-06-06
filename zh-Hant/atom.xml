@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T05:59:11.048Z</updated>
+    <updated>2022-06-06T06:34:01.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GRML - 一個為系統管理員設計的Linux發行版
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31629709</id>
+        <link href="https://news.ycombinator.com/item?id=31629709"/>
+        <updated>2022-06-05T10:37:19.000Z</updated>
+        <summary type="html"><![CDATA[GRML – a Linux distro for system administrators]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[僅從Python X.Y開始語法上有效的No-op語句
 ]]></title>
@@ -6949,17 +6961,6 @@
         <author>
             <name>croshan</name>
             <uri>https://news.ycombinator.com/user?id=croshan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費開放源代碼的Tailwind CSS組件]]></title>
-        <id>https://news.ycombinator.com/item?id=31156799</id>
-        <link href="https://news.ycombinator.com/item?id=31156799"/>
-        <updated>2022-04-25T16:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Free Open Source Tailwind CSS Components]]></summary>
-        <author>
-            <name>njaaazi</name>
-            <uri>https://news.ycombinator.com/user?id=njaaazi</uri>
         </author>
     </entry>
 </feed>
