@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T11:34:47.482Z</updated>
+    <updated>2022-06-06T11:58:51.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[據報道，Telegram向當局交出了用戶數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639232</id>
+        <link href="https://news.ycombinator.com/item?id=31639232"/>
+        <updated>2022-06-06T11:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Telegram reportedly surrendered user data to authorities]]></summary>
+        <author>
+            <name>heikrana</name>
+            <uri>https://news.ycombinator.com/user?id=heikrana</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交音頻已經死了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639002</id>
+        <link href="https://news.ycombinator.com/item?id=31639002"/>
+        <updated>2022-06-06T11:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Is Social Audio Already Dead?]]></summary>
+        <author>
+            <name>marban</name>
+            <uri>https://news.ycombinator.com/user?id=marban</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鏈接列表的真實成本
 ]]></title>
@@ -6953,28 +6977,6 @@
         <author>
             <name>eecc</name>
             <uri>https://news.ycombinator.com/user?id=eecc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用dprint運行prettier比prettier CLI快40倍]]></title>
-        <id>https://news.ycombinator.com/item?id=31160722</id>
-        <link href="https://news.ycombinator.com/item?id=31160722"/>
-        <updated>2022-04-25T21:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Running prettier 40x faster than prettier CLI using dprint]]></summary>
-        <author>
-            <name>lucacasonato</name>
-            <uri>https://news.ycombinator.com/user?id=lucacasonato</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特/艾美達]]></title>
-        <id>https://news.ycombinator.com/item?id=31160546</id>
-        <link href="https://news.ycombinator.com/item?id=31160546"/>
-        <updated>2022-04-25T21:01:53.000Z</updated>
-        <summary type="html"><![CDATA[Twitter/The-Algorithm]]></summary>
-        <author>
-            <name>johns</name>
-            <uri>https://news.ycombinator.com/user?id=johns</uri>
         </author>
     </entry>
 </feed>
