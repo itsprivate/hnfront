@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 06 Jun 2022 14:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 14:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[概率論和統計學食譜 (2011) [pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31640229</link>
+            <guid>https://news.ycombinator.com/item?id=31640229</guid>
+            <pubDate>Mon, 06 Jun 2022 13:34:00 GMT</pubDate>
+            <description><![CDATA[Probability and Statistics Cookbook (2011) [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rust中的Arc和Mutex
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31628027</link>
+            <guid>https://news.ycombinator.com/item?id=31628027</guid>
+            <pubDate>Sun, 05 Jun 2022 04:30:04 GMT</pubDate>
+            <description><![CDATA[Arc and Mutex in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[Python 3.11的性能基準看起來非常好
 ]]></title>
@@ -4573,20 +4589,6 @@
             <guid>https://news.ycombinator.com/item?id=31162434</guid>
             <pubDate>Tue, 26 Apr 2022 00:00:27 GMT</pubDate>
             <description><![CDATA[Stunner – tool to test and exploit STUN, TURN and TURN over TCP servers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果人工智能認為自己說的是實話，它就不能告訴你它在撒謊]]></title>
-            <link>https://news.ycombinator.com/item?id=31152452</link>
-            <guid>https://news.ycombinator.com/item?id=31152452</guid>
-            <pubDate>Mon, 25 Apr 2022 10:00:34 GMT</pubDate>
-            <description><![CDATA[AI can't tell you it's lying if it thinks it's telling the truth]]></description>
-        </item>
-        <item>
-            <title><![CDATA[穿著衣服的人類的單眼三維重建的逼真性]]></title>
-            <link>https://news.ycombinator.com/item?id=31151056</link>
-            <guid>https://news.ycombinator.com/item?id=31151056</guid>
-            <pubDate>Mon, 25 Apr 2022 05:46:54 GMT</pubDate>
-            <description><![CDATA[Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing]]></description>
         </item>
     </channel>
 </rss>

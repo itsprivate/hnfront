@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T14:05:30.518Z</updated>
+    <updated>2022-06-06T14:26:47.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[概率論和統計學食譜 (2011) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31640229</id>
+        <link href="https://news.ycombinator.com/item?id=31640229"/>
+        <updated>2022-06-06T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Probability and Statistics Cookbook (2011) [pdf]]]></summary>
+        <author>
+            <name>cpp_frog</name>
+            <uri>https://news.ycombinator.com/user?id=cpp_frog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust中的Arc和Mutex
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628027</id>
+        <link href="https://news.ycombinator.com/item?id=31628027"/>
+        <updated>2022-06-05T04:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Arc and Mutex in Rust]]></summary>
+        <author>
+            <name>bshanks</name>
+            <uri>https://news.ycombinator.com/user?id=bshanks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.11的性能基準看起來非常好
 ]]></title>
@@ -6965,28 +6989,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果人工智能認為自己說的是實話，它就不能告訴你它在撒謊]]></title>
-        <id>https://news.ycombinator.com/item?id=31152452</id>
-        <link href="https://news.ycombinator.com/item?id=31152452"/>
-        <updated>2022-04-25T10:00:34.000Z</updated>
-        <summary type="html"><![CDATA[AI can't tell you it's lying if it thinks it's telling the truth]]></summary>
-        <author>
-            <name>jjgreen</name>
-            <uri>https://news.ycombinator.com/user?id=jjgreen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[穿著衣服的人類的單眼三維重建的逼真性]]></title>
-        <id>https://news.ycombinator.com/item?id=31151056</id>
-        <link href="https://news.ycombinator.com/item?id=31151056"/>
-        <updated>2022-04-25T05:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Photorealistic Monocular 3D Reconstruction of Humans Wearing Clothing]]></summary>
-        <author>
-            <name>ggambetta</name>
-            <uri>https://news.ycombinator.com/user?id=ggambetta</uri>
         </author>
     </entry>
 </feed>
