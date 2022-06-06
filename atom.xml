@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T14:26:47.456Z</updated>
+    <updated>2022-06-06T14:45:59.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WunderGraph - 开源的API开发者工具包
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639879</id>
+        <link href="https://news.ycombinator.com/item?id=31639879"/>
+        <updated>2022-06-06T12:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WunderGraph – open-source API Developer Toolkit]]></summary>
+        <author>
+            <name>jensneuse</name>
+            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oxygen.jl: 用Julia编程的网络应用程序的一股新鲜空气
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639788</id>
+        <link href="https://news.ycombinator.com/item?id=31639788"/>
+        <updated>2022-06-06T12:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Oxygen.jl: A breath of fresh air for programming web apps in Julia]]></summary>
+        <author>
+            <name>logankilpatrick</name>
+            <uri>https://news.ycombinator.com/user?id=logankilpatrick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[概率论和统计学食谱 (2011) [pdf]
 ]]></title>
@@ -6967,28 +6991,6 @@
         <author>
             <name>laila90</name>
             <uri>https://news.ycombinator.com/user?id=laila90</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[领域驱动设计参考 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=31162623</id>
-        <link href="https://news.ycombinator.com/item?id=31162623"/>
-        <updated>2022-04-26T00:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Domain Driven Design Reference [pdf]]]></summary>
-        <author>
-            <name>rammy1234</name>
-            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stunner - 用于测试和利用STUN、TURN和TURN over TCP服务器的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31162434</id>
-        <link href="https://news.ycombinator.com/item?id=31162434"/>
-        <updated>2022-04-26T00:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Stunner – tool to test and exploit STUN, TURN and TURN over TCP servers]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
