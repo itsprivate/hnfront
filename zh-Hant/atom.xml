@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-06T19:46:05.277Z</updated>
+    <updated>2022-06-06T19:59:15.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Rosetta在Linux虛擬機中運行英特爾二進制文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31644990</id>
+        <link href="https://news.ycombinator.com/item?id=31644990"/>
+        <updated>2022-06-06T19:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Running Intel Binaries in Linux VMs with Rosetta]]></summary>
+        <author>
+            <name>gok</name>
+            <uri>https://news.ycombinator.com/user?id=gok</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPadOS 16將iPad的多功能性進一步提升
 ]]></title>
@@ -7007,17 +7019,6 @@
         <author>
             <name>tsujp</name>
             <uri>https://news.ycombinator.com/user?id=tsujp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於做音樂，我有點相信的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=31158951</id>
-        <link href="https://news.ycombinator.com/item?id=31158951"/>
-        <updated>2022-04-25T18:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Things I sort of believe about making music]]></summary>
-        <author>
-            <name>jwhiles</name>
-            <uri>https://news.ycombinator.com/user?id=jwhiles</uri>
         </author>
     </entry>
 </feed>
