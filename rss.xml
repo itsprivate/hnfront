@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 07 Jun 2022 11:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 11:58:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于锈蚀类型的小知识
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31652363</link>
+            <guid>https://news.ycombinator.com/item?id=31652363</guid>
+            <pubDate>Tue, 07 Jun 2022 10:59:11 GMT</pubDate>
+            <description><![CDATA[Trivia About Rust Types]]></description>
+        </item>
         <item>
             <title><![CDATA[欧盟达成协议，使USB-C成为大多数电子设备的通用充电器
 ]]></title>
@@ -4661,13 +4669,6 @@
             <guid>https://news.ycombinator.com/item?id=31171097</guid>
             <pubDate>Tue, 26 Apr 2022 18:18:40 GMT</pubDate>
             <description><![CDATA[I received a patent infringement email for my weekend project (2010)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linen - 让你的Slack社区可以被谷歌搜索到]]></title>
-            <link>https://news.ycombinator.com/item?id=31168882</link>
-            <guid>https://news.ycombinator.com/item?id=31168882</guid>
-            <pubDate>Tue, 26 Apr 2022 15:40:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Linen – Make your Slack community Google-searchable]]></description>
         </item>
     </channel>
 </rss>

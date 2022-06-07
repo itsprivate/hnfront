@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T11:28:42.948Z</updated>
+    <updated>2022-06-07T11:58:29.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於鏽蝕類型的小知識
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31652363</id>
+        <link href="https://news.ycombinator.com/item?id=31652363"/>
+        <updated>2022-06-07T10:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Trivia About Rust Types]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐盟達成協議，使USB-C成為大多數電子設備的通用充電器
 ]]></title>
@@ -7057,17 +7069,6 @@
         <author>
             <name>federicoterzi</name>
             <uri>https://news.ycombinator.com/user?id=federicoterzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linen - 讓你的Slack社區可以被谷歌搜索到]]></title>
-        <id>https://news.ycombinator.com/item?id=31168882</id>
-        <link href="https://news.ycombinator.com/item?id=31168882"/>
-        <updated>2022-04-26T15:40:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Linen – Make your Slack community Google-searchable]]></summary>
-        <author>
-            <name>cheeseblubber</name>
-            <uri>https://news.ycombinator.com/user?id=cheeseblubber</uri>
         </author>
     </entry>
 </feed>
