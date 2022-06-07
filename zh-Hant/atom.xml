@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T09:47:47.995Z</updated>
+    <updated>2022-06-07T10:34:24.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我最喜歡的Erlang程序(2013)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639382</id>
+        <link href="https://news.ycombinator.com/item?id=31639382"/>
+        <updated>2022-06-06T12:01:44.000Z</updated>
+        <summary type="html"><![CDATA[My favorite Erlang Program (2013)]]></summary>
+        <author>
+            <name>notamy</name>
+            <uri>https://news.ycombinator.com/user?id=notamy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們將在燈塔改為每週四天工作制
 ]]></title>
@@ -7053,17 +7065,6 @@
         <author>
             <name>tambourine_man</name>
             <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Nim、Zig、Rust和C++中進行編譯時評估]]></title>
-        <id>https://news.ycombinator.com/item?id=31160234</id>
-        <link href="https://news.ycombinator.com/item?id=31160234"/>
-        <updated>2022-04-25T20:34:26.000Z</updated>
-        <summary type="html"><![CDATA[Compile time evaluation in Nim, Zig, Rust and C++]]></summary>
-        <author>
-            <name>lukastyrychtr</name>
-            <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
         </author>
     </entry>
 </feed>

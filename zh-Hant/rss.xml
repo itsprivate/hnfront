@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 10:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我最喜歡的Erlang程序(2013)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31639382</link>
+            <guid>https://news.ycombinator.com/item?id=31639382</guid>
+            <pubDate>Mon, 06 Jun 2022 12:01:44 GMT</pubDate>
+            <description><![CDATA[My favorite Erlang Program (2013)]]></description>
+        </item>
         <item>
             <title><![CDATA[我們將在燈塔改為每週四天工作制
 ]]></title>
@@ -4657,13 +4665,6 @@
             <guid>https://news.ycombinator.com/item?id=31152866</guid>
             <pubDate>Mon, 25 Apr 2022 11:03:30 GMT</pubDate>
             <description><![CDATA[FrogFind: the Search Engine for Vintage Computers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Nim、Zig、Rust和C++中進行編譯時評估]]></title>
-            <link>https://news.ycombinator.com/item?id=31160234</link>
-            <guid>https://news.ycombinator.com/item?id=31160234</guid>
-            <pubDate>Mon, 25 Apr 2022 20:34:26 GMT</pubDate>
-            <description><![CDATA[Compile time evaluation in Nim, Zig, Rust and C++]]></description>
         </item>
     </channel>
 </rss>
