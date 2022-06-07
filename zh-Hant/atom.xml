@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T19:59:17.891Z</updated>
+    <updated>2022-06-07T20:32:49.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FAA繼續在G100UL上拖延時間
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31657607</id>
+        <link href="https://news.ycombinator.com/item?id=31657607"/>
+        <updated>2022-06-07T17:32:57.000Z</updated>
+        <summary type="html"><![CDATA[FAA Continues to Stall on G100UL]]></summary>
+        <author>
+            <name>sklargh</name>
+            <uri>https://news.ycombinator.com/user?id=sklargh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Umbrel - 一個用於自我託管的個人服務器操作系統
 ]]></title>
@@ -7098,17 +7110,6 @@
         <author>
             <name>stopachka</name>
             <uri>https://news.ycombinator.com/user?id=stopachka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML事件處理程序的屬性：進入兔子洞]]></title>
-        <id>https://news.ycombinator.com/item?id=31172653</id>
-        <link href="https://news.ycombinator.com/item?id=31172653"/>
-        <updated>2022-04-26T20:20:26.000Z</updated>
-        <summary type="html"><![CDATA[HTML event handler attributes: down the rabbit hole]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
         </author>
     </entry>
 </feed>
