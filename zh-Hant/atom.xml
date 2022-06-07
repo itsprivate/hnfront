@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T19:32:50.679Z</updated>
+    <updated>2022-06-07T19:59:17.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Umbrel - 一個用於自我託管的個人服務器操作系統
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31657527</id>
+        <link href="https://news.ycombinator.com/item?id=31657527"/>
+        <updated>2022-06-07T17:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Umbrel – A personal server OS for self-hosting]]></summary>
+        <author>
+            <name>mayankchhabra</name>
+            <uri>https://news.ycombinator.com/user?id=mayankchhabra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ID3v2本來可以是什麼
 ]]></title>
@@ -7097,17 +7109,6 @@
         <author>
             <name>eatonphil</name>
             <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg現在支持JPEG XL]]></title>
-        <id>https://news.ycombinator.com/item?id=31177098</id>
-        <link href="https://news.ycombinator.com/item?id=31177098"/>
-        <updated>2022-04-27T06:59:35.000Z</updated>
-        <summary type="html"><![CDATA[FFmpeg now supports JPEG XL]]></summary>
-        <author>
-            <name>867-5309</name>
-            <uri>https://news.ycombinator.com/user?id=867-5309</uri>
         </author>
     </entry>
 </feed>
