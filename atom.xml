@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T10:34:24.906Z</updated>
+    <updated>2022-06-07T10:49:23.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Concerned.tech - 1400名签名者，包括DSHR、James Gosling和25名康普斯学教授。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31651719</id>
+        <link href="https://news.ycombinator.com/item?id=31651719"/>
+        <updated>2022-06-07T09:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors]]></summary>
+        <author>
+            <name>ghuntley</name>
+            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我最喜欢的Erlang程序(2013)
 ]]></title>
@@ -7054,17 +7066,6 @@
         <author>
             <name>holler</name>
             <uri>https://news.ycombinator.com/user?id=holler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FrogFind: 复古电脑的搜索引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=31152866</id>
-        <link href="https://news.ycombinator.com/item?id=31152866"/>
-        <updated>2022-04-25T11:03:30.000Z</updated>
-        <summary type="html"><![CDATA[FrogFind: the Search Engine for Vintage Computers]]></summary>
-        <author>
-            <name>tambourine_man</name>
-            <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
         </author>
     </entry>
 </feed>
