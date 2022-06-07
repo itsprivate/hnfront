@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T20:32:49.217Z</updated>
+    <updated>2022-06-07T21:00:04.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SetOps - 在你自己的AWS账户中运行容器、数据库和更多东西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654696</id>
+        <link href="https://news.ycombinator.com/item?id=31654696"/>
+        <updated>2022-06-07T14:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SetOps – Run containers, databases and more in your own AWS account]]></summary>
+        <author>
+            <name>latebird22</name>
+            <uri>https://news.ycombinator.com/user?id=latebird22</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FAA继续在G100UL上拖延时间
 ]]></title>
@@ -7099,17 +7111,6 @@
         <author>
             <name>BeniBoy</name>
             <uri>https://news.ycombinator.com/user?id=BeniBoy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在JavaScript中的数据记录]]></title>
-        <id>https://news.ycombinator.com/item?id=31154039</id>
-        <link href="https://news.ycombinator.com/item?id=31154039"/>
-        <updated>2022-04-25T13:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Datalog in JavaScript]]></summary>
-        <author>
-            <name>stopachka</name>
-            <uri>https://news.ycombinator.com/user?id=stopachka</uri>
         </author>
     </entry>
 </feed>
