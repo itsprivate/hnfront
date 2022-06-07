@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T06:56:39.761Z</updated>
+    <updated>2022-06-07T07:29:22.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微型LZMA解码器(X86汇编代码高尔夫)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31638552</id>
+        <link href="https://news.ycombinator.com/item?id=31638552"/>
+        <updated>2022-06-06T09:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Micro LZMA decoder (x86 assembly code golf)]]></summary>
+        <author>
+            <name>jpegqs</name>
+            <uri>https://news.ycombinator.com/user?id=jpegqs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当你在工作中编码时，你在休息时间是如何编码的？
 ]]></title>
@@ -7042,17 +7054,6 @@
         <author>
             <name>lordylord</name>
             <uri>https://news.ycombinator.com/user?id=lordylord</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim 0.7中的新内容]]></title>
-        <id>https://news.ycombinator.com/item?id=31170535</id>
-        <link href="https://news.ycombinator.com/item?id=31170535"/>
-        <updated>2022-04-26T17:39:03.000Z</updated>
-        <summary type="html"><![CDATA[What's New in Neovim 0.7]]></summary>
-        <author>
-            <name>ngalaiko</name>
-            <uri>https://news.ycombinator.com/user?id=ngalaiko</uri>
         </author>
     </entry>
 </feed>
