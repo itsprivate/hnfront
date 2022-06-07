@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T05:27:25.658Z</updated>
+    <updated>2022-06-07T06:35:41.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Eu.org，自1996年以来的免费域名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650320</id>
+        <link href="https://news.ycombinator.com/item?id=31650320"/>
+        <updated>2022-06-07T05:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Eu.org, free domain names since 1996]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maud: 一个用于编写HTML的Rust宏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31631475</id>
+        <link href="https://news.ycombinator.com/item?id=31631475"/>
+        <updated>2022-06-05T14:51:13.000Z</updated>
+        <summary type="html"><![CDATA[Maud: A Rust macro for writing HTML]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[围棋中冠词式词典的性能
 ]]></title>
@@ -7028,28 +7052,6 @@
         <author>
             <name>community</name>
             <uri>https://news.ycombinator.com/user?id=community</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[捍卫加州严肃数学教育运动的最新情况]]></title>
-        <id>https://news.ycombinator.com/item?id=31170431</id>
-        <link href="https://news.ycombinator.com/item?id=31170431"/>
-        <updated>2022-04-26T17:30:50.000Z</updated>
-        <summary type="html"><![CDATA[An update on the campaign to defend serious math education in California]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caddy v2.5.0]]></title>
-        <id>https://news.ycombinator.com/item?id=31170280</id>
-        <link href="https://news.ycombinator.com/item?id=31170280"/>
-        <updated>2022-04-26T17:20:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Caddy v2.5.0]]></summary>
-        <author>
-            <name>francislavoie</name>
-            <uri>https://news.ycombinator.com/user?id=francislavoie</uri>
         </author>
     </entry>
 </feed>
