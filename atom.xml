@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T21:27:48.628Z</updated>
+    <updated>2022-06-07T21:46:56.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[体现是AGI所不可或缺的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31660272</id>
+        <link href="https://news.ycombinator.com/item?id=31660272"/>
+        <updated>2022-06-07T21:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Embodiment Is Indispensable for AGI]]></summary>
+        <author>
+            <name>keerthanpg</name>
+            <uri>https://news.ycombinator.com/user?id=keerthanpg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesorio (YC S15)正在招聘一名基础设施和平台主管
 ]]></title>
@@ -7102,17 +7114,6 @@
         <author>
             <name>alterneesh</name>
             <uri>https://news.ycombinator.com/user?id=alterneesh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈斯喀尔类型的介绍]]></title>
-        <id>https://news.ycombinator.com/item?id=31177474</id>
-        <link href="https://news.ycombinator.com/item?id=31177474"/>
-        <updated>2022-04-27T07:59:49.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to Haskell Typeclasses]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
