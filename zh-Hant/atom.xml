@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T17:45:50.547Z</updated>
+    <updated>2022-06-07T18:03:44.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歡迎來到蘋果M1視窗項目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31657591</id>
+        <link href="https://news.ycombinator.com/item?id=31657591"/>
+        <updated>2022-06-07T17:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Apple M1 Windows Project]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OptiPNG vs. PNGcrush vs. Gimp來減少PNG的大小
 ]]></title>
@@ -7089,17 +7101,6 @@
         <author>
             <name>ggerganov</name>
             <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德意志銀行舉報人在洛杉磯林肯公園被發現死亡]]></title>
-        <id>https://news.ycombinator.com/item?id=31176752</id>
-        <link href="https://news.ycombinator.com/item?id=31176752"/>
-        <updated>2022-04-27T05:49:21.000Z</updated>
-        <summary type="html"><![CDATA[Deutsche Bank whistleblower found dead in LA's Lincoln Park]]></summary>
-        <author>
-            <name>IdEntities</name>
-            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
         </author>
     </entry>
 </feed>
