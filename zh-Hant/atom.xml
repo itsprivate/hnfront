@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T18:41:04.166Z</updated>
+    <updated>2022-06-07T19:32:50.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ID3v2本來可以是什麼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31658664</id>
+        <link href="https://news.ycombinator.com/item?id=31658664"/>
+        <updated>2022-06-07T19:01:13.000Z</updated>
+        <summary type="html"><![CDATA[What ID3v2 could have been]]></summary>
+        <author>
+            <name>lawik</name>
+            <uri>https://news.ycombinator.com/user?id=lawik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[達勒。通往Haskell的門戶藥物
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31658638</id>
+        <link href="https://news.ycombinator.com/item?id=31658638"/>
+        <updated>2022-06-07T18:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Dhall: A Gateway Drug to Haskell]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高效的非理性：破譯人類選擇之謎 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31658330</id>
+        <link href="https://news.ycombinator.com/item?id=31658330"/>
+        <updated>2022-06-07T18:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Efficiently irrational: deciphering the riddle of human choice [pdf]]]></summary>
+        <author>
+            <name>telotortium</name>
+            <uri>https://news.ycombinator.com/user?id=telotortium</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[請不要在發行庫中非官方地運送Bottles。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31658086</id>
+        <link href="https://news.ycombinator.com/item?id=31658086"/>
+        <updated>2022-06-07T18:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Please don't unofficially ship Bottles in distribution repositories]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[結束BASIC
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31651881</id>
+        <link href="https://news.ycombinator.com/item?id=31651881"/>
+        <updated>2022-06-07T09:44:59.000Z</updated>
+        <summary type="html"><![CDATA[EndBASIC]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國的進口需求正在斷崖式下降
 ]]></title>
@@ -7048,61 +7108,6 @@
         <author>
             <name>867-5309</name>
             <uri>https://news.ycombinator.com/user?id=867-5309</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將一條信息翻譯成不同的語言並返回10次]]></title>
-        <id>https://news.ycombinator.com/item?id=31176883</id>
-        <link href="https://news.ycombinator.com/item?id=31176883"/>
-        <updated>2022-04-27T06:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Translate a message 10 times into different languages and back]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baseten - 構建以ML為動力的應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31169193</id>
-        <link href="https://news.ycombinator.com/item?id=31169193"/>
-        <updated>2022-04-26T16:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Baseten – Build ML-powered applications]]></summary>
-        <author>
-            <name>philipkiely</name>
-            <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript框架的四個時代]]></title>
-        <id>https://news.ycombinator.com/item?id=31176910</id>
-        <link href="https://news.ycombinator.com/item?id=31176910"/>
-        <updated>2022-04-27T06:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Four Eras of JavaScript Frameworks]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可汗學院推出可汗世界學校在線高中]]></title>
-        <id>https://news.ycombinator.com/item?id=31176828</id>
-        <link href="https://news.ycombinator.com/item?id=31176828"/>
-        <updated>2022-04-27T06:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Khan Academy launches Khan World School online high school]]></summary>
-        <author>
-            <name>webmaven</name>
-            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid的影響者。星野裡沙是誰？]]></title>
-        <id>https://news.ycombinator.com/item?id=31176665</id>
-        <link href="https://news.ycombinator.com/item?id=31176665"/>
-        <updated>2022-04-27T05:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Covid Influencers: Who Is Risa Hoshino?]]></summary>
-        <author>
-            <name>bhum</name>
-            <uri>https://news.ycombinator.com/user?id=bhum</uri>
         </author>
     </entry>
 </feed>
