@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T04:24:06.785Z</updated>
+    <updated>2022-06-07T05:27:25.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圍棋中冠詞式詞典的性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31649617</id>
+        <link href="https://news.ycombinator.com/item?id=31649617"/>
+        <updated>2022-06-07T03:38:37.000Z</updated>
+        <summary type="html"><![CDATA[Performance of coroutine-style lexers in Go]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我寫了一個Brainfuck到Go的編譯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630260</id>
+        <link href="https://news.ycombinator.com/item?id=31630260"/>
+        <updated>2022-06-05T12:09:47.000Z</updated>
+        <summary type="html"><![CDATA[I wrote a Brainfuck to Go compiler]]></summary>
+        <author>
+            <name>kabirgoel</name>
+            <uri>https://news.ycombinator.com/user?id=kabirgoel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何挑選最少的錯誤顏色
 ]]></title>
@@ -7026,28 +7050,6 @@
         <author>
             <name>francislavoie</name>
             <uri>https://news.ycombinator.com/user?id=francislavoie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狂熱的珍稀手錶世界和熱愛它們的富人]]></title>
-        <id>https://news.ycombinator.com/item?id=31169758</id>
-        <link href="https://news.ycombinator.com/item?id=31169758"/>
-        <updated>2022-04-26T16:47:15.000Z</updated>
-        <summary type="html"><![CDATA[The Frenzied World of Rare Watches and the Rich People Who Love Them]]></summary>
-        <author>
-            <name>adam</name>
-            <uri>https://news.ycombinator.com/user?id=adam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneLogin中斷服務]]></title>
-        <id>https://news.ycombinator.com/item?id=31170152</id>
-        <link href="https://news.ycombinator.com/item?id=31170152"/>
-        <updated>2022-04-26T17:11:01.000Z</updated>
-        <summary type="html"><![CDATA[OneLogin Outage]]></summary>
-        <author>
-            <name>doubled112</name>
-            <uri>https://news.ycombinator.com/user?id=doubled112</uri>
         </author>
     </entry>
 </feed>

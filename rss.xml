@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 07 Jun 2022 04:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 05:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[围棋中冠词式词典的性能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31649617</link>
+            <guid>https://news.ycombinator.com/item?id=31649617</guid>
+            <pubDate>Tue, 07 Jun 2022 03:38:37 GMT</pubDate>
+            <description><![CDATA[Performance of coroutine-style lexers in Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我写了一个Brainfuck到Go的编译器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31630260</link>
+            <guid>https://news.ycombinator.com/item?id=31630260</guid>
+            <pubDate>Sun, 05 Jun 2022 12:09:47 GMT</pubDate>
+            <description><![CDATA[I wrote a Brainfuck to Go compiler]]></description>
+        </item>
         <item>
             <title><![CDATA[如何挑选最少的错误颜色
 ]]></title>
@@ -4634,20 +4650,6 @@
             <guid>https://news.ycombinator.com/item?id=31170280</guid>
             <pubDate>Tue, 26 Apr 2022 17:20:19 GMT</pubDate>
             <description><![CDATA[Show HN: Caddy v2.5.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[狂热的珍稀手表世界和热爱它们的富人]]></title>
-            <link>https://news.ycombinator.com/item?id=31169758</link>
-            <guid>https://news.ycombinator.com/item?id=31169758</guid>
-            <pubDate>Tue, 26 Apr 2022 16:47:15 GMT</pubDate>
-            <description><![CDATA[The Frenzied World of Rare Watches and the Rich People Who Love Them]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OneLogin中断服务]]></title>
-            <link>https://news.ycombinator.com/item?id=31170152</link>
-            <guid>https://news.ycombinator.com/item?id=31170152</guid>
-            <pubDate>Tue, 26 Apr 2022 17:11:01 GMT</pubDate>
-            <description><![CDATA[OneLogin Outage]]></description>
         </item>
     </channel>
 </rss>
