@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T13:51:14.382Z</updated>
+    <updated>2022-06-07T14:07:28.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亲爱的Crypto
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654053</id>
+        <link href="https://news.ycombinator.com/item?id=31654053"/>
+        <updated>2022-06-07T13:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Dear Crypto]]></summary>
+        <author>
+            <name>boffinism</name>
+            <uri>https://news.ycombinator.com/user?id=boffinism</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Centaur Labs (YC W19) 正在波士顿/远程招聘一名React工程师
 ]]></title>
@@ -7070,17 +7082,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lisp的奥秘 (2015)]]></title>
-        <id>https://news.ycombinator.com/item?id=31153702</id>
-        <link href="https://news.ycombinator.com/item?id=31153702"/>
-        <updated>2022-04-25T12:49:48.000Z</updated>
-        <summary type="html"><![CDATA[The Mysteries of Lisp (2015)]]></summary>
-        <author>
-            <name>wslh</name>
-            <uri>https://news.ycombinator.com/user?id=wslh</uri>
         </author>
     </entry>
 </feed>
