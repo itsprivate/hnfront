@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-07T23:28:24.841Z</updated>
+    <updated>2022-06-07T23:45:54.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌最糟糕的福利
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31660976</id>
+        <link href="https://news.ycombinator.com/item?id=31660976"/>
+        <updated>2022-06-07T22:50:50.000Z</updated>
+        <summary type="html"><![CDATA[The Worst Perk at Google]]></summary>
+        <author>
+            <name>remotecar</name>
+            <uri>https://news.ycombinator.com/user?id=remotecar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小型网站/应用程序的 "过时 "技能的最佳替代工作？
 ]]></title>
@@ -7109,17 +7121,6 @@
         <author>
             <name>Caiero</name>
             <uri>https://news.ycombinator.com/user?id=Caiero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不，你不能通过关闭你的 "待机 "设备每年节省30英镑]]></title>
-        <id>https://news.ycombinator.com/item?id=31178506</id>
-        <link href="https://news.ycombinator.com/item?id=31178506"/>
-        <updated>2022-04-27T11:09:50.000Z</updated>
-        <summary type="html"><![CDATA[No, you can’t save £30 per year by switching off your “standby” devices]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
