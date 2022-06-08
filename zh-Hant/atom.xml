@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-08T09:06:59.200Z</updated>
+    <updated>2022-06-08T09:28:52.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[醫療失誤現在是美國第三大死因
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664748</id>
+        <link href="https://news.ycombinator.com/item?id=31664748"/>
+        <updated>2022-06-08T08:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Medical Errors now Third leading cause of death in the United States]]></summary>
+        <author>
+            <name>in-just</name>
+            <uri>https://news.ycombinator.com/user?id=in-just</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞭解Elm中的UI組件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664568</id>
+        <link href="https://news.ycombinator.com/item?id=31664568"/>
+        <updated>2022-06-08T08:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Understanding UI Components in Elm]]></summary>
+        <author>
+            <name>KasMA1990</name>
+            <uri>https://news.ycombinator.com/user?id=KasMA1990</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼要擁有一個博客？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31653748</id>
+        <link href="https://news.ycombinator.com/item?id=31653748"/>
+        <updated>2022-06-07T13:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Why Have a Blog?]]></summary>
+        <author>
+            <name>nottrobin</name>
+            <uri>https://news.ycombinator.com/user?id=nottrobin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過建立博客生成器學習Haskell--一本面向項目的Haskell書
 ]]></title>
@@ -7115,39 +7151,6 @@
         <author>
             <name>nkurz</name>
             <uri>https://news.ycombinator.com/user?id=nkurz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公共資金，公共準則]]></title>
-        <id>https://news.ycombinator.com/item?id=31183882</id>
-        <link href="https://news.ycombinator.com/item?id=31183882"/>
-        <updated>2022-04-27T18:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Public Money, Public Code]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼公司要搬離Heroku（除了成本）？]]></title>
-        <id>https://news.ycombinator.com/item?id=31183573</id>
-        <link href="https://news.ycombinator.com/item?id=31183573"/>
-        <updated>2022-04-27T18:06:03.000Z</updated>
-        <summary type="html"><![CDATA[Why companies move off Heroku (besides the cost)]]></summary>
-        <author>
-            <name>jusrhee</name>
-            <uri>https://news.ycombinator.com/user?id=jusrhee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinboard發生了什麼（4月22日版）？]]></title>
-        <id>https://news.ycombinator.com/item?id=31183419</id>
-        <link href="https://news.ycombinator.com/item?id=31183419"/>
-        <updated>2022-04-27T17:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What Happened to Pinboard (April '22 edition)?]]></summary>
-        <author>
-            <name>ihodes</name>
-            <uri>https://news.ycombinator.com/user?id=ihodes</uri>
         </author>
     </entry>
 </feed>
