@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 08 Jun 2022 10:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 10:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鸟牌正在裁减23%的员工
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31665201</link>
+            <guid>https://news.ycombinator.com/item?id=31665201</guid>
+            <pubDate>Wed, 08 Jun 2022 09:56:25 GMT</pubDate>
+            <description><![CDATA[Bird Is Laying Off 23% of Its Staff]]></description>
+        </item>
         <item>
             <title><![CDATA[与其他操作系统相比，FreeBSD能提供什么（2020）。
 ]]></title>
@@ -4747,13 +4755,6 @@
             <guid>https://news.ycombinator.com/item?id=31183019</guid>
             <pubDate>Wed, 27 Apr 2022 17:27:09 GMT</pubDate>
             <description><![CDATA[Boeing looked for flaws in its Dreamliner and couldn’t stop finding them]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Go Generics将谷歌的B-Tree实施减少40%。]]></title>
-            <link>https://news.ycombinator.com/item?id=31182645</link>
-            <guid>https://news.ycombinator.com/item?id=31182645</guid>
-            <pubDate>Wed, 27 Apr 2022 17:03:05 GMT</pubDate>
-            <description><![CDATA[Shaving 40% Off Google’s B-Tree Implementation with Go Generics]]></description>
         </item>
     </channel>
 </rss>

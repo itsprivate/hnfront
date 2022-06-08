@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-08T10:34:12.998Z</updated>
+    <updated>2022-06-08T10:50:33.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鸟牌正在裁减23%的员工
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31665201</id>
+        <link href="https://news.ycombinator.com/item?id=31665201"/>
+        <updated>2022-06-08T09:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Bird Is Laying Off 23% of Its Staff]]></summary>
+        <author>
+            <name>marban</name>
+            <uri>https://news.ycombinator.com/user?id=marban</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与其他操作系统相比，FreeBSD能提供什么（2020）。
 ]]></title>
@@ -7143,17 +7155,6 @@
         <author>
             <name>dangle1</name>
             <uri>https://news.ycombinator.com/user?id=dangle1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Go Generics将谷歌的B-Tree实施减少40%。]]></title>
-        <id>https://news.ycombinator.com/item?id=31182645</id>
-        <link href="https://news.ycombinator.com/item?id=31182645"/>
-        <updated>2022-04-27T17:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Shaving 40% Off Google’s B-Tree Implementation with Go Generics]]></summary>
-        <author>
-            <name>PeterCorless</name>
-            <uri>https://news.ycombinator.com/user?id=PeterCorless</uri>
         </author>
     </entry>
 </feed>
