@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-08T10:02:10.736Z</updated>
+    <updated>2022-06-08T10:34:13.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與其他操作系統相比，FreeBSD能提供什麼（2020）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664952</id>
+        <link href="https://news.ycombinator.com/item?id=31664952"/>
+        <updated>2022-06-08T09:13:34.000Z</updated>
+        <summary type="html"><![CDATA[What FreeBSD can offer compared to other operating systems (2020)]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[優化感覺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654751</id>
+        <link href="https://news.ycombinator.com/item?id=31654751"/>
+        <updated>2022-06-07T14:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing for Feelings]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CircuitPython - 為微控制器編程的最簡單方法
 ]]></title>
@@ -7130,28 +7154,6 @@
         <author>
             <name>PeterCorless</name>
             <uri>https://news.ycombinator.com/user?id=PeterCorless</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於ZFS的交互式、文件級的類似於時間機器的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31184404</id>
-        <link href="https://news.ycombinator.com/item?id=31184404"/>
-        <updated>2022-04-27T19:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Interactive, file-level Time Machine-like tool for ZFS]]></summary>
-        <author>
-            <name>codetrotter</name>
-            <uri>https://news.ycombinator.com/user?id=codetrotter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是 "紐約的彼此書評 "嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31184290</id>
-        <link href="https://news.ycombinator.com/item?id=31184290"/>
-        <updated>2022-04-27T19:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Is It the “New York Review of Each Other’s Books”?]]></summary>
-        <author>
-            <name>Jerry2</name>
-            <uri>https://news.ycombinator.com/user?id=Jerry2</uri>
         </author>
     </entry>
 </feed>
