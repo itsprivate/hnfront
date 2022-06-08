@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 08 Jun 2022 10:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 11:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[利用WiiU的USB描述符解析的方法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31665233</link>
+            <guid>https://news.ycombinator.com/item?id=31665233</guid>
+            <pubDate>Wed, 08 Jun 2022 10:02:58 GMT</pubDate>
+            <description><![CDATA[Exploiting the Wii U's USB Descriptor parsing]]></description>
+        </item>
         <item>
             <title><![CDATA[鳥牌正在裁減23%的員工
 ]]></title>
@@ -4748,13 +4756,6 @@
             <guid>https://news.ycombinator.com/item?id=31184825</guid>
             <pubDate>Wed, 27 Apr 2022 19:44:44 GMT</pubDate>
             <description><![CDATA[rq: Universal convertor between structured data (JSON, MessagePack, CBOR, etc.)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[波音公司尋找其夢想飛機的缺陷，並無法停止發現它們]]></title>
-            <link>https://news.ycombinator.com/item?id=31183019</link>
-            <guid>https://news.ycombinator.com/item?id=31183019</guid>
-            <pubDate>Wed, 27 Apr 2022 17:27:09 GMT</pubDate>
-            <description><![CDATA[Boeing looked for flaws in its Dreamliner and couldn’t stop finding them]]></description>
         </item>
     </channel>
 </rss>

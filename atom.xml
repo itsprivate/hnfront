@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-08T10:50:33.484Z</updated>
+    <updated>2022-06-08T11:46:59.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[利用WiiU的USB描述符解析的方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31665233</id>
+        <link href="https://news.ycombinator.com/item?id=31665233"/>
+        <updated>2022-06-08T10:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Exploiting the Wii U's USB Descriptor parsing]]></summary>
+        <author>
+            <name>sonixier</name>
+            <uri>https://news.ycombinator.com/user?id=sonixier</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鸟牌正在裁减23%的员工
 ]]></title>
@@ -7144,17 +7156,6 @@
         <author>
             <name>ducktective</name>
             <uri>https://news.ycombinator.com/user?id=ducktective</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音公司寻找其梦想飞机的缺陷，并无法停止发现它们]]></title>
-        <id>https://news.ycombinator.com/item?id=31183019</id>
-        <link href="https://news.ycombinator.com/item?id=31183019"/>
-        <updated>2022-04-27T17:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Boeing looked for flaws in its Dreamliner and couldn’t stop finding them]]></summary>
-        <author>
-            <name>dangle1</name>
-            <uri>https://news.ycombinator.com/user?id=dangle1</uri>
         </author>
     </entry>
 </feed>
