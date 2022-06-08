@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-08T05:58:27.012Z</updated>
+    <updated>2022-06-08T06:36:00.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Deepkit - 高性能TypeScript框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31663298</id>
+        <link href="https://news.ycombinator.com/item?id=31663298"/>
+        <updated>2022-06-08T04:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Deepkit – High-Performance TypeScript Framework]]></summary>
+        <author>
+            <name>nikolay</name>
+            <uri>https://news.ycombinator.com/user?id=nikolay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在對printf的一次調用中實現Tic-Tac-Toe的C語言實現(2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31662275</id>
+        <link href="https://news.ycombinator.com/item?id=31662275"/>
+        <updated>2022-06-08T01:40:08.000Z</updated>
+        <summary type="html"><![CDATA[C implementation of Tic-Tac-Toe in a single call to printf (2020)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroPython - 用於微控制器的Python
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639707</id>
+        <link href="https://news.ycombinator.com/item?id=31639707"/>
+        <updated>2022-06-06T12:40:15.000Z</updated>
+        <summary type="html"><![CDATA[MicroPython – Python for Microcontrollers]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chesa Boudin被舊金山選民召回
 ]]></title>
@@ -7106,39 +7142,6 @@
         <author>
             <name>shaicoleman</name>
             <uri>https://news.ycombinator.com/user?id=shaicoleman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gq - 像jq或zq一樣，但你使用Go]]></title>
-        <id>https://news.ycombinator.com/item?id=31181898</id>
-        <link href="https://news.ycombinator.com/item?id=31181898"/>
-        <updated>2022-04-27T16:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: gq – like jq or zq, but you use Go]]></summary>
-        <author>
-            <name>errnil</name>
-            <uri>https://news.ycombinator.com/user?id=errnil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度的熱浪打破記錄，仍在不斷惡化]]></title>
-        <id>https://news.ycombinator.com/item?id=31181735</id>
-        <link href="https://news.ycombinator.com/item?id=31181735"/>
-        <updated>2022-04-27T16:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Heatwave in India breaks records, still worsening]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So Long Surrogates: 我們如何在Haskell中轉移到UTF-8？]]></title>
-        <id>https://news.ycombinator.com/item?id=31181595</id>
-        <link href="https://news.ycombinator.com/item?id=31181595"/>
-        <updated>2022-04-27T15:55:13.000Z</updated>
-        <summary type="html"><![CDATA[So Long Surrogates: How We Moved to UTF-8 in Haskell]]></summary>
-        <author>
-            <name>wofo</name>
-            <uri>https://news.ycombinator.com/user?id=wofo</uri>
         </author>
     </entry>
 </feed>
