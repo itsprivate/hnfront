@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-08T19:47:48.871Z</updated>
+    <updated>2022-06-08T19:59:50.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有些语言比其他语言更关注家庭关系
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31672959</id>
+        <link href="https://news.ycombinator.com/item?id=31672959"/>
+        <updated>2022-06-08T19:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Some languages pay closer attention to family ties than others]]></summary>
+        <author>
+            <name>edward</name>
+            <uri>https://news.ycombinator.com/user?id=edward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TC39提案。类型注释
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31672754</id>
+        <link href="https://news.ycombinator.com/item?id=31672754"/>
+        <updated>2022-06-08T19:29:27.000Z</updated>
+        <summary type="html"><![CDATA[TC39 Proposal: Type Annotations]]></summary>
+        <author>
+            <name>rglover</name>
+            <uri>https://news.ycombinator.com/user?id=rglover</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook的Zookeeper在Delos上的实施
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31672063</id>
+        <link href="https://news.ycombinator.com/item?id=31672063"/>
+        <updated>2022-06-08T18:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Facebook's Zookeeper Implementation on Delos]]></summary>
+        <author>
+            <name>somerando7</name>
+            <uri>https://news.ycombinator.com/user?id=somerando7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小世界：为你在Twitter上关注的人绘制的掠夺者地图
 ]]></title>
@@ -7163,39 +7199,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flash Synth (2019年)]]></title>
-        <id>https://news.ycombinator.com/item?id=31178808</id>
-        <link href="https://news.ycombinator.com/item?id=31178808"/>
-        <updated>2022-04-27T11:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Flash Synth (2019)]]></summary>
-        <author>
-            <name>unwind</name>
-            <uri>https://news.ycombinator.com/user?id=unwind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Rust中实现具有故障检测功能的分散式集群成员制]]></title>
-        <id>https://news.ycombinator.com/item?id=31190586</id>
-        <link href="https://news.ycombinator.com/item?id=31190586"/>
-        <updated>2022-04-28T09:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Implementing a decentralized cluster membership with failure detection in rust]]></summary>
-        <author>
-            <name>evanxg852000</name>
-            <uri>https://news.ycombinator.com/user?id=evanxg852000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国宇航局的火星直升机发现了帮助毅力车着陆的齿轮]]></title>
-        <id>https://news.ycombinator.com/item?id=31190306</id>
-        <link href="https://news.ycombinator.com/item?id=31190306"/>
-        <updated>2022-04-28T09:15:02.000Z</updated>
-        <summary type="html"><![CDATA[NASA’s Mars Helicopter Spots Gear That Helped Perseverance Rover Land]]></summary>
-        <author>
-            <name>revorad</name>
-            <uri>https://news.ycombinator.com/user?id=revorad</uri>
         </author>
     </entry>
 </feed>
