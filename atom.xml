@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T11:44:19.153Z</updated>
+    <updated>2022-06-09T11:59:55.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python Live GUI - Dear ImGUI 和 Phoenix LiveView 的混合体
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679945</id>
+        <link href="https://news.ycombinator.com/item?id=31679945"/>
+        <updated>2022-06-09T11:37:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView]]></summary>
+        <author>
+            <name>RupertWiser</name>
+            <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公共CDN是无用和危险的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679872</id>
+        <link href="https://news.ycombinator.com/item?id=31679872"/>
+        <updated>2022-06-09T11:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Public CDNs Are Useless and Dangerous]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Go编写的开源身份服务器 (Ory Kratos)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Michelangelo11</name>
             <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模糊的书
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598335</id>
-        <link href="https://news.ycombinator.com/item?id=31598335"/>
-        <updated>2022-06-02T17:59:46.000Z</updated>
-        <summary type="html"><![CDATA[The Fuzzing Book]]></summary>
-        <author>
-            <name>evmunro</name>
-            <uri>https://news.ycombinator.com/user?id=evmunro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国有线电视新闻网（CNN）减少了对一切 "突发新闻 "的过度炒作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598324</id>
-        <link href="https://news.ycombinator.com/item?id=31598324"/>
-        <updated>2022-06-02T17:59:14.000Z</updated>
-        <summary type="html"><![CDATA[CNN cutting back on over-hyping everything as “breaking news”]]></summary>
-        <author>
-            <name>asplake</name>
-            <uri>https://news.ycombinator.com/user?id=asplake</uri>
         </author>
     </entry>
 </feed>
