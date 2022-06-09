@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T14:33:23.527Z</updated>
+    <updated>2022-06-09T14:46:43.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Valetudo。真空機器人的開源雲替代產品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31665872</id>
+        <link href="https://news.ycombinator.com/item?id=31665872"/>
+        <updated>2022-06-08T11:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Valetudo: Open-source cloud replacement for vacuum robots]]></summary>
+        <author>
+            <name>lapser</name>
+            <uri>https://news.ycombinator.com/user?id=lapser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我懷念Usenet。是否有任何現代的對應物？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tempsy</name>
             <uri>https://news.ycombinator.com/user?id=tempsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptible（YC S14）正在為我們的安全、合規的PaaS替代Heroku進行招聘。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31600446</id>
-        <link href="https://news.ycombinator.com/item?id=31600446"/>
-        <updated>2022-06-02T21:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku]]></summary>
-        <author>
-            <name>fancyremarker</name>
-            <uri>https://news.ycombinator.com/user?id=fancyremarker</uri>
         </author>
     </entry>
 </feed>
