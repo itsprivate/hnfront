@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T17:45:34.001Z</updated>
+    <updated>2022-06-09T18:02:29.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蒙蒂-霍爾問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31683850</id>
+        <link href="https://news.ycombinator.com/item?id=31683850"/>
+        <updated>2022-06-09T17:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Monty Hall Problem]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[協議，而不是平臺。自由言論的技術方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31682569</id>
+        <link href="https://news.ycombinator.com/item?id=31682569"/>
+        <updated>2022-06-09T15:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Protocols, Not Platforms: A Technological Approach to Free Speech]]></summary>
+        <author>
+            <name>uberdru</name>
+            <uri>https://news.ycombinator.com/user?id=uberdru</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軟件公司的死亡 (1995) [pdf]
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鑄鐵調味品的化學。一個基於科學的方法 (2010)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595899</id>
-        <link href="https://news.ycombinator.com/item?id=31595899"/>
-        <updated>2022-06-02T15:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Chemistry of Cast Iron Seasoning: A Science-Based How-To (2010)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子商務的Racket
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603536</id>
-        <link href="https://news.ycombinator.com/item?id=31603536"/>
-        <updated>2022-06-03T02:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Racket for E-Commerce]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
