@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T15:50:19.488Z</updated>
+    <updated>2022-06-09T16:03:38.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[複雜軟件的崩潰
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31682303</id>
+        <link href="https://news.ycombinator.com/item?id=31682303"/>
+        <updated>2022-06-09T15:18:12.000Z</updated>
+        <summary type="html"><![CDATA[The Collapse of Complex Software]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼核電建設成本如此之高？第一部分
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jger15</name>
             <uri>https://news.ycombinator.com/user?id=jger15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在這個行業中，你必須遵循你的直覺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31575329</id>
-        <link href="https://news.ycombinator.com/item?id=31575329"/>
-        <updated>2022-05-31T21:44:20.000Z</updated>
-        <summary type="html"><![CDATA[You have to follow your instincts in this business]]></summary>
-        <author>
-            <name>timmb</name>
-            <uri>https://news.ycombinator.com/user?id=timmb</uri>
         </author>
     </entry>
 </feed>
