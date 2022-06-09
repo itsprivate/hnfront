@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 09 Jun 2022 11:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 11:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Go编写的开源身份服务器 (Ory Kratos)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31679811</link>
+            <guid>https://news.ycombinator.com/item?id=31679811</guid>
+            <pubDate>Thu, 09 Jun 2022 11:17:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-Source Identity Server Written in Go (Ory Kratos)]]></description>
+        </item>
         <item>
             <title><![CDATA[飞虎队倒计时钟的神秘行为（和错误）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31598324</guid>
             <pubDate>Thu, 02 Jun 2022 17:59:14 GMT</pubDate>
             <description><![CDATA[CNN cutting back on over-hyping everything as “breaking news”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[创建你的第一个Node.js GitHub动作，如何操作指南
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31598144</link>
-            <guid>https://news.ycombinator.com/item?id=31598144</guid>
-            <pubDate>Thu, 02 Jun 2022 17:43:47 GMT</pubDate>
-            <description><![CDATA[Create Your First Node.js GitHub Action, a How-To Guide]]></description>
         </item>
     </channel>
 </rss>

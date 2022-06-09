@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T11:30:59.407Z</updated>
+    <updated>2022-06-09T11:44:19.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Go編寫的開源身份服務器 (Ory Kratos)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679811</id>
+        <link href="https://news.ycombinator.com/item?id=31679811"/>
+        <updated>2022-06-09T11:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Identity Server Written in Go (Ory Kratos)]]></summary>
+        <author>
+            <name>nottennis</name>
+            <uri>https://news.ycombinator.com/user?id=nottennis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[飛虎隊倒計時鐘的神秘行為（和錯誤）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>asplake</name>
             <uri>https://news.ycombinator.com/user?id=asplake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創建你的第一個Node.js GitHub動作，如何操作指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598144</id>
-        <link href="https://news.ycombinator.com/item?id=31598144"/>
-        <updated>2022-06-02T17:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Create Your First Node.js GitHub Action, a How-To Guide]]></summary>
-        <author>
-            <name>lizparody23</name>
-            <uri>https://news.ycombinator.com/user?id=lizparody23</uri>
         </author>
     </entry>
 </feed>
