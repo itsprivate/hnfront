@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T22:31:12.764Z</updated>
+    <updated>2022-06-09T22:52:35.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重要的PostgreSQL 14更新以避免索引的无声损坏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31687782</id>
+        <link href="https://news.ycombinator.com/item?id=31687782"/>
+        <updated>2022-06-09T22:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Important PostgreSQL 14 update to avoid silent corruption of indexes]]></summary>
+        <author>
+            <name>avi_vallarapu</name>
+            <uri>https://news.ycombinator.com/user?id=avi_vallarapu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弥补Linux上的同步差距
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31685767</id>
+        <link href="https://news.ycombinator.com/item?id=31685767"/>
+        <updated>2022-06-09T19:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Bridging the synchronization gap on Linux]]></summary>
+        <author>
+            <name>mfilion</name>
+            <uri>https://news.ycombinator.com/user?id=mfilion</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Python中引发异常或返回错误对象
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31678199</id>
+        <link href="https://news.ycombinator.com/item?id=31678199"/>
+        <updated>2022-06-09T06:40:07.000Z</updated>
+        <summary type="html"><![CDATA[Raising exceptions or returning error objects in Python]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家探测到来自另一个星系的无线电信号
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>marban</name>
             <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战争雷霆论坛上的机密规格第三次被泄露
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605345</id>
-        <link href="https://news.ycombinator.com/item?id=31605345"/>
-        <updated>2022-06-03T07:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Classified specs leaked on War Thunder forum for third time]]></summary>
-        <author>
-            <name>haunter</name>
-            <uri>https://news.ycombinator.com/user?id=haunter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比较Kubernetes中的Ceph、Linstor、Mayastor和Vitastor存储性能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605302</id>
-        <link href="https://news.ycombinator.com/item?id=31605302"/>
-        <updated>2022-06-03T07:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Comparing Ceph, Linstor, Mayastor and Vitastor Storage Performance in Kubernetes]]></summary>
-        <author>
-            <name>kvaps</name>
-            <uri>https://news.ycombinator.com/user?id=kvaps</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方的命名方式浪费了多少人的时间？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605275</id>
-        <link href="https://news.ycombinator.com/item?id=31605275"/>
-        <updated>2022-06-03T07:26:18.000Z</updated>
-        <summary type="html"><![CDATA[How many man years are wasted with western naming convensions?]]></summary>
-        <author>
-            <name>drudru</name>
-            <uri>https://news.ycombinator.com/user?id=drudru</uri>
         </author>
     </entry>
 </feed>
