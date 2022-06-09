@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T21:46:14.033Z</updated>
+    <updated>2022-06-09T22:31:12.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科学家探测到来自另一个星系的无线电信号
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31687131</id>
+        <link href="https://news.ycombinator.com/item?id=31687131"/>
+        <updated>2022-06-09T21:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Radio signal coming from another galaxy detected by scientists]]></summary>
+        <author>
+            <name>baghali</name>
+            <uri>https://news.ycombinator.com/user?id=baghali</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quiescence 搜索
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>drudru</name>
             <uri>https://news.ycombinator.com/user?id=drudru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在OpenBSD上运行一个Minecraft服务器 -current
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605261</id>
-        <link href="https://news.ycombinator.com/item?id=31605261"/>
-        <updated>2022-06-03T07:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Running a Minecraft server on OpenBSD -current]]></summary>
-        <author>
-            <name>hucste</name>
-            <uri>https://news.ycombinator.com/user?id=hucste</uri>
         </author>
     </entry>
 </feed>
