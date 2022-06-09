@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T09:49:25.739Z</updated>
+    <updated>2022-06-09T09:59:51.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-韋伯太空望遠鏡被一顆小隕石擊中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679167</id>
+        <link href="https://news.ycombinator.com/item?id=31679167"/>
+        <updated>2022-06-09T09:18:02.000Z</updated>
+        <summary type="html"><![CDATA[James Webb Space Telescope hit by a tiny meteorite]]></summary>
+        <author>
+            <name>huhtenberg</name>
+            <uri>https://news.ycombinator.com/user?id=huhtenberg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司什麼時候會出貨其他M2 Mac？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danieljyoo</name>
             <uri>https://news.ycombinator.com/user?id=danieljyoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刪除HN上的YC"[公司]正在招聘 "廣告
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31597486</id>
-        <link href="https://news.ycombinator.com/item?id=31597486"/>
-        <updated>2022-06-02T16:59:53.000Z</updated>
-        <summary type="html"><![CDATA[Remove YC “[company] is hiring” ads on HN]]></summary>
-        <author>
-            <name>esrh</name>
-            <uri>https://news.ycombinator.com/user?id=esrh</uri>
         </author>
     </entry>
 </feed>
