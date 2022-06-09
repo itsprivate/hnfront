@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T21:27:06.304Z</updated>
+    <updated>2022-06-09T21:46:14.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Quiescence 搜索
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31677730</id>
+        <link href="https://news.ycombinator.com/item?id=31677730"/>
+        <updated>2022-06-09T05:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Quiescence Search]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物理学家发现坐在桌面上的从未见过的粒子
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hucste</name>
             <uri>https://news.ycombinator.com/user?id=hucste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python库跟踪能源消耗并计算你的碳排放量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605243</id>
-        <link href="https://news.ycombinator.com/item?id=31605243"/>
-        <updated>2022-06-03T07:20:33.000Z</updated>
-        <summary type="html"><![CDATA[Python library tracks energy consumption and calculates your carbon emissions]]></summary>
-        <author>
-            <name>fvaleye</name>
-            <uri>https://news.ycombinator.com/user?id=fvaleye</uri>
         </author>
     </entry>
 </feed>
