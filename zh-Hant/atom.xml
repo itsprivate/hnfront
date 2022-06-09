@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-09T14:46:43.962Z</updated>
+    <updated>2022-06-09T15:02:27.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Strlen()使《GTA 5》的加載時間減慢70%（2021年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681515</id>
+        <link href="https://news.ycombinator.com/item?id=31681515"/>
+        <updated>2022-06-09T14:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Strlen() slowed loading times in GTA 5 by 70% (2021)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有異步（硬）部分的Rust
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681373</id>
+        <link href="https://news.ycombinator.com/item?id=31681373"/>
+        <updated>2022-06-09T14:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Rust without the async (hard) part]]></summary>
+        <author>
+            <name>taldridge</name>
+            <uri>https://news.ycombinator.com/user?id=taldridge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valetudo。真空機器人的開源雲替代產品
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用激光筆在等離子顯示器上繪圖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31600612</id>
-        <link href="https://news.ycombinator.com/item?id=31600612"/>
-        <updated>2022-06-02T21:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Drawing on a plasma display with a laser pointer]]></summary>
-        <author>
-            <name>codetrotter</name>
-            <uri>https://news.ycombinator.com/user?id=codetrotter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[招聘計劃的最新情況
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31600505</id>
-        <link href="https://news.ycombinator.com/item?id=31600505"/>
-        <updated>2022-06-02T21:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Update on Hiring Plans]]></summary>
-        <author>
-            <name>tempsy</name>
-            <uri>https://news.ycombinator.com/user?id=tempsy</uri>
         </author>
     </entry>
 </feed>
