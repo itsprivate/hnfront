@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-10T08:35:51.818Z</updated>
+    <updated>2022-06-10T08:52:00.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[昔日的锁业先锋
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679109</id>
+        <link href="https://news.ycombinator.com/item?id=31679109"/>
+        <updated>2022-06-09T09:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Lock Pioneers of the Past]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta公司因其算法导致的社交媒体成瘾而被起诉
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>martincmartin</name>
             <uri>https://news.ycombinator.com/user?id=martincmartin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的Mega65已经到达
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31579577</id>
-        <link href="https://news.ycombinator.com/item?id=31579577"/>
-        <updated>2022-06-01T08:57:09.000Z</updated>
-        <summary type="html"><![CDATA[My Mega65 Has Arrived]]></summary>
-        <author>
-            <name>ibobev</name>
-            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
         </author>
     </entry>
 </feed>
