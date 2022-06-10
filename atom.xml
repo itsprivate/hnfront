@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-10T20:46:44.325Z</updated>
+    <updated>2022-06-10T20:59:26.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[围棋中的数据竞赛模式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31698503</id>
+        <link href="https://news.ycombinator.com/item?id=31698503"/>
+        <updated>2022-06-10T19:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Data Race Patterns in Go]]></summary>
+        <author>
+            <name>statenjason</name>
+            <uri>https://news.ycombinator.com/user?id=statenjason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何做你喜欢的事 (2006)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679876</id>
+        <link href="https://news.ycombinator.com/item?id=31679876"/>
+        <updated>2022-06-09T11:27:03.000Z</updated>
+        <summary type="html"><![CDATA[How to Do What You Love (2006)]]></summary>
+        <author>
+            <name>revorad</name>
+            <uri>https://news.ycombinator.com/user?id=revorad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梅塔对谢丽尔-桑德伯格几年来对Facebook资源的使用情况进行了审查
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>paulcarroty</name>
             <uri>https://news.ycombinator.com/user?id=paulcarroty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向Web3的转移将使人们受到伤害
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618430</id>
-        <link href="https://news.ycombinator.com/item?id=31618430"/>
-        <updated>2022-06-04T09:14:41.000Z</updated>
-        <summary type="html"><![CDATA[The Pivot to Web3 Is Going to Get People Hurt]]></summary>
-        <author>
-            <name>hooande</name>
-            <uri>https://news.ycombinator.com/user?id=hooande</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于有争议的后门法，WhatsApp威胁要离开荷兰
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618657</id>
-        <link href="https://news.ycombinator.com/item?id=31618657"/>
-        <updated>2022-06-04T10:01:45.000Z</updated>
-        <summary type="html"><![CDATA[WhatsApp threatened to leave the Netherlands due to controversial backdoor law]]></summary>
-        <author>
-            <name>_han</name>
-            <uri>https://news.ycombinator.com/user?id=_han</uri>
         </author>
     </entry>
 </feed>
