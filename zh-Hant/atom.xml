@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-10T13:51:16.302Z</updated>
+    <updated>2022-06-10T14:03:02.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[麻省理工學院研究人員發現蘋果M1芯片存在 "無法修補 "的缺陷
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31693490</id>
+        <link href="https://news.ycombinator.com/item?id=31693490"/>
+        <updated>2022-06-10T13:03:01.000Z</updated>
+        <summary type="html"><![CDATA[MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips]]></summary>
+        <author>
+            <name>markus_zhang</name>
+            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD 7.1 on PINE64 RockPro64
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31692011</id>
+        <link href="https://news.ycombinator.com/item?id=31692011"/>
+        <updated>2022-06-10T09:57:32.000Z</updated>
+        <summary type="html"><![CDATA[OpenBSD 7.1 on PINE64 RockPro64]]></summary>
+        <author>
+            <name>hucste</name>
+            <uri>https://news.ycombinator.com/user?id=hucste</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox 360架構
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31678045</id>
+        <link href="https://news.ycombinator.com/item?id=31678045"/>
+        <updated>2022-06-09T06:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Xbox 360 Architecture]]></summary>
+        <author>
+            <name>itsjloh</name>
+            <uri>https://news.ycombinator.com/user?id=itsjloh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用語言模型分析頂級HN帖子
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>Arubis</name>
             <uri>https://news.ycombinator.com/user?id=Arubis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國人被他們的雜貨店服務得很差
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31613579</id>
-        <link href="https://news.ycombinator.com/item?id=31613579"/>
-        <updated>2022-06-03T21:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Americans are poorly served by their grocery stores]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skio（Shopify的訂閱，輕鬆實現ReCharge遷移）正在紐約市招聘。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31613555</id>
-        <link href="https://news.ycombinator.com/item?id=31613555"/>
-        <updated>2022-06-03T21:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC]]></summary>
-        <author>
-            <name>kennandavison</name>
-            <uri>https://news.ycombinator.com/user?id=kennandavison</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OVHcloud火災集體訴訟達到140名客戶，要求賠償超過1000萬歐元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31612413</id>
-        <link href="https://news.ycombinator.com/item?id=31612413"/>
-        <updated>2022-06-03T19:10:28.000Z</updated>
-        <summary type="html"><![CDATA[OVHcloud fire class action reaches 140 clients, seeks more than €10m]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
