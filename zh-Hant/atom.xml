@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-10T19:27:27.457Z</updated>
+    <updated>2022-06-10T19:45:12.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌不再在Play Store中列出應用程序的權限
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31698148</id>
+        <link href="https://news.ycombinator.com/item?id=31698148"/>
+        <updated>2022-06-10T19:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Google does not list application permissions in the Play Store any more]]></summary>
+        <author>
+            <name>datalist</name>
+            <uri>https://news.ycombinator.com/user?id=datalist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作、技術和犯罪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31698127</id>
+        <link href="https://news.ycombinator.com/item?id=31698127"/>
+        <updated>2022-06-10T19:02:14.000Z</updated>
+        <summary type="html"><![CDATA[The Work, the Tech, and the Crime]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在2007年的小程序，給Internet Explorer的標籤
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>druther</name>
             <uri>https://news.ycombinator.com/user?id=druther</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[親愛的Spotify。我們能不能只得到歌曲的表？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618092</id>
-        <link href="https://news.ycombinator.com/item?id=31618092"/>
-        <updated>2022-06-04T08:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Dear Spotify. Can we just get table of songs?]]></summary>
-        <author>
-            <name>neilpanchal</name>
-            <uri>https://news.ycombinator.com/user?id=neilpanchal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像素藝術。常見錯誤 (2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31617921</id>
-        <link href="https://news.ycombinator.com/item?id=31617921"/>
-        <updated>2022-06-04T07:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Pixel Art: Common Mistakes (2020)]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
