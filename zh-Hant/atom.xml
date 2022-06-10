@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-10T05:44:36.509Z</updated>
+    <updated>2022-06-10T06:33:42.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否正在遭受有毒生產力的折磨？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31690239</id>
+        <link href="https://news.ycombinator.com/item?id=31690239"/>
+        <updated>2022-06-10T05:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Are You Suffering from Toxic Productivity?]]></summary>
+        <author>
+            <name>jackdelaney</name>
+            <uri>https://news.ycombinator.com/user?id=jackdelaney</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[捕捉節拍 (2011)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jmsflknr</name>
             <uri>https://news.ycombinator.com/user?id=jmsflknr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4萬枚硬幣的拋擲產生了動態偏差的模稜兩可的證據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31609175</id>
-        <link href="https://news.ycombinator.com/item?id=31609175"/>
-        <updated>2022-06-03T14:57:03.000Z</updated>
-        <summary type="html"><![CDATA[40k coin tosses yield ambiguous evidence for dynamical bias]]></summary>
-        <author>
-            <name>geocrasher</name>
-            <uri>https://news.ycombinator.com/user?id=geocrasher</uri>
         </author>
     </entry>
 </feed>
