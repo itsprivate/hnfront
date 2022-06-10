@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-10T03:45:40.669Z</updated>
+    <updated>2022-06-10T04:50:18.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tasqueue - Go中简单、可定制的分布式作业/工作器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31665924</id>
+        <link href="https://news.ycombinator.com/item?id=31665924"/>
+        <updated>2022-06-08T11:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tasqueue – A simple, customisable distributed job/worker in Go]]></summary>
+        <author>
+            <name>Inetenbr</name>
+            <uri>https://news.ycombinator.com/user?id=Inetenbr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是一个有效的域名（删除www）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>theafh</name>
             <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[室内空气过滤可能导致空气中的内毒素含量增加
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31607942</id>
-        <link href="https://news.ycombinator.com/item?id=31607942"/>
-        <updated>2022-06-03T13:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Indoor air filtration could lead to increased airborne endotoxin levels]]></summary>
-        <author>
-            <name>mightymercado</name>
-            <uri>https://news.ycombinator.com/user?id=mightymercado</uri>
         </author>
     </entry>
 </feed>
