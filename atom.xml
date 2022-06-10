@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-10T21:25:48.014Z</updated>
+    <updated>2022-06-10T21:46:16.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人工智能可以打败我们所有人的总和
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699468</id>
+        <link href="https://news.ycombinator.com/item?id=31699468"/>
+        <updated>2022-06-10T21:17:45.000Z</updated>
+        <summary type="html"><![CDATA[AI Could Defeat All of Us Combined]]></summary>
+        <author>
+            <name>dwohnitmok</name>
+            <uri>https://news.ycombinator.com/user?id=dwohnitmok</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TBD Web5
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>CHEF-KOCH</name>
             <uri>https://news.ycombinator.com/user?id=CHEF-KOCH</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄影编程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31579219</id>
-        <link href="https://news.ycombinator.com/item?id=31579219"/>
-        <updated>2022-06-01T07:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Photographic Programming]]></summary>
-        <author>
-            <name>sargstuff</name>
-            <uri>https://news.ycombinator.com/user?id=sargstuff</uri>
         </author>
     </entry>
 </feed>
