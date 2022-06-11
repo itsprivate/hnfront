@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-11T21:23:47.967Z</updated>
+    <updated>2022-06-11T21:46:27.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你知道的最酷的网站是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708366</id>
+        <link href="https://news.ycombinator.com/item?id=31708366"/>
+        <updated>2022-06-11T21:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the coolest website you know?]]></summary>
+        <author>
+            <name>lagrange77</name>
+            <uri>https://news.ycombinator.com/user?id=lagrange77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个与laravel管道一起使用的查询数据库集合
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abmagick - 滥用ImageMagick来创建任意文件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31604916</id>
-        <link href="https://news.ycombinator.com/item?id=31604916"/>
-        <updated>2022-06-03T06:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Abmagick – abuse ImageMagick to create arbitrary files]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>

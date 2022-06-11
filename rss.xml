@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 11 Jun 2022 21:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 21:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你知道的最酷的网站是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31708366</link>
+            <guid>https://news.ycombinator.com/item?id=31708366</guid>
+            <pubDate>Sat, 11 Jun 2022 21:02:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's the coolest website you know?]]></description>
+        </item>
         <item>
             <title><![CDATA[一个与laravel管道一起使用的查询数据库集合
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31628939</guid>
             <pubDate>Sun, 05 Jun 2022 08:03:13 GMT</pubDate>
             <description><![CDATA[Gitea – a painless self-hosted Git service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Abmagick - 滥用ImageMagick来创建任意文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31604916</link>
-            <guid>https://news.ycombinator.com/item?id=31604916</guid>
-            <pubDate>Fri, 03 Jun 2022 06:26:12 GMT</pubDate>
-            <description><![CDATA[Abmagick – abuse ImageMagick to create arbitrary files]]></description>
         </item>
     </channel>
 </rss>
