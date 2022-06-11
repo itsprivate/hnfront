@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-11T22:27:43.243Z</updated>
+    <updated>2022-06-11T22:58:13.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[杠铃策略的例子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705667</id>
+        <link href="https://news.ycombinator.com/item?id=31705667"/>
+        <updated>2022-06-11T16:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Examples of Barbell Strategies]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WT.Social
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Michelangelo11</name>
             <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么播客/有声读物没有为听错的单词设置封闭式字幕？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31630014</id>
-        <link href="https://news.ycombinator.com/item?id=31630014"/>
-        <updated>2022-06-05T11:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why don't podcasts/audiobooks have closed captions for misheard words?]]></summary>
-        <author>
-            <name>amichail</name>
-            <uri>https://news.ycombinator.com/user?id=amichail</uri>
         </author>
     </entry>
 </feed>
