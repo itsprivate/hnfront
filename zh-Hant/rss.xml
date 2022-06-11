@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 11 Jun 2022 11:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 11:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個Facebook爬蟲每天向我的愚蠢網站發出7百萬次請求（2020年）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31703087</link>
+            <guid>https://news.ycombinator.com/item?id=31703087</guid>
+            <pubDate>Sat, 11 Jun 2022 09:15:08 GMT</pubDate>
+            <description><![CDATA[A Facebook crawler was making 7M requests per day to my stupid website (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[訴訟威脅到互聯網檔案館，活動家們團結起來拯救互聯網檔案館（2020）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31617072</guid>
             <pubDate>Sat, 04 Jun 2022 04:45:08 GMT</pubDate>
             <description><![CDATA[The Beauty of Unix Pipelines (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[還有人對亞馬遜迅速失去信心嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31624401</link>
-            <guid>https://news.ycombinator.com/item?id=31624401</guid>
-            <pubDate>Sat, 04 Jun 2022 19:52:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone else quickly losing confidence in Amazon?]]></description>
         </item>
     </channel>
 </rss>
