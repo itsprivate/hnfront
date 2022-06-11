@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-11T21:46:27.607Z</updated>
+    <updated>2022-06-11T22:27:43.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WT.Social
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31706842</id>
+        <link href="https://news.ycombinator.com/item?id=31706842"/>
+        <updated>2022-06-11T18:28:48.000Z</updated>
+        <summary type="html"><![CDATA[WT.Social]]></summary>
+        <author>
+            <name>goplayoutside</name>
+            <uri>https://news.ycombinator.com/user?id=goplayoutside</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发情原则
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699336</id>
+        <link href="https://news.ycombinator.com/item?id=31699336"/>
+        <updated>2022-06-10T21:02:24.000Z</updated>
+        <summary type="html"><![CDATA[The Rut Principle]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道的最酷的网站是什么？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>amichail</name>
             <uri>https://news.ycombinator.com/user?id=amichail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发生在六月的一天
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611478</id>
-        <link href="https://news.ycombinator.com/item?id=31611478"/>
-        <updated>2022-06-03T17:47:47.000Z</updated>
-        <summary type="html"><![CDATA[It Happened One Day in June]]></summary>
-        <author>
-            <name>lermontov</name>
-            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitea - 一个无痛的自我托管的Git服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628939</id>
-        <link href="https://news.ycombinator.com/item?id=31628939"/>
-        <updated>2022-06-05T08:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Gitea – a painless self-hosted Git service]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
