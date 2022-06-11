@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-11T10:30:01.089Z</updated>
+    <updated>2022-06-11T10:47:01.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蟲子。一個用Nim編寫的動態、基於標籤的窗口管理器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31702571</id>
+        <link href="https://news.ycombinator.com/item?id=31702571"/>
+        <updated>2022-06-11T07:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Worm: A dynamic, tag-based window manager written in Nim]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任天堂的剋星馬克斯-盧安。黑客、反叛者和被聯邦調查局通緝的人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gumby</name>
             <uri>https://news.ycombinator.com/user?id=gumby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unix管道的起源 (1964)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31623522</id>
-        <link href="https://news.ycombinator.com/item?id=31623522"/>
-        <updated>2022-06-04T18:17:32.000Z</updated>
-        <summary type="html"><![CDATA[The Origin of Unix Pipes (1964)]]></summary>
-        <author>
-            <name>dp-hackernews</name>
-            <uri>https://news.ycombinator.com/user?id=dp-hackernews</uri>
         </author>
     </entry>
 </feed>
