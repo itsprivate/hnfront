@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-11T05:24:53.544Z</updated>
+    <updated>2022-06-11T05:44:03.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加利福尼亚野火烟雾在欧洲上空。气溶胶观测的第一个例子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=26531943</id>
+        <link href="https://news.ycombinator.com/item?id=26531943"/>
+        <updated>2021-03-21T17:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巨大的 "无赖波 "可能突然出现
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>croes</name>
             <uri>https://news.ycombinator.com/user?id=croes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你将在Inkscape 1.2版中找到的东西
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31620777</id>
-        <link href="https://news.ycombinator.com/item?id=31620777"/>
-        <updated>2022-06-04T14:33:24.000Z</updated>
-        <summary type="html"><![CDATA[What you’ll find inside Inkscape version 1.2]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
         </author>
     </entry>
 </feed>
