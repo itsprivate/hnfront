@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-11T19:46:17.223Z</updated>
+    <updated>2022-06-11T19:57:51.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉。設計自動駕駛程序，在撞擊前不到一秒關閉
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31707411</id>
+        <link href="https://news.ycombinator.com/item?id=31707411"/>
+        <updated>2022-06-11T19:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Tesla: Designing autopilot program to shut off less than a second before impact]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鼓勵NHS建立一個小型的網絡服務
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rntn</name>
             <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷蘭航空公司飛行員協會阻止對新飛行員進行強制性的疫苗接種
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31629073</id>
-        <link href="https://news.ycombinator.com/item?id=31629073"/>
-        <updated>2022-06-05T08:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Dutch Airline Pilots Association blocks mandated vaccinations for new pilots]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
         </author>
     </entry>
 </feed>
