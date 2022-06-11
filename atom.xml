@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-11T11:24:32.137Z</updated>
+    <updated>2022-06-11T11:43:54.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[呼叫中心
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31702913</id>
+        <link href="https://news.ycombinator.com/item?id=31702913"/>
+        <updated>2022-06-11T08:32:16.000Z</updated>
+        <summary type="html"><![CDATA[OpenSMTPD]]></summary>
+        <author>
+            <name>rdpintqogeogsaa</name>
+            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个Facebook爬虫每天向我的愚蠢网站发出7百万次请求（2020年）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>malisper</name>
             <uri>https://news.ycombinator.com/user?id=malisper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unix管道之美 (2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31617072</id>
-        <link href="https://news.ycombinator.com/item?id=31617072"/>
-        <updated>2022-06-04T04:45:08.000Z</updated>
-        <summary type="html"><![CDATA[The Beauty of Unix Pipelines (2020)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
         </author>
     </entry>
 </feed>
