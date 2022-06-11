@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-11T06:33:05.293Z</updated>
+    <updated>2022-06-11T06:52:06.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分析魚類新鮮度的電子舌 (2008) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=29048079</id>
+        <link href="https://news.ycombinator.com/item?id=29048079"/>
+        <updated>2021-10-30T11:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Electronic tongue to analyze fish freshness (2008) [pdf]]]></summary>
+        <author>
+            <name>antvo</name>
+            <uri>https://news.ycombinator.com/user?id=antvo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.19 Beta 1已發佈
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[強大的C語言編譯器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31621437</id>
-        <link href="https://news.ycombinator.com/item?id=31621437"/>
-        <updated>2022-06-04T15:27:27.000Z</updated>
-        <summary type="html"><![CDATA[The Power C Compiler]]></summary>
-        <author>
-            <name>pseale</name>
-            <uri>https://news.ycombinator.com/user?id=pseale</uri>
         </author>
     </entry>
 </feed>
