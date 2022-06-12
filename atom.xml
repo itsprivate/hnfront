@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T08:32:58.145Z</updated>
+    <updated>2022-06-12T08:49:39.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PageToSheet: 从任何网页上下载表格到Excel
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712432</id>
+        <link href="https://news.ycombinator.com/item?id=31712432"/>
+        <updated>2022-06-12T07:35:32.000Z</updated>
+        <summary type="html"><![CDATA[PageToSheet: Download Tables from Any Webpage to Excel]]></summary>
+        <author>
+            <name>yolo123</name>
+            <uri>https://news.ycombinator.com/user?id=yolo123</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust中的开源联合链接聚合器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712332</id>
+        <link href="https://news.ycombinator.com/item?id=31712332"/>
+        <updated>2022-06-12T07:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Open Source federated link aggregator in rust]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java中的SIMD加速排序--它是如何工作的，为什么它的速度是3倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31703471</id>
+        <link href="https://news.ycombinator.com/item?id=31703471"/>
+        <updated>2022-06-11T10:39:12.000Z</updated>
+        <summary type="html"><![CDATA[SIMD accelerated sorting in Java – how it works and why it was 3x faster]]></summary>
+        <author>
+            <name>CHY872</name>
+            <uri>https://news.ycombinator.com/user?id=CHY872</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计算机是一种固有的压迫性技术
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>Caiero</name>
             <uri>https://news.ycombinator.com/user?id=Caiero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[坦克大逃亡的机器人代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31632801</id>
-        <link href="https://news.ycombinator.com/item?id=31632801"/>
-        <updated>2022-06-05T17:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Robocode Tank Royale]]></summary>
-        <author>
-            <name>gioazzi</name>
-            <uri>https://news.ycombinator.com/user?id=gioazzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在美国政治捐赠中，加密货币行业使国防部和大药厂黯然失色
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31632714</id>
-        <link href="https://news.ycombinator.com/item?id=31632714"/>
-        <updated>2022-06-05T16:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Industry Eclipses Defense, Big Pharma in US Political Giving]]></summary>
-        <author>
-            <name>keewee7</name>
-            <uri>https://news.ycombinator.com/user?id=keewee7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的安慰剂对照研究显示，LSD微剂量似乎不能改善情绪
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31632680</id>
-        <link href="https://news.ycombinator.com/item?id=31632680"/>
-        <updated>2022-06-05T16:52:13.000Z</updated>
-        <summary type="html"><![CDATA[LSD microdosing does not appear to improve mood, new placebo-controlled study]]></summary>
-        <author>
-            <name>basisword</name>
-            <uri>https://news.ycombinator.com/user?id=basisword</uri>
         </author>
     </entry>
 </feed>
