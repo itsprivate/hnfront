@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T09:46:23.486Z</updated>
+    <updated>2022-06-12T10:46:22.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[转世者》。托马斯-卡莱尔的精神世界》(1920)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31701038</id>
+        <link href="https://news.ycombinator.com/item?id=31701038"/>
+        <updated>2022-06-11T01:07:43.000Z</updated>
+        <summary type="html"><![CDATA[The Discarnates: Thomas Carlyle in the Spirit-World (1920)]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[考古学界轰动一时。伊拉克水库重现古城风貌
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gnicholas</name>
             <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirrord - 将生产流量镜像到你的开发环境中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31633481</id>
-        <link href="https://news.ycombinator.com/item?id=31633481"/>
-        <updated>2022-06-05T18:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Mirrord – mirror production traffic to your development environment]]></summary>
-        <author>
-            <name>capableweb</name>
-            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
         </author>
     </entry>
 </feed>
