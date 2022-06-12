@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T21:24:31.757Z</updated>
+    <updated>2022-06-12T21:47:22.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Safari的網絡推送
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718068</id>
+        <link href="https://news.ycombinator.com/item?id=31718068"/>
+        <updated>2022-06-12T20:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Web Push for Safari]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BuildZoom（建造定製房屋的更好方法）正在招聘一名首席工程師
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wolframhempel</name>
             <uri>https://news.ycombinator.com/user?id=wolframhempel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yandex首席執行官在被歐盟制裁後辭職
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31638526</id>
-        <link href="https://news.ycombinator.com/item?id=31638526"/>
-        <updated>2022-06-06T09:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Yandex CEO resigns after being targeted by EU sanctions]]></summary>
-        <author>
-            <name>marban</name>
-            <uri>https://news.ycombinator.com/user?id=marban</uri>
         </author>
     </entry>
 </feed>
