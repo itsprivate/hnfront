@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T22:27:33.243Z</updated>
+    <updated>2022-06-12T22:58:55.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPT-3可能是一只松鼠
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718295</id>
+        <link href="https://news.ycombinator.com/item?id=31718295"/>
+        <updated>2022-06-12T21:09:14.000Z</updated>
+        <summary type="html"><![CDATA[GPT-3 may be a squirrel]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉米-卡特仍然试图在2022年保护阿拉斯加的荒地
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>karroum</name>
             <uri>https://news.ycombinator.com/user?id=karroum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为OpenStreetMap的数据模型辩护
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31638648</id>
-        <link href="https://news.ycombinator.com/item?id=31638648"/>
-        <updated>2022-06-06T09:51:51.000Z</updated>
-        <summary type="html"><![CDATA[In Defense of OpenStreetMap's Data Model]]></summary>
-        <author>
-            <name>SteveCoast</name>
-            <uri>https://news.ycombinator.com/user?id=SteveCoast</uri>
         </author>
     </entry>
 </feed>
