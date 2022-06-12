@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T16:39:25.831Z</updated>
+    <updated>2022-06-12T17:06:50.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宮崎駿和高畑勳的前吉卜力作品指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715459</id>
+        <link href="https://news.ycombinator.com/item?id=31715459"/>
+        <updated>2022-06-12T15:56:27.000Z</updated>
+        <summary type="html"><![CDATA[A Guide to the Pre-Ghibli Work of Hayao Miyazaki and Isao Takahata]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神經網絡像人類一樣 "學習"？一位神經科學家解釋了為什麼不是
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715199</id>
+        <link href="https://news.ycombinator.com/item?id=31715199"/>
+        <updated>2022-06-12T15:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Neural networks 'learn' the way humans do? A neuroscientist explains why not]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IETF的新UUID格式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715119</id>
+        <link href="https://news.ycombinator.com/item?id=31715119"/>
+        <updated>2022-06-12T15:17:32.000Z</updated>
+        <summary type="html"><![CDATA[New UUID Formats from IETF]]></summary>
+        <author>
+            <name>swyx</name>
+            <uri>https://news.ycombinator.com/user?id=swyx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[預算文化和金錢的戴夫-拉姆齊化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31714836</id>
+        <link href="https://news.ycombinator.com/item?id=31714836"/>
+        <updated>2022-06-12T14:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Budget Culture and the Dave Ramseyfication of Money]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北齋和 "偉大的萬物圖鑑"。最新研究
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711386</id>
+        <link href="https://news.ycombinator.com/item?id=31711386"/>
+        <updated>2022-06-12T04:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Hokusai and ‘The Great Picture Book of Everything’: The Latest Research]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們在圖坦王墓中忽略了什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711313</id>
+        <link href="https://news.ycombinator.com/item?id=31711313"/>
+        <updated>2022-06-12T04:03:18.000Z</updated>
+        <summary type="html"><![CDATA[What We Overlooked in King Tut’s Tomb]]></summary>
+        <author>
+            <name>Petiver</name>
+            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿特蘭特羅帕項目中的水電和工程氣候變化(2016)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31709335</id>
+        <link href="https://news.ycombinator.com/item?id=31709335"/>
+        <updated>2022-06-11T23:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Hydroelectricity and Engineered Climate Change in the Atlantropa Project (2016)]]></summary>
+        <author>
+            <name>Hooke</name>
+            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的XPS 13顯示了過薄的代價
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinygo。基於LLVM的Go編譯器，用於微控制器、WASM和CLI工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636642</id>
-        <link href="https://news.ycombinator.com/item?id=31636642"/>
-        <updated>2022-06-06T01:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Tinygo: LLVM-based Go compiler for microcontrollers, WASM, and CLI tools]]></summary>
-        <author>
-            <name>gilad</name>
-            <uri>https://news.ycombinator.com/user?id=gilad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是時候恢復AIM的信息了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31627427</id>
-        <link href="https://news.ycombinator.com/item?id=31627427"/>
-        <updated>2022-06-05T02:35:23.000Z</updated>
-        <summary type="html"><![CDATA[It's time to bring back the AIM away message]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4kb demoscene製作的源代碼 "Elevated "發佈(2016)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636482</id>
-        <link href="https://news.ycombinator.com/item?id=31636482"/>
-        <updated>2022-06-06T01:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Source code for 4kb demoscene production “Elevated” released (2016)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zipf定律
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636422</id>
-        <link href="https://news.ycombinator.com/item?id=31636422"/>
-        <updated>2022-06-06T01:11:20.000Z</updated>
-        <summary type="html"><![CDATA[Zipf's Law]]></summary>
-        <author>
-            <name>Exuma</name>
-            <uri>https://news.ycombinator.com/user?id=Exuma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立體攝像機的端到端3D手部姿勢估計
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636401</id>
-        <link href="https://news.ycombinator.com/item?id=31636401"/>
-        <updated>2022-06-06T01:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras]]></summary>
-        <author>
-            <name>upwardbound</name>
-            <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[γ-亞麻酸使舊血復新
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636246</id>
-        <link href="https://news.ycombinator.com/item?id=31636246"/>
-        <updated>2022-06-06T00:43:28.000Z</updated>
-        <summary type="html"><![CDATA[γ-Linolenic Acid Makes Old Blood New Again]]></summary>
-        <author>
-            <name>birriel</name>
-            <uri>https://news.ycombinator.com/user?id=birriel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashy - 為你的家庭實驗室提供一個自我託管的主頁
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636036</id>
-        <link href="https://news.ycombinator.com/item?id=31636036"/>
-        <updated>2022-06-06T00:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Dashy – A self-hosted homepage for your homelab]]></summary>
-        <author>
-            <name>mmmmkay</name>
-            <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
         </author>
     </entry>
 </feed>
