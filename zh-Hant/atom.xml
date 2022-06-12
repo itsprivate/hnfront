@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T23:27:32.298Z</updated>
+    <updated>2022-06-12T23:45:01.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌將吃掉它自己
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31719002</id>
+        <link href="https://news.ycombinator.com/item?id=31719002"/>
+        <updated>2022-06-12T22:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Google Will Eat Itself]]></summary>
+        <author>
+            <name>slater</name>
+            <uri>https://news.ycombinator.com/user?id=slater</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[福恩對Skifree進行逆向工程（Twitter線）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kqr</name>
             <uri>https://news.ycombinator.com/user?id=kqr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[據報道，Telegram向當局交出了用戶數據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31639232</id>
-        <link href="https://news.ycombinator.com/item?id=31639232"/>
-        <updated>2022-06-06T11:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Telegram reportedly surrendered user data to authorities]]></summary>
-        <author>
-            <name>heikrana</name>
-            <uri>https://news.ycombinator.com/user?id=heikrana</uri>
         </author>
     </entry>
 </feed>
