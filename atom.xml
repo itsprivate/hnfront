@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T07:26:00.789Z</updated>
+    <updated>2022-06-12T07:44:20.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wayfire是一个基于wlroots的Wayland合成器。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31702567</id>
+        <link href="https://news.ycombinator.com/item?id=31702567"/>
+        <updated>2022-06-11T07:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Wayfire is a Wayland compositor based on wlroots]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[经常饮用咖啡因会影响大脑结构
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jshchnz</name>
             <uri>https://news.ycombinator.com/user?id=jshchnz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[姊妹编辑(2005)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31632230</id>
-        <link href="https://news.ycombinator.com/item?id=31632230"/>
-        <updated>2022-06-05T16:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Twee Editors(2005)]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
