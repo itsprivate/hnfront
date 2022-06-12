@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T07:44:20.966Z</updated>
+    <updated>2022-06-12T08:32:58.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[计算机是一种固有的压迫性技术
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712415</id>
+        <link href="https://news.ycombinator.com/item?id=31712415"/>
+        <updated>2022-06-12T07:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Computers are an inherently oppressive technology]]></summary>
+        <author>
+            <name>hlandau</name>
+            <uri>https://news.ycombinator.com/user?id=hlandau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wayfire是一个基于wlroots的Wayland合成器。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>basisword</name>
             <uri>https://news.ycombinator.com/user?id=basisword</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新兴工具正在构建移动性能的未来，来加入我们吧
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31632754</id>
-        <link href="https://news.ycombinator.com/item?id=31632754"/>
-        <updated>2022-06-05T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Emerge Tools is building the future of mobile performance, come join us]]></summary>
-        <author>
-            <name>jshchnz</name>
-            <uri>https://news.ycombinator.com/user?id=jshchnz</uri>
         </author>
     </entry>
 </feed>
