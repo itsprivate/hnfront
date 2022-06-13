@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-12T23:45:01.032Z</updated>
+    <updated>2022-06-13T02:30:44.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fresh - 新一代的網絡框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31720110</id>
+        <link href="https://news.ycombinator.com/item?id=31720110"/>
+        <updated>2022-06-13T01:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Fresh – The next-gen web framework]]></summary>
+        <author>
+            <name>exists</name>
+            <uri>https://news.ycombinator.com/user?id=exists</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過拖動方框清理照片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718416</id>
+        <link href="https://news.ycombinator.com/item?id=31718416"/>
+        <updated>2022-06-12T21:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cleanup Photos by Dragging Boxes]]></summary>
+        <author>
+            <name>gc0119</name>
+            <uri>https://news.ycombinator.com/user?id=gc0119</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umka。一個靜態類型的可嵌入的腳本語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718181</id>
+        <link href="https://news.ycombinator.com/item?id=31718181"/>
+        <updated>2022-06-12T20:58:24.000Z</updated>
+        <summary type="html"><![CDATA[Umka: A statically typed embeddable scripting language]]></summary>
+        <author>
+            <name>mr_ms</name>
+            <uri>https://news.ycombinator.com/user?id=mr_ms</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼InterlockedIncrement/Decrement只返回結果的符號？(2004)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31712241</id>
+        <link href="https://news.ycombinator.com/item?id=31712241"/>
+        <updated>2022-06-12T07:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Why did InterlockedIncrement/Decrement only return the sign of the result?(2004)]]></summary>
+        <author>
+            <name>userbinator</name>
+            <uri>https://news.ycombinator.com/user?id=userbinator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[承擔良好的技術債務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705759</id>
+        <link href="https://news.ycombinator.com/item?id=31705759"/>
+        <updated>2022-06-11T16:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Taking on Good Technical Debt]]></summary>
+        <author>
+            <name>rckrd</name>
+            <uri>https://news.ycombinator.com/user?id=rckrd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌將吃掉它自己
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一份工作，一份報酬
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31639550</id>
-        <link href="https://news.ycombinator.com/item?id=31639550"/>
-        <updated>2022-06-06T12:20:34.000Z</updated>
-        <summary type="html"><![CDATA[One Job, One Pay]]></summary>
-        <author>
-            <name>Sujan</name>
-            <uri>https://news.ycombinator.com/user?id=Sujan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小型模塊化反應堆加劇了核廢料的挑戰
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31639398</id>
-        <link href="https://news.ycombinator.com/item?id=31639398"/>
-        <updated>2022-06-06T12:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Small Modular Reactors Exacerbate Challenges of Nuclear Waste]]></summary>
-        <author>
-            <name>dtagames</name>
-            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kable（基於使用量的API計費）正在招聘創始工程師（YC W22）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31639376</id>
-        <link href="https://news.ycombinator.com/item?id=31639376"/>
-        <updated>2022-06-06T12:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Kable (usage-based billing for APIs) is hiring Founding Engineers (YC W22)]]></summary>
-        <author>
-            <name>asommer12</name>
-            <uri>https://news.ycombinator.com/user?id=asommer12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphCDN現在是Stellate，我們已經籌集了3000萬美元來建立全球數據圖表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31639024</id>
-        <link href="https://news.ycombinator.com/item?id=31639024"/>
-        <updated>2022-06-06T11:11:26.000Z</updated>
-        <summary type="html"><![CDATA[GraphCDN is now Stellate and we’ve raised $30M to build the global data graph]]></summary>
-        <author>
-            <name>mxstbr</name>
-            <uri>https://news.ycombinator.com/user?id=mxstbr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morrowind的形而上學 (2010)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628766</id>
-        <link href="https://news.ycombinator.com/item?id=31628766"/>
-        <updated>2022-06-05T07:18:30.000Z</updated>
-        <summary type="html"><![CDATA[The Metaphysics of Morrowind (2010)]]></summary>
-        <author>
-            <name>kqr</name>
-            <uri>https://news.ycombinator.com/user?id=kqr</uri>
         </author>
     </entry>
 </feed>
