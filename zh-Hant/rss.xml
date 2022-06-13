@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 13 Jun 2022 11:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 11:58:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Tachyum的Prodigy CPU。5納米，128個核心，5.7GHz，16x DDR5-7200和950W TDP
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31723833</link>
+            <guid>https://news.ycombinator.com/item?id=31723833</guid>
+            <pubDate>Mon, 13 Jun 2022 11:18:26 GMT</pubDate>
+            <description><![CDATA[Tachyum's Prodigy CPU: 5nm, 128 Cores, 5.7 GHz, 16x DDR5-7200 and 950W TDP]]></description>
+        </item>
         <item>
             <title><![CDATA[PostmarketOS 22.06發佈--現在可以升級了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31630545</guid>
             <pubDate>Sun, 05 Jun 2022 12:52:58 GMT</pubDate>
             <description><![CDATA[The Atari Years (2014)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rosetta在Linux虛擬機中運行英特爾二進制文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31644990</link>
-            <guid>https://news.ycombinator.com/item?id=31644990</guid>
-            <pubDate>Mon, 06 Jun 2022 19:35:18 GMT</pubDate>
-            <description><![CDATA[Running Intel Binaries in Linux VMs with Rosetta]]></description>
         </item>
     </channel>
 </rss>
