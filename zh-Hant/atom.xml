@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T06:02:27.613Z</updated>
+    <updated>2022-06-13T06:37:46.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Audioserve。簡單的個人服務器，為目錄中的音頻文件提供服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31713047</id>
+        <link href="https://news.ycombinator.com/item?id=31713047"/>
+        <updated>2022-06-12T09:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Audioserve: Simple personal server to serve audio files from directories]]></summary>
+        <author>
+            <name>indigodaddy</name>
+            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[給下一個校園槍手的公開信
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jsfcoding</name>
             <uri>https://news.ycombinator.com/user?id=jsfcoding</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何打開保險箱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31638697</id>
-        <link href="https://news.ycombinator.com/item?id=31638697"/>
-        <updated>2022-06-06T10:03:34.000Z</updated>
-        <summary type="html"><![CDATA[How to open a safe]]></summary>
-        <author>
-            <name>seasicksteve</name>
-            <uri>https://news.ycombinator.com/user?id=seasicksteve</uri>
         </author>
     </entry>
 </feed>
