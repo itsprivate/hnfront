@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T10:37:09.554Z</updated>
+    <updated>2022-06-13T10:51:31.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub的行動被關閉了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723418</id>
+        <link href="https://news.ycombinator.com/item?id=31723418"/>
+        <updated>2022-06-13T10:28:43.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Actions Is Down]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java不是一種安全的語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722532</id>
+        <link href="https://news.ycombinator.com/item?id=31722532"/>
+        <updated>2022-06-13T07:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Java is not a safe language]]></summary>
+        <author>
+            <name>fulafel</name>
+            <uri>https://news.ycombinator.com/user?id=fulafel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數據湖表格格式的比較（冰山湖、胡迪湖和三角洲湖）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克宣稱他 "有權終止 "推特交易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31642085</id>
-        <link href="https://news.ycombinator.com/item?id=31642085"/>
-        <updated>2022-06-06T15:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk asserts his “right to terminate” Twitter deal]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SimpleHash (YC W22)正在招聘後端工程師以建立NFT APIs
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31642927</id>
-        <link href="https://news.ycombinator.com/item?id=31642927"/>
-        <updated>2022-06-06T17:00:25.000Z</updated>
-        <summary type="html"><![CDATA[SimpleHash (YC W22) Is Hiring Back End Engineers to Build NFT APIs]]></summary>
-        <author>
-            <name>owfwduke</name>
-            <uri>https://news.ycombinator.com/user?id=owfwduke</uri>
         </author>
     </entry>
 </feed>
