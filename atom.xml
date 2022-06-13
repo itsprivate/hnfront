@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T22:00:54.464Z</updated>
+    <updated>2022-06-13T22:29:09.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[复杂的Sudokus作为游戏性的证明实践
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722540</id>
+        <link href="https://news.ycombinator.com/item?id=31722540"/>
+        <updated>2022-06-13T07:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Sophisticated Sudokus as Playful Proof Practice]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近视的情况很少。在亚洲，它正变得无处不在
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jazz3020</name>
             <uri>https://news.ycombinator.com/user?id=jazz3020</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian Confluence服务器CVE-2022-26134在野外被积极曝光
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31652889</id>
-        <link href="https://news.ycombinator.com/item?id=31652889"/>
-        <updated>2022-06-07T12:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Atlassian Confluence Server CVE-2022-26134 being actively expoited in the wild]]></summary>
-        <author>
-            <name>f0e4c2f7</name>
-            <uri>https://news.ycombinator.com/user?id=f0e4c2f7</uri>
         </author>
     </entry>
 </feed>
