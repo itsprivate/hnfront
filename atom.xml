@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T07:27:53.507Z</updated>
+    <updated>2022-06-13T07:58:55.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[搜索汇总 - 来自许多不同网站的搜索结果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722417</id>
+        <link href="https://news.ycombinator.com/item?id=31722417"/>
+        <updated>2022-06-13T07:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Aggregate – Search results from lots of different sites]]></summary>
+        <author>
+            <name>javinladish</name>
+            <uri>https://news.ycombinator.com/user?id=javinladish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[间谍使用的技术正在探测讨厌的飞蛾
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mzs</name>
             <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现代端到端加密的基础。签名 (2021)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31641417</id>
-        <link href="https://news.ycombinator.com/item?id=31641417"/>
-        <updated>2022-06-06T15:04:34.000Z</updated>
-        <summary type="html"><![CDATA[The foundations of modern end-to-end encryption: Signatures (2021)]]></summary>
-        <author>
-            <name>z0mbie42</name>
-            <uri>https://news.ycombinator.com/user?id=z0mbie42</uri>
         </author>
     </entry>
 </feed>
