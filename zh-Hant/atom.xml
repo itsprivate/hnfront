@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T09:29:53.233Z</updated>
+    <updated>2022-06-13T10:02:25.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[演示丹麥失業算法的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723110</id>
+        <link href="https://news.ycombinator.com/item?id=31723110"/>
+        <updated>2022-06-13T09:41:38.000Z</updated>
+        <summary type="html"><![CDATA[Tool to demo the Danish Unemployment algorithm]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐盟投票決定到2035年禁止所有內燃機汽車的銷售
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>elorant</name>
             <uri>https://news.ycombinator.com/user?id=elorant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視頻實時流。關於RTMP、HLS和WebRTC的說明
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31642292</id>
-        <link href="https://news.ycombinator.com/item?id=31642292"/>
-        <updated>2022-06-06T16:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Video Live Streaming: Notes on RTMP, HLS, and WebRTC]]></summary>
-        <author>
-            <name>vr000m</name>
-            <uri>https://news.ycombinator.com/user?id=vr000m</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 13 Jun 2022 09:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 10:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[演示丹麦失业算法的工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31723110</link>
+            <guid>https://news.ycombinator.com/item?id=31723110</guid>
+            <pubDate>Mon, 13 Jun 2022 09:41:38 GMT</pubDate>
+            <description><![CDATA[Tool to demo the Danish Unemployment algorithm]]></description>
+        </item>
         <item>
             <title><![CDATA[欧盟投票决定到2035年禁止所有内燃机汽车的销售
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31630528</guid>
             <pubDate>Sun, 05 Jun 2022 12:51:10 GMT</pubDate>
             <description><![CDATA[Quantum particles can feel the effects of gravitational fields]]></description>
-        </item>
-        <item>
-            <title><![CDATA[视频实时流。关于RTMP、HLS和WebRTC的说明
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31642292</link>
-            <guid>https://news.ycombinator.com/item?id=31642292</guid>
-            <pubDate>Mon, 06 Jun 2022 16:11:27 GMT</pubDate>
-            <description><![CDATA[Video Live Streaming: Notes on RTMP, HLS, and WebRTC]]></description>
         </item>
     </channel>
 </rss>
