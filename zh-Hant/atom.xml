@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T19:28:04.683Z</updated>
+    <updated>2022-06-13T19:47:09.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓流行的Ruby包更安全
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31730221</id>
+        <link href="https://news.ycombinator.com/item?id=31730221"/>
+        <updated>2022-06-13T19:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Making popular Ruby packages more secure]]></summary>
+        <author>
+            <name>tomstuart</name>
+            <uri>https://news.ycombinator.com/user?id=tomstuart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IE11在2天內正式報廢
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concerned.tech - 1400名簽名者，包括DSHR、James Gosling和25名康普斯學教授。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31651719</id>
-        <link href="https://news.ycombinator.com/item?id=31651719"/>
-        <updated>2022-06-07T09:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Concerned.tech – 1400 signatories inc DSHR, James Gosling, 25 Compsci professors]]></summary>
-        <author>
-            <name>ghuntley</name>
-            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
         </author>
     </entry>
 </feed>
