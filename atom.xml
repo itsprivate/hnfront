@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T23:01:13.753Z</updated>
+    <updated>2022-06-13T23:28:41.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分类和证明
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31726212</id>
+        <link href="https://news.ycombinator.com/item?id=31726212"/>
+        <updated>2022-06-13T14:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Sorting and Proving]]></summary>
+        <author>
+            <name>furcyd</name>
+            <uri>https://news.ycombinator.com/user?id=furcyd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[感谢HN：五个月前，我还觉得自己是个失败者，现在我反过来了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即将推出的Telegram高级功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31652979</id>
-        <link href="https://news.ycombinator.com/item?id=31652979"/>
-        <updated>2022-06-07T12:10:10.000Z</updated>
-        <summary type="html"><![CDATA[New Upcoming Telegram Premium Features]]></summary>
-        <author>
-            <name>stereoradonc</name>
-            <uri>https://news.ycombinator.com/user?id=stereoradonc</uri>
         </author>
     </entry>
 </feed>
