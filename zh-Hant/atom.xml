@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T07:58:55.919Z</updated>
+    <updated>2022-06-13T08:36:42.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[復古計算
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711081</id>
+        <link href="https://news.ycombinator.com/item?id=31711081"/>
+        <updated>2022-06-12T03:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Vintage Computing]]></summary>
+        <author>
+            <name>peter_d_sherman</name>
+            <uri>https://news.ycombinator.com/user?id=peter_d_sherman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搜索彙總 - 來自許多不同網站的搜索結果
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>myth_drannon</name>
             <uri>https://news.ycombinator.com/user?id=myth_drannon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飛行員解釋他如何在3.2馬赫的黑鳥解體中倖存下來
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31641716</id>
-        <link href="https://news.ycombinator.com/item?id=31641716"/>
-        <updated>2022-06-06T15:28:22.000Z</updated>
-        <summary type="html"><![CDATA[Pilot explains how he Survived Blackbird Disintegration at Mach 3.2]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
