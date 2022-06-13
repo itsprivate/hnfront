@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T20:36:50.414Z</updated>
+    <updated>2022-06-13T20:51:13.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[潜入GCC内部
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31731145</id>
+        <link href="https://news.ycombinator.com/item?id=31731145"/>
+        <updated>2022-06-13T20:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Diving into GCC Internals]]></summary>
+        <author>
+            <name>penguin_booze</name>
+            <uri>https://news.ycombinator.com/user?id=penguin_booze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄亥俄州众议院的共和党人投票决定将加拿大列入联邦观察名单
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>edent</name>
             <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[到2024年秋季"，在欧盟销售的手机将强制使用USB-C
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31652609</id>
-        <link href="https://news.ycombinator.com/item?id=31652609"/>
-        <updated>2022-06-07T11:31:52.000Z</updated>
-        <summary type="html"><![CDATA[USB-C will be mandatory for phones sold in the EU ‘by autumn 2024’]]></summary>
-        <author>
-            <name>stereoradonc</name>
-            <uri>https://news.ycombinator.com/user?id=stereoradonc</uri>
         </author>
     </entry>
 </feed>
