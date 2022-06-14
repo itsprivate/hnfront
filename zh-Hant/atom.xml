@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-14T18:59:14.165Z</updated>
+    <updated>2022-06-14T19:27:58.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於高性能科學計算的C++17線程池
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31744160</id>
+        <link href="https://news.ycombinator.com/item?id=31744160"/>
+        <updated>2022-06-14T18:51:01.000Z</updated>
+        <summary type="html"><![CDATA[A C++17 thread pool for high-performance scientific computing]]></summary>
+        <author>
+            <name>pramodbiligiri</name>
+            <uri>https://news.ycombinator.com/user?id=pramodbiligiri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜建立地產帝國，悄悄在美國各地買地
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opera、Brave、Vivaldi無視Chrome的反廣告攔截器變化（2019）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31667179</id>
-        <link href="https://news.ycombinator.com/item?id=31667179"/>
-        <updated>2022-06-08T13:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Opera, Brave, Vivaldi to ignore Chrome's anti-ad-blocker changes (2019)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
         </author>
     </entry>
 </feed>
