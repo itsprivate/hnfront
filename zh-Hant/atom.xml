@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-14T06:36:57.418Z</updated>
+    <updated>2022-06-14T06:57:45.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在Java中懷念的東西，一個Kotlin開發者的視角
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31732587</id>
+        <link href="https://news.ycombinator.com/item?id=31732587"/>
+        <updated>2022-06-13T22:31:05.000Z</updated>
+        <summary type="html"><![CDATA[What I miss in Java, the perspective of a Kotlin developer]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celsius似乎無力償還，它正在將整個加密貨幣市場帶入。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>capableweb</name>
             <uri>https://news.ycombinator.com/user?id=capableweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌雲。多個地區之間的主要數據包丟失 - 歐洲和亞洲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654863</id>
-        <link href="https://news.ycombinator.com/item?id=31654863"/>
-        <updated>2022-06-07T14:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud: Major packet loss between multiple regions – Europe and Asia]]></summary>
-        <author>
-            <name>yla92</name>
-            <uri>https://news.ycombinator.com/user?id=yla92</uri>
         </author>
     </entry>
 </feed>

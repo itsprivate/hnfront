@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 14 Jun 2022 06:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 06:57:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在Java中怀念的东西，一个Kotlin开发者的视角
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31732587</link>
+            <guid>https://news.ycombinator.com/item?id=31732587</guid>
+            <pubDate>Mon, 13 Jun 2022 22:31:05 GMT</pubDate>
+            <description><![CDATA[What I miss in Java, the perspective of a Kotlin developer]]></description>
+        </item>
         <item>
             <title><![CDATA[Celsius似乎无力偿还，它正在将整个加密货币市场带入。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31655574</guid>
             <pubDate>Tue, 07 Jun 2022 15:14:28 GMT</pubDate>
             <description><![CDATA[Cloture – Implementation of Clojure in Common Lisp]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌云。多个地区之间的主要数据包丢失 - 欧洲和亚洲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31654863</link>
-            <guid>https://news.ycombinator.com/item?id=31654863</guid>
-            <pubDate>Tue, 07 Jun 2022 14:28:32 GMT</pubDate>
-            <description><![CDATA[Google Cloud: Major packet loss between multiple regions – Europe and Asia]]></description>
         </item>
     </channel>
 </rss>
