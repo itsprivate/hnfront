@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-14T22:45:46.732Z</updated>
+    <updated>2022-06-14T23:29:49.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你与一个亿万富翁的对比：比较你的收入
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31746685</id>
+        <link href="https://news.ycombinator.com/item?id=31746685"/>
+        <updated>2022-06-14T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[You vs. A Billionaire: compare your income]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[语言通胀是否疯狂地令人敬畏？(2012)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用同态加密法私下阅读维基百科
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668814</id>
-        <link href="https://news.ycombinator.com/item?id=31668814"/>
-        <updated>2022-06-08T15:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Read Wikipedia privately using homomorphic encryption]]></summary>
-        <author>
-            <name>blintz</name>
-            <uri>https://news.ycombinator.com/user?id=blintz</uri>
         </author>
     </entry>
 </feed>
