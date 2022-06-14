@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-14T21:27:29.718Z</updated>
+    <updated>2022-06-14T21:46:17.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[入侵的跳虫（2020年）[视频］
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31734552</id>
+        <link href="https://news.ycombinator.com/item?id=31734552"/>
+        <updated>2022-06-14T03:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Invasive Jumping Worms (2020) [video]]]></summary>
+        <author>
+            <name>aacook</name>
+            <uri>https://news.ycombinator.com/user?id=aacook</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寻觅集群杀手Erlang的漏洞
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[矮人堡垒更新--教程和工具提示
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31667240</id>
-        <link href="https://news.ycombinator.com/item?id=31667240"/>
-        <updated>2022-06-08T13:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Dwarf Fortress Update – Tutorials and Tooltips]]></summary>
-        <author>
-            <name>capableweb</name>
-            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
         </author>
     </entry>
 </feed>
