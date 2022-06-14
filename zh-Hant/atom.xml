@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-14T20:33:31.410Z</updated>
+    <updated>2022-06-14T20:50:22.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[共同作者。設計一個人類與人工智能的合作寫作數據集
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31744313</id>
+        <link href="https://news.ycombinator.com/item?id=31744313"/>
+        <updated>2022-06-14T18:59:49.000Z</updated>
+        <summary type="html"><![CDATA[CoAuthor: Designing a Human-AI Collaborative Writing Dataset]]></summary>
+        <author>
+            <name>bribri</name>
+            <uri>https://news.ycombinator.com/user?id=bribri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勒索軟件集團首次推出可搜索的受害者數據
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ewired</name>
             <uri>https://news.ycombinator.com/user?id=ewired</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西蒙娜-拜爾斯、阿里-雷斯曼因拉里-納薩爾的調查起訴聯邦調查局，要求賠償10億美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668352</id>
-        <link href="https://news.ycombinator.com/item?id=31668352"/>
-        <updated>2022-06-08T15:01:36.000Z</updated>
-        <summary type="html"><![CDATA[Simone Biles, Aly Raisman Suing FBI for $1B over Larry Nassar Investigation]]></summary>
-        <author>
-            <name>jonwachob91</name>
-            <uri>https://news.ycombinator.com/user?id=jonwachob91</uri>
         </author>
     </entry>
 </feed>
