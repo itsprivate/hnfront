@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-13T23:28:41.303Z</updated>
+    <updated>2022-06-14T00:00:22.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大学对社会生活的战争
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31732944</id>
+        <link href="https://news.ycombinator.com/item?id=31732944"/>
+        <updated>2022-06-13T23:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Stanford’s War on Social Life]]></summary>
+        <author>
+            <name>barry-cotter</name>
+            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类的注意力已经成为一种商品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31732930</id>
+        <link href="https://news.ycombinator.com/item?id=31732930"/>
+        <updated>2022-06-13T23:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Human Attention has become a commodity]]></summary>
+        <author>
+            <name>mebassett</name>
+            <uri>https://news.ycombinator.com/user?id=mebassett</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分类和证明
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>acqbu</name>
             <uri>https://news.ycombinator.com/user?id=acqbu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Doom 3对Malloc进行基准测试
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31631352</id>
-        <link href="https://news.ycombinator.com/item?id=31631352"/>
-        <updated>2022-06-05T14:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Benchmarking Malloc with Doom 3]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟达成协议，强制iPhone和AirPods在2024年秋季前采用USB-C接口
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31653088</id>
-        <link href="https://news.ycombinator.com/item?id=31653088"/>
-        <updated>2022-06-07T12:19:12.000Z</updated>
-        <summary type="html"><![CDATA[EU Reaches Agreement to Force iPhone and AirPods to Adopt USB-C by Fall 2024]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
