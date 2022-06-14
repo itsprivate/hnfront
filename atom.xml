@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-14T20:50:21.962Z</updated>
+    <updated>2022-06-14T21:27:29.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻觅集群杀手Erlang的漏洞
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31746090</id>
+        <link href="https://news.ycombinator.com/item?id=31746090"/>
+        <updated>2022-06-14T21:05:45.000Z</updated>
+        <summary type="html"><![CDATA[The hunt for a cluster-killer Erlang bug]]></summary>
+        <author>
+            <name>eproxus</name>
+            <uri>https://news.ycombinator.com/user?id=eproxus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kodable (YC IK12)正在招聘一名全栈工程师，帮助我们教孩子们编程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31746017</id>
+        <link href="https://news.ycombinator.com/item?id=31746017"/>
+        <updated>2022-06-14T21:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Kodable (YC IK12) is hiring a full-stack engineer to help us teach kids to code]]></summary>
+        <author>
+            <name>jm20</name>
+            <uri>https://news.ycombinator.com/user?id=jm20</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[共同作者。设计一个人类与人工智能的合作写作数据集
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>capableweb</name>
             <uri>https://news.ycombinator.com/user?id=capableweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熵是致命的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668316</id>
-        <link href="https://news.ycombinator.com/item?id=31668316"/>
-        <updated>2022-06-08T14:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Entropy Is Fatal]]></summary>
-        <author>
-            <name>sylvain_kerkour</name>
-            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日落的原子文本编辑器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668426</id>
-        <link href="https://news.ycombinator.com/item?id=31668426"/>
-        <updated>2022-06-08T15:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Sunsetting Atom Text Editor]]></summary>
-        <author>
-            <name>ewired</name>
-            <uri>https://news.ycombinator.com/user?id=ewired</uri>
         </author>
     </entry>
 </feed>
