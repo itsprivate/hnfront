@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-14T08:53:47.142Z</updated>
+    <updated>2022-06-14T09:31:13.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用Jupyter筆記本在Python中創建一個儀表板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31736164</id>
+        <link href="https://news.ycombinator.com/item?id=31736164"/>
+        <updated>2022-06-14T08:26:32.000Z</updated>
+        <summary type="html"><![CDATA[How to create a dashboard in Python with Jupyter Notebook]]></summary>
+        <author>
+            <name>pplonski86</name>
+            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用開源組件構建自我驅動的Kafka集群
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31714166</id>
+        <link href="https://news.ycombinator.com/item?id=31714166"/>
+        <updated>2022-06-12T13:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Building Self-driving Kafka clusters using open source components]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯里拉查是怎麼回事？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國的進口需求正在斷崖式下降
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31657068</id>
-        <link href="https://news.ycombinator.com/item?id=31657068"/>
-        <updated>2022-06-07T16:51:02.000Z</updated>
-        <summary type="html"><![CDATA[US import demand is dropping off a cliff]]></summary>
-        <author>
-            <name>strict9</name>
-            <uri>https://news.ycombinator.com/user?id=strict9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在阿爾及利亞，古老的洞穴藝術可能顯示了迷幻蘑菇的使用情況
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31648995</id>
-        <link href="https://news.ycombinator.com/item?id=31648995"/>
-        <updated>2022-06-07T01:55:15.000Z</updated>
-        <summary type="html"><![CDATA[In Algeria, Ancient Cave Art May Show Psychedelic Mushroom Use]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
         </author>
     </entry>
 </feed>
