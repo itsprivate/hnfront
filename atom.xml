@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-15T19:25:46.485Z</updated>
+    <updated>2022-06-15T19:44:59.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[罕见的托尔金绘画作品描绘了郁郁葱葱的 "指环王 "景观
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31757452</id>
+        <link href="https://news.ycombinator.com/item?id=31757452"/>
+        <updated>2022-06-15T18:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V8隔离器是计算的未来吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ittan</name>
             <uri>https://news.ycombinator.com/user?id=ittan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liveblocks如何在多人环境中建立撤销/重做的机制
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31680876</id>
-        <link href="https://news.ycombinator.com/item?id=31680876"/>
-        <updated>2022-06-09T13:27:33.000Z</updated>
-        <summary type="html"><![CDATA[How to build undo/redo in a multiplayer environment by Liveblocks]]></summary>
-        <author>
-            <name>moritzplassnig</name>
-            <uri>https://news.ycombinator.com/user?id=moritzplassnig</uri>
         </author>
     </entry>
 </feed>
