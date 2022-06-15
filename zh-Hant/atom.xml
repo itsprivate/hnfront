@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-15T15:35:11.104Z</updated>
+    <updated>2022-06-15T15:56:59.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[選擇 "你好，世界"。為雲計算打造的無服務器Postgres
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31753345</id>
+        <link href="https://news.ycombinator.com/item?id=31753345"/>
+        <updated>2022-06-15T14:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Select ’Hello, World’: Serverless Postgres Built for the Cloud]]></summary>
+        <author>
+            <name>mxstbr</name>
+            <uri>https://news.ycombinator.com/user?id=mxstbr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Core 22現已上市--針對物聯網和嵌入式設備進行了優化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31752176</id>
+        <link href="https://news.ycombinator.com/item?id=31752176"/>
+        <updated>2022-06-15T12:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu Core 22 is now available – optimised for IoT and embedded devices]]></summary>
+        <author>
+            <name>pantalaimon</name>
+            <uri>https://news.ycombinator.com/user?id=pantalaimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitwarden處於離線狀態，本地訪問被阻止了
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大的互聯網過濾。羅傑斯的NHL封鎖令
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31677867</id>
-        <link href="https://news.ycombinator.com/item?id=31677867"/>
-        <updated>2022-06-09T05:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Internet Filtering in Canada: Rogers' NHL Blocking Order]]></summary>
-        <author>
-            <name>ChrisArchitect</name>
-            <uri>https://news.ycombinator.com/user?id=ChrisArchitect</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flarum - 用於建立偉大社區的簡單論壇軟件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31638457</id>
-        <link href="https://news.ycombinator.com/item?id=31638457"/>
-        <updated>2022-06-06T09:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Flarum – Simple forum software for building great communities]]></summary>
-        <author>
-            <name>maydemir</name>
-            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
         </author>
     </entry>
 </feed>
