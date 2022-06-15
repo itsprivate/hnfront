@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-15T04:47:10.382Z</updated>
+    <updated>2022-06-15T05:09:28.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[約會、Hinge和Gale-Shapley算法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31748967</id>
+        <link href="https://news.ycombinator.com/item?id=31748967"/>
+        <updated>2022-06-15T03:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Dating, Hinge, and the Gale-Shapley Algorithm]]></summary>
+        <author>
+            <name>kaashmonee</name>
+            <uri>https://news.ycombinator.com/user?id=kaashmonee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乾旱迫使加州種植者焚燒廢棄的農作物，空氣質量惡化
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>marban</name>
             <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將Doom移植到a/UX
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31670484</id>
-        <link href="https://news.ycombinator.com/item?id=31670484"/>
-        <updated>2022-06-08T17:07:47.000Z</updated>
-        <summary type="html"><![CDATA[Porting Doom to a/UX]]></summary>
-        <author>
-            <name>soopurman</name>
-            <uri>https://news.ycombinator.com/user?id=soopurman</uri>
         </author>
     </entry>
 </feed>
