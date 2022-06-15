@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-15T18:56:19.825Z</updated>
+    <updated>2022-06-15T19:25:46.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[V8隔離器是計算的未來嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31740885</id>
+        <link href="https://news.ycombinator.com/item?id=31740885"/>
+        <updated>2022-06-14T15:27:15.000Z</updated>
+        <summary type="html"><![CDATA[Are V8 isolates the future of computing?]]></summary>
+        <author>
+            <name>pranay01</name>
+            <uri>https://news.ycombinator.com/user?id=pranay01</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美聯儲將利率提高0.75個百分點
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>moritzplassnig</name>
             <uri>https://news.ycombinator.com/user?id=moritzplassnig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropbox刪除了《瑞克與莫蒂》創作者的賬戶，因為他們秘密違反了TOS規定
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31680894</id>
-        <link href="https://news.ycombinator.com/item?id=31680894"/>
-        <updated>2022-06-09T13:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Dropbox deletes Rick and Morty creators account for secret TOS violation]]></summary>
-        <author>
-            <name>casefields</name>
-            <uri>https://news.ycombinator.com/user?id=casefields</uri>
         </author>
     </entry>
 </feed>
