@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-15T05:09:28.627Z</updated>
+    <updated>2022-06-15T05:40:11.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苏联的Angstrem内存IC的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749138</id>
+        <link href="https://news.ycombinator.com/item?id=31749138"/>
+        <updated>2022-06-15T04:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Angstrem Memory IC’s in the USSR]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[约会、Hinge和Gale-Shapley算法
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[它是一个庞氏骗局吗？一个评估加密货币项目的框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31672054</id>
-        <link href="https://news.ycombinator.com/item?id=31672054"/>
-        <updated>2022-06-08T18:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Is it a Ponzi? A framework for evaluating crypto projects]]></summary>
-        <author>
-            <name>marban</name>
-            <uri>https://news.ycombinator.com/user?id=marban</uri>
         </author>
     </entry>
 </feed>
