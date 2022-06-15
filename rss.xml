@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 22:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 23:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Rust和WebAssembly构建一个Web应用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31741119</link>
+            <guid>https://news.ycombinator.com/item?id=31741119</guid>
+            <pubDate>Tue, 14 Jun 2022 15:42:23 GMT</pubDate>
+            <description><![CDATA[Building a web application with Rust and WebAssembly]]></description>
+        </item>
         <item>
             <title><![CDATA[拍手。新的音频插件标准
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31682705</guid>
             <pubDate>Thu, 09 Jun 2022 15:49:16 GMT</pubDate>
             <description><![CDATA[Why is American administrative capacity in decline?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shotcut是一个免费的、开源的、跨平台的视频编辑器。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31681787</link>
-            <guid>https://news.ycombinator.com/item?id=31681787</guid>
-            <pubDate>Thu, 09 Jun 2022 14:42:23 GMT</pubDate>
-            <description><![CDATA[Shotcut is a free, open-source, cross-platform video editor]]></description>
         </item>
     </channel>
 </rss>
