@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 20:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 20:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[心灵的电话亭
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31746967</link>
+            <guid>https://news.ycombinator.com/item?id=31746967</guid>
+            <pubDate>Tue, 14 Jun 2022 22:49:09 GMT</pubDate>
+            <description><![CDATA[The Phone Booth of the Mind]]></description>
+        </item>
         <item>
             <title><![CDATA[让你的同事印象深刻的macOS屏幕截图技巧
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31693490</guid>
             <pubDate>Fri, 10 Jun 2022 13:03:01 GMT</pubDate>
             <description><![CDATA[MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenBSD 7.1 on PINE64 RockPro64
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31692011</link>
-            <guid>https://news.ycombinator.com/item?id=31692011</guid>
-            <pubDate>Fri, 10 Jun 2022 09:57:32 GMT</pubDate>
-            <description><![CDATA[OpenBSD 7.1 on PINE64 RockPro64]]></description>
         </item>
     </channel>
 </rss>
