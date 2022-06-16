@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-16T04:34:42.451Z</updated>
+    <updated>2022-06-16T05:05:14.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[托尔金为第一版 "霍比特人 "绘制的鲜为人知的原始图画
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762392</id>
+        <link href="https://news.ycombinator.com/item?id=31762392"/>
+        <updated>2022-06-16T04:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们把50万个文件放在一个Git存储库中，我们学到了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762245</id>
+        <link href="https://news.ycombinator.com/item?id=31762245"/>
+        <updated>2022-06-16T03:42:28.000Z</updated>
+        <summary type="html"><![CDATA[We Put Half a Million Files in One Git Repository, Here’s What We Learned]]></summary>
+        <author>
+            <name>Maxious</name>
+            <uri>https://news.ycombinator.com/user?id=Maxious</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CeresDB：一个高绩效、分布式、无模式和时间序列的数据库（Rust）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mikekij</name>
             <uri>https://news.ycombinator.com/user?id=mikekij</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为加密（货币）辩护
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31684206</id>
-        <link href="https://news.ycombinator.com/item?id=31684206"/>
-        <updated>2022-06-09T17:33:07.000Z</updated>
-        <summary type="html"><![CDATA[In Defense of Crypto(currency)]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[受诅咒的D65536
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679207</id>
-        <link href="https://news.ycombinator.com/item?id=31679207"/>
-        <updated>2022-06-09T09:25:17.000Z</updated>
-        <summary type="html"><![CDATA[The Cursed D65536]]></summary>
-        <author>
-            <name>EvgeniyZh</name>
-            <uri>https://news.ycombinator.com/user?id=EvgeniyZh</uri>
         </author>
     </entry>
 </feed>
