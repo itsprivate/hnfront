@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-16T18:57:44.304Z</updated>
+    <updated>2022-06-16T19:45:44.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[吉特亞加入Fediverse
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769929</id>
+        <link href="https://news.ycombinator.com/item?id=31769929"/>
+        <updated>2022-06-16T19:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Gitea Joins the Fediverse]]></summary>
+        <author>
+            <name>rapnie</name>
+            <uri>https://news.ycombinator.com/user?id=rapnie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酷炫的臺式機不會改變
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769604</id>
+        <link href="https://news.ycombinator.com/item?id=31769604"/>
+        <updated>2022-06-16T18:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Cool Desktops Don’t Change]]></summary>
+        <author>
+            <name>thcipriani</name>
+            <uri>https://news.ycombinator.com/user?id=thcipriani</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：Triplebyte又一次未經同意公開用戶資料了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769601</id>
+        <link href="https://news.ycombinator.com/item?id=31769601"/>
+        <updated>2022-06-16T18:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Triplebyte is, yet again, making user profiles public without consent]]></summary>
+        <author>
+            <name>teraflop</name>
+            <uri>https://news.ycombinator.com/user?id=teraflop</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub等了3個月才通知潛在洩露事件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769520</id>
+        <link href="https://news.ycombinator.com/item?id=31769520"/>
+        <updated>2022-06-16T18:47:20.000Z</updated>
+        <summary type="html"><![CDATA[GitHub waited 3 months to notify about potential compromise]]></summary>
+        <author>
+            <name>zwass</name>
+            <uri>https://news.ycombinator.com/user?id=zwass</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與Flask和FastAPI決裂。為什麼它們不能用於ML模型服務？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769316</id>
+        <link href="https://news.ycombinator.com/item?id=31769316"/>
+        <updated>2022-06-16T18:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Breaking up with Flask and FastAPI: Why they don’t scale for ML model serving]]></summary>
+        <author>
+            <name>yubozhao</name>
+            <uri>https://news.ycombinator.com/user?id=yubozhao</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美麗的古羅馬道路網 (2015)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31756451</id>
+        <link href="https://news.ycombinator.com/item?id=31756451"/>
+        <updated>2022-06-15T17:39:23.000Z</updated>
+        <summary type="html"><![CDATA[The Beautiful Network of Ancient Roman Roads (2015)]]></summary>
+        <author>
+            <name>wglb</name>
+            <uri>https://news.ycombinator.com/user?id=wglb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[計算機速度快，但你不知道
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>sanketpatrikar</name>
             <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svix Webhook服務（YC W21）正在招聘（遠程）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692841</id>
-        <link href="https://news.ycombinator.com/item?id=31692841"/>
-        <updated>2022-06-10T12:01:59.000Z</updated>
-        <summary type="html"><![CDATA[The Svix Webhook Service (YC W21) Is Hiring (Remote)]]></summary>
-        <author>
-            <name>tasn</name>
-            <uri>https://news.ycombinator.com/user?id=tasn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何找到現在的工作的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692834</id>
-        <link href="https://news.ycombinator.com/item?id=31692834"/>
-        <updated>2022-06-10T12:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How did you find your current job?]]></summary>
-        <author>
-            <name>spacebanana7</name>
-            <uri>https://news.ycombinator.com/user?id=spacebanana7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過Stadia在瀏覽器中嘗試《生化危機村》。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692454</id>
-        <link href="https://news.ycombinator.com/item?id=31692454"/>
-        <updated>2022-06-10T11:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Try Resident Evil Village in the browser through Stadia]]></summary>
-        <author>
-            <name>sph</name>
-            <uri>https://news.ycombinator.com/user?id=sph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chalet。一個跨平臺的C/C++項目格式和構建工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692248</id>
-        <link href="https://news.ycombinator.com/item?id=31692248"/>
-        <updated>2022-06-10T10:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Chalet: A cross-platform project format and build tool for C/C++]]></summary>
-        <author>
-            <name>rewrking</name>
-            <uri>https://news.ycombinator.com/user?id=rewrking</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘇州工業園區的20年--回顧
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31685252</id>
-        <link href="https://news.ycombinator.com/item?id=31685252"/>
-        <updated>2022-06-09T18:50:42.000Z</updated>
-        <summary type="html"><![CDATA[20 Years of SIP – A Retrospective]]></summary>
-        <author>
-            <name>psim1</name>
-            <uri>https://news.ycombinator.com/user?id=psim1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剔除你的依賴性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692606</id>
-        <link href="https://news.ycombinator.com/item?id=31692606"/>
-        <updated>2022-06-10T11:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Cull Your Dependencies]]></summary>
-        <author>
-            <name>SwoopsFromAbove</name>
-            <uri>https://news.ycombinator.com/user?id=SwoopsFromAbove</uri>
         </author>
     </entry>
 </feed>
