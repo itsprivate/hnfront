@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-16T18:05:01.338Z</updated>
+    <updated>2022-06-16T18:38:02.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wasmer - 通用WebAssembly運行時
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31768936</id>
+        <link href="https://news.ycombinator.com/item?id=31768936"/>
+        <updated>2022-06-16T17:51:27.000Z</updated>
+        <summary type="html"><![CDATA[Wasmer – The Universal WebAssembly Runtime]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reddit收購ML初創公司Spell
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>SQL2219</name>
             <uri>https://news.ycombinator.com/user?id=SQL2219</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在瀏覽器中玩轉TailwindCSS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692267</id>
-        <link href="https://news.ycombinator.com/item?id=31692267"/>
-        <updated>2022-06-10T10:43:28.000Z</updated>
-        <summary type="html"><![CDATA[Play with TailwindCSS in the Browser]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
