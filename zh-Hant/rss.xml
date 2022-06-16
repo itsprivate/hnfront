@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 22:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 23:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[將OpenBSD移植到RISC-V ISA [pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31752334</link>
+            <guid>https://news.ycombinator.com/item?id=31752334</guid>
+            <pubDate>Wed, 15 Jun 2022 13:08:25 GMT</pubDate>
+            <description><![CDATA[Porting OpenBSD to RISC-V ISA [pdf]]]></description>
+        </item>
         <item>
             <title><![CDATA[服務出現問題，特斯拉派未經培訓的員工去修車
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31694844</guid>
             <pubDate>Fri, 10 Jun 2022 14:39:00 GMT</pubDate>
             <description><![CDATA[“Pacman” Hack Can Break Apple M1’s Last Line of Defense]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meadowrun將在AWS/Azure上運行Python的繁瑣細節自動化。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31694827</link>
-            <guid>https://news.ycombinator.com/item?id=31694827</guid>
-            <pubDate>Fri, 10 Jun 2022 14:37:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Meadowrun automates the tedious details of running Python on AWS/Azure]]></description>
         </item>
     </channel>
 </rss>
