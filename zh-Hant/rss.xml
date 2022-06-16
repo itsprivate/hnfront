@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 09:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 10:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最近有什麼東西融化了你的大腦？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31764041</link>
+            <guid>https://news.ycombinator.com/item?id=31764041</guid>
+            <pubDate>Thu, 16 Jun 2022 09:29:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: What has melted your brain recently?]]></description>
+        </item>
         <item>
             <title><![CDATA[FreeCAD 0.20 版本說明
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31679610</guid>
             <pubDate>Thu, 09 Jun 2022 10:42:47 GMT</pubDate>
             <description><![CDATA[What makes a good research proposal?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重要的PostgreSQL 14更新以避免索引的無聲損壞
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31687782</link>
-            <guid>https://news.ycombinator.com/item?id=31687782</guid>
-            <pubDate>Thu, 09 Jun 2022 22:29:42 GMT</pubDate>
-            <description><![CDATA[Important PostgreSQL 14 update to avoid silent corruption of indexes]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-16T09:32:17.170Z</updated>
+    <updated>2022-06-16T10:01:53.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最近有什么东西融化了你的大脑？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764041</id>
+        <link href="https://news.ycombinator.com/item?id=31764041"/>
+        <updated>2022-06-16T09:29:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What has melted your brain recently?]]></summary>
+        <author>
+            <name>ID1452319</name>
+            <uri>https://news.ycombinator.com/user?id=ID1452319</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FreeCAD 0.20 版本说明
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ltratt</name>
             <uri>https://news.ycombinator.com/user?id=ltratt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重要的PostgreSQL 14更新以避免索引的无声损坏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687782</id>
-        <link href="https://news.ycombinator.com/item?id=31687782"/>
-        <updated>2022-06-09T22:29:42.000Z</updated>
-        <summary type="html"><![CDATA[Important PostgreSQL 14 update to avoid silent corruption of indexes]]></summary>
-        <author>
-            <name>avi_vallarapu</name>
-            <uri>https://news.ycombinator.com/user?id=avi_vallarapu</uri>
         </author>
     </entry>
 </feed>
