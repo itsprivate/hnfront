@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-16T17:15:05.056Z</updated>
+    <updated>2022-06-16T17:45:25.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不，QuestDB不比ClickHouse更快。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31767858</id>
+        <link href="https://news.ycombinator.com/item?id=31767858"/>
+        <updated>2022-06-16T16:21:49.000Z</updated>
+        <summary type="html"><![CDATA[No, QuestDB is not Faster than ClickHouse]]></summary>
+        <author>
+            <name>krnaveen14</name>
+            <uri>https://news.ycombinator.com/user?id=krnaveen14</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[试图创建一个美观的全球断线算法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31740978</id>
+        <link href="https://news.ycombinator.com/item?id=31740978"/>
+        <updated>2022-06-14T15:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Attempting to create an aesthetic global line breaking algorithm]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鱼壳3.5.0
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于心理科学可复制性的里程碑式的研究被推翻了[pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31690989</id>
-        <link href="https://news.ycombinator.com/item?id=31690989"/>
-        <updated>2022-06-10T07:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Landmark study on the replicability of psychological science overturned [pdf]]]></summary>
-        <author>
-            <name>peanutcrisis</name>
-            <uri>https://news.ycombinator.com/user?id=peanutcrisis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萨米语言和方言 (2015)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31678574</id>
-        <link href="https://news.ycombinator.com/item?id=31678574"/>
-        <updated>2022-06-09T07:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Sámi Languages and Dialects (2015)]]></summary>
-        <author>
-            <name>DoreenMichele</name>
-            <uri>https://news.ycombinator.com/user?id=DoreenMichele</uri>
         </author>
     </entry>
 </feed>
