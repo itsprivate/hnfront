@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-16T21:01:51.609Z</updated>
+    <updated>2022-06-16T21:27:13.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CockroachDB的一致性模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31770618</id>
+        <link href="https://news.ycombinator.com/item?id=31770618"/>
+        <updated>2022-06-16T20:30:14.000Z</updated>
+        <summary type="html"><![CDATA[CockroachDB's Consistency Model]]></summary>
+        <author>
+            <name>Twixes</name>
+            <uri>https://news.ycombinator.com/user?id=Twixes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[呼喚反壟斷改革
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31770432</id>
+        <link href="https://news.ycombinator.com/item?id=31770432"/>
+        <updated>2022-06-16T20:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Calling for Antitrust Reform]]></summary>
+        <author>
+            <name>cpeterso</name>
+            <uri>https://news.ycombinator.com/user?id=cpeterso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果在OCSP隱私問題上出爾反爾
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>EvgeniyZh</name>
             <uri>https://news.ycombinator.com/user?id=EvgeniyZh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作為領先指標的收益率曲線
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693896</id>
-        <link href="https://news.ycombinator.com/item?id=31693896"/>
-        <updated>2022-06-10T13:30:17.000Z</updated>
-        <summary type="html"><![CDATA[The Yield Curve as a Leading Indicator]]></summary>
-        <author>
-            <name>jackallis</name>
-            <uri>https://news.ycombinator.com/user?id=jackallis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟宣佈將在美國所有的招聘信息中包括薪酬範圍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693830</id>
-        <link href="https://news.ycombinator.com/item?id=31693830"/>
-        <updated>2022-06-10T13:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings]]></summary>
-        <author>
-            <name>blue_box</name>
-            <uri>https://news.ycombinator.com/user?id=blue_box</uri>
         </author>
     </entry>
 </feed>
