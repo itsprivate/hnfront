@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-16T20:48:06.467Z</updated>
+    <updated>2022-06-16T21:01:51.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果在OCSP隱私問題上出爾反爾
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31770296</id>
+        <link href="https://news.ycombinator.com/item?id=31770296"/>
+        <updated>2022-06-16T20:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Apple Reneged on OCSP Privacy]]></summary>
+        <author>
+            <name>bangonkeyboard</name>
+            <uri>https://news.ycombinator.com/user?id=bangonkeyboard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[心靈的電話亭
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>blue_box</name>
             <uri>https://news.ycombinator.com/user?id=blue_box</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工學院研究人員發現蘋果M1芯片存在 "無法修補 "的缺陷
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693490</id>
-        <link href="https://news.ycombinator.com/item?id=31693490"/>
-        <updated>2022-06-10T13:03:01.000Z</updated>
-        <summary type="html"><![CDATA[MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips]]></summary>
-        <author>
-            <name>markus_zhang</name>
-            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
         </author>
     </entry>
 </feed>
