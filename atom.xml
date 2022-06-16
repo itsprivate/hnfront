@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-16T19:45:44.371Z</updated>
+    <updated>2022-06-16T20:02:57.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何制作一个上镜的机房
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769811</id>
+        <link href="https://news.ycombinator.com/item?id=31769811"/>
+        <updated>2022-06-16T19:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to make a photogenic server room]]></summary>
+        <author>
+            <name>focusedone</name>
+            <uri>https://news.ycombinator.com/user?id=focusedone</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌内部的邪教
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769484</id>
+        <link href="https://news.ycombinator.com/item?id=31769484"/>
+        <updated>2022-06-16T18:44:25.000Z</updated>
+        <summary type="html"><![CDATA[The Cult Inside Google]]></summary>
+        <author>
+            <name>darrelld</name>
+            <uri>https://news.ycombinator.com/user?id=darrelld</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉特亚加入Fediverse
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>itsjloh</name>
             <uri>https://news.ycombinator.com/user?id=itsjloh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用语言模型分析顶级HN帖子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693314</id>
-        <link href="https://news.ycombinator.com/item?id=31693314"/>
-        <updated>2022-06-10T12:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Analyzing top HN posts with language models]]></summary>
-        <author>
-            <name>jayalammar</name>
-            <uri>https://news.ycombinator.com/user?id=jayalammar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uBlacklist - 阻止特定网站出现在谷歌搜索结果中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693287</id>
-        <link href="https://news.ycombinator.com/item?id=31693287"/>
-        <updated>2022-06-10T12:44:50.000Z</updated>
-        <summary type="html"><![CDATA[uBlacklist – Block specific sites from appearing in Google search results]]></summary>
-        <author>
-            <name>sanketpatrikar</name>
-            <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
         </author>
     </entry>
 </feed>
