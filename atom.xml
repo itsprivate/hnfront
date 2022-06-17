@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-17T15:31:23.390Z</updated>
+    <updated>2022-06-17T16:52:59.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[室温下的纳克尔文分辨率测温法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31780312</id>
+        <link href="https://news.ycombinator.com/item?id=31780312"/>
+        <updated>2022-06-17T16:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Nanokelvin-resolution thermometry at room temperature]]></summary>
+        <author>
+            <name>pcrh</name>
+            <uri>https://news.ycombinator.com/user?id=pcrh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CreuSAT。用Rust编写并通过Creusot验证的正式验证的SAT求解器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31780128</id>
+        <link href="https://news.ycombinator.com/item?id=31780128"/>
+        <updated>2022-06-17T15:57:54.000Z</updated>
+        <summary type="html"><![CDATA[CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国食品和药物管理局拒绝了禁止在食品包装中使用所有邻苯二甲酸盐的请愿书
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31778797</id>
+        <link href="https://news.ycombinator.com/item?id=31778797"/>
+        <updated>2022-06-17T14:33:17.000Z</updated>
+        <summary type="html"><![CDATA[FDA Denies Petition to Ban All Phthalates in Food Packaging]]></summary>
+        <author>
+            <name>ParksNet</name>
+            <uri>https://news.ycombinator.com/user?id=ParksNet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使化学的集体知识公开化和机器可操作化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31745934</id>
+        <link href="https://news.ycombinator.com/item?id=31745934"/>
+        <updated>2022-06-14T20:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Making the collective knowledge of chemistry open and machine actionable]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我创建了一个强大的新闻缩短算法。我不知道如何利用它
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>antvo</name>
             <uri>https://news.ycombinator.com/user?id=antvo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.19 Beta 1已发布
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31701815</id>
-        <link href="https://news.ycombinator.com/item?id=31701815"/>
-        <updated>2022-06-11T04:04:49.000Z</updated>
-        <summary type="html"><![CDATA[Go 1.19 Beta 1 is released]]></summary>
-        <author>
-            <name>ngaut</name>
-            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炔烃GC
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31678008</id>
-        <link href="https://news.ycombinator.com/item?id=31678008"/>
-        <updated>2022-06-09T06:00:42.000Z</updated>
-        <summary type="html"><![CDATA[The Alkyne GC]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加利福尼亚野火烟雾在欧洲上空。气溶胶观测的第一个例子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=26531943</id>
-        <link href="https://news.ycombinator.com/item?id=26531943"/>
-        <updated>2021-03-21T17:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨大的 "无赖波 "可能突然出现
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31678431</id>
-        <link href="https://news.ycombinator.com/item?id=31678431"/>
-        <updated>2022-06-09T07:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Enormous ‘rogue waves’ can appear out of nowhere]]></summary>
-        <author>
-            <name>cpach</name>
-            <uri>https://news.ycombinator.com/user?id=cpach</uri>
         </author>
     </entry>
 </feed>
