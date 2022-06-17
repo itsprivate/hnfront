@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-17T20:30:06.616Z</updated>
+    <updated>2022-06-17T20:48:14.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你是否使用Enum来表示是、否、未设置？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31783224</id>
+        <link href="https://news.ycombinator.com/item?id=31783224"/>
+        <updated>2022-06-17T19:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do You Use Enum for Yes, No, Unset?]]></summary>
+        <author>
+            <name>whitakerch</name>
+            <uri>https://news.ycombinator.com/user?id=whitakerch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[并行搜索将时间旅行调试速度提高了4倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31783019</id>
+        <link href="https://news.ycombinator.com/item?id=31783019"/>
+        <updated>2022-06-17T19:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Parallel Search Speeds Up Time Travel Debugging by 4x]]></summary>
+        <author>
+            <name>mark_undoio</name>
+            <uri>https://news.ycombinator.com/user?id=mark_undoio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一种可黑客化的业余编程语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31782985</id>
+        <link href="https://news.ycombinator.com/item?id=31782985"/>
+        <updated>2022-06-17T19:17:13.000Z</updated>
+        <summary type="html"><![CDATA[A hackable hobby programming language]]></summary>
+        <author>
+            <name>creative_spirit</name>
+            <uri>https://news.ycombinator.com/user?id=creative_spirit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Erik Brynjolfsson谈自动化、生产力、工作和未来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31782599</id>
+        <link href="https://news.ycombinator.com/item?id=31782599"/>
+        <updated>2022-06-17T18:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Erik Brynjolfsson on automation, productivity, work, and the future]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国监狱工人生产了价值110亿美元的商品和服务，却几乎没有任何报酬
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>rdpintqogeogsaa</name>
             <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个Facebook爬虫每天向我的愚蠢网站发出7百万次请求（2020年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703087</id>
-        <link href="https://news.ycombinator.com/item?id=31703087"/>
-        <updated>2022-06-11T09:15:08.000Z</updated>
-        <summary type="html"><![CDATA[A Facebook crawler was making 7M requests per day to my stupid website (2020)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诉讼威胁到互联网档案馆，活动家们团结起来拯救互联网档案馆（2020）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703394</id>
-        <link href="https://news.ycombinator.com/item?id=31703394"/>
-        <updated>2022-06-11T10:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Activists rally to save Internet Archive as lawsuit threatens site (2020)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虫子。一个用Nim编写的动态、基于标签的窗口管理器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31702571</id>
-        <link href="https://news.ycombinator.com/item?id=31702571"/>
-        <updated>2022-06-11T07:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Worm: A dynamic, tag-based window manager written in Nim]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂的克星马克斯-卢安。黑客、反叛者和被联邦调查局通缉的人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703201</id>
-        <link href="https://news.ycombinator.com/item?id=31703201"/>
-        <updated>2022-06-11T09:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo Nemesis Max Louarn: Hacker, Rebel, and Wanted by the FBI]]></summary>
-        <author>
-            <name>hassanahmad</name>
-            <uri>https://news.ycombinator.com/user?id=hassanahmad</uri>
         </author>
     </entry>
 </feed>
