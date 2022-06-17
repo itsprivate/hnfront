@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-17T10:53:54.049Z</updated>
+    <updated>2022-06-17T11:25:13.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件架構中最大的想法的草圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775271</id>
+        <link href="https://news.ycombinator.com/item?id=31775271"/>
+        <updated>2022-06-17T07:47:20.000Z</updated>
+        <summary type="html"><![CDATA[A sketch of the biggest idea in software architecture]]></summary>
+        <author>
+            <name>harperlee</name>
+            <uri>https://news.ycombinator.com/user?id=harperlee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超過13000部vivo手機被發現使用相同的IMEI號碼(2020)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hi</name>
             <uri>https://news.ycombinator.com/user?id=hi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圍棋中的數據競賽模式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31698503</id>
-        <link href="https://news.ycombinator.com/item?id=31698503"/>
-        <updated>2022-06-10T19:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Data Race Patterns in Go]]></summary>
-        <author>
-            <name>statenjason</name>
-            <uri>https://news.ycombinator.com/user?id=statenjason</uri>
         </author>
     </entry>
 </feed>
