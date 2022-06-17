@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-17T09:29:53.091Z</updated>
+    <updated>2022-06-17T10:00:53.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紀念過去的摩夫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762862</id>
+        <link href="https://news.ycombinator.com/item?id=31762862"/>
+        <updated>2022-06-16T06:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Remembrance of Moofs Past]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿茲特克萬神殿的視覺指南
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Thevet</name>
             <uri>https://news.ycombinator.com/user?id=Thevet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌不再在Play Store中列出應用程序的權限
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31698148</id>
-        <link href="https://news.ycombinator.com/item?id=31698148"/>
-        <updated>2022-06-10T19:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Google does not list application permissions in the Play Store any more]]></summary>
-        <author>
-            <name>datalist</name>
-            <uri>https://news.ycombinator.com/user?id=datalist</uri>
         </author>
     </entry>
 </feed>
