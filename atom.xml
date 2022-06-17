@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-17T21:25:12.642Z</updated>
+    <updated>2022-06-17T21:59:14.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[据报道，三箭资本面临破产，加密货币泡沫正在破灭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31784602</id>
+        <link href="https://news.ycombinator.com/item?id=31784602"/>
+        <updated>2022-06-17T21:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skio（Shopify的订阅，轻松实现ReCharge迁移）正在纽约市招聘。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>WalterSobchak</name>
             <uri>https://news.ycombinator.com/user?id=WalterSobchak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正在进行的对Tor网络的全网DDoS攻击影响了其性能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31702593</id>
-        <link href="https://news.ycombinator.com/item?id=31702593"/>
-        <updated>2022-06-11T07:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Ongoing network-wide DDoS of the Tor Network impacting its performance]]></summary>
-        <author>
-            <name>jerheinze</name>
-            <uri>https://news.ycombinator.com/user?id=jerheinze</uri>
         </author>
     </entry>
 </feed>
