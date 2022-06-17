@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-17T19:25:45.726Z</updated>
+    <updated>2022-06-17T19:50:44.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國監獄的奴隸生產了價值110億美元的商品和服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31782727</id>
+        <link href="https://news.ycombinator.com/item?id=31782727"/>
+        <updated>2022-06-17T18:58:14.000Z</updated>
+        <summary type="html"><![CDATA[US prison slaves produce $11B worth of goods and services]]></summary>
+        <author>
+            <name>trasz</name>
+            <uri>https://news.ycombinator.com/user?id=trasz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有史以來最好的開發工具投稿？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>howlett</name>
             <uri>https://news.ycombinator.com/user?id=howlett</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[庫帕羅伊時間膠囊記錄書》（1939年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31689279</id>
-        <link href="https://news.ycombinator.com/item?id=31689279"/>
-        <updated>2022-06-10T02:21:44.000Z</updated>
-        <summary type="html"><![CDATA[The Book of Record of the Time Capsule of Cupaloy (1939)]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
         </author>
     </entry>
 </feed>
