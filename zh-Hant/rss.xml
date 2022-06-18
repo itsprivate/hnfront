@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 18 Jun 2022 18:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 18:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼Git子模塊如此糟糕？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31792303</link>
+            <guid>https://news.ycombinator.com/item?id=31792303</guid>
+            <pubDate>Sat, 18 Jun 2022 18:11:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why Are Git Submodules So Bad?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[標準庫死亡之日 (2020)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31791790</link>
+            <guid>https://news.ycombinator.com/item?id=31791790</guid>
+            <pubDate>Sat, 18 Jun 2022 17:13:48 GMT</pubDate>
+            <description><![CDATA[The Day The Standard Library Died (2020)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Toonstruck (Or, a Case Study in the Death of Adventure Games)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31780346</link>
+            <guid>https://news.ycombinator.com/item?id=31780346</guid>
+            <pubDate>Fri, 17 Jun 2022 16:13:02 GMT</pubDate>
+            <description><![CDATA[Toonstruck (Or, a Case Study in the Death of Adventure Games)]]></description>
+        </item>
         <item>
             <title><![CDATA[微軟反信託案對行業的實際影響是什麼？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31712332</guid>
             <pubDate>Sun, 12 Jun 2022 07:16:42 GMT</pubDate>
             <description><![CDATA[Open Source federated link aggregator in rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Java中的SIMD加速排序--它是如何工作的，為什麼它的速度是3倍
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31703471</link>
-            <guid>https://news.ycombinator.com/item?id=31703471</guid>
-            <pubDate>Sat, 11 Jun 2022 10:39:12 GMT</pubDate>
-            <description><![CDATA[SIMD accelerated sorting in Java – how it works and why it was 3x faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[計算機是一種固有的壓迫性技術
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31712415</link>
-            <guid>https://news.ycombinator.com/item?id=31712415</guid>
-            <pubDate>Sun, 12 Jun 2022 07:31:27 GMT</pubDate>
-            <description><![CDATA[Computers are an inherently oppressive technology]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wayfire是一個基於wlroots的Wayland合成器。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31702567</link>
-            <guid>https://news.ycombinator.com/item?id=31702567</guid>
-            <pubDate>Sat, 11 Jun 2022 07:01:19 GMT</pubDate>
-            <description><![CDATA[Wayfire is a Wayland compositor based on wlroots]]></description>
         </item>
     </channel>
 </rss>

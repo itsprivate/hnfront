@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T18:33:40.058Z</updated>
+    <updated>2022-06-18T18:52:33.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Git子模块如此糟糕？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31792303</id>
+        <link href="https://news.ycombinator.com/item?id=31792303"/>
+        <updated>2022-06-18T18:11:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why Are Git Submodules So Bad?]]></summary>
+        <author>
+            <name>ghoward</name>
+            <uri>https://news.ycombinator.com/user?id=ghoward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[标准库死亡之日 (2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31791790</id>
+        <link href="https://news.ycombinator.com/item?id=31791790"/>
+        <updated>2022-06-18T17:13:48.000Z</updated>
+        <summary type="html"><![CDATA[The Day The Standard Library Died (2020)]]></summary>
+        <author>
+            <name>xiaoniu</name>
+            <uri>https://news.ycombinator.com/user?id=xiaoniu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toonstruck (Or, a Case Study in the Death of Adventure Games)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31780346</id>
+        <link href="https://news.ycombinator.com/item?id=31780346"/>
+        <updated>2022-06-17T16:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Toonstruck (Or, a Case Study in the Death of Adventure Games)]]></summary>
+        <author>
+            <name>doppp</name>
+            <uri>https://news.ycombinator.com/user?id=doppp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软反信托案对行业的实际影响是什么？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java中的SIMD加速排序--它是如何工作的，为什么它的速度是3倍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703471</id>
-        <link href="https://news.ycombinator.com/item?id=31703471"/>
-        <updated>2022-06-11T10:39:12.000Z</updated>
-        <summary type="html"><![CDATA[SIMD accelerated sorting in Java – how it works and why it was 3x faster]]></summary>
-        <author>
-            <name>CHY872</name>
-            <uri>https://news.ycombinator.com/user?id=CHY872</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机是一种固有的压迫性技术
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31712415</id>
-        <link href="https://news.ycombinator.com/item?id=31712415"/>
-        <updated>2022-06-12T07:31:27.000Z</updated>
-        <summary type="html"><![CDATA[Computers are an inherently oppressive technology]]></summary>
-        <author>
-            <name>hlandau</name>
-            <uri>https://news.ycombinator.com/user?id=hlandau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayfire是一个基于wlroots的Wayland合成器。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31702567</id>
-        <link href="https://news.ycombinator.com/item?id=31702567"/>
-        <updated>2022-06-11T07:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Wayfire is a Wayland compositor based on wlroots]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
