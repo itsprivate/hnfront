@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T15:28:40.740Z</updated>
+    <updated>2022-06-18T15:48:26.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[採用Erlang：難於上青天 (2019)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31776197</id>
+        <link href="https://news.ycombinator.com/item?id=31776197"/>
+        <updated>2022-06-17T10:20:43.000Z</updated>
+        <summary type="html"><![CDATA[Adopting Erlang: Hard Things to Get Right (2019)]]></summary>
+        <author>
+            <name>eproxus</name>
+            <uri>https://news.ycombinator.com/user?id=eproxus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的公司在六一節給你放假了嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將1995年的IBM Aptiva，66mhz 486DX2，變成i7 6700k
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31702564</id>
-        <link href="https://news.ycombinator.com/item?id=31702564"/>
-        <updated>2022-06-11T07:01:01.000Z</updated>
-        <summary type="html"><![CDATA[Turning a 1995 IBM Aptiva, 66mhz 486DX2, into an i7 6700k]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
         </author>
     </entry>
 </feed>
