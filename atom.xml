@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T20:29:24.391Z</updated>
+    <updated>2022-06-18T20:47:46.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[V 语言审查 (2022)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31793554</id>
+        <link href="https://news.ycombinator.com/item?id=31793554"/>
+        <updated>2022-06-18T20:31:35.000Z</updated>
+        <summary type="html"><![CDATA[V Language Review (2022)]]></summary>
+        <author>
+            <name>mawfig</name>
+            <uri>https://news.ycombinator.com/user?id=mawfig</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EOS - Emacs操作系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31792373</id>
+        <link href="https://news.ycombinator.com/item?id=31792373"/>
+        <updated>2022-06-18T18:19:42.000Z</updated>
+        <summary type="html"><![CDATA[EOS – Emacs Operating System]]></summary>
+        <author>
+            <name>whalesalad</name>
+            <uri>https://news.ycombinator.com/user?id=whalesalad</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件工程。软体部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31779464</id>
+        <link href="https://news.ycombinator.com/item?id=31779464"/>
+        <updated>2022-06-17T15:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Software Engineering: The Soft Parts]]></summary>
+        <author>
+            <name>lewisjoe</name>
+            <uri>https://news.ycombinator.com/user?id=lewisjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[打破我们的Latin-1假设
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>stanrivers</name>
             <uri>https://news.ycombinator.com/user?id=stanrivers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go模板预览（由WebAssembly提供）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31713654</id>
-        <link href="https://news.ycombinator.com/item?id=31713654"/>
-        <updated>2022-06-12T11:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Go Template Preview (Powered by WebAssembly)]]></summary>
-        <author>
-            <name>ricardbejarano</name>
-            <uri>https://news.ycombinator.com/user?id=ricardbejarano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oneplus违反安卓12内核的GPL规定
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31713525</id>
-        <link href="https://news.ycombinator.com/item?id=31713525"/>
-        <updated>2022-06-12T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Oneplus GPL violation for Android 12 Kernel]]></summary>
-        <author>
-            <name>brethil</name>
-            <uri>https://news.ycombinator.com/user?id=brethil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go中的Y Combinator与泛型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31713360</id>
-        <link href="https://news.ycombinator.com/item?id=31713360"/>
-        <updated>2022-06-12T10:10:03.000Z</updated>
-        <summary type="html"><![CDATA[The Y Combinator in Go with generics]]></summary>
-        <author>
-            <name>mfrw</name>
-            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
         </author>
     </entry>
 </feed>
