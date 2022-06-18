@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T19:58:18.576Z</updated>
+    <updated>2022-06-18T20:29:24.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[打破我们的Latin-1假设
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31793143</id>
+        <link href="https://news.ycombinator.com/item?id=31793143"/>
+        <updated>2022-06-18T19:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Breaking our Latin-1 assumptions]]></summary>
+        <author>
+            <name>sundarurfriend</name>
+            <uri>https://news.ycombinator.com/user?id=sundarurfriend</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒冷的阵雨
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31793030</id>
+        <link href="https://news.ycombinator.com/item?id=31793030"/>
+        <updated>2022-06-18T19:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Cold Showers]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因为为Windows交叉编译二进制文件比原生构建更容易。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31792790</id>
+        <link href="https://news.ycombinator.com/item?id=31792790"/>
+        <updated>2022-06-18T19:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Because cross-compiling binaries for Windows is easier than building natively]]></summary>
+        <author>
+            <name>slimsag</name>
+            <uri>https://news.ycombinator.com/user?id=slimsag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建立第二大脑。这本书
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>mfrw</name>
             <uri>https://news.ycombinator.com/user?id=mfrw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20世纪80年代和90年代的计算机都在哪里？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31713331</id>
-        <link href="https://news.ycombinator.com/item?id=31713331"/>
-        <updated>2022-06-12T10:04:09.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where are all the computers from the 1980's and 1990's?]]></summary>
-        <author>
-            <name>andrewstuart</name>
-            <uri>https://news.ycombinator.com/user?id=andrewstuart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Win32 API改变主显示器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31702616</id>
-        <link href="https://news.ycombinator.com/item?id=31702616"/>
-        <updated>2022-06-11T07:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Changing the primary display using the Win32 API]]></summary>
-        <author>
-            <name>michidk</name>
-            <uri>https://news.ycombinator.com/user?id=michidk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[转世者》。托马斯-卡莱尔的精神世界》(1920)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31701038</id>
-        <link href="https://news.ycombinator.com/item?id=31701038"/>
-        <updated>2022-06-11T01:07:43.000Z</updated>
-        <summary type="html"><![CDATA[The Discarnates: Thomas Carlyle in the Spirit-World (1920)]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
         </author>
     </entry>
 </feed>
