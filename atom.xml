@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T21:44:36.348Z</updated>
+    <updated>2022-06-18T22:26:54.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我创造了一些新的东西，使你的浏览体验很愉快
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31794175</id>
+        <link href="https://news.ycombinator.com/item?id=31794175"/>
+        <updated>2022-06-18T21:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I have created something new to make your browsing experience enjoyable]]></summary>
+        <author>
+            <name>mcdv</name>
+            <uri>https://news.ycombinator.com/user?id=mcdv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一种新的卫星工具向您展示地球景观的逐日变化
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我正在从VS代码切换到VS Codium
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31713625</id>
-        <link href="https://news.ycombinator.com/item?id=31713625"/>
-        <updated>2022-06-12T11:13:43.000Z</updated>
-        <summary type="html"><![CDATA[I’m Switching from VS Code to vs Codium]]></summary>
-        <author>
-            <name>rukshn</name>
-            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
         </author>
     </entry>
 </feed>
