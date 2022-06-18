@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T19:23:21.783Z</updated>
+    <updated>2022-06-18T19:43:54.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[矩阵和向量操作速度提高10倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31792206</id>
+        <link href="https://news.ycombinator.com/item?id=31792206"/>
+        <updated>2022-06-18T18:01:44.000Z</updated>
+        <summary type="html"><![CDATA[10x faster matrix and vector operations]]></summary>
+        <author>
+            <name>febin</name>
+            <uri>https://news.ycombinator.com/user?id=febin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币跌破18,300美元，抛售速度加快
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cx1221</name>
             <uri>https://news.ycombinator.com/user?id=cx1221</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PageToSheet: 从任何网页上下载表格到Excel
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31712432</id>
-        <link href="https://news.ycombinator.com/item?id=31712432"/>
-        <updated>2022-06-12T07:35:32.000Z</updated>
-        <summary type="html"><![CDATA[PageToSheet: Download Tables from Any Webpage to Excel]]></summary>
-        <author>
-            <name>yolo123</name>
-            <uri>https://news.ycombinator.com/user?id=yolo123</uri>
         </author>
     </entry>
 </feed>
