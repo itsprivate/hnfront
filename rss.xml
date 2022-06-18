@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 18 Jun 2022 02:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 03:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我分析了Reddit上最受欢迎的耳机
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31765734</link>
+            <guid>https://news.ycombinator.com/item?id=31765734</guid>
+            <pubDate>Thu, 16 Jun 2022 13:21:21 GMT</pubDate>
+            <description><![CDATA[I analyzed the most popular headphones on Reddit]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在C++上加装时间性内存安全
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31762574</link>
+            <guid>https://news.ycombinator.com/item?id=31762574</guid>
+            <pubDate>Thu, 16 Jun 2022 05:02:50 GMT</pubDate>
+            <description><![CDATA[Retrofitting Temporal Memory Safety on C++]]></description>
+        </item>
         <item>
             <title><![CDATA[Vale是一种快速、安全、简单的编程语言
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31705405</guid>
             <pubDate>Sat, 11 Jun 2022 15:51:20 GMT</pubDate>
             <description><![CDATA[Coinbase CEO Tweets ‘Quit and Find a Company You Believe In’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纪念苹果公司的牛顿，30年过去了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31705256</link>
-            <guid>https://news.ycombinator.com/item?id=31705256</guid>
-            <pubDate>Sat, 11 Jun 2022 15:33:03 GMT</pubDate>
-            <description><![CDATA[Remembering Apple’s Newton, 30 years on]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我不想去Chel-C
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31705239</link>
-            <guid>https://news.ycombinator.com/item?id=31705239</guid>
-            <pubDate>Sat, 11 Jun 2022 15:31:55 GMT</pubDate>
-            <description><![CDATA[I don't want to go to Chel-C]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T02:24:35.696Z</updated>
+    <updated>2022-06-18T03:39:59.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我分析了Reddit上最受歡迎的耳機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31765734</id>
+        <link href="https://news.ycombinator.com/item?id=31765734"/>
+        <updated>2022-06-16T13:21:21.000Z</updated>
+        <summary type="html"><![CDATA[I analyzed the most popular headphones on Reddit]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在C++上加裝時間性內存安全
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762574</id>
+        <link href="https://news.ycombinator.com/item?id=31762574"/>
+        <updated>2022-06-16T05:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Retrofitting Temporal Memory Safety on C++]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vale是一種快速、安全、簡單的編程語言
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aruanavekar</name>
             <uri>https://news.ycombinator.com/user?id=aruanavekar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紀念蘋果公司的牛頓，30年過去了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31705256</id>
-        <link href="https://news.ycombinator.com/item?id=31705256"/>
-        <updated>2022-06-11T15:33:03.000Z</updated>
-        <summary type="html"><![CDATA[Remembering Apple’s Newton, 30 years on]]></summary>
-        <author>
-            <name>jsvaughan</name>
-            <uri>https://news.ycombinator.com/user?id=jsvaughan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不想去Chel-C
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31705239</id>
-        <link href="https://news.ycombinator.com/item?id=31705239"/>
-        <updated>2022-06-11T15:31:55.000Z</updated>
-        <summary type="html"><![CDATA[I don't want to go to Chel-C]]></summary>
-        <author>
-            <name>contrapunctus</name>
-            <uri>https://news.ycombinator.com/user?id=contrapunctus</uri>
         </author>
     </entry>
 </feed>
