@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T07:24:47.759Z</updated>
+    <updated>2022-06-18T07:57:25.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你不需要那麼多的工作 (2015)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787599</id>
+        <link href="https://news.ycombinator.com/item?id=31787599"/>
+        <updated>2022-06-18T06:13:25.000Z</updated>
+        <summary type="html"><![CDATA[You Don’t Need to Work So Much (2015)]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷你版DALL-E的摺紙技術有多好？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mariojv</name>
             <uri>https://news.ycombinator.com/user?id=mariojv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneSignal（YC S11）正在招聘後端和全棧工程師
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31706014</id>
-        <link href="https://news.ycombinator.com/item?id=31706014"/>
-        <updated>2022-06-11T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[OneSignal (YC S11) is hiring back end and full stack engineers]]></summary>
-        <author>
-            <name>gdeglin</name>
-            <uri>https://news.ycombinator.com/user?id=gdeglin</uri>
         </author>
     </entry>
 </feed>
