@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T22:26:54.786Z</updated>
+    <updated>2022-06-18T22:57:56.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西屋公司的全電動住宅（1960年）[視頻］
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31772558</id>
+        <link href="https://news.ycombinator.com/item?id=31772558"/>
+        <updated>2022-06-17T00:12:35.000Z</updated>
+        <summary type="html"><![CDATA[The Westinghouse Total Electric Home (1960) [video]]]></summary>
+        <author>
+            <name>jasonhansel</name>
+            <uri>https://news.ycombinator.com/user?id=jasonhansel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我創造了一些新的東西，使你的瀏覽體驗很愉快
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>slyall</name>
             <uri>https://news.ycombinator.com/user?id=slyall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU加速的視頻解碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31704740</id>
-        <link href="https://news.ycombinator.com/item?id=31704740"/>
-        <updated>2022-06-11T14:38:27.000Z</updated>
-        <summary type="html"><![CDATA[GPU-Accelerated Video Decoding]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
