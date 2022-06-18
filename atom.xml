@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T18:52:33.193Z</updated>
+    <updated>2022-06-18T19:23:21.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特币跌破18,300美元，抛售速度加快
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31792575</id>
+        <link href="https://news.ycombinator.com/item?id=31792575"/>
+        <updated>2022-06-18T18:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin drops below $18,300 as sell-off accelerates]]></summary>
+        <author>
+            <name>mfiguiere</name>
+            <uri>https://news.ycombinator.com/user?id=mfiguiere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Git子模块如此糟糕？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yolo123</name>
             <uri>https://news.ycombinator.com/user?id=yolo123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust中的开源联合链接聚合器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31712332</id>
-        <link href="https://news.ycombinator.com/item?id=31712332"/>
-        <updated>2022-06-12T07:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Open Source federated link aggregator in rust]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
         </author>
     </entry>
 </feed>
