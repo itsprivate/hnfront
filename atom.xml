@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-18T05:25:28.663Z</updated>
+    <updated>2022-06-18T06:33:37.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[胡说八道的工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787557</id>
+        <link href="https://news.ycombinator.com/item?id=31787557"/>
+        <updated>2022-06-18T05:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Bullshit Jobs]]></summary>
+        <author>
+            <name>ppjim</name>
+            <uri>https://news.ycombinator.com/user?id=ppjim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可锁定--分布式系统的同步锁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764026</id>
+        <link href="https://news.ycombinator.com/item?id=31764026"/>
+        <updated>2022-06-16T09:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lockable – sync locks for distributed systems]]></summary>
+        <author>
+            <name>keyless_</name>
+            <uri>https://news.ycombinator.com/user?id=keyless_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scott Aaronson将在OpenAI工作1年的休假时间
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>conanxin</name>
             <uri>https://news.ycombinator.com/user?id=conanxin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux内核可以自行生成进程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31704824</id>
-        <link href="https://news.ycombinator.com/item?id=31704824"/>
-        <updated>2022-06-11T14:48:57.000Z</updated>
-        <summary type="html"><![CDATA[The Linux kernel can spawn processes on its own]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生物学家能修好收音机吗？或者，我在研究细胞凋亡时学到的东西
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31697757</id>
-        <link href="https://news.ycombinator.com/item?id=31697757"/>
-        <updated>2022-06-10T18:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Can a biologist fix a radio? Or, what I learned while studying apoptosis]]></summary>
-        <author>
-            <name>gumby</name>
-            <uri>https://news.ycombinator.com/user?id=gumby</uri>
         </author>
     </entry>
 </feed>
