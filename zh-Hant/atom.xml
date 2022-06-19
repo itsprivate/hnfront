@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-19T10:46:36.421Z</updated>
+    <updated>2022-06-19T11:00:07.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Type-ish - 一個用於bash的運行時類型檢查器，在bash中。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797251</id>
+        <link href="https://news.ycombinator.com/item?id=31797251"/>
+        <updated>2022-06-19T08:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Type-ish – A runtime type checker for bash, in bash]]></summary>
+        <author>
+            <name>mgliwka</name>
+            <uri>https://news.ycombinator.com/user?id=mgliwka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[騎自行車旅遊的原因
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國家終於允許青少年睡懶覺了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711020</id>
-        <link href="https://news.ycombinator.com/item?id=31711020"/>
-        <updated>2022-06-12T03:20:21.000Z</updated>
-        <summary type="html"><![CDATA[The State Finally Letting Teens Sleep In]]></summary>
-        <author>
-            <name>gadflyinyoureye</name>
-            <uri>https://news.ycombinator.com/user?id=gadflyinyoureye</uri>
         </author>
     </entry>
 </feed>
