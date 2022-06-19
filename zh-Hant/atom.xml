@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-19T03:54:09.182Z</updated>
+    <updated>2022-06-19T04:40:52.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mold/MacOS比蘋果的默認鏈接器鏈接Chrome快11倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769699</id>
+        <link href="https://news.ycombinator.com/item?id=31769699"/>
+        <updated>2022-06-16T19:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Mold/macOS is 11 times faster than the Apple's default linker to link Chrome]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一家中等規模的創業公司進行鏽蝕宣傳
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜工程師因在家工作的費用而提起訴訟
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715104</id>
-        <link href="https://news.ycombinator.com/item?id=31715104"/>
-        <updated>2022-06-12T15:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Engineer Sues for Work from Home Costs]]></summary>
-        <author>
-            <name>aaronchall</name>
-            <uri>https://news.ycombinator.com/user?id=aaronchall</uri>
         </author>
     </entry>
 </feed>
