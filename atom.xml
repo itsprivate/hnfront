@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-19T10:00:26.612Z</updated>
+    <updated>2022-06-19T10:29:49.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安全短信应用程序和集团协议，第二部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31766609</id>
+        <link href="https://news.ycombinator.com/item?id=31766609"/>
+        <updated>2022-06-16T14:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Secure Messaging Apps and Group Protocols, Part 2]]></summary>
+        <author>
+            <name>transpute</name>
+            <uri>https://news.ycombinator.com/user?id=transpute</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们是如何完成Linux的内核模式设置（'KMS'）的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过回答 "为什么"、"是什么"、"如何 "来写出更好的文章
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711071</id>
-        <link href="https://news.ycombinator.com/item?id=31711071"/>
-        <updated>2022-06-12T03:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Writing Better by Answering Why, What, How]]></summary>
-        <author>
-            <name>7d7n</name>
-            <uri>https://news.ycombinator.com/user?id=7d7n</uri>
         </author>
     </entry>
 </feed>
