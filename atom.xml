@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-19T19:24:41.452Z</updated>
+    <updated>2022-06-19T19:44:53.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Telegram庆祝7亿用户并推出Telegram Premium
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31802245</id>
+        <link href="https://news.ycombinator.com/item?id=31802245"/>
+        <updated>2022-06-19T18:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Telegram celebrates 700M Users and introduces Telegram Premium]]></summary>
+        <author>
+            <name>bathory</name>
+            <uri>https://news.ycombinator.com/user?id=bathory</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推进std:unordered_map实现的技术状态
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31801814</id>
+        <link href="https://news.ycombinator.com/item?id=31801814"/>
+        <updated>2022-06-19T18:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Advancing the state of the art for std:unordered_map implementations]]></summary>
+        <author>
+            <name>fanf2</name>
+            <uri>https://news.ycombinator.com/user?id=fanf2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新学会学习
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>exolymph</name>
             <uri>https://news.ycombinator.com/user?id=exolymph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不，LaMDA是没有知觉的。甚至没有一点
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31721584</id>
-        <link href="https://news.ycombinator.com/item?id=31721584"/>
-        <updated>2022-06-13T05:36:07.000Z</updated>
-        <summary type="html"><![CDATA[No, LaMDA is not sentient. Not even slightly]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哺乳动物可以通过其肠道呼吸
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31721077</id>
-        <link href="https://news.ycombinator.com/item?id=31721077"/>
-        <updated>2022-06-13T04:21:33.000Z</updated>
-        <summary type="html"><![CDATA[Mammals can breathe through their intestines]]></summary>
-        <author>
-            <name>FeaturelessBug</name>
-            <uri>https://news.ycombinator.com/user?id=FeaturelessBug</uri>
         </author>
     </entry>
 </feed>
