@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-19T09:29:24.900Z</updated>
+    <updated>2022-06-19T10:00:26.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們是如何完成Linux的內核模式設置（'KMS'）的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797587</id>
+        <link href="https://news.ycombinator.com/item?id=31797587"/>
+        <updated>2022-06-19T09:05:26.000Z</updated>
+        <summary type="html"><![CDATA[How we wound up with Linux's kernel mode setting ('KMS')]]></summary>
+        <author>
+            <name>fcambus</name>
+            <uri>https://news.ycombinator.com/user?id=fcambus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼科學新聞如此糟糕？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>7d7n</name>
             <uri>https://news.ycombinator.com/user?id=7d7n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM免費提供數以千計的研究文章；開放第一個50年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31716350</id>
-        <link href="https://news.ycombinator.com/item?id=31716350"/>
-        <updated>2022-06-12T17:28:46.000Z</updated>
-        <summary type="html"><![CDATA[ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years]]></summary>
-        <author>
-            <name>kulandai</name>
-            <uri>https://news.ycombinator.com/user?id=kulandai</uri>
         </author>
     </entry>
 </feed>
