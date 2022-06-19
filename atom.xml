@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-19T17:45:38.256Z</updated>
+    <updated>2022-06-19T17:58:31.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["谷歌 "的程序员。一个白痴如何雇佣了更多的白痴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31801462</id>
+        <link href="https://news.ycombinator.com/item?id=31801462"/>
+        <updated>2022-06-19T17:32:58.000Z</updated>
+        <summary type="html"><![CDATA[“Google” programmers. How one idiot hired a couple more idiots]]></summary>
+        <author>
+            <name>AndreyKarpov</name>
+            <uri>https://news.ycombinator.com/user?id=AndreyKarpov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个飞行员对世界上伟大城市的赞美之词
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31795064</id>
+        <link href="https://news.ycombinator.com/item?id=31795064"/>
+        <updated>2022-06-19T00:28:31.000Z</updated>
+        <summary type="html"><![CDATA[A pilot’s paean to the great cities of the world]]></summary>
+        <author>
+            <name>Hooke</name>
+            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么网络摄像头还不够好
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aleph.js - Deno的全栈框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31720549</id>
-        <link href="https://news.ycombinator.com/item?id=31720549"/>
-        <updated>2022-06-13T03:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Aleph.js – Fullstack Framework in Deno]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mptcp。将笔记本电脑从GBit移动到无线而不被应用程序注意到？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31720238</id>
-        <link href="https://news.ycombinator.com/item?id=31720238"/>
-        <updated>2022-06-13T02:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Mptcp: Moving laptop from GBit to wireless without applications noticing?]]></summary>
-        <author>
-            <name>globalc</name>
-            <uri>https://news.ycombinator.com/user?id=globalc</uri>
         </author>
     </entry>
 </feed>
