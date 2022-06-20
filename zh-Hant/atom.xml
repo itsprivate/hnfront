@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-20T22:47:13.294Z</updated>
+    <updated>2022-06-20T23:01:45.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圖解QUIC的聯繫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31817144</id>
+        <link href="https://news.ycombinator.com/item?id=31817144"/>
+        <updated>2022-06-20T22:40:15.000Z</updated>
+        <summary type="html"><![CDATA[The Illustrated QUIC Connection]]></summary>
+        <author>
+            <name>caust1c</name>
+            <uri>https://news.ycombinator.com/user?id=caust1c</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EarthFM自然聲景觀
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31816988</id>
+        <link href="https://news.ycombinator.com/item?id=31816988"/>
+        <updated>2022-06-20T22:27:46.000Z</updated>
+        <summary type="html"><![CDATA[EarthFM Natural Soundscapes]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mullvad現在正持續向Qubes操作系統捐款
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pplonski86</name>
             <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用開源組件構建自我驅動的Kafka集群
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31714166</id>
-        <link href="https://news.ycombinator.com/item?id=31714166"/>
-        <updated>2022-06-12T13:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Building Self-driving Kafka clusters using open source components]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯里拉查是怎麼回事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735636</id>
-        <link href="https://news.ycombinator.com/item?id=31735636"/>
-        <updated>2022-06-14T07:03:07.000Z</updated>
-        <summary type="html"><![CDATA[What’s Going on with Sriracha?]]></summary>
-        <author>
-            <name>marban</name>
-            <uri>https://news.ycombinator.com/user?id=marban</uri>
         </author>
     </entry>
 </feed>

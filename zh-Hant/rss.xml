@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 23:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[圖解QUIC的聯繫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31817144</link>
+            <guid>https://news.ycombinator.com/item?id=31817144</guid>
+            <pubDate>Mon, 20 Jun 2022 22:40:15 GMT</pubDate>
+            <description><![CDATA[The Illustrated QUIC Connection]]></description>
+        </item>
+        <item>
+            <title><![CDATA[EarthFM自然聲景觀
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31816988</link>
+            <guid>https://news.ycombinator.com/item?id=31816988</guid>
+            <pubDate>Mon, 20 Jun 2022 22:27:46 GMT</pubDate>
+            <description><![CDATA[EarthFM Natural Soundscapes]]></description>
+        </item>
         <item>
             <title><![CDATA[Mullvad現在正持續向Qubes操作系統捐款
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31736164</guid>
             <pubDate>Tue, 14 Jun 2022 08:26:32 GMT</pubDate>
             <description><![CDATA[How to create a dashboard in Python with Jupyter Notebook]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用開源組件構建自我驅動的Kafka集群
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31714166</link>
-            <guid>https://news.ycombinator.com/item?id=31714166</guid>
-            <pubDate>Sun, 12 Jun 2022 13:03:19 GMT</pubDate>
-            <description><![CDATA[Building Self-driving Kafka clusters using open source components]]></description>
-        </item>
-        <item>
-            <title><![CDATA[斯里拉查是怎麼回事？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31735636</link>
-            <guid>https://news.ycombinator.com/item?id=31735636</guid>
-            <pubDate>Tue, 14 Jun 2022 07:03:07 GMT</pubDate>
-            <description><![CDATA[What’s Going on with Sriracha?]]></description>
         </item>
     </channel>
 </rss>
