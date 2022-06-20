@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-20T11:44:16.116Z</updated>
+    <updated>2022-06-20T13:00:15.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kable（為API產品計費，YC W22）正在招聘創始工程師
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31809257</id>
+        <link href="https://news.ycombinator.com/item?id=31809257"/>
+        <updated>2022-06-20T12:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Kable (Billing for API Products, YC W22) Is Hiring Founding Engineers]]></summary>
+        <author>
+            <name>asommer12</name>
+            <uri>https://news.ycombinator.com/user?id=asommer12</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓C++程序員熟悉Raku編程語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797918</id>
+        <link href="https://news.ycombinator.com/item?id=31797918"/>
+        <updated>2022-06-19T10:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Make the Raku programming language familiar to C++ programmers]]></summary>
+        <author>
+            <name>lizmat</name>
+            <uri>https://news.ycombinator.com/user?id=lizmat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前AWS工程師因2.7億美元的Capital One黑客攻擊而被定罪
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>camjohnson26</name>
             <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓代碼更快
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715635</id>
-        <link href="https://news.ycombinator.com/item?id=31715635"/>
-        <updated>2022-06-12T16:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Making Code Faster]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發者的SaaS合規性指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31728693</id>
-        <link href="https://news.ycombinator.com/item?id=31728693"/>
-        <updated>2022-06-13T17:32:15.000Z</updated>
-        <summary type="html"><![CDATA[The Developer's Guide to SaaS Compliance]]></summary>
-        <author>
-            <name>serverlessmom</name>
-            <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
         </author>
     </entry>
 </feed>
