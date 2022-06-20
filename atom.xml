@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-20T23:27:31.966Z</updated>
+    <updated>2022-06-20T23:58:58.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随着科罗拉多河水危机的恶化，紧急呼吁各州 "采取行动
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31817549</id>
+        <link href="https://news.ycombinator.com/item?id=31817549"/>
+        <updated>2022-06-20T23:22:11.000Z</updated>
+        <summary type="html"><![CDATA[As water crisis worsens on Colorado River, an urgent call for states to ‘act’]]></summary>
+        <author>
+            <name>jdkee</name>
+            <uri>https://news.ycombinator.com/user?id=jdkee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFS：早期的岁月
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Geekette</name>
             <uri>https://news.ycombinator.com/user?id=Geekette</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[几乎不懂CS的CS毕业生
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31736094</id>
-        <link href="https://news.ycombinator.com/item?id=31736094"/>
-        <updated>2022-06-14T08:11:39.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: CS grad who barely knows any CS]]></summary>
-        <author>
-            <name>nevillain</name>
-            <uri>https://news.ycombinator.com/user?id=nevillain</uri>
         </author>
     </entry>
 </feed>
