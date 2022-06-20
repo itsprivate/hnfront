@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-20T10:00:40.094Z</updated>
+    <updated>2022-06-20T10:36:15.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每行寫一句話
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31808093</id>
+        <link href="https://news.ycombinator.com/item?id=31808093"/>
+        <updated>2022-06-20T09:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Writing One Sentence per Line]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[進入Gnome模式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798601</id>
+        <link href="https://news.ycombinator.com/item?id=31798601"/>
+        <updated>2022-06-19T12:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Getting to Gnome Mode]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼全棧工程師是有問題的
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jstreebin</name>
             <uri>https://news.ycombinator.com/user?id=jstreebin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鉛中毒可能並沒有導致羅馬帝國的衰落
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31727727</id>
-        <link href="https://news.ycombinator.com/item?id=31727727"/>
-        <updated>2022-06-13T16:26:59.000Z</updated>
-        <summary type="html"><![CDATA[Lead poisoning probably did not cause the downfall of the Roman Empire]]></summary>
-        <author>
-            <name>dbrereton</name>
-            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的博客的20年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31727464</id>
-        <link href="https://news.ycombinator.com/item?id=31727464"/>
-        <updated>2022-06-13T16:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Twenty years of my blog]]></summary>
-        <author>
-            <name>simonw</name>
-            <uri>https://news.ycombinator.com/user?id=simonw</uri>
         </author>
     </entry>
 </feed>
