@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-20T11:29:09.632Z</updated>
+    <updated>2022-06-20T11:44:16.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前AWS工程師因2.7億美元的Capital One黑客攻擊而被定罪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31808844</id>
+        <link href="https://news.ycombinator.com/item?id=31808844"/>
+        <updated>2022-06-20T11:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Former AWS engineer convicted over $270m Capital One hack]]></summary>
+        <author>
+            <name>hericium</name>
+            <uri>https://news.ycombinator.com/user?id=hericium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python的OOP與Lisp的CLOS相比有什麼優勢？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>serverlessmom</name>
             <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯邦貿易委員會採取行動反對私募股權公司收購獸醫診所
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31728350</id>
-        <link href="https://news.ycombinator.com/item?id=31728350"/>
-        <updated>2022-06-13T17:07:04.000Z</updated>
-        <summary type="html"><![CDATA[FTC acts against private equity firm’s acquisition of veterinary clinics]]></summary>
-        <author>
-            <name>demail</name>
-            <uri>https://news.ycombinator.com/user?id=demail</uri>
         </author>
     </entry>
 </feed>
