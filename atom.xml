@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-20T22:28:23.008Z</updated>
+    <updated>2022-06-20T22:47:13.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mullvad现在正持续向Qubes操作系统捐款
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31816912</id>
+        <link href="https://news.ycombinator.com/item?id=31816912"/>
+        <updated>2022-06-20T22:21:16.000Z</updated>
+        <summary type="html"><![CDATA[Mullvad is now continuously donating to Qubes OS]]></summary>
+        <author>
+            <name>jerheinze</name>
+            <uri>https://news.ycombinator.com/user?id=jerheinze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊Lambda上的WebAssembly。经验之谈
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>marban</name>
             <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萨尔瓦多的比特币购买跟踪器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735580</id>
-        <link href="https://news.ycombinator.com/item?id=31735580"/>
-        <updated>2022-06-14T06:55:52.000Z</updated>
-        <summary type="html"><![CDATA[El Salvador's Bitcoin Buys Tracker]]></summary>
-        <author>
-            <name>puranjay</name>
-            <uri>https://news.ycombinator.com/user?id=puranjay</uri>
         </author>
     </entry>
 </feed>
