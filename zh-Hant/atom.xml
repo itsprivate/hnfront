@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-21T08:46:50.431Z</updated>
+    <updated>2022-06-21T09:36:12.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[定時攻擊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31821507</id>
+        <link href="https://news.ycombinator.com/item?id=31821507"/>
+        <updated>2022-06-21T08:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Timing Attacks]]></summary>
+        <author>
+            <name>rdpintqogeogsaa</name>
+            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN是如何做到始終在線的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31821269</id>
+        <link href="https://news.ycombinator.com/item?id=31821269"/>
+        <updated>2022-06-21T07:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How does HN manage to be always online?]]></summary>
+        <author>
+            <name>hacsky</name>
+            <uri>https://news.ycombinator.com/user?id=hacsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[足夠先進的測試（2019年）
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>VHRanger</name>
             <uri>https://news.ycombinator.com/user?id=VHRanger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leica 0-Series no. 105號，由Oscar Barnack擁有
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715236</id>
-        <link href="https://news.ycombinator.com/item?id=31715236"/>
-        <updated>2022-06-12T15:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Leica 0-Series no. 105 owned by'Oscar Barnack]]></summary>
-        <author>
-            <name>marban</name>
-            <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[純文本加密貨幣價格
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31738871</id>
-        <link href="https://news.ycombinator.com/item?id=31738871"/>
-        <updated>2022-06-14T13:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Plain Text Cryptocurrency Prices]]></summary>
-        <author>
-            <name>guillaumec</name>
-            <uri>https://news.ycombinator.com/user?id=guillaumec</uri>
         </author>
     </entry>
 </feed>
