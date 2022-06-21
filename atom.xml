@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-21T14:01:13.973Z</updated>
+    <updated>2022-06-21T14:37:19.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[锈蚀初学者系列
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824185</id>
+        <link href="https://news.ycombinator.com/item?id=31824185"/>
+        <updated>2022-06-21T14:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Beginner's Series to Rust]]></summary>
+        <author>
+            <name>philonoist</name>
+            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom.us已关闭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824096</id>
+        <link href="https://news.ycombinator.com/item?id=31824096"/>
+        <updated>2022-06-21T14:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Zoom.us is Down]]></summary>
+        <author>
+            <name>rkwasny</name>
+            <uri>https://news.ycombinator.com/user?id=rkwasny</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用SQLite对CSV文件运行查询的单行本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824030</id>
+        <link href="https://news.ycombinator.com/item?id=31824030"/>
+        <updated>2022-06-21T13:59:36.000Z</updated>
+        <summary type="html"><![CDATA[One-liner for running queries against CSV files with SQLite]]></summary>
+        <author>
+            <name>jdblair</name>
+            <uri>https://news.ycombinator.com/user?id=jdblair</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akedo - 复古游戏和编码平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31823898</id>
+        <link href="https://news.ycombinator.com/item?id=31823898"/>
+        <updated>2022-06-21T13:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Akedo – Retro gaming and coding platform]]></summary>
+        <author>
+            <name>yrandom</name>
+            <uri>https://news.ycombinator.com/user?id=yrandom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hare编程语言的安全特性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31823622</id>
+        <link href="https://news.ycombinator.com/item?id=31823622"/>
+        <updated>2022-06-21T13:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Safety features of the Hare programming language]]></summary>
+        <author>
+            <name>ddevault</name>
+            <uri>https://news.ycombinator.com/user?id=ddevault</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[志愿者的自动文本/电子邮件提醒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31823617</id>
+        <link href="https://news.ycombinator.com/item?id=31823617"/>
+        <updated>2022-06-21T13:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Automated text/email reminders for volunteers]]></summary>
+        <author>
+            <name>ellesundberg</name>
+            <uri>https://news.ycombinator.com/user?id=ellesundberg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洗衣店的符号没有意义
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31823485</id>
+        <link href="https://news.ycombinator.com/item?id=31823485"/>
+        <updated>2022-06-21T13:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Laundry symbols make no sense]]></summary>
+        <author>
+            <name>allenwhsu</name>
+            <uri>https://news.ycombinator.com/user?id=allenwhsu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们如何让PostgreSQL上的数据聚合变得更好、更快
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase解雇了约1100名员工
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31742590</id>
-        <link href="https://news.ycombinator.com/item?id=31742590"/>
-        <updated>2022-06-14T17:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Lays Off Around 1,100 Employees]]></summary>
-        <author>
-            <name>kripy</name>
-            <uri>https://news.ycombinator.com/user?id=kripy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有销售工程师在这里？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741881</id>
-        <link href="https://news.ycombinator.com/item?id=31741881"/>
-        <updated>2022-06-14T16:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any Sales Engineers out here?]]></summary>
-        <author>
-            <name>jklein11</name>
-            <uri>https://news.ycombinator.com/user?id=jklein11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[协调逆风。组织如何像粘液霉菌一样
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31727144</id>
-        <link href="https://news.ycombinator.com/item?id=31727144"/>
-        <updated>2022-06-13T15:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Coordination Headwind: How organizations are like slime molds]]></summary>
-        <author>
-            <name>fixel</name>
-            <uri>https://news.ycombinator.com/user?id=fixel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarus在macOS Ventura中重返家园
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741589</id>
-        <link href="https://news.ycombinator.com/item?id=31741589"/>
-        <updated>2022-06-14T16:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Clarus Returns Home in macOS Ventura]]></summary>
-        <author>
-            <name>shadowfacts</name>
-            <uri>https://news.ycombinator.com/user?id=shadowfacts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果和MLS将从2023年开始连续10年播放MLS的所有比赛
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741421</id>
-        <link href="https://news.ycombinator.com/item?id=31741421"/>
-        <updated>2022-06-14T16:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Apple and MLS to present all MLS matches for 10 years, beginning in 2023]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你只有这么多时间。你是否正确使用它？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741290</id>
-        <link href="https://news.ycombinator.com/item?id=31741290"/>
-        <updated>2022-06-14T15:56:22.000Z</updated>
-        <summary type="html"><![CDATA[You Have Only So Much Time. Are You Using It Right?]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网上侮辱、欺负人的人要坐牢。日本通过新的法律。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741219</id>
-        <link href="https://news.ycombinator.com/item?id=31741219"/>
-        <updated>2022-06-14T15:51:35.000Z</updated>
-        <summary type="html"><![CDATA[Jail time for online insults, bullying. Japan passes new law.]]></summary>
-        <author>
-            <name>bamboozled</name>
-            <uri>https://news.ycombinator.com/user?id=bamboozled</uri>
         </author>
     </entry>
 </feed>
