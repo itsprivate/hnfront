@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-21T19:28:33.907Z</updated>
+    <updated>2022-06-21T19:45:38.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沖洗廁所後艱難梭菌的氣溶膠化：馬桶蓋的作用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31827805</id>
+        <link href="https://news.ycombinator.com/item?id=31827805"/>
+        <updated>2022-06-21T19:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Aerosolization of C. difficile after flushing toilets: the role of toilet lids]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X-Plane 12飛行模型更新 - 超音速過渡、三角翼和質量
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jonathanehrlich</name>
             <uri>https://news.ycombinator.com/user?id=jonathanehrlich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker在（有根的）Android上的應用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31747509</id>
-        <link href="https://news.ycombinator.com/item?id=31747509"/>
-        <updated>2022-06-14T23:53:07.000Z</updated>
-        <summary type="html"><![CDATA[Docker on (rooted) Android]]></summary>
-        <author>
-            <name>turtleyacht</name>
-            <uri>https://news.ycombinator.com/user?id=turtleyacht</uri>
         </author>
     </entry>
 </feed>
