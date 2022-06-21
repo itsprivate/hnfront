@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-21T22:29:24.212Z</updated>
+    <updated>2022-06-21T23:32:40.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[会造成最大伤害的ML错误之一：没有收集正确的特征
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820654</id>
+        <link href="https://news.ycombinator.com/item?id=31820654"/>
+        <updated>2022-06-21T06:39:01.000Z</updated>
+        <summary type="html"><![CDATA[One of the ML mistakes that will hurt most: not collecting the right features]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viddy。一个现代的手表指令。时间机器和传呼机等。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>antigizmo</name>
             <uri>https://news.ycombinator.com/user?id=antigizmo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[磁化激光驱动的惯性核聚变内爆器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31728106</id>
-        <link href="https://news.ycombinator.com/item?id=31728106"/>
-        <updated>2022-06-13T16:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Magnetizing laser-driven inertial fusion implosions]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
