@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 17:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:52:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用代碼設計數十億的電路
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31838690</link>
+            <guid>https://news.ycombinator.com/item?id=31838690</guid>
+            <pubDate>Wed, 22 Jun 2022 17:02:37 GMT</pubDate>
+            <description><![CDATA[Designing Billions of Circuits with Code]]></description>
+        </item>
         <item>
             <title><![CDATA[Launch HN: Astro (YC W21) - 在拉丁美洲建立自己的開發團隊
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31760172</guid>
             <pubDate>Wed, 15 Jun 2022 22:21:24 GMT</pubDate>
             <description><![CDATA[The Dubious Science of Microaggressions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rust和WebAssembly構建一個Web應用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31741119</link>
-            <guid>https://news.ycombinator.com/item?id=31741119</guid>
-            <pubDate>Tue, 14 Jun 2022 15:42:23 GMT</pubDate>
-            <description><![CDATA[Building a web application with Rust and WebAssembly]]></description>
         </item>
     </channel>
 </rss>

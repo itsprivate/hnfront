@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T17:25:58.100Z</updated>
+    <updated>2022-06-22T17:52:25.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用代码设计数十亿的电路
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838690</id>
+        <link href="https://news.ycombinator.com/item?id=31838690"/>
+        <updated>2022-06-22T17:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Designing Billions of Circuits with Code]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launch HN: Astro (YC W21) - 在拉丁美洲建立自己的开发团队
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gorwell</name>
             <uri>https://news.ycombinator.com/user?id=gorwell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Rust和WebAssembly构建一个Web应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741119</id>
-        <link href="https://news.ycombinator.com/item?id=31741119"/>
-        <updated>2022-06-14T15:42:23.000Z</updated>
-        <summary type="html"><![CDATA[Building a web application with Rust and WebAssembly]]></summary>
-        <author>
-            <name>sylvain_kerkour</name>
-            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
         </author>
     </entry>
 </feed>
