@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T19:46:29.544Z</updated>
+    <updated>2022-06-22T19:59:17.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聳人聽聞的開發者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31840331</id>
+        <link href="https://news.ycombinator.com/item?id=31840331"/>
+        <updated>2022-06-22T19:00:18.000Z</updated>
+        <summary type="html"><![CDATA[The Grug Brained Developer]]></summary>
+        <author>
+            <name>huimang</name>
+            <uri>https://news.ycombinator.com/user?id=huimang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據差異--跨數據庫比較任何大小的表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837307</id>
+        <link href="https://news.ycombinator.com/item?id=31837307"/>
+        <updated>2022-06-22T15:28:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Data Diff – compare tables of any size across databases]]></summary>
+        <author>
+            <name>hichkaker</name>
+            <uri>https://news.ycombinator.com/user?id=hichkaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個專門抓捕商店偷竊者的子網站
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ghuntley</name>
             <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動物如何感知世界
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31746395</id>
-        <link href="https://news.ycombinator.com/item?id=31746395"/>
-        <updated>2022-06-14T21:37:46.000Z</updated>
-        <summary type="html"><![CDATA[How Animals Perceive the World]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[托爾金為第一版 "霍比特人 "繪製的鮮為人知的原始圖畫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31762392</id>
-        <link href="https://news.ycombinator.com/item?id=31762392"/>
-        <updated>2022-06-16T04:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Tolkien’s Little-Known Original Drawings for the First Edition of “The Hobbit”]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
