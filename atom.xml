@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T18:00:19.309Z</updated>
+    <updated>2022-06-22T18:39:38.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[JVM剖析Quark #10: String.intern()
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31839515</id>
+        <link href="https://news.ycombinator.com/item?id=31839515"/>
+        <updated>2022-06-22T17:58:30.000Z</updated>
+        <summary type="html"><![CDATA[JVM Anatomy Quark #10: String.intern()]]></summary>
+        <author>
+            <name>hyperpape</name>
+            <uri>https://news.ycombinator.com/user?id=hyperpape</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用电量创历史新高--夏季停电风险告诉我们电网的情况
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31839511</id>
+        <link href="https://news.ycombinator.com/item?id=31839511"/>
+        <updated>2022-06-22T17:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Power use is hitting record highs – what summer outage risks tell us about grids]]></summary>
+        <author>
+            <name>smartcar_</name>
+            <uri>https://news.ycombinator.com/user?id=smartcar_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路径自回归文本-图像模型(Parti)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31839193</id>
+        <link href="https://news.ycombinator.com/item?id=31839193"/>
+        <updated>2022-06-22T17:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Pathways Autoregressive Text-to-Image Model (Parti)]]></summary>
+        <author>
+            <name>amrrs</name>
+            <uri>https://news.ycombinator.com/user?id=amrrs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艾格尼丝-吉伯恩的《太阳、月亮和星星的故事》（1898年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31831532</id>
+        <link href="https://news.ycombinator.com/item?id=31831532"/>
+        <updated>2022-06-22T02:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Agnes Giberne's the Story of the Sun, Moon, and Stars (1898)]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基础设施SaaS--控制平面优先架构
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>troyastorino</name>
             <uri>https://news.ycombinator.com/user?id=troyastorino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我想吃卷饼。脸书搜索把我送到了45米外的一家死气沉沉的餐厅
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761061</id>
-        <link href="https://news.ycombinator.com/item?id=31761061"/>
-        <updated>2022-06-16T00:10:30.000Z</updated>
-        <summary type="html"><![CDATA[I wanted burritos. Facebook Search sent me to a dead restaurant 45m away]]></summary>
-        <author>
-            <name>amauboussin</name>
-            <uri>https://news.ycombinator.com/user?id=amauboussin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物联网设备可在地球毁灭前几小时向你发出超新星的警告
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31760485</id>
-        <link href="https://news.ycombinator.com/item?id=31760485"/>
-        <updated>2022-06-15T22:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: IoT device to warn you of a supernova hours before Earth is destroyed]]></summary>
-        <author>
-            <name>wanderingjew</name>
-            <uri>https://news.ycombinator.com/user?id=wanderingjew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLP：我们是如何来到这里的？大型语言模型在哪里合适？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741511</id>
-        <link href="https://news.ycombinator.com/item?id=31741511"/>
-        <updated>2022-06-14T16:10:54.000Z</updated>
-        <summary type="html"><![CDATA[NLP: How did we get here? Where do large language models fit?]]></summary>
-        <author>
-            <name>peterlk</name>
-            <uri>https://news.ycombinator.com/user?id=peterlk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长颈鹿的脖子是为性战斗而进化的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741185</id>
-        <link href="https://news.ycombinator.com/item?id=31741185"/>
-        <updated>2022-06-14T15:48:37.000Z</updated>
-        <summary type="html"><![CDATA[The Giraffe Neck Evolved for Sexual Combat]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
         </author>
     </entry>
 </feed>
