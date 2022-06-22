@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T19:25:18.049Z</updated>
+    <updated>2022-06-22T19:46:29.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个专门抓捕商店偷窃者的子网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31840770</id>
+        <link href="https://news.ycombinator.com/item?id=31840770"/>
+        <updated>2022-06-22T19:34:15.000Z</updated>
+        <summary type="html"><![CDATA[A subreddit dedicated to busting shoplifters]]></summary>
+        <author>
+            <name>not-now</name>
+            <uri>https://news.ycombinator.com/user?id=not-now</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地球在我们脚下移动得很远。研究显示地球的内部核心在摆动
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们把50万个文件放在一个Git存储库中，我们学到了什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31762245</id>
-        <link href="https://news.ycombinator.com/item?id=31762245"/>
-        <updated>2022-06-16T03:42:28.000Z</updated>
-        <summary type="html"><![CDATA[We Put Half a Million Files in One Git Repository, Here’s What We Learned]]></summary>
-        <author>
-            <name>Maxious</name>
-            <uri>https://news.ycombinator.com/user?id=Maxious</uri>
         </author>
     </entry>
 </feed>
