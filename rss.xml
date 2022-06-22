@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 10:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 10:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于React的富文本编辑器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31822619</link>
+            <guid>https://news.ycombinator.com/item?id=31822619</guid>
+            <pubDate>Tue, 21 Jun 2022 11:20:01 GMT</pubDate>
+            <description><![CDATA[Rich Text Editor for React]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年卡塔尔世界杯上的一夜情将是非法的
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31753345</guid>
             <pubDate>Wed, 15 Jun 2022 14:23:52 GMT</pubDate>
             <description><![CDATA[Select ’Hello, World’: Serverless Postgres Built for the Cloud]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu Core 22现已上市--针对物联网和嵌入式设备进行了优化
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31752176</link>
-            <guid>https://news.ycombinator.com/item?id=31752176</guid>
-            <pubDate>Wed, 15 Jun 2022 12:51:17 GMT</pubDate>
-            <description><![CDATA[Ubuntu Core 22 is now available – optimised for IoT and embedded devices]]></description>
         </item>
     </channel>
 </rss>
