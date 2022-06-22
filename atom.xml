@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T06:37:12.596Z</updated>
+    <updated>2022-06-22T06:56:39.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clang静态分析器和Z3约束解算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832588</id>
+        <link href="https://news.ycombinator.com/item?id=31832588"/>
+        <updated>2022-06-22T06:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Clang Static Analyzer and the Z3 constraint solver]]></summary>
+        <author>
+            <name>fcambus</name>
+            <uri>https://news.ycombinator.com/user?id=fcambus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[带有IPFS的双子座
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31831437</id>
+        <link href="https://news.ycombinator.com/item?id=31831437"/>
+        <updated>2022-06-22T02:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Gemini with IPFS]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加利福尼亚野火烟雾在欧洲上空。气溶胶观测的第一个例子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=26531943</id>
+        <link href="https://news.ycombinator.com/item?id=26531943"/>
+        <updated>2021-03-21T17:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三星预计将在下周宣布大规模生产3纳米芯片
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>diodorus</name>
             <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git的起源故事 (2018)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31751730</id>
-        <link href="https://news.ycombinator.com/item?id=31751730"/>
-        <updated>2022-06-15T12:04:34.000Z</updated>
-        <summary type="html"><![CDATA[A Git Origin Story (2018)]]></summary>
-        <author>
-            <name>revorad</name>
-            <uri>https://news.ycombinator.com/user?id=revorad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波特公司（YC S20）正在纽约市招聘创始工程师
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31751694</id>
-        <link href="https://news.ycombinator.com/item?id=31751694"/>
-        <updated>2022-06-15T12:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Porter (YC S20) Is Hiring Founding Engineers in NYC]]></summary>
-        <author>
-            <name>sungrokshim</name>
-            <uri>https://news.ycombinator.com/user?id=sungrokshim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即将报废的智能手机？PostmarketOS的企鹅们旨在重振旗鼓
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31751375</id>
-        <link href="https://news.ycombinator.com/item?id=31751375"/>
-        <updated>2022-06-15T11:15:33.000Z</updated>
-        <summary type="html"><![CDATA[End-of-life smartphone? Penguins at PostmarketOS aim to revive it]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
         </author>
     </entry>
 </feed>
