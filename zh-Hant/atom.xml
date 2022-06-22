@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T05:08:05.893Z</updated>
+    <updated>2022-06-22T05:57:27.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ergo - 用Go編寫的現代IRC服務器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832115</id>
+        <link href="https://news.ycombinator.com/item?id=31832115"/>
+        <updated>2022-06-22T04:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Ergo – modern IRC server written in Go]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Convex vs. Firebase
 ]]></title>
@@ -7198,18 +7210,6 @@
         <link href="https://news.ycombinator.com/item?id=31751242"/>
         <updated>2022-06-15T10:52:52.000Z</updated>
         <summary type="html"><![CDATA[Ten years after the Higgs, physicists face the nightmare of finding nothing else]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在教授們努力招聘博士後的同時，呼籲學術界進行變革
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31751015</id>
-        <link href="https://news.ycombinator.com/item?id=31751015"/>
-        <updated>2022-06-15T10:08:07.000Z</updated>
-        <summary type="html"><![CDATA[As professors struggle to recruit postdocs, calls for change in academia]]></summary>
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
