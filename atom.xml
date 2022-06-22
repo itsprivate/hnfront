@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T19:05:12.648Z</updated>
+    <updated>2022-06-22T19:25:18.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[地球在我们脚下移动得很远。研究显示地球的内部核心在摆动
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31813036</id>
+        <link href="https://news.ycombinator.com/item?id=31813036"/>
+        <updated>2022-06-20T17:29:12.000Z</updated>
+        <summary type="html"><![CDATA[Earth moves far under our feet: Study shows Earth’s inner core oscillates]]></summary>
+        <author>
+            <name>lelf</name>
+            <uri>https://news.ycombinator.com/user?id=lelf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dendron (YC W21)正在招聘高级网络开发人员，以建立一个更好的思想工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Maxious</name>
             <uri>https://news.ycombinator.com/user?id=Maxious</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CeresDB：一个高绩效、分布式、无模式和时间序列的数据库（Rust）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31761458</id>
-        <link href="https://news.ycombinator.com/item?id=31761458"/>
-        <updated>2022-06-16T01:07:32.000Z</updated>
-        <summary type="html"><![CDATA[CeresDB: A high-perf, distributed, schema-less and time-series database (Rust)]]></summary>
-        <author>
-            <name>sylvain_kerkour</name>
-            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
         </author>
     </entry>
 </feed>

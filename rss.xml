@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 19:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 19:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[地球在我们脚下移动得很远。研究显示地球的内部核心在摆动
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31813036</link>
+            <guid>https://news.ycombinator.com/item?id=31813036</guid>
+            <pubDate>Mon, 20 Jun 2022 17:29:12 GMT</pubDate>
+            <description><![CDATA[Earth moves far under our feet: Study shows Earth’s inner core oscillates]]></description>
+        </item>
         <item>
             <title><![CDATA[Dendron (YC W21)正在招聘高级网络开发人员，以建立一个更好的思想工具
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31762245</guid>
             <pubDate>Thu, 16 Jun 2022 03:42:28 GMT</pubDate>
             <description><![CDATA[We Put Half a Million Files in One Git Repository, Here’s What We Learned]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CeresDB：一个高绩效、分布式、无模式和时间序列的数据库（Rust）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31761458</link>
-            <guid>https://news.ycombinator.com/item?id=31761458</guid>
-            <pubDate>Thu, 16 Jun 2022 01:07:32 GMT</pubDate>
-            <description><![CDATA[CeresDB: A high-perf, distributed, schema-less and time-series database (Rust)]]></description>
         </item>
     </channel>
 </rss>
