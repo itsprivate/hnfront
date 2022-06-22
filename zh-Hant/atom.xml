@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T21:27:56.272Z</updated>
+    <updated>2022-06-22T22:27:37.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Markdown編寫多語言書籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833218</id>
+        <link href="https://news.ycombinator.com/item?id=31833218"/>
+        <updated>2022-06-22T08:03:21.000Z</updated>
+        <summary type="html"><![CDATA[Writing a Multilingual Book in Markdown]]></summary>
+        <author>
+            <name>polm23</name>
+            <uri>https://news.ycombinator.com/user?id=polm23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dropbox商店測試版
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>synappser</name>
             <uri>https://news.ycombinator.com/user?id=synappser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padlet (YC W13)在舊金山招聘，為良好的教育建立軟件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31763225</id>
-        <link href="https://news.ycombinator.com/item?id=31763225"/>
-        <updated>2022-06-16T07:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Padlet (YC W13) is hiring in SF to build software for a good education]]></summary>
-        <author>
-            <name>coffeebite</name>
-            <uri>https://news.ycombinator.com/user?id=coffeebite</uri>
         </author>
     </entry>
 </feed>
