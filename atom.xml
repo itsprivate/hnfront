@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T07:28:30.552Z</updated>
+    <updated>2022-06-22T07:58:28.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Straight.el：为Emacs黑客提供的下一代、纯功能的软件包管理器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833101</id>
+        <link href="https://news.ycombinator.com/item?id=31833101"/>
+        <updated>2022-06-22T07:43:10.000Z</updated>
+        <summary type="html"><![CDATA[Straight.el: next-gen, purely functional package manager for the Emacs hacker]]></summary>
+        <author>
+            <name>bjourne</name>
+            <uri>https://news.ycombinator.com/user?id=bjourne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支持只吃土豆的论点
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jbegley</name>
             <uri>https://news.ycombinator.com/user?id=jbegley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惠特比居民投票赞成终止第二套住房所有权
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31752153</id>
-        <link href="https://news.ycombinator.com/item?id=31752153"/>
-        <updated>2022-06-15T12:44:46.000Z</updated>
-        <summary type="html"><![CDATA[Whitby residents vote in favour of ending second home ownership]]></summary>
-        <author>
-            <name>llimos</name>
-            <uri>https://news.ycombinator.com/user?id=llimos</uri>
         </author>
     </entry>
 </feed>
