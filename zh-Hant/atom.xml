@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T20:49:21.469Z</updated>
+    <updated>2022-06-22T21:01:27.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將舊的安卓手機作為網絡服務器重新利用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841051</id>
+        <link href="https://news.ycombinator.com/item?id=31841051"/>
+        <updated>2022-06-22T19:55:50.000Z</updated>
+        <summary type="html"><![CDATA[Repurposing an old Android phone as a web server]]></summary>
+        <author>
+            <name>anthropodie</name>
+            <uri>https://news.ycombinator.com/user?id=anthropodie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[熱還是不熱？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>silent_speech</name>
             <uri>https://news.ycombinator.com/user?id=silent_speech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET是開放的嗎？微軟推動專有擴展以取代OmniSharp
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31762778</id>
-        <link href="https://news.ycombinator.com/item?id=31762778"/>
-        <updated>2022-06-16T05:44:23.000Z</updated>
-        <summary type="html"><![CDATA[Is .NET open? MS pushing a proprietary extension to replace OmniSharp]]></summary>
-        <author>
-            <name>exyi</name>
-            <uri>https://news.ycombinator.com/user?id=exyi</uri>
         </author>
     </entry>
 </feed>
