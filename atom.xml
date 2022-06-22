@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-22T22:58:58.732Z</updated>
+    <updated>2022-06-22T23:29:13.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[虚拟通信
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31796780</id>
+        <link href="https://news.ycombinator.com/item?id=31796780"/>
+        <updated>2022-06-19T06:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Virtual Correspondence]]></summary>
+        <author>
+            <name>jonbaer</name>
+            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杓子鼠腐烂的小屋
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>OzikuTech</name>
             <uri>https://news.ycombinator.com/user?id=OzikuTech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU上的Voronoi图（2016）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31750981</id>
-        <link href="https://news.ycombinator.com/item?id=31750981"/>
-        <updated>2022-06-15T10:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Voronoi Diagrams on the GPU (2016)]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
         </author>
     </entry>
 </feed>
