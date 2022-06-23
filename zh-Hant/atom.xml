@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-23T19:45:45.774Z</updated>
+    <updated>2022-06-23T19:59:29.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國聯邦貿易委員會對哈雷戴維森和西屋公司限制維修權的行為採取行動
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31854051</id>
+        <link href="https://news.ycombinator.com/item?id=31854051"/>
+        <updated>2022-06-23T19:26:26.000Z</updated>
+        <summary type="html"><![CDATA[FTC Action Against Harley-Davidson and Westinghouse for Limiting Right to Repair]]></summary>
+        <author>
+            <name>sinak</name>
+            <uri>https://news.ycombinator.com/user?id=sinak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[摸索rust-minidump的尷尬和崩潰 - 第二部分
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>CaliforniaKarl</name>
             <uri>https://news.ycombinator.com/user?id=CaliforniaKarl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shottr - macOS屏幕截圖工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31773863</id>
-        <link href="https://news.ycombinator.com/item?id=31773863"/>
-        <updated>2022-06-17T03:39:04.000Z</updated>
-        <summary type="html"><![CDATA[Shottr – macOS Screenshot Utility]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
