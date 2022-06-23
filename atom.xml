@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-23T11:27:12.559Z</updated>
+    <updated>2022-06-23T11:45:09.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dolt是数据的Git
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31847416</id>
+        <link href="https://news.ycombinator.com/item?id=31847416"/>
+        <updated>2022-06-23T11:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Dolt Is Git for Data]]></summary>
+        <author>
+            <name>gjvc</name>
+            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[街头认识论
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dceddia</name>
             <uri>https://news.ycombinator.com/user?id=dceddia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗得岛的理发师学校和执照要求
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31765644</id>
-        <link href="https://news.ycombinator.com/item?id=31765644"/>
-        <updated>2022-06-16T13:11:34.000Z</updated>
-        <summary type="html"><![CDATA[Barber schools and license requirements in Rhode Island]]></summary>
-        <author>
-            <name>mhb</name>
-            <uri>https://news.ycombinator.com/user?id=mhb</uri>
         </author>
     </entry>
 </feed>
