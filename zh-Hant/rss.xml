@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 13:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 13:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大數據發生了什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31848594</link>
+            <guid>https://news.ycombinator.com/item?id=31848594</guid>
+            <pubDate>Thu, 23 Jun 2022 13:12:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: What Happened to Big Data?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[林納斯-託瓦爾茲：內核的Rust有可能被合併到Linux 5.20上
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31848499</link>
+            <guid>https://news.ycombinator.com/item?id=31848499</guid>
+            <pubDate>Thu, 23 Jun 2022 13:05:47 GMT</pubDate>
+            <description><![CDATA[Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20]]></description>
+        </item>
+        <item>
+            <title><![CDATA[古代中亞的希臘人。愛奧尼亞人 (2019)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31837612</link>
+            <guid>https://news.ycombinator.com/item?id=31837612</guid>
+            <pubDate>Wed, 22 Jun 2022 15:48:52 GMT</pubDate>
+            <description><![CDATA[Greeks in Ancient Central Asia: The Ionians (2019)]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub應該因在GPL代碼上培訓Copilot而被起訴嗎？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31768828</guid>
             <pubDate>Thu, 16 Jun 2022 17:42:03 GMT</pubDate>
             <description><![CDATA[Reddit acquires ML startup Spell]]></description>
-        </item>
-        <item>
-            <title><![CDATA[cve-2022-23088: 利用FreeBSD Wi-Fi堆棧中的堆溢進行攻擊
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31768705</link>
-            <guid>https://news.ycombinator.com/item?id=31768705</guid>
-            <pubDate>Thu, 16 Jun 2022 17:30:28 GMT</pubDate>
-            <description><![CDATA[CVE-2022-23088: Exploiting a Heap Overflow in the FreeBSD Wi-Fi Stack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[商品房品牌Kickstarter遭知識產權巨頭襲擊
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31768471</link>
-            <guid>https://news.ycombinator.com/item?id=31768471</guid>
-            <pubDate>Thu, 16 Jun 2022 17:08:45 GMT</pubDate>
-            <description><![CDATA[Commodore Branded Kickstarter Gets Hit by IP Troll]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不，QuestDB不比ClickHouse更快。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31767858</link>
-            <guid>https://news.ycombinator.com/item?id=31767858</guid>
-            <pubDate>Thu, 16 Jun 2022 16:21:49 GMT</pubDate>
-            <description><![CDATA[No, QuestDB is not Faster than ClickHouse]]></description>
         </item>
     </channel>
 </rss>
