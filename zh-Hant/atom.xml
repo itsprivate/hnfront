@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-23T21:02:08.589Z</updated>
+    <updated>2022-06-23T21:28:10.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[同構理論的 "基礎性 "進展年表？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845898</id>
+        <link href="https://news.ycombinator.com/item?id=31845898"/>
+        <updated>2022-06-23T06:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Timeline of “foundational” advances in homotopy theory?]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對學術難民的建議
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danbolt</name>
             <uri>https://news.ycombinator.com/user?id=danbolt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pass - 標準的Unix密碼管理器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31773056</id>
-        <link href="https://news.ycombinator.com/item?id=31773056"/>
-        <updated>2022-06-17T01:27:42.000Z</updated>
-        <summary type="html"><![CDATA[pass – the standard Unix password manager]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
         </author>
     </entry>
 </feed>
