@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 11:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 13:00:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitHub應該因在GPL代碼上培訓Copilot而被起訴嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31847931</link>
+            <guid>https://news.ycombinator.com/item?id=31847931</guid>
+            <pubDate>Thu, 23 Jun 2022 12:12:36 GMT</pubDate>
+            <description><![CDATA[Should GitHub Be Sued for Training Copilot on GPL Code?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[麥當勞（YC W17）正在招聘首席營銷官
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31847844</link>
+            <guid>https://news.ycombinator.com/item?id=31847844</guid>
+            <pubDate>Thu, 23 Jun 2022 12:01:06 GMT</pubDate>
+            <description><![CDATA[MDalgorithms (YC W17) Is Hiring Chief Marketing Officer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Bazel對Haskell進行增量構建
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31847594</link>
+            <guid>https://news.ycombinator.com/item?id=31847594</guid>
+            <pubDate>Thu, 23 Jun 2022 11:29:03 GMT</pubDate>
+            <description><![CDATA[Incremental Builds for Haskell with Bazel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[屍花綻放
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31834557</link>
+            <guid>https://news.ycombinator.com/item?id=31834557</guid>
+            <pubDate>Wed, 22 Jun 2022 11:24:35 GMT</pubDate>
+            <description><![CDATA[Corpse Flower Bloom]]></description>
+        </item>
         <item>
             <title><![CDATA[Dolt是數據的Git
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31767858</guid>
             <pubDate>Thu, 16 Jun 2022 16:21:49 GMT</pubDate>
             <description><![CDATA[No, QuestDB is not Faster than ClickHouse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[試圖創建一個美觀的全球斷線算法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31740978</link>
-            <guid>https://news.ycombinator.com/item?id=31740978</guid>
-            <pubDate>Tue, 14 Jun 2022 15:32:24 GMT</pubDate>
-            <description><![CDATA[Attempting to create an aesthetic global line breaking algorithm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[魚殼3.5.0
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31768405</link>
-            <guid>https://news.ycombinator.com/item?id=31768405</guid>
-            <pubDate>Thu, 16 Jun 2022 17:02:35 GMT</pubDate>
-            <description><![CDATA[Fish Shell 3.5.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Keeper Tax (YC W19) Is Hiring a freelance designer (design systems)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31768385</link>
-            <guid>https://news.ycombinator.com/item?id=31768385</guid>
-            <pubDate>Thu, 16 Jun 2022 17:01:03 GMT</pubDate>
-            <description><![CDATA[Keeper Tax (YC W19) Is Hiring a freelance designer (design systems)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Recut能自動去除視頻中的靜音。它是用Tauri
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31767830</link>
-            <guid>https://news.ycombinator.com/item?id=31767830</guid>
-            <pubDate>Thu, 16 Jun 2022 16:19:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Recut automatically removes silence from videos. It's built with Tauri]]></description>
         </item>
     </channel>
 </rss>
