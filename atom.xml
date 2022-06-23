@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-23T18:00:54.986Z</updated>
+    <updated>2022-06-23T18:59:39.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于上周的公告
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31853248</id>
+        <link href="https://news.ycombinator.com/item?id=31853248"/>
+        <updated>2022-06-23T18:26:33.000Z</updated>
+        <summary type="html"><![CDATA[About Last Week’s Announcement]]></summary>
+        <author>
+            <name>collectedparts</name>
+            <uri>https://news.ycombinator.com/user?id=collectedparts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[意大利监督机构禁止使用谷歌分析器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>texaslonghorn5</name>
             <uri>https://news.ycombinator.com/user?id=texaslonghorn5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[信件。当文件包含一个惊喜时
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31762648</id>
-        <link href="https://news.ycombinator.com/item?id=31762648"/>
-        <updated>2022-06-16T05:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Letters: When Documents Contain a Surprise]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
         </author>
     </entry>
 </feed>
