@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-23T05:58:36.075Z</updated>
+    <updated>2022-06-23T06:37:31.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Minikube现在支持运行Kubernetes的无根podman驱动
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845746</id>
+        <link href="https://news.ycombinator.com/item?id=31845746"/>
+        <updated>2022-06-23T06:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Minikube now supports rootless podman driver for running Kubernetes]]></summary>
+        <author>
+            <name>encryptluks2</name>
+            <uri>https://news.ycombinator.com/user?id=encryptluks2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前任天堂负责人表示，从Switch过渡将是 "巨大的挑战
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31835060</id>
+        <link href="https://news.ycombinator.com/item?id=31835060"/>
+        <updated>2022-06-22T12:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Transition from Switch Will Be 'Significant Challenge,' Ex-Nintendo Head Says]]></summary>
+        <author>
+            <name>wallflower</name>
+            <uri>https://news.ycombinator.com/user?id=wallflower</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反应器原生0.69
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>imartin2k</name>
             <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[化学家追问有前途的太阳能电池材料为何迅速降解的答案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31742748</id>
-        <link href="https://news.ycombinator.com/item?id=31742748"/>
-        <updated>2022-06-14T17:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Chemist pursues answers to why promising solar cell material quickly degrades]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wails 1.0 - 由Go提供的Electron替代品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31764773</id>
-        <link href="https://news.ycombinator.com/item?id=31764773"/>
-        <updated>2022-06-16T11:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Wails 1.0 – Electron Alternative Powered by Go]]></summary>
-        <author>
-            <name>wener</name>
-            <uri>https://news.ycombinator.com/user?id=wener</uri>
         </author>
     </entry>
 </feed>

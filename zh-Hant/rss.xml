@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 06:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Minikube現在支持運行Kubernetes的無根podman驅動
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31845746</link>
+            <guid>https://news.ycombinator.com/item?id=31845746</guid>
+            <pubDate>Thu, 23 Jun 2022 06:20:02 GMT</pubDate>
+            <description><![CDATA[Minikube now supports rootless podman driver for running Kubernetes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[前任天堂負責人表示，從Switch過渡將是 "巨大的挑戰
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31835060</link>
+            <guid>https://news.ycombinator.com/item?id=31835060</guid>
+            <pubDate>Wed, 22 Jun 2022 12:18:27 GMT</pubDate>
+            <description><![CDATA[Transition from Switch Will Be 'Significant Challenge,' Ex-Nintendo Head Says]]></description>
+        </item>
         <item>
             <title><![CDATA[反應器原生0.69
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31750212</guid>
             <pubDate>Wed, 15 Jun 2022 07:47:38 GMT</pubDate>
             <description><![CDATA[The Case of the Vanishing Cafeteria Tray]]></description>
-        </item>
-        <item>
-            <title><![CDATA[化學家追問有前途的太陽能電池材料為何迅速降解的答案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31742748</link>
-            <guid>https://news.ycombinator.com/item?id=31742748</guid>
-            <pubDate>Tue, 14 Jun 2022 17:20:49 GMT</pubDate>
-            <description><![CDATA[Chemist pursues answers to why promising solar cell material quickly degrades]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wails 1.0 - 由Go提供的Electron替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31764773</link>
-            <guid>https://news.ycombinator.com/item?id=31764773</guid>
-            <pubDate>Thu, 16 Jun 2022 11:32:38 GMT</pubDate>
-            <description><![CDATA[Wails 1.0 – Electron Alternative Powered by Go]]></description>
         </item>
     </channel>
 </rss>
