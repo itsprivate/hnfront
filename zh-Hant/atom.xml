@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-23T22:59:45.879Z</updated>
+    <updated>2022-06-23T23:47:11.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於APU2D4的旅行路由器OpenWRT (2019)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845617</id>
+        <link href="https://news.ycombinator.com/item?id=31845617"/>
+        <updated>2022-06-23T05:55:49.000Z</updated>
+        <summary type="html"><![CDATA[OpenWRT based travel router on APU2D4 (2019)]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nerd Crawler - 我們監測原創漫畫藝術網站，所以你不必擔心。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sdoering</name>
             <uri>https://news.ycombinator.com/user?id=sdoering</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初學者的量子算法實現
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31775580</id>
-        <link href="https://news.ycombinator.com/item?id=31775580"/>
-        <updated>2022-06-17T08:37:45.000Z</updated>
-        <summary type="html"><![CDATA[Quantum Algorithm Implementations for Beginners]]></summary>
-        <author>
-            <name>rg111</name>
-            <uri>https://news.ycombinator.com/user?id=rg111</uri>
         </author>
     </entry>
 </feed>
