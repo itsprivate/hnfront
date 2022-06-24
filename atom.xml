@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-24T11:46:57.671Z</updated>
+    <updated>2022-06-24T11:59:12.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你承认的无用的副业项目？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31860158</id>
+        <link href="https://news.ycombinator.com/item?id=31860158"/>
+        <updated>2022-06-24T11:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Your admittedly Useless Side Projects?]]></summary>
+        <author>
+            <name>yscodes</name>
+            <uri>https://news.ycombinator.com/user?id=yscodes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国度的钥匙
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838368</id>
+        <link href="https://news.ycombinator.com/item?id=31838368"/>
+        <updated>2022-06-22T16:43:01.000Z</updated>
+        <summary type="html"><![CDATA[The Keys to the Kingdom]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：兄弟打印机现在锁定了非OEM的配件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pcrh</name>
             <uri>https://news.ycombinator.com/user?id=pcrh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CreuSAT。用Rust编写并通过Creusot验证的正式验证的SAT求解器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31780128</id>
-        <link href="https://news.ycombinator.com/item?id=31780128"/>
-        <updated>2022-06-17T15:57:54.000Z</updated>
-        <summary type="html"><![CDATA[CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国食品和药物管理局拒绝了禁止在食品包装中使用所有邻苯二甲酸盐的请愿书
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31778797</id>
-        <link href="https://news.ycombinator.com/item?id=31778797"/>
-        <updated>2022-06-17T14:33:17.000Z</updated>
-        <summary type="html"><![CDATA[FDA Denies Petition to Ban All Phthalates in Food Packaging]]></summary>
-        <author>
-            <name>ParksNet</name>
-            <uri>https://news.ycombinator.com/user?id=ParksNet</uri>
         </author>
     </entry>
 </feed>
