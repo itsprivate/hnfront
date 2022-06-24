@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-24T15:38:46.520Z</updated>
+    <updated>2022-06-24T15:55:19.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國最高法院推翻了Roe vs. Wade [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31863903</id>
+        <link href="https://news.ycombinator.com/item?id=31863903"/>
+        <updated>2022-06-24T15:39:23.000Z</updated>
+        <summary type="html"><![CDATA[US Supreme Court Overturns Roe vs. Wade [pdf]]]></summary>
+        <author>
+            <name>asah</name>
+            <uri>https://news.ycombinator.com/user?id=asah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[短信釣魚太容易了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31862994</id>
+        <link href="https://news.ycombinator.com/item?id=31862994"/>
+        <updated>2022-06-24T14:52:11.000Z</updated>
+        <summary type="html"><![CDATA[SMS phishing is way too easy]]></summary>
+        <author>
+            <name>ricardbejarano</name>
+            <uri>https://news.ycombinator.com/user?id=ricardbejarano</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我開發了一種快速的通用排序算法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845994</id>
+        <link href="https://news.ycombinator.com/item?id=31845994"/>
+        <updated>2022-06-23T07:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I developed a fast general purpose sorting algorithm]]></summary>
+        <author>
+            <name>fangbingchen</name>
+            <uri>https://news.ycombinator.com/user?id=fangbingchen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Zig和Zgt建立一個PinePhone應用程序
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skio（Shopify的訂閱，輕鬆實現ReCharge遷移）正在紐約市招聘。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31784330</id>
-        <link href="https://news.ycombinator.com/item?id=31784330"/>
-        <updated>2022-06-17T21:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Skio (subscriptions for Shopify, easy ReCharge migrations) is hiring in NYC]]></summary>
-        <author>
-            <name>kennandavison</name>
-            <uri>https://news.ycombinator.com/user?id=kennandavison</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私有化的互聯網讓我們失望了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31784097</id>
-        <link href="https://news.ycombinator.com/item?id=31784097"/>
-        <updated>2022-06-17T20:44:11.000Z</updated>
-        <summary type="html"><![CDATA[The Privatized Internet Has Failed Us]]></summary>
-        <author>
-            <name>hyperluz</name>
-            <uri>https://news.ycombinator.com/user?id=hyperluz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神經形態芯片極大地降低了滾動機器人的功率要求
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31768322</id>
-        <link href="https://news.ycombinator.com/item?id=31768322"/>
-        <updated>2022-06-16T16:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Neuromorphic chip dramatically reduces power requirements for rolling robot]]></summary>
-        <author>
-            <name>mdp2021</name>
-            <uri>https://news.ycombinator.com/user?id=mdp2021</uri>
         </author>
     </entry>
 </feed>
