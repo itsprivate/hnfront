@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-24T07:28:09.666Z</updated>
+    <updated>2022-06-24T07:45:44.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奇怪的吸引者。在混沌中創造模式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31822891</id>
+        <link href="https://news.ycombinator.com/item?id=31822891"/>
+        <updated>2022-06-21T12:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Strange Attractors: Creating Patterns in Chaos]]></summary>
+        <author>
+            <name>dr-neptune</name>
+            <uri>https://news.ycombinator.com/user?id=dr-neptune</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當Rust救了你的培根時是什麼感覺
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>adrian_mrd</name>
             <uri>https://news.ycombinator.com/user?id=adrian_mrd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX解僱參與批評馬斯克信件的員工
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31777613</id>
-        <link href="https://news.ycombinator.com/item?id=31777613"/>
-        <updated>2022-06-17T13:12:36.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX Fires Employees Involved in Letter Critical of Musk]]></summary>
-        <author>
-            <name>ra7</name>
-            <uri>https://news.ycombinator.com/user?id=ra7</uri>
         </author>
     </entry>
 </feed>
