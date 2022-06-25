@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-25T14:59:51.749Z</updated>
+    <updated>2022-06-25T15:28:59.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[句子嵌入有问题，原因是Dall-E2有时会失败
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31875377</id>
+        <link href="https://news.ycombinator.com/item?id=31875377"/>
+        <updated>2022-06-25T14:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Sentence Embeddings have a problem, the reason sometimes Dall-E2 fails]]></summary>
+        <author>
+            <name>nutanc</name>
+            <uri>https://news.ycombinator.com/user?id=nutanc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文件系统的统一理论
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>patrickdevivo</name>
             <uri>https://news.ycombinator.com/user?id=patrickdevivo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单的解决方案。为什么它的效果这么好
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31790162</id>
-        <link href="https://news.ycombinator.com/item?id=31790162"/>
-        <updated>2022-06-18T14:38:55.000Z</updated>
-        <summary type="html"><![CDATA[The Simplex Solution: Why it works so well]]></summary>
-        <author>
-            <name>haltingproblem</name>
-            <uri>https://news.ycombinator.com/user?id=haltingproblem</uri>
         </author>
     </entry>
 </feed>

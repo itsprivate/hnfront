@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 25 Jun 2022 14:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 15:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[句子嵌入有问题，原因是Dall-E2有时会失败
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31875377</link>
+            <guid>https://news.ycombinator.com/item?id=31875377</guid>
+            <pubDate>Sat, 25 Jun 2022 14:03:32 GMT</pubDate>
+            <description><![CDATA[Sentence Embeddings have a problem, the reason sometimes Dall-E2 fails]]></description>
+        </item>
         <item>
             <title><![CDATA[文件系统的统一理论
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31791324</guid>
             <pubDate>Sat, 18 Jun 2022 16:26:53 GMT</pubDate>
             <description><![CDATA[Elastic UI – design library in use at Elastic to build internal products]]></description>
-        </item>
-        <item>
-            <title><![CDATA[简单的解决方案。为什么它的效果这么好
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31790162</link>
-            <guid>https://news.ycombinator.com/item?id=31790162</guid>
-            <pubDate>Sat, 18 Jun 2022 14:38:55 GMT</pubDate>
-            <description><![CDATA[The Simplex Solution: Why it works so well]]></description>
         </item>
     </channel>
 </rss>
