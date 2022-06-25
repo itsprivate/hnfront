@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-25T05:57:26.689Z</updated>
+    <updated>2022-06-25T06:31:50.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[豬的心臟移植手術因其心肌細胞死亡而失敗
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31866573</id>
+        <link href="https://news.ycombinator.com/item?id=31866573"/>
+        <updated>2022-06-24T17:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Pig heart transplant failed as its heart muscle cells died]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[發現免疫系統和頭髮生長之間的聯繫
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>solospace</name>
             <uri>https://news.ycombinator.com/user?id=solospace</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣跌破2萬美元的關鍵門檻
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789435</id>
-        <link href="https://news.ycombinator.com/item?id=31789435"/>
-        <updated>2022-06-18T12:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin slumps below key $20k threshold]]></summary>
-        <author>
-            <name>quick_brown_fox</name>
-            <uri>https://news.ycombinator.com/user?id=quick_brown_fox</uri>
         </author>
     </entry>
 </feed>
