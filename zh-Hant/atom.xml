@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-25T09:30:27.709Z</updated>
+    <updated>2022-06-25T10:29:31.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[希望有一個 "人在圈子裡 "有什麼錯？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31848692</id>
+        <link href="https://news.ycombinator.com/item?id=31848692"/>
+        <updated>2022-06-23T13:20:26.000Z</updated>
+        <summary type="html"><![CDATA[What's wrong with wanting a “human in the loop”?]]></summary>
+        <author>
+            <name>Symmetry</name>
+            <uri>https://news.ycombinator.com/user?id=Symmetry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐洲到東海岸，50歲時搬家有意義嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cgb223</name>
             <uri>https://news.ycombinator.com/user?id=cgb223</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[激光雷達行業聯合起來，使道路對行人更安全
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789560</id>
-        <link href="https://news.ycombinator.com/item?id=31789560"/>
-        <updated>2022-06-18T13:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Lidar industry unites to make roadways safer for pedestrians]]></summary>
-        <author>
-            <name>sbuttgereit</name>
-            <uri>https://news.ycombinator.com/user?id=sbuttgereit</uri>
         </author>
     </entry>
 </feed>
