@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-25T13:16:53.813Z</updated>
+    <updated>2022-06-25T13:39:49.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Xlite。查询Excel、Open Document电子表格（.ods）作为SQLite的虚拟表格
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874767</id>
+        <link href="https://news.ycombinator.com/item?id=31874767"/>
+        <updated>2022-06-25T12:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Xlite: Query Excel, Open Document spreadsheets (.ods) as SQLite virtual tables]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有什么认证是值得的吗？合法地帮助了你的职业生涯？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Pulcinella</name>
             <uri>https://news.ycombinator.com/user?id=Pulcinella</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们都为人工智能生成的语言所倾倒？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31790698</id>
-        <link href="https://news.ycombinator.com/item?id=31790698"/>
-        <updated>2022-06-18T15:28:54.000Z</updated>
-        <summary type="html"><![CDATA[Why do we all fall for AI-generated language?]]></summary>
-        <author>
-            <name>azhenley</name>
-            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
         </author>
     </entry>
 </feed>
