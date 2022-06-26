@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-26T04:40:41.512Z</updated>
+    <updated>2022-06-26T05:06:12.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[$ curl -I https://web3usecase.com
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881206</id>
+        <link href="https://news.ycombinator.com/item?id=31881206"/>
+        <updated>2022-06-26T04:55:56.000Z</updated>
+        <summary type="html"><![CDATA[$ curl -I https://web3usecase.com]]></summary>
+        <author>
+            <name>ghuntley</name>
+            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将黑客新闻 "逆向工程 "变成API
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>galfarragem</name>
             <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全短信应用程序和集团协议，第二部分
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31766609</id>
-        <link href="https://news.ycombinator.com/item?id=31766609"/>
-        <updated>2022-06-16T14:41:02.000Z</updated>
-        <summary type="html"><![CDATA[Secure Messaging Apps and Group Protocols, Part 2]]></summary>
-        <author>
-            <name>transpute</name>
-            <uri>https://news.ycombinator.com/user?id=transpute</uri>
         </author>
     </entry>
 </feed>

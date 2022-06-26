@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 26 Jun 2022 04:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 05:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[$ curl -I https://web3usecase.com
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31881206</link>
+            <guid>https://news.ycombinator.com/item?id=31881206</guid>
+            <pubDate>Sun, 26 Jun 2022 04:55:56 GMT</pubDate>
+            <description><![CDATA[$ curl -I https://web3usecase.com]]></description>
+        </item>
         <item>
             <title><![CDATA[将黑客新闻 "逆向工程 "变成API
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31797686</guid>
             <pubDate>Sun, 19 Jun 2022 09:22:36 GMT</pubDate>
             <description><![CDATA[Reasons to tour by bicycle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安全短信应用程序和集团协议，第二部分
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31766609</link>
-            <guid>https://news.ycombinator.com/item?id=31766609</guid>
-            <pubDate>Thu, 16 Jun 2022 14:41:02 GMT</pubDate>
-            <description><![CDATA[Secure Messaging Apps and Group Protocols, Part 2]]></description>
         </item>
     </channel>
 </rss>
