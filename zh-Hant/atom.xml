@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-26T10:49:10.497Z</updated>
+    <updated>2022-06-26T11:00:08.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立世界政府的必要性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31882648</id>
+        <link href="https://news.ycombinator.com/item?id=31882648"/>
+        <updated>2022-06-26T10:35:08.000Z</updated>
+        <summary type="html"><![CDATA[The need for world government]]></summary>
+        <author>
+            <name>galfarragem</name>
+            <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們將Go Monorepo CI的構建時間減半
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31882512</id>
+        <link href="https://news.ycombinator.com/item?id=31882512"/>
+        <updated>2022-06-26T10:01:07.000Z</updated>
+        <summary type="html"><![CDATA[We Halved Go Monorepo CI Build Time]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub。感謝我們的維護者
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>guiambros</name>
             <uri>https://news.ycombinator.com/user?id=guiambros</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用《DALL-E 2》畫一個兒童故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799243</id>
-        <link href="https://news.ycombinator.com/item?id=31799243"/>
-        <updated>2022-06-19T13:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Drawing a childrens story with DALL-E 2]]></summary>
-        <author>
-            <name>nutanc</name>
-            <uri>https://news.ycombinator.com/user?id=nutanc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WarcDB：作為SQLite數據庫的網絡抓取數據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799147</id>
-        <link href="https://news.ycombinator.com/item?id=31799147"/>
-        <updated>2022-06-19T13:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WarcDB: Web crawl data as SQLite databases]]></summary>
-        <author>
-            <name>fforflo</name>
-            <uri>https://news.ycombinator.com/user?id=fforflo</uri>
         </author>
     </entry>
 </feed>
