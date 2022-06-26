@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31884403",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31884403",
+            "title": "研究人员揭开澳大利亚古代原住民移民的神秘面纱 (2021)\n",
+            "summary": "Researchers demystify ancient Aboriginal migration across Australia (2021)",
+            "date_modified": "2022-06-26T14:37:00.000Z",
+            "author": {
+                "name": "thunderbong",
+                "url": "https://news.ycombinator.com/user?id=thunderbong"
+            },
+            "_original_headline": "Researchers demystify ancient Aboriginal migration across Australia (2021)",
+            "_original_url": "https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902",
+            "_sensitive": false,
+            "_score": 5
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31883209",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31883209",
+            "title": "粒子 - URL包含整个程序代码\n",
+            "summary": "Show HN: Particles – the URL contains the whole program code",
+            "date_modified": "2022-06-26T12:07:02.000Z",
+            "author": {
+                "name": "chkas",
+                "url": "https://news.ycombinator.com/user?id=chkas"
+            },
+            "_original_headline": "Show HN: Particles – the URL contains the whole program code",
+            "_original_url": "https://easylang.online/run/?code=%23%20Particles%0A%23%20%0An_part%20%3D%2040%0Athres%20%3D%2015%0A%23%20%0Asubr%20connect%0A%20%20h%20%3D%20dx%20*%20dx%20%2B%20dy%20*%20dy%0A%20%20dist%20%3D%20sqrt%20h%0A%20%20if%20dist%20%3C%20thres%0A%20%20%20%20lw%20%3D%20(thres%20-%20dist)%20%2F%2030%0A%20%20%20%20linewidth%20lw%0A%20%20%20%20move%20px%20py%0A%20%20%20%20line%20px%5Bj%5D%20py%5Bj%5D%0A%20%20.%0A.%0Aon%20animate%0A%20%20clear%0A%20%20for%20i%20range%20n_part%0A%20%20%20%20px%20%3D%20px%5Bi%5D%0A%20%20%20%20py%20%3D%20py%5Bi%5D%0A%20%20%20%20move%20px%20py%0A%20%20%20%20circle%200.3125%0A%20%20%20%20for%20j%20range%20i%0A%20%20%20%20%20%20dx%20%3D%20abs%20(px%5Bj%5D%20-%20px)%0A%20%20%20%20%20%20if%20dx%20%3C%20thres%0A%20%20%20%20%20%20%20%20dy%20%3D%20abs%20(py%5Bj%5D%20-%20py)%0A%20%20%20%20%20%20%20%20if%20dy%20%3C%20thres%0A%20%20%20%20%20%20%20%20%20%20call%20connect%0A%20%20%20%20%20%20%20%20.%0A%20%20%20%20%20%20.%0A%20%20%20%20.%0A%20%20%20%20if%20px%20%3E%20100%20or%20px%20%3C%200%0A%20%20%20%20%20%20pvx%5Bi%5D%20%3D%20-pvx%5Bi%5D%0A%20%20%20%20.%0A%20%20%20%20if%20py%20%3E%20100%20or%20py%20%3C%200%0A%20%20%20%20%20%20pvy%5Bi%5D%20%3D%20-pvy%5Bi%5D%0A%20%20%20%20.%0A%20%20%20%20px%5Bi%5D%20%2B%3D%20pvx%5Bi%5D%0A%20%20%20%20py%5Bi%5D%20%2B%3D%20pvy%5Bi%5D%0A%20%20.%0A.%0Afor%20i%20range%20n_part%0A%20%20px%5B%5D%20%26%3D%20randomf%20*%20100%0A%20%20py%5B%5D%20%26%3D%20randomf%20*%20100%0A%20%20pvx%5B%5D%20%26%3D%20(0.5%20-%20randomf)%20%2F%203%0A%20%20pvy%5B%5D%20%26%3D%20(0.5%20-%20randomf)%20%2F%203%0A.%0A",
+            "_sensitive": false,
+            "_score": 5
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31884038",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31884038",
@@ -9575,38 +9607,6 @@
             },
             "_original_headline": "A pilot’s paean to the great cities of the world",
             "_original_url": "https://www.ft.com/content/31e6ff4c-37e9-441b-a0c4-82b021829d25",
-            "_sensitive": false,
-            "_score": 4
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31801093",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31801093",
-            "title": "为什么网络摄像头还不够好\n",
-            "summary": "Why Webcams Aren't Good Enough",
-            "date_modified": "2022-06-19T16:59:04.000Z",
-            "author": {
-                "name": "6581",
-                "url": "https://news.ycombinator.com/user?id=6581"
-            },
-            "_original_headline": "Why Webcams Aren't Good Enough",
-            "_original_url": "https://reincubate.com/support/how-to/why-are-webcams-bad/",
-            "_sensitive": false,
-            "_score": 4
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31800127",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31800127",
-            "title": "让主系统成为言论的主宰\n",
-            "summary": "Making the Master System a master of speech",
-            "date_modified": "2022-06-19T15:12:39.000Z",
-            "author": {
-                "name": "zdw",
-                "url": "https://news.ycombinator.com/user?id=zdw"
-            },
-            "_original_headline": "Making the Master System a master of speech",
-            "_original_url": "https://nicole.express/2022/let-me-show-you-the-sound-of-my-master.html",
             "_sensitive": false,
             "_score": 4
         }
