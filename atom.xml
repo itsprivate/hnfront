@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-26T05:34:14.152Z</updated>
+    <updated>2022-06-26T06:32:30.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[受害者之云。诈骗的黄金时代中的轻信
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31865968</id>
+        <link href="https://news.ycombinator.com/item?id=31865968"/>
+        <updated>2022-06-24T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[The Victim Cloud: Gullibility in the golden age of scams]]></summary>
+        <author>
+            <name>apollinaire</name>
+            <uri>https://news.ycombinator.com/user?id=apollinaire</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reddit的衰落。为什么它迅速衰落到混乱之中
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kuba-orlik</name>
             <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔的网爆。失败是成功的基础
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31787163</id>
-        <link href="https://news.ycombinator.com/item?id=31787163"/>
-        <updated>2022-06-18T03:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Intel’s Netburst: Failure Is a Foundation for Success]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
