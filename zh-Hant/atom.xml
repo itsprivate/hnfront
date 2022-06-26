@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-26T13:17:21.116Z</updated>
+    <updated>2022-06-26T13:40:51.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們需要使成年後的生活更令人嚮往
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31883239</id>
+        <link href="https://news.ycombinator.com/item?id=31883239"/>
+        <updated>2022-06-26T12:12:57.000Z</updated>
+        <summary type="html"><![CDATA[We need to make adulthood more desirable]]></summary>
+        <author>
+            <name>galfarragem</name>
+            <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓我們停止為代碼點賦予意義 (2017)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31858311</id>
+        <link href="https://news.ycombinator.com/item?id=31858311"/>
+        <updated>2022-06-24T06:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Let's Stop Ascribing Meaning to Code Points (2017)]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3將我的全名透露給任何詢問的人。我可以做什麼嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>type0</name>
             <uri>https://news.ycombinator.com/user?id=type0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何從頭開始學習數學證明？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31800081</id>
-        <link href="https://news.ycombinator.com/item?id=31800081"/>
-        <updated>2022-06-19T15:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to learn mathematical proofs from scratch?]]></summary>
-        <author>
-            <name>greymalik</name>
-            <uri>https://news.ycombinator.com/user?id=greymalik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在沒有systemd-journald的情況下運行systemd
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31797073</id>
-        <link href="https://news.ycombinator.com/item?id=31797073"/>
-        <updated>2022-06-19T07:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Running systemd without systemd-journald]]></summary>
-        <author>
-            <name>axy</name>
-            <uri>https://news.ycombinator.com/user?id=axy</uri>
         </author>
     </entry>
 </feed>
