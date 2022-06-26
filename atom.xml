@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-26T07:26:13.429Z</updated>
+    <updated>2022-06-26T07:43:09.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自宜家LED智能灯的芯片上的厄运
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873847</id>
+        <link href="https://news.ycombinator.com/item?id=31873847"/>
+        <updated>2022-06-25T09:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Doom on a chip from a IKEA LED smart lamp]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伦敦地铁站的三维图示
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jacquesm</name>
             <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兔子字体 - 尊重隐私的谷歌字体的替代品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31798311</id>
-        <link href="https://news.ycombinator.com/item?id=31798311"/>
-        <updated>2022-06-19T11:24:24.000Z</updated>
-        <summary type="html"><![CDATA[Bunny fonts – privacy respecting drop-in replacement for Google Fonts]]></summary>
-        <author>
-            <name>merlinscholz</name>
-            <uri>https://news.ycombinator.com/user?id=merlinscholz</uri>
         </author>
     </entry>
 </feed>
