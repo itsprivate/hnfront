@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-26T14:44:30.206Z</updated>
+    <updated>2022-06-26T14:57:38.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個微小的(850B)、快速的、通過函數實現的反應性觀測數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31884038</id>
+        <link href="https://news.ycombinator.com/item?id=31884038"/>
+        <updated>2022-06-26T13:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A tiny (850B) and fast reactive observables library via functions]]></summary>
+        <author>
+            <name>rahim_alwer</name>
+            <uri>https://news.ycombinator.com/user?id=rahim_alwer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寶馬F系列齒輪選擇器，第一部分：故障
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新興工具正在構建移動開發的未來，來加入我們吧
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31801133</id>
-        <link href="https://news.ycombinator.com/item?id=31801133"/>
-        <updated>2022-06-19T17:02:14.000Z</updated>
-        <summary type="html"><![CDATA[Emerge Tools is building the future of mobile development, come join us]]></summary>
-        <author>
-            <name>jshchnz</name>
-            <uri>https://news.ycombinator.com/user?id=jshchnz</uri>
         </author>
     </entry>
 </feed>
