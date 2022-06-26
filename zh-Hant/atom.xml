@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-26T05:06:12.648Z</updated>
+    <updated>2022-06-26T05:34:14.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reddit的衰落。為什麼它迅速衰落到混亂之中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881238</id>
+        <link href="https://news.ycombinator.com/item?id=31881238"/>
+        <updated>2022-06-26T05:03:04.000Z</updated>
+        <summary type="html"><![CDATA[The fall of Reddit: Why it’s quickly declining into chaos]]></summary>
+        <author>
+            <name>ko3us</name>
+            <uri>https://news.ycombinator.com/user?id=ko3us</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成為一個更好的工程團隊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873967</id>
+        <link href="https://news.ycombinator.com/item?id=31873967"/>
+        <updated>2022-06-25T10:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Becoming a Better Engineering Team]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[$ curl -I https://web3usecase.com
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type-ish - 一個用於bash的運行時類型檢查器，在bash中。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31797251</id>
-        <link href="https://news.ycombinator.com/item?id=31797251"/>
-        <updated>2022-06-19T08:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Type-ish – A runtime type checker for bash, in bash]]></summary>
-        <author>
-            <name>mgliwka</name>
-            <uri>https://news.ycombinator.com/user?id=mgliwka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[騎自行車旅遊的原因
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31797686</id>
-        <link href="https://news.ycombinator.com/item?id=31797686"/>
-        <updated>2022-06-19T09:22:36.000Z</updated>
-        <summary type="html"><![CDATA[Reasons to tour by bicycle]]></summary>
-        <author>
-            <name>galfarragem</name>
-            <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
         </author>
     </entry>
 </feed>
