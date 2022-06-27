@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-27T20:32:49.969Z</updated>
+    <updated>2022-06-27T20:48:16.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開放的食品事實 - 一個由每個人製作的、為每個人服務的食品產品數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31898218</id>
+        <link href="https://news.ycombinator.com/item?id=31898218"/>
+        <updated>2022-06-27T17:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Open Food Facts – a food products database made by everyone, for everyone]]></summary>
+        <author>
+            <name>jka</name>
+            <uri>https://news.ycombinator.com/user?id=jka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有SSR的Angular比有SSR的Next.js更快
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31895777</id>
+        <link href="https://news.ycombinator.com/item?id=31895777"/>
+        <updated>2022-06-27T15:18:53.000Z</updated>
+        <summary type="html"><![CDATA[Angular without SSR is faster than Next.js with SSR]]></summary>
+        <author>
+            <name>Alex3917</name>
+            <uri>https://news.ycombinator.com/user?id=Alex3917</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NSFW] 色情生成的擴散模型
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>metadat</name>
             <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3是有缺陷的（沒有問題被解決，代幣經濟是產品）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31813893</id>
-        <link href="https://news.ycombinator.com/item?id=31813893"/>
-        <updated>2022-06-20T18:36:19.000Z</updated>
-        <summary type="html"><![CDATA[Web3 is Flawed (There is no problem being solved,Token Economics is the product)]]></summary>
-        <author>
-            <name>ravivyas</name>
-            <uri>https://news.ycombinator.com/user?id=ravivyas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格揭秘Meta最新的VR頭盔原型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31813443</id>
-        <link href="https://news.ycombinator.com/item?id=31813443"/>
-        <updated>2022-06-20T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Zuckerberg Reveals Meta's Latest Prototype VR Headsets]]></summary>
-        <author>
-            <name>cr4zy</name>
-            <uri>https://news.ycombinator.com/user?id=cr4zy</uri>
         </author>
     </entry>
 </feed>
