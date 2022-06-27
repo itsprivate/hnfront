@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-27T22:00:56.912Z</updated>
+    <updated>2022-06-27T22:28:56.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[钻小而精的孔 (2009)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873273</id>
+        <link href="https://news.ycombinator.com/item?id=31873273"/>
+        <updated>2022-06-25T07:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Drill Small, Precise Holes (2009)]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的身体，我的数据法案》在Roe vs. Wade裁决之后解决了在线隐私问题
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>256DEV</name>
             <uri>https://news.ycombinator.com/user?id=256DEV</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图解QUIC的联系
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31817144</id>
-        <link href="https://news.ycombinator.com/item?id=31817144"/>
-        <updated>2022-06-20T22:40:15.000Z</updated>
-        <summary type="html"><![CDATA[The Illustrated QUIC Connection]]></summary>
-        <author>
-            <name>caust1c</name>
-            <uri>https://news.ycombinator.com/user?id=caust1c</uri>
         </author>
     </entry>
 </feed>
