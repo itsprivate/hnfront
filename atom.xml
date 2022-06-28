@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-28T23:31:24.145Z</updated>
+    <updated>2022-06-28T23:46:05.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你对哪些工具是10/10的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31914087</id>
+        <link href="https://news.ycombinator.com/item?id=31914087"/>
+        <updated>2022-06-28T22:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What tools are you a 10/10 on?]]></summary>
+        <author>
+            <name>itsdrewmiller</name>
+            <uri>https://news.ycombinator.com/user?id=itsdrewmiller</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雷鸟102发布。为您的通信提供认真的升级
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mastazi</name>
             <uri>https://news.ycombinator.com/user?id=mastazi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为编码员了解人工智能。Tabnine（你的GitHub Copilot的替代品）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31830867</id>
-        <link href="https://news.ycombinator.com/item?id=31830867"/>
-        <updated>2022-06-22T00:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)]]></summary>
-        <author>
-            <name>BrandonJung</name>
-            <uri>https://news.ycombinator.com/user?id=BrandonJung</uri>
         </author>
     </entry>
 </feed>
