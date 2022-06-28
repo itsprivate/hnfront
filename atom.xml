@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-28T07:27:54.450Z</updated>
+    <updated>2022-06-28T08:39:53.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大鸟：用图的同态性杀死SQL注入
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31904549</id>
+        <link href="https://news.ycombinator.com/item?id=31904549"/>
+        <updated>2022-06-28T05:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Big Bird: killing SQL injection with graph homomorphisms]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将IHP项目部署到Fly.io上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31891169</id>
+        <link href="https://news.ycombinator.com/item?id=31891169"/>
+        <updated>2022-06-27T06:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Deploying an IHP Project to Fly.io]]></summary>
+        <author>
+            <name>_query</name>
+            <uri>https://news.ycombinator.com/user?id=_query</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Algolia正在欧洲、中东和非洲地区招聘一名工程经理，负责领导摄取管道。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>trollied</name>
             <uri>https://news.ycombinator.com/user?id=trollied</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在没有资金支持的情况下独自开发开源数据工具的一年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31821914</id>
-        <link href="https://news.ycombinator.com/item?id=31821914"/>
-        <updated>2022-06-21T09:13:40.000Z</updated>
-        <summary type="html"><![CDATA[One year as a solo dev building open-source data tools without funding]]></summary>
-        <author>
-            <name>revorad</name>
-            <uri>https://news.ycombinator.com/user?id=revorad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为分布式团队写作（2021年）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31807809</id>
-        <link href="https://news.ycombinator.com/item?id=31807809"/>
-        <updated>2022-06-20T08:39:41.000Z</updated>
-        <summary type="html"><![CDATA[Writing for Distributed Teams (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
