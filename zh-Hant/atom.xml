@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-28T19:07:13.011Z</updated>
+    <updated>2022-06-28T19:26:12.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[燃燒殆盡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31911701</id>
+        <link href="https://news.ycombinator.com/item?id=31911701"/>
+        <updated>2022-06-28T19:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Burning Out]]></summary>
+        <author>
+            <name>maiorana</name>
+            <uri>https://news.ycombinator.com/user?id=maiorana</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消除暗網中的勒索軟件域名的匿名性
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-Plane 12飛行模型更新 - 超音速過渡、三角翼和質量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31827301</id>
-        <link href="https://news.ycombinator.com/item?id=31827301"/>
-        <updated>2022-06-21T18:24:53.000Z</updated>
-        <summary type="html"><![CDATA[X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass]]></summary>
-        <author>
-            <name>Alupis</name>
-            <uri>https://news.ycombinator.com/user?id=Alupis</uri>
         </author>
     </entry>
 </feed>
