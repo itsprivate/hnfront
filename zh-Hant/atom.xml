@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-28T14:34:20.679Z</updated>
+    <updated>2022-06-28T14:49:24.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fresh是Deno的一個新的全棧網絡框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908170</id>
+        <link href="https://news.ycombinator.com/item?id=31908170"/>
+        <updated>2022-06-28T14:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Fresh is a new full stack web framework for Deno]]></summary>
+        <author>
+            <name>maeln</name>
+            <uri>https://news.ycombinator.com/user?id=maeln</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開始使用Red
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31891061</id>
+        <link href="https://news.ycombinator.com/item?id=31891061"/>
+        <updated>2022-06-27T05:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Getting Started with Red]]></summary>
+        <author>
+            <name>damir</name>
+            <uri>https://news.ycombinator.com/user?id=damir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跟進是你的責任
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>adrianthedev</name>
             <uri>https://news.ycombinator.com/user?id=adrianthedev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cretto Di Burri的心理地理學（2021年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31824194</id>
-        <link href="https://news.ycombinator.com/item?id=31824194"/>
-        <updated>2022-06-21T14:15:23.000Z</updated>
-        <summary type="html"><![CDATA[The Psycho-Geography of the Cretto Di Burri (2021)]]></summary>
-        <author>
-            <name>layer8</name>
-            <uri>https://news.ycombinator.com/user?id=layer8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本科學位的價值
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31823926</id>
-        <link href="https://news.ycombinator.com/item?id=31823926"/>
-        <updated>2022-06-21T13:49:20.000Z</updated>
-        <summary type="html"><![CDATA[The Value of an Undergraduate Degree]]></summary>
-        <author>
-            <name>algoeci</name>
-            <uri>https://news.ycombinator.com/user?id=algoeci</uri>
         </author>
     </entry>
 </feed>
