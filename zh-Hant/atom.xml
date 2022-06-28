@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-28T06:35:03.599Z</updated>
+    <updated>2022-06-28T07:27:54.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Algolia正在歐洲、中東和非洲地區招聘一名工程經理，負責領導攝取管道。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31904952</id>
+        <link href="https://news.ycombinator.com/item?id=31904952"/>
+        <updated>2022-06-28T07:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline]]></summary>
+        <author>
+            <name>jlemoine</name>
+            <uri>https://news.ycombinator.com/user?id=jlemoine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shacl：一個變相的描述邏輯
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31890041</id>
+        <link href="https://news.ycombinator.com/item?id=31890041"/>
+        <updated>2022-06-27T02:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Shacl: A Description Logic in Disguise]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Blender Python API實現排序算法的可視化
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[定時攻擊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31821507</id>
-        <link href="https://news.ycombinator.com/item?id=31821507"/>
-        <updated>2022-06-21T08:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Timing Attacks]]></summary>
-        <author>
-            <name>rdpintqogeogsaa</name>
-            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN是如何做到始終在線的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31821269</id>
-        <link href="https://news.ycombinator.com/item?id=31821269"/>
-        <updated>2022-06-21T07:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How does HN manage to be always online?]]></summary>
-        <author>
-            <name>hacsky</name>
-            <uri>https://news.ycombinator.com/user?id=hacsky</uri>
         </author>
     </entry>
 </feed>
