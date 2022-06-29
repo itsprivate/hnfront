@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-29T19:59:00.414Z</updated>
+    <updated>2022-06-29T20:33:00.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯泰普特克公司正在裁员14%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31924622</id>
+        <link href="https://news.ycombinator.com/item?id=31924622"/>
+        <updated>2022-06-29T19:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Substack is laying off 14% of its staff]]></summary>
+        <author>
+            <name>jdp23</name>
+            <uri>https://news.ycombinator.com/user?id=jdp23</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用文件系统监控器提高Git monorepo的性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31924554</id>
+        <link href="https://news.ycombinator.com/item?id=31924554"/>
+        <updated>2022-06-29T19:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Improve Git monorepo performance with a file system monitor]]></summary>
+        <author>
+            <name>chmaynard</name>
+            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit上的复合贬义词--从 "屁脸 "到 "怂包"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31924052</id>
+        <link href="https://news.ycombinator.com/item?id=31924052"/>
+        <updated>2022-06-29T18:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Compound pejoratives on Reddit – from buttface to wankpuffin]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FXT。一个算法库和一本书
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905897</id>
+        <link href="https://news.ycombinator.com/item?id=31905897"/>
+        <updated>2022-06-28T09:50:46.000Z</updated>
+        <summary type="html"><![CDATA[FXT: A Library of Algorithms and a Book]]></summary>
+        <author>
+            <name>xept</name>
+            <uri>https://news.ycombinator.com/user?id=xept</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[线性地址空间。在任何速度下都不安全
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>kevinslin</name>
             <uri>https://news.ycombinator.com/user?id=kevinslin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[即使绑定到127.0.0.1，Docker容器仍然默认暴露（2021）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31839936</id>
-        <link href="https://news.ycombinator.com/item?id=31839936"/>
-        <updated>2022-06-22T18:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Docker containers still exposed by default even if bound to 127.0.0.1 (2021)]]></summary>
-        <author>
-            <name>password4321</name>
-            <uri>https://news.ycombinator.com/user?id=password4321</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解霓虹灯短缺背后的科学
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31839885</id>
-        <link href="https://news.ycombinator.com/item?id=31839885"/>
-        <updated>2022-06-22T18:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the science behind the neon shortage]]></summary>
-        <author>
-            <name>sillystuff</name>
-            <uri>https://news.ycombinator.com/user?id=sillystuff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄亥俄州立大学获得了在服装上使用 "THE "字样的商标
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31839846</id>
-        <link href="https://news.ycombinator.com/item?id=31839846"/>
-        <updated>2022-06-22T18:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Ohio State University secures trademark for use of the word 'THE' on clothing]]></summary>
-        <author>
-            <name>ortusdux</name>
-            <uri>https://news.ycombinator.com/user?id=ortusdux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一名销售人员，我将如何销售OpenBSD？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31839692</id>
-        <link href="https://news.ycombinator.com/item?id=31839692"/>
-        <updated>2022-06-22T18:11:24.000Z</updated>
-        <summary type="html"><![CDATA[How I would sell OpenBSD as a salesperson]]></summary>
-        <author>
-            <name>hucste</name>
-            <uri>https://news.ycombinator.com/user?id=hucste</uri>
         </author>
     </entry>
 </feed>
