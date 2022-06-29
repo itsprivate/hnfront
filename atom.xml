@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-29T19:47:43.449Z</updated>
+    <updated>2022-06-29T19:59:00.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[线性地址空间。在任何速度下都不安全
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31924849</id>
+        <link href="https://news.ycombinator.com/item?id=31924849"/>
+        <updated>2022-06-29T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Linear Address Spaces: Unsafe at any speed]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ploomber云（YC W22）--无需基础设施即可大规模运行笔记本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hucste</name>
             <uri>https://news.ycombinator.com/user?id=hucste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JVM剖析Quark #10: String.intern()
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31839515</id>
-        <link href="https://news.ycombinator.com/item?id=31839515"/>
-        <updated>2022-06-22T17:58:30.000Z</updated>
-        <summary type="html"><![CDATA[JVM Anatomy Quark #10: String.intern()]]></summary>
-        <author>
-            <name>hyperpape</name>
-            <uri>https://news.ycombinator.com/user?id=hyperpape</uri>
         </author>
     </entry>
 </feed>
