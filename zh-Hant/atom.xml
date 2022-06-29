@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-29T18:44:29.948Z</updated>
+    <updated>2022-06-29T19:25:32.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新眼睛
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31904474</id>
+        <link href="https://news.ycombinator.com/item?id=31904474"/>
+        <updated>2022-06-28T05:38:59.000Z</updated>
+        <summary type="html"><![CDATA[New Eyes]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國聯邦通信委員會要求谷歌、蘋果刪除TikTok
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>smartcar_</name>
             <uri>https://news.ycombinator.com/user?id=smartcar_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[路徑自迴歸文本-圖像模型(Parti)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31839193</id>
-        <link href="https://news.ycombinator.com/item?id=31839193"/>
-        <updated>2022-06-22T17:37:35.000Z</updated>
-        <summary type="html"><![CDATA[Pathways Autoregressive Text-to-Image Model (Parti)]]></summary>
-        <author>
-            <name>amrrs</name>
-            <uri>https://news.ycombinator.com/user?id=amrrs</uri>
         </author>
     </entry>
 </feed>
