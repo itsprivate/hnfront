@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-29T07:28:54.397Z</updated>
+    <updated>2022-06-29T08:38:55.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[舊金山糞便地圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31917587</id>
+        <link href="https://news.ycombinator.com/item?id=31917587"/>
+        <updated>2022-06-29T08:03:59.000Z</updated>
+        <summary type="html"><![CDATA[San Francisco Poop Map]]></summary>
+        <author>
+            <name>thinkingemote</name>
+            <uri>https://news.ycombinator.com/user?id=thinkingemote</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老鼠天堂還是老鼠地獄？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905218</id>
+        <link href="https://news.ycombinator.com/item?id=31905218"/>
+        <updated>2022-06-28T07:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Mouse Heaven or Mouse Hell?]]></summary>
+        <author>
+            <name>xvmt</name>
+            <uri>https://news.ycombinator.com/user?id=xvmt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supabase（YC S20）正在招聘Elixir工程師（遠程）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>janandonly</name>
             <uri>https://news.ycombinator.com/user?id=janandonly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[避免決策中的升級
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31817809</id>
-        <link href="https://news.ycombinator.com/item?id=31817809"/>
-        <updated>2022-06-20T23:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding Escalation in Decision-Making]]></summary>
-        <author>
-            <name>appwiz</name>
-            <uri>https://news.ycombinator.com/user?id=appwiz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Straight.el：為Emacs黑客提供的下一代、純功能的軟件包管理器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833101</id>
-        <link href="https://news.ycombinator.com/item?id=31833101"/>
-        <updated>2022-06-22T07:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Straight.el: next-gen, purely functional package manager for the Emacs hacker]]></summary>
-        <author>
-            <name>bjourne</name>
-            <uri>https://news.ycombinator.com/user?id=bjourne</uri>
         </author>
     </entry>
 </feed>
