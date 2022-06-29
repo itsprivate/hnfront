@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-29T06:56:48.046Z</updated>
+    <updated>2022-06-29T07:28:54.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Supabase（YC S20）正在招聘Elixir工程師（遠程）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31917279</id>
+        <link href="https://news.ycombinator.com/item?id=31917279"/>
+        <updated>2022-06-29T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Supabase (YC S20) Is Hiring Elixir Engineers (Remote)]]></summary>
+        <author>
+            <name>awalias</name>
+            <uri>https://news.ycombinator.com/user?id=awalias</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超流--Lucid中的嵌套
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31898684</id>
+        <link href="https://news.ycombinator.com/item?id=31898684"/>
+        <updated>2022-06-27T18:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Hyperstreams – Nesting in Lucid]]></summary>
+        <author>
+            <name>yimby</name>
+            <uri>https://news.ycombinator.com/user?id=yimby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這比你想象的更糟糕
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bjourne</name>
             <uri>https://news.ycombinator.com/user?id=bjourne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持只吃土豆的論點
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31832846</id>
-        <link href="https://news.ycombinator.com/item?id=31832846"/>
-        <updated>2022-06-22T07:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Arguments for a Potato Only Diet]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在將C語言轉譯為Go語言時出現了令人驚訝的結果
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31818960</id>
-        <link href="https://news.ycombinator.com/item?id=31818960"/>
-        <updated>2022-06-21T02:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Surprising result while transpiling C to Go]]></summary>
-        <author>
-            <name>nnx</name>
-            <uri>https://news.ycombinator.com/user?id=nnx</uri>
         </author>
     </entry>
 </feed>
