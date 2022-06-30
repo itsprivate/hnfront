@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-30T05:33:45.055Z</updated>
+    <updated>2022-06-30T06:36:26.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我可以看看你的作弊表吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31928736</id>
+        <link href="https://news.ycombinator.com/item?id=31928736"/>
+        <updated>2022-06-30T04:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can I see your cheatsheet?]]></summary>
+        <author>
+            <name>fastily</name>
+            <uri>https://news.ycombinator.com/user?id=fastily</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Scratch（一种儿童可视化编程语言）编写的Linux内核模块
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31921996</id>
+        <link href="https://news.ycombinator.com/item?id=31921996"/>
+        <updated>2022-06-29T15:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Linux Kernel Module written in Scratch (a visual programming language for kids)]]></summary>
+        <author>
+            <name>isp</name>
+            <uri>https://news.ycombinator.com/user?id=isp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clang IR (CIR)。用于Clang的新IR
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tobr</name>
             <uri>https://news.ycombinator.com/user?id=tobr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[介绍PyScript（PyCon主题演讲的摘要）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31843996</id>
-        <link href="https://news.ycombinator.com/item?id=31843996"/>
-        <updated>2022-06-23T01:12:06.000Z</updated>
-        <summary type="html"><![CDATA[Introducing PyScript (summary of PyCon keynote)]]></summary>
-        <author>
-            <name>benhoyt</name>
-            <uri>https://news.ycombinator.com/user?id=benhoyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用智能（YC S17）正在招聘机器学习研究工程师
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31843932</id>
-        <link href="https://news.ycombinator.com/item?id=31843932"/>
-        <updated>2022-06-23T01:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Generally Intelligent (YC S17) is hiring machine learning research engineers]]></summary>
-        <author>
-            <name>kanjun</name>
-            <uri>https://news.ycombinator.com/user?id=kanjun</uri>
         </author>
     </entry>
 </feed>
