@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-30T04:54:00.220Z</updated>
+    <updated>2022-06-30T05:33:45.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clang IR (CIR)。用於Clang的新IR
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31904624</id>
+        <link href="https://news.ycombinator.com/item?id=31904624"/>
+        <updated>2022-06-28T06:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Clang IR (CIR): A New IR for Clang]]></summary>
+        <author>
+            <name>fcambus</name>
+            <uri>https://news.ycombinator.com/user?id=fcambus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[啟動Wolfram語言和Mathematica的13.1版
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kanjun</name>
             <uri>https://news.ycombinator.com/user?id=kanjun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德克薩斯州布魯克斯縣在遭受勒索軟件攻擊後用稅收支付黑客的費用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31843750</id>
-        <link href="https://news.ycombinator.com/item?id=31843750"/>
-        <updated>2022-06-23T00:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Brooks County TX pays off hacker with tax dollars after ransomware attack]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
         </author>
     </entry>
 </feed>
