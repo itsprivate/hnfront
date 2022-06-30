@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-30T22:29:09.647Z</updated>
+    <updated>2022-06-30T22:46:58.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天的芯片。蘇泊爾573RF10--一款CMOS 8755A
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31938761</id>
+        <link href="https://news.ycombinator.com/item?id=31938761"/>
+        <updated>2022-06-30T21:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Chip of the Day: Soviet 573RF10 – A CMOS 8755A]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minerva: 用語言模型解決定量推理問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31935626</id>
+        <link href="https://news.ycombinator.com/item?id=31935626"/>
+        <updated>2022-06-30T17:22:05.000Z</updated>
+        <summary type="html"><![CDATA[Minerva: Solving Quantitative Reasoning Problems with Language Models]]></summary>
+        <author>
+            <name>guyga</name>
+            <uri>https://news.ycombinator.com/user?id=guyga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[執行內幕交易規則的蘋果前高管承認內幕交易
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sinak</name>
             <uri>https://news.ycombinator.com/user?id=sinak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摸索rust-minidump的尷尬和崩潰 - 第二部分
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31852480</id>
-        <link href="https://news.ycombinator.com/item?id=31852480"/>
-        <updated>2022-06-23T17:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Fuzzing rust-minidump for Embarrassment and Crashes – Part 2]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有的命令都以逗號開始（2009）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31846902</id>
-        <link href="https://news.ycombinator.com/item?id=31846902"/>
-        <updated>2022-06-23T09:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Start all of your commands with a comma (2009)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
