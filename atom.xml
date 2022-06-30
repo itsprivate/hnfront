@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-30T20:33:26.184Z</updated>
+    <updated>2022-06-30T20:51:39.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑名单不是一个种族主义的词
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31938182</id>
+        <link href="https://news.ycombinator.com/item?id=31938182"/>
+        <updated>2022-06-30T20:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Blacklist is not a racist word]]></summary>
+        <author>
+            <name>antiRadical</name>
+            <uri>https://news.ycombinator.com/user?id=antiRadical</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim 9.0发布了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31936725</id>
+        <link href="https://news.ycombinator.com/item?id=31936725"/>
+        <updated>2022-06-30T18:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Vim 9.0 Was Released]]></summary>
+        <author>
+            <name>craftuser</name>
+            <uri>https://news.ycombinator.com/user?id=craftuser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鹿特丹历史悠久的大桥不会因为杰夫-贝佐斯的超级游艇而被拆除
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lelf</name>
             <uri>https://news.ycombinator.com/user?id=lelf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个假的Carrier.app的奇特故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31851110</id>
-        <link href="https://news.ycombinator.com/item?id=31851110"/>
-        <updated>2022-06-23T16:08:08.000Z</updated>
-        <summary type="html"><![CDATA[The curious tale of a fake Carrier.app]]></summary>
-        <author>
-            <name>mfrw</name>
-            <uri>https://news.ycombinator.com/user?id=mfrw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反向工程谷歌Colab
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31851031</id>
-        <link href="https://news.ycombinator.com/item?id=31851031"/>
-        <updated>2022-06-23T16:03:53.000Z</updated>
-        <summary type="html"><![CDATA[Reverse Engineering Google Colab]]></summary>
-        <author>
-            <name>arjvik</name>
-            <uri>https://news.ycombinator.com/user?id=arjvik</uri>
         </author>
     </entry>
 </feed>
