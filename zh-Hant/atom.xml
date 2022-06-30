@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-30T14:32:26.552Z</updated>
+    <updated>2022-06-30T14:49:36.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Featureform - 一個用於ML的開源特徵庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31932434</id>
+        <link href="https://news.ycombinator.com/item?id=31932434"/>
+        <updated>2022-06-30T14:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Featureform – An open-source Feature Store for ML]]></summary>
+        <author>
+            <name>simba-k</name>
+            <uri>https://news.ycombinator.com/user?id=simba-k</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[據報道，Coinbase正在向ICE出售地理位置數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31932349</id>
+        <link href="https://news.ycombinator.com/item?id=31932349"/>
+        <updated>2022-06-30T13:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase is reportedly selling geolocation data to ICE]]></summary>
+        <author>
+            <name>rukshn</name>
+            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[放棄GitHub。時機已到
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31932250</id>
+        <link href="https://news.ycombinator.com/item?id=31932250"/>
+        <updated>2022-06-30T13:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Give Up GitHub: The Time Has Come]]></summary>
+        <author>
+            <name>jrepinc</name>
+            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[麻省理工學院的工程師們首次駕駛沒有移動部件的飛機
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>odedharth93</name>
             <uri>https://news.ycombinator.com/user?id=odedharth93</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Bazel對Haskell進行增量構建
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31847594</id>
-        <link href="https://news.ycombinator.com/item?id=31847594"/>
-        <updated>2022-06-23T11:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Incremental Builds for Haskell with Bazel]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屍花綻放
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31834557</id>
-        <link href="https://news.ycombinator.com/item?id=31834557"/>
-        <updated>2022-06-22T11:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Corpse Flower Bloom]]></summary>
-        <author>
-            <name>Barrera</name>
-            <uri>https://news.ycombinator.com/user?id=Barrera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dolt是數據的Git
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31847416</id>
-        <link href="https://news.ycombinator.com/item?id=31847416"/>
-        <updated>2022-06-23T11:04:44.000Z</updated>
-        <summary type="html"><![CDATA[Dolt Is Git for Data]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
         </author>
     </entry>
 </feed>
