@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-06-30T19:25:19.581Z</updated>
+    <updated>2022-06-30T19:44:46.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RISC-V正在获得MSI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31937133</id>
+        <link href="https://news.ycombinator.com/item?id=31937133"/>
+        <updated>2022-06-30T19:11:07.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V is getting MSIs]]></summary>
+        <author>
+            <name>azhenley</name>
+            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[极端高温、干旱将给加州及其社会结构带来永久的创伤
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>menshiki</name>
             <uri>https://news.ycombinator.com/user?id=menshiki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茱莉亚跻身2022年最受欢迎的5种编程语言之列
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31850573</id>
-        <link href="https://news.ycombinator.com/item?id=31850573"/>
-        <updated>2022-06-23T15:34:17.000Z</updated>
-        <summary type="html"><![CDATA[Julia ranks in the top 5 most loved programming languages for 2022]]></summary>
-        <author>
-            <name>logankilpatrick</name>
-            <uri>https://news.ycombinator.com/user?id=logankilpatrick</uri>
         </author>
     </entry>
 </feed>
