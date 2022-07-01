@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-01T05:15:04.193Z</updated>
+    <updated>2022-07-01T05:48:10.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蜜蜂怎麼樣了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31931042</id>
+        <link href="https://news.ycombinator.com/item?id=31931042"/>
+        <updated>2022-06-30T11:23:08.000Z</updated>
+        <summary type="html"><![CDATA[How Are the Bees?]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美達公司削減招聘計劃，準備應對 "激烈的 "逆風
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>caust1c</name>
             <uri>https://news.ycombinator.com/user?id=caust1c</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix再裁員300人--幾乎佔其員工總數的3%。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31857062</id>
-        <link href="https://news.ycombinator.com/item?id=31857062"/>
-        <updated>2022-06-24T01:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Netflix lays off 300 more people – almost 3% of its staff]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
