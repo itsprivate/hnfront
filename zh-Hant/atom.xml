@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-01T09:29:58.629Z</updated>
+    <updated>2022-07-01T09:49:18.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Xcode 14廢除了watchOS和tvOS的比特碼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31943572</id>
+        <link href="https://news.ycombinator.com/item?id=31943572"/>
+        <updated>2022-07-01T07:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Xcode 14 deprecates bitcode for watchOS and tvOS]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為罐裝大蒜辯護。食物專家如何幾乎毀了我對烹飪的熱愛
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lukastyrychtr</name>
             <uri>https://news.ycombinator.com/user?id=lukastyrychtr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：Coinbase現在要求在加密貨幣轉賬中提供收款人的實際地址
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31858460</id>
-        <link href="https://news.ycombinator.com/item?id=31858460"/>
-        <updated>2022-06-24T06:39:52.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Coinbase now requires physical address of recipient in crypto transfers]]></summary>
-        <author>
-            <name>jb1991</name>
-            <uri>https://news.ycombinator.com/user?id=jb1991</uri>
         </author>
     </entry>
 </feed>
