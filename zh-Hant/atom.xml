@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T19:23:13.529Z</updated>
+    <updated>2022-07-02T19:44:05.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[藝術家從流媒體中獲得報酬
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31943241</id>
+        <link href="https://news.ycombinator.com/item?id=31943241"/>
+        <updated>2022-07-01T06:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Artists Get Paid from Streaming]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[廢話網
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zacwest</name>
             <uri>https://news.ycombinator.com/user?id=zacwest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARM原創操作系統。RISC OS在35年後仍然存在
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31878100</id>
-        <link href="https://news.ycombinator.com/item?id=31878100"/>
-        <updated>2022-06-25T19:40:31.000Z</updated>
-        <summary type="html"><![CDATA[ARM original operating system: RISC OS still alive after 35 years]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
