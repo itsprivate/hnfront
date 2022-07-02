@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T14:44:46.042Z</updated>
+    <updated>2022-07-02T15:30:04.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[律师是做什么的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31959666</id>
+        <link href="https://news.ycombinator.com/item?id=31959666"/>
+        <updated>2022-07-02T15:09:26.000Z</updated>
+        <summary type="html"><![CDATA[What do lawyers do?]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React状态管理的新浪潮
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31959289</id>
+        <link href="https://news.ycombinator.com/item?id=31959289"/>
+        <updated>2022-07-02T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[The new wave of React state management]]></summary>
+        <author>
+            <name>remrem</name>
+            <uri>https://news.ycombinator.com/user?id=remrem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日志。实时数据的统一抽象 (2013)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31952128</id>
+        <link href="https://news.ycombinator.com/item?id=31952128"/>
+        <updated>2022-07-01T20:12:12.000Z</updated>
+        <summary type="html"><![CDATA[The Log: Real-time data's unifying abstraction (2013)]]></summary>
+        <author>
+            <name>rammy1234</name>
+            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RadioShack用疯狂的推文将自己重塑为一个加密货币平台
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>asimpletune</name>
             <uri>https://news.ycombinator.com/user?id=asimpletune</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneSignal（YC S11）正在招聘后端和全栈工程师
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31876831</id>
-        <link href="https://news.ycombinator.com/item?id=31876831"/>
-        <updated>2022-06-25T17:00:56.000Z</updated>
-        <summary type="html"><![CDATA[OneSignal (YC S11) is hiring back end and full stack engineers]]></summary>
-        <author>
-            <name>gdeglin</name>
-            <uri>https://news.ycombinator.com/user?id=gdeglin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：GitHub Copilot现在可以阻止匹配公共代码的建议了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31870345</id>
-        <link href="https://news.ycombinator.com/item?id=31870345"/>
-        <updated>2022-06-24T22:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: GitHub Copilot can now block suggestions matching public code]]></summary>
-        <author>
-            <name>mmastrac</name>
-            <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DARPA研究挑战关于分布式账本（比特币）安全的假设
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31876547</id>
-        <link href="https://news.ycombinator.com/item?id=31876547"/>
-        <updated>2022-06-25T16:26:23.000Z</updated>
-        <summary type="html"><![CDATA[DARPA study challenges assumptions about distributed ledger (Bitcoin) security]]></summary>
-        <author>
-            <name>throw0101a</name>
-            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
         </author>
     </entry>
 </feed>
