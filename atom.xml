@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T13:16:39.125Z</updated>
+    <updated>2022-07-02T13:40:32.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[rsync，第3条：rsync是如何工作的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31958536</id>
+        <link href="https://news.ycombinator.com/item?id=31958536"/>
+        <updated>2022-07-02T12:41:23.000Z</updated>
+        <summary type="html"><![CDATA[rsync, article 3: How does rsync work?]]></summary>
+        <author>
+            <name>secure</name>
+            <uri>https://news.ycombinator.com/user?id=secure</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[选择SOFA
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dgaffney</name>
             <uri>https://news.ycombinator.com/user?id=dgaffney</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刚刚花了35,000美元买了一个域名。这就是原因
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31875008</id>
-        <link href="https://news.ycombinator.com/item?id=31875008"/>
-        <updated>2022-06-25T13:10:51.000Z</updated>
-        <summary type="html"><![CDATA[I Just Spent $35,000 on a Domain. Here Is Why]]></summary>
-        <author>
-            <name>robtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=robtaylor</uri>
         </author>
     </entry>
 </feed>
