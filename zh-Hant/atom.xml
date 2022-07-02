@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T05:10:21.430Z</updated>
+    <updated>2022-07-02T05:35:23.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞特蘭大聯儲GDPNow
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31955946</id>
+        <link href="https://news.ycombinator.com/item?id=31955946"/>
+        <updated>2022-07-02T03:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Atlanta Fed GDPNow]]></summary>
+        <author>
+            <name>xqcgrek2</name>
+            <uri>https://news.ycombinator.com/user?id=xqcgrek2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於結構化併發的說明，或。被認為是有害的Go語句
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31955334</id>
+        <link href="https://news.ycombinator.com/item?id=31955334"/>
+        <updated>2022-07-02T01:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Notes on structured concurrency, or: Go statement considered harmful]]></summary>
+        <author>
+            <name>stopachka</name>
+            <uri>https://news.ycombinator.com/user?id=stopachka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大地衛星證明了遙感的力量
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[發現免疫系統和頭髮生長之間的聯繫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31862464</id>
-        <link href="https://news.ycombinator.com/item?id=31862464"/>
-        <updated>2022-06-24T14:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Link found between immune system and hair growth]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[崩潰的發展質量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31871577</id>
-        <link href="https://news.ycombinator.com/item?id=31871577"/>
-        <updated>2022-06-25T01:23:08.000Z</updated>
-        <summary type="html"><![CDATA[The Collapsing Quality of Dev.to]]></summary>
-        <author>
-            <name>xisukar</name>
-            <uri>https://news.ycombinator.com/user?id=xisukar</uri>
         </author>
     </entry>
 </feed>
