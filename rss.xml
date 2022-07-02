@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 02 Jul 2022 07:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 07:57:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[防止封装破损
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31941089</link>
+            <guid>https://news.ycombinator.com/item?id=31941089</guid>
+            <pubDate>Fri, 01 Jul 2022 01:35:34 GMT</pubDate>
+            <description><![CDATA[Guarding Against Broken Encapsulation]]></description>
+        </item>
         <item>
             <title><![CDATA[领导与参与
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31873063</guid>
             <pubDate>Sat, 25 Jun 2022 06:32:19 GMT</pubDate>
             <description><![CDATA[PostgreSQL Upgrades Are Hard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对阿什 "一致性 "研究的令人费解的误读（1990年）[pdf]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31865995</link>
-            <guid>https://news.ycombinator.com/item?id=31865995</guid>
-            <pubDate>Fri, 24 Jun 2022 17:17:43 GMT</pubDate>
-            <description><![CDATA[A puzzling misinterpretation of the Asch ‘conformity’ study (1990) [pdf]]]></description>
         </item>
     </channel>
 </rss>
