@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T04:02:05.024Z</updated>
+    <updated>2022-07-02T04:47:46.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tailscale吃掉了我的网络（而我喜欢它）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31955970</id>
+        <link href="https://news.ycombinator.com/item?id=31955970"/>
+        <updated>2022-07-02T03:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Tailscale ate my network (and I love it)]]></summary>
+        <author>
+            <name>smackeyacky</name>
+            <uri>https://news.ycombinator.com/user?id=smackeyacky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DiscoArt: 在一条线上创建引人注目的Disco Diffusion艺术作品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gaws</name>
             <uri>https://news.ycombinator.com/user?id=gaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古代艺术和遗传学揭示了世界上最昂贵香料的起源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31872272</id>
-        <link href="https://news.ycombinator.com/item?id=31872272"/>
-        <updated>2022-06-25T03:22:17.000Z</updated>
-        <summary type="html"><![CDATA[Ancient art and genetics reveal origin of world’s most expensive spice]]></summary>
-        <author>
-            <name>Vigier</name>
-            <uri>https://news.ycombinator.com/user?id=Vigier</uri>
         </author>
     </entry>
 </feed>
