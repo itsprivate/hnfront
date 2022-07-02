@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T05:35:23.307Z</updated>
+    <updated>2022-07-02T05:57:13.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用基於植物纖維的材料製造建築物、汽車和飛機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31942835</id>
+        <link href="https://news.ycombinator.com/item?id=31942835"/>
+        <updated>2022-07-01T05:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Making buildings, cars and planes from materials based on plant fibres]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞特蘭大聯儲GDPNow
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豬的心臟移植手術因其心肌細胞死亡而失敗
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866573</id>
-        <link href="https://news.ycombinator.com/item?id=31866573"/>
-        <updated>2022-06-24T17:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Pig heart transplant failed as its heart muscle cells died]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
