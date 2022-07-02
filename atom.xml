@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T05:57:12.951Z</updated>
+    <updated>2022-07-02T06:52:29.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Deprank: 使用PageRank来找到你代码库中最重要的文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944278</id>
+        <link href="https://news.ycombinator.com/item?id=31944278"/>
+        <updated>2022-07-01T09:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Deprank: Use PageRank to find the most important files in your codebase]]></summary>
+        <author>
+            <name>phpnode</name>
+            <uri>https://news.ycombinator.com/user?id=phpnode</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用基于植物纤维的材料制造建筑物、汽车和飞机
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Equiet</name>
             <uri>https://news.ycombinator.com/user?id=Equiet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[连接起来的大脑
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31847134</id>
-        <link href="https://news.ycombinator.com/item?id=31847134"/>
-        <updated>2022-06-23T10:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Connected-Up-Brains]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
