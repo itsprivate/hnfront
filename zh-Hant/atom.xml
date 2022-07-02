@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T22:28:02.369Z</updated>
+    <updated>2022-07-02T22:46:31.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[達美航空向在大急流城的乘客提供1萬美元，讓他們被趕出航班
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31963092</id>
+        <link href="https://news.ycombinator.com/item?id=31963092"/>
+        <updated>2022-07-02T22:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Delta offered $10k to passengers in Grand Rapids to be bumped from flight]]></summary>
+        <author>
+            <name>avonmach</name>
+            <uri>https://news.ycombinator.com/user?id=avonmach</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dependabot對惡意軟件的警告暫停了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>brudgers</name>
             <uri>https://news.ycombinator.com/user?id=brudgers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飛地。一把無法打開的鎖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31880108</id>
-        <link href="https://news.ycombinator.com/item?id=31880108"/>
-        <updated>2022-06-26T01:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Enclave: An Unpickable Lock]]></summary>
-        <author>
-            <name>lisper</name>
-            <uri>https://news.ycombinator.com/user?id=lisper</uri>
         </author>
     </entry>
 </feed>
