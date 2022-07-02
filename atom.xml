@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-02T06:52:29.616Z</updated>
+    <updated>2022-07-02T07:25:42.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[领导与参与
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956626</id>
+        <link href="https://news.ycombinator.com/item?id=31956626"/>
+        <updated>2022-07-02T05:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Leading vs. Participating]]></summary>
+        <author>
+            <name>talonx</name>
+            <uri>https://news.ycombinator.com/user?id=talonx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deprank: 使用PageRank来找到你代码库中最重要的文件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>solvent</name>
             <uri>https://news.ycombinator.com/user?id=solvent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepnote（YC S19）正在招聘工程师，以建立一个更好的Jupyter笔记本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31873192</id>
-        <link href="https://news.ycombinator.com/item?id=31873192"/>
-        <updated>2022-06-25T07:02:47.000Z</updated>
-        <summary type="html"><![CDATA[Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook]]></summary>
-        <author>
-            <name>Equiet</name>
-            <uri>https://news.ycombinator.com/user?id=Equiet</uri>
         </author>
     </entry>
 </feed>
