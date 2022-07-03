@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T19:57:48.157Z</updated>
+    <updated>2022-07-03T20:28:49.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HNNotify.xyz: 訂閱你的黑客新聞提要
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970303</id>
+        <link href="https://news.ycombinator.com/item?id=31970303"/>
+        <updated>2022-07-03T19:32:09.000Z</updated>
+        <summary type="html"><![CDATA[HNNotify.xyz: Subscribe to Your Hacker News Feed]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[計算機視覺簡介
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31969809</id>
+        <link href="https://news.ycombinator.com/item?id=31969809"/>
+        <updated>2022-07-03T18:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Computer Vision]]></summary>
+        <author>
+            <name>ramacastro</name>
+            <uri>https://news.ycombinator.com/user?id=ramacastro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避免穿越的聲音是怎樣的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956787</id>
+        <link href="https://news.ycombinator.com/item?id=31956787"/>
+        <updated>2022-07-02T06:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: What do avoided crossings sound like?]]></summary>
+        <author>
+            <name>darthoctopus</name>
+            <uri>https://news.ycombinator.com/user?id=darthoctopus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微軟在新的服務條款中澄清了與第三方共享遊戲活動的問題
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>mariuz</name>
             <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏡頭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890781</id>
-        <link href="https://news.ycombinator.com/item?id=31890781"/>
-        <updated>2022-06-27T05:09:30.000Z</updated>
-        <summary type="html"><![CDATA[Lenses]]></summary>
-        <author>
-            <name>Gadiguibou</name>
-            <uri>https://news.ycombinator.com/user?id=Gadiguibou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芝加哥的頂級初創企業
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890701</id>
-        <link href="https://news.ycombinator.com/item?id=31890701"/>
-        <updated>2022-06-27T04:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Top startups in Chicago]]></summary>
-        <author>
-            <name>connor11528</name>
-            <uri>https://news.ycombinator.com/user?id=connor11528</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust中經過類型檢查的鍵路徑
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890394</id>
-        <link href="https://news.ycombinator.com/item?id=31890394"/>
-        <updated>2022-06-27T03:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Type-checked keypaths in Rust]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
