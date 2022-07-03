@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T05:44:09.613Z</updated>
+    <updated>2022-07-03T05:57:13.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由內而外的Git
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31964814</id>
+        <link href="https://news.ycombinator.com/item?id=31964814"/>
+        <updated>2022-07-03T03:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Git from the Inside Out]]></summary>
+        <author>
+            <name>furcyd</name>
+            <uri>https://news.ycombinator.com/user?id=furcyd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub代碼搜索（預覽）
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>johnny_reilly</name>
             <uri>https://news.ycombinator.com/user?id=johnny_reilly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[來自42所聯合創始人Kwame Yamgnane的關於42所硅谷分校關閉的講話
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882355</id>
-        <link href="https://news.ycombinator.com/item?id=31882355"/>
-        <updated>2022-06-26T09:23:59.000Z</updated>
-        <summary type="html"><![CDATA[On the Closing of 42 Silicon Valley from 42 co-founder Kwame Yamgnane]]></summary>
-        <author>
-            <name>ofou</name>
-            <uri>https://news.ycombinator.com/user?id=ofou</uri>
         </author>
     </entry>
 </feed>
