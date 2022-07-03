@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T16:01:28.257Z</updated>
+    <updated>2022-07-03T16:38:28.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在互动模拟中实现量子力学的可视化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31968280</id>
+        <link href="https://news.ycombinator.com/item?id=31968280"/>
+        <updated>2022-07-03T15:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Visualizing quantum mechanics in an interactive simulation]]></summary>
+        <author>
+            <name>JoeDaDude</name>
+            <uri>https://news.ycombinator.com/user?id=JoeDaDude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旧电脑挑战赛V2。回到RTC
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ivanvas</name>
             <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite的道德准则
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31886687</id>
-        <link href="https://news.ycombinator.com/item?id=31886687"/>
-        <updated>2022-06-26T18:44:25.000Z</updated>
-        <summary type="html"><![CDATA[The SQLite Code of Ethics]]></summary>
-        <author>
-            <name>zaksingh</name>
-            <uri>https://news.ycombinator.com/user?id=zaksingh</uri>
         </author>
     </entry>
 </feed>

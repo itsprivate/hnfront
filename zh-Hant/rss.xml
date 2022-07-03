@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 16:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 16:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在互動模擬中實現量子力學的可視化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31968280</link>
+            <guid>https://news.ycombinator.com/item?id=31968280</guid>
+            <pubDate>Sun, 03 Jul 2022 15:10:38 GMT</pubDate>
+            <description><![CDATA[Visualizing quantum mechanics in an interactive simulation]]></description>
+        </item>
         <item>
             <title><![CDATA[舊電腦挑戰賽V2。回到RTC
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31887202</guid>
             <pubDate>Sun, 26 Jun 2022 19:36:54 GMT</pubDate>
             <description><![CDATA[What does an idle CPU do? (2014)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SQLite的道德準則
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31886687</link>
-            <guid>https://news.ycombinator.com/item?id=31886687</guid>
-            <pubDate>Sun, 26 Jun 2022 18:44:25 GMT</pubDate>
-            <description><![CDATA[The SQLite Code of Ethics]]></description>
         </item>
     </channel>
 </rss>
