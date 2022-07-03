@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T21:45:03.789Z</updated>
+    <updated>2022-07-03T22:26:10.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[挑戰與流動
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956617</id>
+        <link href="https://news.ycombinator.com/item?id=31956617"/>
+        <updated>2022-07-02T05:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Challenge and Flow]]></summary>
+        <author>
+            <name>bfollington</name>
+            <uri>https://news.ycombinator.com/user?id=bfollington</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於改進的LSB算法的SVG圖像的新隱寫方法(2019) [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>r1z4</name>
             <uri>https://news.ycombinator.com/user?id=r1z4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outlook掃描到達收件箱的電子郵件，並將所有發現的URL發送至Bing
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892299</id>
-        <link href="https://news.ycombinator.com/item?id=31892299"/>
-        <updated>2022-06-27T09:26:11.000Z</updated>
-        <summary type="html"><![CDATA[Outlook scans emails arriving in your inbox and sends all found URLs to Bing]]></summary>
-        <author>
-            <name>rsbadger</name>
-            <uri>https://news.ycombinator.com/user?id=rsbadger</uri>
         </author>
     </entry>
 </feed>
