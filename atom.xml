@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T21:01:23.904Z</updated>
+    <updated>2022-07-03T21:25:17.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[量子力学与古墓丽影
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970882</id>
+        <link href="https://news.ycombinator.com/item?id=31970882"/>
+        <updated>2022-07-03T20:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Quantum Mechanics and Tomb Raider]]></summary>
+        <author>
+            <name>zydex</name>
+            <uri>https://news.ycombinator.com/user?id=zydex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[运输食物会产生大量的二氧化碳
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970743</id>
+        <link href="https://news.ycombinator.com/item?id=31970743"/>
+        <updated>2022-07-03T20:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Transporting food generates whopping amounts of carbon dioxide]]></summary>
+        <author>
+            <name>mgl</name>
+            <uri>https://news.ycombinator.com/user?id=mgl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了解他人与你的关系
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970724</id>
+        <link href="https://news.ycombinator.com/item?id=31970724"/>
+        <updated>2022-07-03T20:28:16.000Z</updated>
+        <summary type="html"><![CDATA[Understanding how others relate to you]]></summary>
+        <author>
+            <name>OrderOfChaos</name>
+            <uri>https://news.ycombinator.com/user?id=OrderOfChaos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desklamp - 在PDF文件上进行便捷的协作式记事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31966914</id>
+        <link href="https://news.ycombinator.com/item?id=31966914"/>
+        <updated>2022-07-03T11:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Desklamp – convenient and collaborative notemaking on PDFs]]></summary>
+        <author>
+            <name>pj747</name>
+            <uri>https://news.ycombinator.com/user?id=pj747</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个颞叶缺失的女人是如何变成双语的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31951778</id>
+        <link href="https://news.ycombinator.com/item?id=31951778"/>
+        <updated>2022-07-01T19:47:26.000Z</updated>
+        <summary type="html"><![CDATA[How Did a Woman with a Missing Temporal Lobe Become Bilingual?]]></summary>
+        <author>
+            <name>Hooke</name>
+            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海盗图书馆镜像。保存7TB的书籍（不在Libgen中）。
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯粹的。一个静态分析文件格式检查器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31872994</id>
-        <link href="https://news.ycombinator.com/item?id=31872994"/>
-        <updated>2022-06-25T06:15:06.000Z</updated>
-        <summary type="html"><![CDATA[Pure: A static analysis file format checker]]></summary>
-        <author>
-            <name>slimsag</name>
-            <uri>https://news.ycombinator.com/user?id=slimsag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的Kubernetes梦魇是什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892384</id>
-        <link href="https://news.ycombinator.com/item?id=31892384"/>
-        <updated>2022-06-27T09:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your Kubernetes nightmare?]]></summary>
-        <author>
-            <name>wg0</name>
-            <uri>https://news.ycombinator.com/user?id=wg0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谴责部署GPT-4chan的行为
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892421</id>
-        <link href="https://news.ycombinator.com/item?id=31892421"/>
-        <updated>2022-06-27T09:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Condemning the Deployment of GPT-4chan]]></summary>
-        <author>
-            <name>py4</name>
-            <uri>https://news.ycombinator.com/user?id=py4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yboard是一个基于CRDT的多人桌面式工作空间。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891608</id>
-        <link href="https://news.ycombinator.com/item?id=31891608"/>
-        <updated>2022-06-27T07:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT]]></summary>
-        <author>
-            <name>selknam</name>
-            <uri>https://news.ycombinator.com/user?id=selknam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用ASCII艺术解释代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891226</id>
-        <link href="https://news.ycombinator.com/item?id=31891226"/>
-        <updated>2022-06-27T06:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Explaining Code Using ASCII Art]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
