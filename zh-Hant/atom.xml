@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T22:26:10.954Z</updated>
+    <updated>2022-07-03T23:26:53.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是Pozidriv？它與菲利普斯驅動器有何不同？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956655</id>
+        <link href="https://news.ycombinator.com/item?id=31956655"/>
+        <updated>2022-07-02T06:02:14.000Z</updated>
+        <summary type="html"><![CDATA[What Is Pozidriv? How Does It Differ from a Phillips Drive?]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[挑戰與流動
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linx - 揭示JavaScript文件中不可見的鏈接
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892581</id>
-        <link href="https://news.ycombinator.com/item?id=31892581"/>
-        <updated>2022-06-27T10:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Linx – Reveals invisible links within JavaScript files]]></summary>
-        <author>
-            <name>r1z4</name>
-            <uri>https://news.ycombinator.com/user?id=r1z4</uri>
         </author>
     </entry>
 </feed>
