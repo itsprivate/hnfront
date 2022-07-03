@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T14:25:41.775Z</updated>
+    <updated>2022-07-03T14:58:38.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Elke Wiss著《如何瞭解一切》。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31967356</id>
+        <link href="https://news.ycombinator.com/item?id=31967356"/>
+        <updated>2022-07-03T12:56:27.000Z</updated>
+        <summary type="html"><![CDATA[How to know everything by Elke Wiss]]></summary>
+        <author>
+            <name>gHeadphone</name>
+            <uri>https://news.ycombinator.com/user?id=gHeadphone</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duktape是一個可嵌入的JavaScript引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31966374</id>
+        <link href="https://news.ycombinator.com/item?id=31966374"/>
+        <updated>2022-07-03T09:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Duktape is an embeddable JavaScript engine]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IPv4轉讓定價
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>AlexITC</name>
             <uri>https://news.ycombinator.com/user?id=AlexITC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniMail - 面向所有人的一次性電子郵件服務
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31885142</id>
-        <link href="https://news.ycombinator.com/item?id=31885142"/>
-        <updated>2022-06-26T16:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MiniMail – Disposable Email Service for Everyone]]></summary>
-        <author>
-            <name>zenull</name>
-            <uri>https://news.ycombinator.com/user?id=zenull</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生命並不短暫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31885137</id>
-        <link href="https://news.ycombinator.com/item?id=31885137"/>
-        <updated>2022-06-26T16:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Life is not short]]></summary>
-        <author>
-            <name>dbrereton</name>
-            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
         </author>
     </entry>
 </feed>
