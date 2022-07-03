@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T07:25:52.893Z</updated>
+    <updated>2022-07-03T07:43:36.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fermyon希望重塑程序員開發微服務的方式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946419</id>
+        <link href="https://news.ycombinator.com/item?id=31946419"/>
+        <updated>2022-07-01T13:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Fermyon wants to reinvent the way programmers develop microservices]]></summary>
+        <author>
+            <name>kiyanwang</name>
+            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堆垛機（YC S20）正在招聘產品工程師
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>OrderOfChaos</name>
             <uri>https://news.ycombinator.com/user?id=OrderOfChaos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長尾效應到哪裡去了？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31883206</id>
-        <link href="https://news.ycombinator.com/item?id=31883206"/>
-        <updated>2022-06-26T12:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Where Did the Long Tail Go?]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
         </author>
     </entry>
 </feed>
