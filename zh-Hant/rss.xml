@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 05:57:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 06:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CI的結束
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31965268</link>
+            <guid>https://news.ycombinator.com/item?id=31965268</guid>
+            <pubDate>Sun, 03 Jul 2022 05:14:39 GMT</pubDate>
+            <description><![CDATA[The End of CI]]></description>
+        </item>
         <item>
             <title><![CDATA[由內而外的Git
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31882512</guid>
             <pubDate>Sun, 26 Jun 2022 10:01:07 GMT</pubDate>
             <description><![CDATA[We Halved Go Monorepo CI Build Time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub。感謝我們的維護者
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31882388</link>
-            <guid>https://news.ycombinator.com/item?id=31882388</guid>
-            <pubDate>Sun, 26 Jun 2022 09:32:27 GMT</pubDate>
-            <description><![CDATA[GitHub: Thank You to Our Maintainers]]></description>
         </item>
     </channel>
 </rss>
