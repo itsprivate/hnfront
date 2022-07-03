@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T09:02:09.766Z</updated>
+    <updated>2022-07-03T09:28:48.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对myGovID计划的代码重放攻击
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31966254</id>
+        <link href="https://news.ycombinator.com/item?id=31966254"/>
+        <updated>2022-07-03T09:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Code replay attack on the myGovID Scheme]]></summary>
+        <author>
+            <name>shakna</name>
+            <uri>https://news.ycombinator.com/user?id=shakna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GUNMAN行动--苏联人如何窃听IBM打字机
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lando2319</name>
             <uri>https://news.ycombinator.com/user?id=lando2319</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币正在崩溃，但公司并不像它那样行事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31883594</id>
-        <link href="https://news.ycombinator.com/item?id=31883594"/>
-        <updated>2022-06-26T13:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Is Crashing, But Companies Aren't Acting Like It]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
