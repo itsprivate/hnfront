@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T20:28:49.495Z</updated>
+    <updated>2022-07-03T20:46:27.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[印度计划用氢气取代化石燃料
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970592</id>
+        <link href="https://news.ycombinator.com/item?id=31970592"/>
+        <updated>2022-07-03T20:08:40.000Z</updated>
+        <summary type="html"><![CDATA[India plans to replace fossil fuels with hydrogen]]></summary>
+        <author>
+            <name>akmittal</name>
+            <uri>https://news.ycombinator.com/user?id=akmittal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox试图起诉我，要求赔偿160万美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970539</id>
+        <link href="https://news.ycombinator.com/item?id=31970539"/>
+        <updated>2022-07-03T20:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Roblox Tried to Sue Me for $1.6M]]></summary>
+        <author>
+            <name>intunderflow</name>
+            <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HNNotify.xyz: 订阅你的黑客新闻提要
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>notriddle</name>
             <uri>https://news.ycombinator.com/user?id=notriddle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于OpenSSL远程内存损坏的说明 作者：Guido Vranken
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891090</id>
-        <link href="https://news.ycombinator.com/item?id=31891090"/>
-        <updated>2022-06-27T06:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Notes on OpenSSL remote memory corruption by Guido Vranken]]></summary>
-        <author>
-            <name>pentestercrab</name>
-            <uri>https://news.ycombinator.com/user?id=pentestercrab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly和C++
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890894</id>
-        <link href="https://news.ycombinator.com/item?id=31890894"/>
-        <updated>2022-06-27T05:30:54.000Z</updated>
-        <summary type="html"><![CDATA[WebAssembly and C++]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
         </author>
     </entry>
 </feed>
