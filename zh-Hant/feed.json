@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31967057",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31967057",
+            "title": "繆斯（YC W12）正在壯大我們的平臺工程團隊\n",
+            "summary": "The Muse (YC W12) Is Growing Our Platform Engineering Team",
+            "date_modified": "2022-07-03T12:00:35.000Z",
+            "author": {
+                "name": "KMinshew",
+                "url": "https://news.ycombinator.com/user?id=KMinshew"
+            },
+            "_original_headline": "The Muse (YC W12) Is Growing Our Platform Engineering Team",
+            "_original_url": "https://www.themuse.com/jobs/themuse/senior-platform-engineer-233c9c",
+            "_sensitive": false,
+            "_score": 1
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31966919",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31966919",
+            "title": "要失去Duolingo的連勝是相當困難的。\n",
+            "summary": "It's quite hard to lose a Duolingo streak",
+            "date_modified": "2022-07-03T11:36:15.000Z",
+            "author": {
+                "name": "leejo",
+                "url": "https://news.ycombinator.com/user?id=leejo"
+            },
+            "_original_headline": "It's quite hard to lose a Duolingo streak",
+            "_original_url": "https://leejo.github.io/2022/07/03/duolingo_streak/",
+            "_sensitive": false,
+            "_score": 30
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31966804",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31966804",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.abc.net.au/news/2021-04-30/research-into-ancient-aboriginal-migration-across-australia/100105902",
             "_sensitive": false,
             "_score": 5
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31883209",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31883209",
-            "title": "粒子 - URL包含整個程序代碼\n",
-            "summary": "Show HN: Particles – the URL contains the whole program code",
-            "date_modified": "2022-06-26T12:07:02.000Z",
-            "author": {
-                "name": "chkas",
-                "url": "https://news.ycombinator.com/user?id=chkas"
-            },
-            "_original_headline": "Show HN: Particles – the URL contains the whole program code",
-            "_original_url": "https://easylang.online/run/?code=%23%20Particles%0A%23%20%0An_part%20%3D%2040%0Athres%20%3D%2015%0A%23%20%0Asubr%20connect%0A%20%20h%20%3D%20dx%20*%20dx%20%2B%20dy%20*%20dy%0A%20%20dist%20%3D%20sqrt%20h%0A%20%20if%20dist%20%3C%20thres%0A%20%20%20%20lw%20%3D%20(thres%20-%20dist)%20%2F%2030%0A%20%20%20%20linewidth%20lw%0A%20%20%20%20move%20px%20py%0A%20%20%20%20line%20px%5Bj%5D%20py%5Bj%5D%0A%20%20.%0A.%0Aon%20animate%0A%20%20clear%0A%20%20for%20i%20range%20n_part%0A%20%20%20%20px%20%3D%20px%5Bi%5D%0A%20%20%20%20py%20%3D%20py%5Bi%5D%0A%20%20%20%20move%20px%20py%0A%20%20%20%20circle%200.3125%0A%20%20%20%20for%20j%20range%20i%0A%20%20%20%20%20%20dx%20%3D%20abs%20(px%5Bj%5D%20-%20px)%0A%20%20%20%20%20%20if%20dx%20%3C%20thres%0A%20%20%20%20%20%20%20%20dy%20%3D%20abs%20(py%5Bj%5D%20-%20py)%0A%20%20%20%20%20%20%20%20if%20dy%20%3C%20thres%0A%20%20%20%20%20%20%20%20%20%20call%20connect%0A%20%20%20%20%20%20%20%20.%0A%20%20%20%20%20%20.%0A%20%20%20%20.%0A%20%20%20%20if%20px%20%3E%20100%20or%20px%20%3C%200%0A%20%20%20%20%20%20pvx%5Bi%5D%20%3D%20-pvx%5Bi%5D%0A%20%20%20%20.%0A%20%20%20%20if%20py%20%3E%20100%20or%20py%20%3C%200%0A%20%20%20%20%20%20pvy%5Bi%5D%20%3D%20-pvy%5Bi%5D%0A%20%20%20%20.%0A%20%20%20%20px%5Bi%5D%20%2B%3D%20pvx%5Bi%5D%0A%20%20%20%20py%5Bi%5D%20%2B%3D%20pvy%5Bi%5D%0A%20%20.%0A.%0Afor%20i%20range%20n_part%0A%20%20px%5B%5D%20%26%3D%20randomf%20*%20100%0A%20%20py%5B%5D%20%26%3D%20randomf%20*%20100%0A%20%20pvx%5B%5D%20%26%3D%20(0.5%20-%20randomf)%20%2F%203%0A%20%20pvy%5B%5D%20%26%3D%20(0.5%20-%20randomf)%20%2F%203%0A.%0A",
-            "_sensitive": false,
-            "_score": 5
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31884038",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31884038",
-            "title": "一個微小的(850B)、快速的、通過函數實現的反應性觀測數據庫\n",
-            "summary": "Show HN: A tiny (850B) and fast reactive observables library via functions",
-            "date_modified": "2022-06-26T13:57:53.000Z",
-            "author": {
-                "name": "rahim_alwer",
-                "url": "https://news.ycombinator.com/user?id=rahim_alwer"
-            },
-            "_original_headline": "Show HN: A tiny (850B) and fast reactive observables library via functions",
-            "_original_url": "https://github.com/maverick-js/observables",
-            "_sensitive": false,
-            "_score": 9
         }
     ]
 }
