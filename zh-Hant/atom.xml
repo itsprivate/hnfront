@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T06:32:17.268Z</updated>
+    <updated>2022-07-03T06:53:23.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[嚴格的YAML
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965395</id>
+        <link href="https://news.ycombinator.com/item?id=31965395"/>
+        <updated>2022-07-03T05:44:18.000Z</updated>
+        <summary type="html"><![CDATA[StrictYAML]]></summary>
+        <author>
+            <name>brigandish</name>
+            <uri>https://news.ycombinator.com/user?id=brigandish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[究竟什麼是正念冥想？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965367</id>
+        <link href="https://news.ycombinator.com/item?id=31965367"/>
+        <updated>2022-07-03T05:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What exactly Is a Mindfulness Meditation?]]></summary>
+        <author>
+            <name>aristofun</name>
+            <uri>https://news.ycombinator.com/user?id=aristofun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兩個時鐘的故事--精確安排網絡音頻的時間
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31935058</id>
+        <link href="https://news.ycombinator.com/item?id=31935058"/>
+        <updated>2022-06-30T16:38:40.000Z</updated>
+        <summary type="html"><![CDATA[A tale of two clocks – Scheduling Web Audio with precision]]></summary>
+        <author>
+            <name>lioeters</name>
+            <uri>https://news.ycombinator.com/user?id=lioeters</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CI的結束
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>diodorus</name>
             <uri>https://news.ycombinator.com/user?id=diodorus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理學美學，或第十五屆文獻展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31875492</id>
-        <link href="https://news.ycombinator.com/item?id=31875492"/>
-        <updated>2022-06-25T14:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Managerial Aesthetics, or Documenta Fifteen]]></summary>
-        <author>
-            <name>bshepard</name>
-            <uri>https://news.ycombinator.com/user?id=bshepard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建立世界政府的必要性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882648</id>
-        <link href="https://news.ycombinator.com/item?id=31882648"/>
-        <updated>2022-06-26T10:35:08.000Z</updated>
-        <summary type="html"><![CDATA[The need for world government]]></summary>
-        <author>
-            <name>galfarragem</name>
-            <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們將Go Monorepo CI的構建時間減半
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882512</id>
-        <link href="https://news.ycombinator.com/item?id=31882512"/>
-        <updated>2022-06-26T10:01:07.000Z</updated>
-        <summary type="html"><![CDATA[We Halved Go Monorepo CI Build Time]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
         </author>
     </entry>
 </feed>
