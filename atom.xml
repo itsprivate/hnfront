@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-03T19:23:50.662Z</updated>
+    <updated>2022-07-03T19:57:48.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软在新的服务条款中澄清了与第三方共享游戏活动的问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970106</id>
+        <link href="https://news.ycombinator.com/item?id=31970106"/>
+        <updated>2022-07-03T19:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft clarifies that game activity is shared with third parties in new ToS]]></summary>
+        <author>
+            <name>strogonoff</name>
+            <uri>https://news.ycombinator.com/user?id=strogonoff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么JavaScript中的一切变化如此之快？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国农业部无视低碳水化合物饮食的科学性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889785</id>
-        <link href="https://news.ycombinator.com/item?id=31889785"/>
-        <updated>2022-06-27T01:45:52.000Z</updated>
-        <summary type="html"><![CDATA[USDA ignoring the science on low-carb diets]]></summary>
-        <author>
-            <name>RelaxedTree</name>
-            <uri>https://news.ycombinator.com/user?id=RelaxedTree</uri>
         </author>
     </entry>
 </feed>
