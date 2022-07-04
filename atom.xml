@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T06:41:27.775Z</updated>
+    <updated>2022-07-04T07:03:30.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果我再听到一个人说 "先卖后建"，我就要吐了。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974053</id>
+        <link href="https://news.ycombinator.com/item?id=31974053"/>
+        <updated>2022-07-04T06:25:28.000Z</updated>
+        <summary type="html"><![CDATA[If I hear one more person say “sell before you build” I'm going to puke]]></summary>
+        <author>
+            <name>liuxiaopai</name>
+            <uri>https://news.ycombinator.com/user?id=liuxiaopai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技术债务、事件和待命
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mikece</name>
             <uri>https://news.ycombinator.com/user?id=mikece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用你的公共图书馆或大学卡播放有思想的电影
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882374</id>
-        <link href="https://news.ycombinator.com/item?id=31882374"/>
-        <updated>2022-06-26T09:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Stream thoughtful films with your public library or university card]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
         </author>
     </entry>
 </feed>
