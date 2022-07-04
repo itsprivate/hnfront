@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T17:12:59.871Z</updated>
+    <updated>2022-07-04T17:43:23.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[UIs不是模型的纯粹功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31979347</id>
+        <link href="https://news.ycombinator.com/item?id=31979347"/>
+        <updated>2022-07-04T17:07:45.000Z</updated>
+        <summary type="html"><![CDATA[UIs are not pure functions of the model]]></summary>
+        <author>
+            <name>b3morales</name>
+            <uri>https://news.ycombinator.com/user?id=b3morales</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国自1991年以来首次录得月度贸易逆差，通胀率飙升
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31978489</id>
+        <link href="https://news.ycombinator.com/item?id=31978489"/>
+        <updated>2022-07-04T15:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Germany records first monthly trade deficit since 1991 as inflation soars]]></summary>
+        <author>
+            <name>freemint</name>
+            <uri>https://news.ycombinator.com/user?id=freemint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是残疾人，没有钱了。现在怎么办？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>davidbarker</name>
             <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[断言应该更加面向调试器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31888973</id>
-        <link href="https://news.ycombinator.com/item?id=31888973"/>
-        <updated>2022-06-26T23:08:19.000Z</updated>
-        <summary type="html"><![CDATA[Assertions should be more debugger-oriented]]></summary>
-        <author>
-            <name>telotortium</name>
-            <uri>https://news.ycombinator.com/user?id=telotortium</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新研究表明，与他人隔离的人在认知测试中表现更差
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31901681</id>
-        <link href="https://news.ycombinator.com/item?id=31901681"/>
-        <updated>2022-06-27T22:25:26.000Z</updated>
-        <summary type="html"><![CDATA[People who are isolated from others do worse on cognitive tests: new research]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
         </author>
     </entry>
 </feed>
