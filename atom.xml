@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T22:59:46.192Z</updated>
+    <updated>2022-07-04T23:59:26.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[(计算机)瑞士的博物馆
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31978656</id>
+        <link href="https://news.ycombinator.com/item?id=31978656"/>
+        <updated>2022-07-04T16:13:59.000Z</updated>
+        <summary type="html"><![CDATA[(Computer) Museums in Switzerland]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彼得-泰尔支持的加密货币贷款人Vauld暂停提款
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982369</id>
+        <link href="https://news.ycombinator.com/item?id=31982369"/>
+        <updated>2022-07-04T22:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Peter Thiel-Backed Crypto Lender Vauld Suspends Withdrawals]]></summary>
+        <author>
+            <name>crhulls</name>
+            <uri>https://news.ycombinator.com/user?id=crhulls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQLGlot。SQL解析器、转码器、优化器--翻译成Presto、Spark、Hive
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>smcleod</name>
             <uri>https://news.ycombinator.com/user?id=smcleod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大鸟：用图的同态性杀死SQL注入
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904549</id>
-        <link href="https://news.ycombinator.com/item?id=31904549"/>
-        <updated>2022-06-28T05:53:24.000Z</updated>
-        <summary type="html"><![CDATA[Big Bird: killing SQL injection with graph homomorphisms]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将IHP项目部署到Fly.io上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891169</id>
-        <link href="https://news.ycombinator.com/item?id=31891169"/>
-        <updated>2022-06-27T06:16:18.000Z</updated>
-        <summary type="html"><![CDATA[Deploying an IHP Project to Fly.io]]></summary>
-        <author>
-            <name>_query</name>
-            <uri>https://news.ycombinator.com/user?id=_query</uri>
         </author>
     </entry>
 </feed>
