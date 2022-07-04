@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T22:27:53.778Z</updated>
+    <updated>2022-07-04T22:47:27.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux Kernel vs. DPDK：HTTP性能对决
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982026</id>
+        <link href="https://news.ycombinator.com/item?id=31982026"/>
+        <updated>2022-07-04T21:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Linux Kernel vs. DPDK: HTTP Performance Showdown]]></summary>
+        <author>
+            <name>talawahtech</name>
+            <uri>https://news.ycombinator.com/user?id=talawahtech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特尼，一个学习复杂技能的自动化系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31980069</id>
+        <link href="https://news.ycombinator.com/item?id=31980069"/>
+        <updated>2022-07-04T18:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Trane, an automated system for learning complex skills]]></summary>
+        <author>
+            <name>trane_project</name>
+            <uri>https://news.ycombinator.com/user?id=trane_project</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[七月四日快乐
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Blender Python API实现排序算法的可视化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904524</id>
-        <link href="https://news.ycombinator.com/item?id=31904524"/>
-        <updated>2022-06-28T05:47:28.000Z</updated>
-        <summary type="html"><![CDATA[Sorting algorithms visualized using the Blender Python API]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大科技公司是否变得太有判断力？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904426</id>
-        <link href="https://news.ycombinator.com/item?id=31904426"/>
-        <updated>2022-06-28T05:28:25.000Z</updated>
-        <summary type="html"><![CDATA[Are big tech getting too judgemental?]]></summary>
-        <author>
-            <name>jibee</name>
-            <uri>https://news.ycombinator.com/user?id=jibee</uri>
         </author>
     </entry>
 </feed>
