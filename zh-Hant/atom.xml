@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T07:03:30.806Z</updated>
+    <updated>2022-07-04T07:30:14.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vauld暫停了平臺上的所有提款、交易和存款
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974146</id>
+        <link href="https://news.ycombinator.com/item?id=31974146"/>
+        <updated>2022-07-04T06:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Vauld suspends all withdrawals, trading and deposits on the platform]]></summary>
+        <author>
+            <name>sreekars</name>
+            <uri>https://news.ycombinator.com/user?id=sreekars</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們正在將我們的數據庫分成主數據庫和CI數據庫。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956871</id>
+        <link href="https://news.ycombinator.com/item?id=31956871"/>
+        <updated>2022-07-02T07:03:31.000Z</updated>
+        <summary type="html"><![CDATA[We are splitting our database into Main and CI]]></summary>
+        <author>
+            <name>hardwaresofton</name>
+            <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果我再聽到一個人說 "先賣後建"，我就要吐了。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mgl</name>
             <uri>https://news.ycombinator.com/user?id=mgl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[溫泉。理論與實踐
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31896769</id>
-        <link href="https://news.ycombinator.com/item?id=31896769"/>
-        <updated>2022-06-27T16:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Spas: Theory versus Practice]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript規範有了新的許可
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31895791</id>
-        <link href="https://news.ycombinator.com/item?id=31895791"/>
-        <updated>2022-06-27T15:19:50.000Z</updated>
-        <summary type="html"><![CDATA[The JavaScript Specification Has a New License]]></summary>
-        <author>
-            <name>mikece</name>
-            <uri>https://news.ycombinator.com/user?id=mikece</uri>
         </author>
     </entry>
 </feed>
