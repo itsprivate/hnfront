@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T07:30:14.005Z</updated>
+    <updated>2022-07-04T07:46:02.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於反應堆
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31973998</id>
+        <link href="https://news.ycombinator.com/item?id=31973998"/>
+        <updated>2022-07-04T06:16:33.000Z</updated>
+        <summary type="html"><![CDATA[About the Reactor]]></summary>
+        <author>
+            <name>Hooke</name>
+            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vauld暫停了平臺上的所有提款、交易和存款
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>oka</name>
             <uri>https://news.ycombinator.com/user?id=oka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta公司建立了一個新的語言人工智能，並免費提供給大家。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897101</id>
-        <link href="https://news.ycombinator.com/item?id=31897101"/>
-        <updated>2022-06-27T16:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Meta has built a new language AI–and it’s giving it away for free]]></summary>
-        <author>
-            <name>mgl</name>
-            <uri>https://news.ycombinator.com/user?id=mgl</uri>
         </author>
     </entry>
 </feed>
