@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T07:46:02.794Z</updated>
+    <updated>2022-07-04T08:36:32.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes是一个红旗，标志着过早的优化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974420</id>
+        <link href="https://news.ycombinator.com/item?id=31974420"/>
+        <updated>2022-07-04T07:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes is a red flag signalling premature optimisation]]></summary>
+        <author>
+            <name>tenfourty</name>
+            <uri>https://news.ycombinator.com/user?id=tenfourty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[功能性编程术语通俗易懂
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944352</id>
+        <link href="https://news.ycombinator.com/item?id=31944352"/>
+        <updated>2022-07-01T10:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Functional programming jargon in plain English]]></summary>
+        <author>
+            <name>mgliwka</name>
+            <uri>https://news.ycombinator.com/user?id=mgliwka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于反应堆
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gok</name>
             <uri>https://news.ycombinator.com/user?id=gok</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRQL 0.2 - 一个更好的SQL - 现在可以使用了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897430</id>
-        <link href="https://news.ycombinator.com/item?id=31897430"/>
-        <updated>2022-06-27T17:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PRQL 0.2 — a better SQL — now ready to use]]></summary>
-        <author>
-            <name>maximilianroos</name>
-            <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摆脱Git子模块，永不回头（现在为GitHub用户）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897249</id>
-        <link href="https://news.ycombinator.com/item?id=31897249"/>
-        <updated>2022-06-27T16:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Get rid of Git submodules and never look back (now for GitHub users)]]></summary>
-        <author>
-            <name>oka</name>
-            <uri>https://news.ycombinator.com/user?id=oka</uri>
         </author>
     </entry>
 </feed>
