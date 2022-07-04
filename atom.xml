@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T20:31:30.193Z</updated>
+    <updated>2022-07-04T20:48:47.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[论生命的使用 (2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31981486</id>
+        <link href="https://news.ycombinator.com/item?id=31981486"/>
+        <updated>2022-07-04T20:34:39.000Z</updated>
+        <summary type="html"><![CDATA[On the Use of a Life (2020)]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于树莓Pico的100-Msps逻辑分析器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>crehn</name>
             <uri>https://news.ycombinator.com/user?id=crehn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[总检察长邦塔公布持枪者的姓名、出生日期和地址
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31903486</id>
-        <link href="https://news.ycombinator.com/item?id=31903486"/>
-        <updated>2022-06-28T02:37:02.000Z</updated>
-        <summary type="html"><![CDATA[Attorney General Bonta Releases Name, DOB, and Address of CCW Holders]]></summary>
-        <author>
-            <name>takklz</name>
-            <uri>https://news.ycombinator.com/user?id=takklz</uri>
         </author>
     </entry>
 </feed>
