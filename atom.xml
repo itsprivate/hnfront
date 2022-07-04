@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T19:01:09.613Z</updated>
+    <updated>2022-07-04T19:43:58.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[iOS上的延迟信息
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31980548</id>
+        <link href="https://news.ycombinator.com/item?id=31980548"/>
+        <updated>2022-07-04T18:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Delayed Messages on iOS]]></summary>
+        <author>
+            <name>karagenit</name>
+            <uri>https://news.ycombinator.com/user?id=karagenit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphsignal - 加速训练和推理的ML分析器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31975952</id>
+        <link href="https://news.ycombinator.com/item?id=31975952"/>
+        <updated>2022-07-04T11:40:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Graphsignal – ML profiler to speed up training and inference]]></summary>
+        <author>
+            <name>dmitrim</name>
+            <uri>https://news.ycombinator.com/user?id=dmitrim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英格兰和威尔士的酒吧数量降至历史最低点
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Majromax</name>
             <uri>https://news.ycombinator.com/user?id=Majromax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软网络是什么鬼？(2018)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31903318</id>
-        <link href="https://news.ycombinator.com/item?id=31903318"/>
-        <updated>2022-06-28T02:04:51.000Z</updated>
-        <summary type="html"><![CDATA[What the Hell Was the Microsoft Network? (2018)]]></summary>
-        <author>
-            <name>edgarvm</name>
-            <uri>https://news.ycombinator.com/user?id=edgarvm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把DALL-E Mini剥离到最基本的部分，并将其转换为火炬。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31903076</id>
-        <link href="https://news.ycombinator.com/item?id=31903076"/>
-        <updated>2022-06-28T01:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch]]></summary>
-        <author>
-            <name>kuprel</name>
-            <uri>https://news.ycombinator.com/user?id=kuprel</uri>
         </author>
     </entry>
 </feed>
