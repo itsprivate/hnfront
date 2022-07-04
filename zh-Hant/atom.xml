@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-04T22:47:27.178Z</updated>
+    <updated>2022-07-04T22:59:46.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SQLGlot。SQL解析器、轉碼器、優化器--翻譯成Presto、Spark、Hive
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31981568</id>
+        <link href="https://news.ycombinator.com/item?id=31981568"/>
+        <updated>2022-07-04T20:44:21.000Z</updated>
+        <summary type="html"><![CDATA[SQLGlot: SQL parser, transpiler, optimizer – translate to Presto, Spark, Hive]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航海者號的沉沒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31967730</id>
+        <link href="https://news.ycombinator.com/item?id=31967730"/>
+        <updated>2022-07-03T13:56:24.000Z</updated>
+        <summary type="html"><![CDATA[The Sinking of Voyager]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Kernel vs. DPDK：HTTP性能對決
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>_query</name>
             <uri>https://news.ycombinator.com/user?id=_query</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algolia正在歐洲、中東和非洲地區招聘一名工程經理，負責領導攝取管道。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904952</id>
-        <link href="https://news.ycombinator.com/item?id=31904952"/>
-        <updated>2022-06-28T07:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Algolia Is Hiring an Engineering Manager in EMEA to Lead the Ingestion Pipeline]]></summary>
-        <author>
-            <name>jlemoine</name>
-            <uri>https://news.ycombinator.com/user?id=jlemoine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shacl：一個變相的描述邏輯
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890041</id>
-        <link href="https://news.ycombinator.com/item?id=31890041"/>
-        <updated>2022-06-27T02:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Shacl: A Description Logic in Disguise]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
