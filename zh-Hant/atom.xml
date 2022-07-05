@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T21:30:38.719Z</updated>
+    <updated>2022-07-05T21:45:32.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bun: 快速的JavaScript運行時、捆綁器、轉碼器和包管理器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993622</id>
+        <link href="https://news.ycombinator.com/item?id=31993622"/>
+        <updated>2022-07-05T20:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Bun: Fast JavaScript runtime, bundler, transpiler and package manager]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compound (YC S19)正在招聘為創業公司員工打造金融產品的人才
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>happy-go-lucky</name>
             <uri>https://news.ycombinator.com/user?id=happy-go-lucky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的聚光器可以幫助太陽能電池板捕獲更多的陽光而不需要跟蹤
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31915677</id>
-        <link href="https://news.ycombinator.com/item?id=31915677"/>
-        <updated>2022-06-29T02:12:52.000Z</updated>
-        <summary type="html"><![CDATA[New concentrator could help solar panels capture more sunlight without tracking]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
