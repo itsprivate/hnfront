@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T22:47:39.089Z</updated>
+    <updated>2022-07-05T22:59:16.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不关心你如何进行网络开发，我只需要更多更好的网络应用。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994223</id>
+        <link href="https://news.ycombinator.com/item?id=31994223"/>
+        <updated>2022-07-05T21:54:18.000Z</updated>
+        <summary type="html"><![CDATA[I don't care how you web dev; I just need more better web apps]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐性货币的最后一个人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thinkingemote</name>
             <uri>https://news.ycombinator.com/user?id=thinkingemote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老鼠天堂还是老鼠地狱？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31905218</id>
-        <link href="https://news.ycombinator.com/item?id=31905218"/>
-        <updated>2022-06-28T07:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Mouse Heaven or Mouse Hell?]]></summary>
-        <author>
-            <name>xvmt</name>
-            <uri>https://news.ycombinator.com/user?id=xvmt</uri>
         </author>
     </entry>
 </feed>
