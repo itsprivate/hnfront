@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T20:34:38.762Z</updated>
+    <updated>2022-07-05T20:48:32.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本地化和翻译应该是代码，而不是数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993131</id>
+        <link href="https://news.ycombinator.com/item?id=31993131"/>
+        <updated>2022-07-05T20:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Localization and translations should be code, not data]]></summary>
+        <author>
+            <name>LeviticusMB</name>
+            <uri>https://news.ycombinator.com/user?id=LeviticusMB</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[土耳其发现6.94亿吨的稀土元素储量
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sgdesign</name>
             <uri>https://news.ycombinator.com/user?id=sgdesign</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乐高凡尔登之战
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31902665</id>
-        <link href="https://news.ycombinator.com/item?id=31902665"/>
-        <updated>2022-06-28T00:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Lego Battle of Verdun]]></summary>
-        <author>
-            <name>brudgers</name>
-            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
         </author>
     </entry>
 </feed>
