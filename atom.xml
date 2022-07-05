@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T09:04:32.150Z</updated>
+    <updated>2022-07-05T09:28:10.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[经验。我曾是山达基爵士乐队的成员(2021年)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31973344</id>
+        <link href="https://news.ycombinator.com/item?id=31973344"/>
+        <updated>2022-07-04T03:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Experience: I was in a Scientology jazz band (2021)]]></summary>
+        <author>
+            <name>tintinnabula</name>
+            <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我有多正常？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>afarchy</name>
             <uri>https://news.ycombinator.com/user?id=afarchy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fenix发布两年后，Firefox插件在安卓上仍不可用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31905948</id>
-        <link href="https://news.ycombinator.com/item?id=31905948"/>
-        <updated>2022-06-28T10:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Firefox addons are still unavailable on Android, two years after Fenix release]]></summary>
-        <author>
-            <name>karlicoss</name>
-            <uri>https://news.ycombinator.com/user?id=karlicoss</uri>
         </author>
     </entry>
 </feed>
