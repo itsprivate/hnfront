@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T09:28:10.323Z</updated>
+    <updated>2022-07-05T09:48:03.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox。一個黑客遊樂場
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985473</id>
+        <link href="https://news.ycombinator.com/item?id=31985473"/>
+        <updated>2022-07-05T07:43:25.000Z</updated>
+        <summary type="html"><![CDATA[HackTheBox: A Hacking Playground]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[經驗。我曾是山達基爵士樂隊的成員(2021年)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yogue</name>
             <uri>https://news.ycombinator.com/user?id=yogue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虛擬製造商 - 在瀏覽器中製作3D/VR場景
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31907771</id>
-        <link href="https://news.ycombinator.com/item?id=31907771"/>
-        <updated>2022-06-28T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Virtual Maker – Make 3D/VR scenes in the browser]]></summary>
-        <author>
-            <name>afarchy</name>
-            <uri>https://news.ycombinator.com/user?id=afarchy</uri>
         </author>
     </entry>
 </feed>
