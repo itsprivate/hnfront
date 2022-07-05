@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T20:48:32.682Z</updated>
+    <updated>2022-07-05T21:03:19.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[刪除谷歌分析是否會使網站在谷歌搜索中受到懲罰？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993278</id>
+        <link href="https://news.ycombinator.com/item?id=31993278"/>
+        <updated>2022-07-05T20:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Does removing Google Analytics penalise a website in Google search?]]></summary>
+        <author>
+            <name>googanalytical</name>
+            <uri>https://news.ycombinator.com/user?id=googanalytical</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本地化和翻譯應該是代碼，而不是數據
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tempsy</name>
             <uri>https://news.ycombinator.com/user?id=tempsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meteor的10年：我對一個先驅性的JavaScript框架的體驗
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31915573</id>
-        <link href="https://news.ycombinator.com/item?id=31915573"/>
-        <updated>2022-06-29T01:57:19.000Z</updated>
-        <summary type="html"><![CDATA[10 Years of Meteor: My experience with a pioneering JavaScript framework]]></summary>
-        <author>
-            <name>sgdesign</name>
-            <uri>https://news.ycombinator.com/user?id=sgdesign</uri>
         </author>
     </entry>
 </feed>
