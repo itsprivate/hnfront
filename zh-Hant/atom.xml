@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T14:32:29.880Z</updated>
+    <updated>2022-07-05T14:47:48.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[全職技術工作的薪酬比全職遠程的低1.9倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31988559</id>
+        <link href="https://news.ycombinator.com/item?id=31988559"/>
+        <updated>2022-07-05T14:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Full-office tech jobs pay 1.9x less than full-remote]]></summary>
+        <author>
+            <name>maggioli</name>
+            <uri>https://news.ycombinator.com/user?id=maggioli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐盟批准具有里程碑意義的立法，對蘋果和其他大型科技公司進行監管
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mikece</name>
             <uri>https://news.ycombinator.com/user?id=mikece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有圍棋屬相的小桌子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890672</id>
-        <link href="https://news.ycombinator.com/item?id=31890672"/>
-        <updated>2022-06-27T04:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Small Tables with Go generics]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
         </author>
     </entry>
 </feed>
