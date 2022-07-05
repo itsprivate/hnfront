@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T05:14:46.607Z</updated>
+    <updated>2022-07-05T05:39:08.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑暗之魂3》網絡逆向工程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982898</id>
+        <link href="https://news.ycombinator.com/item?id=31982898"/>
+        <updated>2022-07-04T23:53:14.000Z</updated>
+        <summary type="html"><![CDATA[Reverse Engineering Dark Souls 3 Networking]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git之後是什麼
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程師應該問（但不應該問）的重要求職面試問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31906933</id>
-        <link href="https://news.ycombinator.com/item?id=31906933"/>
-        <updated>2022-06-28T12:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Important job interview questions engineers should ask (but don't)]]></summary>
-        <author>
-            <name>james_impliu</name>
-            <uri>https://news.ycombinator.com/user?id=james_impliu</uri>
         </author>
     </entry>
 </feed>
