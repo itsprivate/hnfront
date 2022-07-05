@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T19:45:55.956Z</updated>
+    <updated>2022-07-05T19:58:07.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[編譯器，手把手教我優化（2016）[pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31992603</id>
+        <link href="https://news.ycombinator.com/item?id=31992603"/>
+        <updated>2022-07-05T19:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Compilers, Hands-Off My Hands-On Optimizations (2016) [pdf]]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科裡-多克託羅。轉向
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31992218</id>
+        <link href="https://news.ycombinator.com/item?id=31992218"/>
+        <updated>2022-07-05T18:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Cory Doctorow: The Swerve]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為算法決策開放我們的代碼和邏輯
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用GPT-3和DALL-E生成兒童故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31915334</id>
-        <link href="https://news.ycombinator.com/item?id=31915334"/>
-        <updated>2022-06-29T01:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Generating Children’s Stories Using GPT-3 and DALL·E]]></summary>
-        <author>
-            <name>echen</name>
-            <uri>https://news.ycombinator.com/user?id=echen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用特定領域的知識分析OpenBSD的內核
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31914911</id>
-        <link href="https://news.ycombinator.com/item?id=31914911"/>
-        <updated>2022-06-29T00:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Analyze OpenBSD’s Kernel with Domain-Specific Knowledge]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
