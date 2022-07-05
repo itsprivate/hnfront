@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T21:45:32.563Z</updated>
+    <updated>2022-07-05T22:28:10.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL安全諮詢[2022年7月5日]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993713</id>
+        <link href="https://news.ycombinator.com/item?id=31993713"/>
+        <updated>2022-07-05T21:08:28.000Z</updated>
+        <summary type="html"><![CDATA[OpenSSL Security Advisory [5 July 2022]]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐盟關於汽車限速器的新規則即將生效
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31992540</id>
+        <link href="https://news.ycombinator.com/item?id=31992540"/>
+        <updated>2022-07-05T19:21:16.000Z</updated>
+        <summary type="html"><![CDATA[New EU rules on car speed limiters coming into force]]></summary>
+        <author>
+            <name>dsego</name>
+            <uri>https://news.ycombinator.com/user?id=dsego</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bun: 快速的JavaScript運行時、捆綁器、轉碼器和包管理器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>yimby</name>
             <uri>https://news.ycombinator.com/user?id=yimby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這比你想象的更糟糕
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31916864</id>
-        <link href="https://news.ycombinator.com/item?id=31916864"/>
-        <updated>2022-06-29T05:41:32.000Z</updated>
-        <summary type="html"><![CDATA[It's worse than you think]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摺紙的幾何練習 (1917)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31916812</id>
-        <link href="https://news.ycombinator.com/item?id=31916812"/>
-        <updated>2022-06-29T05:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Geometric exercises in paper folding (1917)]]></summary>
-        <author>
-            <name>happy-go-lucky</name>
-            <uri>https://news.ycombinator.com/user?id=happy-go-lucky</uri>
         </author>
     </entry>
 </feed>
