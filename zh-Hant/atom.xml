@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-05T18:55:48.600Z</updated>
+    <updated>2022-07-05T19:45:55.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為算法決策開放我們的代碼和邏輯
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985485</id>
+        <link href="https://news.ycombinator.com/item?id=31985485"/>
+        <updated>2022-07-05T07:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Opening up our code and logic for algorithmic decision-making]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN的用戶界面多年來一直沒有改變，這是一種優勢嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把你的會議演講變成一篇博文
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31914395</id>
-        <link href="https://news.ycombinator.com/item?id=31914395"/>
-        <updated>2022-06-28T23:22:31.000Z</updated>
-        <summary type="html"><![CDATA[Turn your conference talk into a blog post]]></summary>
-        <author>
-            <name>herbertl</name>
-            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
         </author>
     </entry>
 </feed>
