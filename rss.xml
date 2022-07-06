@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 06 Jul 2022 08:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 09:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Emacs的内置Elisp小抄
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31998244</link>
+            <guid>https://news.ycombinator.com/item?id=31998244</guid>
+            <pubDate>Wed, 06 Jul 2022 08:29:13 GMT</pubDate>
+            <description><![CDATA[Emacs’s Builtin Elisp Cheat Sheet]]></description>
+        </item>
+        <item>
+            <title><![CDATA[第一个电影制作室。爱迪生的黑玛丽亚
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31983796</link>
+            <guid>https://news.ycombinator.com/item?id=31983796</guid>
+            <pubDate>Tue, 05 Jul 2022 02:49:48 GMT</pubDate>
+            <description><![CDATA[The first motion picture production studio: Edison’s Black Maria]]></description>
+        </item>
         <item>
             <title><![CDATA[NeoPOP在开放源代码中说 "你好，世界"。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31921313</guid>
             <pubDate>Wed, 29 Jun 2022 15:12:24 GMT</pubDate>
             <description><![CDATA[Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode]]></description>
-        </item>
-        <item>
-            <title><![CDATA[改进对16384列的计算支持
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31921308</link>
-            <guid>https://news.ycombinator.com/item?id=31921308</guid>
-            <pubDate>Wed, 29 Jun 2022 15:12:08 GMT</pubDate>
-            <description><![CDATA[Improving Calc support for 16384 columns]]></description>
-        </item>
-        <item>
-            <title><![CDATA[图形神经网络的黑暗面
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31921196</link>
-            <guid>https://news.ycombinator.com/item?id=31921196</guid>
-            <pubDate>Wed, 29 Jun 2022 15:05:05 GMT</pubDate>
-            <description><![CDATA[The Dark Side of Graph Neural Networks]]></description>
         </item>
     </channel>
 </rss>

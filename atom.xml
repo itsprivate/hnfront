@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T08:54:17.406Z</updated>
+    <updated>2022-07-06T09:49:19.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Emacs的内置Elisp小抄
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31998244</id>
+        <link href="https://news.ycombinator.com/item?id=31998244"/>
+        <updated>2022-07-06T08:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Emacs’s Builtin Elisp Cheat Sheet]]></summary>
+        <author>
+            <name>seansh</name>
+            <uri>https://news.ycombinator.com/user?id=seansh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一个电影制作室。爱迪生的黑玛丽亚
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31983796</id>
+        <link href="https://news.ycombinator.com/item?id=31983796"/>
+        <updated>2022-07-05T02:49:48.000Z</updated>
+        <summary type="html"><![CDATA[The first motion picture production studio: Edison’s Black Maria]]></summary>
+        <author>
+            <name>brudgers</name>
+            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NeoPOP在开放源代码中说 "你好，世界"。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>hugorut</name>
             <uri>https://news.ycombinator.com/user?id=hugorut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改进对16384列的计算支持
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31921308</id>
-        <link href="https://news.ycombinator.com/item?id=31921308"/>
-        <updated>2022-06-29T15:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Improving Calc support for 16384 columns]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图形神经网络的黑暗面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31921196</id>
-        <link href="https://news.ycombinator.com/item?id=31921196"/>
-        <updated>2022-06-29T15:05:05.000Z</updated>
-        <summary type="html"><![CDATA[The Dark Side of Graph Neural Networks]]></summary>
-        <author>
-            <name>szemy2</name>
-            <uri>https://news.ycombinator.com/user?id=szemy2</uri>
         </author>
     </entry>
 </feed>
