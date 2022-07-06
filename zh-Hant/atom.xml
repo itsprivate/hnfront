@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T05:07:14.934Z</updated>
+    <updated>2022-07-06T05:48:29.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GVM。用於具有IOMMU功能的計算機的GPU虛擬機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31996529</id>
+        <link href="https://news.ycombinator.com/item?id=31996529"/>
+        <updated>2022-07-06T03:55:54.000Z</updated>
+        <summary type="html"><![CDATA[GVM: A GPU Virtual Machine for IOMMU-Capable Computers]]></summary>
+        <author>
+            <name>ArcVRArthur</name>
+            <uri>https://news.ycombinator.com/user?id=ArcVRArthur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[備份和託管大量文件所需的建議
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寶馬F系列齒輪選擇器，第二部分：突破口
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31919804</id>
-        <link href="https://news.ycombinator.com/item?id=31919804"/>
-        <updated>2022-06-29T13:27:09.000Z</updated>
-        <summary type="html"><![CDATA[BMW F Series Gear Selector, Part Two: Breakthrough]]></summary>
-        <author>
-            <name>VeXocide</name>
-            <uri>https://news.ycombinator.com/user?id=VeXocide</uri>
         </author>
     </entry>
 </feed>
