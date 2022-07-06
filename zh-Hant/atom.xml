@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T21:47:39.718Z</updated>
+    <updated>2022-07-06T21:59:54.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[世界上第一個大規模的 "沙電池 "在芬蘭投入使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32006791</id>
+        <link href="https://news.ycombinator.com/item?id=32006791"/>
+        <updated>2022-07-06T21:03:09.000Z</updated>
+        <summary type="html"><![CDATA[World’s first large-scale ‘sand battery’ goes online in Finland]]></summary>
+        <author>
+            <name>bobse</name>
+            <uri>https://news.ycombinator.com/user?id=bobse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不落下任何語言
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜屈服於阿聯酋的壓力，限制LGBT的搜索結果
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929957</id>
-        <link href="https://news.ycombinator.com/item?id=31929957"/>
-        <updated>2022-06-30T08:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazon bows to UAE pressure to restrict LGBT search results]]></summary>
-        <author>
-            <name>Saint_Genet</name>
-            <uri>https://news.ycombinator.com/user?id=Saint_Genet</uri>
         </author>
     </entry>
 </feed>
