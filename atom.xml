@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T19:58:31.038Z</updated>
+    <updated>2022-07-06T20:31:32.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不落下任何语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32005942</id>
+        <link href="https://news.ycombinator.com/item?id=32005942"/>
+        <updated>2022-07-06T19:52:26.000Z</updated>
+        <summary type="html"><![CDATA[No Language Left Behind]]></summary>
+        <author>
+            <name>pesenti</name>
+            <uri>https://news.ycombinator.com/user?id=pesenti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTK 5可能放弃对X11的支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32005796</id>
+        <link href="https://news.ycombinator.com/item?id=32005796"/>
+        <updated>2022-07-06T19:40:04.000Z</updated>
+        <summary type="html"><![CDATA[GTK 5 might drop X11 support]]></summary>
+        <author>
+            <name>raybb</name>
+            <uri>https://news.ycombinator.com/user?id=raybb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超越四种文件模式
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>MarcScott</name>
             <uri>https://news.ycombinator.com/user?id=MarcScott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padlet (YC W13)正在新加坡招聘，为良好的教育建立软件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929461</id>
-        <link href="https://news.ycombinator.com/item?id=31929461"/>
-        <updated>2022-06-30T07:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Padlet (YC W13) Is Hiring in Singapore to Build Software for a Good Education]]></summary>
-        <author>
-            <name>coffeebite</name>
-            <uri>https://news.ycombinator.com/user?id=coffeebite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帝国科学和公司的博物馆
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31898301</id>
-        <link href="https://news.ycombinator.com/item?id=31898301"/>
-        <updated>2022-06-27T18:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Imperial Science and the Company’s Museum]]></summary>
-        <author>
-            <name>diodorus</name>
-            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
         </author>
     </entry>
 </feed>
