@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T09:49:19.455Z</updated>
+    <updated>2022-07-06T10:02:50.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[魁北克主权运动
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31997939</id>
+        <link href="https://news.ycombinator.com/item?id=31997939"/>
+        <updated>2022-07-06T07:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Quebec Sovereignty Movement]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emacs的内置Elisp小抄
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infracost（YC W21）。VSCode中Terraform的云成本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31921313</id>
-        <link href="https://news.ycombinator.com/item?id=31921313"/>
-        <updated>2022-06-29T15:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode]]></summary>
-        <author>
-            <name>hugorut</name>
-            <uri>https://news.ycombinator.com/user?id=hugorut</uri>
         </author>
     </entry>
 </feed>
