@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T23:00:13.718Z</updated>
+    <updated>2022-07-06T23:29:07.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌ML编译器内嵌实现了3-7%的尺寸缩减
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32007695</id>
+        <link href="https://news.ycombinator.com/item?id=32007695"/>
+        <updated>2022-07-06T22:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Google ML Compiler Inlining Achieves 3-7% Reduction in Size]]></summary>
+        <author>
+            <name>palmm</name>
+            <uri>https://news.ycombinator.com/user?id=palmm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EasyPost (YC S13) 正在招聘远程人员
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hucste</name>
             <uri>https://news.ycombinator.com/user?id=hucste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剔牙》(1891年) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882992</id>
-        <link href="https://news.ycombinator.com/item?id=31882992"/>
-        <updated>2022-06-26T11:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Tooth-Pick (1891) [pdf]]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
