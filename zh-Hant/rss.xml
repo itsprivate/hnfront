@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 06 Jul 2022 18:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 19:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[丘比特網絡（Cubernetes
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32004756</link>
+            <guid>https://news.ycombinator.com/item?id=32004756</guid>
+            <pubDate>Wed, 06 Jul 2022 18:19:28 GMT</pubDate>
+            <description><![CDATA[Cubernetes]]></description>
+        </item>
         <item>
             <title><![CDATA[你最喜歡的棋盤遊戲是什麼？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31921996</guid>
             <pubDate>Wed, 29 Jun 2022 15:58:37 GMT</pubDate>
             <description><![CDATA[Linux Kernel Module written in Scratch (a visual programming language for kids)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Clang IR (CIR)。用於Clang的新IR
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31904624</link>
-            <guid>https://news.ycombinator.com/item?id=31904624</guid>
-            <pubDate>Tue, 28 Jun 2022 06:09:33 GMT</pubDate>
-            <description><![CDATA[Clang IR (CIR): A New IR for Clang]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T18:39:44.123Z</updated>
+    <updated>2022-07-06T19:25:17.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丘比特网络（Cubernetes
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32004756</id>
+        <link href="https://news.ycombinator.com/item?id=32004756"/>
+        <updated>2022-07-06T18:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Cubernetes]]></summary>
+        <author>
+            <name>JustinGarrison</name>
+            <uri>https://news.ycombinator.com/user?id=JustinGarrison</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜欢的棋盘游戏是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>isp</name>
             <uri>https://news.ycombinator.com/user?id=isp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clang IR (CIR)。用于Clang的新IR
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904624</id>
-        <link href="https://news.ycombinator.com/item?id=31904624"/>
-        <updated>2022-06-28T06:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Clang IR (CIR): A New IR for Clang]]></summary>
-        <author>
-            <name>fcambus</name>
-            <uri>https://news.ycombinator.com/user?id=fcambus</uri>
         </author>
     </entry>
 </feed>
