@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 06 Jul 2022 23:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SpaceVim 發佈 v2.0.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31986851</link>
+            <guid>https://news.ycombinator.com/item?id=31986851</guid>
+            <pubDate>Tue, 05 Jul 2022 11:22:58 GMT</pubDate>
+            <description><![CDATA[SpaceVim Release v2.0.0]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌ML編譯器內嵌實現了3-7%的尺寸縮減
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31930789</guid>
             <pubDate>Thu, 30 Jun 2022 10:48:48 GMT</pubDate>
             <description><![CDATA[Belief in AI sentience is becoming a problem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenBSD有兩個新的C語言編譯器：chibicc和kefir
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31930718</link>
-            <guid>https://news.ycombinator.com/item?id=31930718</guid>
-            <pubDate>Thu, 30 Jun 2022 10:37:59 GMT</pubDate>
-            <description><![CDATA[OpenBSD has two new C compilers: chibicc and kefir]]></description>
         </item>
     </channel>
 </rss>

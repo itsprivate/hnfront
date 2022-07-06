@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T23:29:07.128Z</updated>
+    <updated>2022-07-06T23:46:01.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SpaceVim 發佈 v2.0.0
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986851</id>
+        <link href="https://news.ycombinator.com/item?id=31986851"/>
+        <updated>2022-07-05T11:22:58.000Z</updated>
+        <summary type="html"><![CDATA[SpaceVim Release v2.0.0]]></summary>
+        <author>
+            <name>christophilus</name>
+            <uri>https://news.ycombinator.com/user?id=christophilus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌ML編譯器內嵌實現了3-7%的尺寸縮減
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBSD有兩個新的C語言編譯器：chibicc和kefir
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31930718</id>
-        <link href="https://news.ycombinator.com/item?id=31930718"/>
-        <updated>2022-06-30T10:37:59.000Z</updated>
-        <summary type="html"><![CDATA[OpenBSD has two new C compilers: chibicc and kefir]]></summary>
-        <author>
-            <name>hucste</name>
-            <uri>https://news.ycombinator.com/user?id=hucste</uri>
         </author>
     </entry>
 </feed>
