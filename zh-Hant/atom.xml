@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-06T22:29:47.538Z</updated>
+    <updated>2022-07-06T22:49:14.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於圖靈機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32000903</id>
+        <link href="https://news.ycombinator.com/item?id=32000903"/>
+        <updated>2022-07-06T13:53:45.000Z</updated>
+        <summary type="html"><![CDATA[On Turing Machines]]></summary>
+        <author>
+            <name>furcyd</name>
+            <uri>https://news.ycombinator.com/user?id=furcyd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿蘭-德波頓談存在主義的成熟性和情商的含義
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chiscript</name>
             <uri>https://news.ycombinator.com/user?id=chiscript</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[統一公司正在裁減數百名員工
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31930384</id>
-        <link href="https://news.ycombinator.com/item?id=31930384"/>
-        <updated>2022-06-30T09:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Unity is laying off hundreds of employees]]></summary>
-        <author>
-            <name>pjmlp</name>
-            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
         </author>
     </entry>
 </feed>
