@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-07T11:28:08.427Z</updated>
+    <updated>2022-07-07T11:58:20.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitDB，一个在Git之上的分布式可嵌入的数据库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31987240</id>
+        <link href="https://news.ycombinator.com/item?id=31987240"/>
+        <updated>2022-07-05T12:11:43.000Z</updated>
+        <summary type="html"><![CDATA[GitDB, a distributed embeddable database on top of Git]]></summary>
+        <author>
+            <name>fiatjaf</name>
+            <uri>https://news.ycombinator.com/user?id=fiatjaf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解释以太坊合并后的共识机制
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tempsy</name>
             <uri>https://news.ycombinator.com/user?id=tempsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告别HTML5Rocks
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31935425</id>
-        <link href="https://news.ycombinator.com/item?id=31935425"/>
-        <updated>2022-06-30T17:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Farewell to HTML5Rocks]]></summary>
-        <author>
-            <name>marban</name>
-            <uri>https://news.ycombinator.com/user?id=marban</uri>
         </author>
     </entry>
 </feed>
