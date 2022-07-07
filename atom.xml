@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-07T17:24:32.542Z</updated>
+    <updated>2022-07-07T17:49:53.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用CSS实现类似着色器的全息效果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32016391</id>
+        <link href="https://news.ycombinator.com/item?id=32016391"/>
+        <updated>2022-07-07T16:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Shader-like holographic effects with CSS]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曾经需求量很大的Covid-19疫苗剂量，现在被扔掉了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32016125</id>
+        <link href="https://news.ycombinator.com/item?id=32016125"/>
+        <updated>2022-07-07T16:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Covid-19 Vaccine Doses, Once in High Demand, Now Thrown Away]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反转空间（YC S21）正在招聘嵌入式软件人员
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bdg</name>
             <uri>https://news.ycombinator.com/user?id=bdg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无人驾驶的机器人出租车队在旧金山瘫痪了几个小时
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31939983</id>
-        <link href="https://news.ycombinator.com/item?id=31939983"/>
-        <updated>2022-06-30T23:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Driverless Robotaxi Fleet Paralyzed for Hours in San Francisco]]></summary>
-        <author>
-            <name>georgecmu</name>
-            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W3C推翻了Mozilla和Google对 "分散标识符 "的反对意见
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31939871</id>
-        <link href="https://news.ycombinator.com/item?id=31939871"/>
-        <updated>2022-06-30T23:08:51.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C]]></summary>
-        <author>
-            <name>shiftingleft</name>
-            <uri>https://news.ycombinator.com/user?id=shiftingleft</uri>
         </author>
     </entry>
 </feed>
