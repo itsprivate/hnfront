@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-08T22:29:03.611Z</updated>
+    <updated>2022-07-08T22:47:54.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[围棋的通用性并不差
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32027855</id>
+        <link href="https://news.ycombinator.com/item?id=32027855"/>
+        <updated>2022-07-08T21:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Go generics are not bad]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux很烂 2022年
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32027542</id>
+        <link href="https://news.ycombinator.com/item?id=32027542"/>
+        <updated>2022-07-08T21:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Linux Sucks 2022]]></summary>
+        <author>
+            <name>WhyNotHugo</name>
+            <uri>https://news.ycombinator.com/user?id=WhyNotHugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狮头菇：好处和副作用
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>smcleod</name>
             <uri>https://news.ycombinator.com/user?id=smcleod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[较新的、更好的防晒品尚未得到美国食品和药物管理局的批准
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31954294</id>
-        <link href="https://news.ycombinator.com/item?id=31954294"/>
-        <updated>2022-07-01T23:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Newer, better sunscreens have not been approved by the FDA]]></summary>
-        <author>
-            <name>derbOac</name>
-            <uri>https://news.ycombinator.com/user?id=derbOac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[处决的前景。我们中的隐藏对象
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31950899</id>
-        <link href="https://news.ycombinator.com/item?id=31950899"/>
-        <updated>2022-07-01T18:42:55.000Z</updated>
-        <summary type="html"><![CDATA[The prospect of an execution: The hidden objects among us]]></summary>
-        <author>
-            <name>matt_d</name>
-            <uri>https://news.ycombinator.com/user?id=matt_d</uri>
         </author>
     </entry>
 </feed>
