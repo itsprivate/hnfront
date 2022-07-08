@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-08T22:59:19.828Z</updated>
+    <updated>2022-07-08T23:33:20.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你對M1和M2 Mac的工作有什麼經驗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32028945</id>
+        <link href="https://news.ycombinator.com/item?id=32028945"/>
+        <updated>2022-07-08T23:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's your experience with working M1 and M2 Macs?]]></summary>
+        <author>
+            <name>aryamaan</name>
+            <uri>https://news.ycombinator.com/user?id=aryamaan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[霓虹燈下的建築決定
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32028760</id>
+        <link href="https://news.ycombinator.com/item?id=32028760"/>
+        <updated>2022-07-08T22:51:27.000Z</updated>
+        <summary type="html"><![CDATA[Architecture Decisions in Neon]]></summary>
+        <author>
+            <name>nikita</name>
+            <uri>https://news.ycombinator.com/user?id=nikita</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCRmyPDF。為掃描的PDF文件添加OCR文本層
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32028752</id>
+        <link href="https://news.ycombinator.com/item?id=32028752"/>
+        <updated>2022-07-08T22:50:59.000Z</updated>
+        <summary type="html"><![CDATA[OCRmyPDF: Add an OCR text layer to scanned PDF file]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在後羅伊時代的美國，車牌閱讀器的危險性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32028700</id>
+        <link href="https://news.ycombinator.com/item?id=32028700"/>
+        <updated>2022-07-08T22:47:10.000Z</updated>
+        <summary type="html"><![CDATA[The danger of license plate readers in post-Roe America]]></summary>
+        <author>
+            <name>arunbahl</name>
+            <uri>https://news.ycombinator.com/user?id=arunbahl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國面臨住房蕭條
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32028298</id>
+        <link href="https://news.ycombinator.com/item?id=32028298"/>
+        <updated>2022-07-08T22:20:38.000Z</updated>
+        <summary type="html"><![CDATA[America Faces a Housing Bust]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Pharo Kernel (2016) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32002069</id>
+        <link href="https://news.ycombinator.com/item?id=32002069"/>
+        <updated>2022-07-06T15:05:52.000Z</updated>
+        <summary type="html"><![CDATA[Mission Pharo Kernel (2016) [pdf]]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安倍晉三用自己的話說
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>xqcgrek2</name>
             <uri>https://news.ycombinator.com/user?id=xqcgrek2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於結構化併發的說明，或。被認為是有害的Go語句
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31955334</id>
-        <link href="https://news.ycombinator.com/item?id=31955334"/>
-        <updated>2022-07-02T01:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Notes on structured concurrency, or: Go statement considered harmful]]></summary>
-        <author>
-            <name>stopachka</name>
-            <uri>https://news.ycombinator.com/user?id=stopachka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大地衛星證明了遙感的力量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31941873</id>
-        <link href="https://news.ycombinator.com/item?id=31941873"/>
-        <updated>2022-07-01T03:14:31.000Z</updated>
-        <summary type="html"><![CDATA[Landsat Proved the Power of Remote Sensing]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale吃掉了我的網絡（而我喜歡它）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31955970</id>
-        <link href="https://news.ycombinator.com/item?id=31955970"/>
-        <updated>2022-07-02T03:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Tailscale ate my network (and I love it)]]></summary>
-        <author>
-            <name>smackeyacky</name>
-            <uri>https://news.ycombinator.com/user?id=smackeyacky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DiscoArt: 在一條線上創建引人注目的Disco Diffusion藝術作品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31943420</id>
-        <link href="https://news.ycombinator.com/item?id=31943420"/>
-        <updated>2022-07-01T07:21:42.000Z</updated>
-        <summary type="html"><![CDATA[DiscoArt: Create compelling Disco Diffusion artworks in one line]]></summary>
-        <author>
-            <name>artex_xh</name>
-            <uri>https://news.ycombinator.com/user?id=artex_xh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智利好鬥的捕霧者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31938639</id>
-        <link href="https://news.ycombinator.com/item?id=31938639"/>
-        <updated>2022-06-30T21:09:43.000Z</updated>
-        <summary type="html"><![CDATA[The feisty fog-catchers of Chile]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷幻藥的微劑量可改善情緒和心理健康
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31955338</id>
-        <link href="https://news.ycombinator.com/item?id=31955338"/>
-        <updated>2022-07-02T01:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Psilocybin microdosing improves mood and mental health]]></summary>
-        <author>
-            <name>7R41N3R</name>
-            <uri>https://news.ycombinator.com/user?id=7R41N3R</uri>
         </author>
     </entry>
 </feed>
