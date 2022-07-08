@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-08T10:34:59.221Z</updated>
+    <updated>2022-07-08T10:51:26.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ASCIIToSVG - 創建漂亮的ASCII圖的SVG渲染圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32024804</id>
+        <link href="https://news.ycombinator.com/item?id=32024804"/>
+        <updated>2022-07-08T09:31:55.000Z</updated>
+        <summary type="html"><![CDATA[ASCIIToSVG – Create beautiful SVG renderings of ASCII diagrams]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH實施比較
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32023980</id>
+        <link href="https://news.ycombinator.com/item?id=32023980"/>
+        <updated>2022-07-08T07:39:44.000Z</updated>
+        <summary type="html"><![CDATA[SSH Implementation Comparison]]></summary>
+        <author>
+            <name>yread</name>
+            <uri>https://news.ycombinator.com/user?id=yread</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual Studio代碼服務器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mbbrutman</name>
             <uri>https://news.ycombinator.com/user?id=mbbrutman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從吉他踏板中得到的設計教訓
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31948881</id>
-        <link href="https://news.ycombinator.com/item?id=31948881"/>
-        <updated>2022-07-01T16:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Design Lessons from Guitar Pedals]]></summary>
-        <author>
-            <name>williamsmj</name>
-            <uri>https://news.ycombinator.com/user?id=williamsmj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用我的安卓手機以數據中心的速度開發軟件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31940782</id>
-        <link href="https://news.ycombinator.com/item?id=31940782"/>
-        <updated>2022-07-01T00:58:51.000Z</updated>
-        <summary type="html"><![CDATA[Software development from my Android phone at datacenter speeds]]></summary>
-        <author>
-            <name>ghuntley</name>
-            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
         </author>
     </entry>
 </feed>
