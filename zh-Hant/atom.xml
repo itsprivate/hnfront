@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-08T10:51:26.138Z</updated>
+    <updated>2022-07-08T11:29:59.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特解僱30%的人才招聘團隊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32025402</id>
+        <link href="https://news.ycombinator.com/item?id=32025402"/>
+        <updated>2022-07-08T10:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Twitter lays off 30% of its talent acquisition team]]></summary>
+        <author>
+            <name>brunojppb</name>
+            <uri>https://news.ycombinator.com/user?id=brunojppb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASCIIToSVG - 創建漂亮的ASCII圖的SVG渲染圖
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mikece</name>
             <uri>https://news.ycombinator.com/user?id=mikece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mTCP 2022-07-01（老式DOS電腦的TCP/IP和程序）已上市
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31949535</id>
-        <link href="https://news.ycombinator.com/item?id=31949535"/>
-        <updated>2022-07-01T17:12:46.000Z</updated>
-        <summary type="html"><![CDATA[mTCP 2022-07-01 (TCP/IP and programs for old DOS PCs) is available]]></summary>
-        <author>
-            <name>mbbrutman</name>
-            <uri>https://news.ycombinator.com/user?id=mbbrutman</uri>
         </author>
     </entry>
 </feed>
