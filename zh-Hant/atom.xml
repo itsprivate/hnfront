@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-09T08:53:05.373Z</updated>
+    <updated>2022-07-09T09:27:53.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Markdeep
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032913</id>
+        <link href="https://news.ycombinator.com/item?id=32032913"/>
+        <updated>2022-07-09T07:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Markdeep]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[緊急情況下使用的最佳收音機
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tusharsoni</name>
             <uri>https://news.ycombinator.com/user?id=tusharsoni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們是人太多還是太少？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31958715</id>
-        <link href="https://news.ycombinator.com/item?id=31958715"/>
-        <updated>2022-07-02T13:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Are we too many people or too few?]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
         </author>
     </entry>
 </feed>
