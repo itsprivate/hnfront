@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-09T07:44:20.079Z</updated>
+    <updated>2022-07-09T08:34:20.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[历史语言记录显示近几十年来认知扭曲现象激增
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32021374</id>
+        <link href="https://news.ycombinator.com/item?id=32021374"/>
+        <updated>2022-07-08T00:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Historical language records show surge of cognitive distortion in recent decades]]></summary>
+        <author>
+            <name>gumby</name>
+            <uri>https://news.ycombinator.com/user?id=gumby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[露西-摩尔的《寻找我们》评论--第一个人类学家，疣和所有的人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>saos</name>
             <uri>https://news.ycombinator.com/user?id=saos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rsync，第3条：rsync是如何工作的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31958536</id>
-        <link href="https://news.ycombinator.com/item?id=31958536"/>
-        <updated>2022-07-02T12:41:23.000Z</updated>
-        <summary type="html"><![CDATA[rsync, article 3: How does rsync work?]]></summary>
-        <author>
-            <name>secure</name>
-            <uri>https://news.ycombinator.com/user?id=secure</uri>
         </author>
     </entry>
 </feed>
