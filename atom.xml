@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-09T19:25:12.722Z</updated>
+    <updated>2022-07-09T19:58:01.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个简单的混乱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032961</id>
+        <link href="https://news.ycombinator.com/item?id=32032961"/>
+        <updated>2022-07-09T08:04:10.000Z</updated>
+        <summary type="html"><![CDATA[A Simple Mess]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[凯特-布什的《跑上那座山》合成器声音
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>blending</name>
             <uri>https://news.ycombinator.com/user?id=blending</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何建立一个国际象棋引擎，一个互动指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31964685</id>
-        <link href="https://news.ycombinator.com/item?id=31964685"/>
-        <updated>2022-07-03T03:05:10.000Z</updated>
-        <summary type="html"><![CDATA[How to build a Chess Engine, an interactive guide]]></summary>
-        <author>
-            <name>fredrickd</name>
-            <uri>https://news.ycombinator.com/user?id=fredrickd</uri>
         </author>
     </entry>
 </feed>
