@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-09T06:33:26.675Z</updated>
+    <updated>2022-07-09T06:52:15.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[编程字体
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032029</id>
+        <link href="https://news.ycombinator.com/item?id=32032029"/>
+        <updated>2022-07-09T05:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Programming Fonts]]></summary>
+        <author>
+            <name>olalonde</name>
+            <uri>https://news.ycombinator.com/user?id=olalonde</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自动Regex
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>imartin2k</name>
             <uri>https://news.ycombinator.com/user?id=imartin2k</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draftbit (YC W18) 正在招聘高级工程师（TypeScript, React Native, GraphQL）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31958323</id>
-        <link href="https://news.ycombinator.com/item?id=31958323"/>
-        <updated>2022-07-02T12:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Draftbit (YC W18) Is Hiring Senior Engineers (TypeScript, React Native, GraphQL)]]></summary>
-        <author>
-            <name>Brushfire</name>
-            <uri>https://news.ycombinator.com/user?id=Brushfire</uri>
         </author>
     </entry>
 </feed>

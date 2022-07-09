@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 09 Jul 2022 06:33:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 06:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[编程字体
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32032029</link>
+            <guid>https://news.ycombinator.com/item?id=32032029</guid>
+            <pubDate>Sat, 09 Jul 2022 05:25:07 GMT</pubDate>
+            <description><![CDATA[Programming Fonts]]></description>
+        </item>
         <item>
             <title><![CDATA[自动Regex
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31943683</guid>
             <pubDate>Fri, 01 Jul 2022 08:07:03 GMT</pubDate>
             <description><![CDATA[Even when you do succeed, sometimes it pays to try again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Draftbit (YC W18) 正在招聘高级工程师（TypeScript, React Native, GraphQL）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31958323</link>
-            <guid>https://news.ycombinator.com/item?id=31958323</guid>
-            <pubDate>Sat, 02 Jul 2022 12:01:11 GMT</pubDate>
-            <description><![CDATA[Draftbit (YC W18) Is Hiring Senior Engineers (TypeScript, React Native, GraphQL)]]></description>
         </item>
     </channel>
 </rss>
