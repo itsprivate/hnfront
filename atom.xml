@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-09T11:03:03.766Z</updated>
+    <updated>2022-07-09T11:44:07.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国人仍然认为炒房可以赚钱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32022015</id>
+        <link href="https://news.ycombinator.com/item?id=32022015"/>
+        <updated>2022-07-08T01:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Americans still think they can make money flipping houses]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无印良品的小木屋 (2017)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React状态管理的新浪潮
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31959289</id>
-        <link href="https://news.ycombinator.com/item?id=31959289"/>
-        <updated>2022-07-02T14:31:17.000Z</updated>
-        <summary type="html"><![CDATA[The new wave of React state management]]></summary>
-        <author>
-            <name>remrem</name>
-            <uri>https://news.ycombinator.com/user?id=remrem</uri>
         </author>
     </entry>
 </feed>
