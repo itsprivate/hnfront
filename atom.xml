@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-09T18:35:45.462Z</updated>
+    <updated>2022-07-09T18:52:55.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从任何网站复制React代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037740</id>
+        <link href="https://news.ycombinator.com/item?id=32037740"/>
+        <updated>2022-07-09T18:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Copy React code from any site]]></summary>
+        <author>
+            <name>tscepo</name>
+            <uri>https://news.ycombinator.com/user?id=tscepo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tmux、nvim、zsh、x11之间的剪贴板集成，跨越SSH会话
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037489</id>
+        <link href="https://news.ycombinator.com/item?id=32037489"/>
+        <updated>2022-07-09T17:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钢琴培训师 - 使用MIDI学习钢琴音阶、和弦等
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32023881</id>
+        <link href="https://news.ycombinator.com/item?id=32023881"/>
+        <updated>2022-07-08T07:27:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI]]></summary>
+        <author>
+            <name>FinalDestiny</name>
+            <uri>https://news.ycombinator.com/user?id=FinalDestiny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恭喜你。我们现在对你的开源贡献有意见了
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>jparise</name>
             <uri>https://news.ycombinator.com/user?id=jparise</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordalle - 猜测用于从DalleMini生成一组图像的提示语
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31952610</id>
-        <link href="https://news.ycombinator.com/item?id=31952610"/>
-        <updated>2022-07-01T20:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Wordalle – Guess the prompt used to generate a set of images from DalleMini]]></summary>
-        <author>
-            <name>itaygabb</name>
-            <uri>https://news.ycombinator.com/user?id=itaygabb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[艺术家金泽健一利用声波制作几何图案(2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31950974</id>
-        <link href="https://news.ycombinator.com/item?id=31950974"/>
-        <updated>2022-07-01T18:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Artist Kenichi Kanazawa makes geometric designs using sound waves (2020)]]></summary>
-        <author>
-            <name>hrl</name>
-            <uri>https://news.ycombinator.com/user?id=hrl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minerva: 用语言模型解决定量推理问题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31944680</id>
-        <link href="https://news.ycombinator.com/item?id=31944680"/>
-        <updated>2022-07-01T10:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Minerva: Solving Quantitative Reasoning Problems with Language Models]]></summary>
-        <author>
-            <name>espadrine</name>
-            <uri>https://news.ycombinator.com/user?id=espadrine</uri>
         </author>
     </entry>
 </feed>
