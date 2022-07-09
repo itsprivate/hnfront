@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-09T13:17:56.828Z</updated>
+    <updated>2022-07-09T13:46:07.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个互动课程，帮助你更快地学习Vim
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32034625</id>
+        <link href="https://news.ycombinator.com/item?id=32034625"/>
+        <updated>2022-07-09T12:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an interactive course that helps you learn Vim faster]]></summary>
+        <author>
+            <name>Silica6149</name>
+            <uri>https://news.ycombinator.com/user?id=Silica6149</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了解和优化持久性内存分配(2020) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32033208</id>
+        <link href="https://news.ycombinator.com/item?id=32033208"/>
+        <updated>2022-07-09T08:55:43.000Z</updated>
+        <summary type="html"><![CDATA[Understanding and optimizing persistent memory allocation (2020) [pdf]]]></summary>
+        <author>
+            <name>romesmoke</name>
+            <uri>https://news.ycombinator.com/user?id=romesmoke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对阿波罗飞船的调频收音机进行逆向设计
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>alooPotato</name>
             <uri>https://news.ycombinator.com/user?id=alooPotato</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过软件包管理器资助开放源码软件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31960250</id>
-        <link href="https://news.ycombinator.com/item?id=31960250"/>
-        <updated>2022-07-02T16:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Fund OSS through package managers]]></summary>
-        <author>
-            <name>dustinmoris</name>
-            <uri>https://news.ycombinator.com/user?id=dustinmoris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放逻辑项目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31960219</id>
-        <link href="https://news.ycombinator.com/item?id=31960219"/>
-        <updated>2022-07-02T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Open Logic Project]]></summary>
-        <author>
-            <name>peanutcrisis</name>
-            <uri>https://news.ycombinator.com/user?id=peanutcrisis</uri>
         </author>
     </entry>
 </feed>
