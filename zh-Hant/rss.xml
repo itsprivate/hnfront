@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 09 Jul 2022 21:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 21:58:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Agiler: 用於RISC-V的自適應異構瓦片式多核架構
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32025211</link>
+            <guid>https://news.ycombinator.com/item?id=32025211</guid>
+            <pubDate>Fri, 08 Jul 2022 10:24:54 GMT</pubDate>
+            <description><![CDATA[Agiler: An Adaptive Heterogeneous Tile-Based Many-Core Arch for RISC-V]]></description>
+        </item>
         <item>
             <title><![CDATA[常春藤（YC W23）正在招聘一名研究工程師以幫助統一ML
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31935058</guid>
             <pubDate>Thu, 30 Jun 2022 16:38:40 GMT</pubDate>
             <description><![CDATA[A tale of two clocks – Scheduling Web Audio with precision]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CI的結束
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31965268</link>
-            <guid>https://news.ycombinator.com/item?id=31965268</guid>
-            <pubDate>Sun, 03 Jul 2022 05:14:39 GMT</pubDate>
-            <description><![CDATA[The End of CI]]></description>
         </item>
     </channel>
 </rss>
