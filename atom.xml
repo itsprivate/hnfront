@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-10T09:49:51.812Z</updated>
+    <updated>2022-07-10T09:59:37.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用泥巴做的可持续城市
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042797</id>
+        <link href="https://news.ycombinator.com/item?id=32042797"/>
+        <updated>2022-07-10T08:22:54.000Z</updated>
+        <summary type="html"><![CDATA[The sustainable cities made from mud]]></summary>
+        <author>
+            <name>clouddrover</name>
+            <uri>https://news.ycombinator.com/user?id=clouddrover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mbtiles-s3-server - 直接从S3上的mbtiles提供矢量地图砖的服务
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hefferbub</name>
             <uri>https://news.ycombinator.com/user?id=hefferbub</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[制作液压压力计 (2018)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31957649</id>
-        <link href="https://news.ycombinator.com/item?id=31957649"/>
-        <updated>2022-07-02T10:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Making a Hydraulic Pressure-to-Force Gauge (2018)]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
         </author>
     </entry>
 </feed>
