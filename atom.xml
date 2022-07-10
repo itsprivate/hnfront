@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-10T06:36:16.437Z</updated>
+    <updated>2022-07-10T07:27:40.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[创纪录的量子纠缠使两个原子跨越20英里相连
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32035160</id>
+        <link href="https://news.ycombinator.com/item?id=32035160"/>
+        <updated>2022-07-09T14:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Record-setting quantum entanglement connects two atoms across 20 miles]]></summary>
+        <author>
+            <name>elorant</name>
+            <uri>https://news.ycombinator.com/user?id=elorant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[量子科学家提供世界上第一个原子尺度的集成电路
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Thevet</name>
             <uri>https://news.ycombinator.com/user?id=Thevet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不想订阅你的频道
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967208</id>
-        <link href="https://news.ycombinator.com/item?id=31967208"/>
-        <updated>2022-07-03T12:31:34.000Z</updated>
-        <summary type="html"><![CDATA[I don't want to subscribe to your channel]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
