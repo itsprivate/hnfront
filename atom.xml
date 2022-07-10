@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-10T04:41:04.603Z</updated>
+    <updated>2022-07-10T05:05:03.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不想要碎片（MySQL）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32041656</id>
+        <link href="https://news.ycombinator.com/item?id=32041656"/>
+        <updated>2022-07-10T03:45:44.000Z</updated>
+        <summary type="html"><![CDATA[I Don't Want to Shard (MySQL)]]></summary>
+        <author>
+            <name>siddontang</name>
+            <uri>https://news.ycombinator.com/user?id=siddontang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当你的逻辑分析仪不能区分好的和坏的信号时
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32033063</id>
+        <link href="https://news.ycombinator.com/item?id=32033063"/>
+        <updated>2022-07-09T08:21:12.000Z</updated>
+        <summary type="html"><![CDATA[When Your Logic Analyzer Can’t Tell Good and Bad Signals Apart]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每个复杂的想法都有一百万个愚蠢的表兄弟
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>leejo</name>
             <uri>https://news.ycombinator.com/user?id=leejo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从沙发到64K--又名建造Z80面包板计算机
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31966804</id>
-        <link href="https://news.ycombinator.com/item?id=31966804"/>
-        <updated>2022-07-03T11:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Couch to 64k – a.k.a. Building a Z80 Breadboard Computer]]></summary>
-        <author>
-            <name>AlexeyBrin</name>
-            <uri>https://news.ycombinator.com/user?id=AlexeyBrin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球煤炭、石油和天然气供应链中的资产层面的过渡风险
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31966435</id>
-        <link href="https://news.ycombinator.com/item?id=31966435"/>
-        <updated>2022-07-03T09:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Asset-Level Transition Risk in the Global Coal, Oil, and Gas Supply Chains]]></summary>
-        <author>
-            <name>protontypes</name>
-            <uri>https://news.ycombinator.com/user?id=protontypes</uri>
         </author>
     </entry>
 </feed>
