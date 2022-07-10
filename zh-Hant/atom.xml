@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-10T09:26:59.618Z</updated>
+    <updated>2022-07-10T09:49:51.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[mbtiles-s3-server - 直接從S3上的mbtiles提供矢量地圖磚的服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32043112</id>
+        <link href="https://news.ycombinator.com/item?id=32043112"/>
+        <updated>2022-07-10T09:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3]]></summary>
+        <author>
+            <name>michalc</name>
+            <uri>https://news.ycombinator.com/user?id=michalc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[閱讀損益表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32040466</id>
+        <link href="https://news.ycombinator.com/item?id=32040466"/>
+        <updated>2022-07-09T23:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Reading a Profit and Loss Statement]]></summary>
+        <author>
+            <name>DavidChouinard</name>
+            <uri>https://news.ycombinator.com/user?id=DavidChouinard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汽車製造商開始在新車中放棄安培收音機
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elke Wiss著《如何瞭解一切》。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967356</id>
-        <link href="https://news.ycombinator.com/item?id=31967356"/>
-        <updated>2022-07-03T12:56:27.000Z</updated>
-        <summary type="html"><![CDATA[How to know everything by Elke Wiss]]></summary>
-        <author>
-            <name>gHeadphone</name>
-            <uri>https://news.ycombinator.com/user?id=gHeadphone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duktape是一個可嵌入的JavaScript引擎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31966374</id>
-        <link href="https://news.ycombinator.com/item?id=31966374"/>
-        <updated>2022-07-03T09:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Duktape is an embeddable JavaScript engine]]></summary>
-        <author>
-            <name>EntICOnc</name>
-            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
         </author>
     </entry>
 </feed>
