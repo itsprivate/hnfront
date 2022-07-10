@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-10T10:30:22.568Z</updated>
+    <updated>2022-07-10T10:46:38.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是否有相当于Calibre的音频书籍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32042780</id>
+        <link href="https://news.ycombinator.com/item?id=32042780"/>
+        <updated>2022-07-10T08:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a Calibre equivalent for Audio books?]]></summary>
+        <author>
+            <name>gtsnexp</name>
+            <uri>https://news.ycombinator.com/user?id=gtsnexp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专家警告说，TikTok的 "青蛙军队 "特技可能产生严重后果
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在互动模拟中实现量子力学的可视化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31968280</id>
-        <link href="https://news.ycombinator.com/item?id=31968280"/>
-        <updated>2022-07-03T15:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Visualizing quantum mechanics in an interactive simulation]]></summary>
-        <author>
-            <name>JoeDaDude</name>
-            <uri>https://news.ycombinator.com/user?id=JoeDaDude</uri>
         </author>
     </entry>
 </feed>
