@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-10T23:29:13.611Z</updated>
+    <updated>2022-07-10T23:59:25.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[运行一个开源的家庭区域网络
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32050168</id>
+        <link href="https://news.ycombinator.com/item?id=32050168"/>
+        <updated>2022-07-10T23:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Running an Open Source Home Area Network]]></summary>
+        <author>
+            <name>bpierre</name>
+            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教育工作者不再需要大学学位就能开始在亚利桑那州公立学校任教
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mgliwka</name>
             <uri>https://news.ycombinator.com/user?id=mgliwka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于反应堆
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31973998</id>
-        <link href="https://news.ycombinator.com/item?id=31973998"/>
-        <updated>2022-07-04T06:16:33.000Z</updated>
-        <summary type="html"><![CDATA[About the Reactor]]></summary>
-        <author>
-            <name>Hooke</name>
-            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
         </author>
     </entry>
 </feed>
