@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-11T20:43:20.829Z</updated>
+    <updated>2022-07-11T20:48:05.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DeepMind人工智能像嬰兒一樣學習簡單的物理知識
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32061187</id>
+        <link href="https://news.ycombinator.com/item?id=32061187"/>
+        <updated>2022-07-11T20:14:11.000Z</updated>
+        <summary type="html"><![CDATA[DeepMind AI learns simple physics like a baby]]></summary>
+        <author>
+            <name>mdp2021</name>
+            <uri>https://news.ycombinator.com/user?id=mdp2021</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[避免圖像佈局偏移（CLS）：長寬比與寬度和高度的關係
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rckrd</name>
             <uri>https://news.ycombinator.com/user?id=rckrd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不是真的，為什麼我們不能在JavaScript中使用原始UDP？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31984112</id>
-        <link href="https://news.ycombinator.com/item?id=31984112"/>
-        <updated>2022-07-05T03:50:29.000Z</updated>
-        <summary type="html"><![CDATA[No really, why can't we have raw UDP in JavaScript?]]></summary>
-        <author>
-            <name>adamrezich</name>
-            <uri>https://news.ycombinator.com/user?id=adamrezich</uri>
         </author>
     </entry>
 </feed>
