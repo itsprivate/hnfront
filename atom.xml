@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-11T20:01:08.930Z</updated>
+    <updated>2022-07-11T20:43:20.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[避免图像布局偏移（CLS）：长宽比与宽度和高度的关系
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32060597</id>
+        <link href="https://news.ycombinator.com/item?id=32060597"/>
+        <updated>2022-07-11T19:26:30.000Z</updated>
+        <summary type="html"><![CDATA[Avoiding image layout shifts (CLS): aspect-ratio vs. width and height]]></summary>
+        <author>
+            <name>angelmm</name>
+            <uri>https://news.ycombinator.com/user?id=angelmm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国公司合作开发核回收技术
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>adamrezich</name>
             <uri>https://news.ycombinator.com/user?id=adamrezich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烟花包装的闪光背后有一个聪明的策略
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31975662</id>
-        <link href="https://news.ycombinator.com/item?id=31975662"/>
-        <updated>2022-07-04T10:49:45.000Z</updated>
-        <summary type="html"><![CDATA[There’s a Clever Strategy Behind the Flash of Fireworks Packaging]]></summary>
-        <author>
-            <name>MDWolinski</name>
-            <uri>https://news.ycombinator.com/user?id=MDWolinski</uri>
         </author>
     </entry>
 </feed>
