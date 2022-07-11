@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-11T21:01:35.197Z</updated>
+    <updated>2022-07-11T21:27:56.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是的，我对你的开放源码贡献有意见
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32061428</id>
+        <link href="https://news.ycombinator.com/item?id=32061428"/>
+        <updated>2022-07-11T20:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Yes, I have opinions on your open source contributions]]></summary>
+        <author>
+            <name>di</name>
+            <uri>https://news.ycombinator.com/user?id=di</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1.0欧元现在价值1.0美元
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>segfault11</name>
             <uri>https://news.ycombinator.com/user?id=segfault11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何出售一家开源软件公司？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976119</id>
-        <link href="https://news.ycombinator.com/item?id=31976119"/>
-        <updated>2022-07-04T12:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to sell an open-source software company?]]></summary>
-        <author>
-            <name>mrholek</name>
-            <uri>https://news.ycombinator.com/user?id=mrholek</uri>
         </author>
     </entry>
 </feed>
