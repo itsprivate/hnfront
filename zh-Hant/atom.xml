@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-11T05:57:37.808Z</updated>
+    <updated>2022-07-11T06:35:51.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Calibre 6.0中的新內容
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32052669</id>
+        <link href="https://news.ycombinator.com/item?id=32052669"/>
+        <updated>2022-07-11T05:49:22.000Z</updated>
+        <summary type="html"><![CDATA[New in Calibre 6.0]]></summary>
+        <author>
+            <name>anotherevan</name>
+            <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被熊追趕的出口：歐洲即將到來的天然氣短缺分析
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為API公司計費的Kable（YC W22）正在招聘人員
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976103</id>
-        <link href="https://news.ycombinator.com/item?id=31976103"/>
-        <updated>2022-07-04T12:02:16.000Z</updated>
-        <summary type="html"><![CDATA[Kable (YC W22), Billing for API Companies, Is Hiring]]></summary>
-        <author>
-            <name>asommer12</name>
-            <uri>https://news.ycombinator.com/user?id=asommer12</uri>
         </author>
     </entry>
 </feed>
