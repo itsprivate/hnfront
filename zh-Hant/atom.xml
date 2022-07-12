@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T13:01:45.334Z</updated>
+    <updated>2022-07-12T13:56:29.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼GWT或Vaadin沒有在Java開發者中更受歡迎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32069468</id>
+        <link href="https://news.ycombinator.com/item?id=32069468"/>
+        <updated>2022-07-12T13:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why isn't GWT or Vaadin more popular among Java developers?]]></summary>
+        <author>
+            <name>oldjavacoder</name>
+            <uri>https://news.ycombinator.com/user?id=oldjavacoder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開發者工作站的備份
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32069251</id>
+        <link href="https://news.ycombinator.com/item?id=32069251"/>
+        <updated>2022-07-12T13:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Developer Workstation Backups]]></summary>
+        <author>
+            <name>a2tech</name>
+            <uri>https://news.ycombinator.com/user?id=a2tech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber利用Greyball假應用程序在歐洲各地躲避警方追捕
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32069090</id>
+        <link href="https://news.ycombinator.com/item?id=32069090"/>
+        <updated>2022-07-12T12:49:07.000Z</updated>
+        <summary type="html"><![CDATA[Uber used Greyball fake app to evade police across Europe]]></summary>
+        <author>
+            <name>sorokod</name>
+            <uri>https://news.ycombinator.com/user?id=sorokod</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜在美國單一倉庫發出13000份紀律處分通知書
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32068062</id>
+        <link href="https://news.ycombinator.com/item?id=32068062"/>
+        <updated>2022-07-12T10:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Amazon issued 13,000 disciplinary notices at single U.S. warehouse]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不加控制的AB測試破壞了它所接觸的一切
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭開亞麻布的神秘面紗，或者說亞麻布盔甲是如何主宰我們的生活的（2013）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31991008</id>
-        <link href="https://news.ycombinator.com/item?id=31991008"/>
-        <updated>2022-07-05T17:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)]]></summary>
-        <author>
-            <name>pavel_lishin</name>
-            <uri>https://news.ycombinator.com/user?id=pavel_lishin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼數據庫表不能自我索引？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31990836</id>
-        <link href="https://news.ycombinator.com/item?id=31990836"/>
-        <updated>2022-07-05T17:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Why Can't Database Tables Index Themselves?]]></summary>
-        <author>
-            <name>SPBS</name>
-            <uri>https://news.ycombinator.com/user?id=SPBS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memzoom - 在你的UTF-8終端中查看/監控進程/文件的原始內存
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31989399</id>
-        <link href="https://news.ycombinator.com/item?id=31989399"/>
-        <updated>2022-07-05T15:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal]]></summary>
-        <author>
-            <name>tsujp</name>
-            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TS艾略特是如何找到幸福的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31982840</id>
-        <link href="https://news.ycombinator.com/item?id=31982840"/>
-        <updated>2022-07-04T23:41:33.000Z</updated>
-        <summary type="html"><![CDATA[How TS Eliot Found Happiness]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
         </author>
     </entry>
 </feed>
