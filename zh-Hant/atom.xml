@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T14:08:23.171Z</updated>
+    <updated>2022-07-12T14:30:27.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多米諾公司花5040萬美元做電視廣告，吹噓10萬美元的捐款
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32070067</id>
+        <link href="https://news.ycombinator.com/item?id=32070067"/>
+        <updated>2022-07-12T14:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Domino's spent $50.4M on TV ads to brag about $100k donation]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[照片總是指著指針
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ellen364</name>
             <uri>https://news.ycombinator.com/user?id=ellen364</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite索引建議器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31991598</id>
-        <link href="https://news.ycombinator.com/item?id=31991598"/>
-        <updated>2022-07-05T18:02:52.000Z</updated>
-        <summary type="html"><![CDATA[The SQLite Index Suggester]]></summary>
-        <author>
-            <name>polyrand</name>
-            <uri>https://news.ycombinator.com/user?id=polyrand</uri>
         </author>
     </entry>
 </feed>
