@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T09:02:31.680Z</updated>
+    <updated>2022-07-12T09:28:52.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[滾動式PWN漏洞影響到所有本田汽車
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32066201</id>
+        <link href="https://news.ycombinator.com/item?id=32066201"/>
+        <updated>2022-07-12T06:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Rolling-PWN vulnerability affects all Honda vehicles]]></summary>
+        <author>
+            <name>panarky</name>
+            <uri>https://news.ycombinator.com/user?id=panarky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Rust編程一個類似流氓的東西
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wayoverthecloud</name>
             <uri>https://news.ycombinator.com/user?id=wayoverthecloud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Femicom是關於卡西歐Loopy的最完整信息的家園。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31975489</id>
-        <link href="https://news.ycombinator.com/item?id=31975489"/>
-        <updated>2022-07-04T10:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Femicom is home to the most complete information about the Casio Loopy]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
