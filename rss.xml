@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 18:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 19:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GPU计算如何工作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32053502</link>
+            <guid>https://news.ycombinator.com/item?id=32053502</guid>
+            <pubDate>Mon, 11 Jul 2022 08:08:57 GMT</pubDate>
+            <description><![CDATA[How GPU Computing Works]]></description>
+        </item>
         <item>
             <title><![CDATA[重读。新的投机执行攻击让英特尔和AMD乱了阵脚
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31986503</guid>
             <pubDate>Tue, 05 Jul 2022 10:32:03 GMT</pubDate>
             <description><![CDATA[Historical weather data API for machine learning, free for non-commercial]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于质数的最难易问题的解决方法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31985716</link>
-            <guid>https://news.ycombinator.com/item?id=31985716</guid>
-            <pubDate>Tue, 05 Jul 2022 08:19:54 GMT</pubDate>
-            <description><![CDATA[A Solver of the Hardest Easy Problems About Prime Numbers]]></description>
         </item>
     </channel>
 </rss>

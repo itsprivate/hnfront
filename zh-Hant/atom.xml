@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T18:59:04.107Z</updated>
+    <updated>2022-07-12T19:27:39.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPU計算如何工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053502</id>
+        <link href="https://news.ycombinator.com/item?id=32053502"/>
+        <updated>2022-07-11T08:08:57.000Z</updated>
+        <summary type="html"><![CDATA[How GPU Computing Works]]></summary>
+        <author>
+            <name>quick_brown_fox</name>
+            <uri>https://news.ycombinator.com/user?id=quick_brown_fox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重讀。新的投機執行攻擊讓英特爾和AMD亂了陣腳
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>meteo-jeff</name>
             <uri>https://news.ycombinator.com/user?id=meteo-jeff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於質數的最難易問題的解決方法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31985716</id>
-        <link href="https://news.ycombinator.com/item?id=31985716"/>
-        <updated>2022-07-05T08:19:54.000Z</updated>
-        <summary type="html"><![CDATA[A Solver of the Hardest Easy Problems About Prime Numbers]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
         </author>
     </entry>
 </feed>
