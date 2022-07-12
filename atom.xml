@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T08:39:40.564Z</updated>
+    <updated>2022-07-12T09:02:31.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Rust编程一个类似流氓的东西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067019</id>
+        <link href="https://news.ycombinator.com/item?id=32067019"/>
+        <updated>2022-07-12T08:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Programming a Rogue-Like with Rust]]></summary>
+        <author>
+            <name>wsc981</name>
+            <uri>https://news.ycombinator.com/user?id=wsc981</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对UEFI安全启动生态系统进行负责任的管理
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗氏被推翻是科技界的隐私启示录
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31989286</id>
-        <link href="https://news.ycombinator.com/item?id=31989286"/>
-        <updated>2022-07-05T15:22:44.000Z</updated>
-        <summary type="html"><![CDATA[Roe's overturn is tech's privacy apocalypse]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
