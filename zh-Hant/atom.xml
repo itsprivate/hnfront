@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T11:27:58.607Z</updated>
+    <updated>2022-07-12T11:45:19.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在韓國，寶馬加熱座椅訂閱費用為每月18美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32065026</id>
+        <link href="https://news.ycombinator.com/item?id=32065026"/>
+        <updated>2022-07-12T02:54:04.000Z</updated>
+        <summary type="html"><![CDATA[BMW heated seats subscription costs $18 per month in South Korea]]></summary>
+        <author>
+            <name>ra7</name>
+            <uri>https://news.ycombinator.com/user?id=ra7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社會網絡的充分去中心化
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>normhill</name>
             <uri>https://news.ycombinator.com/user?id=normhill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows的無記錄的 "緊急重啟"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31989552</id>
-        <link href="https://news.ycombinator.com/item?id=31989552"/>
-        <updated>2022-07-05T15:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Windows' Undocumented “Emergency Restart”]]></summary>
-        <author>
-            <name>jonathantf2</name>
-            <uri>https://news.ycombinator.com/user?id=jonathantf2</uri>
         </author>
     </entry>
 </feed>
