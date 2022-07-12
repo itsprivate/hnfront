@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T22:29:38.587Z</updated>
+    <updated>2022-07-12T22:48:35.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BLOOM：最大的開放式多語種語言模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067705</id>
+        <link href="https://news.ycombinator.com/item?id=32067705"/>
+        <updated>2022-07-12T09:58:41.000Z</updated>
+        <summary type="html"><![CDATA[BLOOM: The largest open multilingual language model]]></summary>
+        <author>
+            <name>georgehill</name>
+            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新聞參與度在社交媒體上崩潰了50%。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mudil</name>
             <uri>https://news.ycombinator.com/user?id=mudil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從Cgit遷移到Stagit (2018)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31986515</id>
-        <link href="https://news.ycombinator.com/item?id=31986515"/>
-        <updated>2022-07-05T10:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Migrating from Cgit to Stagit (2018)]]></summary>
-        <author>
-            <name>tsujp</name>
-            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
         </author>
     </entry>
 </feed>
