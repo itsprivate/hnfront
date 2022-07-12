@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T17:45:11.878Z</updated>
+    <updated>2022-07-12T18:39:50.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃夫-威廉姆斯将从《媒介》杂志上卸任
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32073410</id>
+        <link href="https://news.ycombinator.com/item?id=32073410"/>
+        <updated>2022-07-12T17:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Ev Williams to step down from Medium]]></summary>
+        <author>
+            <name>marban</name>
+            <uri>https://news.ycombinator.com/user?id=marban</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们对最佳OCR工具的搜索（2019年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053525</id>
+        <link href="https://news.ycombinator.com/item?id=32053525"/>
+        <updated>2022-07-11T08:11:57.000Z</updated>
+        <summary type="html"><![CDATA[Our search for the best OCR tool (2019)]]></summary>
+        <author>
+            <name>longrod</name>
+            <uri>https://news.ycombinator.com/user?id=longrod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实施微软REST API指南过滤器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>johntfella</name>
             <uri>https://news.ycombinator.com/user?id=johntfella</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lurk - 受普通Lisp和Scheme启发的递归ZK-SNARKs语言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31994605</id>
-        <link href="https://news.ycombinator.com/item?id=31994605"/>
-        <updated>2022-07-05T22:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Lurk – Language for Recursive ZK-SNARKs Inspired by Common Lisp and Scheme]]></summary>
-        <author>
-            <name>diggan</name>
-            <uri>https://news.ycombinator.com/user?id=diggan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现金转移。现金没有积极作用--如果有的话，是消极作用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31994390</id>
-        <link href="https://news.ycombinator.com/item?id=31994390"/>
-        <updated>2022-07-05T22:11:07.000Z</updated>
-        <summary type="html"><![CDATA[Cash Transfers: No positive effect of cash – if anything, negative effects]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
