@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T08:54:59.091Z</updated>
+    <updated>2022-07-13T09:47:34.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Filecoin虚拟机--多语种、基于WASM的执行环境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067906</id>
+        <link href="https://news.ycombinator.com/item?id=32067906"/>
+        <updated>2022-07-12T10:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Filecoin Virtual Machine – Polyglot, WASM-based execution environment]]></summary>
+        <author>
+            <name>capableweb</name>
+            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[朝觐之路：朝觐之旅的历史模拟
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pietroppeter</name>
             <uri>https://news.ycombinator.com/user?id=pietroppeter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sourcehut致力于使IRC变得更好
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31999936</id>
-        <link href="https://news.ycombinator.com/item?id=31999936"/>
-        <updated>2022-07-06T12:40:01.000Z</updated>
-        <summary type="html"><![CDATA[Sourcehut is committed to making IRC better]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
