@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T21:49:26.305Z</updated>
+    <updated>2022-07-13T22:02:18.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[古老的鹦鹉螺，不确定的未来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32066339</id>
+        <link href="https://news.ycombinator.com/item?id=32066339"/>
+        <updated>2022-07-12T06:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Ancient Nautilus, Uncertain Future]]></summary>
+        <author>
+            <name>the-mitr</name>
+            <uri>https://news.ycombinator.com/user?id=the-mitr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DALLE-2的提示性工程指南
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lqet</name>
             <uri>https://news.ycombinator.com/user?id=lqet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活统计资料
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32009009</id>
-        <link href="https://news.ycombinator.com/item?id=32009009"/>
-        <updated>2022-07-07T01:37:34.000Z</updated>
-        <summary type="html"><![CDATA[Life Stats]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
