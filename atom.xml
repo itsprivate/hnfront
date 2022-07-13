@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T04:47:35.203Z</updated>
+    <updated>2022-07-13T05:13:36.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[轧制你自己的加密货币。从零开始构建AES所需的一切
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32078749</id>
+        <link href="https://news.ycombinator.com/item?id=32078749"/>
+        <updated>2022-07-13T03:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Rolling your own crypto: Everything you need to build AES from scratch]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[空中客车A380完成了以食用油为动力的飞行
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>boredemployee</name>
             <uri>https://news.ycombinator.com/user?id=boredemployee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古代DNA对最早的海员产生了惊人的发现
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979046</id>
-        <link href="https://news.ycombinator.com/item?id=31979046"/>
-        <updated>2022-07-04T16:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Ancient DNA yields surprising findings on earliest seafarers]]></summary>
-        <author>
-            <name>thedday</name>
-            <uri>https://news.ycombinator.com/user?id=thedday</uri>
         </author>
     </entry>
 </feed>
