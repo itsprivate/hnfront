@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T19:58:12.372Z</updated>
+    <updated>2022-07-13T20:49:53.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用基於Arm的處理器擴展Tau VM系列
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32084887</id>
+        <link href="https://news.ycombinator.com/item?id=32084887"/>
+        <updated>2022-07-13T16:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Expanding the Tau VM family with Arm-based processors]]></summary>
+        <author>
+            <name>ashvardanian</name>
+            <uri>https://news.ycombinator.com/user?id=ashvardanian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一位開發出理解溝通的新方法的科學家
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jstreebin</name>
             <uri>https://news.ycombinator.com/user?id=jstreebin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於圖靈機
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32000903</id>
-        <link href="https://news.ycombinator.com/item?id=32000903"/>
-        <updated>2022-07-06T13:53:45.000Z</updated>
-        <summary type="html"><![CDATA[On Turing Machines]]></summary>
-        <author>
-            <name>furcyd</name>
-            <uri>https://news.ycombinator.com/user?id=furcyd</uri>
         </author>
     </entry>
 </feed>
