@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T21:33:55.695Z</updated>
+    <updated>2022-07-13T21:49:26.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DALLE-2的提示性工程指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088718</id>
+        <link href="https://news.ycombinator.com/item?id=32088718"/>
+        <updated>2022-07-13T21:02:40.000Z</updated>
+        <summary type="html"><![CDATA[A prompt engineering guide for DALLE-2]]></summary>
+        <author>
+            <name>keveman</name>
+            <uri>https://news.ycombinator.com/user?id=keveman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约市发布视频，概述核攻击期间的步骤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088599</id>
+        <link href="https://news.ycombinator.com/item?id=32088599"/>
+        <updated>2022-07-13T20:52:00.000Z</updated>
+        <summary type="html"><![CDATA[NYC Releases Video Outlining Steps to Take During Nuclear Attack]]></summary>
+        <author>
+            <name>chazeon</name>
+            <uri>https://news.ycombinator.com/user?id=chazeon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于Windows 3.1x的类似Windows 95的外壳
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088487</id>
+        <link href="https://news.ycombinator.com/item?id=32088487"/>
+        <updated>2022-07-13T20:42:06.000Z</updated>
+        <summary type="html"><![CDATA[A Windows 95-like shell for Windows 3.1x]]></summary>
+        <author>
+            <name>notpushkin</name>
+            <uri>https://news.ycombinator.com/user?id=notpushkin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RabbitMQ 3.11 功能预览。超级流
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088219</id>
+        <link href="https://news.ycombinator.com/item?id=32088219"/>
+        <updated>2022-07-13T20:16:12.000Z</updated>
+        <summary type="html"><![CDATA[RabbitMQ 3.11 Feature Preview: Super Streams]]></summary>
+        <author>
+            <name>codeadict</name>
+            <uri>https://news.ycombinator.com/user?id=codeadict</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源数据库QuestDB正在招聘云计算工程师（K8s、AWS、Argocd）。
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用智能（YC S17）正在招聘机器学习研究工程师
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32008825</id>
-        <link href="https://news.ycombinator.com/item?id=32008825"/>
-        <updated>2022-07-07T01:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers]]></summary>
-        <author>
-            <name>kanjun</name>
-            <uri>https://news.ycombinator.com/user?id=kanjun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我分析了医院的价格表，所以你不必分析。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32008586</id>
-        <link href="https://news.ycombinator.com/item?id=32008586"/>
-        <updated>2022-07-07T00:25:18.000Z</updated>
-        <summary type="html"><![CDATA[I analyzed hospital price lists so you didn't have to]]></summary>
-        <author>
-            <name>PainfullyNormal</name>
-            <uri>https://news.ycombinator.com/user?id=PainfullyNormal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区分池塘与湖泊和湿地的功能定义
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32001103</id>
-        <link href="https://news.ycombinator.com/item?id=32001103"/>
-        <updated>2022-07-06T14:04:23.000Z</updated>
-        <summary type="html"><![CDATA[A functional definition to distinguish ponds from lakes and wetlands]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在寻找暗物质的过程中，轴子是我们最好的选择吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32000902</id>
-        <link href="https://news.ycombinator.com/item?id=32000902"/>
-        <updated>2022-07-06T13:53:44.000Z</updated>
-        <summary type="html"><![CDATA[In the hunt for dark matter, are axions our best bet?]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
