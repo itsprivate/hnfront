@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-12T23:31:10.241Z</updated>
+    <updated>2022-07-13T00:00:06.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[函數式編程終於成為主流
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32071346</id>
+        <link href="https://news.ycombinator.com/item?id=32071346"/>
+        <updated>2022-07-12T15:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Functional programming is finally going mainstream]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這裡有人從事過Windows內核的工作嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GVM。用於具有IOMMU功能的計算機的GPU虛擬機
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31996529</id>
-        <link href="https://news.ycombinator.com/item?id=31996529"/>
-        <updated>2022-07-06T03:55:54.000Z</updated>
-        <summary type="html"><![CDATA[GVM: A GPU Virtual Machine for IOMMU-Capable Computers]]></summary>
-        <author>
-            <name>ArcVRArthur</name>
-            <uri>https://news.ycombinator.com/user?id=ArcVRArthur</uri>
         </author>
     </entry>
 </feed>
