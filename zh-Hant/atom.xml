@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T12:57:58.402Z</updated>
+    <updated>2022-07-13T14:01:44.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[近三分之一的新聞出版物新用戶在頭24小時內取消訂閱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32082084</id>
+        <link href="https://news.ycombinator.com/item?id=32082084"/>
+        <updated>2022-07-13T13:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Nearly a third of new subscribers to news publications cancel in the first 24H]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我希望看到的六種編程語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081808</id>
+        <link href="https://news.ycombinator.com/item?id=32081808"/>
+        <updated>2022-07-13T12:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Six programming languages I’d like to see]]></summary>
+        <author>
+            <name>johndcook</name>
+            <uri>https://news.ycombinator.com/user?id=johndcook</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[_hyperscript - 一種用於網絡的小型腳本語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081583</id>
+        <link href="https://news.ycombinator.com/item?id=32081583"/>
+        <updated>2022-07-13T12:15:20.000Z</updated>
+        <summary type="html"><![CDATA[_hyperscript – a small scripting language for the web]]></summary>
+        <author>
+            <name>tsujp</name>
+            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過平行化實現更慢的內存清零
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32068226</id>
+        <link href="https://news.ycombinator.com/item?id=32068226"/>
+        <updated>2022-07-12T11:14:11.000Z</updated>
+        <summary type="html"><![CDATA[Slower Memory Zeroing Through Parallelism]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6月通脹率上升9.1%，甚至超過預期
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>AliCollins</name>
             <uri>https://news.ycombinator.com/user?id=AliCollins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[僅可由人眼閱讀的PDF，耐OCR性強
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32002555</id>
-        <link href="https://news.ycombinator.com/item?id=32002555"/>
-        <updated>2022-07-06T15:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PDFs That Are Readable by Human Eyes Only, OCR Resistant]]></summary>
-        <author>
-            <name>viggity</name>
-            <uri>https://news.ycombinator.com/user?id=viggity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詭異的模擬音效的樂趣
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31982866</id>
-        <link href="https://news.ycombinator.com/item?id=31982866"/>
-        <updated>2022-07-04T23:45:43.000Z</updated>
-        <summary type="html"><![CDATA[The Weird, Analog Delights of Foley Sound Effects]]></summary>
-        <author>
-            <name>tintinnabula</name>
-            <uri>https://news.ycombinator.com/user?id=tintinnabula</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密貨幣經紀商Voyager Digital申請破產
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32001933</id>
-        <link href="https://news.ycombinator.com/item?id=32001933"/>
-        <updated>2022-07-06T14:56:29.000Z</updated>
-        <summary type="html"><![CDATA[Crypto broker Voyager Digital files for bankruptcy]]></summary>
-        <author>
-            <name>jeremylevy</name>
-            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D實時跟蹤兩名試圖創造內華達山脈記錄的登山者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32001817</id>
-        <link href="https://news.ycombinator.com/item?id=32001817"/>
-        <updated>2022-07-06T14:48:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 3D live tracking two climbers attempting a Sierra Nevada record]]></summary>
-        <author>
-            <name>closedcontour</name>
-            <uri>https://news.ycombinator.com/user?id=closedcontour</uri>
         </author>
     </entry>
 </feed>
