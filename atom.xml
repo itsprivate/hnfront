@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T18:59:25.196Z</updated>
+    <updated>2022-07-13T19:25:47.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个74xx定义的无线电(2021)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32087057</id>
+        <link href="https://news.ycombinator.com/item?id=32087057"/>
+        <updated>2022-07-13T18:45:30.000Z</updated>
+        <summary type="html"><![CDATA[A 74xx-Defined Radio (2021)]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[供应链问题正在扼杀合成物公司
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>OrderOfChaos</name>
             <uri>https://news.ycombinator.com/user?id=OrderOfChaos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上第一个大规模的 "沙电池 "在芬兰投入使用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32006791</id>
-        <link href="https://news.ycombinator.com/item?id=32006791"/>
-        <updated>2022-07-06T21:03:09.000Z</updated>
-        <summary type="html"><![CDATA[World’s first large-scale ‘sand battery’ goes online in Finland]]></summary>
-        <author>
-            <name>bobse</name>
-            <uri>https://news.ycombinator.com/user?id=bobse</uri>
         </author>
     </entry>
 </feed>
