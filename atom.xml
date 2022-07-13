@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T21:02:27.821Z</updated>
+    <updated>2022-07-13T21:33:55.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源数据库QuestDB正在招聘云计算工程师（K8s、AWS、Argocd）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088701</id>
+        <link href="https://news.ycombinator.com/item?id=32088701"/>
+        <updated>2022-07-13T21:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Open Source Database QuestDB Is Hiring a Cloud Engineer (K8s, AWS, Argocd)]]></summary>
+        <author>
+            <name>nhourcard</name>
+            <uri>https://news.ycombinator.com/user?id=nhourcard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL 14内部手册
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088316</id>
+        <link href="https://news.ycombinator.com/item?id=32088316"/>
+        <updated>2022-07-13T20:26:44.000Z</updated>
+        <summary type="html"><![CDATA[PostgreSQL 14 Internals Book]]></summary>
+        <author>
+            <name>kelvich</name>
+            <uri>https://news.ycombinator.com/user?id=kelvich</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当Rustc爆炸的时候
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32086973</id>
+        <link href="https://news.ycombinator.com/item?id=32086973"/>
+        <updated>2022-07-13T18:39:32.000Z</updated>
+        <summary type="html"><![CDATA[When Rustc Explodes]]></summary>
+        <author>
+            <name>milen</name>
+            <uri>https://news.ycombinator.com/user?id=milen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自然之镜
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太空部队推出新的情报部门。国会对增长问题表示关切
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32008080</id>
-        <link href="https://news.ycombinator.com/item?id=32008080"/>
-        <updated>2022-07-06T23:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Space Force Launches New Intelligence Unit: Congress Voices Concerns over Growth]]></summary>
-        <author>
-            <name>Trouble_007</name>
-            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceVim 发布 v2.0.0
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31986851</id>
-        <link href="https://news.ycombinator.com/item?id=31986851"/>
-        <updated>2022-07-05T11:22:58.000Z</updated>
-        <summary type="html"><![CDATA[SpaceVim Release v2.0.0]]></summary>
-        <author>
-            <name>christophilus</name>
-            <uri>https://news.ycombinator.com/user?id=christophilus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌ML编译器内嵌实现了3-7%的尺寸缩减
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32007695</id>
-        <link href="https://news.ycombinator.com/item?id=32007695"/>
-        <updated>2022-07-06T22:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Google ML Compiler Inlining Achieves 3-7% Reduction in Size]]></summary>
-        <author>
-            <name>palmm</name>
-            <uri>https://news.ycombinator.com/user?id=palmm</uri>
         </author>
     </entry>
 </feed>
