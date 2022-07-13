@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-13T19:25:47.362Z</updated>
+    <updated>2022-07-13T19:58:12.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一位開發出理解溝通的新方法的科學家
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067193</id>
+        <link href="https://news.ycombinator.com/item?id=32067193"/>
+        <updated>2022-07-12T08:48:59.000Z</updated>
+        <summary type="html"><![CDATA[A scientist who developed a new way to understand communication]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個74xx定義的無線電(2021)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>furcyd</name>
             <uri>https://news.ycombinator.com/user?id=furcyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿蘭-德波頓談存在主義的成熟性和情商的含義
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32007065</id>
-        <link href="https://news.ycombinator.com/item?id=32007065"/>
-        <updated>2022-07-06T21:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Alain de Botton on Existential Maturity and What Emotional Intelligence Means]]></summary>
-        <author>
-            <name>OrderOfChaos</name>
-            <uri>https://news.ycombinator.com/user?id=OrderOfChaos</uri>
         </author>
     </entry>
 </feed>
