@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T08:35:39.321Z</updated>
+    <updated>2022-07-14T09:30:30.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[語句與表達式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32066670</id>
+        <link href="https://news.ycombinator.com/item?id=32066670"/>
+        <updated>2022-07-12T07:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Statements vs. Expressions]]></summary>
+        <author>
+            <name>kretaceous</name>
+            <uri>https://news.ycombinator.com/user?id=kretaceous</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比爾-阿克曼將關閉SPAC，向投資者歸還40億美元
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>harporoeder</name>
             <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PocketBase - 開源的實時後端，只有一個文件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32013330</id>
-        <link href="https://news.ycombinator.com/item?id=32013330"/>
-        <updated>2022-07-07T12:45:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PocketBase – open-source realtime back end in 1 file]]></summary>
-        <author>
-            <name>randomwebdev</name>
-            <uri>https://news.ycombinator.com/user?id=randomwebdev</uri>
         </author>
     </entry>
 </feed>
