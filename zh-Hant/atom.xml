@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T21:31:26.715Z</updated>
+    <updated>2022-07-14T21:48:31.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[編寫編譯器的教訓
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32100880</id>
+        <link href="https://news.ycombinator.com/item?id=32100880"/>
+        <updated>2022-07-14T20:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Lessons from Writing a Compiler]]></summary>
+        <author>
+            <name>zetalyrae</name>
+            <uri>https://news.ycombinator.com/user?id=zetalyrae</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TrueBiz (YC S22)正在招聘一名創始機器學習工程師
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cpeterso</name>
             <uri>https://news.ycombinator.com/user?id=cpeterso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本前首相安倍晉三在演講中被槍殺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32022506</id>
-        <link href="https://news.ycombinator.com/item?id=32022506"/>
-        <updated>2022-07-08T02:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Japan’s Ex-PM Abe shot during speech]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
