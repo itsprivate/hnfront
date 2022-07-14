@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T11:45:31.639Z</updated>
+    <updated>2022-07-14T11:58:21.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我们没有一个战略？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094469</id>
+        <link href="https://news.ycombinator.com/item?id=32094469"/>
+        <updated>2022-07-14T11:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Why Don’t We Have a Strategy?]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node-Red 3.0发布
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mellavora</name>
             <uri>https://news.ycombinator.com/user?id=mellavora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何建造一个真正的冰屋
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31987617</id>
-        <link href="https://news.ycombinator.com/item?id=31987617"/>
-        <updated>2022-07-05T12:54:55.000Z</updated>
-        <summary type="html"><![CDATA[How to Build a Real Igloo]]></summary>
-        <author>
-            <name>vishnuharidas</name>
-            <uri>https://news.ycombinator.com/user?id=vishnuharidas</uri>
         </author>
     </entry>
 </feed>
