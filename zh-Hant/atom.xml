@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T14:02:46.798Z</updated>
+    <updated>2022-07-14T14:31:10.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[構建多架構的Docker鏡像
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096093</id>
+        <link href="https://news.ycombinator.com/item?id=32096093"/>
+        <updated>2022-07-14T13:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Building multi-architecture Docker images]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弗蘭克-蓋裡有幾件事情想說出來
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cwwc</name>
             <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兩本書探尋童話故事的隱秘深淵
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31996238</id>
-        <link href="https://news.ycombinator.com/item?id=31996238"/>
-        <updated>2022-07-06T03:05:21.000Z</updated>
-        <summary type="html"><![CDATA[Two Books Plumb the Hidden Depths of the Fairy Tale]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
         </author>
     </entry>
 </feed>
