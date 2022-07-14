@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T18:58:03.736Z</updated>
+    <updated>2022-07-14T19:26:42.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Unix的历史[视频] (2018)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32065871</id>
+        <link href="https://news.ycombinator.com/item?id=32065871"/>
+        <updated>2022-07-12T05:09:31.000Z</updated>
+        <summary type="html"><![CDATA[History of Unix [video] (2018)]]></summary>
+        <author>
+            <name>nsavant</name>
+            <uri>https://news.ycombinator.com/user?id=nsavant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据报道，亚马逊在Facebook私人群组中对其Flex司机进行调查
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cmod</name>
             <uri>https://news.ycombinator.com/user?id=cmod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马尔科夫聊天机器人的灾难故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32021269</id>
-        <link href="https://news.ycombinator.com/item?id=32021269"/>
-        <updated>2022-07-07T23:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Markov Chat Bot Disaster Story]]></summary>
-        <author>
-            <name>choult</name>
-            <uri>https://news.ycombinator.com/user?id=choult</uri>
         </author>
     </entry>
 </feed>
