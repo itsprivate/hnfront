@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 14 Jul 2022 20:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 20:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在斯威夫特中的热装弹
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32101009</link>
+            <guid>https://news.ycombinator.com/item?id=32101009</guid>
+            <pubDate>Thu, 14 Jul 2022 20:25:31 GMT</pubDate>
+            <description><![CDATA[Hot Reloading in Swift]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是什么让你对未来感到乐观？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32100524</link>
+            <guid>https://news.ycombinator.com/item?id=32100524</guid>
+            <pubDate>Thu, 14 Jul 2022 19:31:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: What makes you optimistic about the future?]]></description>
+        </item>
         <item>
             <title><![CDATA[99行C语言中的Lisp以及如何自己写一个[pdf]
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32000907</guid>
             <pubDate>Wed, 06 Jul 2022 13:53:58 GMT</pubDate>
             <description><![CDATA[Detecting Deepfake Video Calls Through Monitor Illumination]]></description>
-        </item>
-        <item>
-            <title><![CDATA[bun：快速的JavaScript运行时间和包管理器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32022138</link>
-            <guid>https://news.ycombinator.com/item?id=32022138</guid>
-            <pubDate>Fri, 08 Jul 2022 01:55:41 GMT</pubDate>
-            <description><![CDATA[bun: fast JavaScript runtime and package manager]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纽森州长宣布加州将制作自己的胰岛素
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32021868</link>
-            <guid>https://news.ycombinator.com/item?id=32021868</guid>
-            <pubDate>Fri, 08 Jul 2022 01:19:16 GMT</pubDate>
-            <description><![CDATA[Governor Newsom announces California will make its own insulin]]></description>
         </item>
     </channel>
 </rss>
