@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T05:07:52.084Z</updated>
+    <updated>2022-07-14T06:34:50.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌30%的情感数据集被误标了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32090389</id>
+        <link href="https://news.ycombinator.com/item?id=32090389"/>
+        <updated>2022-07-14T00:17:16.000Z</updated>
+        <summary type="html"><![CDATA[30% of Google's Emotions Dataset Is Mislabeled]]></summary>
+        <author>
+            <name>echen</name>
+            <uri>https://news.ycombinator.com/user?id=echen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denote - Simple Emacs Zettelkasten (by Prot)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32066513</id>
+        <link href="https://news.ycombinator.com/item?id=32066513"/>
+        <updated>2022-07-12T06:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Denote – Simple Emacs Zettelkasten (by Prot)]]></summary>
+        <author>
+            <name>nanna</name>
+            <uri>https://news.ycombinator.com/user?id=nanna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[囚禁门户
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mmillin</name>
             <uri>https://news.ycombinator.com/user?id=mmillin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系统内存的未来主要是CXL
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32001133</id>
-        <link href="https://news.ycombinator.com/item?id=32001133"/>
-        <updated>2022-07-06T14:06:20.000Z</updated>
-        <summary type="html"><![CDATA[The Future of System Memory Is Mostly CXL]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitDB，一个在Git之上的分布式可嵌入的数据库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31987240</id>
-        <link href="https://news.ycombinator.com/item?id=31987240"/>
-        <updated>2022-07-05T12:11:43.000Z</updated>
-        <summary type="html"><![CDATA[GitDB, a distributed embeddable database on top of Git]]></summary>
-        <author>
-            <name>fiatjaf</name>
-            <uri>https://news.ycombinator.com/user?id=fiatjaf</uri>
         </author>
     </entry>
 </feed>
