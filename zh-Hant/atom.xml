@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T15:38:32.696Z</updated>
+    <updated>2022-07-14T15:55:41.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何通過使用Terramate保持你的Terraform代碼的穩定性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096965</id>
+        <link href="https://news.ycombinator.com/item?id=32096965"/>
+        <updated>2022-07-14T15:07:11.000Z</updated>
+        <summary type="html"><![CDATA[How to keep your Terraform code DRY by using Terramate]]></summary>
+        <author>
+            <name>katcipis</name>
+            <uri>https://news.ycombinator.com/user?id=katcipis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我為自己在網上會議中說得太多的時候做了一個應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32095592</id>
+        <link href="https://news.ycombinator.com/item?id=32095592"/>
+        <updated>2022-07-14T13:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an app for when I talk too much in online meetings]]></summary>
+        <author>
+            <name>interleave</name>
+            <uri>https://news.ycombinator.com/user?id=interleave</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將OpenBSD Pledge()移植到Linux上
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>giacaglia</name>
             <uri>https://news.ycombinator.com/user?id=giacaglia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用聯合、相交和否定類型編程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018751</id>
-        <link href="https://news.ycombinator.com/item?id=32018751"/>
-        <updated>2022-07-07T20:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Programming with union, intersection, and negation types]]></summary>
-        <author>
-            <name>pbowyer</name>
-            <uri>https://news.ycombinator.com/user?id=pbowyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前Theranos首席運營官Sunny Balwani犯有聯邦欺詐罪
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018715</id>
-        <link href="https://news.ycombinator.com/item?id=32018715"/>
-        <updated>2022-07-07T20:11:06.000Z</updated>
-        <summary type="html"><![CDATA[Former Theranos COO Sunny Balwani is guilty of federal fraud]]></summary>
-        <author>
-            <name>crhulls</name>
-            <uri>https://news.ycombinator.com/user?id=crhulls</uri>
         </author>
     </entry>
 </feed>
