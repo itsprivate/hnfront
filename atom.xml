@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T14:31:10.476Z</updated>
+    <updated>2022-07-14T14:50:41.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PicoMite - 用于Raspberry Pi Pico的基本解释器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096392</id>
+        <link href="https://news.ycombinator.com/item?id=32096392"/>
+        <updated>2022-07-14T14:19:21.000Z</updated>
+        <summary type="html"><![CDATA[PicoMite – Basic Interpreter for the Raspberry Pi Pico]]></summary>
+        <author>
+            <name>cristoperb</name>
+            <uri>https://news.ycombinator.com/user?id=cristoperb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统一公司正在与一家制作恶意软件安装程序的公司合并
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096371</id>
+        <link href="https://news.ycombinator.com/item?id=32096371"/>
+        <updated>2022-07-14T14:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Unity is merging with a company who made a malware installer]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超图揭示了50年来的问题的解决方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096131</id>
+        <link href="https://news.ycombinator.com/item?id=32096131"/>
+        <updated>2022-07-14T13:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Hypergraphs Reveal Solution to 50-Year-Old Problem]]></summary>
+        <author>
+            <name>theafh</name>
+            <uri>https://news.ycombinator.com/user?id=theafh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能恒温器无意中给电网带来压力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32095747</id>
+        <link href="https://news.ycombinator.com/item?id=32095747"/>
+        <updated>2022-07-14T13:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Smart thermostats inadvertently strain electric power grids]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[构建多架构的Docker镜像
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>cft</name>
             <uri>https://news.ycombinator.com/user?id=cft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOC2：截图将继续下去，直到安全得到改善
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018066</id>
-        <link href="https://news.ycombinator.com/item?id=32018066"/>
-        <updated>2022-07-07T19:14:19.000Z</updated>
-        <summary type="html"><![CDATA[SOC2: The Screenshots Will Continue Until Security Improves]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OrBit：新的未被发现的Linux威胁使用独特的劫持执行流程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017997</id>
-        <link href="https://news.ycombinator.com/item?id=32017997"/>
-        <updated>2022-07-07T19:09:47.000Z</updated>
-        <summary type="html"><![CDATA[OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow]]></summary>
-        <author>
-            <name>afrcnc</name>
-            <uri>https://news.ycombinator.com/user?id=afrcnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国土安全局工作人员被起诉参与在美国压制中国批评者的计划。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017941</id>
-        <link href="https://news.ycombinator.com/item?id=32017941"/>
-        <updated>2022-07-07T19:04:58.000Z</updated>
-        <summary type="html"><![CDATA[Homeland security workers indicted in scheme to silence China critics in U.S.]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theranos前总裁 "Sunny "Balwani被认定对所有12项欺诈指控有罪
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017919</id>
-        <link href="https://news.ycombinator.com/item?id=32017919"/>
-        <updated>2022-07-07T19:03:12.000Z</updated>
-        <summary type="html"><![CDATA[Theranos Former President ‘Sunny’ Balwani Found Guilty on All 12 Fraud Counts]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
