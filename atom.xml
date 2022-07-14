@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T14:50:41.621Z</updated>
+    <updated>2022-07-14T15:01:18.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[玉米棒子。恶梦的燃料
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096627</id>
+        <link href="https://news.ycombinator.com/item?id=32096627"/>
+        <updated>2022-07-14T14:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Corn Cobs: Fuel of Nightmares]]></summary>
+        <author>
+            <name>pkrein</name>
+            <uri>https://news.ycombinator.com/user?id=pkrein</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于Google-Zanzibar的开源授权服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096610</id>
+        <link href="https://news.ycombinator.com/item?id=32096610"/>
+        <updated>2022-07-14T14:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source authorization service based on Google-Zanzibar]]></summary>
+        <author>
+            <name>freddgn</name>
+            <uri>https://news.ycombinator.com/user?id=freddgn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PicoMite - 用于Raspberry Pi Pico的基本解释器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>signa11</name>
             <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星联海运
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018218</id>
-        <link href="https://news.ycombinator.com/item?id=32018218"/>
-        <updated>2022-07-07T19:26:04.000Z</updated>
-        <summary type="html"><![CDATA[Starlink Maritime]]></summary>
-        <author>
-            <name>Yukonv</name>
-            <uri>https://news.ycombinator.com/user?id=Yukonv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月8日世界上99%的人口同时在阳光下？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017952</id>
-        <link href="https://news.ycombinator.com/item?id=32017952"/>
-        <updated>2022-07-07T19:05:48.000Z</updated>
-        <summary type="html"><![CDATA[July 8 99% of the world’s population in sunlight simultaneously?]]></summary>
-        <author>
-            <name>cft</name>
-            <uri>https://news.ycombinator.com/user?id=cft</uri>
         </author>
     </entry>
 </feed>
