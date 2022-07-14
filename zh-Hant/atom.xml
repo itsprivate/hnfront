@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-14T19:59:21.224Z</updated>
+    <updated>2022-07-14T20:34:30.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[99行C語言中的Lisp以及如何自己寫一個[pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32100035</id>
+        <link href="https://news.ycombinator.com/item?id=32100035"/>
+        <updated>2022-07-14T18:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Lisp in 99 lines of C and how to write one yourself [pdf]]]></summary>
+        <author>
+            <name>jstanley</name>
+            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[畢加索的偉大反戰壁畫落空了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096301</id>
+        <link href="https://news.ycombinator.com/item?id=32096301"/>
+        <updated>2022-07-14T14:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Picasso's Great Anti-War Mural Flopped]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我不同意阿蘭-圖靈和丹尼爾-卡尼曼（2014）的觀點
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>arrosenberg</name>
             <uri>https://news.ycombinator.com/user?id=arrosenberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyAlgoViz。在瀏覽器中運行的Python算法的可視化。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32021852</id>
-        <link href="https://news.ycombinator.com/item?id=32021852"/>
-        <updated>2022-07-08T01:16:53.000Z</updated>
-        <summary type="html"><![CDATA[PyAlgoViz: Python Algorithm Visualizations done in Python running in the browser]]></summary>
-        <author>
-            <name>rahimnathwani</name>
-            <uri>https://news.ycombinator.com/user?id=rahimnathwani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etleap (YC W13) 正在招聘軟件工程師 - 倫敦
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32021736</id>
-        <link href="https://news.ycombinator.com/item?id=32021736"/>
-        <updated>2022-07-08T01:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Etleap (YC W13) Is Hiring Software Engineer – London]]></summary>
-        <author>
-            <name>romming</name>
-            <uri>https://news.ycombinator.com/user?id=romming</uri>
         </author>
     </entry>
 </feed>
