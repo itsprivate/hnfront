@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-15T15:38:03.097Z</updated>
+    <updated>2022-07-15T16:49:44.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BBC基础编辑
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32109694</id>
+        <link href="https://news.ycombinator.com/item?id=32109694"/>
+        <updated>2022-07-15T16:17:51.000Z</updated>
+        <summary type="html"><![CDATA[BBC Basic Editor]]></summary>
+        <author>
+            <name>bpierre</name>
+            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我创建了Scrumdog - 一个将Jira问题下载到本地数据库的程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32109461</id>
+        <link href="https://news.ycombinator.com/item?id=32109461"/>
+        <updated>2022-07-15T15:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Why I created Scrumdog – a program to download Jira Issues to a local database]]></summary>
+        <author>
+            <name>bosveld</name>
+            <uri>https://news.ycombinator.com/user?id=bosveld</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了JCOF，一种对象符号，比JSON更有效地编码数据。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32109406</id>
+        <link href="https://news.ycombinator.com/item?id=32109406"/>
+        <updated>2022-07-15T15:54:18.000Z</updated>
+        <summary type="html"><![CDATA[I made JCOF, an object notation which encodes data more efficiently than JSON]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.2.1版发布
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32109385</id>
+        <link href="https://news.ycombinator.com/item?id=32109385"/>
+        <updated>2022-07-15T15:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Inkscape 1.2.1 Released]]></summary>
+        <author>
+            <name>s1291</name>
+            <uri>https://news.ycombinator.com/user?id=s1291</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迫在眉睫的天然气短缺让欧盟急于寻找解决方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32109293</id>
+        <link href="https://news.ycombinator.com/item?id=32109293"/>
+        <updated>2022-07-15T15:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Looming Natural Gas Shortages Has the EU Scrambling for Solutions]]></summary>
+        <author>
+            <name>leonkunert</name>
+            <uri>https://news.ycombinator.com/user?id=leonkunert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[战争中的维特根斯坦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32099019</id>
+        <link href="https://news.ycombinator.com/item?id=32099019"/>
+        <updated>2022-07-14T17:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Wittgenstein at War]]></summary>
+        <author>
+            <name>lermontov</name>
+            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱因斯坦留下的含糊不清的质量和角动量得到定义
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>aryamaan</name>
             <uri>https://news.ycombinator.com/user?id=aryamaan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霓虹灯下的建筑决定
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32028760</id>
-        <link href="https://news.ycombinator.com/item?id=32028760"/>
-        <updated>2022-07-08T22:51:27.000Z</updated>
-        <summary type="html"><![CDATA[Architecture Decisions in Neon]]></summary>
-        <author>
-            <name>nikita</name>
-            <uri>https://news.ycombinator.com/user?id=nikita</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCRmyPDF。为扫描的PDF文件添加OCR文本层
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32028752</id>
-        <link href="https://news.ycombinator.com/item?id=32028752"/>
-        <updated>2022-07-08T22:50:59.000Z</updated>
-        <summary type="html"><![CDATA[OCRmyPDF: Add an OCR text layer to scanned PDF file]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在后罗伊时代的美国，车牌阅读器的危险性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32028700</id>
-        <link href="https://news.ycombinator.com/item?id=32028700"/>
-        <updated>2022-07-08T22:47:10.000Z</updated>
-        <summary type="html"><![CDATA[The danger of license plate readers in post-Roe America]]></summary>
-        <author>
-            <name>arunbahl</name>
-            <uri>https://news.ycombinator.com/user?id=arunbahl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国面临住房萧条
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32028298</id>
-        <link href="https://news.ycombinator.com/item?id=32028298"/>
-        <updated>2022-07-08T22:20:38.000Z</updated>
-        <summary type="html"><![CDATA[America Faces a Housing Bust]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mission Pharo Kernel (2016) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32002069</id>
-        <link href="https://news.ycombinator.com/item?id=32002069"/>
-        <updated>2022-07-06T15:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Mission Pharo Kernel (2016) [pdf]]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安倍晋三用自己的话说
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026656</id>
-        <link href="https://news.ycombinator.com/item?id=32026656"/>
-        <updated>2022-07-08T20:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Abe Shinzo in his own words]]></summary>
-        <author>
-            <name>Jimmc414</name>
-            <uri>https://news.ycombinator.com/user?id=Jimmc414</uri>
         </author>
     </entry>
 </feed>
