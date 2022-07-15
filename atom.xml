@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-15T18:00:21.477Z</updated>
+    <updated>2022-07-15T18:38:36.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开发人员的技术写作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32110690</id>
+        <link href="https://news.ycombinator.com/item?id=32110690"/>
+        <updated>2022-07-15T17:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Technical Writing for Developers]]></summary>
+        <author>
+            <name>makaimc</name>
+            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与模特一起生活
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32101443</id>
+        <link href="https://news.ycombinator.com/item?id=32101443"/>
+        <updated>2022-07-14T21:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Living with Models]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在一个由30个软盘组成的RAID0上托管一个网站
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>arunbahl</name>
             <uri>https://news.ycombinator.com/user?id=arunbahl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国联邦通信委员会命令运营商停止发送汽车保修抢购电话
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32030108</id>
-        <link href="https://news.ycombinator.com/item?id=32030108"/>
-        <updated>2022-07-09T00:45:32.000Z</updated>
-        <summary type="html"><![CDATA[FCC orders carriers to stop delivering auto warranty robocalls]]></summary>
-        <author>
-            <name>thesecretceo</name>
-            <uri>https://news.ycombinator.com/user?id=thesecretceo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对新闻的信任度跌至历史最低点
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32029952</id>
-        <link href="https://news.ycombinator.com/item?id=32029952"/>
-        <updated>2022-07-09T00:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Trust in news collapses to historic low]]></summary>
-        <author>
-            <name>bilsbie</name>
-            <uri>https://news.ycombinator.com/user?id=bilsbie</uri>
         </author>
     </entry>
 </feed>
