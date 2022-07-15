@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-15T17:49:30.378Z</updated>
+    <updated>2022-07-15T18:00:21.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在一個由30個軟盤組成的RAID0上託管一個網站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32110662</id>
+        <link href="https://news.ycombinator.com/item?id=32110662"/>
+        <updated>2022-07-15T17:29:28.000Z</updated>
+        <summary type="html"><![CDATA[I'm hosting a website on a RAID0 of 30 floppy drives]]></summary>
+        <author>
+            <name>LarryPage</name>
+            <uri>https://news.ycombinator.com/user?id=LarryPage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前100萬個網站中的10%已經死亡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32110573</id>
+        <link href="https://news.ycombinator.com/item?id=32110573"/>
+        <updated>2022-07-15T17:22:40.000Z</updated>
+        <summary type="html"><![CDATA[10% of the top million sites are dead]]></summary>
+        <author>
+            <name>Soupy</name>
+            <uri>https://news.ycombinator.com/user?id=Soupy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吉姆-索普被恢復為1912年奧運會金牌的唯一得主
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bilsbie</name>
             <uri>https://news.ycombinator.com/user?id=bilsbie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個MIDI工具來教我鋼琴
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32029901</id>
-        <link href="https://news.ycombinator.com/item?id=32029901"/>
-        <updated>2022-07-09T00:21:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a MIDI tool to teach me piano]]></summary>
-        <author>
-            <name>FinalDestiny</name>
-            <uri>https://news.ycombinator.com/user?id=FinalDestiny</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruffle。WebAssembly Flash Player仿真器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32011842</id>
-        <link href="https://news.ycombinator.com/item?id=32011842"/>
-        <updated>2022-07-07T09:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Ruffle: WebAssembly Flash Player Emulator]]></summary>
-        <author>
-            <name>tux1968</name>
-            <uri>https://news.ycombinator.com/user?id=tux1968</uri>
         </author>
     </entry>
 </feed>
