@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-15T22:29:23.571Z</updated>
+    <updated>2022-07-15T23:29:56.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FCC建议将最低宽带速度提高到100Mbps
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32113263</id>
+        <link href="https://news.ycombinator.com/item?id=32113263"/>
+        <updated>2022-07-15T22:02:54.000Z</updated>
+        <summary type="html"><![CDATA[FCC Proposes to Increase Minimum Broadband Speeds to 100Mbps]]></summary>
+        <author>
+            <name>happyopossum</name>
+            <uri>https://news.ycombinator.com/user?id=happyopossum</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[皮革等级。确切的指南（2020年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081287</id>
+        <link href="https://news.ycombinator.com/item?id=32081287"/>
+        <updated>2022-07-13T11:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Leather Grades: The Definitive Guide (2020)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对未来十几个Rust GUI的建议
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dennalp</name>
             <uri>https://news.ycombinator.com/user?id=dennalp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷宫生成可视化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32032962</id>
-        <link href="https://news.ycombinator.com/item?id=32032962"/>
-        <updated>2022-07-09T08:04:17.000Z</updated>
-        <summary type="html"><![CDATA[Maze Generation Visualization]]></summary>
-        <author>
-            <name>pkstn</name>
-            <uri>https://news.ycombinator.com/user?id=pkstn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI元素中的迟滞现象
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32032809</id>
-        <link href="https://news.ycombinator.com/item?id=32032809"/>
-        <updated>2022-07-09T07:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Hysteresis in UI Elements]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
