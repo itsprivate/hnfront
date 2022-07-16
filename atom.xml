@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-16T18:35:08.649Z</updated>
+    <updated>2022-07-16T18:52:08.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国向988自杀和危机生命线的过渡周六开始
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32120478</id>
+        <link href="https://news.ycombinator.com/item?id=32120478"/>
+        <updated>2022-07-16T18:13:33.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Transition to 988 Suicide and Crisis Lifeline Begins Saturday]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[划痕是个大问题
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gabugsat</name>
             <uri>https://news.ycombinator.com/user?id=gabugsat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用S3对象锁保护您的数据免受勒索软件的影响
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32040614</id>
-        <link href="https://news.ycombinator.com/item?id=32040614"/>
-        <updated>2022-07-10T00:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Protect your data from ransomware with S3 Object Lock]]></summary>
-        <author>
-            <name>abuggia</name>
-            <uri>https://news.ycombinator.com/user?id=abuggia</uri>
         </author>
     </entry>
 </feed>
