@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-16T13:42:34.183Z</updated>
+    <updated>2022-07-16T13:59:29.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[零信任 "安全是一个糟糕的选择
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32117771</id>
+        <link href="https://news.ycombinator.com/item?id=32117771"/>
+        <updated>2022-07-16T13:22:16.000Z</updated>
+        <summary type="html"><![CDATA['Zero Trust’ security is a poor choice of words]]></summary>
+        <author>
+            <name>politelemon</name>
+            <uri>https://news.ycombinator.com/user?id=politelemon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[着色器之书
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32117536</id>
+        <link href="https://news.ycombinator.com/item?id=32117536"/>
+        <updated>2022-07-16T12:52:39.000Z</updated>
+        <summary type="html"><![CDATA[The Book of Shaders]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个简单的平台来购买/出售副业项目
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tscepo</name>
             <uri>https://news.ycombinator.com/user?id=tscepo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tmux、nvim、zsh、x11之间的剪贴板集成，跨越SSH会话
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32037489</id>
-        <link href="https://news.ycombinator.com/item?id=32037489"/>
-        <updated>2022-07-09T17:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Clipboard integration between tmux, nvim, zsh, x11, across SSH sessions]]></summary>
-        <author>
-            <name>pmoriarty</name>
-            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[钢琴培训师 - 使用MIDI学习钢琴音阶、和弦等
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32023881</id>
-        <link href="https://news.ycombinator.com/item?id=32023881"/>
-        <updated>2022-07-08T07:27:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Piano Trainer – Learn piano scales, chords and more using MIDI]]></summary>
-        <author>
-            <name>FinalDestiny</name>
-            <uri>https://news.ycombinator.com/user?id=FinalDestiny</uri>
         </author>
     </entry>
 </feed>
