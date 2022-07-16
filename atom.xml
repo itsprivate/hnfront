@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-16T15:33:18.902Z</updated>
+    <updated>2022-07-16T15:50:18.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[异步Rust。什么是运行时？以下是tokio在引擎盖下的工作方式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32119002</id>
+        <link href="https://news.ycombinator.com/item?id=32119002"/>
+        <updated>2022-07-16T15:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Async Rust: What is a runtime? Here is how tokio works under the hood]]></summary>
+        <author>
+            <name>sylvain_kerkour</name>
+            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logto测试版--轻松建立通用的签到、认证和身份认证
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118950</id>
+        <link href="https://news.ycombinator.com/item?id=32118950"/>
+        <updated>2022-07-16T15:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Logto beta – build universal sign-in, auth, and identity with ease]]></summary>
+        <author>
+            <name>pseudopuppet</name>
+            <uri>https://news.ycombinator.com/user?id=pseudopuppet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国的铁轨为什么会打扣子
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>danpalmer</name>
             <uri>https://news.ycombinator.com/user?id=danpalmer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络钓鱼：它也可能发生在你身上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32038475</id>
-        <link href="https://news.ycombinator.com/item?id=32038475"/>
-        <updated>2022-07-09T19:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Spearphishing: It can happen to you too]]></summary>
-        <author>
-            <name>xena</name>
-            <uri>https://news.ycombinator.com/user?id=xena</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[趣味性的终身任务结果
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033632</id>
-        <link href="https://news.ycombinator.com/item?id=32033632"/>
-        <updated>2022-07-09T10:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Fun with lifetime-extended results of assignment]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>

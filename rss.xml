@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 15:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 15:50:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[异步Rust。什么是运行时？以下是tokio在引擎盖下的工作方式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32119002</link>
+            <guid>https://news.ycombinator.com/item?id=32119002</guid>
+            <pubDate>Sat, 16 Jul 2022 15:22:06 GMT</pubDate>
+            <description><![CDATA[Async Rust: What is a runtime? Here is how tokio works under the hood]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Logto测试版--轻松建立通用的签到、认证和身份认证
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32118950</link>
+            <guid>https://news.ycombinator.com/item?id=32118950</guid>
+            <pubDate>Sat, 16 Jul 2022 15:17:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Logto beta – build universal sign-in, auth, and identity with ease]]></description>
+        </item>
         <item>
             <title><![CDATA[英国的铁轨为什么会打扣子
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32034643</guid>
             <pubDate>Sat, 09 Jul 2022 12:57:06 GMT</pubDate>
             <description><![CDATA[The dark side of Shopify]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网络钓鱼：它也可能发生在你身上
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32038475</link>
-            <guid>https://news.ycombinator.com/item?id=32038475</guid>
-            <pubDate>Sat, 09 Jul 2022 19:31:48 GMT</pubDate>
-            <description><![CDATA[Spearphishing: It can happen to you too]]></description>
-        </item>
-        <item>
-            <title><![CDATA[趣味性的终身任务结果
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32033632</link>
-            <guid>https://news.ycombinator.com/item?id=32033632</guid>
-            <pubDate>Sat, 09 Jul 2022 10:24:20 GMT</pubDate>
-            <description><![CDATA[Fun with lifetime-extended results of assignment]]></description>
         </item>
     </channel>
 </rss>
