@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-16T15:50:18.483Z</updated>
+    <updated>2022-07-16T16:39:08.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CashGraphs - 一個證券投資組合優化器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118796</id>
+        <link href="https://news.ycombinator.com/item?id=32118796"/>
+        <updated>2022-07-16T15:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CashGraphs – A securities portfolio optimizer]]></summary>
+        <author>
+            <name>justinluther</name>
+            <uri>https://news.ycombinator.com/user?id=justinluther</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從歷史角度看區塊鏈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094566</id>
+        <link href="https://news.ycombinator.com/item?id=32094566"/>
+        <updated>2022-07-14T11:33:58.000Z</updated>
+        <summary type="html"><![CDATA[The Blockchain in a Historical Perspective]]></summary>
+        <author>
+            <name>socialdemocrat</name>
+            <uri>https://news.ycombinator.com/user?id=socialdemocrat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[異步Rust。什麼是運行時？以下是tokio在引擎蓋下的工作方式
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>danlenton</name>
             <uri>https://news.ycombinator.com/user?id=danlenton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用GPT-3來解釋代碼的工作原理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036224</id>
-        <link href="https://news.ycombinator.com/item?id=32036224"/>
-        <updated>2022-07-09T15:53:35.000Z</updated>
-        <summary type="html"><![CDATA[Using GPT-3 to explain how code works]]></summary>
-        <author>
-            <name>simonw</name>
-            <uri>https://news.ycombinator.com/user?id=simonw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify的黑暗面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034643</id>
-        <link href="https://news.ycombinator.com/item?id=32034643"/>
-        <updated>2022-07-09T12:57:06.000Z</updated>
-        <summary type="html"><![CDATA[The dark side of Shopify]]></summary>
-        <author>
-            <name>danpalmer</name>
-            <uri>https://news.ycombinator.com/user?id=danpalmer</uri>
         </author>
     </entry>
 </feed>
