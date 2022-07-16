@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-16T08:35:06.921Z</updated>
+    <updated>2022-07-16T09:26:33.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我刪除了我的Redis容器的78%，它仍然工作。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116070</id>
+        <link href="https://news.ycombinator.com/item?id=32116070"/>
+        <updated>2022-07-16T07:57:09.000Z</updated>
+        <summary type="html"><![CDATA[I deleted 78% of my Redis container and it still works]]></summary>
+        <author>
+            <name>codervinod</name>
+            <uri>https://news.ycombinator.com/user?id=codervinod</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出口的認證器。通往RFC的漫長道路
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32104899</id>
+        <link href="https://news.ycombinator.com/item?id=32104899"/>
+        <updated>2022-07-15T05:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Exported Authenticators: The long road to RFC]]></summary>
+        <author>
+            <name>weinzierl</name>
+            <uri>https://news.ycombinator.com/user?id=weinzierl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於比爾-沃特森拒絕許可《卡爾文與霍布斯》的問題
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python中的負類型。不是某種類型的類型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034403</id>
-        <link href="https://news.ycombinator.com/item?id=32034403"/>
-        <updated>2022-07-09T12:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Negatypes in Python: A type that is not some type]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[點燃。液體火箭推進劑的非正式歷史 (1972) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036054</id>
-        <link href="https://news.ycombinator.com/item?id=32036054"/>
-        <updated>2022-07-09T15:39:51.000Z</updated>
-        <summary type="html"><![CDATA[Ignition: An Informal History of Liquid Rocket Propellants (1972) [pdf]]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
