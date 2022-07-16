@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-16T04:55:22.436Z</updated>
+    <updated>2022-07-16T05:26:41.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[實驗之書》（1958年） [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32115354</id>
+        <link href="https://news.ycombinator.com/item?id=32115354"/>
+        <updated>2022-07-16T05:00:54.000Z</updated>
+        <summary type="html"><![CDATA[The Book of Experiments (1958) [pdf]]]></summary>
+        <author>
+            <name>snee</name>
+            <uri>https://news.ycombinator.com/user?id=snee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OctoSQL允許你使用SQL連接來自不同來源的數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32093002</id>
+        <link href="https://news.ycombinator.com/item?id=32093002"/>
+        <updated>2022-07-14T07:21:36.000Z</updated>
+        <summary type="html"><![CDATA[OctoSQL allows you to join data from different sources using SQL]]></summary>
+        <author>
+            <name>BerislavLopac</name>
+            <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究。酒精對40歲以下的人來說絕非好事
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Silica6149</name>
             <uri>https://news.ycombinator.com/user?id=Silica6149</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解和優化持久性內存分配(2020) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033208</id>
-        <link href="https://news.ycombinator.com/item?id=32033208"/>
-        <updated>2022-07-09T08:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Understanding and optimizing persistent memory allocation (2020) [pdf]]]></summary>
-        <author>
-            <name>romesmoke</name>
-            <uri>https://news.ycombinator.com/user?id=romesmoke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對阿波羅飛船的調頻收音機進行逆向設計
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033724</id>
-        <link href="https://news.ycombinator.com/item?id=32033724"/>
-        <updated>2022-07-09T10:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Reverse-engineering the Apollo spacecraft's FM radio]]></summary>
-        <author>
-            <name>lycopodiopsida</name>
-            <uri>https://news.ycombinator.com/user?id=lycopodiopsida</uri>
         </author>
     </entry>
 </feed>
