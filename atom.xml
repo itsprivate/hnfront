@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-17T19:25:39.964Z</updated>
+    <updated>2022-07-17T19:44:36.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[脸书已开始加密链接，以应对改善隐私的URL Stripping
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32129100</id>
+        <link href="https://news.ycombinator.com/item?id=32129100"/>
+        <updated>2022-07-17T17:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Facebook has started to encrypt links to counter privacy-improving URL Stripping]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOLOv7--工作原理的细分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32128081</id>
+        <link href="https://news.ycombinator.com/item?id=32128081"/>
+        <updated>2022-07-17T16:14:33.000Z</updated>
+        <summary type="html"><![CDATA[YOLOv7 – A breakdown of how it works]]></summary>
+        <author>
+            <name>j-sizz</name>
+            <uri>https://news.ycombinator.com/user?id=j-sizz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们需要数据 - Lucid和Eduction的故事
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创》改变了电影业，预言了科技的未来
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033622</id>
-        <link href="https://news.ycombinator.com/item?id=32033622"/>
-        <updated>2022-07-09T10:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Tron changed cinema, predicted the future of tech]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汽车报废品正在爆炸。这是个坏兆头
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32050993</id>
-        <link href="https://news.ycombinator.com/item?id=32050993"/>
-        <updated>2022-07-11T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Car Repos Are Exploding. That’s a Bad Omen]]></summary>
-        <author>
-            <name>jbonniwell</name>
-            <uri>https://news.ycombinator.com/user?id=jbonniwell</uri>
         </author>
     </entry>
 </feed>
