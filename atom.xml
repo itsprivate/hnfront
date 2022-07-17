@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-17T15:30:17.296Z</updated>
+    <updated>2022-07-17T15:50:05.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乔治-奥威尔1940年对《我的奋斗》的评论
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32127622</id>
+        <link href="https://news.ycombinator.com/item?id=32127622"/>
+        <updated>2022-07-17T15:25:42.000Z</updated>
+        <summary type="html"><![CDATA[George Orwell’s 1940 Review of Mein Kampf]]></summary>
+        <author>
+            <name>Edmond</name>
+            <uri>https://news.ycombinator.com/user?id=Edmond</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ʕ-ᴥ-ʔ熊。一个隐私至上、无忧无虑、超级快速的博客平台
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ComodoHacker</name>
             <uri>https://news.ycombinator.com/user?id=ComodoHacker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊极光支持PostgreSQL 14
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32047245</id>
-        <link href="https://news.ycombinator.com/item?id=32047245"/>
-        <updated>2022-07-10T18:10:36.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora Supports PostgreSQL 14]]></summary>
-        <author>
-            <name>schranz</name>
-            <uri>https://news.ycombinator.com/user?id=schranz</uri>
         </author>
     </entry>
 </feed>
