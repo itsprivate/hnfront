@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-17T13:57:32.562Z</updated>
+    <updated>2022-07-17T14:25:20.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立一個具有自動深度控制功能的無線電控制潛艇
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32125933</id>
+        <link href="https://news.ycombinator.com/item?id=32125933"/>
+        <updated>2022-07-17T11:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Building a radio-controlled submarine with automatic depth control]]></summary>
+        <author>
+            <name>mik3y</name>
+            <uri>https://news.ycombinator.com/user?id=mik3y</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript中的整數數學
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32106442</id>
+        <link href="https://news.ycombinator.com/item?id=32106442"/>
+        <updated>2022-07-15T09:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Integer Math in JavaScript]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我已經開始使用Mozilla Firefox，現在我再也無法回到谷歌瀏覽器了。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>turtlegrids</name>
             <uri>https://news.ycombinator.com/user?id=turtlegrids</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金藏的詛咒
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32045691</id>
-        <link href="https://news.ycombinator.com/item?id=32045691"/>
-        <updated>2022-07-10T15:37:10.000Z</updated>
-        <summary type="html"><![CDATA[The Curse of Konzo]]></summary>
-        <author>
-            <name>CobaltFire</name>
-            <uri>https://news.ycombinator.com/user?id=CobaltFire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生物學家能修好無線電嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32045192</id>
-        <link href="https://news.ycombinator.com/item?id=32045192"/>
-        <updated>2022-07-10T14:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Can a Biologist Fix a Radio?]]></summary>
-        <author>
-            <name>tambourine_man</name>
-            <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
         </author>
     </entry>
 </feed>
