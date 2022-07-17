@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-17T08:32:45.122Z</updated>
+    <updated>2022-07-17T09:26:52.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德黑蘭的紅燈區
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32123655</id>
+        <link href="https://news.ycombinator.com/item?id=32123655"/>
+        <updated>2022-07-17T01:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Tehran’s Red-Light District]]></summary>
+        <author>
+            <name>SirLJ</name>
+            <uri>https://news.ycombinator.com/user?id=SirLJ</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自動啟動 "是否意味著 "自動啟動"？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>1sembiyan</name>
             <uri>https://news.ycombinator.com/user?id=1sembiyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[持續交付測試
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033673</id>
-        <link href="https://news.ycombinator.com/item?id=32033673"/>
-        <updated>2022-07-09T10:31:36.000Z</updated>
-        <summary type="html"><![CDATA[The Continuous Delivery Test]]></summary>
-        <author>
-            <name>sourceless</name>
-            <uri>https://news.ycombinator.com/user?id=sourceless</uri>
         </author>
     </entry>
 </feed>
