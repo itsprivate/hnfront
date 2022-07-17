@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-17T09:59:32.135Z</updated>
+    <updated>2022-07-17T10:29:42.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么串联式编程很重要
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32124621</id>
+        <link href="https://news.ycombinator.com/item?id=32124621"/>
+        <updated>2022-07-17T05:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Why Concatenative Programming Matters]]></summary>
+        <author>
+            <name>codewithcheese</name>
+            <uri>https://news.ycombinator.com/user?id=codewithcheese</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何处理儿童的网络习惯？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>edent</name>
             <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当美国空军发现平均数的缺陷时
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033157</id>
-        <link href="https://news.ycombinator.com/item?id=32033157"/>
-        <updated>2022-07-09T08:44:00.000Z</updated>
-        <summary type="html"><![CDATA[When U.S. Air Force discovered the flaw of averages]]></summary>
-        <author>
-            <name>skanderbm</name>
-            <uri>https://news.ycombinator.com/user?id=skanderbm</uri>
         </author>
     </entry>
 </feed>
