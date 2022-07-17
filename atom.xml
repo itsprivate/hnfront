@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-17T03:59:26.296Z</updated>
+    <updated>2022-07-17T04:44:11.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我刚刚读完一本书，做了很多笔记。现在怎么办？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32123781</id>
+        <link href="https://news.ycombinator.com/item?id=32123781"/>
+        <updated>2022-07-17T02:05:13.000Z</updated>
+        <summary type="html"><![CDATA[I just finished reading a book and took lots of notes. Now what?]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[费尔南多-佩索阿的文学游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32111909</id>
+        <link href="https://news.ycombinator.com/item?id=32111909"/>
+        <updated>2022-07-15T19:34:41.000Z</updated>
+        <summary type="html"><![CDATA[The Literary Games of Fernando Pessoa]]></summary>
+        <author>
+            <name>Caiero</name>
+            <uri>https://news.ycombinator.com/user?id=Caiero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维基百科。长期虐待
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tulustul</name>
             <uri>https://news.ycombinator.com/user?id=tulustul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科维德的学习损失已成为一场全球灾难
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32043571</id>
-        <link href="https://news.ycombinator.com/item?id=32043571"/>
-        <updated>2022-07-10T10:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Covid learning loss has been a global disaster]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CS101: 计算机原理介绍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32043433</id>
-        <link href="https://news.ycombinator.com/item?id=32043433"/>
-        <updated>2022-07-10T10:29:57.000Z</updated>
-        <summary type="html"><![CDATA[CS101: Introduction to Computing Principles]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
