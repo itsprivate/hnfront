@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-18T06:39:30.550Z</updated>
+    <updated>2022-07-18T07:45:44.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[cat(1)的效率能有多高？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135432</id>
+        <link href="https://news.ycombinator.com/item?id=32135432"/>
+        <updated>2022-07-18T06:42:21.000Z</updated>
+        <summary type="html"><![CDATA[How efficient can cat(1) be?]]></summary>
+        <author>
+            <name>benhoyt</name>
+            <uri>https://news.ycombinator.com/user?id=benhoyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼今天要讀費希特？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32124690</id>
+        <link href="https://news.ycombinator.com/item?id=32124690"/>
+        <updated>2022-07-17T05:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Why Read Fichte Today?]]></summary>
+        <author>
+            <name>diodorus</name>
+            <uri>https://news.ycombinator.com/user?id=diodorus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於將新加坡銀行的txn報表轉換為合理格式的CLI工具
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯-韋伯太空望遠鏡的第2天操作即將開始
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32055633</id>
-        <link href="https://news.ycombinator.com/item?id=32055633"/>
-        <updated>2022-07-11T13:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Day 2 Operations with the James Webb Space Telescope is about to begin]]></summary>
-        <author>
-            <name>flyingbarron</name>
-            <uri>https://news.ycombinator.com/user?id=flyingbarron</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用於編碼和終端的默認字體是什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32055600</id>
-        <link href="https://news.ycombinator.com/item?id=32055600"/>
-        <updated>2022-07-11T13:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is your default font for coding and terminal?]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
         </author>
     </entry>
 </feed>
