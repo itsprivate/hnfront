@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-18T09:02:11.974Z</updated>
+    <updated>2022-07-18T09:32:15.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube已經達到頂峰了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135992</id>
+        <link href="https://news.ycombinator.com/item?id=32135992"/>
+        <updated>2022-07-18T08:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has YouTube Peaked?]]></summary>
+        <author>
+            <name>mouzogu</name>
+            <uri>https://news.ycombinator.com/user?id=mouzogu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回顧蘇聯的計算機工業
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>oskr</name>
             <uri>https://news.ycombinator.com/user?id=oskr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AllenNLP在12月將不進行維護
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32056189</id>
-        <link href="https://news.ycombinator.com/item?id=32056189"/>
-        <updated>2022-07-11T13:57:01.000Z</updated>
-        <summary type="html"><![CDATA[AllenNLP will be unmaintained in December]]></summary>
-        <author>
-            <name>lgessler</name>
-            <uri>https://news.ycombinator.com/user?id=lgessler</uri>
         </author>
     </entry>
 </feed>
