@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-21T18:42:53.976Z</updated>
+    <updated>2022-07-21T19:09:42.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對黑客新聞的評論
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32183169</id>
+        <link href="https://news.ycombinator.com/item?id=32183169"/>
+        <updated>2022-07-21T18:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Commenting on Hacker News]]></summary>
+        <author>
+            <name>superb-owl</name>
+            <uri>https://news.ycombinator.com/user?id=superb-owl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們忽視了每天數以千計的車禍？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32183007</id>
+        <link href="https://news.ycombinator.com/item?id=32183007"/>
+        <updated>2022-07-21T18:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Why We Ignore Thousands of Daily Car Crashes]]></summary>
+        <author>
+            <name>oftenwrong</name>
+            <uri>https://news.ycombinator.com/user?id=oftenwrong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隨機存取存儲器的誕生
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jgrahamc</name>
             <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多米諾公司花5040萬美元做電視廣告，吹噓10萬美元的捐款
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32070067</id>
-        <link href="https://news.ycombinator.com/item?id=32070067"/>
-        <updated>2022-07-12T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Domino's spent $50.4M on TV ads to brag about $100k donation]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[照片總是指著指針
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069578</id>
-        <link href="https://news.ycombinator.com/item?id=32069578"/>
-        <updated>2022-07-12T13:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Photos Always Pointing the Pointer]]></summary>
-        <author>
-            <name>Gedxx</name>
-            <uri>https://news.ycombinator.com/user?id=Gedxx</uri>
         </author>
     </entry>
 </feed>
