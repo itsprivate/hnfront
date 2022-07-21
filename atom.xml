@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-21T22:32:13.475Z</updated>
+    <updated>2022-07-21T23:32:41.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你知道哪些 "酷 "但晦涩难懂的数据结构？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32186203</id>
+        <link href="https://news.ycombinator.com/item?id=32186203"/>
+        <updated>2022-07-21T22:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some 'cool' but obscure data structures you know about?]]></summary>
+        <author>
+            <name>Uptrenda</name>
+            <uri>https://news.ycombinator.com/user?id=Uptrenda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何估计磁盘空间
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32149730</id>
+        <link href="https://news.ycombinator.com/item?id=32149730"/>
+        <updated>2022-07-19T10:39:38.000Z</updated>
+        <summary type="html"><![CDATA[How to Estimate Disk Space]]></summary>
+        <author>
+            <name>lma21</name>
+            <uri>https://news.ycombinator.com/user?id=lma21</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[确保物联网中的名称解析。通过CoAP的DNS
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>logankilpatrick</name>
             <uri>https://news.ycombinator.com/user?id=logankilpatrick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[返回堆栈缓冲区下溢--重读（英特尔）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32071913</id>
-        <link href="https://news.ycombinator.com/item?id=32071913"/>
-        <updated>2022-07-12T16:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Return Stack Buffer Underflow – Retbleed (Intel)]]></summary>
-        <author>
-            <name>ndesaulniers</name>
-            <uri>https://news.ycombinator.com/user?id=ndesaulniers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特的魔力 "Bitwise"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32052247</id>
-        <link href="https://news.ycombinator.com/item?id=32052247"/>
-        <updated>2022-07-11T04:35:32.000Z</updated>
-        <summary type="html"><![CDATA[The Magic of Bits “Bitwise”]]></summary>
-        <author>
-            <name>CoolerVoid</name>
-            <uri>https://news.ycombinator.com/user?id=CoolerVoid</uri>
         </author>
     </entry>
 </feed>
