@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 21:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 22:32:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[確保物聯網中的名稱解析。通過CoAP的DNS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32167256</link>
+            <guid>https://news.ycombinator.com/item?id=32167256</guid>
+            <pubDate>Wed, 20 Jul 2022 15:34:10 GMT</pubDate>
+            <description><![CDATA[Securing name resolution in the IoT: DNS over CoAP]]></description>
+        </item>
         <item>
             <title><![CDATA[茵薇姿
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32052247</guid>
             <pubDate>Mon, 11 Jul 2022 04:35:32 GMT</pubDate>
             <description><![CDATA[The Magic of Bits “Bitwise”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pachyderm正在為DevRel招聘，以宣傳以數據為中心的可重複性管道。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32072772</link>
-            <guid>https://news.ycombinator.com/item?id=32072772</guid>
-            <pubDate>Tue, 12 Jul 2022 17:00:00 GMT</pubDate>
-            <description><![CDATA[Pachyderm is hiring for DevRel to evangelize reproducible data-centric pipelines]]></description>
         </item>
     </channel>
 </rss>
