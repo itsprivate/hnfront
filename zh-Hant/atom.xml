@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-21T20:36:13.187Z</updated>
+    <updated>2022-07-21T20:52:19.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[太陽耀斑可能導致鐵路延誤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32184258</id>
+        <link href="https://news.ycombinator.com/item?id=32184258"/>
+        <updated>2022-07-21T20:05:15.000Z</updated>
+        <summary type="html"><![CDATA[Solar flares could cause delays on the railways]]></summary>
+        <author>
+            <name>zeristor</name>
+            <uri>https://news.ycombinator.com/user?id=zeristor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQLite 3.39.2
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>crhulls</name>
             <uri>https://news.ycombinator.com/user?id=crhulls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創新的未來有無專利的標準
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32070937</id>
-        <link href="https://news.ycombinator.com/item?id=32070937"/>
-        <updated>2022-07-12T14:57:55.000Z</updated>
-        <summary type="html"><![CDATA[The future of innovation has patent-free standards]]></summary>
-        <author>
-            <name>reedciccio</name>
-            <uri>https://news.ycombinator.com/user?id=reedciccio</uri>
         </author>
     </entry>
 </feed>
