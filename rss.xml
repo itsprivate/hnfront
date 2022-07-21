@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 15:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 15:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大多数美国人认为美国宇航局100亿美元的太空望远镜是一项好的投资
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32180196</link>
+            <guid>https://news.ycombinator.com/item?id=32180196</guid>
+            <pubDate>Thu, 21 Jul 2022 15:00:13 GMT</pubDate>
+            <description><![CDATA[Most Americans think NASA’s $10B space telescope is a good investment]]></description>
+        </item>
+        <item>
+            <title><![CDATA[索尼的赛车人工智能通过友好（和快速）摧毁了其人类竞争对手
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32162966</link>
+            <guid>https://news.ycombinator.com/item?id=32162966</guid>
+            <pubDate>Wed, 20 Jul 2022 08:29:10 GMT</pubDate>
+            <description><![CDATA[Sony’s racing AI destroyed its human competitors by being nice (and fast)]]></description>
+        </item>
         <item>
             <title><![CDATA[Pg_jsonschema - 一个用于JSON验证的Postgres扩展。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32066283</guid>
             <pubDate>Tue, 12 Jul 2022 06:19:11 GMT</pubDate>
             <description><![CDATA[Japan Proposes a Wild Concept for Making Artificial Gravity on the Moon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[滚动式PWN漏洞影响到所有本田汽车
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32066201</link>
-            <guid>https://news.ycombinator.com/item?id=32066201</guid>
-            <pubDate>Tue, 12 Jul 2022 06:04:32 GMT</pubDate>
-            <description><![CDATA[Rolling-PWN vulnerability affects all Honda vehicles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rust编程一个类似流氓的东西
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32067019</link>
-            <guid>https://news.ycombinator.com/item?id=32067019</guid>
-            <pubDate>Tue, 12 Jul 2022 08:29:20 GMT</pubDate>
-            <description><![CDATA[Programming a Rogue-Like with Rust]]></description>
         </item>
     </channel>
 </rss>
