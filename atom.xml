@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-21T17:48:30.327Z</updated>
+    <updated>2022-07-21T18:42:53.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随机存取存储器的诞生
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32182684</id>
+        <link href="https://news.ycombinator.com/item?id=32182684"/>
+        <updated>2022-07-21T18:06:41.000Z</updated>
+        <summary type="html"><![CDATA[The Birth of Random-Access Memory]]></summary>
+        <author>
+            <name>2517AD</name>
+            <uri>https://news.ycombinator.com/user?id=2517AD</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁保存了希腊文学？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32161367</id>
+        <link href="https://news.ycombinator.com/item?id=32161367"/>
+        <updated>2022-07-20T04:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Who Preserved Greek Literature?]]></summary>
+        <author>
+            <name>jorgesborges</name>
+            <uri>https://news.ycombinator.com/user?id=jorgesborges</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们没有一百个偏见，我们有错误的模式
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Gedxx</name>
             <uri>https://news.ycombinator.com/user?id=Gedxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们正在努力（最终）将尾部调用纳入WebAssembly标准中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069418</id>
-        <link href="https://news.ycombinator.com/item?id=32069418"/>
-        <updated>2022-07-12T13:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We are trying to (finally) get tail-calls into the WebAssembly standard]]></summary>
-        <author>
-            <name>apignotti</name>
-            <uri>https://news.ycombinator.com/user?id=apignotti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杀死尖塔》--一个roguelike卡组建设视频游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069374</id>
-        <link href="https://news.ycombinator.com/item?id=32069374"/>
-        <updated>2022-07-12T13:12:16.000Z</updated>
-        <summary type="html"><![CDATA[Slay the Spire – a roguelike deck-building video game]]></summary>
-        <author>
-            <name>sogen</name>
-            <uri>https://news.ycombinator.com/user?id=sogen</uri>
         </author>
     </entry>
 </feed>
