@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-21T04:58:44.130Z</updated>
+    <updated>2022-07-21T05:38:28.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个关于 "Yes "Unix命令的小故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32175328</id>
+        <link href="https://news.ycombinator.com/item?id=32175328"/>
+        <updated>2022-07-21T03:10:01.000Z</updated>
+        <summary type="html"><![CDATA[A Little Story About the `Yes` Unix Command]]></summary>
+        <author>
+            <name>derwiki</name>
+            <uri>https://news.ycombinator.com/user?id=derwiki</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷蒙德-苏斯特，多伦多的吟游诗人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32158268</id>
+        <link href="https://news.ycombinator.com/item?id=32158268"/>
+        <updated>2022-07-19T21:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Raymond Souster, the Bard of Toronto]]></summary>
+        <author>
+            <name>Caiero</name>
+            <uri>https://news.ycombinator.com/user?id=Caiero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OkSo - 具有分层绘图/草图结构的绘图应用程序
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mdp2021</name>
             <uri>https://news.ycombinator.com/user?id=mdp2021</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[避免图像布局偏移（CLS）：长宽比与宽度和高度的关系
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32060597</id>
-        <link href="https://news.ycombinator.com/item?id=32060597"/>
-        <updated>2022-07-11T19:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding image layout shifts (CLS): aspect-ratio vs. width and height]]></summary>
-        <author>
-            <name>angelmm</name>
-            <uri>https://news.ycombinator.com/user?id=angelmm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国公司合作开发核回收技术
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32060216</id>
-        <link href="https://news.ycombinator.com/item?id=32060216"/>
-        <updated>2022-07-11T18:57:14.000Z</updated>
-        <summary type="html"><![CDATA[US companies partner on nuclear recycling technology]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
