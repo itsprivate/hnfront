@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-21T09:37:37.361Z</updated>
+    <updated>2022-07-21T10:01:48.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：今天我在网上赚了第一个 "钱"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32177053</id>
+        <link href="https://news.ycombinator.com/item?id=32177053"/>
+        <updated>2022-07-21T08:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Today I made my first “bucks” on the web]]></summary>
+        <author>
+            <name>out_sider</name>
+            <uri>https://news.ycombinator.com/user?id=out_sider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国的新数据法可能与欧盟的GDPR不兼容
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robin_reala</name>
             <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MedMe Health（YC W21）正在招聘一名高级工程师，在这个经济? (远程)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32063137</id>
-        <link href="https://news.ycombinator.com/item?id=32063137"/>
-        <updated>2022-07-11T22:47:30.000Z</updated>
-        <summary type="html"><![CDATA[MedMe Health (YC W21) is hiring a Senior Engineer, in this economy? (Remote)]]></summary>
-        <author>
-            <name>ruisu</name>
-            <uri>https://news.ycombinator.com/user?id=ruisu</uri>
         </author>
     </entry>
 </feed>
