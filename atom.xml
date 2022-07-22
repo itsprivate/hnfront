@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-22T22:48:12.655Z</updated>
+    <updated>2022-07-22T23:01:37.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[转移到zsh（2019年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32186638</id>
+        <link href="https://news.ycombinator.com/item?id=32186638"/>
+        <updated>2022-07-21T23:40:04.000Z</updated>
+        <summary type="html"><![CDATA[Moving to zsh (2019)]]></summary>
+        <author>
+            <name>indigodaddy</name>
+            <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[青少年正在改写竞技俄罗斯方块世界的可能性
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kelvich</name>
             <uri>https://news.ycombinator.com/user?id=kelvich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当Rustc爆炸的时候
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32086973</id>
-        <link href="https://news.ycombinator.com/item?id=32086973"/>
-        <updated>2022-07-13T18:39:32.000Z</updated>
-        <summary type="html"><![CDATA[When Rustc Explodes]]></summary>
-        <author>
-            <name>milen</name>
-            <uri>https://news.ycombinator.com/user?id=milen</uri>
         </author>
     </entry>
 </feed>
