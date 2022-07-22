@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:37:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[cve-2022-31163: TZinfo中的任意文件執行 (Ruby)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32188816</link>
+            <guid>https://news.ycombinator.com/item?id=32188816</guid>
+            <pubDate>Fri, 22 Jul 2022 05:25:47 GMT</pubDate>
+            <description><![CDATA[CVE-2022-31163: Arbitrary file execution in TZinfo (Ruby)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[膝蓋能超過腳趾嗎？(2016)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32163690</link>
+            <guid>https://news.ycombinator.com/item?id=32163690</guid>
+            <pubDate>Wed, 20 Jul 2022 10:23:22 GMT</pubDate>
+            <description><![CDATA[Can the Knees Go over the Toes? (2016)]]></description>
+        </item>
         <item>
             <title><![CDATA[Coinbase不列出證券。故事結束
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32076677</guid>
             <pubDate>Tue, 12 Jul 2022 22:40:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Has anyone here worked on the Windows kernel?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雲之街 (2006)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32061193</link>
-            <guid>https://news.ycombinator.com/item?id=32061193</guid>
-            <pubDate>Mon, 11 Jul 2022 20:14:36 GMT</pubDate>
-            <description><![CDATA[Cloud Streets (2006)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BLOOM：最大的開放式多語種語言模型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32067705</link>
-            <guid>https://news.ycombinator.com/item?id=32067705</guid>
-            <pubDate>Tue, 12 Jul 2022 09:58:41 GMT</pubDate>
-            <description><![CDATA[BLOOM: The largest open multilingual language model]]></description>
         </item>
     </channel>
 </rss>

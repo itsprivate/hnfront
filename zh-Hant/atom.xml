@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-22T05:59:01.065Z</updated>
+    <updated>2022-07-22T06:37:57.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[cve-2022-31163: TZinfo中的任意文件執行 (Ruby)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32188816</id>
+        <link href="https://news.ycombinator.com/item?id=32188816"/>
+        <updated>2022-07-22T05:25:47.000Z</updated>
+        <summary type="html"><![CDATA[CVE-2022-31163: Arbitrary file execution in TZinfo (Ruby)]]></summary>
+        <author>
+            <name>Ichaelus</name>
+            <uri>https://news.ycombinator.com/user?id=Ichaelus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[膝蓋能超過腳趾嗎？(2016)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32163690</id>
+        <link href="https://news.ycombinator.com/item?id=32163690"/>
+        <updated>2022-07-20T10:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Can the Knees Go over the Toes? (2016)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase不列出證券。故事結束
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>maybekerneldev</name>
             <uri>https://news.ycombinator.com/user?id=maybekerneldev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雲之街 (2006)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32061193</id>
-        <link href="https://news.ycombinator.com/item?id=32061193"/>
-        <updated>2022-07-11T20:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Cloud Streets (2006)]]></summary>
-        <author>
-            <name>rfreytag</name>
-            <uri>https://news.ycombinator.com/user?id=rfreytag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLOOM：最大的開放式多語種語言模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067705</id>
-        <link href="https://news.ycombinator.com/item?id=32067705"/>
-        <updated>2022-07-12T09:58:41.000Z</updated>
-        <summary type="html"><![CDATA[BLOOM: The largest open multilingual language model]]></summary>
-        <author>
-            <name>georgehill</name>
-            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
         </author>
     </entry>
 </feed>
