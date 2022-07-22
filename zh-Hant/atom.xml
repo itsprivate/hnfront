@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-22T21:29:30.765Z</updated>
+    <updated>2022-07-22T21:47:15.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們將需要大量的太陽能電池板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197012</id>
+        <link href="https://news.ycombinator.com/item?id=32197012"/>
+        <updated>2022-07-22T20:54:53.000Z</updated>
+        <summary type="html"><![CDATA[We're going to need a lot of solar panels]]></summary>
+        <author>
+            <name>lionheart</name>
+            <uri>https://news.ycombinator.com/user?id=lionheart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesorio獲得B輪融資，正在招聘高級前端工程師和支持工程師
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 3.1 Flash版
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32066141</id>
-        <link href="https://news.ycombinator.com/item?id=32066141"/>
-        <updated>2022-07-12T05:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Windows 3.1 Flash Edition]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
