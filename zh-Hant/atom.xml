@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-22T23:30:57.965Z</updated>
+    <updated>2022-07-22T23:48:06.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客實驗室即將關閉
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197708</id>
+        <link href="https://news.ycombinator.com/item?id=32197708"/>
+        <updated>2022-07-22T22:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Hacker Lab Is Closing]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌解僱了稱其人工智能為有知覺的工程師Blake Lemoine
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chazeon</name>
             <uri>https://news.ycombinator.com/user?id=chazeon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Windows 3.1x的類似Windows 95的外殼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32088487</id>
-        <link href="https://news.ycombinator.com/item?id=32088487"/>
-        <updated>2022-07-13T20:42:06.000Z</updated>
-        <summary type="html"><![CDATA[A Windows 95-like shell for Windows 3.1x]]></summary>
-        <author>
-            <name>notpushkin</name>
-            <uri>https://news.ycombinator.com/user?id=notpushkin</uri>
         </author>
     </entry>
 </feed>
