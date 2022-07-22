@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-22T09:49:17.236Z</updated>
+    <updated>2022-07-22T11:01:26.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hg Init: Mercurial教程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32176554</id>
+        <link href="https://news.ycombinator.com/item?id=32176554"/>
+        <updated>2022-07-21T06:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Hg Init: A Mercurial Tutorial]]></summary>
+        <author>
+            <name>captn3m0</name>
+            <uri>https://news.ycombinator.com/user?id=captn3m0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E-ZPass引入后降低了周边地区的婴儿死亡率 [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>turtlegrids</name>
             <uri>https://news.ycombinator.com/user?id=turtlegrids</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胚胎细胞通过推拉来设定生长模式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32077265</id>
-        <link href="https://news.ycombinator.com/item?id=32077265"/>
-        <updated>2022-07-12T23:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Embryo Cells Set Patterns for Growth by Pushing and Pulling]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
