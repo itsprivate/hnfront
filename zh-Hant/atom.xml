@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-22T08:38:11.693Z</updated>
+    <updated>2022-07-22T09:32:18.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[符號性鏈接的問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190032</id>
+        <link href="https://news.ycombinator.com/item?id=32190032"/>
+        <updated>2022-07-22T09:04:10.000Z</updated>
+        <summary type="html"><![CDATA[The Trouble with Symbolic Links]]></summary>
+        <author>
+            <name>jwilk</name>
+            <uri>https://news.ycombinator.com/user?id=jwilk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個人的十八世紀大衣的生命 (2014)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jonnybgood</name>
             <uri>https://news.ycombinator.com/user?id=jonnybgood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌放慢招聘速度，只招聘 "技術和關鍵角色"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32077029</id>
-        <link href="https://news.ycombinator.com/item?id=32077029"/>
-        <updated>2022-07-12T23:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Google slowing hiring to “technical and critical roles” only]]></summary>
-        <author>
-            <name>obnauticus</name>
-            <uri>https://news.ycombinator.com/user?id=obnauticus</uri>
         </author>
     </entry>
 </feed>
