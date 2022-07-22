@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-22T18:00:52.511Z</updated>
+    <updated>2022-07-22T19:07:27.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SpatiaLite。扩展了SQLite核心，以支持空间SQL功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32195541</id>
+        <link href="https://news.ycombinator.com/item?id=32195541"/>
+        <updated>2022-07-22T18:34:05.000Z</updated>
+        <summary type="html"><![CDATA[SpatiaLite: Extends SQLite core to support Spatial SQL capabilities]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将电子表格变成网站设计
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32177051</id>
+        <link href="https://news.ycombinator.com/item?id=32177051"/>
+        <updated>2022-07-21T08:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Turn spreadsheets into website designs]]></summary>
+        <author>
+            <name>seestraw</name>
+            <uri>https://news.ycombinator.com/user?id=seestraw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一只打破生命之树的鸟儿
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sogen</name>
             <uri>https://news.ycombinator.com/user?id=sogen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[击败平均水平 (2001)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053575</id>
-        <link href="https://news.ycombinator.com/item?id=32053575"/>
-        <updated>2022-07-11T08:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Beating the Averages (2001)]]></summary>
-        <author>
-            <name>Akronymus</name>
-            <uri>https://news.ycombinator.com/user?id=Akronymus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我清洁我的眼镜
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32083753</id>
-        <link href="https://news.ycombinator.com/item?id=32083753"/>
-        <updated>2022-07-13T15:08:23.000Z</updated>
-        <summary type="html"><![CDATA[I Clean My Glasses]]></summary>
-        <author>
-            <name>ltratt</name>
-            <uri>https://news.ycombinator.com/user?id=ltratt</uri>
         </author>
     </entry>
 </feed>
