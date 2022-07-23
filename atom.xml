@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T07:44:40.907Z</updated>
+    <updated>2022-07-23T08:35:20.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用皮秒脉冲激光萃取法冷泡咖啡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190966</id>
+        <link href="https://news.ycombinator.com/item?id=32190966"/>
+        <updated>2022-07-22T11:52:28.000Z</updated>
+        <summary type="html"><![CDATA[Cold-brewing of coffee by picosecond-pulsed laser extraction]]></summary>
+        <author>
+            <name>bertolomeos</name>
+            <uri>https://news.ycombinator.com/user?id=bertolomeos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周KDE：大量的UI改进和错误修复
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>CVagts</name>
             <uri>https://news.ycombinator.com/user?id=CVagts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望有人告诉我关于使用Rabbitmq的事情(2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32091550</id>
-        <link href="https://news.ycombinator.com/item?id=32091550"/>
-        <updated>2022-07-14T03:10:20.000Z</updated>
-        <summary type="html"><![CDATA[What I Wish Someone Would Have Told Me About Using Rabbitmq (2020)]]></summary>
-        <author>
-            <name>rdoherty</name>
-            <uri>https://news.ycombinator.com/user?id=rdoherty</uri>
         </author>
     </entry>
 </feed>
