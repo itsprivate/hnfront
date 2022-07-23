@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T10:49:18.952Z</updated>
+    <updated>2022-07-23T11:27:43.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用groff寫我的博士論文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202209</id>
+        <link href="https://news.ycombinator.com/item?id=32202209"/>
+        <updated>2022-07-23T11:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Writing my PhD using groff]]></summary>
+        <author>
+            <name>yockyrr</name>
+            <uri>https://news.ycombinator.com/user?id=yockyrr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mountain Project - 攀巖指南。路線、照片和論壇
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32188955</id>
+        <link href="https://news.ycombinator.com/item?id=32188955"/>
+        <updated>2022-07-22T05:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Mountain Project – Rock Climbing Guides: Routes, Photos and Forum]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最後。嵌入
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mjshashank</name>
             <uri>https://news.ycombinator.com/user?id=mjshashank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仍然生長在挪威和瑞典邊境附近的最古老的樹木
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32092637</id>
-        <link href="https://news.ycombinator.com/item?id=32092637"/>
-        <updated>2022-07-14T06:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Oldest tree still growing near the Norwegian-Swedish border]]></summary>
-        <author>
-            <name>Manheim</name>
-            <uri>https://news.ycombinator.com/user?id=Manheim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元素（Matrix）增加了視頻/語音室
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32091679</id>
-        <link href="https://news.ycombinator.com/item?id=32091679"/>
-        <updated>2022-07-14T03:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Element (Matrix) adds video/voice rooms]]></summary>
-        <author>
-            <name>jarbus</name>
-            <uri>https://news.ycombinator.com/user?id=jarbus</uri>
         </author>
     </entry>
 </feed>
