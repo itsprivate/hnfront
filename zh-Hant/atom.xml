@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T21:26:28.437Z</updated>
+    <updated>2022-07-23T22:00:08.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對巴拿馬文件舉報人的首次採訪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32207225</id>
+        <link href="https://news.ycombinator.com/item?id=32207225"/>
+        <updated>2022-07-23T20:21:39.000Z</updated>
+        <summary type="html"><![CDATA[The First Interview with the Panama Papers Whistleblower]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneSignal（YC S11）正在招聘後端和全棧工程師
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>od0</name>
             <uri>https://news.ycombinator.com/user?id=od0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyxt 3預發佈1（一個由Lisp驅動的網絡瀏覽器）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32097424</id>
-        <link href="https://news.ycombinator.com/item?id=32097424"/>
-        <updated>2022-07-14T15:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Nyxt 3 Pre-release 1 (a Lisp powered web browser)]]></summary>
-        <author>
-            <name>arthureroberer</name>
-            <uri>https://news.ycombinator.com/user?id=arthureroberer</uri>
         </author>
     </entry>
 </feed>
