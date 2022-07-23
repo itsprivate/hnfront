@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T19:26:02.230Z</updated>
+    <updated>2022-07-23T20:30:47.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[焦油档案格式，以及为什么GNU焦油提取的时间是四次方的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32206579</id>
+        <link href="https://news.ycombinator.com/item?id=32206579"/>
+        <updated>2022-07-23T19:11:49.000Z</updated>
+        <summary type="html"><![CDATA[The tar archive format, and why GNU tar extracts in quadratic time]]></summary>
+        <author>
+            <name>mort96</name>
+            <uri>https://news.ycombinator.com/user?id=mort96</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界博览会充当了美国鸡尾酒独创性的展示舞台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32195352</id>
+        <link href="https://news.ycombinator.com/item?id=32195352"/>
+        <updated>2022-07-22T18:20:32.000Z</updated>
+        <summary type="html"><![CDATA[World’s fairs acted as showcases for American cocktail ingenuity]]></summary>
+        <author>
+            <name>samclemens</name>
+            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沙特阿拉伯计划建造一座绵延75英里的摩天大楼
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jart</name>
             <uri>https://news.ycombinator.com/user?id=jart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戈多：在2022年制作C#游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32096575</id>
-        <link href="https://news.ycombinator.com/item?id=32096575"/>
-        <updated>2022-07-14T14:35:28.000Z</updated>
-        <summary type="html"><![CDATA[Godot: making C# games in 2022]]></summary>
-        <author>
-            <name>proxybop</name>
-            <uri>https://news.ycombinator.com/user?id=proxybop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曼哈顿租金首次突破5千美元门槛
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32094640</id>
-        <link href="https://news.ycombinator.com/item?id=32094640"/>
-        <updated>2022-07-14T11:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Manhattan rents cross $5k threshold for first time]]></summary>
-        <author>
-            <name>rascul</name>
-            <uri>https://news.ycombinator.com/user?id=rascul</uri>
         </author>
     </entry>
 </feed>
