@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T07:27:36.625Z</updated>
+    <updated>2022-07-23T07:44:40.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本周KDE：大量的UI改进和错误修复
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201145</id>
+        <link href="https://news.ycombinator.com/item?id=32201145"/>
+        <updated>2022-07-23T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[This week in KDE: Tons of UI improvements and bugfixes]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flexport公司正在招聘软件工程师
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rdoherty</name>
             <uri>https://news.ycombinator.com/user?id=rdoherty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机语言词典
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32052292</id>
-        <link href="https://news.ycombinator.com/item?id=32052292"/>
-        <updated>2022-07-11T04:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Dictionary for Computer Languages]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
