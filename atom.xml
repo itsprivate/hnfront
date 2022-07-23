@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T08:35:20.225Z</updated>
+    <updated>2022-07-23T08:54:14.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[游戏引擎不仅仅是粘在一起的库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32200121</id>
+        <link href="https://news.ycombinator.com/item?id=32200121"/>
+        <updated>2022-07-23T03:42:21.000Z</updated>
+        <summary type="html"><![CDATA[Game engines are more than libraries glued together]]></summary>
+        <author>
+            <name>alice-i-cecile</name>
+            <uri>https://news.ycombinator.com/user?id=alice-i-cecile</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用皮秒脉冲激光萃取法冷泡咖啡
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>afrcnc</name>
             <uri>https://news.ycombinator.com/user?id=afrcnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国对金融犯罪不闻不问
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32091592</id>
-        <link href="https://news.ycombinator.com/item?id=32091592"/>
-        <updated>2022-07-14T03:19:37.000Z</updated>
-        <summary type="html"><![CDATA[US Doesn't Care About Financial Crimes]]></summary>
-        <author>
-            <name>CVagts</name>
-            <uri>https://news.ycombinator.com/user?id=CVagts</uri>
         </author>
     </entry>
 </feed>
