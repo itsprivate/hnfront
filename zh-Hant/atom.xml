@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T14:28:12.800Z</updated>
+    <updated>2022-07-23T14:46:46.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[過去10年中，Windows的市場份額下降了17%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202549</id>
+        <link href="https://news.ycombinator.com/item?id=32202549"/>
+        <updated>2022-07-23T12:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Windows' market share declined 17 percent in the past 10 years]]></summary>
+        <author>
+            <name>neverminder</name>
+            <uri>https://news.ycombinator.com/user?id=neverminder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[語言模型是否被剝奪了電睡眠？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoDaddy鎖定了Chrome的衍生產品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32093987</id>
-        <link href="https://news.ycombinator.com/item?id=32093987"/>
-        <updated>2022-07-14T09:56:15.000Z</updated>
-        <summary type="html"><![CDATA[GoDaddy locks out derivatives of Chrome]]></summary>
-        <author>
-            <name>mrspence</name>
-            <uri>https://news.ycombinator.com/user?id=mrspence</uri>
         </author>
     </entry>
 </feed>
