@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T13:21:33.339Z</updated>
+    <updated>2022-07-23T13:47:56.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes上的Kafka。會出什麼問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202771</id>
+        <link href="https://news.ycombinator.com/item?id=32202771"/>
+        <updated>2022-07-23T12:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Kafka on Kubernetes: What could go wrong?]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對於小眾語言（Nim, crystal）來說，就業市場是怎樣的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>indigodaddy</name>
             <uri>https://news.ycombinator.com/user?id=indigodaddy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐盟立法者抨擊 "激進提案"，允許互聯網服務供應商向網站要求新的費用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32093649</id>
-        <link href="https://news.ycombinator.com/item?id=32093649"/>
-        <updated>2022-07-14T08:54:27.000Z</updated>
-        <summary type="html"><![CDATA[EU lawmakers slam “radical proposal“ to let ISPs demand new fees from websites]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
