@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-23T20:30:48.028Z</updated>
+    <updated>2022-07-23T21:01:43.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蝙蝠俠的彩蛋（點擊蝙蝠信號）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32207253</id>
+        <link href="https://news.ycombinator.com/item?id=32207253"/>
+        <updated>2022-07-23T20:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Batman easter egg (click the bat signal)]]></summary>
+        <author>
+            <name>simonpure</name>
+            <uri>https://news.ycombinator.com/user?id=simonpure</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[過去12個月對核聚變的投資比過去十年多
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32207152</id>
+        <link href="https://news.ycombinator.com/item?id=32207152"/>
+        <updated>2022-07-23T20:11:55.000Z</updated>
+        <summary type="html"><![CDATA[More invested in nuclear fusion in last 12 months than past decade]]></summary>
+        <author>
+            <name>bilsbie</name>
+            <uri>https://news.ycombinator.com/user?id=bilsbie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼阿德勒心理學認為創傷不存在？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32206645</id>
+        <link href="https://news.ycombinator.com/item?id=32206645"/>
+        <updated>2022-07-23T19:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Why Trauma Doesn’t Exist According to Adlerian Psychology]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[焦油檔案格式，以及為什麼GNU焦油提取的時間是四次方的？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何通過使用Terramate保持你的Terraform代碼的穩定性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32096965</id>
-        <link href="https://news.ycombinator.com/item?id=32096965"/>
-        <updated>2022-07-14T15:07:11.000Z</updated>
-        <summary type="html"><![CDATA[How to keep your Terraform code DRY by using Terramate]]></summary>
-        <author>
-            <name>katcipis</name>
-            <uri>https://news.ycombinator.com/user?id=katcipis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為自己在網上會議中說得太多的時候做了一個應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32095592</id>
-        <link href="https://news.ycombinator.com/item?id=32095592"/>
-        <updated>2022-07-14T13:09:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an app for when I talk too much in online meetings]]></summary>
-        <author>
-            <name>interleave</name>
-            <uri>https://news.ycombinator.com/user?id=interleave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將OpenBSD Pledge()移植到Linux上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32096801</id>
-        <link href="https://news.ycombinator.com/item?id=32096801"/>
-        <updated>2022-07-14T14:52:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Porting OpenBSD Pledge() to Linux]]></summary>
-        <author>
-            <name>jart</name>
-            <uri>https://news.ycombinator.com/user?id=jart</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 20:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 21:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蝙蝠俠的彩蛋（點擊蝙蝠信號）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32207253</link>
+            <guid>https://news.ycombinator.com/item?id=32207253</guid>
+            <pubDate>Sat, 23 Jul 2022 20:26:03 GMT</pubDate>
+            <description><![CDATA[Batman easter egg (click the bat signal)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[過去12個月對核聚變的投資比過去十年多
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32207152</link>
+            <guid>https://news.ycombinator.com/item?id=32207152</guid>
+            <pubDate>Sat, 23 Jul 2022 20:11:55 GMT</pubDate>
+            <description><![CDATA[More invested in nuclear fusion in last 12 months than past decade]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼阿德勒心理學認為創傷不存在？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32206645</link>
+            <guid>https://news.ycombinator.com/item?id=32206645</guid>
+            <pubDate>Sat, 23 Jul 2022 19:19:04 GMT</pubDate>
+            <description><![CDATA[Why Trauma Doesn’t Exist According to Adlerian Psychology]]></description>
+        </item>
         <item>
             <title><![CDATA[焦油檔案格式，以及為什麼GNU焦油提取的時間是四次方的？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32080556</guid>
             <pubDate>Wed, 13 Jul 2022 09:36:25 GMT</pubDate>
             <description><![CDATA[Computerized Cooking (1985)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何通過使用Terramate保持你的Terraform代碼的穩定性
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32096965</link>
-            <guid>https://news.ycombinator.com/item?id=32096965</guid>
-            <pubDate>Thu, 14 Jul 2022 15:07:11 GMT</pubDate>
-            <description><![CDATA[How to keep your Terraform code DRY by using Terramate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我為自己在網上會議中說得太多的時候做了一個應用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32095592</link>
-            <guid>https://news.ycombinator.com/item?id=32095592</guid>
-            <pubDate>Thu, 14 Jul 2022 13:09:10 GMT</pubDate>
-            <description><![CDATA[Show HN: I built an app for when I talk too much in online meetings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將OpenBSD Pledge()移植到Linux上
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32096801</link>
-            <guid>https://news.ycombinator.com/item?id=32096801</guid>
-            <pubDate>Thu, 14 Jul 2022 14:52:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Porting OpenBSD Pledge() to Linux]]></description>
         </item>
     </channel>
 </rss>
