@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T14:59:49.577Z</updated>
+    <updated>2022-07-24T15:31:06.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[弹性文本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202701</id>
+        <link href="https://news.ycombinator.com/item?id=32202701"/>
+        <updated>2022-07-23T12:30:05.000Z</updated>
+        <summary type="html"><![CDATA[StretchText]]></summary>
+        <author>
+            <name>dbrereton</name>
+            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5月含黑客2022--现场直播
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chynkm</name>
             <uri>https://news.ycombinator.com/user?id=chynkm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tere - 一个更快替代cd+ls的方法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32106126</id>
-        <link href="https://news.ycombinator.com/item?id=32106126"/>
-        <updated>2022-07-15T08:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: tere – A Faster Alternative to cd+ls]]></summary>
-        <author>
-            <name>mgunyho</name>
-            <uri>https://news.ycombinator.com/user?id=mgunyho</uri>
         </author>
     </entry>
 </feed>
