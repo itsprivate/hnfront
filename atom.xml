@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T11:43:51.944Z</updated>
+    <updated>2022-07-24T11:58:31.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌将暂停所有招聘工作两周
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32211686</id>
+        <link href="https://news.ycombinator.com/item?id=32211686"/>
+        <updated>2022-07-24T09:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Google to pause all hiring for two weeks]]></summary>
+        <author>
+            <name>jeremylevy</name>
+            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kvass，一个个人键值存储器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lycopodiopsida</name>
             <uri>https://news.ycombinator.com/user?id=lycopodiopsida</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天堂里的互联网
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32080305</id>
-        <link href="https://news.ycombinator.com/item?id=32080305"/>
-        <updated>2022-07-13T08:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Internet in Paradise]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
