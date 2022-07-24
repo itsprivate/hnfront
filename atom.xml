@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T17:08:51.377Z</updated>
+    <updated>2022-07-24T17:41:03.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[因素。一种实用的堆栈语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32215048</id>
+        <link href="https://news.ycombinator.com/item?id=32215048"/>
+        <updated>2022-07-24T16:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Factor: A Practical Stack Language]]></summary>
+        <author>
+            <name>slondr</name>
+            <uri>https://news.ycombinator.com/user?id=slondr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在下个月和我一起申请Y Combinator，改变世界
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214828</id>
+        <link href="https://news.ycombinator.com/item?id=32214828"/>
+        <updated>2022-07-24T16:14:04.000Z</updated>
+        <summary type="html"><![CDATA[Apply with me to Y Combinator in the next month and change the world]]></summary>
+        <author>
+            <name>tempaccount2022</name>
+            <uri>https://news.ycombinator.com/user?id=tempaccount2022</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[石头。贝壳里的静态小垃圾发生器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>internxt</name>
             <uri>https://news.ycombinator.com/user?id=internxt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比较Rust和JavaScript
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32106953</id>
-        <link href="https://news.ycombinator.com/item?id=32106953"/>
-        <updated>2022-07-15T11:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Comparing Rust and JavaScript]]></summary>
-        <author>
-            <name>orixilus</name>
-            <uri>https://news.ycombinator.com/user?id=orixilus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espressif芯片上的锈迹 - 15-07-2022
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32106762</id>
-        <link href="https://news.ycombinator.com/item?id=32106762"/>
-        <updated>2022-07-15T10:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Rust on Espressif chips – 15-07-2022]]></summary>
-        <author>
-            <name>mabez</name>
-            <uri>https://news.ycombinator.com/user?id=mabez</uri>
         </author>
     </entry>
 </feed>
