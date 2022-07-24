@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T21:46:57.010Z</updated>
+    <updated>2022-07-24T22:00:14.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[坦率地说：颂扬疾病是否会阻碍治疗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32217682</id>
+        <link href="https://news.ycombinator.com/item?id=32217682"/>
+        <updated>2022-07-24T21:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Honestly: Does Glorifying Sickness Deter Healing?]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个使用Arduino Uno的独立AVR编程器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go垃圾收集器指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32109301</id>
-        <link href="https://news.ycombinator.com/item?id=32109301"/>
-        <updated>2022-07-15T15:44:11.000Z</updated>
-        <summary type="html"><![CDATA[A Guide to the Go Garbage Collector]]></summary>
-        <author>
-            <name>ibraheemdev</name>
-            <uri>https://news.ycombinator.com/user?id=ibraheemdev</uri>
         </author>
     </entry>
 </feed>
