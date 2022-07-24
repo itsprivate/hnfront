@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T15:31:06.794Z</updated>
+    <updated>2022-07-24T15:51:53.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[非明显的Docker用途
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213950</id>
+        <link href="https://news.ycombinator.com/item?id=32213950"/>
+        <updated>2022-07-24T14:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Non-Obvious Docker Uses]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弹性文本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>BerislavLopac</name>
             <uri>https://news.ycombinator.com/user?id=BerislavLopac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我今天如何体验网络
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32106136</id>
-        <link href="https://news.ycombinator.com/item?id=32106136"/>
-        <updated>2022-07-15T08:46:58.000Z</updated>
-        <summary type="html"><![CDATA[How I Experience the Web Today]]></summary>
-        <author>
-            <name>chynkm</name>
-            <uri>https://news.ycombinator.com/user?id=chynkm</uri>
         </author>
     </entry>
 </feed>
