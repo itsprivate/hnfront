@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T21:28:02.911Z</updated>
+    <updated>2022-07-24T21:46:57.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个使用Arduino Uno的独立AVR编程器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32217830</id>
+        <link href="https://news.ycombinator.com/item?id=32217830"/>
+        <updated>2022-07-24T21:17:39.000Z</updated>
+        <summary type="html"><![CDATA[A self-contained AVR programmer using an Arduino Uno]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BuildZoom（建造定制房屋的更好方法）正在招聘一名产品经理
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ibraheemdev</name>
             <uri>https://news.ycombinator.com/user?id=ibraheemdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这一切都只是一个古老的视频游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32094153</id>
-        <link href="https://news.ycombinator.com/item?id=32094153"/>
-        <updated>2022-07-14T10:28:12.000Z</updated>
-        <summary type="html"><![CDATA[It's All Just an Old Videogame]]></summary>
-        <author>
-            <name>vitabenes</name>
-            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
         </author>
     </entry>
 </feed>
