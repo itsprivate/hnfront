@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T22:00:14.976Z</updated>
+    <updated>2022-07-24T22:28:31.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前苏联的儿童铁路
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32203442</id>
+        <link href="https://news.ycombinator.com/item?id=32203442"/>
+        <updated>2022-07-23T14:03:52.000Z</updated>
+        <summary type="html"><![CDATA[Children's Railways of the Former USSR]]></summary>
+        <author>
+            <name>paganel</name>
+            <uri>https://news.ycombinator.com/user?id=paganel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[坦率地说：颂扬疾病是否会阻碍治疗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jasong</name>
             <uri>https://news.ycombinator.com/user?id=jasong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust不应该提供`unwrap`。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32110040</id>
-        <link href="https://news.ycombinator.com/item?id=32110040"/>
-        <updated>2022-07-15T16:42:30.000Z</updated>
-        <summary type="html"><![CDATA[Rust should not have provided `unwrap`]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
