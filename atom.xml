@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T19:45:52.056Z</updated>
+    <updated>2022-07-24T19:58:39.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GameBoy上的斜向战略
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216948</id>
+        <link href="https://news.ycombinator.com/item?id=32216948"/>
+        <updated>2022-07-24T19:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Oblique Strategies on GameBoy]]></summary>
+        <author>
+            <name>related</name>
+            <uri>https://news.ycombinator.com/user?id=related</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为知道如何开发的开发人员提供的Kubernetes
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>andsoitis</name>
             <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA：人类的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108852</id>
-        <link href="https://news.ycombinator.com/item?id=32108852"/>
-        <updated>2022-07-15T14:59:04.000Z</updated>
-        <summary type="html"><![CDATA[EA: The Human Story]]></summary>
-        <author>
-            <name>antiverse</name>
-            <uri>https://news.ycombinator.com/user?id=antiverse</uri>
         </author>
     </entry>
 </feed>
