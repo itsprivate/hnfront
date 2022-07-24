@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T20:49:27.127Z</updated>
+    <updated>2022-07-24T21:01:22.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圖書館寫作感悟（2015）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32217511</id>
+        <link href="https://news.ycombinator.com/item?id=32217511"/>
+        <updated>2022-07-24T20:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Library Writing Realizations (2015)]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[邁克-弗洛里奧。報道稱谷歌已出價購買NFL週日門票
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bosveld</name>
             <uri>https://news.ycombinator.com/user?id=bosveld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了JCOF，一種對象符號，比JSON更有效地編碼數據。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32109406</id>
-        <link href="https://news.ycombinator.com/item?id=32109406"/>
-        <updated>2022-07-15T15:54:18.000Z</updated>
-        <summary type="html"><![CDATA[I made JCOF, an object notation which encodes data more efficiently than JSON]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
