@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-25T21:58:59.709Z</updated>
+    <updated>2022-07-25T22:29:24.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我从阿里巴巴买了一辆便宜的电动皮卡车。下面是出现的情况
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32231209</id>
+        <link href="https://news.ycombinator.com/item?id=32231209"/>
+        <updated>2022-07-25T21:31:53.000Z</updated>
+        <summary type="html"><![CDATA[I bought a cheap electric pickup truck from Alibaba. Here’s what showed up]]></summary>
+        <author>
+            <name>qzervaas</name>
+            <uri>https://news.ycombinator.com/user?id=qzervaas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来自创业公司支点的教训
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32226268</id>
+        <link href="https://news.ycombinator.com/item?id=32226268"/>
+        <updated>2022-07-25T15:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Lessons from a Startup Pivot]]></summary>
+        <author>
+            <name>icey</name>
+            <uri>https://news.ycombinator.com/user?id=icey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首个汽车广告显示了什么改变了，什么没有改变
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wails: 使用Go构建漂亮的跨平台应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32080899</id>
-        <link href="https://news.ycombinator.com/item?id=32080899"/>
-        <updated>2022-07-13T10:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Wails: Build beautiful cross-platform applications using Go]]></summary>
-        <author>
-            <name>sph</name>
-            <uri>https://news.ycombinator.com/user?id=sph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun获得 "bun:FFI"--从JavaScript中调用本地库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32120090</id>
-        <link href="https://news.ycombinator.com/item?id=32120090"/>
-        <updated>2022-07-16T17:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Bun gets “bun:FFI” – call native libraries from JavaScript]]></summary>
-        <author>
-            <name>tambourine_man</name>
-            <uri>https://news.ycombinator.com/user?id=tambourine_man</uri>
         </author>
     </entry>
 </feed>
