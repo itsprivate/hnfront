@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 00:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德州电网的Datadog仪表板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32217968</link>
+            <guid>https://news.ycombinator.com/item?id=32217968</guid>
+            <pubDate>Sun, 24 Jul 2022 21:32:48 GMT</pubDate>
+            <description><![CDATA[Datadog dashboard for the Texas power grid]]></description>
+        </item>
         <item>
             <title><![CDATA[用解析器组合器构建一个微小的破损计算器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32110662</guid>
             <pubDate>Fri, 15 Jul 2022 17:29:28 GMT</pubDate>
             <description><![CDATA[I'm hosting a website on a RAID0 of 30 floppy drives]]></description>
-        </item>
-        <item>
-            <title><![CDATA[前100万个网站中的10%已经死亡
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32110573</link>
-            <guid>https://news.ycombinator.com/item?id=32110573</guid>
-            <pubDate>Fri, 15 Jul 2022 17:22:40 GMT</pubDate>
-            <description><![CDATA[10% of the top million sites are dead]]></description>
         </item>
     </channel>
 </rss>

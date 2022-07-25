@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-24T23:48:36.561Z</updated>
+    <updated>2022-07-25T00:00:12.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德州電網的Datadog儀表板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32217968</id>
+        <link href="https://news.ycombinator.com/item?id=32217968"/>
+        <updated>2022-07-24T21:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Datadog dashboard for the Texas power grid]]></summary>
+        <author>
+            <name>finiteseries</name>
+            <uri>https://news.ycombinator.com/user?id=finiteseries</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用解析器組合器構建一個微小的破損計算器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LarryPage</name>
             <uri>https://news.ycombinator.com/user?id=LarryPage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前100萬個網站中的10%已經死亡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32110573</id>
-        <link href="https://news.ycombinator.com/item?id=32110573"/>
-        <updated>2022-07-15T17:22:40.000Z</updated>
-        <summary type="html"><![CDATA[10% of the top million sites are dead]]></summary>
-        <author>
-            <name>Soupy</name>
-            <uri>https://news.ycombinator.com/user?id=Soupy</uri>
         </author>
     </entry>
 </feed>
