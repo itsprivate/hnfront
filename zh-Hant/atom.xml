@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-25T05:58:02.289Z</updated>
+    <updated>2022-07-25T06:36:50.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Neovim開發Godot項目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32203642</id>
+        <link href="https://news.ycombinator.com/item?id=32203642"/>
+        <updated>2022-07-23T14:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Developing Godot Projects with Neovim]]></summary>
+        <author>
+            <name>poga</name>
+            <uri>https://news.ycombinator.com/user?id=poga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英仙座-9自制的移動雙6502計算機
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tonyg</name>
             <uri>https://news.ycombinator.com/user?id=tonyg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追求家庭和工作的統一
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32112081</id>
-        <link href="https://news.ycombinator.com/item?id=32112081"/>
-        <updated>2022-07-15T19:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Pursuing the Reunification of Home and Work]]></summary>
-        <author>
-            <name>see-also</name>
-            <uri>https://news.ycombinator.com/user?id=see-also</uri>
         </author>
     </entry>
 </feed>
