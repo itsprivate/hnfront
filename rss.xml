@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 25 Jul 2022 18:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 19:07:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,38 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在会所学到的东西
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32228797</link>
+            <guid>https://news.ycombinator.com/item?id=32228797</guid>
+            <pubDate>Mon, 25 Jul 2022 18:29:19 GMT</pubDate>
+            <description><![CDATA[What I Learned at Clubhouse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[编码错误使英特尔GPU在光线追踪中慢了100倍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32228627</link>
+            <guid>https://news.ycombinator.com/item?id=32228627</guid>
+            <pubDate>Mon, 25 Jul 2022 18:18:20 GMT</pubDate>
+            <description><![CDATA[Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[数据并行的行为者。可扩展查询服务系统的编程模型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32228569</link>
+            <guid>https://news.ycombinator.com/item?id=32228569</guid>
+            <pubDate>Mon, 25 Jul 2022 18:14:08 GMT</pubDate>
+            <description><![CDATA[Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于计算机的拼写检查技术
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32212778</link>
+            <guid>https://news.ycombinator.com/item?id=32212778</guid>
+            <pubDate>Sun, 24 Jul 2022 12:27:12 GMT</pubDate>
+            <description><![CDATA[Computer Based Spellchecking Techniques]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么要把类成员变成私有？
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32105953</guid>
             <pubDate>Fri, 15 Jul 2022 08:17:55 GMT</pubDate>
             <description><![CDATA[The Great Green Wall]]></description>
-        </item>
-        <item>
-            <title><![CDATA[零信任 "安全是一个糟糕的选择
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32117771</link>
-            <guid>https://news.ycombinator.com/item?id=32117771</guid>
-            <pubDate>Sat, 16 Jul 2022 13:22:16 GMT</pubDate>
-            <description><![CDATA['Zero Trust’ security is a poor choice of words]]></description>
-        </item>
-        <item>
-            <title><![CDATA[着色器之书
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32117536</link>
-            <guid>https://news.ycombinator.com/item?id=32117536</guid>
-            <pubDate>Sat, 16 Jul 2022 12:52:39 GMT</pubDate>
-            <description><![CDATA[The Book of Shaders]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个简单的平台来购买/出售副业项目
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32117519</link>
-            <guid>https://news.ycombinator.com/item?id=32117519</guid>
-            <pubDate>Sat, 16 Jul 2022 12:50:55 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a simple platform to buy/sell side projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[掌声 - 天文摄影板的网络档案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32105792</link>
-            <guid>https://news.ycombinator.com/item?id=32105792</guid>
-            <pubDate>Fri, 15 Jul 2022 07:51:27 GMT</pubDate>
-            <description><![CDATA[Applause – Web archive with astronomical photographic plates]]></description>
         </item>
     </channel>
 </rss>

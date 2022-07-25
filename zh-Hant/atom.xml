@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-25T18:39:23.094Z</updated>
+    <updated>2022-07-25T19:07:01.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在會所學到的東西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32228797</id>
+        <link href="https://news.ycombinator.com/item?id=32228797"/>
+        <updated>2022-07-25T18:29:19.000Z</updated>
+        <summary type="html"><![CDATA[What I Learned at Clubhouse]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[編碼錯誤使英特爾GPU在光線追蹤中慢了100倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32228627</id>
+        <link href="https://news.ycombinator.com/item?id=32228627"/>
+        <updated>2022-07-25T18:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing]]></summary>
+        <author>
+            <name>sizzle</name>
+            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據並行的行為者。可擴展查詢服務系統的編程模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32228569</id>
+        <link href="https://news.ycombinator.com/item?id=32228569"/>
+        <updated>2022-07-25T18:14:08.000Z</updated>
+        <summary type="html"><![CDATA[Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems]]></summary>
+        <author>
+            <name>greghn</name>
+            <uri>https://news.ycombinator.com/user?id=greghn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於計算機的拼寫檢查技術
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32212778</id>
+        <link href="https://news.ycombinator.com/item?id=32212778"/>
+        <updated>2022-07-24T12:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Computer Based Spellchecking Techniques]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼要把類成員變成私有？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零信任 "安全是一個糟糕的選擇
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32117771</id>
-        <link href="https://news.ycombinator.com/item?id=32117771"/>
-        <updated>2022-07-16T13:22:16.000Z</updated>
-        <summary type="html"><![CDATA['Zero Trust’ security is a poor choice of words]]></summary>
-        <author>
-            <name>politelemon</name>
-            <uri>https://news.ycombinator.com/user?id=politelemon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[著色器之書
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32117536</id>
-        <link href="https://news.ycombinator.com/item?id=32117536"/>
-        <updated>2022-07-16T12:52:39.000Z</updated>
-        <summary type="html"><![CDATA[The Book of Shaders]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個簡單的平臺來購買/出售副業項目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32117519</id>
-        <link href="https://news.ycombinator.com/item?id=32117519"/>
-        <updated>2022-07-16T12:50:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a simple platform to buy/sell side projects]]></summary>
-        <author>
-            <name>heyarviind2</name>
-            <uri>https://news.ycombinator.com/user?id=heyarviind2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掌聲 - 天文攝影板的網絡檔案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32105792</id>
-        <link href="https://news.ycombinator.com/item?id=32105792"/>
-        <updated>2022-07-15T07:51:27.000Z</updated>
-        <summary type="html"><![CDATA[Applause – Web archive with astronomical photographic plates]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
