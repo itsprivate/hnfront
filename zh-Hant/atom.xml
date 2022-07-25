@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-25T14:49:39.264Z</updated>
+    <updated>2022-07-25T15:00:56.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[兩週以來，韋伯太空望遠鏡正在重塑天文學
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32224725</id>
+        <link href="https://news.ycombinator.com/item?id=32224725"/>
+        <updated>2022-07-25T14:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Two Weeks In, the Webb Space Telescope Is Reshaping Astronomy]]></summary>
+        <author>
+            <name>theafh</name>
+            <uri>https://news.ycombinator.com/user?id=theafh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[偽造的β-澱粉樣蛋白數據。這意味著什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>herbertl</name>
             <uri>https://news.ycombinator.com/user?id=herbertl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從Python到Ruby
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32115809</id>
-        <link href="https://news.ycombinator.com/item?id=32115809"/>
-        <updated>2022-07-16T06:51:04.000Z</updated>
-        <summary type="html"><![CDATA[To Ruby from Python]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
         </author>
     </entry>
 </feed>
