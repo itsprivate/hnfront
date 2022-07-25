@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-25T21:29:54.142Z</updated>
+    <updated>2022-07-25T21:47:08.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在命令行上培养了我的孩子，他们很喜欢它
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32230433</id>
+        <link href="https://news.ycombinator.com/item?id=32230433"/>
+        <updated>2022-07-25T20:25:04.000Z</updated>
+        <summary type="html"><![CDATA[I Raised My Kids on the Command Line and They Love It]]></summary>
+        <author>
+            <name>CalRobert</name>
+            <uri>https://news.ycombinator.com/user?id=CalRobert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的跨世纪新发现的代名词
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throwaway_1928</name>
             <uri>https://news.ycombinator.com/user?id=throwaway_1928</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[又错了：50年失败的生态世界末日预测(2019)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119834</id>
-        <link href="https://news.ycombinator.com/item?id=32119834"/>
-        <updated>2022-07-16T16:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Wrong Again: 50 Years of Failed Eco-Pocalyptic Predictions (2019)]]></summary>
-        <author>
-            <name>fbn79</name>
-            <uri>https://news.ycombinator.com/user?id=fbn79</uri>
         </author>
     </entry>
 </feed>
