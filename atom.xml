@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-26T19:26:16.595Z</updated>
+    <updated>2022-07-26T19:45:31.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[垃圾邮件发送者的小技巧
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242581</id>
+        <link href="https://news.ycombinator.com/item?id=32242581"/>
+        <updated>2022-07-26T19:11:11.000Z</updated>
+        <summary type="html"><![CDATA[A little trick to spam the spammers]]></summary>
+        <author>
+            <name>sodimel</name>
+            <uri>https://news.ycombinator.com/user?id=sodimel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pop-11编程语言
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cptcobalt</name>
             <uri>https://news.ycombinator.com/user?id=cptcobalt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[民主党人正意识到他们必须变得更加温和
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32128164</id>
-        <link href="https://news.ycombinator.com/item?id=32128164"/>
-        <updated>2022-07-17T16:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Democrats are realizing they must become more moderate]]></summary>
-        <author>
-            <name>crhulls</name>
-            <uri>https://news.ycombinator.com/user?id=crhulls</uri>
         </author>
     </entry>
 </feed>
