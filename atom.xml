@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-26T23:29:57.274Z</updated>
+    <updated>2022-07-26T23:47:47.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[请拯救黑客实验室
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32245086</id>
+        <link href="https://news.ycombinator.com/item?id=32245086"/>
+        <updated>2022-07-26T22:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Please Save Hacker Lab]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valgrind的20年
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sashk</name>
             <uri>https://news.ycombinator.com/user?id=sashk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在街上捡拾免费的锂电池并使其安全使用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32129478</id>
-        <link href="https://news.ycombinator.com/item?id=32129478"/>
-        <updated>2022-07-17T18:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Picking Up Free Lithium Cells Off the Street and Making Them Safe for Use]]></summary>
-        <author>
-            <name>iamflimflam1</name>
-            <uri>https://news.ycombinator.com/user?id=iamflimflam1</uri>
         </author>
     </entry>
 </feed>
