@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-26T19:01:31.506Z</updated>
+    <updated>2022-07-26T19:26:16.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pop-11编程语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32233221</id>
+        <link href="https://news.ycombinator.com/item?id=32233221"/>
+        <updated>2022-07-26T01:29:24.000Z</updated>
+        <summary type="html"><![CDATA[The Pop-11 Programming Language]]></summary>
+        <author>
+            <name>url</name>
+            <uri>https://news.ycombinator.com/user?id=url</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CircleCI宣布支持Gitlab
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>crhulls</name>
             <uri>https://news.ycombinator.com/user?id=crhulls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix计算器 - 有没有想过你在Netflix上花费多少时间？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32128030</id>
-        <link href="https://news.ycombinator.com/item?id=32128030"/>
-        <updated>2022-07-17T16:09:55.000Z</updated>
-        <summary type="html"><![CDATA[Netflix Calculator – Ever wondered how much time you spend on Netflix?]]></summary>
-        <author>
-            <name>attero</name>
-            <uri>https://news.ycombinator.com/user?id=attero</uri>
         </author>
     </entry>
 </feed>
