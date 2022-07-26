@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-26T18:38:04.286Z</updated>
+    <updated>2022-07-26T19:01:31.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CircleCI宣布支持Gitlab
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242039</id>
+        <link href="https://news.ycombinator.com/item?id=32242039"/>
+        <updated>2022-07-26T18:31:54.000Z</updated>
+        <summary type="html"><![CDATA[CircleCI Announces Support for Gitlab]]></summary>
+        <author>
+            <name>octavianc</name>
+            <uri>https://news.ycombinator.com/user?id=octavianc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将GDPR合规性改造为传统数据库 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32241923</id>
+        <link href="https://news.ycombinator.com/item?id=32241923"/>
+        <updated>2022-07-26T18:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Retrofitting GDPR Compliance onto Legacy Databases [pdf]]]></summary>
+        <author>
+            <name>greghn</name>
+            <uri>https://news.ycombinator.com/user?id=greghn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Postgres的行级安全运送多租户SaaS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32241820</id>
+        <link href="https://news.ycombinator.com/item?id=32241820"/>
+        <updated>2022-07-26T18:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Shipping Multi-Tenant SaaS Using Postgres Row-Level Security]]></summary>
+        <author>
+            <name>capiki</name>
+            <uri>https://news.ycombinator.com/user?id=capiki</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[了解现代Linux路由（和WG-QUICK）。
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>attero</name>
             <uri>https://news.ycombinator.com/user?id=attero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prose.sh - 一个黑客的博客平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32128013</id>
-        <link href="https://news.ycombinator.com/item?id=32128013"/>
-        <updated>2022-07-17T16:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Prose.sh – A Blog Platform for Hackers]]></summary>
-        <author>
-            <name>jstanley</name>
-            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不与人交流会随着时间的推移降低认知功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32127974</id>
-        <link href="https://news.ycombinator.com/item?id=32127974"/>
-        <updated>2022-07-17T16:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Not interacting with people reduces cognitive function over time]]></summary>
-        <author>
-            <name>voisin</name>
-            <uri>https://news.ycombinator.com/user?id=voisin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一个成长中的火星城市中理解制造-购买问题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32127710</id>
-        <link href="https://news.ycombinator.com/item?id=32127710"/>
-        <updated>2022-07-17T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the make-buy question in a growing Mars city]]></summary>
-        <author>
-            <name>_Microft</name>
-            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
         </author>
     </entry>
 </feed>
