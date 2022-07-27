@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-27T17:50:48.687Z</updated>
+    <updated>2022-07-27T18:01:50.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix回溯性地編輯《陌生人》開啟了一個危險的趨勢
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32253729</id>
+        <link href="https://news.ycombinator.com/item?id=32253729"/>
+        <updated>2022-07-27T17:42:17.000Z</updated>
+        <summary type="html"><![CDATA[Netflix retroactively editing Stranger Things starts a dangerous trend]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[李斯特林特許權使用費
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robenkleene</name>
             <uri>https://news.ycombinator.com/user?id=robenkleene</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這個世界是可怕的。這個世界要好得多。世界可以好得多
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32173146</id>
-        <link href="https://news.ycombinator.com/item?id=32173146"/>
-        <updated>2022-07-20T22:16:29.000Z</updated>
-        <summary type="html"><![CDATA[The world is awful. The world is much better. The world can be much better]]></summary>
-        <author>
-            <name>sebg</name>
-            <uri>https://news.ycombinator.com/user?id=sebg</uri>
         </author>
     </entry>
 </feed>
