@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-27T19:31:03.494Z</updated>
+    <updated>2022-07-27T19:51:16.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[維基百科如何影響司法行為
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32253053</id>
+        <link href="https://news.ycombinator.com/item?id=32253053"/>
+        <updated>2022-07-27T17:01:52.000Z</updated>
+        <summary type="html"><![CDATA[How Wikipedia Influences Judicial Behavior]]></summary>
+        <author>
+            <name>czl_my</name>
+            <uri>https://news.ycombinator.com/user?id=czl_my</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ESG應該被歸結為一個簡單的衡量標準：排放
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>samclemens</name>
             <uri>https://news.ycombinator.com/user?id=samclemens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：今天我在網上賺了第一個 "錢"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177053</id>
-        <link href="https://news.ycombinator.com/item?id=32177053"/>
-        <updated>2022-07-21T08:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Today I made my first “bucks” on the web]]></summary>
-        <author>
-            <name>out_sider</name>
-            <uri>https://news.ycombinator.com/user?id=out_sider</uri>
         </author>
     </entry>
 </feed>
