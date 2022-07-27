@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-27T08:38:40.128Z</updated>
+    <updated>2022-07-27T09:47:56.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[利用古腾堡计划电子书制作播客
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32212810</id>
+        <link href="https://news.ycombinator.com/item?id=32212810"/>
+        <updated>2022-07-24T12:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Making podcasts from Project Gutenberg e-books]]></summary>
+        <author>
+            <name>revorad</name>
+            <uri>https://news.ycombinator.com/user?id=revorad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否曾有过改变你生活的时刻？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用GNU Guix建立一个安全的软件供应链
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32133261</id>
-        <link href="https://news.ycombinator.com/item?id=32133261"/>
-        <updated>2022-07-18T00:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Building a Secure Software Supply Chain with GNU Guix]]></summary>
-        <author>
-            <name>dragonsh</name>
-            <uri>https://news.ycombinator.com/user?id=dragonsh</uri>
         </author>
     </entry>
 </feed>
