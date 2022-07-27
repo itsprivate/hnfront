@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-27T19:51:16.824Z</updated>
+    <updated>2022-07-27T20:01:10.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fleur - 用C語言實現Bloom過濾器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32237222</id>
+        <link href="https://news.ycombinator.com/item?id=32237222"/>
+        <updated>2022-07-26T12:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Fleur – A bloom filter implementation in C]]></summary>
+        <author>
+            <name>adulau</name>
+            <uri>https://news.ycombinator.com/user?id=adulau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維基百科如何影響司法行為
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sunilsandhu</name>
             <uri>https://news.ycombinator.com/user?id=sunilsandhu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[陷入加州淘金熱的猴子和鸚鵡們
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32161462</id>
-        <link href="https://news.ycombinator.com/item?id=32161462"/>
-        <updated>2022-07-20T04:35:44.000Z</updated>
-        <summary type="html"><![CDATA[The monkeys and parrots caught up in the California gold rush]]></summary>
-        <author>
-            <name>samclemens</name>
-            <uri>https://news.ycombinator.com/user?id=samclemens</uri>
         </author>
     </entry>
 </feed>
