@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-27T15:55:51.128Z</updated>
+    <updated>2022-07-27T16:49:02.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圣母大学再次崛起
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32252485</id>
+        <link href="https://news.ycombinator.com/item?id=32252485"/>
+        <updated>2022-07-27T16:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Notre Dame Rises Again]]></summary>
+        <author>
+            <name>gibspaulding</name>
+            <uri>https://news.ycombinator.com/user?id=gibspaulding</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文本渲染的冒险。字体和字形图谱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32251909</id>
+        <link href="https://news.ycombinator.com/item?id=32251909"/>
+        <updated>2022-07-27T15:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Adventures in Text Rendering: Kerning and Glyph Atlases]]></summary>
+        <author>
+            <name>zachlloyd</name>
+            <uri>https://news.ycombinator.com/user?id=zachlloyd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们这里不做这种事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32251753</id>
+        <link href="https://news.ycombinator.com/item?id=32251753"/>
+        <updated>2022-07-27T15:35:31.000Z</updated>
+        <summary type="html"><![CDATA[We Don't Do That Here]]></summary>
+        <author>
+            <name>ThePadawan</name>
+            <uri>https://news.ycombinator.com/user?id=ThePadawan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌地图在等待11年后在印度推出街景地图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32251725</id>
+        <link href="https://news.ycombinator.com/item?id=32251725"/>
+        <updated>2022-07-27T15:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Google Maps launches Street View in India after 11-year wait]]></summary>
+        <author>
+            <name>webmobdev</name>
+            <uri>https://news.ycombinator.com/user?id=webmobdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第四位病人似乎被治愈了艾滋病毒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32251686</id>
+        <link href="https://news.ycombinator.com/item?id=32251686"/>
+        <updated>2022-07-27T15:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Fourth patient seemingly cured of HIV]]></summary>
+        <author>
+            <name>vinni2</name>
+            <uri>https://news.ycombinator.com/user?id=vinni2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12小时内，苹果公司的部分网络被俄罗斯的Rostelecom劫持了吗？
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>Hooke</name>
             <uri>https://news.ycombinator.com/user?id=Hooke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用智能（YC S17）正在招聘远程机器学习工程师
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32174543</id>
-        <link href="https://news.ycombinator.com/item?id=32174543"/>
-        <updated>2022-07-21T01:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Generally Intelligent (YC S17) Is Hiring Remote Machine Learning Engineers]]></summary>
-        <author>
-            <name>kanjun</name>
-            <uri>https://news.ycombinator.com/user?id=kanjun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archive.org要求对出版公司提起的诉讼作出简易判决
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32173901</id>
-        <link href="https://news.ycombinator.com/item?id=32173901"/>
-        <updated>2022-07-20T23:41:25.000Z</updated>
-        <summary type="html"><![CDATA[Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[其他动物是如何看待这个世界的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32162375</id>
-        <link href="https://news.ycombinator.com/item?id=32162375"/>
-        <updated>2022-07-20T06:49:58.000Z</updated>
-        <summary type="html"><![CDATA[How do other animals see the world?]]></summary>
-        <author>
-            <name>MaxLeiter</name>
-            <uri>https://news.ycombinator.com/user?id=MaxLeiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edbrowse - 一个命令行编辑器浏览器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32148474</id>
-        <link href="https://news.ycombinator.com/item?id=32148474"/>
-        <updated>2022-07-19T07:21:05.000Z</updated>
-        <summary type="html"><![CDATA[Edbrowse – A Command Line Editor Browser]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOUNDBOKS在一次 "强制更新 "中把他们的扬声器的功率减少了一半
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32136487</id>
-        <link href="https://news.ycombinator.com/item?id=32136487"/>
-        <updated>2022-07-18T10:15:33.000Z</updated>
-        <summary type="html"><![CDATA[SOUNDBOKS cuts the perf of their speakers by half in a “mandatory update”]]></summary>
-        <author>
-            <name>ghuntley</name>
-            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
         </author>
     </entry>
 </feed>
