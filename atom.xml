@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-27T10:54:05.163Z</updated>
+    <updated>2022-07-27T11:27:42.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们按照男人制定的经济规则行事。女权主义经济学可以是什么样子的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32249018</id>
+        <link href="https://news.ycombinator.com/item?id=32249018"/>
+        <updated>2022-07-27T11:05:47.000Z</updated>
+        <summary type="html"><![CDATA[We play by economic rules set by men. What could a feminist economics look like?]]></summary>
+        <author>
+            <name>skanderbm</name>
+            <uri>https://news.ycombinator.com/user?id=skanderbm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你可以阅读我的博客文章，使用curl
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32248404</id>
+        <link href="https://news.ycombinator.com/item?id=32248404"/>
+        <updated>2022-07-27T09:15:36.000Z</updated>
+        <summary type="html"><![CDATA[You can read my blog posts using curl]]></summary>
+        <author>
+            <name>mdibaiee</name>
+            <uri>https://news.ycombinator.com/user?id=mdibaiee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在黑曜石和Logseq之后，我对Dendron进行了尝试。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在犹他州，研究人员正试图使地热能源成为现实
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32133839</id>
-        <link href="https://news.ycombinator.com/item?id=32133839"/>
-        <updated>2022-07-18T02:21:04.000Z</updated>
-        <summary type="html"><![CDATA[In Utah, researchers are trying to make geothermal energy a reality]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typograms，类似Markdown的ASCII图的渲染器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32133345</id>
-        <link href="https://news.ycombinator.com/item?id=32133345"/>
-        <updated>2022-07-18T01:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typograms, Markdown-like renderer for ASCII diagrams]]></summary>
-        <author>
-            <name>sgoto</name>
-            <uri>https://news.ycombinator.com/user?id=sgoto</uri>
         </author>
     </entry>
 </feed>
