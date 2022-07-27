@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-27T21:01:02.750Z</updated>
+    <updated>2022-07-27T21:46:56.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[近30年後從Debian Jessie升級到Bullseye
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256026</id>
+        <link href="https://news.ycombinator.com/item?id=32256026"/>
+        <updated>2022-07-27T20:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Upgrading from Debian Jessie to Bullseye after nearly 30 years]]></summary>
+        <author>
+            <name>jklinger410</name>
+            <uri>https://news.ycombinator.com/user?id=jklinger410</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軟件事務性記憶 (1997)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robinyapockets</name>
             <uri>https://news.ycombinator.com/user?id=robinyapockets</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國會對大科技公司的監管推動正在逐漸消退
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177820</id>
-        <link href="https://news.ycombinator.com/item?id=32177820"/>
-        <updated>2022-07-21T10:52:28.000Z</updated>
-        <summary type="html"><![CDATA[Congress' push to regulate Big Tech is fizzling out]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
