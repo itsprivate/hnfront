@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-28T10:37:55.406Z</updated>
+    <updated>2022-07-28T10:59:01.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過使用Stripe作為我的小企業的支付處理器來實現TIFU。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32261868</id>
+        <link href="https://news.ycombinator.com/item?id=32261868"/>
+        <updated>2022-07-28T08:50:39.000Z</updated>
+        <summary type="html"><![CDATA[TIFU by using Stripe as a payment processor for my small business]]></summary>
+        <author>
+            <name>ahiknsr</name>
+            <uri>https://news.ycombinator.com/user?id=ahiknsr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[到達太陽引力透鏡的焦點區域並在此活動的任務
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>macleginn</name>
             <uri>https://news.ycombinator.com/user?id=macleginn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真正的同行評審從未被嘗試過--正在進行的工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181805</id>
-        <link href="https://news.ycombinator.com/item?id=32181805"/>
-        <updated>2022-07-21T16:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Real peer review has never been tried – Works in Progress]]></summary>
-        <author>
-            <name>bilsbie</name>
-            <uri>https://news.ycombinator.com/user?id=bilsbie</uri>
         </author>
     </entry>
 </feed>
