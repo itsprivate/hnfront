@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-28T04:02:35.194Z</updated>
+    <updated>2022-07-28T04:55:12.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在2022年创建一个Python包
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32258783</id>
+        <link href="https://news.ycombinator.com/item?id=32258783"/>
+        <updated>2022-07-28T00:06:31.000Z</updated>
+        <summary type="html"><![CDATA[How to create a Python package in 2022]]></summary>
+        <author>
+            <name>kieto</name>
+            <uri>https://news.ycombinator.com/user?id=kieto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[升级可能是最古老的运行中的Linux装置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32237650</id>
+        <link href="https://news.ycombinator.com/item?id=32237650"/>
+        <updated>2022-07-26T12:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Upgrading what might be the oldest running Linux install]]></summary>
+        <author>
+            <name>theandrewbailey</name>
+            <uri>https://news.ycombinator.com/user?id=theandrewbailey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HypeScript。在TypeScript自己的类型系统中简化TypeScript的类型系统
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>isaacfrond</name>
             <uri>https://news.ycombinator.com/user?id=isaacfrond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pg_jsonschema - 一个用于JSON验证的Postgres扩展。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32179856</id>
-        <link href="https://news.ycombinator.com/item?id=32179856"/>
-        <updated>2022-07-21T14:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pg_jsonschema – A Postgres extension for JSON validation]]></summary>
-        <author>
-            <name>oliverrice</name>
-            <uri>https://news.ycombinator.com/user?id=oliverrice</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[框架笔记本电脑（2022）回顾：可修复性的梦想
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32179842</id>
-        <link href="https://news.ycombinator.com/item?id=32179842"/>
-        <updated>2022-07-21T14:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Framework Laptop (2022) review: the repairability dream]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
