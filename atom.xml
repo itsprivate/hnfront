@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-28T09:01:00.907Z</updated>
+    <updated>2022-07-28T10:01:29.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：收集一些顶级HN帖子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32261862</id>
+        <link href="https://news.ycombinator.com/item?id=32261862"/>
+        <updated>2022-07-28T08:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Collection of the some top HN Posts]]></summary>
+        <author>
+            <name>sachinsmc</name>
+            <uri>https://news.ycombinator.com/user?id=sachinsmc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果为iMessage引入裸体检查功能
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>NickRandom</name>
             <uri>https://news.ycombinator.com/user?id=NickRandom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：你不能雇用，因为你没有公布工资范围
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181619</id>
-        <link href="https://news.ycombinator.com/item?id=32181619"/>
-        <updated>2022-07-21T16:46:57.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: You can't hire because you don't post salary ranges]]></summary>
-        <author>
-            <name>Carrok</name>
-            <uri>https://news.ycombinator.com/user?id=Carrok</uri>
         </author>
     </entry>
 </feed>
