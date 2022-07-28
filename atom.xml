@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-28T10:59:01.524Z</updated>
+    <updated>2022-07-28T11:44:14.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我成了美国历史上最恶毒的企业反击的目标
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32262153</id>
+        <link href="https://news.ycombinator.com/item?id=32262153"/>
+        <updated>2022-07-28T09:26:12.000Z</updated>
+        <summary type="html"><![CDATA[I've Been Targeted with the Most Vicious Corporate Counterattack in US History]]></summary>
+        <author>
+            <name>robtherobber</name>
+            <uri>https://news.ycombinator.com/user?id=robtherobber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过使用Stripe作为我的小企业的支付处理器来实现TIFU。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>salonium_</name>
             <uri>https://news.ycombinator.com/user?id=salonium_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ML在预测消费者的选择方面并不那么出色
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181974</id>
-        <link href="https://news.ycombinator.com/item?id=32181974"/>
-        <updated>2022-07-21T17:13:16.000Z</updated>
-        <summary type="html"><![CDATA[ML is not that good at predicting consumers' choices]]></summary>
-        <author>
-            <name>macleginn</name>
-            <uri>https://news.ycombinator.com/user?id=macleginn</uri>
         </author>
     </entry>
 </feed>
