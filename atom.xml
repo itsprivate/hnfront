@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T10:01:32.866Z</updated>
+    <updated>2022-07-29T10:36:25.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GL_EXT_fragment_shader_barycentric: 线框
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32270211</id>
+        <link href="https://news.ycombinator.com/item?id=32270211"/>
+        <updated>2022-07-28T21:15:52.000Z</updated>
+        <summary type="html"><![CDATA[GL_EXT_fragment_shader_barycentric: Wireframe]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vim的历史和有效使用
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jamesdhutton</name>
             <uri>https://news.ycombinator.com/user?id=jamesdhutton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnb将把对最后一刻取消的房东的处罚从100美元提高到1千美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32192318</id>
-        <link href="https://news.ycombinator.com/item?id=32192318"/>
-        <updated>2022-07-22T14:38:55.000Z</updated>
-        <summary type="html"><![CDATA[Airbnb will up its penalty for hosts who cancel last-minute from $100 to $1k]]></summary>
-        <author>
-            <name>post_break</name>
-            <uri>https://news.ycombinator.com/user?id=post_break</uri>
         </author>
     </entry>
 </feed>
