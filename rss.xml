@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 29 Jul 2022 22:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 22:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Clojure网络开发的演变[视频]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32282244</link>
+            <guid>https://news.ycombinator.com/item?id=32282244</guid>
+            <pubDate>Fri, 29 Jul 2022 21:59:03 GMT</pubDate>
+            <description><![CDATA[Clojure Web Development Evolved [video]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[带BPF的红外解码
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32282128</link>
+            <guid>https://news.ycombinator.com/item?id=32282128</guid>
+            <pubDate>Fri, 29 Jul 2022 21:45:25 GMT</pubDate>
+            <description><![CDATA[IR Decoding with BPF]]></description>
+        </item>
         <item>
             <title><![CDATA[Knuth改变了对伯努利数B_1的看法
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32200218</guid>
             <pubDate>Sat, 23 Jul 2022 03:59:03 GMT</pubDate>
             <description><![CDATA[Show HN: RawInputViewer – examine how games receive inputs from Windows]]></description>
-        </item>
-        <item>
-            <title><![CDATA[联邦调查局调查确定华为设备可能破坏美国核通讯
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32200371</link>
-            <guid>https://news.ycombinator.com/item?id=32200371</guid>
-            <pubDate>Sat, 23 Jul 2022 04:29:07 GMT</pubDate>
-            <description><![CDATA[FBI investigation determined Huawei equipment could disrupt US nuclear comms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何思考任务估算的问题
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32177425</link>
-            <guid>https://news.ycombinator.com/item?id=32177425</guid>
-            <pubDate>Thu, 21 Jul 2022 09:53:44 GMT</pubDate>
-            <description><![CDATA[How to think about task estimation]]></description>
         </item>
     </channel>
 </rss>

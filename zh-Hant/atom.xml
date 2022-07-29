@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T22:30:52.216Z</updated>
+    <updated>2022-07-29T22:46:40.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clojure網絡開發的演變[視頻]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282244</id>
+        <link href="https://news.ycombinator.com/item?id=32282244"/>
+        <updated>2022-07-29T21:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Clojure Web Development Evolved [video]]]></summary>
+        <author>
+            <name>yogthos</name>
+            <uri>https://news.ycombinator.com/user?id=yogthos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帶BPF的紅外解碼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282128</id>
+        <link href="https://news.ycombinator.com/item?id=32282128"/>
+        <updated>2022-07-29T21:45:25.000Z</updated>
+        <summary type="html"><![CDATA[IR Decoding with BPF]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knuth改變了對伯努利數B_1的看法
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>EsportToys</name>
             <uri>https://news.ycombinator.com/user?id=EsportToys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯邦調查局調查確定華為設備可能破壞美國核通訊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200371</id>
-        <link href="https://news.ycombinator.com/item?id=32200371"/>
-        <updated>2022-07-23T04:29:07.000Z</updated>
-        <summary type="html"><![CDATA[FBI investigation determined Huawei equipment could disrupt US nuclear comms]]></summary>
-        <author>
-            <name>tusslewake</name>
-            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何思考任務估算的問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177425</id>
-        <link href="https://news.ycombinator.com/item?id=32177425"/>
-        <updated>2022-07-21T09:53:44.000Z</updated>
-        <summary type="html"><![CDATA[How to think about task estimation]]></summary>
-        <author>
-            <name>herbertl</name>
-            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
         </author>
     </entry>
 </feed>
