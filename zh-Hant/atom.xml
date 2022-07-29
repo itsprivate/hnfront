@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T08:56:21.936Z</updated>
+    <updated>2022-07-29T09:31:46.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我沒有啟用通知功能，無處可去，也從未啟用。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32274344</id>
+        <link href="https://news.ycombinator.com/item?id=32274344"/>
+        <updated>2022-07-29T08:18:52.000Z</updated>
+        <summary type="html"><![CDATA[I don't have notifications enabled, nowhere and never]]></summary>
+        <author>
+            <name>Curzel</name>
+            <uri>https://news.ycombinator.com/user?id=Curzel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每個城市最有名的人的地圖
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>doppp</name>
             <uri>https://news.ycombinator.com/user?id=doppp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布洛芬的發明者在自己的宿醉中測試該藥物
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32191696</id>
-        <link href="https://news.ycombinator.com/item?id=32191696"/>
-        <updated>2022-07-22T13:29:49.000Z</updated>
-        <summary type="html"><![CDATA[The Inventor of Ibuprofen Tested the Drug on His Own Hangover]]></summary>
-        <author>
-            <name>thrusong</name>
-            <uri>https://news.ycombinator.com/user?id=thrusong</uri>
         </author>
     </entry>
 </feed>
