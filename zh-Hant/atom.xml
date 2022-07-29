@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T15:40:11.868Z</updated>
+    <updated>2022-07-29T15:59:19.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tabler。免費和開源的儀表板HTML/CSS框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32278397</id>
+        <link href="https://news.ycombinator.com/item?id=32278397"/>
+        <updated>2022-07-29T15:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Tabler: Free and open source dashboard HTML/CSS framework]]></summary>
+        <author>
+            <name>jakearmitage</name>
+            <uri>https://news.ycombinator.com/user?id=jakearmitage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在五秒鐘內啟動Linux (2008)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32278011</id>
+        <link href="https://news.ycombinator.com/item?id=32278011"/>
+        <updated>2022-07-29T15:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Booting Linux in five seconds (2008)]]></summary>
+        <author>
+            <name>butz</name>
+            <uri>https://news.ycombinator.com/user?id=butz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL的語義差異
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32277998</id>
+        <link href="https://news.ycombinator.com/item?id=32277998"/>
+        <updated>2022-07-29T15:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Semantic Diff for SQL]]></summary>
+        <author>
+            <name>s0ck_r4w</name>
+            <uri>https://news.ycombinator.com/user?id=s0ck_r4w</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桁架--在任何地方為任何ML模型服務，無需模板代碼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32277894</id>
+        <link href="https://news.ycombinator.com/item?id=32277894"/>
+        <updated>2022-07-29T15:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Truss – serve any ML model, anywhere, without boilerplate code]]></summary>
+        <author>
+            <name>philipkiely</name>
+            <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["戰術 "滲透到日常生活中
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>duxup</name>
             <uri>https://news.ycombinator.com/user?id=duxup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[形式化的CHERI：架構安全屬性的設計時間證明
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32189115</id>
-        <link href="https://news.ycombinator.com/item?id=32189115"/>
-        <updated>2022-07-22T06:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Formal CHERI: design-time proof of architecture security properties]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX剛剛打破了其年度發射記錄--而現在才是7月
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32196088</id>
-        <link href="https://news.ycombinator.com/item?id=32196088"/>
-        <updated>2022-07-22T19:24:25.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX just broke its annual launch record – and it’s only July]]></summary>
-        <author>
-            <name>trothamel</name>
-            <uri>https://news.ycombinator.com/user?id=trothamel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有沒有想過為什麼淹沒在亞馬遜的廉價垃圾有MOFFBUZW這樣的品牌名稱？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32195987</id>
-        <link href="https://news.ycombinator.com/item?id=32195987"/>
-        <updated>2022-07-22T19:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?]]></summary>
-        <author>
-            <name>rafaelm</name>
-            <uri>https://news.ycombinator.com/user?id=rafaelm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣佈Apache OpenOffice 4.1.13
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32195597</id>
-        <link href="https://news.ycombinator.com/item?id=32195597"/>
-        <updated>2022-07-22T18:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Announcing Apache OpenOffice 4.1.13]]></summary>
-        <author>
-            <name>mikece</name>
-            <uri>https://news.ycombinator.com/user?id=mikece</uri>
         </author>
     </entry>
 </feed>
