@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T22:46:40.262Z</updated>
+    <updated>2022-07-29T23:00:49.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[庫布里克時代》雜誌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32280993</id>
+        <link href="https://news.ycombinator.com/item?id=32280993"/>
+        <updated>2022-07-29T19:41:52.000Z</updated>
+        <summary type="html"><![CDATA[The Kubrick Times]]></summary>
+        <author>
+            <name>if-curious</name>
+            <uri>https://news.ycombinator.com/user?id=if-curious</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[筆記本數據流調試器(Ndd)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32280818</id>
+        <link href="https://news.ycombinator.com/item?id=32280818"/>
+        <updated>2022-07-29T19:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Notebook Dataflow Debugger (Ndd)]]></summary>
+        <author>
+            <name>tlarkworthy</name>
+            <uri>https://news.ycombinator.com/user?id=tlarkworthy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clojure網絡開發的演變[視頻]
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我現在用Linux的nftables做防火牆規則，進展順利。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200411</id>
-        <link href="https://news.ycombinator.com/item?id=32200411"/>
-        <updated>2022-07-23T04:35:27.000Z</updated>
-        <summary type="html"><![CDATA[I've now used Linux nftables for firewall rules and it went okay]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RawInputViewer - 檢查遊戲如何接收來自Windows的輸入。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200218</id>
-        <link href="https://news.ycombinator.com/item?id=32200218"/>
-        <updated>2022-07-23T03:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RawInputViewer – examine how games receive inputs from Windows]]></summary>
-        <author>
-            <name>EsportToys</name>
-            <uri>https://news.ycombinator.com/user?id=EsportToys</uri>
         </author>
     </entry>
 </feed>
