@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T10:36:25.836Z</updated>
+    <updated>2022-07-29T10:58:28.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼Windows註冊表在技術上很糟糕 (2010)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275078</id>
+        <link href="https://news.ycombinator.com/item?id=32275078"/>
+        <updated>2022-07-29T10:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Why the Windows Registry sucks technically (2010)]]></summary>
+        <author>
+            <name>azalemeth</name>
+            <uri>https://news.ycombinator.com/user?id=azalemeth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GL_EXT_fragment_shader_barycentric: 線框
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國空軍連接1760臺PlayStation 3建立超級計算機 (2010)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32192549</id>
-        <link href="https://news.ycombinator.com/item?id=32192549"/>
-        <updated>2022-07-22T14:56:32.000Z</updated>
-        <summary type="html"><![CDATA[US Air Force connects 1,760 Playstation 3's to build supercomputer (2010)]]></summary>
-        <author>
-            <name>jamesdhutton</name>
-            <uri>https://news.ycombinator.com/user?id=jamesdhutton</uri>
         </author>
     </entry>
 </feed>
