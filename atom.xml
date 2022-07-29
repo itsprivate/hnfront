@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T23:00:49.070Z</updated>
+    <updated>2022-07-29T23:29:35.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jitter 一个用Nim编写的基于Git的Linux二进制管理器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282467</id>
+        <link href="https://news.ycombinator.com/item?id=32282467"/>
+        <updated>2022-07-29T22:28:22.000Z</updated>
+        <summary type="html"><![CDATA[Jitter a Git-based binary manager for Linux written in Nim]]></summary>
+        <author>
+            <name>elcritch</name>
+            <uri>https://news.ycombinator.com/user?id=elcritch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有人可以优化幸福感
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266897</id>
+        <link href="https://news.ycombinator.com/item?id=32266897"/>
+        <updated>2022-07-28T16:49:05.000Z</updated>
+        <summary type="html"><![CDATA[Nobody Optimizes Happiness]]></summary>
+        <author>
+            <name>arunbahl</name>
+            <uri>https://news.ycombinator.com/user?id=arunbahl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[库布里克时代》杂志
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mardiyah</name>
             <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerf时间序列Lang和柱状数据库开源了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32179898</id>
-        <link href="https://news.ycombinator.com/item?id=32179898"/>
-        <updated>2022-07-21T14:34:47.000Z</updated>
-        <summary type="html"><![CDATA[Kerf Time Series Lang and Columnar DB Open Sourced]]></summary>
-        <author>
-            <name>srpeck</name>
-            <uri>https://news.ycombinator.com/user?id=srpeck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么性格外向的人不富有？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200123</id>
-        <link href="https://news.ycombinator.com/item?id=32200123"/>
-        <updated>2022-07-23T03:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Why aren’t extraverts rich?]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
