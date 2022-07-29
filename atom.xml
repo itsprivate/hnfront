@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T17:44:28.448Z</updated>
+    <updated>2022-07-29T18:38:34.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[破坏内存而不破坏内存
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32267436</id>
+        <link href="https://news.ycombinator.com/item?id=32267436"/>
+        <updated>2022-07-28T17:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Corrupting memory without memory corruption]]></summary>
+        <author>
+            <name>gslin</name>
+            <uri>https://news.ycombinator.com/user?id=gslin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毁灭的胃口。美国土著人知道如何避免挨饿
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gyan</name>
             <uri>https://news.ycombinator.com/user?id=gyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罐头历史--食品罐头的历史
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190054</id>
-        <link href="https://news.ycombinator.com/item?id=32190054"/>
-        <updated>2022-07-22T09:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Potted History – a history of canning food]]></summary>
-        <author>
-            <name>shaftoe444</name>
-            <uri>https://news.ycombinator.com/user?id=shaftoe444</uri>
         </author>
     </entry>
 </feed>
