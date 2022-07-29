@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-29T21:28:11.764Z</updated>
+    <updated>2022-07-29T21:47:57.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用谷歌分析？你最好開始考慮B計劃了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32281822</id>
+        <link href="https://news.ycombinator.com/item?id=32281822"/>
+        <updated>2022-07-29T21:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Using Google Analytics? you better start thinking about a plan B]]></summary>
+        <author>
+            <name>nunorbatista</name>
+            <uri>https://news.ycombinator.com/user?id=nunorbatista</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Padlet正在三藩市招聘人員，為良好的教育建立軟件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hunglee2</name>
             <uri>https://news.ycombinator.com/user?id=hunglee2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svix，企業就緒的Webhook服務（YC W21）正在招聘（遠程）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32199091</id>
-        <link href="https://news.ycombinator.com/item?id=32199091"/>
-        <updated>2022-07-23T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Svix, the Enterprise Ready Webhook Service (YC W21) Is Hiring (Remote)]]></summary>
-        <author>
-            <name>tasn</name>
-            <uri>https://news.ycombinator.com/user?id=tasn</uri>
         </author>
     </entry>
 </feed>
