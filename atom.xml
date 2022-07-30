@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-30T11:02:54.919Z</updated>
+    <updated>2022-07-30T11:44:36.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[路由器安全
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32285609</id>
+        <link href="https://news.ycombinator.com/item?id=32285609"/>
+        <updated>2022-07-30T10:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Router Security]]></summary>
+        <author>
+            <name>butz</name>
+            <uri>https://news.ycombinator.com/user?id=butz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算能力（指数级增加）的重要性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32276219</id>
+        <link href="https://news.ycombinator.com/item?id=32276219"/>
+        <updated>2022-07-29T12:52:31.000Z</updated>
+        <summary type="html"><![CDATA[The Importance of (Exponentially More) Computing Power]]></summary>
+        <author>
+            <name>nkurz</name>
+            <uri>https://news.ycombinator.com/user?id=nkurz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建议对Wi-Fi路由器和接入点进行设置
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>api</name>
             <uri>https://news.ycombinator.com/user?id=api</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防止损失点JPEG
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32192503</id>
-        <link href="https://news.ycombinator.com/item?id=32192503"/>
-        <updated>2022-07-22T14:53:43.000Z</updated>
-        <summary type="html"><![CDATA[Preventing Loss Dot JPEG]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西班牙将实行免费火车旅行以帮助缓解生活成本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204256</id>
-        <link href="https://news.ycombinator.com/item?id=32204256"/>
-        <updated>2022-07-23T15:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Spain Will Introduce Free Train Travel to Help Ease the Cost of Living]]></summary>
-        <author>
-            <name>donohoe</name>
-            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
         </author>
     </entry>
 </feed>
