@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-30T16:41:21.822Z</updated>
+    <updated>2022-07-30T17:09:27.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過同步前綴代碼使哈夫曼解碼和x86反彙編並行化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32288195</id>
+        <link href="https://news.ycombinator.com/item?id=32288195"/>
+        <updated>2022-07-30T16:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paredit.vim - Paredit模式。結構化編輯Lisp的S-表達式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32288193</id>
+        <link href="https://news.ycombinator.com/item?id=32288193"/>
+        <updated>2022-07-30T16:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個用於逐行讀取大文件的SQLite擴展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32288165</id>
+        <link href="https://news.ycombinator.com/item?id=32288165"/>
+        <updated>2022-07-30T16:45:02.000Z</updated>
+        <summary type="html"><![CDATA[A SQLite extension for reading large files line-by-line]]></summary>
+        <author>
+            <name>polyrand</name>
+            <uri>https://news.ycombinator.com/user?id=polyrand</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arris/Arris-variant DSL/Fiber路由器關鍵漏洞曝光
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32288020</id>
+        <link href="https://news.ycombinator.com/item?id=32288020"/>
+        <updated>2022-07-30T16:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Arris / Arris-variant DSL/Fiber router critical vulnerability exposure]]></summary>
+        <author>
+            <name>rmdoss</name>
+            <uri>https://news.ycombinator.com/user?id=rmdoss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ImHex - 一個十六進制編輯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287902</id>
+        <link href="https://news.ycombinator.com/item?id=32287902"/>
+        <updated>2022-07-30T16:13:20.000Z</updated>
+        <summary type="html"><![CDATA[ImHex – A Hex Editor]]></summary>
+        <author>
+            <name>liberia</name>
+            <uri>https://news.ycombinator.com/user?id=liberia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bombora mWave解決方案。波能轉換器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32286885</id>
+        <link href="https://news.ycombinator.com/item?id=32286885"/>
+        <updated>2022-07-30T14:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Bombora mWave Solution: Wave Energy Converter]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡爾-波普爾的邏輯學著作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282522</id>
+        <link href="https://news.ycombinator.com/item?id=32282522"/>
+        <updated>2022-07-29T22:36:22.000Z</updated>
+        <summary type="html"><![CDATA[The Logical Writings of Karl Popper]]></summary>
+        <author>
+            <name>Schiphol</name>
+            <uri>https://news.ycombinator.com/user?id=Schiphol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bevy 0.8：用Rust構建的面向數據的遊戲引擎
 ]]></title>
@@ -7129,90 +7213,6 @@
         <author>
             <name>elisehein</name>
             <uri>https://news.ycombinator.com/user?id=elisehein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用非糖類甜味劑對健康的影響：回顧與薈萃分析
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32208334</id>
-        <link href="https://news.ycombinator.com/item?id=32208334"/>
-        <updated>2022-07-23T22:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Health effects of the use of non-sugar sweeteners: a review and meta-analysis]]></summary>
-        <author>
-            <name>ValentineC</name>
-            <uri>https://news.ycombinator.com/user?id=ValentineC</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特數據洩露暴露540萬個賬戶的聯繫信息；以3萬美元出售
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32208096</id>
-        <link href="https://news.ycombinator.com/item?id=32208096"/>
-        <updated>2022-07-23T22:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k]]></summary>
-        <author>
-            <name>arkadiyt</name>
-            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菲格瑪背後的CSS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32207093</id>
-        <link href="https://news.ycombinator.com/item?id=32207093"/>
-        <updated>2022-07-23T20:05:25.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Behind Figma]]></summary>
-        <author>
-            <name>WallyFunk</name>
-            <uri>https://news.ycombinator.com/user?id=WallyFunk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[控制設備架內的溫度 (2010) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32201069</id>
-        <link href="https://news.ycombinator.com/item?id=32201069"/>
-        <updated>2022-07-23T07:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Controlling the temperature inside equipment racks (2010) [pdf]]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OfficerBreaker - pptx/docx/xlsx密碼去除器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32207606</id>
-        <link href="https://news.ycombinator.com/item?id=32207606"/>
-        <updated>2022-07-23T21:10:25.000Z</updated>
-        <summary type="html"><![CDATA[OfficerBreaker – pptx/docx/xlsx password remover]]></summary>
-        <author>
-            <name>Anonymous4272</name>
-            <uri>https://news.ycombinator.com/user?id=Anonymous4272</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃達豐和德國電信將引入持久性用戶追蹤功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32207577</id>
-        <link href="https://news.ycombinator.com/item?id=32207577"/>
-        <updated>2022-07-23T21:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Vodafone and Deutsche Telekom to introduce persistent user tracking]]></summary>
-        <author>
-            <name>mmazzarolo</name>
-            <uri>https://news.ycombinator.com/user?id=mmazzarolo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼羅河運河項目會使非洲最大的溼地乾涸嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177922</id>
-        <link href="https://news.ycombinator.com/item?id=32177922"/>
-        <updated>2022-07-21T11:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Will a Nile Canal Project Dry Up Africa’s Largest Wetland?]]></summary>
-        <author>
-            <name>thread_id</name>
-            <uri>https://news.ycombinator.com/user?id=thread_id</uri>
         </author>
     </entry>
 </feed>

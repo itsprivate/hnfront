@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 30 Jul 2022 16:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 17:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,62 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通过同步前缀代码使哈夫曼解码和x86反汇编并行化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288195</link>
+            <guid>https://news.ycombinator.com/item?id=32288195</guid>
+            <pubDate>Sat, 30 Jul 2022 16:47:39 GMT</pubDate>
+            <description><![CDATA[Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Paredit.vim - Paredit模式。结构化编辑Lisp的S-表达式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288193</link>
+            <guid>https://news.ycombinator.com/item?id=32288193</guid>
+            <pubDate>Sat, 30 Jul 2022 16:47:22 GMT</pubDate>
+            <description><![CDATA[Paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个用于逐行读取大文件的SQLite扩展
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288165</link>
+            <guid>https://news.ycombinator.com/item?id=32288165</guid>
+            <pubDate>Sat, 30 Jul 2022 16:45:02 GMT</pubDate>
+            <description><![CDATA[A SQLite extension for reading large files line-by-line]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Arris/Arris-variant DSL/Fiber路由器关键漏洞曝光
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288020</link>
+            <guid>https://news.ycombinator.com/item?id=32288020</guid>
+            <pubDate>Sat, 30 Jul 2022 16:26:52 GMT</pubDate>
+            <description><![CDATA[Arris / Arris-variant DSL/Fiber router critical vulnerability exposure]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ImHex - 一个十六进制编辑器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32287902</link>
+            <guid>https://news.ycombinator.com/item?id=32287902</guid>
+            <pubDate>Sat, 30 Jul 2022 16:13:20 GMT</pubDate>
+            <description><![CDATA[ImHex – A Hex Editor]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Bombora mWave解决方案。波能转换器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32286885</link>
+            <guid>https://news.ycombinator.com/item?id=32286885</guid>
+            <pubDate>Sat, 30 Jul 2022 14:01:52 GMT</pubDate>
+            <description><![CDATA[Bombora mWave Solution: Wave Energy Converter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[卡尔-波普尔的逻辑学著作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32282522</link>
+            <guid>https://news.ycombinator.com/item?id=32282522</guid>
+            <pubDate>Fri, 29 Jul 2022 22:36:22 GMT</pubDate>
+            <description><![CDATA[The Logical Writings of Karl Popper]]></description>
+        </item>
         <item>
             <title><![CDATA[Bevy 0.8：用Rust构建的面向数据的游戏引擎
 ]]></title>
@@ -4757,62 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32178099</guid>
             <pubDate>Thu, 21 Jul 2022 11:29:15 GMT</pubDate>
             <description><![CDATA[Where's the Fun in Accessibility?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用非糖类甜味剂对健康的影响：回顾与荟萃分析
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32208334</link>
-            <guid>https://news.ycombinator.com/item?id=32208334</guid>
-            <pubDate>Sat, 23 Jul 2022 22:47:29 GMT</pubDate>
-            <description><![CDATA[Health effects of the use of non-sugar sweeteners: a review and meta-analysis]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特数据泄露暴露540万个账户的联系信息；以3万美元出售
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32208096</link>
-            <guid>https://news.ycombinator.com/item?id=32208096</guid>
-            <pubDate>Sat, 23 Jul 2022 22:16:12 GMT</pubDate>
-            <description><![CDATA[Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k]]></description>
-        </item>
-        <item>
-            <title><![CDATA[菲格玛背后的CSS
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32207093</link>
-            <guid>https://news.ycombinator.com/item?id=32207093</guid>
-            <pubDate>Sat, 23 Jul 2022 20:05:25 GMT</pubDate>
-            <description><![CDATA[The CSS Behind Figma]]></description>
-        </item>
-        <item>
-            <title><![CDATA[控制设备架内的温度 (2010) [pdf]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32201069</link>
-            <guid>https://news.ycombinator.com/item?id=32201069</guid>
-            <pubDate>Sat, 23 Jul 2022 07:01:09 GMT</pubDate>
-            <description><![CDATA[Controlling the temperature inside equipment racks (2010) [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OfficerBreaker - pptx/docx/xlsx密码去除器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32207606</link>
-            <guid>https://news.ycombinator.com/item?id=32207606</guid>
-            <pubDate>Sat, 23 Jul 2022 21:10:25 GMT</pubDate>
-            <description><![CDATA[OfficerBreaker – pptx/docx/xlsx password remover]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沃达丰和德国电信将引入持久性用户追踪功能
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32207577</link>
-            <guid>https://news.ycombinator.com/item?id=32207577</guid>
-            <pubDate>Sat, 23 Jul 2022 21:07:05 GMT</pubDate>
-            <description><![CDATA[Vodafone and Deutsche Telekom to introduce persistent user tracking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尼罗河运河项目会使非洲最大的湿地干涸吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32177922</link>
-            <guid>https://news.ycombinator.com/item?id=32177922</guid>
-            <pubDate>Thu, 21 Jul 2022 11:06:24 GMT</pubDate>
-            <description><![CDATA[Will a Nile Canal Project Dry Up Africa’s Largest Wetland?]]></description>
         </item>
     </channel>
 </rss>

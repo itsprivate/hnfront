@@ -11,6 +11,118 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32288195",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32288195",
+            "title": "通过同步前缀代码使哈夫曼解码和x86反汇编并行化\n",
+            "summary": "Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes",
+            "date_modified": "2022-07-30T16:47:39.000Z",
+            "author": {
+                "name": "hasheddan",
+                "url": "https://news.ycombinator.com/user?id=hasheddan"
+            },
+            "_original_headline": "Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes",
+            "_original_url": "https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/",
+            "_sensitive": false,
+            "_score": 6
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32288193",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32288193",
+            "title": "Paredit.vim - Paredit模式。结构化编辑Lisp的S-表达式\n",
+            "summary": "Paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions",
+            "date_modified": "2022-07-30T16:47:22.000Z",
+            "author": {
+                "name": "susam",
+                "url": "https://news.ycombinator.com/user?id=susam"
+            },
+            "_original_headline": "Paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions",
+            "_original_url": "https://github.com/kovisoft/paredit",
+            "_sensitive": false,
+            "_score": 3
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32288165",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32288165",
+            "title": "一个用于逐行读取大文件的SQLite扩展\n",
+            "summary": "A SQLite extension for reading large files line-by-line",
+            "date_modified": "2022-07-30T16:45:02.000Z",
+            "author": {
+                "name": "polyrand",
+                "url": "https://news.ycombinator.com/user?id=polyrand"
+            },
+            "_original_headline": "A SQLite extension for reading large files line-by-line",
+            "_original_url": "https://github.com/asg017/sqlite-lines",
+            "_sensitive": false,
+            "_score": 3
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32288020",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32288020",
+            "title": "Arris/Arris-variant DSL/Fiber路由器关键漏洞曝光\n",
+            "summary": "Arris / Arris-variant DSL/Fiber router critical vulnerability exposure",
+            "date_modified": "2022-07-30T16:26:52.000Z",
+            "author": {
+                "name": "rmdoss",
+                "url": "https://news.ycombinator.com/user?id=rmdoss"
+            },
+            "_original_headline": "Arris / Arris-variant DSL/Fiber router critical vulnerability exposure",
+            "_original_url": "https://derekabdine.com/blog/2022-arris-advisory.html",
+            "_sensitive": false,
+            "_score": 5
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32287902",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32287902",
+            "title": "ImHex - 一个十六进制编辑器\n",
+            "summary": "ImHex – A Hex Editor",
+            "date_modified": "2022-07-30T16:13:20.000Z",
+            "author": {
+                "name": "liberia",
+                "url": "https://news.ycombinator.com/user?id=liberia"
+            },
+            "_original_headline": "ImHex – A Hex Editor",
+            "_original_url": "https://github.com/WerWolv/ImHex",
+            "_sensitive": false,
+            "_score": 29
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32286885",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32286885",
+            "title": "Bombora mWave解决方案。波能转换器\n",
+            "summary": "Bombora mWave Solution: Wave Energy Converter",
+            "date_modified": "2022-07-30T14:01:52.000Z",
+            "author": {
+                "name": "simonebrunozzi",
+                "url": "https://news.ycombinator.com/user?id=simonebrunozzi"
+            },
+            "_original_headline": "Bombora mWave Solution: Wave Energy Converter",
+            "_original_url": "https://energyindustryreview.com/renewables/bombora-mwave-solution-worlds-most-powerful-wave-energy-converter/",
+            "_sensitive": false,
+            "_score": 9
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32282522",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32282522",
+            "title": "卡尔-波普尔的逻辑学著作\n",
+            "summary": "The Logical Writings of Karl Popper",
+            "date_modified": "2022-07-29T22:36:22.000Z",
+            "author": {
+                "name": "Schiphol",
+                "url": "https://news.ycombinator.com/user?id=Schiphol"
+            },
+            "_original_headline": "The Logical Writings of Karl Popper",
+            "_original_url": "https://link.springer.com/book/10.1007/978-3-030-94926-6",
+            "_sensitive": false,
+            "_score": 4
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32287828",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32287828",
@@ -9497,118 +9609,6 @@
             "_original_url": "https://elisehe.in/2022/07/19/the-fun-in-accessibility",
             "_sensitive": false,
             "_score": 3
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32208334",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32208334",
-            "title": "使用非糖类甜味剂对健康的影响：回顾与荟萃分析\n",
-            "summary": "Health effects of the use of non-sugar sweeteners: a review and meta-analysis",
-            "date_modified": "2022-07-23T22:47:29.000Z",
-            "author": {
-                "name": "ValentineC",
-                "url": "https://news.ycombinator.com/user?id=ValentineC"
-            },
-            "_original_headline": "Health effects of the use of non-sugar sweeteners: a review and meta-analysis",
-            "_original_url": "https://www.who.int/publications-detail-redirect/9789240046429",
-            "_sensitive": false,
-            "_score": 11
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32208096",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32208096",
-            "title": "推特数据泄露暴露540万个账户的联系信息；以3万美元出售\n",
-            "summary": "Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k",
-            "date_modified": "2022-07-23T22:16:12.000Z",
-            "author": {
-                "name": "arkadiyt",
-                "url": "https://news.ycombinator.com/user?id=arkadiyt"
-            },
-            "_original_headline": "Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k",
-            "_original_url": "https://9to5mac.com/2022/07/22/twitter-data-breach/",
-            "_sensitive": false,
-            "_score": 26
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32207093",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32207093",
-            "title": "菲格玛背后的CSS\n",
-            "summary": "The CSS Behind Figma",
-            "date_modified": "2022-07-23T20:05:25.000Z",
-            "author": {
-                "name": "WallyFunk",
-                "url": "https://news.ycombinator.com/user?id=WallyFunk"
-            },
-            "_original_headline": "The CSS Behind Figma",
-            "_original_url": "https://ishadeed.com/article/figma-css/",
-            "_sensitive": false,
-            "_score": 20
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32201069",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32201069",
-            "title": "控制设备架内的温度 (2010) [pdf]\n",
-            "summary": "Controlling the temperature inside equipment racks (2010) [pdf]",
-            "date_modified": "2022-07-23T07:01:09.000Z",
-            "author": {
-                "name": "walterbell",
-                "url": "https://news.ycombinator.com/user?id=walterbell"
-            },
-            "_original_headline": "Controlling the temperature inside equipment racks (2010) [pdf]",
-            "_original_url": "https://www.markertek.com/attachments/manuals/ThermalManagement.pdf",
-            "_sensitive": false,
-            "_score": 3
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32207606",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32207606",
-            "title": "OfficerBreaker - pptx/docx/xlsx密码去除器\n",
-            "summary": "OfficerBreaker – pptx/docx/xlsx password remover",
-            "date_modified": "2022-07-23T21:10:25.000Z",
-            "author": {
-                "name": "Anonymous4272",
-                "url": "https://news.ycombinator.com/user?id=Anonymous4272"
-            },
-            "_original_headline": "OfficerBreaker – pptx/docx/xlsx password remover",
-            "_original_url": "https://github.com/nedlir/OfficerBreaker",
-            "_sensitive": false,
-            "_score": 4
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32207577",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32207577",
-            "title": "沃达丰和德国电信将引入持久性用户追踪功能\n",
-            "summary": "Vodafone and Deutsche Telekom to introduce persistent user tracking",
-            "date_modified": "2022-07-23T21:07:05.000Z",
-            "author": {
-                "name": "mmazzarolo",
-                "url": "https://news.ycombinator.com/user?id=mmazzarolo"
-            },
-            "_original_headline": "Vodafone and Deutsche Telekom to introduce persistent user tracking",
-            "_original_url": "https://blog.simpleanalytics.com/vodafone-deutsche-telekom-to-introduce-persistent-user-tracking",
-            "_sensitive": false,
-            "_score": 19
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32177922",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32177922",
-            "title": "尼罗河运河项目会使非洲最大的湿地干涸吗？\n",
-            "summary": "Will a Nile Canal Project Dry Up Africa’s Largest Wetland?",
-            "date_modified": "2022-07-21T11:06:24.000Z",
-            "author": {
-                "name": "thread_id",
-                "url": "https://news.ycombinator.com/user?id=thread_id"
-            },
-            "_original_headline": "Will a Nile Canal Project Dry Up Africa’s Largest Wetland?",
-            "_original_url": "https://e360.yale.edu/features/will-a-nile-canal-project-dry-up-africas-largest-wetland",
-            "_sensitive": false,
-            "_score": 4
         }
     ]
 }
