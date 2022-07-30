@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-30T23:00:19.833Z</updated>
+    <updated>2022-07-30T23:29:12.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我研究了34個現實世界的頂級區塊鏈項目，所以你不必去研究。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32291213</id>
+        <link href="https://news.ycombinator.com/item?id=32291213"/>
+        <updated>2022-07-30T22:56:39.000Z</updated>
+        <summary type="html"><![CDATA[I Looked into 34 Top Real-World Blockchain Projects So You Don’t Have To]]></summary>
+        <author>
+            <name>ghuntley</name>
+            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在MacOS上使用Nix
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32290725</id>
+        <link href="https://news.ycombinator.com/item?id=32290725"/>
+        <updated>2022-07-30T21:52:17.000Z</updated>
+        <summary type="html"><![CDATA[Using Nix on macOS]]></summary>
+        <author>
+            <name>gbrindisi</name>
+            <uri>https://news.ycombinator.com/user?id=gbrindisi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[頁面搜索。靜態低帶寬搜索的規模
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32290634</id>
+        <link href="https://news.ycombinator.com/item?id=32290634"/>
+        <updated>2022-07-30T21:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Pagefind: Static Low-Bandwidth Search at Scale]]></summary>
+        <author>
+            <name>chmaynard</name>
+            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從零開始瞭解JSC中的GC
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32279867</id>
+        <link href="https://news.ycombinator.com/item?id=32279867"/>
+        <updated>2022-07-29T17:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Understanding GC in JSC from Scratch]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[構建點對點的網絡替代品的挑戰
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>staindk</name>
             <uri>https://news.ycombinator.com/user?id=staindk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker、Kubernetes、Terraform和AWS速成課程系列
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32213066</id>
-        <link href="https://news.ycombinator.com/item?id=32213066"/>
-        <updated>2022-07-24T13:01:22.000Z</updated>
-        <summary type="html"><![CDATA[The Docker, Kubernetes, Terraform, and AWS crash course series]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二十年的阿爾茨海默氏症研究建立在故意欺詐的基礎上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32212719</id>
-        <link href="https://news.ycombinator.com/item?id=32212719"/>
-        <updated>2022-07-24T12:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Two decades of Alzheimer’s research was based on deliberate fraud]]></summary>
-        <author>
-            <name>manesioz</name>
-            <uri>https://news.ycombinator.com/user?id=manesioz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix開始收取 "額外家庭 "費用。如果你不付錢，就會阻止 "額外家庭"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32212213</id>
-        <link href="https://news.ycombinator.com/item?id=32212213"/>
-        <updated>2022-07-24T11:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Netflix starts charging “extra home” fee. Blocks “extra homes” if you don’t pay]]></summary>
-        <author>
-            <name>jesse_faden</name>
-            <uri>https://news.ycombinator.com/user?id=jesse_faden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌將暫停所有招聘工作兩週
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32211686</id>
-        <link href="https://news.ycombinator.com/item?id=32211686"/>
-        <updated>2022-07-24T09:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Google to pause all hiring for two weeks]]></summary>
-        <author>
-            <name>jeremylevy</name>
-            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
         </author>
     </entry>
 </feed>
