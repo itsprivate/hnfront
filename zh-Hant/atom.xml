@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-30T11:44:36.951Z</updated>
+    <updated>2022-07-30T11:57:17.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何禁用瀏覽器中的右鍵攔截功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32285459</id>
+        <link href="https://news.ycombinator.com/item?id=32285459"/>
+        <updated>2022-07-30T09:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to disable right-click blocking in the browser]]></summary>
+        <author>
+            <name>saimiam</name>
+            <uri>https://news.ycombinator.com/user?id=saimiam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[路由器安全
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jonnycomputer</name>
             <uri>https://news.ycombinator.com/user?id=jonnycomputer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publii: 開源的本地所見即所得靜態網站CMS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204408</id>
-        <link href="https://news.ycombinator.com/item?id=32204408"/>
-        <updated>2022-07-23T15:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Publii: Open-source local WYSIWYG static site CMS]]></summary>
-        <author>
-            <name>api</name>
-            <uri>https://news.ycombinator.com/user?id=api</uri>
         </author>
     </entry>
 </feed>
