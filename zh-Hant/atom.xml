@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-30T17:42:39.725Z</updated>
+    <updated>2022-07-30T17:58:21.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們如何才能使機器人技術更像生成式建模？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287931</id>
+        <link href="https://news.ycombinator.com/item?id=32287931"/>
+        <updated>2022-07-30T16:16:29.000Z</updated>
+        <summary type="html"><![CDATA[How Can We Make Robotics More Like Generative Modeling?]]></summary>
+        <author>
+            <name>ericjang</name>
+            <uri>https://news.ycombinator.com/user?id=ericjang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誠實地評論最好的USB C和USB a電源測試儀
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>frozencell</name>
             <uri>https://news.ycombinator.com/user?id=frozencell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何趕走你最好的工程師
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32209789</id>
-        <link href="https://news.ycombinator.com/item?id=32209789"/>
-        <updated>2022-07-24T02:42:12.000Z</updated>
-        <summary type="html"><![CDATA[How to drive away your best engineers]]></summary>
-        <author>
-            <name>boberoni</name>
-            <uri>https://news.ycombinator.com/user?id=boberoni</uri>
         </author>
     </entry>
 </feed>
