@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-31T02:48:39.976Z</updated>
+    <updated>2022-07-31T03:57:07.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[出售自己的股票是未來的方向嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32292446</id>
+        <link href="https://news.ycombinator.com/item?id=32292446"/>
+        <updated>2022-07-31T01:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Is Selling Shares in Yourself the Way of the Future?]]></summary>
+        <author>
+            <name>SirLJ</name>
+            <uri>https://news.ycombinator.com/user?id=SirLJ</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS PackageKit.framework中存在嚴重的SIP繞過漏洞
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32278345</id>
+        <link href="https://news.ycombinator.com/item?id=32278345"/>
+        <updated>2022-07-29T15:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Critical SIP Bypass Vulnerabilities in macOS PackageKit.framework]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梅納德教授被燒死
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ajafari1</name>
             <uri>https://news.ycombinator.com/user?id=ajafari1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行為科學。在調整了出版偏差後，沒有證據表明有誘導作用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32213587</id>
-        <link href="https://news.ycombinator.com/item?id=32213587"/>
-        <updated>2022-07-24T14:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Behavioral science: No evidence for nudging after adjusting for publication bias]]></summary>
-        <author>
-            <name>ororm</name>
-            <uri>https://news.ycombinator.com/user?id=ororm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼GNU grep速度快 (2010)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32213468</id>
-        <link href="https://news.ycombinator.com/item?id=32213468"/>
-        <updated>2022-07-24T13:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Why GNU grep is fast (2010)]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
