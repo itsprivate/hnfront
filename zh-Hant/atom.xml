@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-31T06:32:39.630Z</updated>
+    <updated>2022-07-31T06:53:31.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你又成功了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32293592</id>
+        <link href="https://news.ycombinator.com/item?id=32293592"/>
+        <updated>2022-07-31T06:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Opppppsss you did it again]]></summary>
+        <author>
+            <name>eladkaplan</name>
+            <uri>https://news.ycombinator.com/user?id=eladkaplan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我獨自做了6年的JavaScript沙盒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32293178</id>
+        <link href="https://news.ycombinator.com/item?id=32293178"/>
+        <updated>2022-07-31T04:27:41.000Z</updated>
+        <summary type="html"><![CDATA[I've been making JavaScript sandbox alone for 6 years]]></summary>
+        <author>
+            <name>ianberdin</name>
+            <uri>https://news.ycombinator.com/user?id=ianberdin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是數碼照片中的EXIF數據？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非明顯的Docker用途
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32213950</id>
-        <link href="https://news.ycombinator.com/item?id=32213950"/>
-        <updated>2022-07-24T14:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Non-Obvious Docker Uses]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彈性文本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32202701</id>
-        <link href="https://news.ycombinator.com/item?id=32202701"/>
-        <updated>2022-07-23T12:30:05.000Z</updated>
-        <summary type="html"><![CDATA[StretchText]]></summary>
-        <author>
-            <name>dbrereton</name>
-            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
         </author>
     </entry>
 </feed>
