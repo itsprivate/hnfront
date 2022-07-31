@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-31T22:29:06.904Z</updated>
+    <updated>2022-07-31T22:47:00.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[格雷格不能使用加密的应用程序，必须在任何时候为警察打开他的手机
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32299244</id>
+        <link href="https://news.ycombinator.com/item?id=32299244"/>
+        <updated>2022-07-31T21:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Greg can't use encrypted apps and must open his phone for police at any time]]></summary>
+        <author>
+            <name>adrian_mrd</name>
+            <uri>https://news.ycombinator.com/user?id=adrian_mrd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我为书评做了一个虚拟书架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32298702</id>
+        <link href="https://news.ycombinator.com/item?id=32298702"/>
+        <updated>2022-07-31T20:49:30.000Z</updated>
+        <summary type="html"><![CDATA[I made a virtual bookshelf for book reviews]]></summary>
+        <author>
+            <name>mjdiloreto</name>
+            <uri>https://news.ycombinator.com/user?id=mjdiloreto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瓦解的立方体
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>flashfaffe2</name>
             <uri>https://news.ycombinator.com/user?id=flashfaffe2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稻草人？钢铁人？如何做 "星人"：从同情心出发进行争论
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32222683</id>
-        <link href="https://news.ycombinator.com/item?id=32222683"/>
-        <updated>2022-07-25T10:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Strawman? Steelman? How to Starman: Arguing from Compassion]]></summary>
-        <author>
-            <name>rendall</name>
-            <uri>https://news.ycombinator.com/user?id=rendall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Rust编写的用于3D打印机的STM32仿真器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32221078</id>
-        <link href="https://news.ycombinator.com/item?id=32221078"/>
-        <updated>2022-07-25T06:14:23.000Z</updated>
-        <summary type="html"><![CDATA[An STM32 emulator written in Rust for 3D printers]]></summary>
-        <author>
-            <name>nviennot</name>
-            <uri>https://news.ycombinator.com/user?id=nviennot</uri>
         </author>
     </entry>
 </feed>
