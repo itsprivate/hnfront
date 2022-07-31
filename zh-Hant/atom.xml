@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-07-31T19:58:34.940Z</updated>
+    <updated>2022-07-31T20:29:29.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[迫在眉睫的銅荒以及為什麼回收不能解決這個問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32298096</id>
+        <link href="https://news.ycombinator.com/item?id=32298096"/>
+        <updated>2022-07-31T19:35:17.000Z</updated>
+        <summary type="html"><![CDATA[The looming copper crunch and why recycling can’t fix it]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes重塑了虛擬機（從好的方面講）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32298058</id>
+        <link href="https://news.ycombinator.com/item?id=32298058"/>
+        <updated>2022-07-31T19:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes Reinvented Virtual Machines (in a good sense)]]></summary>
+        <author>
+            <name>paulgb</name>
+            <uri>https://news.ycombinator.com/user?id=paulgb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於RISC-V的單板計算機正在取得進展
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>drdee</name>
             <uri>https://news.ycombinator.com/user?id=drdee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邁向機器人加速器，實現機器人技術中硬件加速的民主化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32221072</id>
-        <link href="https://news.ycombinator.com/item?id=32221072"/>
-        <updated>2022-07-25T06:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Towards robot accelerators, democratizing hardware acceleration in robotics]]></summary>
-        <author>
-            <name>vmayoral</name>
-            <uri>https://news.ycombinator.com/user?id=vmayoral</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Neovim開發Godot項目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32203642</id>
-        <link href="https://news.ycombinator.com/item?id=32203642"/>
-        <updated>2022-07-23T14:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Developing Godot Projects with Neovim]]></summary>
-        <author>
-            <name>poga</name>
-            <uri>https://news.ycombinator.com/user?id=poga</uri>
         </author>
     </entry>
 </feed>
