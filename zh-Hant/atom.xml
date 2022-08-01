@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T13:59:07.959Z</updated>
+    <updated>2022-08-01T14:33:17.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為一名軟件工程師，對我幫助最大的書籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32305997</id>
+        <link href="https://news.ycombinator.com/item?id=32305997"/>
+        <updated>2022-08-01T13:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Books that have helped me the most as a software engineer]]></summary>
+        <author>
+            <name>colin-dumitru</name>
+            <uri>https://news.ycombinator.com/user?id=colin-dumitru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在x86上更快的CRC32-C
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32305900</id>
+        <link href="https://news.ycombinator.com/item?id=32305900"/>
+        <updated>2022-08-01T13:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Faster CRC32-C on x86]]></summary>
+        <author>
+            <name>rostayob</name>
+            <uri>https://news.ycombinator.com/user?id=rostayob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我通過刪除googleapis，從我的TypeScript構建中減少了80MB。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32305536</id>
+        <link href="https://news.ycombinator.com/item?id=32305536"/>
+        <updated>2022-08-01T13:18:47.000Z</updated>
+        <summary type="html"><![CDATA[I shaved 80 MB from my TypeScript build by removing googleapis]]></summary>
+        <author>
+            <name>danvk</name>
+            <uri>https://news.ycombinator.com/user?id=danvk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐洲的技術補償
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304824</id>
+        <link href="https://news.ycombinator.com/item?id=32304824"/>
+        <updated>2022-08-01T12:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tech Compensation in Europe]]></summary>
+        <author>
+            <name>gdaramouskas</name>
+            <uri>https://news.ycombinator.com/user?id=gdaramouskas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BDC - 符合人體工程學的、小於1KiB的虛擬DOM庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32293880</id>
+        <link href="https://news.ycombinator.com/item?id=32293880"/>
+        <updated>2022-07-31T07:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: BDC – Ergonomic, sub 1KiB virtual DOM library]]></summary>
+        <author>
+            <name>bwhmather</name>
+            <uri>https://news.ycombinator.com/user?id=bwhmather</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTok視頻讓青少年認為他們有罕見的精神障礙 (2021)
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六邊形網格上的管道拼圖（又稱網）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32216436</id>
-        <link href="https://news.ycombinator.com/item?id=32216436"/>
-        <updated>2022-07-24T18:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid]]></summary>
-        <author>
-            <name>gereleth</name>
-            <uri>https://news.ycombinator.com/user?id=gereleth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萊索托強大的自行車文化的形成 (2021)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32211440</id>
-        <link href="https://news.ycombinator.com/item?id=32211440"/>
-        <updated>2022-07-24T08:15:19.000Z</updated>
-        <summary type="html"><![CDATA[The Making of Lesotho's Robust Cycling Culture (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PickCode - 繼Scratch之後為學生提供的一個教育性編碼環境
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32230329</id>
-        <link href="https://news.ycombinator.com/item?id=32230329"/>
-        <updated>2022-07-25T20:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PickCode – An educational coding environment for students after Scratch]]></summary>
-        <author>
-            <name>csmeyer</name>
-            <uri>https://news.ycombinator.com/user?id=csmeyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是的，8086希望能從8080中進行機械轉換，但
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32229806</id>
-        <link href="https://news.ycombinator.com/item?id=32229806"/>
-        <updated>2022-07-25T19:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Yes, the 8086 wanted to be mechanically translatable from the 8080, but]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌字體拉動請求被忽略
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32229762</id>
-        <link href="https://news.ycombinator.com/item?id=32229762"/>
-        <updated>2022-07-25T19:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Google Fonts Pull Requests Ignored]]></summary>
-        <author>
-            <name>mhdhn</name>
-            <uri>https://news.ycombinator.com/user?id=mhdhn</uri>
         </author>
     </entry>
 </feed>
