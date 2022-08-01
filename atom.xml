@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T14:50:16.392Z</updated>
+    <updated>2022-08-01T15:00:36.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[主键式机械锁的权利放大 (2003) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32306328</id>
+        <link href="https://news.ycombinator.com/item?id=32306328"/>
+        <updated>2022-08-01T14:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Rights Amplification in Master-Keyed Mechanical Locks (2003) [pdf]]]></summary>
+        <author>
+            <name>wglb</name>
+            <uri>https://news.ycombinator.com/user?id=wglb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Cloudflare工人上用WASI运行Zig
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在命令行上培养了我的孩子，他们很喜欢它
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32230433</id>
-        <link href="https://news.ycombinator.com/item?id=32230433"/>
-        <updated>2022-07-25T20:25:04.000Z</updated>
-        <summary type="html"><![CDATA[I Raised My Kids on the Command Line and They Love It]]></summary>
-        <author>
-            <name>CalRobert</name>
-            <uri>https://news.ycombinator.com/user?id=CalRobert</uri>
         </author>
     </entry>
 </feed>
