@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T19:47:21.893Z</updated>
+    <updated>2022-08-01T19:57:56.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[排隊系統的馬爾科夫鏈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310665</id>
+        <link href="https://news.ycombinator.com/item?id=32310665"/>
+        <updated>2022-08-01T19:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Markov Chains for Queueing Systems]]></summary>
+        <author>
+            <name>kqr</name>
+            <uri>https://news.ycombinator.com/user?id=kqr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord在安卓應用中改用React Native
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310392</id>
+        <link href="https://news.ycombinator.com/item?id=32310392"/>
+        <updated>2022-08-01T18:41:57.000Z</updated>
+        <summary type="html"><![CDATA[Discord Switching to React Native for Android App]]></summary>
+        <author>
+            <name>keksdev</name>
+            <uri>https://news.ycombinator.com/user?id=keksdev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遊戲引擎可以幫助建設
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>walterbell</name>
             <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟Pluton的危險
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32234022</id>
-        <link href="https://news.ycombinator.com/item?id=32234022"/>
-        <updated>2022-07-26T03:46:19.000Z</updated>
-        <summary type="html"><![CDATA[The Dangers of Microsoft Pluton]]></summary>
-        <author>
-            <name>gjsman-1000</name>
-            <uri>https://news.ycombinator.com/user?id=gjsman-1000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開始使用短暫性容器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32221570</id>
-        <link href="https://news.ycombinator.com/item?id=32221570"/>
-        <updated>2022-07-25T07:39:09.000Z</updated>
-        <summary type="html"><![CDATA[Getting Started with Ephemeral Containers]]></summary>
-        <author>
-            <name>aviramha</name>
-            <uri>https://news.ycombinator.com/user?id=aviramha</uri>
         </author>
     </entry>
 </feed>
