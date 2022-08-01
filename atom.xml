@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T14:33:17.579Z</updated>
+    <updated>2022-08-01T14:50:16.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Cloudflare工人上用WASI运行Zig
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32306281</id>
+        <link href="https://news.ycombinator.com/item?id=32306281"/>
+        <updated>2022-08-01T14:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Running Zig with WASI on Cloudflare Workers]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[粒子物理学家对一个新的二元性的困惑
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32306012</id>
+        <link href="https://news.ycombinator.com/item?id=32306012"/>
+        <updated>2022-08-01T13:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Particle Physicists Puzzle over a New Duality]]></summary>
+        <author>
+            <name>kzrdude</name>
+            <uri>https://news.ycombinator.com/user?id=kzrdude</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国陆军伪装术改进说明--第一部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32306005</id>
+        <link href="https://news.ycombinator.com/item?id=32306005"/>
+        <updated>2022-08-01T13:57:49.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Army Camouflage Improvement Explained – Part 1]]></summary>
+        <author>
+            <name>BonoboIO</name>
+            <uri>https://news.ycombinator.com/user?id=BonoboIO</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零承诺可将升温限制在2℃以下
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32305934</id>
+        <link href="https://news.ycombinator.com/item?id=32305934"/>
+        <updated>2022-08-01T13:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Net-zero commitments could limit warming to below 2 °C]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一名软件工程师，对我帮助最大的书籍
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>CalRobert</name>
             <uri>https://news.ycombinator.com/user?id=CalRobert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的跨世纪新发现的代名词
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32230906</id>
-        <link href="https://news.ycombinator.com/item?id=32230906"/>
-        <updated>2022-07-25T21:04:47.000Z</updated>
-        <summary type="html"><![CDATA[My TransGentry Newfound Pronouns]]></summary>
-        <author>
-            <name>stevei_dot</name>
-            <uri>https://news.ycombinator.com/user?id=stevei_dot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clerky正在招聘高级软件工程师 - 全栈 - Ruby on Rails - 远程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32230842</id>
-        <link href="https://news.ycombinator.com/item?id=32230842"/>
-        <updated>2022-07-25T21:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Clerky is hiring senior software engineers – Full Stack · Ruby on Rails · Remote]]></summary>
-        <author>
-            <name>swampthing</name>
-            <uri>https://news.ycombinator.com/user?id=swampthing</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全基因组测序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32230819</id>
-        <link href="https://news.ycombinator.com/item?id=32230819"/>
-        <updated>2022-07-25T20:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Whole Genome Sequencing]]></summary>
-        <author>
-            <name>faebi</name>
-            <uri>https://news.ycombinator.com/user?id=faebi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[体现的碳：SSD的肮脏秘密（比HDD多8倍）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32229814</id>
-        <link href="https://news.ycombinator.com/item?id=32229814"/>
-        <updated>2022-07-25T19:35:28.000Z</updated>
-        <summary type="html"><![CDATA[Embodied Carbon: The Dirty Secret of SSDs (8x More Than HDD)]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
         </author>
     </entry>
 </feed>
