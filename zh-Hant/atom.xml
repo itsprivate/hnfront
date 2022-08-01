@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T17:47:41.751Z</updated>
+    <updated>2022-08-01T17:59:26.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Juris Hartmanis 1928-2022 - 哥德爾的失落之信和P=NP
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32309304</id>
+        <link href="https://news.ycombinator.com/item?id=32309304"/>
+        <updated>2022-08-01T17:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Juris Hartmanis 1928–2022 – Gödel's Lost Letter and P=NP]]></summary>
+        <author>
+            <name>sizzle</name>
+            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究發現，認知能力下降與超加工食品有關
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>liberia</name>
             <uri>https://news.ycombinator.com/user?id=liberia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以C語言為主體的新型嵌入式編程語言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32231417</id>
-        <link href="https://news.ycombinator.com/item?id=32231417"/>
-        <updated>2022-07-25T21:52:27.000Z</updated>
-        <summary type="html"><![CDATA[New embedded programming language with C as a host language]]></summary>
-        <author>
-            <name>dsvr</name>
-            <uri>https://news.ycombinator.com/user?id=dsvr</uri>
         </author>
     </entry>
 </feed>
