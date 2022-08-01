@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T23:02:50.147Z</updated>
+    <updated>2022-08-01T23:34:30.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人們在結果同樣令人滿意的決策上花費了太多的時間
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295095</id>
+        <link href="https://news.ycombinator.com/item?id=32295095"/>
+        <updated>2022-07-31T12:35:42.000Z</updated>
+        <summary type="html"><![CDATA[People Spend Too Much Time on Decisions with Equally Satisfying Outcomes]]></summary>
+        <author>
+            <name>Bostonian</name>
+            <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迪斯尼世界的蚊子：為什麼你（幾乎）從未見過它們？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>starsep</name>
             <uri>https://news.ycombinator.com/user?id=starsep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VM/370社區版 V1R1.2發佈
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32236092</id>
-        <link href="https://news.ycombinator.com/item?id=32236092"/>
-        <updated>2022-07-26T09:28:11.000Z</updated>
-        <summary type="html"><![CDATA[VM/370 Community Edition V1R1.2 released]]></summary>
-        <author>
-            <name>nix23</name>
-            <uri>https://news.ycombinator.com/user?id=nix23</uri>
         </author>
     </entry>
 </feed>
