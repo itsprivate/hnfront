@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T08:36:45.516Z</updated>
+    <updated>2022-08-01T09:50:31.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[萊納斯從一臺M1 MacBook上發佈了5.19內核
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303592</id>
+        <link href="https://news.ycombinator.com/item?id=32303592"/>
+        <updated>2022-08-01T09:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Linus releases the 5.19 kernel from an M1 MacBook]]></summary>
+        <author>
+            <name>anpep</name>
+            <uri>https://news.ycombinator.com/user?id=anpep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於可移植的Makefile的教程
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mikece</name>
             <uri>https://news.ycombinator.com/user?id=mikece</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球住房市場崩潰了，它正在分裂整個國家
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32226338</id>
-        <link href="https://news.ycombinator.com/item?id=32226338"/>
-        <updated>2022-07-25T16:03:26.000Z</updated>
-        <summary type="html"><![CDATA[The Global Housing Market Is Broken, and It’s Dividing Entire Countries]]></summary>
-        <author>
-            <name>dane-pgp</name>
-            <uri>https://news.ycombinator.com/user?id=dane-pgp</uri>
         </author>
     </entry>
 </feed>
