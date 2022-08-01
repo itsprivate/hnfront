@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T10:39:33.074Z</updated>
+    <updated>2022-08-01T10:54:32.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新聞簡報有用嗎？為什麼網站會如此推崇它們？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304011</id>
+        <link href="https://news.ycombinator.com/item?id=32304011"/>
+        <updated>2022-08-01T10:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do newsletters work? Why do websites push them so much?]]></summary>
+        <author>
+            <name>nicbou</name>
+            <uri>https://news.ycombinator.com/user?id=nicbou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過透明壓縮將SQLite數據庫的大小減少到80%。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora不允許使用CC0許可的代碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32226959</id>
-        <link href="https://news.ycombinator.com/item?id=32226959"/>
-        <updated>2022-07-25T16:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Fedora to disallow CC0-licensed code]]></summary>
-        <author>
-            <name>em-bee</name>
-            <uri>https://news.ycombinator.com/user?id=em-bee</uri>
         </author>
     </entry>
 </feed>
