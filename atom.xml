@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T06:25:04.825Z</updated>
+    <updated>2022-08-01T07:09:29.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这个人因为谋杀了一个还活着的人而在监狱里呆了20年吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32302702</id>
+        <link href="https://news.ycombinator.com/item?id=32302702"/>
+        <updated>2022-08-01T06:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Did this man spend 20 years in prison for murdering a man who is still alive?]]></summary>
+        <author>
+            <name>helsinkiandrew</name>
+            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outserv - GraphQL搜索引擎
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kiyanwang</name>
             <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新车平均交易价格创下48,043美元的纪录
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32225837</id>
-        <link href="https://news.ycombinator.com/item?id=32225837"/>
-        <updated>2022-07-25T15:34:48.000Z</updated>
-        <summary type="html"><![CDATA[Average new car transaction price hits a record $48,043]]></summary>
-        <author>
-            <name>ra7</name>
-            <uri>https://news.ycombinator.com/user?id=ra7</uri>
         </author>
     </entry>
 </feed>
