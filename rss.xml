@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 01 Aug 2022 11:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 13:00:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你离开Kubernetes了吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32304834</link>
+            <guid>https://news.ycombinator.com/item?id=32304834</guid>
+            <pubDate>Mon, 01 Aug 2022 12:08:23 GMT</pubDate>
+            <description><![CDATA[Ask HN: Have You Left Kubernetes?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[正式验证Rust的不透明类型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32304618</link>
+            <guid>https://news.ycombinator.com/item?id=32304618</guid>
+            <pubDate>Mon, 01 Aug 2022 11:42:22 GMT</pubDate>
+            <description><![CDATA[Formally Verifying Rust's Opaque Types]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你想知道一些关于我们的大脑是如何狗屁不通的吗？(2018)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32303786</link>
+            <guid>https://news.ycombinator.com/item?id=32303786</guid>
+            <pubDate>Mon, 01 Aug 2022 09:41:06 GMT</pubDate>
+            <description><![CDATA[You want to know something about how bullshit insane our brains are? (2018)]]></description>
+        </item>
         <item>
             <title><![CDATA[图书管理员给谷歌安全的信
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32228627</guid>
             <pubDate>Mon, 25 Jul 2022 18:18:20 GMT</pubDate>
             <description><![CDATA[Coding Mistake Made Intel GPUs 100X Slower in Ray Tracing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[数据并行的行为者。可扩展查询服务系统的编程模型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32228569</link>
-            <guid>https://news.ycombinator.com/item?id=32228569</guid>
-            <pubDate>Mon, 25 Jul 2022 18:14:08 GMT</pubDate>
-            <description><![CDATA[Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于计算机的拼写检查技术
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32212778</link>
-            <guid>https://news.ycombinator.com/item?id=32212778</guid>
-            <pubDate>Sun, 24 Jul 2022 12:27:12 GMT</pubDate>
-            <description><![CDATA[Computer Based Spellchecking Techniques]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么要把类成员变成私有？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32227737</link>
-            <guid>https://news.ycombinator.com/item?id=32227737</guid>
-            <pubDate>Mon, 25 Jul 2022 17:23:43 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why do you make class members private?]]></description>
         </item>
     </channel>
 </rss>

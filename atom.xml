@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T11:45:23.224Z</updated>
+    <updated>2022-08-01T13:00:34.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你离开Kubernetes了吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304834</id>
+        <link href="https://news.ycombinator.com/item?id=32304834"/>
+        <updated>2022-08-01T12:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have You Left Kubernetes?]]></summary>
+        <author>
+            <name>strzibny</name>
+            <uri>https://news.ycombinator.com/user?id=strzibny</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正式验证Rust的不透明类型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304618</id>
+        <link href="https://news.ycombinator.com/item?id=32304618"/>
+        <updated>2022-08-01T11:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Formally Verifying Rust's Opaque Types]]></summary>
+        <author>
+            <name>BreakfastB0b</name>
+            <uri>https://news.ycombinator.com/user?id=BreakfastB0b</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你想知道一些关于我们的大脑是如何狗屁不通的吗？(2018)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303786</id>
+        <link href="https://news.ycombinator.com/item?id=32303786"/>
+        <updated>2022-08-01T09:41:06.000Z</updated>
+        <summary type="html"><![CDATA[You want to know something about how bullshit insane our brains are? (2018)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图书管理员给谷歌安全的信
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>sizzle</name>
             <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据并行的行为者。可扩展查询服务系统的编程模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32228569</id>
-        <link href="https://news.ycombinator.com/item?id=32228569"/>
-        <updated>2022-07-25T18:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems]]></summary>
-        <author>
-            <name>greghn</name>
-            <uri>https://news.ycombinator.com/user?id=greghn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于计算机的拼写检查技术
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32212778</id>
-        <link href="https://news.ycombinator.com/item?id=32212778"/>
-        <updated>2022-07-24T12:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Computer Based Spellchecking Techniques]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么要把类成员变成私有？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32227737</id>
-        <link href="https://news.ycombinator.com/item?id=32227737"/>
-        <updated>2022-07-25T17:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do you make class members private?]]></summary>
-        <author>
-            <name>robalni</name>
-            <uri>https://news.ycombinator.com/user?id=robalni</uri>
         </author>
     </entry>
 </feed>
