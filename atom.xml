@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-01T09:50:31.515Z</updated>
+    <updated>2022-08-01T10:39:33.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过透明压缩将SQLite数据库的大小减少到80%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303762</id>
+        <link href="https://news.ycombinator.com/item?id=32303762"/>
+        <updated>2022-08-01T09:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reduce SQLite database size by up to 80% with transparent compression]]></summary>
+        <author>
+            <name>phiresky</name>
+            <uri>https://news.ycombinator.com/user?id=phiresky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白色标签的任何网页
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303337</id>
+        <link href="https://news.ycombinator.com/item?id=32303337"/>
+        <updated>2022-08-01T08:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: White Label Any Webpage]]></summary>
+        <author>
+            <name>motyar</name>
+            <uri>https://news.ycombinator.com/user?id=motyar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维基百科阻止了对 "衰退 "的编辑，因为人们改变了定义
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303279</id>
+        <link href="https://news.ycombinator.com/item?id=32303279"/>
+        <updated>2022-08-01T08:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Wikipedia has blocked editing ‘recession’ as people change definition]]></summary>
+        <author>
+            <name>nailer</name>
+            <uri>https://news.ycombinator.com/user?id=nailer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宣布Docusaurus 2.0 - Meta的静态网站生成器，用于建立文档网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303052</id>
+        <link href="https://news.ycombinator.com/item?id=32303052"/>
+        <updated>2022-08-01T07:18:54.000Z</updated>
+        <summary type="html"><![CDATA[Announcing Docusaurus 2.0 – Meta's static site generator to build docs sites]]></summary>
+        <author>
+            <name>slorber</name>
+            <uri>https://news.ycombinator.com/user?id=slorber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莱纳斯从一台M1 MacBook上发布了5.19内核
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>em-bee</name>
             <uri>https://news.ycombinator.com/user?id=em-bee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我陷入了困境。你是如何走出你的困境的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32226910</id>
-        <link href="https://news.ycombinator.com/item?id=32226910"/>
-        <updated>2022-07-25T16:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm in a rut. How did you get out of yours?]]></summary>
-        <author>
-            <name>RutStucker</name>
-            <uri>https://news.ycombinator.com/user?id=RutStucker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么学术自由很重要 (2021)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32226555</id>
-        <link href="https://news.ycombinator.com/item?id=32226555"/>
-        <updated>2022-07-25T16:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Why Academic Freedom Matters (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据腐蚀工程师称，金属腐蚀的成本占全球GDP的~3%(2016年)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32226267</id>
-        <link href="https://news.ycombinator.com/item?id=32226267"/>
-        <updated>2022-07-25T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Metal corrosion costs ~3% of global GDP, according to corrosion engineers (2016)]]></summary>
-        <author>
-            <name>apatil</name>
-            <uri>https://news.ycombinator.com/user?id=apatil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是时候把闰秒留在过去了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32226414</id>
-        <link href="https://news.ycombinator.com/item?id=32226414"/>
-        <updated>2022-07-25T16:08:55.000Z</updated>
-        <summary type="html"><![CDATA[It’s time to leave the leap second in the past]]></summary>
-        <author>
-            <name>mikece</name>
-            <uri>https://news.ycombinator.com/user?id=mikece</uri>
         </author>
     </entry>
 </feed>
