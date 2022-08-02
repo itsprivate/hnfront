@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T06:04:52.636Z</updated>
+    <updated>2022-08-02T06:46:43.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[解決從捐助方收到的電子表格中的編碼問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32305870</id>
+        <link href="https://news.ycombinator.com/item?id=32305870"/>
+        <updated>2022-08-01T13:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Resolving Encoding Issues in a Spreadsheet received from donors]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶Sparkfun FT232RL的自制USB DMX接口
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>superzamp</name>
             <uri>https://news.ycombinator.com/user?id=superzamp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於插座，他們沒有教你的東西
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32225532</id>
-        <link href="https://news.ycombinator.com/item?id=32225532"/>
-        <updated>2022-07-25T15:15:29.000Z</updated>
-        <summary type="html"><![CDATA[What they don't teach you about sockets]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
