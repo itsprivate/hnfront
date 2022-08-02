@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T06:46:43.659Z</updated>
+    <updated>2022-08-02T07:45:18.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个毛茸茸的人发明的冷却背心是如何进入美国军队的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32315827</id>
+        <link href="https://news.ycombinator.com/item?id=32315827"/>
+        <updated>2022-08-02T06:47:20.000Z</updated>
+        <summary type="html"><![CDATA[How a cooling vest invented by a furry made it's way into the US military]]></summary>
+        <author>
+            <name>FeaturelessBug</name>
+            <uri>https://news.ycombinator.com/user?id=FeaturelessBug</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解决从捐助方收到的电子表格中的编码问题
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>djhaskin987</name>
             <uri>https://news.ycombinator.com/user?id=djhaskin987</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们对Stripe的21种产品的费用进行了分析
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32239288</id>
-        <link href="https://news.ycombinator.com/item?id=32239288"/>
-        <updated>2022-07-26T15:00:48.000Z</updated>
-        <summary type="html"><![CDATA[We crunched the fees of Stripe's 21 products]]></summary>
-        <author>
-            <name>superzamp</name>
-            <uri>https://news.ycombinator.com/user?id=superzamp</uri>
         </author>
     </entry>
 </feed>
