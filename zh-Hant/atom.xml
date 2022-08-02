@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T19:25:44.669Z</updated>
+    <updated>2022-08-02T19:45:53.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學術界相信的謊言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32323103</id>
+        <link href="https://news.ycombinator.com/item?id=32323103"/>
+        <updated>2022-08-02T19:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Lies Academics Believe]]></summary>
+        <author>
+            <name>rachitnigam</name>
+            <uri>https://news.ycombinator.com/user?id=rachitnigam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於PCB框架的小型異想天開的直升飛機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32322825</id>
+        <link href="https://news.ycombinator.com/item?id=32322825"/>
+        <updated>2022-08-02T18:55:53.000Z</updated>
+        <summary type="html"><![CDATA[A little whimsy copter based on a PCB frame]]></summary>
+        <author>
+            <name>alex_hirner</name>
+            <uri>https://news.ycombinator.com/user?id=alex_hirner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[唾液微生物組顯示出與精神分裂症有關的失調微生物群
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>adulau</name>
             <uri>https://news.ycombinator.com/user?id=adulau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視覺化的氣泡（1500-1906）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32241242</id>
-        <link href="https://news.ycombinator.com/item?id=32241242"/>
-        <updated>2022-07-26T17:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Visualising Bubbles (1500–1906)]]></summary>
-        <author>
-            <name>prismatic</name>
-            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大多數功能語言的架構》(1986) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32247399</id>
-        <link href="https://news.ycombinator.com/item?id=32247399"/>
-        <updated>2022-07-27T06:17:03.000Z</updated>
-        <summary type="html"><![CDATA[An Architecture for Mostly Functional Languages (1986) [pdf]]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
