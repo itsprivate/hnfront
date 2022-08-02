@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T10:37:23.962Z</updated>
+    <updated>2022-08-02T10:59:50.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當外科醫生是一個沒有受過教育的理髮師時
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32294503</id>
+        <link href="https://news.ycombinator.com/item?id=32294503"/>
+        <updated>2022-07-31T09:59:31.000Z</updated>
+        <summary type="html"><![CDATA[When the Surgeon Was an Uneducated Barber]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用e-ink電子貨架標籤搭建面板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aero-glide2</name>
             <uri>https://news.ycombinator.com/user?id=aero-glide2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉通過削減1/3的續航里程遠程贖回車主
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32240980</id>
-        <link href="https://news.ycombinator.com/item?id=32240980"/>
-        <updated>2022-07-26T17:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Tesla ransoms car owner remotely by cutting 1/3 of their range]]></summary>
-        <author>
-            <name>noasaservice</name>
-            <uri>https://news.ycombinator.com/user?id=noasaservice</uri>
         </author>
     </entry>
 </feed>
