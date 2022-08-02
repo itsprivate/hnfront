@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T20:00:04.909Z</updated>
+    <updated>2022-08-02T20:33:25.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的數據適合在RAM中保存
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32323415</id>
+        <link href="https://news.ycombinator.com/item?id=32323415"/>
+        <updated>2022-08-02T19:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Your Data Fits in RAM]]></summary>
+        <author>
+            <name>louwrentius</name>
+            <uri>https://news.ycombinator.com/user?id=louwrentius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地球創造了最短工作日的新紀錄
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32323376</id>
+        <link href="https://news.ycombinator.com/item?id=32323376"/>
+        <updated>2022-08-02T19:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Earth Sets New Record for Shortest Day]]></summary>
+        <author>
+            <name>swamp40</name>
+            <uri>https://news.ycombinator.com/user?id=swamp40</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20B參數的Alexa模型在幾率學習中樹立了新的標杆
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Nic0</name>
             <uri>https://news.ycombinator.com/user?id=Nic0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Emacs代替Fzf的模糊查找法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32236195</id>
-        <link href="https://news.ycombinator.com/item?id=32236195"/>
-        <updated>2022-07-26T09:43:48.000Z</updated>
-        <summary type="html"><![CDATA[Fuzzy Finding with Emacs Instead of Fzf]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幫助挑選一種CSS嵌套的語法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32248419</id>
-        <link href="https://news.ycombinator.com/item?id=32248419"/>
-        <updated>2022-07-27T09:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Help pick a syntax for CSS nesting]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>

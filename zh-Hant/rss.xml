@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 20:00:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 20:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的數據適合在RAM中保存
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32323415</link>
+            <guid>https://news.ycombinator.com/item?id=32323415</guid>
+            <pubDate>Tue, 02 Aug 2022 19:49:13 GMT</pubDate>
+            <description><![CDATA[Your Data Fits in RAM]]></description>
+        </item>
+        <item>
+            <title><![CDATA[地球創造了最短工作日的新紀錄
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32323376</link>
+            <guid>https://news.ycombinator.com/item?id=32323376</guid>
+            <pubDate>Tue, 02 Aug 2022 19:46:47 GMT</pubDate>
+            <description><![CDATA[Earth Sets New Record for Shortest Day]]></description>
+        </item>
         <item>
             <title><![CDATA[20B參數的Alexa模型在幾率學習中樹立了新的標杆
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32248543</guid>
             <pubDate>Wed, 27 Jul 2022 09:47:11 GMT</pubDate>
             <description><![CDATA[After Obsidian and Logseq, I give Dendron a try]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Emacs代替Fzf的模糊查找法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32236195</link>
-            <guid>https://news.ycombinator.com/item?id=32236195</guid>
-            <pubDate>Tue, 26 Jul 2022 09:43:48 GMT</pubDate>
-            <description><![CDATA[Fuzzy Finding with Emacs Instead of Fzf]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幫助挑選一種CSS嵌套的語法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32248419</link>
-            <guid>https://news.ycombinator.com/item?id=32248419</guid>
-            <pubDate>Wed, 27 Jul 2022 09:18:41 GMT</pubDate>
-            <description><![CDATA[Help pick a syntax for CSS nesting]]></description>
         </item>
     </channel>
 </rss>
