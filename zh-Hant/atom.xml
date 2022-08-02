@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T20:50:26.534Z</updated>
+    <updated>2022-08-02T21:02:45.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[漂亮的印刷 (1979) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32296369</id>
+        <link href="https://news.ycombinator.com/item?id=32296369"/>
+        <updated>2022-07-31T15:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Pretty Printing (1979) [pdf]]]></summary>
+        <author>
+            <name>azhenley</name>
+            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[氣候終局：探索災難性的氣候變化情景
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>skanderbm</name>
             <uri>https://news.ycombinator.com/user?id=skanderbm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可以閱讀我的博客文章，使用curl
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32248404</id>
-        <link href="https://news.ycombinator.com/item?id=32248404"/>
-        <updated>2022-07-27T09:15:36.000Z</updated>
-        <summary type="html"><![CDATA[You can read my blog posts using curl]]></summary>
-        <author>
-            <name>mdibaiee</name>
-            <uri>https://news.ycombinator.com/user?id=mdibaiee</uri>
         </author>
     </entry>
 </feed>
