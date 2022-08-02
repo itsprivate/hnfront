@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T20:33:25.040Z</updated>
+    <updated>2022-08-02T20:50:26.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[气候终局：探索灾难性的气候变化情景
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32323757</id>
+        <link href="https://news.ycombinator.com/item?id=32323757"/>
+        <updated>2022-08-02T20:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Climate endgame: exploring catastrophic climate change scenarios]]></summary>
+        <author>
+            <name>anigbrowl</name>
+            <uri>https://news.ycombinator.com/user?id=anigbrowl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的数据适合在RAM中保存
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mdibaiee</name>
             <uri>https://news.ycombinator.com/user?id=mdibaiee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在黑曜石和Logseq之后，我对Dendron进行了尝试。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32248543</id>
-        <link href="https://news.ycombinator.com/item?id=32248543"/>
-        <updated>2022-07-27T09:47:11.000Z</updated>
-        <summary type="html"><![CDATA[After Obsidian and Logseq, I give Dendron a try]]></summary>
-        <author>
-            <name>Nic0</name>
-            <uri>https://news.ycombinator.com/user?id=Nic0</uri>
         </author>
     </entry>
 </feed>
