@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T17:22:23.092Z</updated>
+    <updated>2022-08-02T17:48:38.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go 1.19版发布
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32321499</id>
+        <link href="https://news.ycombinator.com/item?id=32321499"/>
+        <updated>2022-08-02T17:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Go 1.19 Released]]></summary>
+        <author>
+            <name>petercooper</name>
+            <uri>https://news.ycombinator.com/user?id=petercooper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么要学习函数式编程？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>randomwalker</name>
             <uri>https://news.ycombinator.com/user?id=randomwalker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2015年阿什利-麦迪逊公司漏洞事件回顾
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32246032</id>
-        <link href="https://news.ycombinator.com/item?id=32246032"/>
-        <updated>2022-07-27T01:29:44.000Z</updated>
-        <summary type="html"><![CDATA[A Retrospective on the 2015 Ashley Madison Breach]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
         </author>
     </entry>
 </feed>
