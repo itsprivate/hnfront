@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-02T17:48:38.298Z</updated>
+    <updated>2022-08-02T18:01:47.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[世界的另類奇蹟
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295763</id>
+        <link href="https://news.ycombinator.com/item?id=32295763"/>
+        <updated>2022-07-31T14:35:41.000Z</updated>
+        <summary type="html"><![CDATA[Alternative Wonders of the World]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.19版發佈
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kitkat_new</name>
             <uri>https://news.ycombinator.com/user?id=kitkat_new</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全政策審計。為什麼和如何
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242473</id>
-        <link href="https://news.ycombinator.com/item?id=32242473"/>
-        <updated>2022-07-26T19:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Security policy audits: Why and How]]></summary>
-        <author>
-            <name>randomwalker</name>
-            <uri>https://news.ycombinator.com/user?id=randomwalker</uri>
         </author>
     </entry>
 </feed>
