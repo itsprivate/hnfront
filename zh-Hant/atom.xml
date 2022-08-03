@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T21:01:16.695Z</updated>
+    <updated>2022-08-03T21:28:37.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Aptible（YC S14）正在為我們的安全、合規的PaaS替代Heroku進行招聘。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32336621</id>
+        <link href="https://news.ycombinator.com/item?id=32336621"/>
+        <updated>2022-08-03T21:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Aptible (YC S14) is hiring for our secure, compliant PaaS alternative to Heroku]]></summary>
+        <author>
+            <name>fancyremarker</name>
+            <uri>https://news.ycombinator.com/user?id=fancyremarker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[類似PS1的微小渲染器只有500行
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>komape</name>
             <uri>https://news.ycombinator.com/user?id=komape</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我挑選初創企業想法的標準
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261464</id>
-        <link href="https://news.ycombinator.com/item?id=32261464"/>
-        <updated>2022-07-28T07:35:23.000Z</updated>
-        <summary type="html"><![CDATA[My Criteria for Picking Startup Ideas]]></summary>
-        <author>
-            <name>prasenjit_pro</name>
-            <uri>https://news.ycombinator.com/user?id=prasenjit_pro</uri>
         </author>
     </entry>
 </feed>
