@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T14:50:19.586Z</updated>
+    <updated>2022-08-03T15:02:22.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被淹没不是一种荣誉的象征
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32332109</id>
+        <link href="https://news.ycombinator.com/item?id=32332109"/>
+        <updated>2022-08-03T14:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Being swamped is not a badge of honor]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Cloudflare电子邮件路由劫持电子邮件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331781</id>
+        <link href="https://news.ycombinator.com/item?id=32331781"/>
+        <updated>2022-08-03T14:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Hijacking Email with Cloudflare Email Routing]]></summary>
+        <author>
+            <name>albertpedersen</name>
+            <uri>https://news.ycombinator.com/user?id=albertpedersen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modus：一种用于构建Docker/OCI容器镜像的语言
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>cpeterso</name>
             <uri>https://news.ycombinator.com/user?id=cpeterso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大家似乎都忘记了GNOME和GNOME 3以及Unity发生的原因
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32257412</id>
-        <link href="https://news.ycombinator.com/item?id=32257412"/>
-        <updated>2022-07-27T21:43:35.000Z</updated>
-        <summary type="html"><![CDATA[Everyone seems to forget why GNOME and GNOME 3 and Unity happened]]></summary>
-        <author>
-            <name>JetSpiegel</name>
-            <uri>https://news.ycombinator.com/user?id=JetSpiegel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美达公司公布2022年第二季度业绩 [pdf］
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32256545</id>
-        <link href="https://news.ycombinator.com/item?id=32256545"/>
-        <updated>2022-07-27T20:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Meta Reports Second Quarter 2022 Results [pdf]]]></summary>
-        <author>
-            <name>kgwgk</name>
-            <uri>https://news.ycombinator.com/user?id=kgwgk</uri>
         </author>
     </entry>
 </feed>
