@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T18:57:16.902Z</updated>
+    <updated>2022-08-03T19:47:38.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Emacs时间轴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32294737</id>
+        <link href="https://news.ycombinator.com/item?id=32294737"/>
+        <updated>2022-07-31T10:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Emacs Timeline]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生产力色情片
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>twooster</name>
             <uri>https://news.ycombinator.com/user?id=twooster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锈蚀实际上是可移动的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32260619</id>
-        <link href="https://news.ycombinator.com/item?id=32260619"/>
-        <updated>2022-07-28T04:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Rust Is Actually Portable]]></summary>
-        <author>
-            <name>ahgamut</name>
-            <uri>https://news.ycombinator.com/user?id=ahgamut</uri>
         </author>
     </entry>
 </feed>
