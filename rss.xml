@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 17:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 18:07:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我知道你下载了什么
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32334786</link>
+            <guid>https://news.ycombinator.com/item?id=32334786</guid>
+            <pubDate>Wed, 03 Aug 2022 17:46:51 GMT</pubDate>
+            <description><![CDATA[I know what you download]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在书中发现的最奇怪的事情
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32334552</link>
+            <guid>https://news.ycombinator.com/item?id=32334552</guid>
+            <pubDate>Wed, 03 Aug 2022 17:26:30 GMT</pubDate>
+            <description><![CDATA[Strangest Thing Found in a Book]]></description>
+        </item>
         <item>
             <title><![CDATA[免费在线教科书的作用
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32237650</guid>
             <pubDate>Tue, 26 Jul 2022 12:59:58 GMT</pubDate>
             <description><![CDATA[Upgrading what might be the oldest running Linux install]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HypeScript。在TypeScript自己的类型系统中简化TypeScript的类型系统
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32259934</link>
-            <guid>https://news.ycombinator.com/item?id=32259934</guid>
-            <pubDate>Thu, 28 Jul 2022 02:42:33 GMT</pubDate>
-            <description><![CDATA[HypeScript: Simplified TypeScript type system in TypeScript's own type system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盲写和LSM
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32250958</link>
-            <guid>https://news.ycombinator.com/item?id=32250958</guid>
-            <pubDate>Wed, 27 Jul 2022 14:41:15 GMT</pubDate>
-            <description><![CDATA[Blind-writes and an LSM]]></description>
         </item>
     </channel>
 </rss>
