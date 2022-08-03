@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 22:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 22:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RISC-V APLIC的新功能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32296467</link>
+            <guid>https://news.ycombinator.com/item?id=32296467</guid>
+            <pubDate>Sun, 31 Jul 2022 16:03:35 GMT</pubDate>
+            <description><![CDATA[The RISC-V APLIC’s New Features]]></description>
+        </item>
         <item>
             <title><![CDATA[使用HVF加速，在蘋果Silicon Mac上的QEMU中運行適用於ARM64的FreeBSD 13.1。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32262153</guid>
             <pubDate>Thu, 28 Jul 2022 09:26:12 GMT</pubDate>
             <description><![CDATA[I've Been Targeted with the Most Vicious Corporate Counterattack in US History]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過使用Stripe作為我的小企業的支付處理器來實現TIFU。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32261868</link>
-            <guid>https://news.ycombinator.com/item?id=32261868</guid>
-            <pubDate>Thu, 28 Jul 2022 08:50:39 GMT</pubDate>
-            <description><![CDATA[TIFU by using Stripe as a payment processor for my small business]]></description>
         </item>
     </channel>
 </rss>

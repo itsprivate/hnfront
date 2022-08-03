@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T22:32:26.709Z</updated>
+    <updated>2022-08-03T22:49:57.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RISC-V APLIC的新功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32296467</id>
+        <link href="https://news.ycombinator.com/item?id=32296467"/>
+        <updated>2022-07-31T16:03:35.000Z</updated>
+        <summary type="html"><![CDATA[The RISC-V APLIC’s New Features]]></summary>
+        <author>
+            <name>azhenley</name>
+            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用HVF加速，在蘋果Silicon Mac上的QEMU中運行適用於ARM64的FreeBSD 13.1。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robtherobber</name>
             <uri>https://news.ycombinator.com/user?id=robtherobber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過使用Stripe作為我的小企業的支付處理器來實現TIFU。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261868</id>
-        <link href="https://news.ycombinator.com/item?id=32261868"/>
-        <updated>2022-07-28T08:50:39.000Z</updated>
-        <summary type="html"><![CDATA[TIFU by using Stripe as a payment processor for my small business]]></summary>
-        <author>
-            <name>ahiknsr</name>
-            <uri>https://news.ycombinator.com/user?id=ahiknsr</uri>
         </author>
     </entry>
 </feed>
