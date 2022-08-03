@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T05:27:58.473Z</updated>
+    <updated>2022-08-03T06:01:50.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[恶意代码添加到35000个GitHub仓库，泄露用户环境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32327903</id>
+        <link href="https://news.ycombinator.com/item?id=32327903"/>
+        <updated>2022-08-03T05:16:31.000Z</updated>
+        <summary type="html"><![CDATA[Malicious code added to 35k GitHub repos, leaking user environments]]></summary>
+        <author>
+            <name>pcmonk</name>
+            <uri>https://news.ycombinator.com/user?id=pcmonk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FauxPilot - 一个开源的GitHub Copilot服务器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vinni2</name>
             <uri>https://news.ycombinator.com/user?id=vinni2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12小时内，苹果公司的部分网络被俄罗斯的Rostelecom劫持了吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251501</id>
-        <link href="https://news.ycombinator.com/item?id=32251501"/>
-        <updated>2022-07-27T15:17:31.000Z</updated>
-        <summary type="html"><![CDATA[For 12 Hours, Was Part of Apple’s Network Hijacked by Russia’s Rostelecom?]]></summary>
-        <author>
-            <name>danyork</name>
-            <uri>https://news.ycombinator.com/user?id=danyork</uri>
         </author>
     </entry>
 </feed>
