@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T09:33:16.053Z</updated>
+    <updated>2022-08-03T10:01:44.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Django 4.1版發佈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32329399</id>
+        <link href="https://news.ycombinator.com/item?id=32329399"/>
+        <updated>2022-08-03T09:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Django 4.1 Released]]></summary>
+        <author>
+            <name>j4mie</name>
+            <uri>https://news.ycombinator.com/user?id=j4mie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[廢除博士學位
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>overspeed</name>
             <uri>https://news.ycombinator.com/user?id=overspeed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[採訪David Zilber
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32235863</id>
-        <link href="https://news.ycombinator.com/item?id=32235863"/>
-        <updated>2022-07-26T08:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Interview with David Zilber]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
