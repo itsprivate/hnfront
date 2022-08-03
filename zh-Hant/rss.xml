@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 22:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用HVF加速，在蘋果Silicon Mac上的QEMU中運行適用於ARM64的FreeBSD 13.1。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32337023</link>
+            <guid>https://news.ycombinator.com/item?id=32337023</guid>
+            <pubDate>Wed, 03 Aug 2022 21:52:54 GMT</pubDate>
+            <description><![CDATA[Run FreeBSD 13.1 for ARM64 in QEMU on Apple Silicon Mac with HVF Acceleration]]></description>
+        </item>
         <item>
             <title><![CDATA[微軟團隊爭先恐後地捕捉漏洞
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32261868</guid>
             <pubDate>Thu, 28 Jul 2022 08:50:39 GMT</pubDate>
             <description><![CDATA[TIFU by using Stripe as a payment processor for my small business]]></description>
-        </item>
-        <item>
-            <title><![CDATA[到達太陽引力透鏡的焦點區域並在此活動的任務
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32262545</link>
-            <guid>https://news.ycombinator.com/item?id=32262545</guid>
-            <pubDate>Thu, 28 Jul 2022 10:22:06 GMT</pubDate>
-            <description><![CDATA[Mission to reach and operate at the focal region of the solar gravitational lens]]></description>
         </item>
     </channel>
 </rss>
