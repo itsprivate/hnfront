@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T18:07:08.701Z</updated>
+    <updated>2022-08-03T18:37:35.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將你的容器最小化達30倍，使其更加安全（免費和開放源代碼）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32334741</id>
+        <link href="https://news.ycombinator.com/item?id=32334741"/>
+        <updated>2022-08-03T17:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Minify your container by up to 30x to be more secure (free and open source)]]></summary>
+        <author>
+            <name>JordanTenn</name>
+            <uri>https://news.ycombinator.com/user?id=JordanTenn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果的放緩
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295624</id>
+        <link href="https://news.ycombinator.com/item?id=32295624"/>
+        <updated>2022-07-31T14:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s Slowdown]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我知道你下載了什麼
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Danieru</name>
             <uri>https://news.ycombinator.com/user?id=Danieru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在2022年創建一個Python包
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32258783</id>
-        <link href="https://news.ycombinator.com/item?id=32258783"/>
-        <updated>2022-07-28T00:06:31.000Z</updated>
-        <summary type="html"><![CDATA[How to create a Python package in 2022]]></summary>
-        <author>
-            <name>kieto</name>
-            <uri>https://news.ycombinator.com/user?id=kieto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[升級可能是最古老的運行中的Linux裝置
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32237650</id>
-        <link href="https://news.ycombinator.com/item?id=32237650"/>
-        <updated>2022-07-26T12:59:58.000Z</updated>
-        <summary type="html"><![CDATA[Upgrading what might be the oldest running Linux install]]></summary>
-        <author>
-            <name>theandrewbailey</name>
-            <uri>https://news.ycombinator.com/user?id=theandrewbailey</uri>
         </author>
     </entry>
 </feed>
