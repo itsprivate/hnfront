@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T21:28:36.985Z</updated>
+    <updated>2022-08-03T21:48:59.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软团队争先恐后地捕捉漏洞
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32336818</id>
+        <link href="https://news.ycombinator.com/item?id=32336818"/>
+        <updated>2022-08-03T21:25:05.000Z</updated>
+        <summary type="html"><![CDATA[The Microsoft Team Racing to Catch Bugs Before They Happen]]></summary>
+        <author>
+            <name>sogen</name>
+            <uri>https://news.ycombinator.com/user?id=sogen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juris Hartmanis（1928-2022）。莱恩-威廉斯的特邀文章
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32301169</id>
+        <link href="https://news.ycombinator.com/item?id=32301169"/>
+        <updated>2022-08-01T02:17:16.000Z</updated>
+        <summary type="html"><![CDATA[Juris Hartmanis (1928-2022): Guest post by Ryan Williams]]></summary>
+        <author>
+            <name>jessaustin</name>
+            <uri>https://news.ycombinator.com/user?id=jessaustin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aptible（YC S14）正在为我们的安全、合规的PaaS替代Heroku进行招聘。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>WithinReason</name>
             <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：收集一些顶级HN帖子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261862</id>
-        <link href="https://news.ycombinator.com/item?id=32261862"/>
-        <updated>2022-07-28T08:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Collection of the some top HN Posts]]></summary>
-        <author>
-            <name>sachinsmc</name>
-            <uri>https://news.ycombinator.com/user?id=sachinsmc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果为iMessage引入裸体检查功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261802</id>
-        <link href="https://news.ycombinator.com/item?id=32261802"/>
-        <updated>2022-07-28T08:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Apple Introduces Nudity Check for iMessage]]></summary>
-        <author>
-            <name>komape</name>
-            <uri>https://news.ycombinator.com/user?id=komape</uri>
         </author>
     </entry>
 </feed>
