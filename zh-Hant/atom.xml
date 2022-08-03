@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T13:58:08.975Z</updated>
+    <updated>2022-08-03T14:08:00.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[StackOverflow癱瘓了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331606</id>
+        <link href="https://news.ycombinator.com/item?id=32331606"/>
+        <updated>2022-08-03T13:47:27.000Z</updated>
+        <summary type="html"><![CDATA[StackOverflow Is Down]]></summary>
+        <author>
+            <name>agluszak</name>
+            <uri>https://news.ycombinator.com/user?id=agluszak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的軟件棧選擇是否合理？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331461</id>
+        <link href="https://news.ycombinator.com/item?id=32331461"/>
+        <updated>2022-08-03T13:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is my software stack choice sound?]]></summary>
+        <author>
+            <name>m33k44</name>
+            <uri>https://news.ycombinator.com/user?id=m33k44</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是的，美國經濟可能處於衰退狀態
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>npilk</name>
             <uri>https://news.ycombinator.com/user?id=npilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamhost共享主機已癱瘓3天
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32254485</id>
-        <link href="https://news.ycombinator.com/item?id=32254485"/>
-        <updated>2022-07-27T18:28:10.000Z</updated>
-        <summary type="html"><![CDATA[Dreamhost Shared Hosting Has Been Down for 3 Days]]></summary>
-        <author>
-            <name>bluedino</name>
-            <uri>https://news.ycombinator.com/user?id=bluedino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個DNS響應的最大尺寸是多少？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32254434</id>
-        <link href="https://news.ycombinator.com/item?id=32254434"/>
-        <updated>2022-07-27T18:24:12.000Z</updated>
-        <summary type="html"><![CDATA[What’s the maximum size of a DNS response?]]></summary>
-        <author>
-            <name>vinnyglennon</name>
-            <uri>https://news.ycombinator.com/user?id=vinnyglennon</uri>
         </author>
     </entry>
 </feed>
