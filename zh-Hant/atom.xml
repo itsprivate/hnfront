@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T08:40:20.939Z</updated>
+    <updated>2022-08-03T09:03:01.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中村英樹的禁忌平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328846</id>
+        <link href="https://news.ycombinator.com/item?id=32328846"/>
+        <updated>2022-08-03T07:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Hikaru Nakamura's Forbidden Platform]]></summary>
+        <author>
+            <name>jdthedisciple</name>
+            <uri>https://news.ycombinator.com/user?id=jdthedisciple</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開發人員的GDPR實例
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>marcinreal</name>
             <uri>https://news.ycombinator.com/user?id=marcinreal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美達公司認可的服務器端使用的編程語言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252831</id>
-        <link href="https://news.ycombinator.com/item?id=32252831"/>
-        <updated>2022-07-27T16:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Programming languages endorsed for server-side use at Meta]]></summary>
-        <author>
-            <name>iamnotarobotman</name>
-            <uri>https://news.ycombinator.com/user?id=iamnotarobotman</uri>
         </author>
     </entry>
 </feed>
