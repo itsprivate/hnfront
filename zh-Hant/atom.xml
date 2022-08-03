@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T20:52:41.661Z</updated>
+    <updated>2022-08-03T21:01:16.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[類似PS1的微小渲染器只有500行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328617</id>
+        <link href="https://news.ycombinator.com/item?id=32328617"/>
+        <updated>2022-08-03T07:21:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tiny PS1-like Renderer in 500 lines]]></summary>
+        <author>
+            <name>nkanaev</name>
+            <uri>https://news.ycombinator.com/user?id=nkanaev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alpine Linux正在減少對Busybox的依賴性
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>prasenjit_pro</name>
             <uri>https://news.ycombinator.com/user?id=prasenjit_pro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個專業的軟件開發人員應該知道一個字節有多少個比特嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261590</id>
-        <link href="https://news.ycombinator.com/item?id=32261590"/>
-        <updated>2022-07-28T07:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Should a professional software dev know how many bits go in a byte?]]></summary>
-        <author>
-            <name>ssdspoimdsjvv</name>
-            <uri>https://news.ycombinator.com/user?id=ssdspoimdsjvv</uri>
         </author>
     </entry>
 </feed>
