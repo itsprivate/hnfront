@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T16:48:34.243Z</updated>
+    <updated>2022-08-03T17:11:21.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YC活动。成为YC创业公司的创始工程师，8月10日
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32334238</id>
+        <link href="https://news.ycombinator.com/item?id=32334238"/>
+        <updated>2022-08-03T17:01:04.000Z</updated>
+        <summary type="html"><![CDATA[YC Event: Becoming a founding engineer at a YC startup, Aug 10th]]></summary>
+        <author>
+            <name>ryankicks</name>
+            <uri>https://news.ycombinator.com/user?id=ryankicks</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你不能保证Webhook订购
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32333661</id>
+        <link href="https://news.ycombinator.com/item?id=32333661"/>
+        <updated>2022-08-03T16:17:08.000Z</updated>
+        <summary type="html"><![CDATA[You Can't Guarantee Webhook Ordering]]></summary>
+        <author>
+            <name>yurisagalov</name>
+            <uri>https://news.ycombinator.com/user?id=yurisagalov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么基于树的模型在表格数据上的表现仍然优于深度学习？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>public_defender</name>
             <uri>https://news.ycombinator.com/user?id=public_defender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[翻转，直到你迷失
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32258836</id>
-        <link href="https://news.ycombinator.com/item?id=32258836"/>
-        <updated>2022-07-28T00:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Flipping until you are lost]]></summary>
-        <author>
-            <name>greghn</name>
-            <uri>https://news.ycombinator.com/user?id=greghn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8年后我如何编写React
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32258418</id>
-        <link href="https://news.ycombinator.com/item?id=32258418"/>
-        <updated>2022-07-27T23:26:32.000Z</updated>
-        <summary type="html"><![CDATA[How I write React after 8 years]]></summary>
-        <author>
-            <name>Fudgel</name>
-            <uri>https://news.ycombinator.com/user?id=Fudgel</uri>
         </author>
     </entry>
 </feed>
