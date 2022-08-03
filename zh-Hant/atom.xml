@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-03T15:38:56.553Z</updated>
+    <updated>2022-08-03T15:59:00.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冰島開始火山噴發（網絡視頻直播）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331856</id>
+        <link href="https://news.ycombinator.com/item?id=32331856"/>
+        <updated>2022-08-03T14:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Volcanic eruption starts in Iceland (Live webcam)]]></summary>
+        <author>
+            <name>MrDresden</name>
+            <uri>https://news.ycombinator.com/user?id=MrDresden</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國反詐騙訴訟工作組成立，打擊300億美元的詐騙電話盜竊案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ironSkillet</name>
             <uri>https://news.ycombinator.com/user?id=ironSkillet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitsuba 3基於物理的渲染器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32257975</id>
-        <link href="https://news.ycombinator.com/item?id=32257975"/>
-        <updated>2022-07-27T22:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Mitsuba 3 Physically Based Renderer]]></summary>
-        <author>
-            <name>oumua_don17</name>
-            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
         </author>
     </entry>
 </feed>
