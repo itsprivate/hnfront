@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-04T21:02:21.218Z</updated>
+    <updated>2022-08-04T21:53:03.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼網絡如此單調？谷歌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32348519</id>
+        <link href="https://news.ycombinator.com/item?id=32348519"/>
+        <updated>2022-08-04T21:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Why Is the Web So Monotonous? Google]]></summary>
+        <author>
+            <name>amf12</name>
+            <uri>https://news.ycombinator.com/user?id=amf12</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用葡萄收穫日期來估計650年來的夏季溫度
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[引用計數，不要垃圾收集
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32276580</id>
-        <link href="https://news.ycombinator.com/item?id=32276580"/>
-        <updated>2022-07-29T13:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Reference Count, Don't Garbage Collect]]></summary>
-        <author>
-            <name>kcl</name>
-            <uri>https://news.ycombinator.com/user?id=kcl</uri>
         </author>
     </entry>
 </feed>
