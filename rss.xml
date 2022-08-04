@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 04 Aug 2022 07:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 07:58:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[费曼技术
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32340216</link>
+            <guid>https://news.ycombinator.com/item?id=32340216</guid>
+            <pubDate>Thu, 04 Aug 2022 07:33:49 GMT</pubDate>
+            <description><![CDATA[The Feynman Technique]]></description>
+        </item>
         <item>
             <title><![CDATA[像《卫报》这样的权威媒体是如何摆脱抄袭的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32264596</guid>
             <pubDate>Thu, 28 Jul 2022 14:15:49 GMT</pubDate>
             <description><![CDATA[The Dawn of the Apocalypse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Godot 4.0的开发在第一个测试版之前进入了功能冻结期
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32265429</link>
-            <guid>https://news.ycombinator.com/item?id=32265429</guid>
-            <pubDate>Thu, 28 Jul 2022 15:13:32 GMT</pubDate>
-            <description><![CDATA[Godot 4.0 development enters feature freeze ahead of the first beta]]></description>
         </item>
     </channel>
 </rss>

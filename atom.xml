@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-04T07:46:29.484Z</updated>
+    <updated>2022-08-04T07:58:31.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[费曼技术
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340216</id>
+        <link href="https://news.ycombinator.com/item?id=32340216"/>
+        <updated>2022-08-04T07:33:49.000Z</updated>
+        <summary type="html"><![CDATA[The Feynman Technique]]></summary>
+        <author>
+            <name>dSebastien</name>
+            <uri>https://news.ycombinator.com/user?id=dSebastien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像《卫报》这样的权威媒体是如何摆脱抄袭的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jules-jules</name>
             <uri>https://news.ycombinator.com/user?id=jules-jules</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godot 4.0的开发在第一个测试版之前进入了功能冻结期
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32265429</id>
-        <link href="https://news.ycombinator.com/item?id=32265429"/>
-        <updated>2022-07-28T15:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Godot 4.0 development enters feature freeze ahead of the first beta]]></summary>
-        <author>
-            <name>tianreyma</name>
-            <uri>https://news.ycombinator.com/user?id=tianreyma</uri>
         </author>
     </entry>
 </feed>
