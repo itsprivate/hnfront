@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-04T15:41:49.834Z</updated>
+    <updated>2022-08-04T16:50:41.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基础设施即代码（IaC）与实例
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344882</id>
+        <link href="https://news.ycombinator.com/item?id=32344882"/>
+        <updated>2022-08-04T16:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure as Code(IaC) with Examples]]></summary>
+        <author>
+            <name>sd2995</name>
+            <uri>https://news.ycombinator.com/user?id=sd2995</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superblocks - 内部应用、API和Cron工作的IDE
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344671</id>
+        <link href="https://news.ycombinator.com/item?id=32344671"/>
+        <updated>2022-08-04T16:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs]]></summary>
+        <author>
+            <name>bradmenezes</name>
+            <uri>https://news.ycombinator.com/user?id=bradmenezes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis源代码演练：ECHO命令是如何实现的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344666</id>
+        <link href="https://news.ycombinator.com/item?id=32344666"/>
+        <updated>2022-08-04T16:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Redis Source Walkthrough: How the ECHO command is implemented]]></summary>
+        <author>
+            <name>rohitpaulk</name>
+            <uri>https://news.ycombinator.com/user?id=rohitpaulk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为Trino提供近乎实时的摄入服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344407</id>
+        <link href="https://news.ycombinator.com/item?id=32344407"/>
+        <updated>2022-08-04T15:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Near Real-Time Ingestion for Trino]]></summary>
+        <author>
+            <name>monimiller</name>
+            <uri>https://news.ycombinator.com/user?id=monimiller</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MGR窗口系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344154</id>
+        <link href="https://news.ycombinator.com/item?id=32344154"/>
+        <updated>2022-08-04T15:25:44.000Z</updated>
+        <summary type="html"><![CDATA[The MGR Window System]]></summary>
+        <author>
+            <name>floren</name>
+            <uri>https://news.ycombinator.com/user?id=floren</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：亚马逊购物正在向质量底线飙升
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344010</id>
+        <link href="https://news.ycombinator.com/item?id=32344010"/>
+        <updated>2022-08-04T15:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Amazon shopping is racing to the bottom of quality]]></summary>
+        <author>
+            <name>z9znz</name>
+            <uri>https://news.ycombinator.com/user?id=z9znz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OmniEdge - 一个基于n2n协议的开源P2P第二层VPN基础设施
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>mpweiher</name>
             <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塑造未来20年的七个大趋势
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32273876</id>
-        <link href="https://news.ycombinator.com/item?id=32273876"/>
-        <updated>2022-07-29T06:56:02.000Z</updated>
-        <summary type="html"><![CDATA[Seven megatrends that will shape the next 20 years]]></summary>
-        <author>
-            <name>Manheim</name>
-            <uri>https://news.ycombinator.com/user?id=Manheim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据中心热图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32273831</id>
-        <link href="https://news.ycombinator.com/item?id=32273831"/>
-        <updated>2022-07-29T06:47:56.000Z</updated>
-        <summary type="html"><![CDATA[Data Center Heatmap]]></summary>
-        <author>
-            <name>gslin</name>
-            <uri>https://news.ycombinator.com/user?id=gslin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[走出母体。网络的早期时代 (2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32273399</id>
-        <link href="https://news.ycombinator.com/item?id=32273399"/>
-        <updated>2022-07-29T05:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Out of the Matrix: Early Days of the Web (2020)]]></summary>
-        <author>
-            <name>nstricevic</name>
-            <uri>https://news.ycombinator.com/user?id=nstricevic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST宣布了后量子竞赛的初步获胜者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32273327</id>
-        <link href="https://news.ycombinator.com/item?id=32273327"/>
-        <updated>2022-07-29T05:02:13.000Z</updated>
-        <summary type="html"><![CDATA[NIST announces preliminary winners of post-quantum competition]]></summary>
-        <author>
-            <name>zaik</name>
-            <uri>https://news.ycombinator.com/user?id=zaik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok和社交媒体巨头的衰落
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32273083</id>
-        <link href="https://news.ycombinator.com/item?id=32273083"/>
-        <updated>2022-07-29T04:16:59.000Z</updated>
-        <summary type="html"><![CDATA[TikTok and the Fall of the Social-Media Giants]]></summary>
-        <author>
-            <name>faurosann</name>
-            <uri>https://news.ycombinator.com/user?id=faurosann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创建真正有用的课程的完整指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32272974</id>
-        <link href="https://news.ycombinator.com/item?id=32272974"/>
-        <updated>2022-07-29T03:54:41.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to creating actually useful courses]]></summary>
-        <author>
-            <name>AlexandruGlv</name>
-            <uri>https://news.ycombinator.com/user?id=AlexandruGlv</uri>
         </author>
     </entry>
 </feed>
