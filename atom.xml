@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-04T07:02:20.234Z</updated>
+    <updated>2022-08-04T07:28:54.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通用智能（YC S17）正在招聘机器学习工程师
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340023</id>
+        <link href="https://news.ycombinator.com/item?id=32340023"/>
+        <updated>2022-08-04T07:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers]]></summary>
+        <author>
+            <name>kanjun</name>
+            <uri>https://news.ycombinator.com/user?id=kanjun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家为何转向Rust
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ryangilbert</name>
             <uri>https://news.ycombinator.com/user?id=ryangilbert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报道称众议院民主党人将在8月提议禁止立法者的股票交易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32265184</id>
-        <link href="https://news.ycombinator.com/item?id=32265184"/>
-        <updated>2022-07-28T14:54:29.000Z</updated>
-        <summary type="html"><![CDATA[House Democrats to propose in August ban on lawmaker stock trading – report]]></summary>
-        <author>
-            <name>thesecretceo</name>
-            <uri>https://news.ycombinator.com/user?id=thesecretceo</uri>
         </author>
     </entry>
 </feed>
