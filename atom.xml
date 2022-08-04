@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-04T09:30:18.657Z</updated>
+    <updated>2022-08-04T10:35:29.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究人员发现缓解网络拥堵的主要路障
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340887</id>
+        <link href="https://news.ycombinator.com/item?id=32340887"/>
+        <updated>2022-08-04T09:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Researchers discover major roadblock in alleviating network congestion]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于SHA256的静默工作证明(PoW)验证码解决方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340305</id>
+        <link href="https://news.ycombinator.com/item?id=32340305"/>
+        <updated>2022-08-04T07:51:23.000Z</updated>
+        <summary type="html"><![CDATA[Silent SHA256 based proof-of-work(PoW) captcha solution]]></summary>
+        <author>
+            <name>vincent_s</name>
+            <uri>https://news.ycombinator.com/user?id=vincent_s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZFS本地加密与LUKS
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Leary</name>
             <uri>https://news.ycombinator.com/user?id=Leary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊、苹果、Alphabet和微软的消费者产品线的可视化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266351</id>
-        <link href="https://news.ycombinator.com/item?id=32266351"/>
-        <updated>2022-07-28T16:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Visualization of Amazon, Apple, Alphabet, and Microsoft’s Consumer Product Lines]]></summary>
-        <author>
-            <name>apeconmyth</name>
-            <uri>https://news.ycombinator.com/user?id=apeconmyth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成 PDF 发票的开源 API
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266177</id>
-        <link href="https://news.ycombinator.com/item?id=32266177"/>
-        <updated>2022-07-28T16:02:08.000Z</updated>
-        <summary type="html"><![CDATA[Open-source API to generate PDF invoices]]></summary>
-        <author>
-            <name>math_reads</name>
-            <uri>https://news.ycombinator.com/user?id=math_reads</uri>
         </author>
     </entry>
 </feed>
