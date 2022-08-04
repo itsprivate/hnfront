@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-04T18:00:32.988Z</updated>
+    <updated>2022-08-04T18:38:54.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[嚴格的可序列化，但代價是什麼，目的是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32346038</id>
+        <link href="https://news.ycombinator.com/item?id=32346038"/>
+        <updated>2022-08-04T17:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Strict-serializability, but at what cost, for what purpose?]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Connect-Web。是時候讓Protobuf/gRPC成為你在瀏覽器中的首選了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[來自馴化的美國馬的最古老的DNA為沉船的民間傳說提供了可信的證據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32262730</id>
-        <link href="https://news.ycombinator.com/item?id=32262730"/>
-        <updated>2022-07-28T10:53:13.000Z</updated>
-        <summary type="html"><![CDATA[Oldest DNA from domesticated American horse lends credence to shipwreck folklore]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>

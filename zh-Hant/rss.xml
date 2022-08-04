@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 04 Aug 2022 18:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 18:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[嚴格的可序列化，但代價是什麼，目的是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32346038</link>
+            <guid>https://news.ycombinator.com/item?id=32346038</guid>
+            <pubDate>Thu, 04 Aug 2022 17:50:53 GMT</pubDate>
+            <description><![CDATA[Strict-serializability, but at what cost, for what purpose?]]></description>
+        </item>
         <item>
             <title><![CDATA[Connect-Web。是時候讓Protobuf/gRPC成為你在瀏覽器中的首選了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32274929</guid>
             <pubDate>Fri, 29 Jul 2022 09:47:30 GMT</pubDate>
             <description><![CDATA[Undersea eruption filled atmosphere with water – Science – AAAS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[來自馴化的美國馬的最古老的DNA為沉船的民間傳說提供了可信的證據
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32262730</link>
-            <guid>https://news.ycombinator.com/item?id=32262730</guid>
-            <pubDate>Thu, 28 Jul 2022 10:53:13 GMT</pubDate>
-            <description><![CDATA[Oldest DNA from domesticated American horse lends credence to shipwreck folklore]]></description>
         </item>
     </channel>
 </rss>
