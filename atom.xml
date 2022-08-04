@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-04T07:28:54.537Z</updated>
+    <updated>2022-08-04T07:46:29.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[像《卫报》这样的权威媒体是如何摆脱抄袭的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340061</id>
+        <link href="https://news.ycombinator.com/item?id=32340061"/>
+        <updated>2022-08-04T07:06:21.000Z</updated>
+        <summary type="html"><![CDATA[How prestige outlets like The Guardian get away with copypasta]]></summary>
+        <author>
+            <name>exolymph</name>
+            <uri>https://news.ycombinator.com/user?id=exolymph</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通用智能（YC S17）正在招聘机器学习工程师
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tianreyma</name>
             <uri>https://news.ycombinator.com/user?id=tianreyma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的新闻通讯每月赚取2千美元，有7千名订阅者 - AMA
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32265223</id>
-        <link href="https://news.ycombinator.com/item?id=32265223"/>
-        <updated>2022-07-28T14:57:27.000Z</updated>
-        <summary type="html"><![CDATA[My newsletter is making $2k per month with 7k subscribers – AMA]]></summary>
-        <author>
-            <name>ryangilbert</name>
-            <uri>https://news.ycombinator.com/user?id=ryangilbert</uri>
         </author>
     </entry>
 </feed>
