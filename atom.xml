@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-05T11:02:57.381Z</updated>
+    <updated>2022-08-05T11:28:01.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自地狱之渊的软件。纪念Flashstuffer
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328474</id>
+        <link href="https://news.ycombinator.com/item?id=32328474"/>
+        <updated>2022-08-03T06:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Software from the Pits of Hell: Remembering Flashstuffer]]></summary>
+        <author>
+            <name>oliverjudge</name>
+            <uri>https://news.ycombinator.com/user?id=oliverjudge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盖茨支持的创业公司用节能板建造模块化住宅
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ivanvas</name>
             <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[词条
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32281016</id>
-        <link href="https://news.ycombinator.com/item?id=32281016"/>
-        <updated>2022-07-29T19:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Wordris]]></summary>
-        <author>
-            <name>youbet</name>
-            <uri>https://news.ycombinator.com/user?id=youbet</uri>
         </author>
     </entry>
 </feed>
