@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 05 Aug 2022 15:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 15:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[節點緩存管理器的SQLite存儲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32356238</link>
+            <guid>https://news.ycombinator.com/item?id=32356238</guid>
+            <pubDate>Fri, 05 Aug 2022 14:03:55 GMT</pubDate>
+            <description><![CDATA[Show HN: SQLite store for node cache manager]]></description>
+        </item>
+        <item>
+            <title><![CDATA[今天用Cedro預處理程序從C23中嵌入使用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32341326</link>
+            <guid>https://news.ycombinator.com/item?id=32341326</guid>
+            <pubDate>Thu, 04 Aug 2022 10:44:12 GMT</pubDate>
+            <description><![CDATA[Use embed from C23 today with the Cedro pre-processor]]></description>
+        </item>
         <item>
             <title><![CDATA[如何選擇你的大學學位
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32283022</guid>
             <pubDate>Fri, 29 Jul 2022 23:57:49 GMT</pubDate>
             <description><![CDATA[Why Hypergraphs? (2013)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yandex開源的C++異步框架
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32282942</link>
-            <guid>https://news.ycombinator.com/item?id=32282942</guid>
-            <pubDate>Fri, 29 Jul 2022 23:44:22 GMT</pubDate>
-            <description><![CDATA[Yandex open sources C++ asynchronous framework]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼似乎沒有人知道命令式和聲明式是什麼意思？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32282686</link>
-            <guid>https://news.ycombinator.com/item?id=32282686</guid>
-            <pubDate>Fri, 29 Jul 2022 23:03:42 GMT</pubDate>
-            <description><![CDATA[Why does nobody seem to know what imperative and declarative mean?]]></description>
         </item>
     </channel>
 </rss>

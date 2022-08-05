@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-05T15:02:58.907Z</updated>
+    <updated>2022-08-05T15:33:42.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[节点缓存管理器的SQLite存储
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32356238</id>
+        <link href="https://news.ycombinator.com/item?id=32356238"/>
+        <updated>2022-08-05T14:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SQLite store for node cache manager]]></summary>
+        <author>
+            <name>maxpert</name>
+            <uri>https://news.ycombinator.com/user?id=maxpert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天用Cedro预处理程序从C23中嵌入使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341326</id>
+        <link href="https://news.ycombinator.com/item?id=32341326"/>
+        <updated>2022-08-04T10:44:12.000Z</updated>
+        <summary type="html"><![CDATA[Use embed from C23 today with the Cedro pre-processor]]></summary>
+        <author>
+            <name>AlbertoGP</name>
+            <uri>https://news.ycombinator.com/user?id=AlbertoGP</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何选择你的大学学位
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>avowud</name>
             <uri>https://news.ycombinator.com/user?id=avowud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yandex开源的C++异步框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282942</id>
-        <link href="https://news.ycombinator.com/item?id=32282942"/>
-        <updated>2022-07-29T23:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Yandex open sources C++ asynchronous framework]]></summary>
-        <author>
-            <name>shcheklein</name>
-            <uri>https://news.ycombinator.com/user?id=shcheklein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么似乎没有人知道命令式和声明式是什么意思？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282686</id>
-        <link href="https://news.ycombinator.com/item?id=32282686"/>
-        <updated>2022-07-29T23:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Why does nobody seem to know what imperative and declarative mean?]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
