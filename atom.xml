@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-05T05:04:37.959Z</updated>
+    <updated>2022-08-05T07:02:04.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我最喜欢的iPhone功能被删除了，其不合格的替代品万岁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32352186</id>
+        <link href="https://news.ycombinator.com/item?id=32352186"/>
+        <updated>2022-08-05T05:43:13.000Z</updated>
+        <summary type="html"><![CDATA[My favorite iPhone feature was removed long live its subpar replacement]]></summary>
+        <author>
+            <name>koinedad</name>
+            <uri>https://news.ycombinator.com/user?id=koinedad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保持项目的可分割性
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pepys</name>
             <uri>https://news.ycombinator.com/user?id=pepys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timsort - 你从未听说过的最快的排序算法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278608</id>
-        <link href="https://news.ycombinator.com/item?id=32278608"/>
-        <updated>2022-07-29T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Timsort – the fastest sorting algorithm you’ve never heard of]]></summary>
-        <author>
-            <name>akbarnama</name>
-            <uri>https://news.ycombinator.com/user?id=akbarnama</uri>
         </author>
     </entry>
 </feed>
