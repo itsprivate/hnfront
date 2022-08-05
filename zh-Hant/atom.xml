@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-05T20:49:03.212Z</updated>
+    <updated>2022-08-05T21:27:04.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凱博（YC W22）正在美國招聘創始工程師
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32361930</id>
+        <link href="https://news.ycombinator.com/item?id=32361930"/>
+        <updated>2022-08-05T21:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Kable (YC W22) Is Hiring Founding Engineers in the US]]></summary>
+        <author>
+            <name>asommer12</name>
+            <uri>https://news.ycombinator.com/user?id=asommer12</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於DynamoDB 2022年論文的一些說明
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robinhouston</name>
             <uri>https://news.ycombinator.com/user?id=robinhouston</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當社會崩潰時，會發生什麼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32287150</id>
-        <link href="https://news.ycombinator.com/item?id=32287150"/>
-        <updated>2022-07-30T14:41:21.000Z</updated>
-        <summary type="html"><![CDATA[What Happens When Society Collapses]]></summary>
-        <author>
-            <name>11thEarlOfMar</name>
-            <uri>https://news.ycombinator.com/user?id=11thEarlOfMar</uri>
         </author>
     </entry>
 </feed>
