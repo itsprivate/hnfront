@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-05T19:58:49.442Z</updated>
+    <updated>2022-08-05T20:49:03.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於DynamoDB 2022年論文的一些說明
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32361558</id>
+        <link href="https://news.ycombinator.com/item?id=32361558"/>
+        <updated>2022-08-05T20:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Some notes on DynamoDB 2022 paper]]></summary>
+        <author>
+            <name>c4pt0r</name>
+            <uri>https://news.ycombinator.com/user?id=c4pt0r</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分析魚類新鮮度的電子舌 (2008) [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>11thEarlOfMar</name>
             <uri>https://news.ycombinator.com/user?id=11thEarlOfMar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做環保不容易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282446</id>
-        <link href="https://news.ycombinator.com/item?id=32282446"/>
-        <updated>2022-07-29T22:24:58.000Z</updated>
-        <summary type="html"><![CDATA[It’s Not Easy Being Green]]></summary>
-        <author>
-            <name>Thevet</name>
-            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
         </author>
     </entry>
 </feed>
