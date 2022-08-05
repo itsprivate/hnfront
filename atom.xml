@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-04T22:50:00.105Z</updated>
+    <updated>2022-08-05T00:00:23.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[QBasic.net
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32349516</id>
+        <link href="https://news.ycombinator.com/item?id=32349516"/>
+        <updated>2022-08-04T23:17:51.000Z</updated>
+        <summary type="html"><![CDATA[QBasic.net]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Penumbra，一个基于自然光的感知优化调色板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube为1000万次浏览支付了多少钱？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32277381</id>
-        <link href="https://news.ycombinator.com/item?id=32277381"/>
-        <updated>2022-07-29T14:29:25.000Z</updated>
-        <summary type="html"><![CDATA[How much did YouTube pay for 10M views?]]></summary>
-        <author>
-            <name>samhickmann</name>
-            <uri>https://news.ycombinator.com/user?id=samhickmann</uri>
         </author>
     </entry>
 </feed>
