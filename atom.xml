@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-05T07:29:01.347Z</updated>
+    <updated>2022-08-05T07:44:39.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让贝尔实验室的黄金时代重现
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32352584</id>
+        <link href="https://news.ycombinator.com/item?id=32352584"/>
+        <updated>2022-08-05T06:44:18.000Z</updated>
+        <summary type="html"><![CDATA[Bringing back the golden days of Bell Labs]]></summary>
+        <author>
+            <name>gtsnexp</name>
+            <uri>https://news.ycombinator.com/user?id=gtsnexp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PhotoRoom正在巴黎招聘高级后端工程师（Django，200GB以上的PSQL数据库）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>san_amiro</name>
             <uri>https://news.ycombinator.com/user?id=san_amiro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cfplot - 生成CloudFormation的瀑布图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32280162</id>
-        <link href="https://news.ycombinator.com/item?id=32280162"/>
-        <updated>2022-07-29T18:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Cfplot – Generate waterfall graphs of CloudFormation]]></summary>
-        <author>
-            <name>rootforce</name>
-            <uri>https://news.ycombinator.com/user?id=rootforce</uri>
         </author>
     </entry>
 </feed>
