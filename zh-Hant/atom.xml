@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-05T03:59:45.661Z</updated>
+    <updated>2022-08-05T05:04:38.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[保持項目的可分割性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32351340</id>
+        <link href="https://news.ycombinator.com/item?id=32351340"/>
+        <updated>2022-08-05T03:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Keeping a Project Bisectable]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟的Windows HEVC視頻編解碼器價格為0.99美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32351108</id>
+        <link href="https://news.ycombinator.com/item?id=32351108"/>
+        <updated>2022-08-05T03:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Windows HEVC video codec from Microsoft costs $0.99]]></summary>
+        <author>
+            <name>pizza</name>
+            <uri>https://news.ycombinator.com/user?id=pizza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬克-安德森是一個NIMBY嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32350906</id>
+        <link href="https://news.ycombinator.com/item?id=32350906"/>
+        <updated>2022-08-05T02:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Is Marc Andreessen a NIMBY?]]></summary>
+        <author>
+            <name>exogeny</name>
+            <uri>https://news.ycombinator.com/user?id=exogeny</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[億萬富翁的窘境--論馬克-安德森的NIMBY主義
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32350657</id>
+        <link href="https://news.ycombinator.com/item?id=32350657"/>
+        <updated>2022-08-05T02:05:32.000Z</updated>
+        <summary type="html"><![CDATA[The Billionaire’s Dilemma – On Marc Andreessen's NIMBYism]]></summary>
+        <author>
+            <name>danielmichaelyc</name>
+            <uri>https://news.ycombinator.com/user?id=danielmichaelyc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Node.js上使用Clojure腳本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32339979</id>
+        <link href="https://news.ycombinator.com/item?id=32339979"/>
+        <updated>2022-08-04T06:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Clojure Scripting on Node.js]]></summary>
+        <author>
+            <name>reil_convnet</name>
+            <uri>https://news.ycombinator.com/user?id=reil_convnet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[偏執狂時代的目標人物的噩夢
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>akbarnama</name>
             <uri>https://news.ycombinator.com/user?id=akbarnama</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pachyderm正在招聘React和Go開發人員，以建立可重複的數據管道。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32279335</id>
-        <link href="https://news.ycombinator.com/item?id=32279335"/>
-        <updated>2022-07-29T17:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Pachyderm is hiring React and Go devs to build Reproducible Data Pipelines]]></summary>
-        <author>
-            <name>jaz46</name>
-            <uri>https://news.ycombinator.com/user?id=jaz46</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隨機。在VDSO中實現Getrandom()。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32279024</id>
-        <link href="https://news.ycombinator.com/item?id=32279024"/>
-        <updated>2022-07-29T16:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Random: Implement Getrandom() in VDSO]]></summary>
-        <author>
-            <name>zx2c4</name>
-            <uri>https://news.ycombinator.com/user?id=zx2c4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doxx Me - 看看你的電話號碼有多大的可能性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278871</id>
-        <link href="https://news.ycombinator.com/item?id=32278871"/>
-        <updated>2022-07-29T16:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Doxx Me – See how doxxable your phone number is]]></summary>
-        <author>
-            <name>jimhi</name>
-            <uri>https://news.ycombinator.com/user?id=jimhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大衛-福斯特-華萊士使藝術道德化的最後嘗試
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278701</id>
-        <link href="https://news.ycombinator.com/item?id=32278701"/>
-        <updated>2022-07-29T16:08:39.000Z</updated>
-        <summary type="html"><![CDATA[David Foster Wallace’s final attempt to make art moral]]></summary>
-        <author>
-            <name>lermontov</name>
-            <uri>https://news.ycombinator.com/user?id=lermontov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪異、奇妙"：亞瑟石的挖掘寫出了新石器時代遺址的新故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32272897</id>
-        <link href="https://news.ycombinator.com/item?id=32272897"/>
-        <updated>2022-07-29T03:38:30.000Z</updated>
-        <summary type="html"><![CDATA[‘Weird, wonderful’: dig at Arthur’s Stone writes new story of Neolithic site]]></summary>
-        <author>
-            <name>pepys</name>
-            <uri>https://news.ycombinator.com/user?id=pepys</uri>
         </author>
     </entry>
 </feed>
