@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-05T09:34:24.500Z</updated>
+    <updated>2022-08-05T09:49:04.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用arc42记录软件架构
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32353500</id>
+        <link href="https://news.ycombinator.com/item?id=32353500"/>
+        <updated>2022-08-05T09:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Documenting Software Architectures with arc42]]></summary>
+        <author>
+            <name>zorg42</name>
+            <uri>https://news.ycombinator.com/user?id=zorg42</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大堡礁部分地区显示出36年来的最高珊瑚覆盖率
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32352875</id>
+        <link href="https://news.ycombinator.com/item?id=32352875"/>
+        <updated>2022-08-05T07:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Parts of Great Barrier Reef show highest coral cover seen in 36 years]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国最大的隧道切割头被放进伦敦的竖井中
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>theochampion</name>
             <uri>https://news.ycombinator.com/user?id=theochampion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一种焦虑症的野心
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32280379</id>
-        <link href="https://news.ycombinator.com/item?id=32280379"/>
-        <updated>2022-07-29T18:42:03.000Z</updated>
-        <summary type="html"><![CDATA[Ambition as an anxiety disorder]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单片机上的欧拉项目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32280306</id>
-        <link href="https://news.ycombinator.com/item?id=32280306"/>
-        <updated>2022-07-29T18:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Project Euler on a Microcontroller]]></summary>
-        <author>
-            <name>shawnnapora</name>
-            <uri>https://news.ycombinator.com/user?id=shawnnapora</uri>
         </author>
     </entry>
 </feed>
