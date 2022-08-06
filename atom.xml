@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-06T13:45:31.357Z</updated>
+    <updated>2022-08-06T13:58:24.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌试图解决UUID的问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32367982</id>
+        <link href="https://news.ycombinator.com/item?id=32367982"/>
+        <updated>2022-08-06T13:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Google Trying to Solve a UUID]]></summary>
+        <author>
+            <name>delduca</name>
+            <uri>https://news.ycombinator.com/user?id=delduca</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不受欢迎的意见：GraphQL有点糟糕
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gbrindisi</name>
             <uri>https://news.ycombinator.com/user?id=gbrindisi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[页面搜索。静态低带宽搜索的规模
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32290634</id>
-        <link href="https://news.ycombinator.com/item?id=32290634"/>
-        <updated>2022-07-30T21:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Pagefind: Static Low-Bandwidth Search at Scale]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
         </author>
     </entry>
 </feed>
