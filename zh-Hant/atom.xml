@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-06T03:41:03.935Z</updated>
+    <updated>2022-08-06T04:12:08.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國圖書館因拒絕審查作者而被取消經費
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32364615</id>
+        <link href="https://news.ycombinator.com/item?id=32364615"/>
+        <updated>2022-08-06T03:40:37.000Z</updated>
+        <summary type="html"><![CDATA[US library defunded after refusing to censor authors]]></summary>
+        <author>
+            <name>bobnamob</name>
+            <uri>https://news.ycombinator.com/user?id=bobnamob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊麗莎白-科頓的指法拉格泰姆琴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32343684</id>
+        <link href="https://news.ycombinator.com/item?id=32343684"/>
+        <updated>2022-08-04T14:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Elizabeth Cotton’s Fingerstyle Ragtime]]></summary>
+        <author>
+            <name>brudgers</name>
+            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有，一個不太被理解的SQL條款
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>papa-whisky</name>
             <uri>https://news.ycombinator.com/user?id=papa-whisky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過同步前綴代碼使哈夫曼解碼和x86反彙編並行化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32288195</id>
-        <link href="https://news.ycombinator.com/item?id=32288195"/>
-        <updated>2022-07-30T16:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Parallelising Huffman decoding and x86 disassembly by synchronising prefix codes]]></summary>
-        <author>
-            <name>hasheddan</name>
-            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paredit.vim - Paredit模式。結構化編輯Lisp的S-表達式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32288193</id>
-        <link href="https://news.ycombinator.com/item?id=32288193"/>
-        <updated>2022-07-30T16:47:22.000Z</updated>
-        <summary type="html"><![CDATA[Paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
         </author>
     </entry>
 </feed>
