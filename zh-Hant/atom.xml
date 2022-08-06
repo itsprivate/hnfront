@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-06T09:46:16.113Z</updated>
+    <updated>2022-08-06T09:59:30.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jagiellonians
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32355122</id>
+        <link href="https://news.ycombinator.com/item?id=32355122"/>
+        <updated>2022-08-05T12:27:42.000Z</updated>
+        <summary type="html"><![CDATA[The Jagiellonians]]></summary>
+        <author>
+            <name>danielam</name>
+            <uri>https://news.ycombinator.com/user?id=danielam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何對GitHub問題的功能請求說不？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nickysielicki</name>
             <uri>https://news.ycombinator.com/user?id=nickysielicki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星為手機增加 "維修模式"，手機維修時阻止PII洩露
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32289695</id>
-        <link href="https://news.ycombinator.com/item?id=32289695"/>
-        <updated>2022-07-30T19:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Samsung adds 'repair mode' to phones, blocking PII leak when phone is repaired]]></summary>
-        <author>
-            <name>WaitWaitWha</name>
-            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
         </author>
     </entry>
 </feed>
