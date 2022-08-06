@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-06T10:31:06.884Z</updated>
+    <updated>2022-08-06T11:25:38.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ctrl-C
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32354581</id>
+        <link href="https://news.ycombinator.com/item?id=32354581"/>
+        <updated>2022-08-05T11:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Ctrl-C]]></summary>
+        <author>
+            <name>kcl</name>
+            <uri>https://news.ycombinator.com/user?id=kcl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為父母長壽，該怎麼做？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>latchkey</name>
             <uri>https://news.ycombinator.com/user?id=latchkey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大獎彩票贏得13.4億美元彩票大獎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32289864</id>
-        <link href="https://news.ycombinator.com/item?id=32289864"/>
-        <updated>2022-07-30T20:13:06.000Z</updated>
-        <summary type="html"><![CDATA[Mega Millions ticket wins $1.34B lottery jackpot]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
