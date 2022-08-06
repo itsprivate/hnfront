@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-06T08:33:18.014Z</updated>
+    <updated>2022-08-06T08:52:10.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[單體的混亂和數據與計算之間的模糊界限
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366022</id>
+        <link href="https://news.ycombinator.com/item?id=32366022"/>
+        <updated>2022-08-06T08:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Monad Confusion and the Blurry Line Between Data and Computation]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷幻蘑菇的微劑量：一個雙盲安慰劑對照的研究
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yamrzou</name>
             <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FoundationDB上的分佈式SQLite
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32269287</id>
-        <link href="https://news.ycombinator.com/item?id=32269287"/>
-        <updated>2022-07-28T19:49:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Distributed SQLite on FoundationDB]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
         </author>
     </entry>
 </feed>
