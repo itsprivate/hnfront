@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-06T05:04:00.684Z</updated>
+    <updated>2022-08-06T05:28:17.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于红肉和心脏病的最新研究。一个红鲱鱼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32363565</id>
+        <link href="https://news.ycombinator.com/item?id=32363565"/>
+        <updated>2022-08-06T00:28:41.000Z</updated>
+        <summary type="html"><![CDATA[The Latest Study on Red Meat and Heart Disease: A Red Herring]]></summary>
+        <author>
+            <name>RelaxedTree</name>
+            <uri>https://news.ycombinator.com/user?id=RelaxedTree</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特确认零日事件被用来暴露540万账户的数据
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>phreeza</name>
             <uri>https://news.ycombinator.com/user?id=phreeza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firezone（YC W22）正在招聘一名创始工程师 - Elixir和网络
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32288316</id>
-        <link href="https://news.ycombinator.com/item?id=32288316"/>
-        <updated>2022-07-30T17:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Firezone (YC W22) is hiring a founding engineer – Elixir and networking]]></summary>
-        <author>
-            <name>jasong</name>
-            <uri>https://news.ycombinator.com/user?id=jasong</uri>
         </author>
     </entry>
 </feed>
