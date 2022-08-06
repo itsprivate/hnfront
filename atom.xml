@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-06T13:18:41.032Z</updated>
+    <updated>2022-08-06T13:45:31.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不受欢迎的意见：GraphQL有点糟糕
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366759</id>
+        <link href="https://news.ycombinator.com/item?id=32366759"/>
+        <updated>2022-08-06T10:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Unpopular opinoin GraphQL kinda sucks]]></summary>
+        <author>
+            <name>randytandy</name>
+            <uri>https://news.ycombinator.com/user?id=randytandy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧空局 - 来自太空的气候
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chmaynard</name>
             <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从零开始了解JSC中的GC
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32279867</id>
-        <link href="https://news.ycombinator.com/item?id=32279867"/>
-        <updated>2022-07-29T17:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Understanding GC in JSC from Scratch]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
