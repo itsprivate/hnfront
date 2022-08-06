@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-06T19:46:38.900Z</updated>
+    <updated>2022-08-06T19:57:15.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼一般的人工智能不會實現（2020年）？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32370635</id>
+        <link href="https://news.ycombinator.com/item?id=32370635"/>
+        <updated>2022-08-06T18:58:32.000Z</updated>
+        <summary type="html"><![CDATA[Why general artificial intelligence will not be realized (2020)]]></summary>
+        <author>
+            <name>headalgorithm</name>
+            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習生成藝術編程的資源？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>peter_d_sherman</name>
             <uri>https://news.ycombinator.com/user?id=peter_d_sherman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一個蘋果平板電腦，來自1979年（2009年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32279725</id>
-        <link href="https://news.ycombinator.com/item?id=32279725"/>
-        <updated>2022-07-29T17:33:33.000Z</updated>
-        <summary type="html"><![CDATA[The first Apple Tablet, from 1979 (2009)]]></summary>
-        <author>
-            <name>coloneltcb</name>
-            <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
         </author>
     </entry>
 </feed>
