@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 06 Aug 2022 02:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 03:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有，一个不太被理解的SQL条款
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32363882</link>
+            <guid>https://news.ycombinator.com/item?id=32363882</guid>
+            <pubDate>Sat, 06 Aug 2022 01:21:28 GMT</pubDate>
+            <description><![CDATA[Having, a less understood SQL clause]]></description>
+        </item>
         <item>
             <title><![CDATA[电梯是如何失去音乐的？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32288193</guid>
             <pubDate>Sat, 30 Jul 2022 16:47:22 GMT</pubDate>
             <description><![CDATA[Paredit.vim – Paredit Mode: Structured Editing of Lisp S-Expressions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个用于逐行读取大文件的SQLite扩展
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32288165</link>
-            <guid>https://news.ycombinator.com/item?id=32288165</guid>
-            <pubDate>Sat, 30 Jul 2022 16:45:02 GMT</pubDate>
-            <description><![CDATA[A SQLite extension for reading large files line-by-line]]></description>
         </item>
     </channel>
 </rss>
