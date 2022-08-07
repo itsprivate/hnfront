@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-07T22:46:18.023Z</updated>
+    <updated>2022-08-07T22:59:40.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基庫裡，公元前1345年。訓練戰車馬
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32374390</id>
+        <link href="https://news.ycombinator.com/item?id=32374390"/>
+        <updated>2022-08-07T06:37:27.000Z</updated>
+        <summary type="html"><![CDATA[Kikkuli, 1345 BCE: Training the Chariot Horse]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第二次世界大戰的最後一場海戰 (2018)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>signa11</name>
             <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你離開Kubernetes了嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32304834</id>
-        <link href="https://news.ycombinator.com/item?id=32304834"/>
-        <updated>2022-08-01T12:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have You Left Kubernetes?]]></summary>
-        <author>
-            <name>strzibny</name>
-            <uri>https://news.ycombinator.com/user?id=strzibny</uri>
         </author>
     </entry>
 </feed>
