@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 07 Aug 2022 11:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 11:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自制的蓝牙耳机
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32375128</link>
+            <guid>https://news.ycombinator.com/item?id=32375128</guid>
+            <pubDate>Sun, 07 Aug 2022 09:35:57 GMT</pubDate>
+            <description><![CDATA[Homebrew Bluetooth Headphones]]></description>
+        </item>
         <item>
             <title><![CDATA[每个人都喜欢电动自行车--除了一些不得不与它们共享道路的人
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32298096</guid>
             <pubDate>Sun, 31 Jul 2022 19:35:17 GMT</pubDate>
             <description><![CDATA[The looming copper crunch and why recycling can’t fix it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kubernetes重塑了虚拟机（从好的方面讲）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32298058</link>
-            <guid>https://news.ycombinator.com/item?id=32298058</guid>
-            <pubDate>Sun, 31 Jul 2022 19:30:27 GMT</pubDate>
-            <description><![CDATA[Kubernetes Reinvented Virtual Machines (in a good sense)]]></description>
         </item>
     </channel>
 </rss>
