@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-07T14:46:08.744Z</updated>
+    <updated>2022-08-07T14:59:29.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[智力的 "千腦 "理論
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376170</id>
+        <link href="https://news.ycombinator.com/item?id=32376170"/>
+        <updated>2022-08-07T13:03:58.000Z</updated>
+        <summary type="html"><![CDATA[The Thousand Brains Theory of Intelligence]]></summary>
+        <author>
+            <name>VigneshBaskaran</name>
+            <uri>https://news.ycombinator.com/user?id=VigneshBaskaran</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Landlock對GNU Make進行沙盒處理
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>DL-Invariant</name>
             <uri>https://news.ycombinator.com/user?id=DL-Invariant</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[散列的多種口味
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32281459</id>
-        <link href="https://news.ycombinator.com/item?id=32281459"/>
-        <updated>2022-07-29T20:34:23.000Z</updated>
-        <summary type="html"><![CDATA[The many flavors of hashing]]></summary>
-        <author>
-            <name>ciprian_craciun</name>
-            <uri>https://news.ycombinator.com/user?id=ciprian_craciun</uri>
         </author>
     </entry>
 </feed>
