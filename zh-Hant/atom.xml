@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-07T14:59:29.250Z</updated>
+    <updated>2022-08-07T15:33:36.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我應該搬到哪裡去認識有趣的科技人員？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377084</id>
+        <link href="https://news.ycombinator.com/item?id=32377084"/>
+        <updated>2022-08-07T15:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where should I move to meet interesting tech people?]]></summary>
+        <author>
+            <name>anonimouse1234</name>
+            <uri>https://news.ycombinator.com/user?id=anonimouse1234</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偽造IMDB信用的案例
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377063</id>
+        <link href="https://news.ycombinator.com/item?id=32377063"/>
+        <updated>2022-08-07T15:08:30.000Z</updated>
+        <summary type="html"><![CDATA[The case of fake IMDB credits]]></summary>
+        <author>
+            <name>HelenePhisher</name>
+            <uri>https://news.ycombinator.com/user?id=HelenePhisher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[耳語--如何將聲音視覺化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376943</id>
+        <link href="https://news.ycombinator.com/item?id=32376943"/>
+        <updated>2022-08-07T14:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Earbirding – How to Visualize Sounds]]></summary>
+        <author>
+            <name>mellosouls</name>
+            <uri>https://news.ycombinator.com/user?id=mellosouls</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C語言的malloc()和free()對C語言API的普遍影響
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376542</id>
+        <link href="https://news.ycombinator.com/item?id=32376542"/>
+        <updated>2022-08-07T14:03:19.000Z</updated>
+        <summary type="html"><![CDATA[The pervasive effects of C's malloc() and free() on C APIs]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科學出版的一個可能的修正
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376133</id>
+        <link href="https://news.ycombinator.com/item?id=32376133"/>
+        <updated>2022-08-07T12:58:41.000Z</updated>
+        <summary type="html"><![CDATA[A Possible Fix for Scientific Publishing]]></summary>
+        <author>
+            <name>dbingham</name>
+            <uri>https://news.ycombinator.com/user?id=dbingham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[智力的 "千腦 "理論
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>bpierre</name>
             <uri>https://news.ycombinator.com/user?id=bpierre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rentaflop - 渲染你的Blender項目而不犧牲質量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299674</id>
-        <link href="https://news.ycombinator.com/item?id=32299674"/>
-        <updated>2022-07-31T22:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rentaflop – Render your Blender projects without sacrificing quality]]></summary>
-        <author>
-            <name>dasokol112358</name>
-            <uri>https://news.ycombinator.com/user?id=dasokol112358</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows XP Professional X64版
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32280669</id>
-        <link href="https://news.ycombinator.com/item?id=32280669"/>
-        <updated>2022-07-29T19:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Windows XP Professional X64 Edition]]></summary>
-        <author>
-            <name>telotortium</name>
-            <uri>https://news.ycombinator.com/user?id=telotortium</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tang Nano 9K - 帶有HDMI的FPGA SBC
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299544</id>
-        <link href="https://news.ycombinator.com/item?id=32299544"/>
-        <updated>2022-07-31T22:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Tang Nano 9K – FPGA SBC with HDMI]]></summary>
-        <author>
-            <name>peter_d_sherman</name>
-            <uri>https://news.ycombinator.com/user?id=peter_d_sherman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.19
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299271</id>
-        <link href="https://news.ycombinator.com/item?id=32299271"/>
-        <updated>2022-07-31T22:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Linux 5.19]]></summary>
-        <author>
-            <name>jrepinc</name>
-            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼古丁的新時代
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299114</id>
-        <link href="https://news.ycombinator.com/item?id=32299114"/>
-        <updated>2022-07-31T21:39:00.000Z</updated>
-        <summary type="html"><![CDATA[The New Era of Nicotine]]></summary>
-        <author>
-            <name>DL-Invariant</name>
-            <uri>https://news.ycombinator.com/user?id=DL-Invariant</uri>
         </author>
     </entry>
 </feed>
