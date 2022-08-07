@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-07T15:49:51.347Z</updated>
+    <updated>2022-08-07T16:03:00.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[机器学习找到了一种改进的方法来匹配捐赠器官和病人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377007</id>
+        <link href="https://news.ycombinator.com/item?id=32377007"/>
+        <updated>2022-08-07T15:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Machine learning finds an improved way to match donor organs with patients]]></summary>
+        <author>
+            <name>abrax3141</name>
+            <uri>https://news.ycombinator.com/user?id=abrax3141</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提交评论不再出现在拉动请求的时间线上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376464</id>
+        <link href="https://news.ycombinator.com/item?id=32376464"/>
+        <updated>2022-08-07T13:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Commit comments no longer appear in the pull request timeline]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DALL-E + GPT-3 = ♥
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>longrod</name>
             <uri>https://news.ycombinator.com/user?id=longrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么在AppStore上有超过300个应用的情况下，我仍然建立了一个字典应用？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32300466</id>
-        <link href="https://news.ycombinator.com/item?id=32300466"/>
-        <updated>2022-08-01T00:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Why I built a dictionary app even with more than +300 apps available at AppStore]]></summary>
-        <author>
-            <name>zehfernandes</name>
-            <uri>https://news.ycombinator.com/user?id=zehfernandes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公共领域的Posix Make
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32300356</id>
-        <link href="https://news.ycombinator.com/item?id=32300356"/>
-        <updated>2022-08-01T00:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Public Domain Posix Make]]></summary>
-        <author>
-            <name>donmcc</name>
-            <uri>https://news.ycombinator.com/user?id=donmcc</uri>
         </author>
     </entry>
 </feed>
