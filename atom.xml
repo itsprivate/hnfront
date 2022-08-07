@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-07T11:00:14.967Z</updated>
+    <updated>2022-08-07T11:26:44.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每个人都喜欢电动自行车--除了一些不得不与它们共享道路的人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375488</id>
+        <link href="https://news.ycombinator.com/item?id=32375488"/>
+        <updated>2022-08-07T10:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Everyone loves e-bikes – except some who have to share roads with them]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[辅导员/改变英语口音的技巧
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>paulgb</name>
             <uri>https://news.ycombinator.com/user?id=paulgb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于RISC-V的单板计算机正在取得进展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32298137</id>
-        <link href="https://news.ycombinator.com/item?id=32298137"/>
-        <updated>2022-07-31T19:39:31.000Z</updated>
-        <summary type="html"><![CDATA[RISC-V based Single Board Computers are getting there]]></summary>
-        <author>
-            <name>bmlw</name>
-            <uri>https://news.ycombinator.com/user?id=bmlw</uri>
         </author>
     </entry>
 </feed>
