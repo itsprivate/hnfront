@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-07T05:46:57.527Z</updated>
+    <updated>2022-08-07T06:33:29.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們對尼克斯的路線圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32374113</id>
+        <link href="https://news.ycombinator.com/item?id=32374113"/>
+        <updated>2022-08-07T05:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Our Roadmap for Nix]]></summary>
+        <author>
+            <name>cosmojg</name>
+            <uri>https://news.ycombinator.com/user?id=cosmojg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[框架平板電腦組裝手冊
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>stevekemp</name>
             <uri>https://news.ycombinator.com/user?id=stevekemp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codebot.Tiny - 一個用於渲染動畫2D/3D圖形的小型庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295291</id>
-        <link href="https://news.ycombinator.com/item?id=32295291"/>
-        <updated>2022-07-31T13:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Codebot.Tiny – A tiny library for rendering animated 2D/3D graphics]]></summary>
-        <author>
-            <name>wagslane</name>
-            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
         </author>
     </entry>
 </feed>
