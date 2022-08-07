@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-07T08:32:17.557Z</updated>
+    <updated>2022-08-07T08:50:01.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dolt如何存储表数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32365402</id>
+        <link href="https://news.ycombinator.com/item?id=32365402"/>
+        <updated>2022-08-06T06:11:38.000Z</updated>
+        <summary type="html"><![CDATA[How Dolt Stores Table Data]]></summary>
+        <author>
+            <name>burntcaramel</name>
+            <uri>https://news.ycombinator.com/user?id=burntcaramel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uber仍未获利
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70年代的雪铁龙产品目录
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32297739</id>
-        <link href="https://news.ycombinator.com/item?id=32297739"/>
-        <updated>2022-07-31T18:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Citroën Catalogs from the 70s]]></summary>
-        <author>
-            <name>dayve</name>
-            <uri>https://news.ycombinator.com/user?id=dayve</uri>
         </author>
     </entry>
 </feed>
