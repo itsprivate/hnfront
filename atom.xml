@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-07T20:30:50.051Z</updated>
+    <updated>2022-08-07T20:49:51.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[浏览器内的复古未来主义坦克游戏，开放源代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32379430</id>
+        <link href="https://news.ycombinator.com/item?id=32379430"/>
+        <updated>2022-08-07T20:11:32.000Z</updated>
+        <summary type="html"><![CDATA[In-browser retro-futuristic tank game, open source]]></summary>
+        <author>
+            <name>brianrisk</name>
+            <uri>https://news.ycombinator.com/user?id=brianrisk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["别理那些该死的讨厌鬼！" 以及从创建JSON5中学到的其他经验
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32379245</id>
+        <link href="https://news.ycombinator.com/item?id=32379245"/>
+        <updated>2022-08-07T19:46:59.000Z</updated>
+        <summary type="html"><![CDATA[“Ignore the f'ing haters!” And other lessons learned from creating JSON5]]></summary>
+        <author>
+            <name>aseemk</name>
+            <uri>https://news.ycombinator.com/user?id=aseemk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[制造更安静的技术
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nailer</name>
             <uri>https://news.ycombinator.com/user?id=nailer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣布Docusaurus 2.0 - Meta的静态网站生成器，用于建立文档网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303052</id>
-        <link href="https://news.ycombinator.com/item?id=32303052"/>
-        <updated>2022-08-01T07:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Announcing Docusaurus 2.0 – Meta's static site generator to build docs sites]]></summary>
-        <author>
-            <name>slorber</name>
-            <uri>https://news.ycombinator.com/user?id=slorber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莱纳斯从一台M1 MacBook上发布了5.19内核
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303592</id>
-        <link href="https://news.ycombinator.com/item?id=32303592"/>
-        <updated>2022-08-01T09:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Linus releases the 5.19 kernel from an M1 MacBook]]></summary>
-        <author>
-            <name>anpep</name>
-            <uri>https://news.ycombinator.com/user?id=anpep</uri>
         </author>
     </entry>
 </feed>
