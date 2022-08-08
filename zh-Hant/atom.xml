@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T10:52:12.426Z</updated>
+    <updated>2022-08-08T11:26:45.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在60多歲時學習代數能使我更聰明嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375955</id>
+        <link href="https://news.ycombinator.com/item?id=32375955"/>
+        <updated>2022-08-07T12:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Could learning algebra in my 60s make me smarter?]]></summary>
+        <author>
+            <name>trocado</name>
+            <uri>https://news.ycombinator.com/user?id=trocado</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界末日後的節目
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>oumua_don17</name>
             <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1847年布爾的《邏輯代數》註釋版 [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32294459</id>
-        <link href="https://news.ycombinator.com/item?id=32294459"/>
-        <updated>2022-07-31T09:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Annotated Version of Boole's Algebra of Logic from 1847 [pdf]]]></summary>
-        <author>
-            <name>auggierose</name>
-            <uri>https://news.ycombinator.com/user?id=auggierose</uri>
         </author>
     </entry>
 </feed>
