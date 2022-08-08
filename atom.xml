@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T20:34:58.455Z</updated>
+    <updated>2022-08-08T20:51:03.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能阻止你的开源项目被用于作恶吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32390674</id>
+        <link href="https://news.ycombinator.com/item?id=32390674"/>
+        <updated>2022-08-08T20:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Can you stop your open-source project from being used for evil?]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我使用DALL-E 2替换了我们所有的博客缩略图，价格为45美元：以下是我学到的东西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32390526</id>
+        <link href="https://news.ycombinator.com/item?id=32390526"/>
+        <updated>2022-08-08T20:21:20.000Z</updated>
+        <summary type="html"><![CDATA[I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned]]></summary>
+        <author>
+            <name>dsmmcken</name>
+            <uri>https://news.ycombinator.com/user?id=dsmmcken</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub暂停了龙卷风现金的开发者账户
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用e-ink电子货架标签搭建面板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32316302</id>
-        <link href="https://news.ycombinator.com/item?id=32316302"/>
-        <updated>2022-08-02T08:23:35.000Z</updated>
-        <summary type="html"><![CDATA[Building a Panel out of e-ink Electronic Shelf Labels]]></summary>
-        <author>
-            <name>frxx</name>
-            <uri>https://news.ycombinator.com/user?id=frxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客打字员
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32314952</id>
-        <link href="https://news.ycombinator.com/item?id=32314952"/>
-        <updated>2022-08-02T04:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Hacker Typer]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
