@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T23:01:30.117Z</updated>
+    <updated>2022-08-08T23:33:23.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[内容模型不是设计系统 (2021)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392202</id>
+        <link href="https://news.ycombinator.com/item?id=32392202"/>
+        <updated>2022-08-08T23:03:09.000Z</updated>
+        <summary type="html"><![CDATA[A content model is not a design system (2021)]]></summary>
+        <author>
+            <name>labrador</name>
+            <uri>https://news.ycombinator.com/user?id=labrador</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反对替代C的理由
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392161</id>
+        <link href="https://news.ycombinator.com/item?id=32392161"/>
+        <updated>2022-08-08T22:56:18.000Z</updated>
+        <summary type="html"><![CDATA[The case against an alternative to C]]></summary>
+        <author>
+            <name>lerno</name>
+            <uri>https://news.ycombinator.com/user?id=lerno</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们通过嗅觉感知大自然
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375842</id>
+        <link href="https://news.ycombinator.com/item?id=32375842"/>
+        <updated>2022-08-07T12:08:14.000Z</updated>
+        <summary type="html"><![CDATA[We Perceive Nature Through Our Sense of Smell]]></summary>
+        <author>
+            <name>dnetesn</name>
+            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一些爱普生打印机被设定为在使用一定时间后停止工作
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>bcohen123</name>
             <uri>https://news.ycombinator.com/user?id=bcohen123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[早期技术决定的不成比例的影响
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32296807</id>
-        <link href="https://news.ycombinator.com/item?id=32296807"/>
-        <updated>2022-07-31T16:49:47.000Z</updated>
-        <summary type="html"><![CDATA[The disproportionate influence of early tech decisions]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在大约100行代码中的JavaScript运行时间
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32318133</id>
-        <link href="https://news.ycombinator.com/item?id=32318133"/>
-        <updated>2022-08-02T13:21:28.000Z</updated>
-        <summary type="html"><![CDATA[A JavaScript Runtime in ~100 lines of code]]></summary>
-        <author>
-            <name>JLCarveth</name>
-            <uri>https://news.ycombinator.com/user?id=JLCarveth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[后量子加密的竞争者被单核PC和1小时干掉了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32317865</id>
-        <link href="https://news.ycombinator.com/item?id=32317865"/>
-        <updated>2022-08-02T12:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Post-quantum encryption contender is taken out by single-core PC and 1 hour]]></summary>
-        <author>
-            <name>adrian_mrd</name>
-            <uri>https://news.ycombinator.com/user?id=adrian_mrd</uri>
         </author>
     </entry>
 </feed>
