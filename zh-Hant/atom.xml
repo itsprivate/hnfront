@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T03:53:34.776Z</updated>
+    <updated>2022-08-08T04:47:27.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從第七層地獄調試裸機STM32
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32381448</id>
+        <link href="https://news.ycombinator.com/item?id=32381448"/>
+        <updated>2022-08-08T01:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Debugging bare-metal STM32 from the seventh level of hell]]></summary>
+        <author>
+            <name>jpieper</name>
+            <uri>https://news.ycombinator.com/user?id=jpieper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哨音浮標
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366333</id>
+        <link href="https://news.ycombinator.com/item?id=32366333"/>
+        <updated>2022-08-06T09:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Whistling Buoys]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人類免疫系統的物理線路圖
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粒子物理學家對一個新的二元性的困惑
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32306012</id>
-        <link href="https://news.ycombinator.com/item?id=32306012"/>
-        <updated>2022-08-01T13:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Particle Physicists Puzzle over a New Duality]]></summary>
-        <author>
-            <name>kzrdude</name>
-            <uri>https://news.ycombinator.com/user?id=kzrdude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國陸軍偽裝術改進說明--第一部分
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32306005</id>
-        <link href="https://news.ycombinator.com/item?id=32306005"/>
-        <updated>2022-08-01T13:57:49.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Army Camouflage Improvement Explained – Part 1]]></summary>
-        <author>
-            <name>BonoboIO</name>
-            <uri>https://news.ycombinator.com/user?id=BonoboIO</uri>
         </author>
     </entry>
 </feed>
