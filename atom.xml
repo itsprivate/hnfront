@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T17:47:30.907Z</updated>
+    <updated>2022-08-08T18:37:47.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[间隔性重复可以让人无限回味
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32381206</id>
+        <link href="https://news.ycombinator.com/item?id=32381206"/>
+        <updated>2022-08-08T00:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Spaced repetition can allow for infinite recall]]></summary>
+        <author>
+            <name>efavdb</name>
+            <uri>https://news.ycombinator.com/user?id=efavdb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[启动HN：Wolfia（YC S22）--一个可以用链接分享的移动应用仿真器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>marban</name>
             <uri>https://news.ycombinator.com/user?id=marban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有一种工具/产品能够对HTML元素进行评论？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32315035</id>
-        <link href="https://news.ycombinator.com/item?id=32315035"/>
-        <updated>2022-08-02T04:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a tool / product that enables commenting on HTML elements?]]></summary>
-        <author>
-            <name>bshoemaker</name>
-            <uri>https://news.ycombinator.com/user?id=bshoemaker</uri>
         </author>
     </entry>
 </feed>
