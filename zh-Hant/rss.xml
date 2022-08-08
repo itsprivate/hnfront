@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[痴迷的定義？與雪鐵龍C6相處的10年
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32375095</link>
+            <guid>https://news.ycombinator.com/item?id=32375095</guid>
+            <pubDate>Sun, 07 Aug 2022 09:24:04 GMT</pubDate>
+            <description><![CDATA[The Definition of Obsession? 10 Years with a Citroën C6]]></description>
+        </item>
         <item>
             <title><![CDATA[從第七層地獄調試裸機STM32
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32306328</guid>
             <pubDate>Mon, 01 Aug 2022 14:21:49 GMT</pubDate>
             <description><![CDATA[Rights Amplification in Master-Keyed Mechanical Locks (2003) [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Cloudflare工人上用WASI運行Zig
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32306281</link>
-            <guid>https://news.ycombinator.com/item?id=32306281</guid>
-            <pubDate>Mon, 01 Aug 2022 14:18:48 GMT</pubDate>
-            <description><![CDATA[Running Zig with WASI on Cloudflare Workers]]></description>
         </item>
     </channel>
 </rss>

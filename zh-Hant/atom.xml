@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T04:47:27.454Z</updated>
+    <updated>2022-08-08T05:12:49.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[痴迷的定義？與雪鐵龍C6相處的10年
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375095</id>
+        <link href="https://news.ycombinator.com/item?id=32375095"/>
+        <updated>2022-08-07T09:24:04.000Z</updated>
+        <summary type="html"><![CDATA[The Definition of Obsession? 10 Years with a Citroën C6]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從第七層地獄調試裸機STM32
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wglb</name>
             <uri>https://news.ycombinator.com/user?id=wglb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Cloudflare工人上用WASI運行Zig
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32306281</id>
-        <link href="https://news.ycombinator.com/item?id=32306281"/>
-        <updated>2022-08-01T14:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Running Zig with WASI on Cloudflare Workers]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
