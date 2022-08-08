@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T09:30:04.294Z</updated>
+    <updated>2022-08-08T09:50:56.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習嵌入式代碼的有效C++
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32383265</id>
+        <link href="https://news.ycombinator.com/item?id=32383265"/>
+        <updated>2022-08-08T07:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Learn Effective C++ for Embedded Code]]></summary>
+        <author>
+            <name>manchoz</name>
+            <uri>https://news.ycombinator.com/user?id=manchoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coqui TTS：一個用於文本到語音的深度學習工具包
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32383227</id>
+        <link href="https://news.ycombinator.com/item?id=32383227"/>
+        <updated>2022-08-08T07:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Coqui TTS: a deep learning toolkit for Text-to-Speech]]></summary>
+        <author>
+            <name>tim--</name>
+            <uri>https://news.ycombinator.com/user?id=tim--</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教育的目的
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>latchkey</name>
             <uri>https://news.ycombinator.com/user?id=latchkey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[縫隙式計數器模式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32307947</id>
-        <link href="https://news.ycombinator.com/item?id=32307947"/>
-        <updated>2022-08-01T15:58:04.000Z</updated>
-        <summary type="html"><![CDATA[The Slotted Counter Pattern]]></summary>
-        <author>
-            <name>hollylawly</name>
-            <uri>https://news.ycombinator.com/user?id=hollylawly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cerbos和FusionAuth[視頻]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32307881</id>
-        <link href="https://news.ycombinator.com/item?id=32307881"/>
-        <updated>2022-08-01T15:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Cerbos and FusionAuth [video]]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
