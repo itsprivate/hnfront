@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T09:50:56.776Z</updated>
+    <updated>2022-08-08T10:03:09.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2003年，马克-扎克伯格在Slashdot上发誓要保护用户隐私
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32383612</id>
+        <link href="https://news.ycombinator.com/item?id=32383612"/>
+        <updated>2022-08-08T09:13:08.000Z</updated>
+        <summary type="html"><![CDATA[In 2003, Mark Zuckerberg Took a Vow of User Privacy on Slashdot]]></summary>
+        <author>
+            <name>goindeep</name>
+            <uri>https://news.ycombinator.com/user?id=goindeep</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东非的实验
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32383426</id>
+        <link href="https://news.ycombinator.com/item?id=32383426"/>
+        <updated>2022-08-08T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[The East African Experiment]]></summary>
+        <author>
+            <name>torts</name>
+            <uri>https://news.ycombinator.com/user?id=torts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习嵌入式代码的有效C++
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>troyastorino</name>
             <uri>https://news.ycombinator.com/user?id=troyastorino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非官方的辛普森一家的食谱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32308759</id>
-        <link href="https://news.ycombinator.com/item?id=32308759"/>
-        <updated>2022-08-01T16:45:33.000Z</updated>
-        <summary type="html"><![CDATA[The Unofficial Simpsons Cookbook]]></summary>
-        <author>
-            <name>datelligence</name>
-            <uri>https://news.ycombinator.com/user?id=datelligence</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD的市值超过英特尔
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32308553</id>
-        <link href="https://news.ycombinator.com/item?id=32308553"/>
-        <updated>2022-08-01T16:31:24.000Z</updated>
-        <summary type="html"><![CDATA[AMD passes Intel in market cap]]></summary>
-        <author>
-            <name>latchkey</name>
-            <uri>https://news.ycombinator.com/user?id=latchkey</uri>
         </author>
     </entry>
 </feed>
