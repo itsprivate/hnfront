@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-08T05:12:49.318Z</updated>
+    <updated>2022-08-08T05:40:03.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Trealla - 一个用普通C语言编写的紧凑、高效的Prolog解释器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32382514</id>
+        <link href="https://news.ycombinator.com/item?id=32382514"/>
+        <updated>2022-08-08T05:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Trealla – A compact, efficient Prolog interpreter written in plain-old C]]></summary>
+        <author>
+            <name>nikolay</name>
+            <uri>https://news.ycombinator.com/user?id=nikolay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SingleShapeGen: 学习从单一实例中生成3D形状
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32382318</id>
+        <link href="https://news.ycombinator.com/item?id=32382318"/>
+        <updated>2022-08-08T04:07:23.000Z</updated>
+        <summary type="html"><![CDATA[SingleShapeGen: Learning to Generate 3D Shapes from a Single Example]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[痴迷的定义？与雪铁龙C6相处的10年
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>whoishiring</name>
             <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愚蠢的相机号码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32294783</id>
-        <link href="https://news.ycombinator.com/item?id=32294783"/>
-        <updated>2022-07-31T11:09:58.000Z</updated>
-        <summary type="html"><![CDATA[Silly Camera Numbers]]></summary>
-        <author>
-            <name>mkchoi212</name>
-            <uri>https://news.ycombinator.com/user?id=mkchoi212</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主键式机械锁的权利放大 (2003) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32306328</id>
-        <link href="https://news.ycombinator.com/item?id=32306328"/>
-        <updated>2022-08-01T14:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Rights Amplification in Master-Keyed Mechanical Locks (2003) [pdf]]]></summary>
-        <author>
-            <name>wglb</name>
-            <uri>https://news.ycombinator.com/user?id=wglb</uri>
         </author>
     </entry>
 </feed>
