@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T15:38:11.979Z</updated>
+    <updated>2022-08-09T15:57:05.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是時候讓蘋果公司解決短信問題了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399238</id>
+        <link href="https://news.ycombinator.com/item?id=32399238"/>
+        <updated>2022-08-09T15:22:23.000Z</updated>
+        <summary type="html"><![CDATA[It’s time for Apple to fix texting]]></summary>
+        <author>
+            <name>Fabricio20</name>
+            <uri>https://news.ycombinator.com/user?id=Fabricio20</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我不喜歡 Go 的默認 HTTP 處理程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398969</id>
+        <link href="https://news.ycombinator.com/item?id=32398969"/>
+        <updated>2022-08-09T15:01:20.000Z</updated>
+        <summary type="html"><![CDATA[I Don’t Like Go’s Default HTTP Handlers]]></summary>
+        <author>
+            <name>p5v</name>
+            <uri>https://news.ycombinator.com/user?id=p5v</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究稱，野火正在破壞加州的森林碳信用儲備
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aidangrimshaw</name>
             <uri>https://news.ycombinator.com/user?id=aidangrimshaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從Zillow收集的房產趨勢
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32325428</id>
-        <link href="https://news.ycombinator.com/item?id=32325428"/>
-        <updated>2022-08-02T23:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Property Trends Scraped from Zillow]]></summary>
-        <author>
-            <name>tndibona</name>
-            <uri>https://news.ycombinator.com/user?id=tndibona</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IRC的簡單性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32325400</id>
-        <link href="https://news.ycombinator.com/item?id=32325400"/>
-        <updated>2022-08-02T23:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Simplicity of IRC]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
         </author>
     </entry>
 </feed>
