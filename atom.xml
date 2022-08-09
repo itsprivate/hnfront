@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T19:59:46.892Z</updated>
+    <updated>2022-08-09T20:33:43.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌地图的护城河正在蒸发（2020年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32402977</id>
+        <link href="https://news.ycombinator.com/item?id=32402977"/>
+        <updated>2022-08-09T19:32:43.000Z</updated>
+        <summary type="html"><![CDATA[Google Maps' Moat Is Evaporating (2020)]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何以及为什么要在家里办一个博客
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32401691</id>
+        <link href="https://news.ycombinator.com/item?id=32401691"/>
+        <updated>2022-08-09T18:17:07.000Z</updated>
+        <summary type="html"><![CDATA[How and why to host a blog at home]]></summary>
+        <author>
+            <name>erulabs</name>
+            <uri>https://news.ycombinator.com/user?id=erulabs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia公布了用于Fermi至Ampere GPU的73000行3D头文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32396638</id>
+        <link href="https://news.ycombinator.com/item?id=32396638"/>
+        <updated>2022-08-09T11:56:16.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia Publishes 73k Lines of 3D Header Files for Fermi Through Ampere GPUs]]></summary>
+        <author>
+            <name>pantalaimon</name>
+            <uri>https://news.ycombinator.com/user?id=pantalaimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实施零信任架构
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>simonebrunozzi</name>
             <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Convictional（YC W19）正在招聘工程师，以建立B2B贸易的未来。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32330545</id>
-        <link href="https://news.ycombinator.com/item?id=32330545"/>
-        <updated>2022-08-03T12:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote]]></summary>
-        <author>
-            <name>rogerkirkness</name>
-            <uri>https://news.ycombinator.com/user?id=rogerkirkness</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub行动的OpenVPN和WireGuard服务器：代表性的NAT穿越案例
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32329052</id>
-        <link href="https://news.ycombinator.com/item?id=32329052"/>
-        <updated>2022-08-03T08:23:57.000Z</updated>
-        <summary type="html"><![CDATA[OpenVPN & WireGuard server at GitHub Actions: representative NAT traversal case]]></summary>
-        <author>
-            <name>ValdikSS</name>
-            <uri>https://news.ycombinator.com/user?id=ValdikSS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杰特森一家》对未来的预言是正确的，也是错误的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295563</id>
-        <link href="https://news.ycombinator.com/item?id=32295563"/>
-        <updated>2022-07-31T14:06:55.000Z</updated>
-        <summary type="html"><![CDATA[What ‘The Jetsons’ predicted right – and wrong – about the future]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
         </author>
     </entry>
 </feed>
