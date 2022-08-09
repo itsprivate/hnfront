@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T08:38:39.680Z</updated>
+    <updated>2022-08-09T09:31:30.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[梅尔的故事，一个真正的程序员
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32395589</id>
+        <link href="https://news.ycombinator.com/item?id=32395589"/>
+        <updated>2022-08-09T08:49:03.000Z</updated>
+        <summary type="html"><![CDATA[The Story of Mel, a Real Programmer]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从二进制文件中去掉程序员的匿名性（2017）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384147</id>
+        <link href="https://news.ycombinator.com/item?id=32384147"/>
+        <updated>2022-08-08T11:02:10.000Z</updated>
+        <summary type="html"><![CDATA[De-anonymizing programmers from binaries (2017)]]></summary>
+        <author>
+            <name>pvitz</name>
+            <uri>https://news.ycombinator.com/user?id=pvitz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速而实用的 "MSI "哈希表
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bmau5</name>
             <uri>https://news.ycombinator.com/user?id=bmau5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在PFAS新的行星边界的安全操作空间之外
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32322515</id>
-        <link href="https://news.ycombinator.com/item?id=32322515"/>
-        <updated>2022-08-02T18:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Outside the Safe Operating Space of a New Planetary Boundary for PFAS]]></summary>
-        <author>
-            <name>rntn</name>
-            <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALL-E 2》提示书 [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32322329</id>
-        <link href="https://news.ycombinator.com/item?id=32322329"/>
-        <updated>2022-08-02T18:14:03.000Z</updated>
-        <summary type="html"><![CDATA[The DALL·E 2 prompt book [pdf]]]></summary>
-        <author>
-            <name>tomduncalf</name>
-            <uri>https://news.ycombinator.com/user?id=tomduncalf</uri>
         </author>
     </entry>
 </feed>
