@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T23:30:12.584Z</updated>
+    <updated>2022-08-09T23:47:56.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1024，一個2048的益智遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32405510</id>
+        <link href="https://news.ycombinator.com/item?id=32405510"/>
+        <updated>2022-08-09T22:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 1024, a 2048 Puzzle Game]]></summary>
+        <author>
+            <name>fuegoio</name>
+            <uri>https://news.ycombinator.com/user?id=fuegoio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消失的現代主義者
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在建立現代TUI框架方面學到的東西
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32331367</id>
-        <link href="https://news.ycombinator.com/item?id=32331367"/>
-        <updated>2022-08-03T13:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Things I've learned building a modern TUI framework]]></summary>
-        <author>
-            <name>willm</name>
-            <uri>https://news.ycombinator.com/user?id=willm</uri>
         </author>
     </entry>
 </feed>
