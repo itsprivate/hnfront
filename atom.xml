@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T14:33:31.681Z</updated>
+    <updated>2022-08-09T14:50:10.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从新手到大师，再从大师到新手
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398391</id>
+        <link href="https://news.ycombinator.com/item?id=32398391"/>
+        <updated>2022-08-09T14:22:41.000Z</updated>
+        <summary type="html"><![CDATA[From Novice to Master, and Back Again]]></summary>
+        <author>
+            <name>omn1</name>
+            <uri>https://news.ycombinator.com/user?id=omn1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppLovin提出以175亿美元收购Unity软件公司
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32397510</id>
+        <link href="https://news.ycombinator.com/item?id=32397510"/>
+        <updated>2022-08-09T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[AppLovin offers to buy Unity Software in $17.5 bln deal]]></summary>
+        <author>
+            <name>jgillich</name>
+            <uri>https://news.ycombinator.com/user?id=jgillich</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用现代语言制作一个本地GUI？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>oljvhnwo</name>
             <uri>https://news.ycombinator.com/user?id=oljvhnwo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRR - 用于管理GitHub上的拉动请求的终端工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295663</id>
-        <link href="https://news.ycombinator.com/item?id=32295663"/>
-        <updated>2022-07-31T14:21:43.000Z</updated>
-        <summary type="html"><![CDATA[PRR – a terminal tool for managing Pull Requests on GitHub]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linode EU-West（伦敦）又出问题了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32324734</id>
-        <link href="https://news.ycombinator.com/item?id=32324734"/>
-        <updated>2022-08-02T21:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Linode EU-West (London) is out again]]></summary>
-        <author>
-            <name>unvs</name>
-            <uri>https://news.ycombinator.com/user?id=unvs</uri>
         </author>
     </entry>
 </feed>
