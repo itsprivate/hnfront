@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T10:52:30.849Z</updated>
+    <updated>2022-08-09T11:25:24.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們的大腦是一個預測機器，總是處於活躍狀態
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32395840</id>
+        <link href="https://news.ycombinator.com/item?id=32395840"/>
+        <updated>2022-08-09T09:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Our brain is a prediction machine that is always active]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蜘蛛似乎有類似快速眼動的睡眠，甚至可能做夢
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>openasocket</name>
             <uri>https://news.ycombinator.com/user?id=openasocket</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索HDR的基本概念 (2019)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299160</id>
-        <link href="https://news.ycombinator.com/item?id=32299160"/>
-        <updated>2022-07-31T21:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the Basic Concepts of HDR (2019)]]></summary>
-        <author>
-            <name>pizza</name>
-            <uri>https://news.ycombinator.com/user?id=pizza</uri>
         </author>
     </entry>
 </feed>
