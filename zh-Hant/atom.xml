@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T17:12:08.508Z</updated>
+    <updated>2022-08-09T17:44:36.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沒有人僱用初級開發人員嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32400928</id>
+        <link href="https://news.ycombinator.com/item?id=32400928"/>
+        <updated>2022-08-09T17:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is no one hiring junior devs?]]></summary>
+        <author>
+            <name>ianbutler</name>
+            <uri>https://news.ycombinator.com/user?id=ianbutler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：大風車（YC S22）--將腳本變成內部應用程序和工作流程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32400849</id>
+        <link href="https://news.ycombinator.com/item?id=32400849"/>
+        <updated>2022-08-09T17:19:18.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Windmill (YC S22) – Turn scripts into internal apps and workflows]]></summary>
+        <author>
+            <name>rubenfiszel</name>
+            <uri>https://news.ycombinator.com/user?id=rubenfiszel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我停止閱讀黑客新聞的評論是因為這個
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32400521</id>
+        <link href="https://news.ycombinator.com/item?id=32400521"/>
+        <updated>2022-08-09T16:57:12.000Z</updated>
+        <summary type="html"><![CDATA[I Stopped Reading Hacker News Comments Because of This]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虛無的物理學如何支撐一切
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398010</id>
+        <link href="https://news.ycombinator.com/item?id=32398010"/>
+        <updated>2022-08-09T13:58:33.000Z</updated>
+        <summary type="html"><![CDATA[How the Physics of Nothing Underlies Everything]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[發佈會（YC W20）正在招聘 - 高級全棧工程師
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>pcmonk</name>
             <uri>https://news.ycombinator.com/user?id=pcmonk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FauxPilot - 一個開源的GitHub Copilot服務器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32327711</id>
-        <link href="https://news.ycombinator.com/item?id=32327711"/>
-        <updated>2022-08-03T04:38:11.000Z</updated>
-        <summary type="html"><![CDATA[FauxPilot – an open-source GitHub Copilot server]]></summary>
-        <author>
-            <name>fniephaus</name>
-            <uri>https://news.ycombinator.com/user?id=fniephaus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTEMS 實時操作系統
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32327518</id>
-        <link href="https://news.ycombinator.com/item?id=32327518"/>
-        <updated>2022-08-03T04:00:33.000Z</updated>
-        <summary type="html"><![CDATA[RTEMS Real Time Operating System]]></summary>
-        <author>
-            <name>inamberclad</name>
-            <uri>https://news.ycombinator.com/user?id=inamberclad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator以經濟衰退和資金問題為由，將目前的學員規模縮小了40%。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32326208</id>
-        <link href="https://news.ycombinator.com/item?id=32326208"/>
-        <updated>2022-08-03T00:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Y Combinator narrows current cohort size by 40%, citing downturn and funding]]></summary>
-        <author>
-            <name>npalli</name>
-            <uri>https://news.ycombinator.com/user?id=npalli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓16是用BASIC編程的（2011）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32296202</id>
-        <link href="https://news.ycombinator.com/item?id=32296202"/>
-        <updated>2022-07-31T15:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Android 16 was programmed in BASIC (2011)]]></summary>
-        <author>
-            <name>redman25</name>
-            <uri>https://news.ycombinator.com/user?id=redman25</uri>
         </author>
     </entry>
 </feed>
