@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T04:00:23.027Z</updated>
+    <updated>2022-08-09T04:54:34.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[石英晶体振荡器的拆解和里面的小IC
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32383943</id>
+        <link href="https://news.ycombinator.com/item?id=32383943"/>
+        <updated>2022-08-08T10:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Teardown of a quartz crystal oscillator and the tiny IC inside]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第12代英特尔酷睿的速度如何？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gtsnexp</name>
             <uri>https://news.ycombinator.com/user?id=gtsnexp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Arduino中引入多任务功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32320727</id>
-        <link href="https://news.ycombinator.com/item?id=32320727"/>
-        <updated>2022-08-02T16:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Introducing multitasking to Arduino]]></summary>
-        <author>
-            <name>pyprism</name>
-            <uri>https://news.ycombinator.com/user?id=pyprism</uri>
         </author>
     </entry>
 </feed>
