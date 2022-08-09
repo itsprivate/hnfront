@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-09T19:48:55.276Z</updated>
+    <updated>2022-08-09T19:59:46.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[实施零信任架构
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32402630</id>
+        <link href="https://news.ycombinator.com/item?id=32402630"/>
+        <updated>2022-08-09T19:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a Zero Trust Architecture]]></summary>
+        <author>
+            <name>justinludwig</name>
+            <uri>https://news.ycombinator.com/user?id=justinludwig</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Hello world "在C++中比在C中更慢 (Linux)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32401411</id>
+        <link href="https://news.ycombinator.com/item?id=32401411"/>
+        <updated>2022-08-09T17:57:47.000Z</updated>
+        <summary type="html"><![CDATA[“Hello world” is slower in C++ than in C (Linux)]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南非在种族隔离后28年左右的状况
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Vaslo</name>
             <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[松树配方
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32330043</id>
-        <link href="https://news.ycombinator.com/item?id=32330043"/>
-        <updated>2022-08-03T10:56:11.000Z</updated>
-        <summary type="html"><![CDATA[The Pine Formula]]></summary>
-        <author>
-            <name>cunidev</name>
-            <uri>https://news.ycombinator.com/user?id=cunidev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高效计算SSA形式和控制依赖图(1991) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295654</id>
-        <link href="https://news.ycombinator.com/item?id=32295654"/>
-        <updated>2022-07-31T14:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Efficiently Computing SSA Form and the Control Dependence Graph (1991) [pdf]]]></summary>
-        <author>
-            <name>hasheddan</name>
-            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
         </author>
     </entry>
 </feed>
