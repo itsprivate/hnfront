@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-10T09:48:42.790Z</updated>
+    <updated>2022-08-10T11:26:01.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼聰明人不更快樂？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409811</id>
+        <link href="https://news.ycombinator.com/item?id=32409811"/>
+        <updated>2022-08-10T10:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Why aren't smart people happier?]]></summary>
+        <author>
+            <name>oscarwao</name>
+            <uri>https://news.ycombinator.com/user?id=oscarwao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電動汽車將變得很糟糕，這就是原因 [視頻]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>triplechill</name>
             <uri>https://news.ycombinator.com/user?id=triplechill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GlobalFoundries加入了谷歌的開源硅計劃
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32334455</id>
-        <link href="https://news.ycombinator.com/item?id=32334455"/>
-        <updated>2022-08-03T17:19:09.000Z</updated>
-        <summary type="html"><![CDATA[GlobalFoundries joins Google’s open source silicon initiative]]></summary>
-        <author>
-            <name>proppy</name>
-            <uri>https://news.ycombinator.com/user?id=proppy</uri>
         </author>
     </entry>
 </feed>
