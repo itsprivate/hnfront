@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 10 Aug 2022 17:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 18:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼有東西存在？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32416003</link>
+            <guid>https://news.ycombinator.com/item?id=32416003</guid>
+            <pubDate>Wed, 10 Aug 2022 17:57:23 GMT</pubDate>
+            <description><![CDATA[Why does anything exist?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[學術文獻的主題：偏見和社會正義
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32415960</link>
+            <guid>https://news.ycombinator.com/item?id=32415960</guid>
+            <pubDate>Wed, 10 Aug 2022 17:55:00 GMT</pubDate>
+            <description><![CDATA[Themes in academic literature: prejudice and social justice]]></description>
+        </item>
         <item>
             <title><![CDATA[我們感謝Mary Tsingou小姐（2020）。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32340887</guid>
             <pubDate>Thu, 04 Aug 2022 09:27:59 GMT</pubDate>
             <description><![CDATA[Researchers discover major roadblock in alleviating network congestion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於SHA256的靜默工作證明(PoW)驗證碼解決方案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32340305</link>
-            <guid>https://news.ycombinator.com/item?id=32340305</guid>
-            <pubDate>Thu, 04 Aug 2022 07:51:23 GMT</pubDate>
-            <description><![CDATA[Silent SHA256 based proof-of-work(PoW) captcha solution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ZFS本地加密與LUKS
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32340433</link>
-            <guid>https://news.ycombinator.com/item?id=32340433</guid>
-            <pubDate>Thu, 04 Aug 2022 08:06:42 GMT</pubDate>
-            <description><![CDATA[Ask HN: ZFS native encryption vs LUKS]]></description>
         </item>
     </channel>
 </rss>

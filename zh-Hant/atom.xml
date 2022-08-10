@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-10T17:59:13.624Z</updated>
+    <updated>2022-08-10T18:38:35.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼有東西存在？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32416003</id>
+        <link href="https://news.ycombinator.com/item?id=32416003"/>
+        <updated>2022-08-10T17:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Why does anything exist?]]></summary>
+        <author>
+            <name>ZacnyLos</name>
+            <uri>https://news.ycombinator.com/user?id=ZacnyLos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[學術文獻的主題：偏見和社會正義
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415960</id>
+        <link href="https://news.ycombinator.com/item?id=32415960"/>
+        <updated>2022-08-10T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Themes in academic literature: prejudice and social justice]]></summary>
+        <author>
+            <name>frumpish</name>
+            <uri>https://news.ycombinator.com/user?id=frumpish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們感謝Mary Tsingou小姐（2020）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rntn</name>
             <uri>https://news.ycombinator.com/user?id=rntn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於SHA256的靜默工作證明(PoW)驗證碼解決方案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32340305</id>
-        <link href="https://news.ycombinator.com/item?id=32340305"/>
-        <updated>2022-08-04T07:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Silent SHA256 based proof-of-work(PoW) captcha solution]]></summary>
-        <author>
-            <name>vincent_s</name>
-            <uri>https://news.ycombinator.com/user?id=vincent_s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZFS本地加密與LUKS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32340433</id>
-        <link href="https://news.ycombinator.com/item?id=32340433"/>
-        <updated>2022-08-04T08:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: ZFS native encryption vs LUKS]]></summary>
-        <author>
-            <name>aborsy</name>
-            <uri>https://news.ycombinator.com/user?id=aborsy</uri>
         </author>
     </entry>
 </feed>
