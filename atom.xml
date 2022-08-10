@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-10T05:58:44.628Z</updated>
+    <updated>2022-08-10T06:38:01.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lua的历史
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32407430</id>
+        <link href="https://news.ycombinator.com/item?id=32407430"/>
+        <updated>2022-08-10T02:58:34.000Z</updated>
+        <summary type="html"><![CDATA[A History of Lua]]></summary>
+        <author>
+            <name>atan2</name>
+            <uri>https://news.ycombinator.com/user?id=atan2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[史无前例的首批14名癌症患者100%对Dostarlimab有反应
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>isolli</name>
             <uri>https://news.ycombinator.com/user?id=isolli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用光来恢复细胞功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32333420</id>
-        <link href="https://news.ycombinator.com/item?id=32333420"/>
-        <updated>2022-08-03T15:56:50.000Z</updated>
-        <summary type="html"><![CDATA[Using light to restore cell function]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>
