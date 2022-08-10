@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-10T03:24:08.319Z</updated>
+    <updated>2022-08-10T03:59:00.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[报道理查二世倒台的消息
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32394533</id>
+        <link href="https://news.ycombinator.com/item?id=32394533"/>
+        <updated>2022-08-09T05:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Breaking the news of the fall of Richard II]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JNumPy。在几分钟内为Python编写高性能的C语言扩展
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>MrDresden</name>
             <uri>https://news.ycombinator.com/user?id=MrDresden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国反诈骗诉讼工作组成立，打击300亿美元的诈骗电话盗窃案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32332577</id>
-        <link href="https://news.ycombinator.com/item?id=32332577"/>
-        <updated>2022-08-03T14:53:01.000Z</updated>
-        <summary type="html"><![CDATA[US Anti-Robocall Litigation Task Force created to fight –$30B in scam call theft]]></summary>
-        <author>
-            <name>Vaslo</name>
-            <uri>https://news.ycombinator.com/user?id=Vaslo</uri>
         </author>
     </entry>
 </feed>

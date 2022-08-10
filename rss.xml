@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 10 Aug 2022 03:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 03:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[报道理查二世倒台的消息
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32394533</link>
+            <guid>https://news.ycombinator.com/item?id=32394533</guid>
+            <pubDate>Tue, 09 Aug 2022 05:39:18 GMT</pubDate>
+            <description><![CDATA[Breaking the news of the fall of Richard II]]></description>
+        </item>
         <item>
             <title><![CDATA[JNumPy。在几分钟内为Python编写高性能的C语言扩展
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32331856</guid>
             <pubDate>Wed, 03 Aug 2022 14:07:40 GMT</pubDate>
             <description><![CDATA[Volcanic eruption starts in Iceland (Live webcam)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国反诈骗诉讼工作组成立，打击300亿美元的诈骗电话盗窃案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32332577</link>
-            <guid>https://news.ycombinator.com/item?id=32332577</guid>
-            <pubDate>Wed, 03 Aug 2022 14:53:01 GMT</pubDate>
-            <description><![CDATA[US Anti-Robocall Litigation Task Force created to fight –$30B in scam call theft]]></description>
         </item>
     </channel>
 </rss>
