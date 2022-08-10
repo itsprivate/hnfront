@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-10T06:38:01.622Z</updated>
+    <updated>2022-08-10T07:04:06.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[攀岩必备绳结--完整指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408393</id>
+        <link href="https://news.ycombinator.com/item?id=32408393"/>
+        <updated>2022-08-10T06:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Essential Climbing Knots – The Complete Guide]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水耕法。培养对植物的欣赏能力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398353</id>
+        <link href="https://news.ycombinator.com/item?id=32398353"/>
+        <updated>2022-08-09T14:20:25.000Z</updated>
+        <summary type="html"><![CDATA[Hydroponics: Growing an Appreciation for Plants]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lua的历史
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ryankicks</name>
             <uri>https://news.ycombinator.com/user?id=ryankicks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不能保证Webhook订购
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32333661</id>
-        <link href="https://news.ycombinator.com/item?id=32333661"/>
-        <updated>2022-08-03T16:17:08.000Z</updated>
-        <summary type="html"><![CDATA[You Can't Guarantee Webhook Ordering]]></summary>
-        <author>
-            <name>yurisagalov</name>
-            <uri>https://news.ycombinator.com/user?id=yurisagalov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么基于树的模型在表格数据上的表现仍然优于深度学习？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32333565</id>
-        <link href="https://news.ycombinator.com/item?id=32333565"/>
-        <updated>2022-08-03T16:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Why do tree-based models still outperform deep learning on tabular data?]]></summary>
-        <author>
-            <name>isolli</name>
-            <uri>https://news.ycombinator.com/user?id=isolli</uri>
         </author>
     </entry>
 </feed>
