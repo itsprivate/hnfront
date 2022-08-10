@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-10T07:28:21.312Z</updated>
+    <updated>2022-08-10T07:46:35.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更快的红宝石。来自外部的思考
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408716</id>
+        <link href="https://news.ycombinator.com/item?id=32408716"/>
+        <updated>2022-08-10T07:19:46.000Z</updated>
+        <summary type="html"><![CDATA[Faster Ruby: Thoughts from the Outside]]></summary>
+        <author>
+            <name>pvsukale3</name>
+            <uri>https://news.ycombinator.com/user?id=pvsukale3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制作单一窗口的视频
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408546</id>
+        <link href="https://news.ycombinator.com/item?id=32408546"/>
+        <updated>2022-08-10T06:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Making a Video of a Single Window]]></summary>
+        <author>
+            <name>ltratt</name>
+            <uri>https://news.ycombinator.com/user?id=ltratt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿什比（YC W19）招聘欧洲产品工程师，会议少，文化氛围好
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费在线教科书的作用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32333942</id>
-        <link href="https://news.ycombinator.com/item?id=32333942"/>
-        <updated>2022-08-03T16:38:39.000Z</updated>
-        <summary type="html"><![CDATA[Free Online Textbooks Work]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的Clojure项目快速入门
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295666</id>
-        <link href="https://news.ycombinator.com/item?id=32295666"/>
-        <updated>2022-07-31T14:22:51.000Z</updated>
-        <summary type="html"><![CDATA[New Clojure Project Quickstart]]></summary>
-        <author>
-            <name>yogthos</name>
-            <uri>https://news.ycombinator.com/user?id=yogthos</uri>
         </author>
     </entry>
 </feed>
