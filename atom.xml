@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T06:36:58.772Z</updated>
+    <updated>2022-08-11T06:57:49.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[区块链并没有那么多用途
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422082</id>
+        <link href="https://news.ycombinator.com/item?id=32422082"/>
+        <updated>2022-08-11T05:59:34.000Z</updated>
+        <summary type="html"><![CDATA[There aren't that many uses for blockchains]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cluetrain宣言》(1999)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑洞最终被证明在数学上是稳定的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32343370</id>
-        <link href="https://news.ycombinator.com/item?id=32343370"/>
-        <updated>2022-08-04T14:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Black holes finally proven mathematically stable]]></summary>
-        <author>
-            <name>shantanu_sharma</name>
-            <uri>https://news.ycombinator.com/user?id=shantanu_sharma</uri>
         </author>
     </entry>
 </feed>
