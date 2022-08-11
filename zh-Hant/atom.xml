@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T05:27:42.546Z</updated>
+    <updated>2022-08-11T05:44:59.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[波德曼4.2.0
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32421793</id>
+        <link href="https://news.ycombinator.com/item?id=32421793"/>
+        <updated>2022-08-11T05:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Podman 4.2.0]]></summary>
+        <author>
+            <name>timost</name>
+            <uri>https://news.ycombinator.com/user?id=timost</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在破壞性干擾過程中，能量會去哪裡？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danieltait</name>
             <uri>https://news.ycombinator.com/user?id=danieltait</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相信陰謀論的心理好處
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32343344</id>
-        <link href="https://news.ycombinator.com/item?id=32343344"/>
-        <updated>2022-08-04T14:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Psychological Benefits of Believing in Conspiracy Theories]]></summary>
-        <author>
-            <name>sgfgross</name>
-            <uri>https://news.ycombinator.com/user?id=sgfgross</uri>
         </author>
     </entry>
 </feed>
