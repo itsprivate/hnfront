@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T09:31:09.303Z</updated>
+    <updated>2022-08-11T09:49:15.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加利福尼亚州将其最严重的问题出口到德克萨斯州
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423100</id>
+        <link href="https://news.ycombinator.com/item?id=32423100"/>
+        <updated>2022-08-11T08:44:08.000Z</updated>
+        <summary type="html"><![CDATA[California Exported Its Worst Problem to Texas]]></summary>
+        <author>
+            <name>__Joker</name>
+            <uri>https://news.ycombinator.com/user?id=__Joker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用卫星发现垃圾填埋场的大量甲烷排放
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Anon84</name>
             <uri>https://news.ycombinator.com/user?id=Anon84</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NAFNet: 用于图像修复的非线性自由激活网络
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344549</id>
-        <link href="https://news.ycombinator.com/item?id=32344549"/>
-        <updated>2022-08-04T15:54:54.000Z</updated>
-        <summary type="html"><![CDATA[NAFNet: Nonlinear Activation Free Network for Image Restoration]]></summary>
-        <author>
-            <name>pizza</name>
-            <uri>https://news.ycombinator.com/user?id=pizza</uri>
         </author>
     </entry>
 </feed>
