@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 20:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 20:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[开放的故障。关于通过瞬时错误对TLS密钥的被动破坏 [pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32431174</link>
+            <guid>https://news.ycombinator.com/item?id=32431174</guid>
+            <pubDate>Thu, 11 Aug 2022 20:16:05 GMT</pubDate>
+            <description><![CDATA[Open to a fault: On the passive compromise of TLS keys via transient errors [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[现代缓存的设计 (2016)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32430975</link>
+            <guid>https://news.ycombinator.com/item?id=32430975</guid>
+            <pubDate>Thu, 11 Aug 2022 19:58:08 GMT</pubDate>
+            <description><![CDATA[Design of a Modern Cache (2016)]]></description>
+        </item>
         <item>
             <title><![CDATA[Superblocks宣布获得3700万美元融资
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32354294</guid>
             <pubDate>Fri, 05 Aug 2022 10:53:34 GMT</pubDate>
             <description><![CDATA[Stateless Kubernetes overlay networks with IPv6]]></description>
-        </item>
-        <item>
-            <title><![CDATA[滥用MikroTik的RouterOS上的容器挂载点以获得代码执行
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32353413</link>
-            <guid>https://news.ycombinator.com/item?id=32353413</guid>
-            <pubDate>Fri, 05 Aug 2022 08:50:56 GMT</pubDate>
-            <description><![CDATA[Abusing container mount points on MikroTik's RouterOS to gain code execution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[焦点：魔术师如何在Facebook上发家致富
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32341274</link>
-            <guid>https://news.ycombinator.com/item?id=32341274</guid>
-            <pubDate>Thu, 04 Aug 2022 10:36:26 GMT</pubDate>
-            <description><![CDATA[Hocus focus: how magicians made a fortune on Facebook]]></description>
         </item>
     </channel>
 </rss>

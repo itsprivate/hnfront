@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32431174",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32431174",
+            "title": "開放的故障。關於通過瞬時錯誤對TLS密鑰的被動破壞 [pdf]\n",
+            "summary": "Open to a fault: On the passive compromise of TLS keys via transient errors [pdf]",
+            "date_modified": "2022-08-11T20:16:05.000Z",
+            "author": {
+                "name": "johnnyapol",
+                "url": "https://news.ycombinator.com/user?id=johnnyapol"
+            },
+            "_original_headline": "Open to a fault: On the passive compromise of TLS keys via transient errors [pdf]",
+            "_original_url": "https://www.usenix.org/system/files/sec22-sullivan.pdf",
+            "_sensitive": false,
+            "_score": 7
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32430975",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32430975",
+            "title": "現代緩存的設計 (2016)\n",
+            "summary": "Design of a Modern Cache (2016)",
+            "date_modified": "2022-08-11T19:58:08.000Z",
+            "author": {
+                "name": "caldito",
+                "url": "https://news.ycombinator.com/user?id=caldito"
+            },
+            "_original_headline": "Design of a Modern Cache (2016)",
+            "_original_url": "http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html",
+            "_sensitive": false,
+            "_score": 6
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32431154",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32431154",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6",
             "_sensitive": false,
             "_score": 7
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32353413",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32353413",
-            "title": "濫用MikroTik的RouterOS上的容器掛載點以獲得代碼執行\n",
-            "summary": "Abusing container mount points on MikroTik's RouterOS to gain code execution",
-            "date_modified": "2022-08-05T08:50:56.000Z",
-            "author": {
-                "name": "xx_ns",
-                "url": "https://news.ycombinator.com/user?id=xx_ns"
-            },
-            "_original_headline": "Abusing container mount points on MikroTik's RouterOS to gain code execution",
-            "_original_url": "https://nns.ee/blog/2022/08/05/routeros-container-rce.html",
-            "_sensitive": false,
-            "_score": 9
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32341274",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32341274",
-            "title": "焦點：魔術師如何在Facebook上發家致富\n",
-            "summary": "Hocus focus: how magicians made a fortune on Facebook",
-            "date_modified": "2022-08-04T10:36:26.000Z",
-            "author": {
-                "name": "pseudolus",
-                "url": "https://news.ycombinator.com/user?id=pseudolus"
-            },
-            "_original_headline": "Hocus focus: how magicians made a fortune on Facebook",
-            "_original_url": "https://www.economist.com/1843/2022/07/28/hocus-focus-how-magicians-made-a-fortune-on-facebook",
-            "_sensitive": false,
-            "_score": 10
         }
     ]
 }

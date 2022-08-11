@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T20:35:22.594Z</updated>
+    <updated>2022-08-11T20:50:45.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開放的故障。關於通過瞬時錯誤對TLS密鑰的被動破壞 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32431174</id>
+        <link href="https://news.ycombinator.com/item?id=32431174"/>
+        <updated>2022-08-11T20:16:05.000Z</updated>
+        <summary type="html"><![CDATA[Open to a fault: On the passive compromise of TLS keys via transient errors [pdf]]]></summary>
+        <author>
+            <name>johnnyapol</name>
+            <uri>https://news.ycombinator.com/user?id=johnnyapol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現代緩存的設計 (2016)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32430975</id>
+        <link href="https://news.ycombinator.com/item?id=32430975"/>
+        <updated>2022-08-11T19:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Design of a Modern Cache (2016)]]></summary>
+        <author>
+            <name>caldito</name>
+            <uri>https://news.ycombinator.com/user?id=caldito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Superblocks宣佈獲得3700萬美元融資
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>talonx</name>
             <uri>https://news.ycombinator.com/user?id=talonx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[濫用MikroTik的RouterOS上的容器掛載點以獲得代碼執行
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32353413</id>
-        <link href="https://news.ycombinator.com/item?id=32353413"/>
-        <updated>2022-08-05T08:50:56.000Z</updated>
-        <summary type="html"><![CDATA[Abusing container mount points on MikroTik's RouterOS to gain code execution]]></summary>
-        <author>
-            <name>xx_ns</name>
-            <uri>https://news.ycombinator.com/user?id=xx_ns</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焦點：魔術師如何在Facebook上發家致富
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32341274</id>
-        <link href="https://news.ycombinator.com/item?id=32341274"/>
-        <updated>2022-08-04T10:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Hocus focus: how magicians made a fortune on Facebook]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
