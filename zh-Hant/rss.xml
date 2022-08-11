@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 20:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 21:01:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不要醃製你的數據
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32431036</link>
+            <guid>https://news.ycombinator.com/item?id=32431036</guid>
+            <pubDate>Thu, 11 Aug 2022 20:03:52 GMT</pubDate>
+            <description><![CDATA[Don't Pickle Your Data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[參加系統設計面試前應瞭解的算法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32429533</link>
+            <guid>https://news.ycombinator.com/item?id=32429533</guid>
+            <pubDate>Thu, 11 Aug 2022 18:02:03 GMT</pubDate>
+            <description><![CDATA[Algorithms you should know before you take system design interviews]]></description>
+        </item>
         <item>
             <title><![CDATA[開放的故障。關於通過瞬時錯誤對TLS密鑰的被動破壞 [pdf]
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32355327</guid>
             <pubDate>Fri, 05 Aug 2022 12:49:20 GMT</pubDate>
             <description><![CDATA[Nix: Taming Unix with Functional Programming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[鞍山藝術學院
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32354797</link>
-            <guid>https://news.ycombinator.com/item?id=32354797</guid>
-            <pubDate>Fri, 05 Aug 2022 11:52:09 GMT</pubDate>
-            <description><![CDATA[ANSIArt]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用IPv6的無狀態Kubernetes疊加網絡
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32354294</link>
-            <guid>https://news.ycombinator.com/item?id=32354294</guid>
-            <pubDate>Fri, 05 Aug 2022 10:53:34 GMT</pubDate>
-            <description><![CDATA[Stateless Kubernetes overlay networks with IPv6]]></description>
         </item>
     </channel>
 </rss>

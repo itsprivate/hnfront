@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T20:50:45.350Z</updated>
+    <updated>2022-08-11T21:01:11.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要腌制你的数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32431036</id>
+        <link href="https://news.ycombinator.com/item?id=32431036"/>
+        <updated>2022-08-11T20:03:52.000Z</updated>
+        <summary type="html"><![CDATA[Don't Pickle Your Data]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参加系统设计面试前应了解的算法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429533</id>
+        <link href="https://news.ycombinator.com/item?id=32429533"/>
+        <updated>2022-08-11T18:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms you should know before you take system design interviews]]></summary>
+        <author>
+            <name>code007</name>
+            <uri>https://news.ycombinator.com/user?id=code007</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开放的故障。关于通过瞬时错误对TLS密钥的被动破坏 [pdf]
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鞍山艺术学院
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32354797</id>
-        <link href="https://news.ycombinator.com/item?id=32354797"/>
-        <updated>2022-08-05T11:52:09.000Z</updated>
-        <summary type="html"><![CDATA[ANSIArt]]></summary>
-        <author>
-            <name>Lutzb</name>
-            <uri>https://news.ycombinator.com/user?id=Lutzb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用IPv6的无状态Kubernetes叠加网络
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32354294</id>
-        <link href="https://news.ycombinator.com/item?id=32354294"/>
-        <updated>2022-08-05T10:53:34.000Z</updated>
-        <summary type="html"><![CDATA[Stateless Kubernetes overlay networks with IPv6]]></summary>
-        <author>
-            <name>talonx</name>
-            <uri>https://news.ycombinator.com/user?id=talonx</uri>
         </author>
     </entry>
 </feed>
