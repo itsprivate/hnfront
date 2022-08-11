@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T08:34:28.360Z</updated>
+    <updated>2022-08-11T08:54:49.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[启动HN：AccessOwl（YC S22）--自动化SaaS配置和授权
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422871</id>
+        <link href="https://news.ycombinator.com/item?id=32422871"/>
+        <updated>2022-08-11T08:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: AccessOwl (YC S22) – Automating SaaS Provisioning and Permissioning]]></summary>
+        <author>
+            <name>mathiasn</name>
+            <uri>https://news.ycombinator.com/user?id=mathiasn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mindustry - 开源游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bradmenezes</name>
             <uri>https://news.ycombinator.com/user?id=bradmenezes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis源代码演练：ECHO命令是如何实现的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344666</id>
-        <link href="https://news.ycombinator.com/item?id=32344666"/>
-        <updated>2022-08-04T16:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Redis Source Walkthrough: How the ECHO command is implemented]]></summary>
-        <author>
-            <name>rohitpaulk</name>
-            <uri>https://news.ycombinator.com/user?id=rohitpaulk</uri>
         </author>
     </entry>
 </feed>
