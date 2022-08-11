@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T07:30:59.840Z</updated>
+    <updated>2022-08-11T07:46:04.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從11歲起，我每天都在考慮自殺的問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422300</id>
+        <link href="https://news.ycombinator.com/item?id=32422300"/>
+        <updated>2022-08-11T06:41:37.000Z</updated>
+        <summary type="html"><![CDATA[I’ve Contemplated Suicide Every Day of My Life Since the Age of Eleven]]></summary>
+        <author>
+            <name>monkeymagick</name>
+            <uri>https://news.ycombinator.com/user?id=monkeymagick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在技術領域學習困難的東西
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>z9znz</name>
             <uri>https://news.ycombinator.com/user?id=z9znz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OmniEdge - 一個基於n2n協議的開源P2P第二層VPN基礎設施
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32343610</id>
-        <link href="https://news.ycombinator.com/item?id=32343610"/>
-        <updated>2022-08-04T14:47:33.000Z</updated>
-        <summary type="html"><![CDATA[OmniEdge – an Open source P2P layer 2 VPN infrastructure based on n2n protocol]]></summary>
-        <author>
-            <name>fariszr</name>
-            <uri>https://news.ycombinator.com/user?id=fariszr</uri>
         </author>
     </entry>
 </feed>
