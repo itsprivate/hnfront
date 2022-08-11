@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T17:41:05.276Z</updated>
+    <updated>2022-08-11T18:38:11.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PGPP(Pretty Good Phone Privacy)測試版啟動
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429419</id>
+        <link href="https://news.ycombinator.com/item?id=32429419"/>
+        <updated>2022-08-11T17:53:15.000Z</updated>
+        <summary type="html"><![CDATA[PGPP (Pretty Good Phone Privacy) Beta Launch]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊合併在Goerli測試合併成功後如期進行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429380</id>
+        <link href="https://news.ycombinator.com/item?id=32429380"/>
+        <updated>2022-08-11T17:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum merge on schedule after successful Goerli test merge]]></summary>
+        <author>
+            <name>ayoubbhihi</name>
+            <uri>https://news.ycombinator.com/user?id=ayoubbhihi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用PyTorch的12行寫蛇
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32426836</id>
+        <link href="https://news.ycombinator.com/item?id=32426836"/>
+        <updated>2022-08-11T15:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Writing Snake in 12 Lines of PyTorch]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絕密的玫瑰花。二戰中的女性 "計算機"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32418161</id>
+        <link href="https://news.ycombinator.com/item?id=32418161"/>
+        <updated>2022-08-10T20:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Top Secret Rosies: The Female “Computers” of WWII]]></summary>
+        <author>
+            <name>jacquesm</name>
+            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在DALL-E 2的學分中花了15美元創建了這個AI圖像，以下是我學到的東西
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>pmoriarty</name>
             <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用arc42記錄軟件架構
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32353500</id>
-        <link href="https://news.ycombinator.com/item?id=32353500"/>
-        <updated>2022-08-05T09:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Documenting Software Architectures with arc42]]></summary>
-        <author>
-            <name>zorg42</name>
-            <uri>https://news.ycombinator.com/user?id=zorg42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大堡礁部分地區顯示出36年來的最高珊瑚覆蓋率
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32352875</id>
-        <link href="https://news.ycombinator.com/item?id=32352875"/>
-        <updated>2022-08-05T07:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Parts of Great Barrier Reef show highest coral cover seen in 36 years]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國最大的隧道切割頭被放進倫敦的豎井中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32353318</id>
-        <link href="https://news.ycombinator.com/item?id=32353318"/>
-        <updated>2022-08-05T08:37:12.000Z</updated>
-        <summary type="html"><![CDATA[UK's largest tunnel cutting head lowered into its London shaft]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[55美元的板子把樹莓派CM4變成了一個路由器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32353306</id>
-        <link href="https://news.ycombinator.com/item?id=32353306"/>
-        <updated>2022-08-05T08:34:45.000Z</updated>
-        <summary type="html"><![CDATA[$55 board turns a Raspberry Pi CM4 into a router]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
         </author>
     </entry>
 </feed>
