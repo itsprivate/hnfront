@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T11:27:56.597Z</updated>
+    <updated>2022-08-11T11:45:06.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IPFS和它们的网关
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32424055</id>
+        <link href="https://news.ycombinator.com/item?id=32424055"/>
+        <updated>2022-08-11T11:19:35.000Z</updated>
+        <summary type="html"><![CDATA[IPFS and Their Gateways]]></summary>
+        <author>
+            <name>JoachimS</name>
+            <uri>https://news.ycombinator.com/user?id=JoachimS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hetzner价格调整
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423080</id>
+        <link href="https://news.ycombinator.com/item?id=32423080"/>
+        <updated>2022-08-11T08:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Hetzner Price Adjustment]]></summary>
+        <author>
+            <name>gmemstr</name>
+            <uri>https://news.ycombinator.com/user?id=gmemstr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[完全Docker化的Linux内核调试环境
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>latchkey</name>
             <uri>https://news.ycombinator.com/user?id=latchkey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么人脑如此高效？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32345712</id>
-        <link href="https://news.ycombinator.com/item?id=32345712"/>
-        <updated>2022-08-04T17:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Why Is the Human Brain So Efficient?]]></summary>
-        <author>
-            <name>ofou</name>
-            <uri>https://news.ycombinator.com/user?id=ofou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高迪：沉浸式三维场景生成的神经架构
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344014</id>
-        <link href="https://news.ycombinator.com/item?id=32344014"/>
-        <updated>2022-08-04T15:15:11.000Z</updated>
-        <summary type="html"><![CDATA[Gaudi: A Neural Architect for Immersive 3D Scene Generation]]></summary>
-        <author>
-            <name>andsoitis</name>
-            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
         </author>
     </entry>
 </feed>
