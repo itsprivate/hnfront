@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 21:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 21:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[構建認證的併發操作系統內核
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32416008</link>
+            <guid>https://news.ycombinator.com/item?id=32416008</guid>
+            <pubDate>Wed, 10 Aug 2022 17:57:53 GMT</pubDate>
+            <description><![CDATA[Building certified concurrent OS kernels]]></description>
+        </item>
         <item>
             <title><![CDATA[不要醃製你的數據
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32355331</guid>
             <pubDate>Fri, 05 Aug 2022 12:49:29 GMT</pubDate>
             <description><![CDATA[French mayor demands €15,000 fee to climb Mont Blanc]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nix。用函數式編程馴服Unix
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32355327</link>
-            <guid>https://news.ycombinator.com/item?id=32355327</guid>
-            <pubDate>Fri, 05 Aug 2022 12:49:20 GMT</pubDate>
-            <description><![CDATA[Nix: Taming Unix with Functional Programming]]></description>
         </item>
     </channel>
 </rss>

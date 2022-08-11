@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32416008",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32416008",
+            "title": "构建认证的并发操作系统内核\n",
+            "summary": "Building certified concurrent OS kernels",
+            "date_modified": "2022-08-10T17:57:53.000Z",
+            "author": {
+                "name": "wh313",
+                "url": "https://news.ycombinator.com/user?id=wh313"
+            },
+            "_original_headline": "Building certified concurrent OS kernels",
+            "_original_url": "https://dl.acm.org/doi/abs/10.1145/3356903",
+            "_sensitive": false,
+            "_score": 8
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32431036",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32431036",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.bbc.co.uk/news/world-europe-62436466",
             "_sensitive": false,
             "_score": 20
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32355327",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32355327",
-            "title": "Nix。用函数式编程驯服Unix\n",
-            "summary": "Nix: Taming Unix with Functional Programming",
-            "date_modified": "2022-08-05T12:49:20.000Z",
-            "author": {
-                "name": "ingve",
-                "url": "https://news.ycombinator.com/user?id=ingve"
-            },
-            "_original_headline": "Nix: Taming Unix with Functional Programming",
-            "_original_url": "https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/",
-            "_sensitive": false,
-            "_score": 16
         }
     ]
 }
