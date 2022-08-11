@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T08:54:49.966Z</updated>
+    <updated>2022-08-11T09:31:09.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[利用卫星发现垃圾填埋场的大量甲烷排放
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423178</id>
+        <link href="https://news.ycombinator.com/item?id=32423178"/>
+        <updated>2022-08-11T08:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Using satellites to uncover large methane emissions from landfills]]></summary>
+        <author>
+            <name>jacquesm</name>
+            <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何向高管介绍情况
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409842</id>
+        <link href="https://news.ycombinator.com/item?id=32409842"/>
+        <updated>2022-08-10T10:22:57.000Z</updated>
+        <summary type="html"><![CDATA[How to Present to Executives]]></summary>
+        <author>
+            <name>alexzeitler</name>
+            <uri>https://news.ycombinator.com/user?id=alexzeitler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[启动HN：AccessOwl（YC S22）--自动化SaaS配置和授权
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pizza</name>
             <uri>https://news.ycombinator.com/user?id=pizza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基础设施即代码（IaC）与实例
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344882</id>
-        <link href="https://news.ycombinator.com/item?id=32344882"/>
-        <updated>2022-08-04T16:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure as Code(IaC) with Examples]]></summary>
-        <author>
-            <name>sd2995</name>
-            <uri>https://news.ycombinator.com/user?id=sd2995</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superblocks - 内部应用、API和Cron工作的IDE
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32344671</id>
-        <link href="https://news.ycombinator.com/item?id=32344671"/>
-        <updated>2022-08-04T16:03:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs]]></summary>
-        <author>
-            <name>bradmenezes</name>
-            <uri>https://news.ycombinator.com/user?id=bradmenezes</uri>
         </author>
     </entry>
 </feed>
