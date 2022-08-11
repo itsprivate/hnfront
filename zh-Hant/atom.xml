@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-11T22:29:28.798Z</updated>
+    <updated>2022-08-11T23:30:29.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不，不先閱讀第三方代碼，就不能相信它。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32431636</id>
+        <link href="https://news.ycombinator.com/item?id=32431636"/>
+        <updated>2022-08-11T20:57:34.000Z</updated>
+        <summary type="html"><![CDATA[No, you cannot trust third party code without reading it first]]></summary>
+        <author>
+            <name>lycopodiopsida</name>
+            <uri>https://news.ycombinator.com/user?id=lycopodiopsida</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[切換器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32414661</id>
+        <link href="https://news.ycombinator.com/item?id=32414661"/>
+        <updated>2022-08-10T16:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Switcher]]></summary>
+        <author>
+            <name>mmphosis</name>
+            <uri>https://news.ycombinator.com/user?id=mmphosis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成功創新的關鍵？進步大於產品
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tamaharbor</name>
             <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意大利和英特爾接近達成50億美元的芯片工廠交易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32356171</id>
-        <link href="https://news.ycombinator.com/item?id=32356171"/>
-        <updated>2022-08-05T13:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Italy, Intel close to $5B deal for chip factory]]></summary>
-        <author>
-            <name>KoftaBob</name>
-            <uri>https://news.ycombinator.com/user?id=KoftaBob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UUIDs的B計劃：雙AES-128
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32355750</id>
-        <link href="https://news.ycombinator.com/item?id=32355750"/>
-        <updated>2022-08-05T13:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Plan B for UUIDs: double AES-128]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
