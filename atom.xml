@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-12T16:49:24.843Z</updated>
+    <updated>2022-08-12T17:18:58.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么分布式系统会如此两极分化？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32439601</id>
+        <link href="https://news.ycombinator.com/item?id=32439601"/>
+        <updated>2022-08-12T14:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why are distributed systems so polarizing?]]></summary>
+        <author>
+            <name>c0mptonFP</name>
+            <uri>https://news.ycombinator.com/user?id=c0mptonFP</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Makefiles的不合理的有效性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32438616</id>
+        <link href="https://news.ycombinator.com/item?id=32438616"/>
+        <updated>2022-08-12T13:49:35.000Z</updated>
+        <summary type="html"><![CDATA[The Unreasonable Effectiveness of Makefiles]]></summary>
+        <author>
+            <name>srijan4</name>
+            <uri>https://news.ycombinator.com/user?id=srijan4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寒冷中的癌症
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>RelaxedTree</name>
             <uri>https://news.ycombinator.com/user?id=RelaxedTree</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特确认零日事件被用来暴露540万账户的数据
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32364398</id>
-        <link href="https://news.ycombinator.com/item?id=32364398"/>
-        <updated>2022-08-06T02:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Twitter confirms zero-day used to expose data of 5.4M accounts]]></summary>
-        <author>
-            <name>ngaut</name>
-            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[皮肤暴露在UVB光下，诱发皮肤-大脑-性腺轴和性行为
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32363959</id>
-        <link href="https://news.ycombinator.com/item?id=32363959"/>
-        <updated>2022-08-06T01:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior]]></summary>
-        <author>
-            <name>jbonniwell</name>
-            <uri>https://news.ycombinator.com/user?id=jbonniwell</uri>
         </author>
     </entry>
 </feed>
