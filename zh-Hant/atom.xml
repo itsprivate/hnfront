@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-12T13:00:54.419Z</updated>
+    <updated>2022-08-12T13:56:02.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：Reddit必須登錄才能看到敏感頁面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32438251</id>
+        <link href="https://news.ycombinator.com/item?id=32438251"/>
+        <updated>2022-08-12T13:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Reddit mandatory login to see sensitive pages]]></summary>
+        <author>
+            <name>btzo</name>
+            <uri>https://news.ycombinator.com/user?id=btzo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite。Wal2模式說明
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32435601</id>
+        <link href="https://news.ycombinator.com/item?id=32435601"/>
+        <updated>2022-08-12T07:40:24.000Z</updated>
+        <summary type="html"><![CDATA[SQLite: Wal2 Mode Notes]]></summary>
+        <author>
+            <name>umanghere</name>
+            <uri>https://news.ycombinator.com/user?id=umanghere</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Raytracer
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32420029</id>
+        <link href="https://news.ycombinator.com/item?id=32420029"/>
+        <updated>2022-08-11T00:06:15.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Raytracer]]></summary>
+        <author>
+            <name>bane</name>
+            <uri>https://news.ycombinator.com/user?id=bane</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反對快速時尚是一種階級歧視嗎？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>762236</name>
             <uri>https://news.ycombinator.com/user?id=762236</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州DMV指責特斯拉虛假宣傳自動駕駛和FSD功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32362316</id>
-        <link href="https://news.ycombinator.com/item?id=32362316"/>
-        <updated>2022-08-05T21:44:16.000Z</updated>
-        <summary type="html"><![CDATA[California DMV accuses Tesla of falsely advertising Autopilot and FSD features]]></summary>
-        <author>
-            <name>ra7</name>
-            <uri>https://news.ycombinator.com/user?id=ra7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AllegroServe，一個用Common Lisp編寫的網絡服務器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32361882</id>
-        <link href="https://news.ycombinator.com/item?id=32361882"/>
-        <updated>2022-08-05T20:56:15.000Z</updated>
-        <summary type="html"><![CDATA[AllegroServe, a web server written in Common Lisp]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凱博（YC W22）正在美國招聘創始工程師
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32361930</id>
-        <link href="https://news.ycombinator.com/item?id=32361930"/>
-        <updated>2022-08-05T21:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Kable (YC W22) Is Hiring Founding Engineers in the US]]></summary>
-        <author>
-            <name>asommer12</name>
-            <uri>https://news.ycombinator.com/user?id=asommer12</uri>
         </author>
     </entry>
 </feed>
