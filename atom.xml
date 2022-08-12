@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-12T22:51:02.614Z</updated>
+    <updated>2022-08-12T23:29:17.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zellij。一个包含电池的终端工作区
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32444564</id>
+        <link href="https://news.ycombinator.com/item?id=32444564"/>
+        <updated>2022-08-12T22:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Zellij: A terminal workspace with batteries included]]></summary>
+        <author>
+            <name>cassepipe</name>
+            <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[融合的热度上升
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cellover</name>
             <uri>https://news.ycombinator.com/user?id=cellover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由Rust + Apache Iceberg驱动的开源无服务器安全湖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32367923</id>
-        <link href="https://news.ycombinator.com/item?id=32367923"/>
-        <updated>2022-08-06T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-source serverless security lake powered by Rust + Apache Iceberg]]></summary>
-        <author>
-            <name>shaeqahmed</name>
-            <uri>https://news.ycombinator.com/user?id=shaeqahmed</uri>
         </author>
     </entry>
 </feed>

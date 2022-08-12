@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Fri, 12 Aug 2022 22:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 23:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Zellij。一個包含電池的終端工作區
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32444564</link>
+            <guid>https://news.ycombinator.com/item?id=32444564</guid>
+            <pubDate>Fri, 12 Aug 2022 22:11:23 GMT</pubDate>
+            <description><![CDATA[Zellij: A terminal workspace with batteries included]]></description>
+        </item>
         <item>
             <title><![CDATA[融合的熱度上升
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32367979</guid>
             <pubDate>Sat, 06 Aug 2022 13:37:55 GMT</pubDate>
             <description><![CDATA[Simulating an Entire Car Engine (yes, it makes noise) [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由Rust + Apache Iceberg驅動的開源無服務器安全湖
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32367923</link>
-            <guid>https://news.ycombinator.com/item?id=32367923</guid>
-            <pubDate>Sat, 06 Aug 2022 13:31:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Open-source serverless security lake powered by Rust + Apache Iceberg]]></description>
         </item>
     </channel>
 </rss>
