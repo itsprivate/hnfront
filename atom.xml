@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-12T08:34:21.191Z</updated>
+    <updated>2022-08-12T08:53:59.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第一个用于CPU微代码的动态分析框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32435615</id>
+        <link href="https://news.ycombinator.com/item?id=32435615"/>
+        <updated>2022-08-12T07:43:16.000Z</updated>
+        <summary type="html"><![CDATA[The first dynamic analysis framework for CPU microcode]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统一公司签署 "数百万美元 "合同，帮助美国政府进行国防建设
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434911</id>
+        <link href="https://news.ycombinator.com/item?id=32434911"/>
+        <updated>2022-08-12T05:10:14.000Z</updated>
+        <summary type="html"><![CDATA[Unity signs “multi-million dollar” contract to help U.S. government with defense]]></summary>
+        <author>
+            <name>cpeterso</name>
+            <uri>https://news.ycombinator.com/user?id=cpeterso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要使用DuckDuckGo
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用X射线CT扫描逆向设计一个1960年代的混合翻转模块
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32359618</id>
-        <link href="https://news.ycombinator.com/item?id=32359618"/>
-        <updated>2022-08-05T18:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Reverse-engineering a 1960s hybrid flip flop module with X-ray CT scans]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特称马斯克的垃圾邮件分析使用的工具称他自己的账户为机器人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32359003</id>
-        <link href="https://news.ycombinator.com/item?id=32359003"/>
-        <updated>2022-08-05T17:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Twitter says Musk’s spam analysis used tool that called his own account a bot]]></summary>
-        <author>
-            <name>hassanahmad</name>
-            <uri>https://news.ycombinator.com/user?id=hassanahmad</uri>
         </author>
     </entry>
 </feed>
