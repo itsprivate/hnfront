@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-12T02:32:59.813Z</updated>
+    <updated>2022-08-12T03:54:33.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將Markdown作為網頁/網站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434419</id>
+        <link href="https://news.ycombinator.com/item?id=32434419"/>
+        <updated>2022-08-12T03:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Markdown as Web Page/Site]]></summary>
+        <author>
+            <name>casualwriter</name>
+            <uri>https://news.ycombinator.com/user?id=casualwriter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rob Pike在Go中的簡單C重詞匹配器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434412</id>
+        <link href="https://news.ycombinator.com/item?id=32434412"/>
+        <updated>2022-08-12T03:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Rob Pike's simple C regex matcher in Go]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山羊出租 - 租用山羊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434351</id>
+        <link href="https://news.ycombinator.com/item?id=32434351"/>
+        <updated>2022-08-12T03:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Goat Rental – Hire Goats]]></summary>
+        <author>
+            <name>deanstag</name>
+            <uri>https://news.ycombinator.com/user?id=deanstag</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[納米結構的纖維可以冒充人類的肌肉
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434076</id>
+        <link href="https://news.ycombinator.com/item?id=32434076"/>
+        <updated>2022-08-12T02:13:52.000Z</updated>
+        <summary type="html"><![CDATA[Nanostructured Fibers Can Impersonate Human Muscles]]></summary>
+        <author>
+            <name>jdmark</name>
+            <uri>https://news.ycombinator.com/user?id=jdmark</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[給力的藝術》（The Art of Giving a Shit
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32416948</id>
+        <link href="https://news.ycombinator.com/item?id=32416948"/>
+        <updated>2022-08-10T19:06:52.000Z</updated>
+        <summary type="html"><![CDATA[The Art of Giving a Shit]]></summary>
+        <author>
+            <name>ghuntley</name>
+            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Periodex - 優雅的週期表 (158 kb 頁)
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>mroche</name>
             <uri>https://news.ycombinator.com/user?id=mroche</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我參加了99年的伍德斯托克音樂節，它摧毀了我的純真。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32357433</id>
-        <link href="https://news.ycombinator.com/item?id=32357433"/>
-        <updated>2022-08-05T15:21:45.000Z</updated>
-        <summary type="html"><![CDATA[I was at Woodstock ’99 and it destroyed my innocence]]></summary>
-        <author>
-            <name>lawgimenez</name>
-            <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戈多3.5：不能停止不會停止
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32357248</id>
-        <link href="https://news.ycombinator.com/item?id=32357248"/>
-        <updated>2022-08-05T15:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Godot 3.5: Can't stop won't stop]]></summary>
-        <author>
-            <name>tmstieff</name>
-            <uri>https://news.ycombinator.com/user?id=tmstieff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[節點緩存管理器的SQLite存儲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32356238</id>
-        <link href="https://news.ycombinator.com/item?id=32356238"/>
-        <updated>2022-08-05T14:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SQLite store for node cache manager]]></summary>
-        <author>
-            <name>maxpert</name>
-            <uri>https://news.ycombinator.com/user?id=maxpert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天用Cedro預處理程序從C23中嵌入使用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32341326</id>
-        <link href="https://news.ycombinator.com/item?id=32341326"/>
-        <updated>2022-08-04T10:44:12.000Z</updated>
-        <summary type="html"><![CDATA[Use embed from C23 today with the Cedro pre-processor]]></summary>
-        <author>
-            <name>AlbertoGP</name>
-            <uri>https://news.ycombinator.com/user?id=AlbertoGP</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何選擇你的大學學位
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32355947</id>
-        <link href="https://news.ycombinator.com/item?id=32355947"/>
-        <updated>2022-08-05T13:37:15.000Z</updated>
-        <summary type="html"><![CDATA[How to Choose Your College Degree]]></summary>
-        <author>
-            <name>nassimsoftware</name>
-            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
         </author>
     </entry>
 </feed>
