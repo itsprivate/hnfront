@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-12T07:45:00.081Z</updated>
+    <updated>2022-08-12T07:59:46.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我堅持要求人們使用論壇和問題追蹤器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32435291</id>
+        <link href="https://news.ycombinator.com/item?id=32435291"/>
+        <updated>2022-08-12T06:40:26.000Z</updated>
+        <summary type="html"><![CDATA[I Insist People Use the Forums and Issue Trackers]]></summary>
+        <author>
+            <name>ericdanielski</name>
+            <uri>https://news.ycombinator.com/user?id=ericdanielski</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JiraCLI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32435259</id>
+        <link href="https://news.ycombinator.com/item?id=32435259"/>
+        <updated>2022-08-12T06:33:43.000Z</updated>
+        <summary type="html"><![CDATA[JiraCLI]]></summary>
+        <author>
+            <name>EntICOnc</name>
+            <uri>https://news.ycombinator.com/user?id=EntICOnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TruffleC。在JVM之上的C語言實現
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在線Applesoft基礎編輯
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32358874</id>
-        <link href="https://news.ycombinator.com/item?id=32358874"/>
-        <updated>2022-08-05T17:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Online Applesoft Basic Editor]]></summary>
-        <author>
-            <name>empressplay</name>
-            <uri>https://news.ycombinator.com/user?id=empressplay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlenderBot 3: 一個參數為175B、公開可用的聊天機器人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32358078</id>
-        <link href="https://news.ycombinator.com/item?id=32358078"/>
-        <updated>2022-08-05T16:07:30.000Z</updated>
-        <summary type="html"><![CDATA[BlenderBot 3: A 175B parameter, publicly available chatbot]]></summary>
-        <author>
-            <name>georgehill</name>
-            <uri>https://news.ycombinator.com/user?id=georgehill</uri>
         </author>
     </entry>
 </feed>
