@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-13T21:25:47.455Z</updated>
+    <updated>2022-08-13T21:57:37.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[禁止瓶装水：全球都有微塑料存在
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32453666</id>
+        <link href="https://news.ycombinator.com/item?id=32453666"/>
+        <updated>2022-08-13T20:51:32.000Z</updated>
+        <summary type="html"><![CDATA[Ban Bottled Water:Microplastics Reside in Them Globally]]></summary>
+        <author>
+            <name>gbenga4real</name>
+            <uri>https://news.ycombinator.com/user?id=gbenga4real</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skio (YC S20)正在纽约市招聘--为Shopify、ReCharge迁移提供订阅服务
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>VigneshBaskaran</name>
             <uri>https://news.ycombinator.com/user?id=VigneshBaskaran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Landlock对GNU Make进行沙盒处理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32376322</id>
-        <link href="https://news.ycombinator.com/item?id=32376322"/>
-        <updated>2022-08-07T13:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Using Landlock to Sandbox GNU Make]]></summary>
-        <author>
-            <name>jart</name>
-            <uri>https://news.ycombinator.com/user?id=jart</uri>
         </author>
     </entry>
 </feed>
