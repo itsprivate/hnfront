@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-13T04:51:38.990Z</updated>
+    <updated>2022-08-13T05:04:57.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我現在將把這個發給初級程序員
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446882</id>
+        <link href="https://news.ycombinator.com/item?id=32446882"/>
+        <updated>2022-08-13T04:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I will now send this to beginner programmers]]></summary>
+        <author>
+            <name>headline</name>
+            <uri>https://news.ycombinator.com/user?id=headline</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尋找性能問題：剖析還是記錄？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415345</id>
+        <link href="https://news.ycombinator.com/item?id=32415345"/>
+        <updated>2022-08-10T17:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Finding performance problems: profiling or logging?]]></summary>
+        <author>
+            <name>itamarst</name>
+            <uri>https://news.ycombinator.com/user?id=itamarst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長途駕駛時最喜歡的音頻書？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>panabee</name>
             <uri>https://news.ycombinator.com/user?id=panabee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移動電子工作臺 (2017)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32365449</id>
-        <link href="https://news.ycombinator.com/item?id=32365449"/>
-        <updated>2022-08-06T06:21:08.000Z</updated>
-        <summary type="html"><![CDATA[Mobile Electronics Workbench (2017)]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼一般的人工智能不會實現（2020年）？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32370635</id>
-        <link href="https://news.ycombinator.com/item?id=32370635"/>
-        <updated>2022-08-06T18:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Why general artificial intelligence will not be realized (2020)]]></summary>
-        <author>
-            <name>headalgorithm</name>
-            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
         </author>
     </entry>
 </feed>
