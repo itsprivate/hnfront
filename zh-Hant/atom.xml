@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-13T19:25:43.996Z</updated>
+    <updated>2022-08-13T19:44:19.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[古怪的計算機書籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32452673</id>
+        <link href="https://news.ycombinator.com/item?id=32452673"/>
+        <updated>2022-08-13T18:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Quirky Computing Books]]></summary>
+        <author>
+            <name>llvm</name>
+            <uri>https://news.ycombinator.com/user?id=llvm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火箭無人機，一個月球登陸器類型的網絡遊戲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>martialg</name>
             <uri>https://news.ycombinator.com/user?id=martialg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有誰試過用Oculus進行開發？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375677</id>
-        <link href="https://news.ycombinator.com/item?id=32375677"/>
-        <updated>2022-08-07T11:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone tried development using an Oculus?]]></summary>
-        <author>
-            <name>holistio</name>
-            <uri>https://news.ycombinator.com/user?id=holistio</uri>
         </author>
     </entry>
 </feed>
