@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T19:57:31.646Z</updated>
+    <updated>2022-08-14T20:29:44.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[密爾沃基工具在美國新建工廠，提高了標準
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462275</id>
+        <link href="https://news.ycombinator.com/item?id=32462275"/>
+        <updated>2022-08-14T19:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Milwaukee Tool Raises the Bar with New USA Factory]]></summary>
+        <author>
+            <name>stacktrust</name>
+            <uri>https://news.ycombinator.com/user?id=stacktrust</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究實現了對遷徙昆蟲最長的連續追蹤
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diffsound: 用於文本到聲音生成的離散擴散模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32384074</id>
-        <link href="https://news.ycombinator.com/item?id=32384074"/>
-        <updated>2022-08-08T10:49:11.000Z</updated>
-        <summary type="html"><![CDATA[Diffsound: Discrete Diffusion Model for Text-to-Sound Generation]]></summary>
-        <author>
-            <name>selimonder</name>
-            <uri>https://news.ycombinator.com/user?id=selimonder</uri>
         </author>
     </entry>
 </feed>
