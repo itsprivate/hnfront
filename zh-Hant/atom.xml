@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T11:25:27.891Z</updated>
+    <updated>2022-08-14T11:43:54.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國西部的火車照片 (2017)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32426163</id>
+        <link href="https://news.ycombinator.com/item?id=32426163"/>
+        <updated>2022-08-11T14:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Photos of trains in the American West (2017)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更快的協議緩衝區
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pfdietz</name>
             <uri>https://news.ycombinator.com/user?id=pfdietz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code.golf - 用最少的字符數解決問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32380117</id>
-        <link href="https://news.ycombinator.com/item?id=32380117"/>
-        <updated>2022-08-07T21:31:52.000Z</updated>
-        <summary type="html"><![CDATA[Code.golf – Solve problems in the least number of characters]]></summary>
-        <author>
-            <name>AkshatJ27</name>
-            <uri>https://news.ycombinator.com/user?id=AkshatJ27</uri>
         </author>
     </entry>
 </feed>
