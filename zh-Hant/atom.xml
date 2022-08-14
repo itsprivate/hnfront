@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T18:35:36.518Z</updated>
+    <updated>2022-08-14T18:53:36.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[狀態陷阱。從Web2社會網絡中學習
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32461293</id>
+        <link href="https://news.ycombinator.com/item?id=32461293"/>
+        <updated>2022-08-14T17:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Status Traps: Learning from Web2 Social Networks]]></summary>
+        <author>
+            <name>miletus</name>
+            <uri>https://news.ycombinator.com/user?id=miletus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppertino: 基於蘋果公司人類準則的CSS框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32435635</id>
+        <link href="https://news.ycombinator.com/item?id=32435635"/>
+        <updated>2022-08-12T07:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Puppertino: A CSS framework based on Human Guidelines from Apple]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["作為一個藝術家，我很擔心。"
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ahstilde</name>
             <uri>https://news.ycombinator.com/user?id=ahstilde</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不再有 "洞察力色情 "了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32384613</id>
-        <link href="https://news.ycombinator.com/item?id=32384613"/>
-        <updated>2022-08-08T12:21:17.000Z</updated>
-        <summary type="html"><![CDATA[No More “Insight Porn”]]></summary>
-        <author>
-            <name>jakobgreenfeld</name>
-            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宣佈。迷你鏽蝕
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32384550</id>
-        <link href="https://news.ycombinator.com/item?id=32384550"/>
-        <updated>2022-08-08T12:10:39.000Z</updated>
-        <summary type="html"><![CDATA[Announcing: MiniRust]]></summary>
-        <author>
-            <name>dthul</name>
-            <uri>https://news.ycombinator.com/user?id=dthul</uri>
         </author>
     </entry>
 </feed>
