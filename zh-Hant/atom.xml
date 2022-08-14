@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T17:58:28.249Z</updated>
+    <updated>2022-08-14T18:35:36.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["作為一個藝術家，我很擔心。"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32461138</id>
+        <link href="https://news.ycombinator.com/item?id=32461138"/>
+        <updated>2022-08-14T17:33:15.000Z</updated>
+        <summary type="html"><![CDATA[“As an artist I am concerned.”]]></summary>
+        <author>
+            <name>valgaze</name>
+            <uri>https://news.ycombinator.com/user?id=valgaze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巴克明斯特-富勒的 "未來之車 "的戲劇性失敗
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dthul</name>
             <uri>https://news.ycombinator.com/user?id=dthul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廣告技術巨頭Criteo因違反GDPR同意條款在法國面臨6500萬美元罰款
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32384495</id>
-        <link href="https://news.ycombinator.com/item?id=32384495"/>
-        <updated>2022-08-08T12:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Adtech giant Criteo faces $65M fine in France for GDPR consent breaches]]></summary>
-        <author>
-            <name>robin_reala</name>
-            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
         </author>
     </entry>
 </feed>
