@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T08:32:02.332Z</updated>
+    <updated>2022-08-14T09:27:50.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无肉不欢不是什么新鲜事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32457551</id>
+        <link href="https://news.ycombinator.com/item?id=32457551"/>
+        <updated>2022-08-14T08:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Meatless meat is nothing new]]></summary>
+        <author>
+            <name>helsinkiandrew</name>
+            <uri>https://news.ycombinator.com/user?id=helsinkiandrew</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dogelang - 它是一个Python! 不，它是一个Haskell!
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dnnsthnnr</name>
             <uri>https://news.ycombinator.com/user?id=dnnsthnnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海底的神秘孔洞案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32379066</id>
-        <link href="https://news.ycombinator.com/item?id=32379066"/>
-        <updated>2022-08-07T19:26:35.000Z</updated>
-        <summary type="html"><![CDATA[The Case of the Mysterious Holes on the Seafloor]]></summary>
-        <author>
-            <name>smartmic</name>
-            <uri>https://news.ycombinator.com/user?id=smartmic</uri>
         </author>
     </entry>
 </feed>
