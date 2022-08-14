@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T15:50:32.236Z</updated>
+    <updated>2022-08-14T16:02:28.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们是Blub程序员吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32459509</id>
+        <link href="https://news.ycombinator.com/item?id=32459509"/>
+        <updated>2022-08-14T14:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Are We Blub Programmers?]]></summary>
+        <author>
+            <name>andsoitis</name>
+            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud.gov
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tim--</name>
             <uri>https://news.ycombinator.com/user?id=tim--</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育的目的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32383375</id>
-        <link href="https://news.ycombinator.com/item?id=32383375"/>
-        <updated>2022-08-08T08:17:46.000Z</updated>
-        <summary type="html"><![CDATA[The Ends of Education]]></summary>
-        <author>
-            <name>zwirbl</name>
-            <uri>https://news.ycombinator.com/user?id=zwirbl</uri>
         </author>
     </entry>
 </feed>
