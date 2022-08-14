@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 14 Aug 2022 20:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 21:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[頁面是由ReactOS上的Nginx提供的。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32461711</link>
+            <guid>https://news.ycombinator.com/item?id=32461711</guid>
+            <pubDate>Sun, 14 Aug 2022 18:39:28 GMT</pubDate>
+            <description><![CDATA[Page was served from Nginx on ReactOS]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果找到了下一個大生意。在你的iPhone上顯示廣告
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32384653</guid>
             <pubDate>Mon, 08 Aug 2022 12:26:05 GMT</pubDate>
             <description><![CDATA[To Uncover a Deepfake Video Call, Ask the Caller to Turn Sideways]]></description>
-        </item>
-        <item>
-            <title><![CDATA[去中心化的生物技術指南
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32384604</link>
-            <guid>https://news.ycombinator.com/item?id=32384604</guid>
-            <pubDate>Mon, 08 Aug 2022 12:19:56 GMT</pubDate>
-            <description><![CDATA[A Guide to Decentralized Biotech]]></description>
         </item>
     </channel>
 </rss>
