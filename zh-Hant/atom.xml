@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T07:44:40.917Z</updated>
+    <updated>2022-08-14T07:57:10.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果因表情符號問題耽擱了Telegram的最新更新
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32457136</id>
+        <link href="https://news.ycombinator.com/item?id=32457136"/>
+        <updated>2022-08-14T07:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Apple held up Telegram’s latest update over emoji]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國際合作旨在改進高粱育種工作
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>brianrisk</name>
             <uri>https://news.ycombinator.com/user?id=brianrisk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["別理那些該死的討厭鬼！" 以及從創建JSON5中學到的其他經驗
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32379245</id>
-        <link href="https://news.ycombinator.com/item?id=32379245"/>
-        <updated>2022-08-07T19:46:59.000Z</updated>
-        <summary type="html"><![CDATA[“Ignore the f'ing haters!” And other lessons learned from creating JSON5]]></summary>
-        <author>
-            <name>aseemk</name>
-            <uri>https://news.ycombinator.com/user?id=aseemk</uri>
         </author>
     </entry>
 </feed>
