@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T13:51:07.481Z</updated>
+    <updated>2022-08-14T14:29:04.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你建造了什么东西，但从未推销过？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32458897</id>
+        <link href="https://news.ycombinator.com/item?id=32458897"/>
+        <updated>2022-08-14T13:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is something you built but never marketed?]]></summary>
+        <author>
+            <name>leobg</name>
+            <uri>https://news.ycombinator.com/user?id=leobg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom macOS应用悄悄加回cs.disable-library-validation权限
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32458878</id>
+        <link href="https://news.ycombinator.com/item?id=32458878"/>
+        <updated>2022-08-14T12:58:41.000Z</updated>
+        <summary type="html"><![CDATA[Zoom macOS app quietly added back cs.disable-library-validation entitlement]]></summary>
+        <author>
+            <name>nuker</name>
+            <uri>https://news.ycombinator.com/user?id=nuker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据可观察性的四大支柱：度量、元数据、脉络和日志
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>_Microft</name>
             <uri>https://news.ycombinator.com/user?id=_Microft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类免疫系统的物理线路图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32381790</id>
-        <link href="https://news.ycombinator.com/item?id=32381790"/>
-        <updated>2022-08-08T02:07:21.000Z</updated>
-        <summary type="html"><![CDATA[A physical wiring diagram for the human immune system]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软阻止Tutanota用户使用自己的服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32381660</id>
-        <link href="https://news.ycombinator.com/item?id=32381660"/>
-        <updated>2022-08-08T01:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft blocks Tutanota users from own service]]></summary>
-        <author>
-            <name>0xmohit</name>
-            <uri>https://news.ycombinator.com/user?id=0xmohit</uri>
         </author>
     </entry>
 </feed>
