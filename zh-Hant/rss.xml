@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 14 Aug 2022 13:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 13:51:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[數據可觀察性的四大支柱：度量、元數據、脈絡和日誌
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32424755</link>
+            <guid>https://news.ycombinator.com/item?id=32424755</guid>
+            <pubDate>Thu, 11 Aug 2022 12:38:33 GMT</pubDate>
+            <description><![CDATA[The four pillars of data observability: metrics, metadata, lineage, and logs]]></description>
+        </item>
         <item>
             <title><![CDATA[你有10萬美元。你會進入什麼行業？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32381660</guid>
             <pubDate>Mon, 08 Aug 2022 01:38:05 GMT</pubDate>
             <description><![CDATA[Microsoft blocks Tutanota users from own service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我通過更換一個開關盒將TI-84模擬器的速度提高了10倍。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32381550</link>
-            <guid>https://news.ycombinator.com/item?id=32381550</guid>
-            <pubDate>Mon, 08 Aug 2022 01:20:41 GMT</pubDate>
-            <description><![CDATA[I 10x'd a TI-84 emulator's speed by replacing a switch-case]]></description>
         </item>
     </channel>
 </rss>

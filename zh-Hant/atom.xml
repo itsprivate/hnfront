@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-14T13:25:57.648Z</updated>
+    <updated>2022-08-14T13:51:07.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[數據可觀察性的四大支柱：度量、元數據、脈絡和日誌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32424755</id>
+        <link href="https://news.ycombinator.com/item?id=32424755"/>
+        <updated>2022-08-11T12:38:33.000Z</updated>
+        <summary type="html"><![CDATA[The four pillars of data observability: metrics, metadata, lineage, and logs]]></summary>
+        <author>
+            <name>kzh_</name>
+            <uri>https://news.ycombinator.com/user?id=kzh_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你有10萬美元。你會進入什麼行業？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>0xmohit</name>
             <uri>https://news.ycombinator.com/user?id=0xmohit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我通過更換一個開關盒將TI-84模擬器的速度提高了10倍。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32381550</id>
-        <link href="https://news.ycombinator.com/item?id=32381550"/>
-        <updated>2022-08-08T01:20:41.000Z</updated>
-        <summary type="html"><![CDATA[I 10x'd a TI-84 emulator's speed by replacing a switch-case]]></summary>
-        <author>
-            <name>xena</name>
-            <uri>https://news.ycombinator.com/user?id=xena</uri>
         </author>
     </entry>
 </feed>
