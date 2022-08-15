@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T14:34:04.547Z</updated>
+    <updated>2022-08-15T14:50:10.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：Godaddy取消了我的域名，给了我2小时的答复，然后收取150欧元的费用。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32470017</id>
+        <link href="https://news.ycombinator.com/item?id=32470017"/>
+        <updated>2022-08-15T14:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150]]></summary>
+        <author>
+            <name>M0r13n</name>
+            <uri>https://news.ycombinator.com/user?id=M0r13n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日文全书》第1册发布
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LopRabbit</name>
             <uri>https://news.ycombinator.com/user?id=LopRabbit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尝试用氢气为飞机提供动力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32384935</id>
-        <link href="https://news.ycombinator.com/item?id=32384935"/>
-        <updated>2022-08-08T13:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Attempts to power planes with hydrogen]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
