@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T18:40:10.769Z</updated>
+    <updated>2022-08-15T19:04:08.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[匿名搜索引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32473484</id>
+        <link href="https://news.ycombinator.com/item?id=32473484"/>
+        <updated>2022-08-15T18:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Anonymous Search Engine]]></summary>
+        <author>
+            <name>TomZero</name>
+            <uri>https://news.ycombinator.com/user?id=TomZero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個CEO的經驗之談。韋德-福斯特，Zapier
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>carride</name>
             <uri>https://news.ycombinator.com/user?id=carride</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年國家安全局破譯員挑戰賽
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32397699</id>
-        <link href="https://news.ycombinator.com/item?id=32397699"/>
-        <updated>2022-08-09T13:39:42.000Z</updated>
-        <summary type="html"><![CDATA[2022 NSA Codebreaker Challenge]]></summary>
-        <author>
-            <name>TecoAndJix</name>
-            <uri>https://news.ycombinator.com/user?id=TecoAndJix</uri>
         </author>
     </entry>
 </feed>
