@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T09:48:56.275Z</updated>
+    <updated>2022-08-15T10:36:55.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在C语言程序中，有许多方法会导致无法读取文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32467610</id>
+        <link href="https://news.ycombinator.com/item?id=32467610"/>
+        <updated>2022-08-15T09:38:17.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to fail to read a file in a C program]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在是2022年，特斯拉仍然没有为孩子们停下脚步
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bouiboui</name>
             <uri>https://news.ycombinator.com/user?id=bouiboui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只在周末锻炼与日常锻炼同等重要
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32390947</id>
-        <link href="https://news.ycombinator.com/item?id=32390947"/>
-        <updated>2022-08-08T20:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Working Out Only on Weekends Is Equal as Daily Exercise]]></summary>
-        <author>
-            <name>AlejoTeran</name>
-            <uri>https://news.ycombinator.com/user?id=AlejoTeran</uri>
         </author>
     </entry>
 </feed>
