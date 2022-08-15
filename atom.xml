@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T19:45:50.831Z</updated>
+    <updated>2022-08-15T19:58:34.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Discord如何对网络磁盘进行增压以实现极低的延时
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32474093</id>
+        <link href="https://news.ycombinator.com/item?id=32474093"/>
+        <updated>2022-08-15T19:24:21.000Z</updated>
+        <summary type="html"><![CDATA[How Discord supercharges network disks for extreme low latency]]></summary>
+        <author>
+            <name>techinvalley</name>
+            <uri>https://news.ycombinator.com/user?id=techinvalley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大脑如何将手势、知觉和意义联系起来
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>some_random</name>
             <uri>https://news.ycombinator.com/user?id=some_random</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从新手到大师，再从大师到新手
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32398391</id>
-        <link href="https://news.ycombinator.com/item?id=32398391"/>
-        <updated>2022-08-09T14:22:41.000Z</updated>
-        <summary type="html"><![CDATA[From Novice to Master, and Back Again]]></summary>
-        <author>
-            <name>omn1</name>
-            <uri>https://news.ycombinator.com/user?id=omn1</uri>
         </author>
     </entry>
 </feed>
