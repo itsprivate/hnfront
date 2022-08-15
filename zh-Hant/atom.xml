@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T17:18:05.321Z</updated>
+    <updated>2022-08-15T17:48:15.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國很快將出現一個 "極熱帶"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32472423</id>
+        <link href="https://news.ycombinator.com/item?id=32472423"/>
+        <updated>2022-08-15T17:13:34.000Z</updated>
+        <summary type="html"><![CDATA[An “Extreme Heat Belt” will soon emerge in the U.S.]]></summary>
+        <author>
+            <name>bovermyer</name>
+            <uri>https://news.ycombinator.com/user?id=bovermyer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilio事件。Signal用戶需要知道的事情
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32472412</id>
+        <link href="https://news.ycombinator.com/item?id=32472412"/>
+        <updated>2022-08-15T17:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Twilio incident: What Signal users need to know]]></summary>
+        <author>
+            <name>input_sh</name>
+            <uri>https://news.ycombinator.com/user?id=input_sh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win32是Linux上唯一穩定的ABI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32471624</id>
+        <link href="https://news.ycombinator.com/item?id=32471624"/>
+        <updated>2022-08-15T16:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Win32 Is the Only Stable ABI on Linux]]></summary>
+        <author>
+            <name>pantalaimon</name>
+            <uri>https://news.ycombinator.com/user?id=pantalaimon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特爾80376--無遺留問題的i386（有變化）(2010)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32447374</id>
+        <link href="https://news.ycombinator.com/item?id=32447374"/>
+        <updated>2022-08-13T06:13:45.000Z</updated>
+        <summary type="html"><![CDATA[The Intel 80376 – a Legacy-Free i386 (with a Twist) (2010)]]></summary>
+        <author>
+            <name>anyfoo</name>
+            <uri>https://news.ycombinator.com/user?id=anyfoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將Kubernetes擴展到數以千計的CRD
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>neverminder</name>
             <uri>https://news.ycombinator.com/user?id=neverminder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙公司（YC W18）正在招聘一名高級前端網絡工程師
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32396668</id>
-        <link href="https://news.ycombinator.com/item?id=32396668"/>
-        <updated>2022-08-09T12:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Universe (YC W18) Is Hiring a Senior Front End Web Engineer]]></summary>
-        <author>
-            <name>josephcohen</name>
-            <uri>https://news.ycombinator.com/user?id=josephcohen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法國遭遇有史以來最嚴重的旱災
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32396651</id>
-        <link href="https://news.ycombinator.com/item?id=32396651"/>
-        <updated>2022-08-09T11:57:52.000Z</updated>
-        <summary type="html"><![CDATA[France experiencing worst drought on record]]></summary>
-        <author>
-            <name>ksec</name>
-            <uri>https://news.ycombinator.com/user?id=ksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[棕櫚樹如何在颶風中生存？ (2017)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32396641</id>
-        <link href="https://news.ycombinator.com/item?id=32396641"/>
-        <updated>2022-08-09T11:56:54.000Z</updated>
-        <summary type="html"><![CDATA[How do palm trees survive hurricanes? (2017)]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們的大腦是一個預測機器，總是處於活躍狀態
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32395840</id>
-        <link href="https://news.ycombinator.com/item?id=32395840"/>
-        <updated>2022-08-09T09:36:58.000Z</updated>
-        <summary type="html"><![CDATA[Our brain is a prediction machine that is always active]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
