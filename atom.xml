@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T22:33:46.532Z</updated>
+    <updated>2022-08-15T22:49:16.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[优化转换的目录[pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32447292</id>
+        <link href="https://news.ycombinator.com/item?id=32447292"/>
+        <updated>2022-08-13T05:54:26.000Z</updated>
+        <summary type="html"><![CDATA[A catalogue of optimizing transformations [pdf]]]></summary>
+        <author>
+            <name>penguin_booze</name>
+            <uri>https://news.ycombinator.com/user?id=penguin_booze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大爆炸并没有发生。詹姆斯-韦伯的图像显示了什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jeremylevy</name>
             <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么类似Heroku的定价模式难以建立？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32399700</id>
-        <link href="https://news.ycombinator.com/item?id=32399700"/>
-        <updated>2022-08-09T16:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Why Heroku-like pricing models are hard to build]]></summary>
-        <author>
-            <name>michaelponrajah</name>
-            <uri>https://news.ycombinator.com/user?id=michaelponrajah</uri>
         </author>
     </entry>
 </feed>
