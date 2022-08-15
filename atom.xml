@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T19:26:34.744Z</updated>
+    <updated>2022-08-15T19:45:50.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大脑如何将手势、知觉和意义联系起来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32448673</id>
+        <link href="https://news.ycombinator.com/item?id=32448673"/>
+        <updated>2022-08-13T11:02:07.000Z</updated>
+        <summary type="html"><![CDATA[How the Brain Links Gestures, Perception and Meaning]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[警方利用婴儿的DNA来调查其父亲的犯罪行为
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>omn1</name>
             <uri>https://news.ycombinator.com/user?id=omn1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppLovin提出以175亿美元收购Unity软件公司
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32397510</id>
-        <link href="https://news.ycombinator.com/item?id=32397510"/>
-        <updated>2022-08-09T13:26:00.000Z</updated>
-        <summary type="html"><![CDATA[AppLovin offers to buy Unity Software in $17.5 bln deal]]></summary>
-        <author>
-            <name>jgillich</name>
-            <uri>https://news.ycombinator.com/user?id=jgillich</uri>
         </author>
     </entry>
 </feed>
