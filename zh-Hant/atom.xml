@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T15:38:10.249Z</updated>
+    <updated>2022-08-15T15:56:37.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[地球有史以來第6個最熱的7月和今年。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32470881</id>
+        <link href="https://news.ycombinator.com/item?id=32470881"/>
+        <updated>2022-08-15T15:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Earth had its 6th-hottest July and year to date on record]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：經過10年的實驗，自定義用戶名的郵件沒有收到垃圾郵件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pvitz</name>
             <uri>https://news.ycombinator.com/user?id=pvitz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速而實用的 "MSI "哈希表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32395256</id>
-        <link href="https://news.ycombinator.com/item?id=32395256"/>
-        <updated>2022-08-09T07:49:04.000Z</updated>
-        <summary type="html"><![CDATA[The quick and practical “MSI” hash table]]></summary>
-        <author>
-            <name>rcarmo</name>
-            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
         </author>
     </entry>
 </feed>
