@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T11:25:25.588Z</updated>
+    <updated>2022-08-15T12:01:21.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于鼻烟壶的反馈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32468360</id>
+        <link href="https://news.ycombinator.com/item?id=32468360"/>
+        <updated>2022-08-15T11:35:51.000Z</updated>
+        <summary type="html"><![CDATA[Feedback on Snouters]]></summary>
+        <author>
+            <name>Srivinod1</name>
+            <uri>https://news.ycombinator.com/user?id=Srivinod1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃普西隆法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32468281</id>
+        <link href="https://news.ycombinator.com/item?id=32468281"/>
+        <updated>2022-08-15T11:23:42.000Z</updated>
+        <summary type="html"><![CDATA[The Epsilon Method]]></summary>
+        <author>
+            <name>jakobgreenfeld</name>
+            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在登录SSH服务器时使用你的SIM卡进行MFA
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mitchbob</name>
             <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内容模型不是设计系统 (2021)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32392202</id>
-        <link href="https://news.ycombinator.com/item?id=32392202"/>
-        <updated>2022-08-08T23:03:09.000Z</updated>
-        <summary type="html"><![CDATA[A content model is not a design system (2021)]]></summary>
-        <author>
-            <name>labrador</name>
-            <uri>https://news.ycombinator.com/user?id=labrador</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反对替代C的理由
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32392161</id>
-        <link href="https://news.ycombinator.com/item?id=32392161"/>
-        <updated>2022-08-08T22:56:18.000Z</updated>
-        <summary type="html"><![CDATA[The case against an alternative to C]]></summary>
-        <author>
-            <name>lerno</name>
-            <uri>https://news.ycombinator.com/user?id=lerno</uri>
         </author>
     </entry>
 </feed>
