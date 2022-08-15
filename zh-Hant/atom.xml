@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T16:48:09.824Z</updated>
+    <updated>2022-08-15T17:18:05.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將Kubernetes擴展到數以千計的CRD
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32471508</id>
+        <link href="https://news.ycombinator.com/item?id=32471508"/>
+        <updated>2022-08-15T16:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Scaling Kubernetes to Thousands of CRDs]]></summary>
+        <author>
+            <name>hasheddan</name>
+            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何利用GPT-3和Hacker News數據創建博客文章標題優化器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蜘蛛似乎有類似快速眼動的睡眠，甚至可能做夢
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32396061</id>
-        <link href="https://news.ycombinator.com/item?id=32396061"/>
-        <updated>2022-08-09T10:27:15.000Z</updated>
-        <summary type="html"><![CDATA[Spiders Seem to Have REM-Like Sleep and May Even Dream]]></summary>
-        <author>
-            <name>alistairSH</name>
-            <uri>https://news.ycombinator.com/user?id=alistairSH</uri>
         </author>
     </entry>
 </feed>
