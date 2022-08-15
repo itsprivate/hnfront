@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-15T10:53:34.795Z</updated>
+    <updated>2022-08-15T11:25:25.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在登录SSH服务器时使用你的SIM卡进行MFA
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32467553</id>
+        <link href="https://news.ycombinator.com/item?id=32467553"/>
+        <updated>2022-08-15T09:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Using your SIM card for MFA when logging in to an SSH server]]></summary>
+        <author>
+            <name>GregHolmes</name>
+            <uri>https://news.ycombinator.com/user?id=GregHolmes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愚蠢的SMP技巧。锁定工程原则和层次结构的回顾
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446673</id>
+        <link href="https://news.ycombinator.com/item?id=32446673"/>
+        <updated>2022-08-13T03:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Stupid SMP Tricks: A Review of Locking Engineering Principles and Hierarchy]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以看看你的剧本吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lerno</name>
             <uri>https://news.ycombinator.com/user?id=lerno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们通过嗅觉感知大自然
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32375842</id>
-        <link href="https://news.ycombinator.com/item?id=32375842"/>
-        <updated>2022-08-07T12:08:14.000Z</updated>
-        <summary type="html"><![CDATA[We Perceive Nature Through Our Sense of Smell]]></summary>
-        <author>
-            <name>dnetesn</name>
-            <uri>https://news.ycombinator.com/user?id=dnetesn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些爱普生打印机被设定为在使用一定时间后停止工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32391081</id>
-        <link href="https://news.ycombinator.com/item?id=32391081"/>
-        <updated>2022-08-08T21:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Some Epson printers are programmed to stop working after a certain amount of use]]></summary>
-        <author>
-            <name>marron</name>
-            <uri>https://news.ycombinator.com/user?id=marron</uri>
         </author>
     </entry>
 </feed>
