@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T19:04:20.437Z</updated>
+    <updated>2022-08-16T19:26:44.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们需要年轻的程序员；我们需要老的程序员
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32486863</id>
+        <link href="https://news.ycombinator.com/item?id=32486863"/>
+        <updated>2022-08-16T18:34:58.000Z</updated>
+        <summary type="html"><![CDATA[We need young programmers; we need old programmers]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一家披萨店老板从DoorDash购买自己的24美元披萨赚了16美元
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>michaelsbradley</name>
             <uri>https://news.ycombinator.com/user?id=michaelsbradley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海洋生物为海洋植物和藻类授粉
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32397341</id>
-        <link href="https://news.ycombinator.com/item?id=32397341"/>
-        <updated>2022-08-09T13:13:05.000Z</updated>
-        <summary type="html"><![CDATA[Sea creatures pollinate marine plants and algae]]></summary>
-        <author>
-            <name>obert</name>
-            <uri>https://news.ycombinator.com/user?id=obert</uri>
         </author>
     </entry>
 </feed>
