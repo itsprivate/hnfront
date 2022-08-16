@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T07:43:42.953Z</updated>
+    <updated>2022-08-16T07:57:51.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年黑帽大会和Def Con上你可能错过的东西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32480066</id>
+        <link href="https://news.ycombinator.com/item?id=32480066"/>
+        <updated>2022-08-16T07:15:20.000Z</updated>
+        <summary type="html"><![CDATA[What you might have missed at Black Hat and Def Con 2022]]></summary>
+        <author>
+            <name>FeaturelessBug</name>
+            <uri>https://news.ycombinator.com/user?id=FeaturelessBug</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，进入机器/深度学习的正确方式是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pantalaimon</name>
             <uri>https://news.ycombinator.com/user?id=pantalaimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实施零信任架构
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32402630</id>
-        <link href="https://news.ycombinator.com/item?id=32402630"/>
-        <updated>2022-08-09T19:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Implementing a Zero Trust Architecture]]></summary>
-        <author>
-            <name>justinludwig</name>
-            <uri>https://news.ycombinator.com/user?id=justinludwig</uri>
         </author>
     </entry>
 </feed>
