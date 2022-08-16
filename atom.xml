@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T11:02:24.607Z</updated>
+    <updated>2022-08-16T11:23:15.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Trivy扫描AWS安全问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481270</id>
+        <link href="https://news.ycombinator.com/item?id=32481270"/>
+        <updated>2022-08-16T10:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Scanning for AWS Security Issues with Trivy]]></summary>
+        <author>
+            <name>pcw888</name>
+            <uri>https://news.ycombinator.com/user?id=pcw888</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[功能性反应式编程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32448772</id>
+        <link href="https://news.ycombinator.com/item?id=32448772"/>
+        <updated>2022-08-13T11:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Functional Reactive Programming]]></summary>
+        <author>
+            <name>amelius</name>
+            <uri>https://news.ycombinator.com/user?id=amelius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚当-诺伊曼的新公司获得了安德森-霍洛维茨的大笔支票
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>blacksqr</name>
             <uri>https://news.ycombinator.com/user?id=blacksqr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5150地区：8088英里/小时得到一个继承者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32394195</id>
-        <link href="https://news.ycombinator.com/item?id=32394195"/>
-        <updated>2022-08-09T04:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Area 5150: 8088 MPH gets a successor]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1024，一个2048的益智游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32405510</id>
-        <link href="https://news.ycombinator.com/item?id=32405510"/>
-        <updated>2022-08-09T22:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 1024, a 2048 Puzzle Game]]></summary>
-        <author>
-            <name>fuegoio</name>
-            <uri>https://news.ycombinator.com/user?id=fuegoio</uri>
         </author>
     </entry>
 </feed>
