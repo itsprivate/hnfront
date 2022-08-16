@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T09:25:57.824Z</updated>
+    <updated>2022-08-16T09:46:31.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[20世紀80年代的蘇聯計算機軟件和應用 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32479888</id>
+        <link href="https://news.ycombinator.com/item?id=32479888"/>
+        <updated>2022-08-16T06:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Soviet Computer Software and Applications in the 1980's [pdf]]]></summary>
+        <author>
+            <name>Claude_Shannon</name>
+            <uri>https://news.ycombinator.com/user?id=Claude_Shannon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16世紀的天鵝所有權日誌將被拍賣
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>whoami_nr</name>
             <uri>https://news.ycombinator.com/user?id=whoami_nr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼招聘開發人員如此困難？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32403768</id>
-        <link href="https://news.ycombinator.com/item?id=32403768"/>
-        <updated>2022-08-09T20:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Why is recruiting developers so difficult?]]></summary>
-        <author>
-            <name>goddamnyouryan</name>
-            <uri>https://news.ycombinator.com/user?id=goddamnyouryan</uri>
         </author>
     </entry>
 </feed>
