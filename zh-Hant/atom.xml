@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T04:06:21.270Z</updated>
+    <updated>2022-08-16T04:51:26.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[認證Racket的口譯員
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32478808</id>
+        <link href="https://news.ycombinator.com/item?id=32478808"/>
+        <updated>2022-08-16T03:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Certifying Interpreters in Racket]]></summary>
+        <author>
+            <name>bwidlar</name>
+            <uri>https://news.ycombinator.com/user?id=bwidlar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQLite不是一個玩具數據庫
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特爾的AXG部門能否在帕特-蓋爾辛格的斧頭下倖存下來？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32401510</id>
-        <link href="https://news.ycombinator.com/item?id=32401510"/>
-        <updated>2022-08-09T18:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Will Intel's AXG division survive Pat Gelsinger’s axe?]]></summary>
-        <author>
-            <name>oumua_don17</name>
-            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
         </author>
     </entry>
 </feed>
