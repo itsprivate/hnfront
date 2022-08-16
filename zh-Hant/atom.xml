@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T15:40:08.592Z</updated>
+    <updated>2022-08-16T15:56:22.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在開發和生產中使用Docker - Compose
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484008</id>
+        <link href="https://news.ycombinator.com/item?id=32484008"/>
+        <updated>2022-08-16T15:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Using Docker – Compose in Development and Production]]></summary>
+        <author>
+            <name>brycefehmel</name>
+            <uri>https://news.ycombinator.com/user?id=brycefehmel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[賽格威的麻煩
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32457001</id>
+        <link href="https://news.ycombinator.com/item?id=32457001"/>
+        <updated>2022-08-14T06:44:47.000Z</updated>
+        <summary type="html"><![CDATA[The Trouble with the Segway]]></summary>
+        <author>
+            <name>gadtfly</name>
+            <uri>https://news.ycombinator.com/user?id=gadtfly</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加利福尼亞野火煙霧在歐洲上空。氣溶膠觀測的第一個例子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=26531943</id>
+        <link href="https://news.ycombinator.com/item?id=26531943"/>
+        <updated>2021-03-21T17:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Californian wildfire smoke over Europe: A first example of the aerosol observing]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為AWS Lambda做了一個本地開發、調試和熱重載工具
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>pablohoffman</name>
             <uri>https://news.ycombinator.com/user?id=pablohoffman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail動態電子郵件（又稱AMP for Email）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32407114</id>
-        <link href="https://news.ycombinator.com/item?id=32407114"/>
-        <updated>2022-08-10T02:05:15.000Z</updated>
-        <summary type="html"><![CDATA[Gmail Dynamic Email (a.k.a. AMP for Email)]]></summary>
-        <author>
-            <name>soheil</name>
-            <uri>https://news.ycombinator.com/user?id=soheil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["自閉症患者不能承認自己的錯誤"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32410355</id>
-        <link href="https://news.ycombinator.com/item?id=32410355"/>
-        <updated>2022-08-10T11:44:31.000Z</updated>
-        <summary type="html"><![CDATA[“autistic people can’t acknowledge when they’re wrong”]]></summary>
-        <author>
-            <name>larve</name>
-            <uri>https://news.ycombinator.com/user?id=larve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼聰明人不更快樂？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32409811</id>
-        <link href="https://news.ycombinator.com/item?id=32409811"/>
-        <updated>2022-08-10T10:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Why aren't smart people happier?]]></summary>
-        <author>
-            <name>oscarwao</name>
-            <uri>https://news.ycombinator.com/user?id=oscarwao</uri>
         </author>
     </entry>
 </feed>
