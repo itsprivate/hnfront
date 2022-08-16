@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T11:44:56.439Z</updated>
+    <updated>2022-08-16T11:59:21.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Digital Ocean的服務器位於何處？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481111</id>
+        <link href="https://news.ycombinator.com/item?id=32481111"/>
+        <updated>2022-08-16T10:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Where are Digital Ocean servers located?]]></summary>
+        <author>
+            <name>mtmail</name>
+            <uri>https://news.ycombinator.com/user?id=mtmail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[據報道，亞馬遜在Facebook私人群組中對其Flex司機進行調查
+]]></title>
+        <id>https://news.ycombinator.com/item?id=24352278</id>
+        <link href="https://news.ycombinator.com/item?id=24352278"/>
+        <updated>2020-09-02T11:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Amazon reportedly surveilling its Flex drivers in private Facebook groups]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[測試一個分揀程序需要什麼？(2010)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bshanks</name>
             <uri>https://news.ycombinator.com/user?id=bshanks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Linux的Photoshop CC v19安裝程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32406856</id>
-        <link href="https://news.ycombinator.com/item?id=32406856"/>
-        <updated>2022-08-10T01:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Photoshop CC v19 installer for Linux]]></summary>
-        <author>
-            <name>denysonique</name>
-            <uri>https://news.ycombinator.com/user?id=denysonique</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工突觸比真實的東西快10千倍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32406452</id>
-        <link href="https://news.ycombinator.com/item?id=32406452"/>
-        <updated>2022-08-10T00:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Artificial synapses 10k times faster than real thing]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
