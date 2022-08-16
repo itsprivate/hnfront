@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T22:30:59.048Z</updated>
+    <updated>2022-08-16T22:50:22.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個單比特處理器的解釋：逆向工程的老式MC14500B
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32488674</id>
+        <link href="https://news.ycombinator.com/item?id=32488674"/>
+        <updated>2022-08-16T20:45:39.000Z</updated>
+        <summary type="html"><![CDATA[A one-bit processor explained: reverse-engineering the vintage MC14500B]]></summary>
+        <author>
+            <name>Claude_Shannon</name>
+            <uri>https://news.ycombinator.com/user?id=Claude_Shannon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不同的人，不同的故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32461457</id>
+        <link href="https://news.ycombinator.com/item?id=32461457"/>
+        <updated>2022-08-14T18:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Different People, Different Stories]]></summary>
+        <author>
+            <name>Hooke</name>
+            <uri>https://news.ycombinator.com/user?id=Hooke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[交互式定理證明的未來？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ZacnyLos</name>
             <uri>https://news.ycombinator.com/user?id=ZacnyLos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學術文獻的主題：偏見和社會正義
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32415960</id>
-        <link href="https://news.ycombinator.com/item?id=32415960"/>
-        <updated>2022-08-10T17:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Themes in academic literature: prejudice and social justice]]></summary>
-        <author>
-            <name>frumpish</name>
-            <uri>https://news.ycombinator.com/user?id=frumpish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們感謝Mary Tsingou小姐（2020）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32411769</id>
-        <link href="https://news.ycombinator.com/item?id=32411769"/>
-        <updated>2022-08-10T13:42:44.000Z</updated>
-        <summary type="html"><![CDATA[We thank Miss Mary Tsingou (2020)]]></summary>
-        <author>
-            <name>alberto_ol</name>
-            <uri>https://news.ycombinator.com/user?id=alberto_ol</uri>
         </author>
     </entry>
 </feed>
