@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T11:23:15.093Z</updated>
+    <updated>2022-08-16T11:44:56.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[测试一个分拣程序需要什么？(2010)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481340</id>
+        <link href="https://news.ycombinator.com/item?id=32481340"/>
+        <updated>2022-08-16T11:04:26.000Z</updated>
+        <summary type="html"><![CDATA[What does it take to test a sorting routine? (2010)]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自驾车发生事故后一死九伤[德国]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32480971</id>
+        <link href="https://news.ycombinator.com/item?id=32480971"/>
+        <updated>2022-08-16T10:01:49.000Z</updated>
+        <summary type="html"><![CDATA[One dead and nine wounded after accident with self-driving car [German]]]></summary>
+        <author>
+            <name>h2000</name>
+            <uri>https://news.ycombinator.com/user?id=h2000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Trivy扫描AWS安全问题
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[认知训练。一个寻找现象的领域
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32406422</id>
-        <link href="https://news.ycombinator.com/item?id=32406422"/>
-        <updated>2022-08-10T00:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Cognitive training: A field in search of a phenomenon]]></summary>
-        <author>
-            <name>beefman</name>
-            <uri>https://news.ycombinator.com/user?id=beefman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tcled: 纯粹的 Tcl 控制台文本编辑器 (2019)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32405713</id>
-        <link href="https://news.ycombinator.com/item?id=32405713"/>
-        <updated>2022-08-09T22:59:56.000Z</updated>
-        <summary type="html"><![CDATA[Tcled: Pure Tcl Console Text Editor (2019)]]></summary>
-        <author>
-            <name>blacksqr</name>
-            <uri>https://news.ycombinator.com/user?id=blacksqr</uri>
         </author>
     </entry>
 </feed>
