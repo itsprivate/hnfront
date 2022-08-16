@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-16T08:31:00.747Z</updated>
+    <updated>2022-08-16T08:46:34.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[貝塞爾曲線的解構
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32479808</id>
+        <link href="https://news.ycombinator.com/item?id=32479808"/>
+        <updated>2022-08-16T06:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Deconstructing Bézier Curves]]></summary>
+        <author>
+            <name>ux</name>
+            <uri>https://news.ycombinator.com/user?id=ux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Def Con黑客展示約翰迪爾的拖拉機可以運行Doom
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>icyfox</name>
             <uri>https://news.ycombinator.com/user?id=icyfox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漁具在海洋中的塑料數量驚人（2021）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32403471</id>
-        <link href="https://news.ycombinator.com/item?id=32403471"/>
-        <updated>2022-08-09T20:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Fishing Gear Accounts for an Alarming Amount of Plastic in Oceans (2021)]]></summary>
-        <author>
-            <name>sweetheart</name>
-            <uri>https://news.ycombinator.com/user?id=sweetheart</uri>
         </author>
     </entry>
 </feed>
