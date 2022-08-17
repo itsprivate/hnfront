@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-17T20:48:11.417Z</updated>
+    <updated>2022-08-17T21:02:40.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的ETH钱包被错误地制裁了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32501406</id>
+        <link href="https://news.ycombinator.com/item?id=32501406"/>
+        <updated>2022-08-17T20:39:06.000Z</updated>
+        <summary type="html"><![CDATA[My ETH Wallet is wrongly sanctioned]]></summary>
+        <author>
+            <name>yunfangjuan</name>
+            <uri>https://news.ycombinator.com/user?id=yunfangjuan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单页地下城
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32499371</id>
+        <link href="https://news.ycombinator.com/item?id=32499371"/>
+        <updated>2022-08-17T17:36:25.000Z</updated>
+        <summary type="html"><![CDATA[One Page Dungeon]]></summary>
+        <author>
+            <name>smusamashah</name>
+            <uri>https://news.ycombinator.com/user?id=smusamashah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沙特阿拉伯因发推特而判处一名妇女34年徒刑
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mrraoulduke</name>
             <uri>https://news.ycombinator.com/user?id=mrraoulduke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从示波器到Wireshark。一个UDP的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32428032</id>
-        <link href="https://news.ycombinator.com/item?id=32428032"/>
-        <updated>2022-08-11T16:21:12.000Z</updated>
-        <summary type="html"><![CDATA[From Oscilloscope to Wireshark: A UDP Story]]></summary>
-        <author>
-            <name>mkeeter</name>
-            <uri>https://news.ycombinator.com/user?id=mkeeter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗伯-派克。"Dotfiles "被隐藏是UNIXv2的一个错误（2012）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32427834</id>
-        <link href="https://news.ycombinator.com/item?id=32427834"/>
-        <updated>2022-08-11T16:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Rob Pike: “Dotfiles” being hidden is a UNIXv2 mistake (2012)]]></summary>
-        <author>
-            <name>varbhat</name>
-            <uri>https://news.ycombinator.com/user?id=varbhat</uri>
         </author>
     </entry>
 </feed>
