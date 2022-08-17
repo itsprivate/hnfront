@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 23:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 23:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[特斯拉虚拟发电厂
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32500926</link>
+            <guid>https://news.ycombinator.com/item?id=32500926</guid>
+            <pubDate>Wed, 17 Aug 2022 19:52:38 GMT</pubDate>
+            <description><![CDATA[Tesla Virtual Power Plant]]></description>
+        </item>
         <item>
             <title><![CDATA[另一条通往情报的道路
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32429380</guid>
             <pubDate>Thu, 11 Aug 2022 17:49:44 GMT</pubDate>
             <description><![CDATA[Ethereum merge on schedule after successful Goerli test merge]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用PyTorch的12行写蛇
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32426836</link>
-            <guid>https://news.ycombinator.com/item?id=32426836</guid>
-            <pubDate>Thu, 11 Aug 2022 15:03:18 GMT</pubDate>
-            <description><![CDATA[Writing Snake in 12 Lines of PyTorch]]></description>
         </item>
     </channel>
 </rss>

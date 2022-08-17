@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-17T23:01:41.331Z</updated>
+    <updated>2022-08-17T23:30:42.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉虚拟发电厂
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32500926</id>
+        <link href="https://news.ycombinator.com/item?id=32500926"/>
+        <updated>2022-08-17T19:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Tesla Virtual Power Plant]]></summary>
+        <author>
+            <name>lawrenceyan</name>
+            <uri>https://news.ycombinator.com/user?id=lawrenceyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[另一条通往情报的道路
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ayoubbhihi</name>
             <uri>https://news.ycombinator.com/user?id=ayoubbhihi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用PyTorch的12行写蛇
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32426836</id>
-        <link href="https://news.ycombinator.com/item?id=32426836"/>
-        <updated>2022-08-11T15:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Writing Snake in 12 Lines of PyTorch]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
