@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 21:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 21:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Nixpacks接收一个源目录并生成一个符合OCI标准的图像
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32501448</link>
+            <guid>https://news.ycombinator.com/item?id=32501448</guid>
+            <pubDate>Wed, 17 Aug 2022 20:43:26 GMT</pubDate>
+            <description><![CDATA[Nixpacks takes a source directory and produces an OCI compliant image]]></description>
+        </item>
         <item>
             <title><![CDATA[我的ETH钱包被错误地制裁了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32428676</guid>
             <pubDate>Thu, 11 Aug 2022 17:01:10 GMT</pubDate>
             <description><![CDATA[EasyPost (YC S13) Is Hiring]]></description>
-        </item>
-        <item>
-            <title><![CDATA[比特币闪电网络可能颠覆1500亿美元的年度支付/汇款行业
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32428191</link>
-            <guid>https://news.ycombinator.com/item?id=32428191</guid>
-            <pubDate>Thu, 11 Aug 2022 16:31:21 GMT</pubDate>
-            <description><![CDATA[Bitcoin Lightning network could disrupt $150B year payment/remittance industry]]></description>
         </item>
     </channel>
 </rss>
