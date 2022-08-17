@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 09:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個基於網絡的記事本，裡面有一個內置的單位計算器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32493946</link>
+            <guid>https://news.ycombinator.com/item?id=32493946</guid>
+            <pubDate>Wed, 17 Aug 2022 09:01:42 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a web-based notepad with a built in unit calculator]]></description>
+        </item>
         <item>
             <title><![CDATA[論文。用學習到的變量名稱和類型增強反編譯器的輸出 [pdf]
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32421793</guid>
             <pubDate>Thu, 11 Aug 2022 05:06:34 GMT</pubDate>
             <description><![CDATA[Podman 4.2.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在破壞性干擾過程中，能量會去哪裡？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32419708</link>
-            <guid>https://news.ycombinator.com/item?id=32419708</guid>
-            <pubDate>Wed, 10 Aug 2022 23:21:42 GMT</pubDate>
-            <description><![CDATA[Where does energy go during destructive interference?]]></description>
         </item>
     </channel>
 </rss>

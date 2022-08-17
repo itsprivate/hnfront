@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-17T09:01:12.751Z</updated>
+    <updated>2022-08-17T09:33:35.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個基於網絡的記事本，裡面有一個內置的單位計算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493946</id>
+        <link href="https://news.ycombinator.com/item?id=32493946"/>
+        <updated>2022-08-17T09:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a web-based notepad with a built in unit calculator]]></summary>
+        <author>
+            <name>tonyonodi</name>
+            <uri>https://news.ycombinator.com/user?id=tonyonodi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[論文。用學習到的變量名稱和類型增強反編譯器的輸出 [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>timost</name>
             <uri>https://news.ycombinator.com/user?id=timost</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在破壞性干擾過程中，能量會去哪裡？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32419708</id>
-        <link href="https://news.ycombinator.com/item?id=32419708"/>
-        <updated>2022-08-10T23:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Where does energy go during destructive interference?]]></summary>
-        <author>
-            <name>amelius</name>
-            <uri>https://news.ycombinator.com/user?id=amelius</uri>
         </author>
     </entry>
 </feed>
