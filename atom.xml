@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-17T07:58:00.649Z</updated>
+    <updated>2022-08-17T08:37:05.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jank语言。LLVM托管的Clojure
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493217</id>
+        <link href="https://news.ycombinator.com/item?id=32493217"/>
+        <updated>2022-08-17T07:11:04.000Z</updated>
+        <summary type="html"><![CDATA[The Jank Language: LLVM Hosted Clojure]]></summary>
+        <author>
+            <name>bobnamob</name>
+            <uri>https://news.ycombinator.com/user?id=bobnamob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uno平台：在所有平台上构建单一代码库应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32492977</id>
+        <link href="https://news.ycombinator.com/item?id=32492977"/>
+        <updated>2022-08-17T06:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Uno platform: build single-codebase applications across all platforms]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[龙的本能
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bumbledraven</name>
             <uri>https://news.ycombinator.com/user?id=bumbledraven</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[点击爪子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32420986</id>
-        <link href="https://news.ycombinator.com/item?id=32420986"/>
-        <updated>2022-08-11T02:51:20.000Z</updated>
-        <summary type="html"><![CDATA[Click the Paw]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本的Dakuten、Handakuten和缩略音
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32410722</id>
-        <link href="https://news.ycombinator.com/item?id=32410722"/>
-        <updated>2022-08-10T12:23:18.000Z</updated>
-        <summary type="html"><![CDATA[Japanese Dakuten, Handakuten and Contracted Sounds]]></summary>
-        <author>
-            <name>lassmaglio</name>
-            <uri>https://news.ycombinator.com/user?id=lassmaglio</uri>
         </author>
     </entry>
 </feed>
