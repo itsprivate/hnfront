@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-17T07:31:32.298Z</updated>
+    <updated>2022-08-17T07:58:00.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[龍的本能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32458927</id>
+        <link href="https://news.ycombinator.com/item?id=32458927"/>
+        <updated>2022-08-14T13:06:35.000Z</updated>
+        <summary type="html"><![CDATA[An Instinct for Dragons]]></summary>
+        <author>
+            <name>benbreen</name>
+            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初創企業的想法--斷開連接，物理空間按小時收費
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lassmaglio</name>
             <uri>https://news.ycombinator.com/user?id=lassmaglio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個關於 "魔法 "的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32396759</id>
-        <link href="https://news.ycombinator.com/item?id=32396759"/>
-        <updated>2022-08-09T12:12:20.000Z</updated>
-        <summary type="html"><![CDATA[A Story About ‘Magic']]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
