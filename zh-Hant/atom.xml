@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-17T22:04:43.014Z</updated>
+    <updated>2022-08-17T22:29:28.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對氣候變化不採取行動，到2070年美國經濟將損失14.5億美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32501267</id>
+        <link href="https://news.ycombinator.com/item?id=32501267"/>
+        <updated>2022-08-17T20:24:59.000Z</updated>
+        <summary type="html"><![CDATA[Inaction on Climate Change Could Cost the US Economy $14.5T by 2070]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編程的本質 (2021)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pat-jay</name>
             <uri>https://news.ycombinator.com/user?id=pat-jay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qt信號比虛擬函數慢十倍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32428394</id>
-        <link href="https://news.ycombinator.com/item?id=32428394"/>
-        <updated>2022-08-11T16:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Qt signal is ten times slower than a virtual function]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
