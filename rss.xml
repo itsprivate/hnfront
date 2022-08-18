@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 16:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 17:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,54 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[莫扎特数据（YC S20）正在招聘一名数据分析师，负责将常见的数据问题产品化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32512211</link>
+            <guid>https://news.ycombinator.com/item?id=32512211</guid>
+            <pubDate>Thu, 18 Aug 2022 17:00:23 GMT</pubDate>
+            <description><![CDATA[Mozart Data (YC S20) is Hiring a Data Analyst to productize common data problems]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用于JavaScript的PlanetScale无服务器驱动
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32511577</link>
+            <guid>https://news.ycombinator.com/item?id=32511577</guid>
+            <pubDate>Thu, 18 Aug 2022 16:13:03 GMT</pubDate>
+            <description><![CDATA[The PlanetScale serverless driver for JavaScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在WebAssembly中及时生成代码
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32511420</link>
+            <guid>https://news.ycombinator.com/item?id=32511420</guid>
+            <pubDate>Thu, 18 Aug 2022 16:01:46 GMT</pubDate>
+            <description><![CDATA[Just-in-time code generation within WebAssembly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[贝宝网络诈骗利用通过贝宝发送的发票
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32511086</link>
+            <guid>https://news.ycombinator.com/item?id=32511086</guid>
+            <pubDate>Thu, 18 Aug 2022 15:35:06 GMT</pubDate>
+            <description><![CDATA[PayPal phishing scam uses invoices sent via PayPal]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哲学可以解决你的中年危机
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32506027</link>
+            <guid>https://news.ycombinator.com/item?id=32506027</guid>
+            <pubDate>Thu, 18 Aug 2022 06:29:02 GMT</pubDate>
+            <description><![CDATA[Philosophy can solve your midlife crisis]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一个写作工具，像苏格拉底一样提出问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32505813</link>
+            <guid>https://news.ycombinator.com/item?id=32505813</guid>
+            <pubDate>Thu, 18 Aug 2022 05:56:29 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a writing tool that asks questions like Socrates]]></description>
+        </item>
         <item>
             <title><![CDATA[我从头开始建立了一个矢量地图
 ]]></title>
@@ -4765,54 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32420029</guid>
             <pubDate>Thu, 11 Aug 2022 00:06:15 GMT</pubDate>
             <description><![CDATA[MySQL Raytracer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[反对快速时尚是一种阶级歧视吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32437501</link>
-            <guid>https://news.ycombinator.com/item?id=32437501</guid>
-            <pubDate>Fri, 12 Aug 2022 12:29:49 GMT</pubDate>
-            <description><![CDATA[Is it classist to be against fast fashion?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[启动HN：Pana（YC S22）--以美国拉丁裔为重点的社会信托银行业务
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32437234</link>
-            <guid>https://news.ycombinator.com/item?id=32437234</guid>
-            <pubDate>Fri, 12 Aug 2022 12:07:08 GMT</pubDate>
-            <description><![CDATA[Launch HN: Pana (YC S22) – Social Trust Banking with a US Latino Focus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谁在使用C++作为新项目的主要语言？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32437173</link>
-            <guid>https://news.ycombinator.com/item?id=32437173</guid>
-            <pubDate>Fri, 12 Aug 2022 12:01:11 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who is using C++ as the main language for new project?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：无偿家务劳动是不允许的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32437078</link>
-            <guid>https://news.ycombinator.com/item?id=32437078</guid>
-            <pubDate>Fri, 12 Aug 2022 11:51:30 GMT</pubDate>
-            <description><![CDATA[Tell HN: Unpaid home assignments are not ok]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Windows和macOS上执行隐私和安全最佳实践的FOSS工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32436949</link>
-            <guid>https://news.ycombinator.com/item?id=32436949</guid>
-            <pubDate>Fri, 12 Aug 2022 11:34:59 GMT</pubDate>
-            <description><![CDATA[FOSS tool to enforce privacy and security best-practices on Windows and macOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[边际优势 (2007)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32423259</link>
-            <guid>https://news.ycombinator.com/item?id=32423259</guid>
-            <pubDate>Thu, 11 Aug 2022 09:09:54 GMT</pubDate>
-            <description><![CDATA[The Marginal Advantage (2007)]]></description>
         </item>
     </channel>
 </rss>
