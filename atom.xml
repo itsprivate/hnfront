@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-18T10:36:59.229Z</updated>
+    <updated>2022-08-18T10:53:51.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我花了一年的时间设计了一款低调、简约的机械键盘
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507172</id>
+        <link href="https://news.ycombinator.com/item?id=32507172"/>
+        <updated>2022-08-18T09:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I spent a year designing a low profile, minimal mechanical keyboard]]></summary>
+        <author>
+            <name>aemerson_</name>
+            <uri>https://news.ycombinator.com/user?id=aemerson_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MyNotifier - 简单通知
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>prvt</name>
             <uri>https://news.ycombinator.com/user?id=prvt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自主信誉系统
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32434749</id>
-        <link href="https://news.ycombinator.com/item?id=32434749"/>
-        <updated>2022-08-12T04:36:02.000Z</updated>
-        <summary type="html"><![CDATA[Autonomous Reputation System]]></summary>
-        <author>
-            <name>user_named</name>
-            <uri>https://news.ycombinator.com/user?id=user_named</uri>
         </author>
     </entry>
 </feed>
