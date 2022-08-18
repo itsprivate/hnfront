@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-18T22:32:30.644Z</updated>
+    <updated>2022-08-18T22:50:34.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬納格。2022年8月更新
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32515546</id>
+        <link href="https://news.ycombinator.com/item?id=32515546"/>
+        <updated>2022-08-18T22:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Managarm: August 2022 Update]]></summary>
+        <author>
+            <name>snvzz</name>
+            <uri>https://news.ycombinator.com/user?id=snvzz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肥皂和溶劑的簡單混合可以幫助銷燬 "永遠的化學品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jerryjerryjerry</name>
             <uri>https://news.ycombinator.com/user?id=jerryjerryjerry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++中的複製和交換習語
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32422106</id>
-        <link href="https://news.ycombinator.com/item?id=32422106"/>
-        <updated>2022-08-11T06:03:15.000Z</updated>
-        <summary type="html"><![CDATA[The copy and swap idiom in C++]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
