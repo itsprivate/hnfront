@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-18T17:25:33.984Z</updated>
+    <updated>2022-08-18T17:56:51.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[擴展權限的影響
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32512143</id>
+        <link href="https://news.ycombinator.com/item?id=32512143"/>
+        <updated>2022-08-18T16:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Impact of Extension Privileges]]></summary>
+        <author>
+            <name>headalgorithm</name>
+            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub的行動降低了性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32510602</id>
+        <link href="https://news.ycombinator.com/item?id=32510602"/>
+        <updated>2022-08-18T15:00:08.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Actions Degraded Performance]]></summary>
+        <author>
+            <name>infomiho</name>
+            <uri>https://news.ycombinator.com/user?id=infomiho</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莫扎特數據（YC S20）正在招聘一名數據分析師，負責將常見的數據問題產品化
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>btzo</name>
             <uri>https://news.ycombinator.com/user?id=btzo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite。Wal2模式說明
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32435601</id>
-        <link href="https://news.ycombinator.com/item?id=32435601"/>
-        <updated>2022-08-12T07:40:24.000Z</updated>
-        <summary type="html"><![CDATA[SQLite: Wal2 Mode Notes]]></summary>
-        <author>
-            <name>umanghere</name>
-            <uri>https://news.ycombinator.com/user?id=umanghere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQL Raytracer
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32420029</id>
-        <link href="https://news.ycombinator.com/item?id=32420029"/>
-        <updated>2022-08-11T00:06:15.000Z</updated>
-        <summary type="html"><![CDATA[MySQL Raytracer]]></summary>
-        <author>
-            <name>bane</name>
-            <uri>https://news.ycombinator.com/user?id=bane</uri>
         </author>
     </entry>
 </feed>
