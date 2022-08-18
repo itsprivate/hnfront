@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-18T05:20:55.985Z</updated>
+    <updated>2022-08-18T05:51:57.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Allsearch - 使得無縫使用不同的搜索引擎更加容易
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493089</id>
+        <link href="https://news.ycombinator.com/item?id=32493089"/>
+        <updated>2022-08-17T06:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Allsearch – Making it easier to use different search engines seamlessly]]></summary>
+        <author>
+            <name>WiggleGuy</name>
+            <uri>https://news.ycombinator.com/user?id=WiggleGuy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與你的客戶交談：一個顛覆性的敏捷框架
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jseliger</name>
             <uri>https://news.ycombinator.com/user?id=jseliger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊Goerli測試網的合併在轉向股權證明之前上線了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32427992</id>
-        <link href="https://news.ycombinator.com/item?id=32427992"/>
-        <updated>2022-08-11T16:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Goerli testnet merge goes live before move to proof-of-stake]]></summary>
-        <author>
-            <name>sfjailbird</name>
-            <uri>https://news.ycombinator.com/user?id=sfjailbird</uri>
         </author>
     </entry>
 </feed>
