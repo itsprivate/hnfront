@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-19T18:00:44.599Z</updated>
+    <updated>2022-08-19T18:42:21.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何识别和错误识别棕色隐蔽蜘蛛
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518232</id>
+        <link href="https://news.ycombinator.com/item?id=32518232"/>
+        <updated>2022-08-19T07:05:19.000Z</updated>
+        <summary type="html"><![CDATA[How to Identify and Misidentify a Brown Recluse Spider]]></summary>
+        <author>
+            <name>vector_spaces</name>
+            <uri>https://news.ycombinator.com/user?id=vector_spaces</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高级Bash脚本指南
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vanburen</name>
             <uri>https://news.ycombinator.com/user?id=vanburen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还有人觉得房地产的商品化是不道德的吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32448825</id>
-        <link href="https://news.ycombinator.com/item?id=32448825"/>
-        <updated>2022-08-13T11:24:52.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone else feels the commoditization of real estate is unethical?]]></summary>
-        <author>
-            <name>newbie578</name>
-            <uri>https://news.ycombinator.com/user?id=newbie578</uri>
         </author>
     </entry>
 </feed>
