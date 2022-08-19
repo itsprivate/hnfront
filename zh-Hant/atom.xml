@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-19T15:39:27.116Z</updated>
+    <updated>2022-08-19T16:49:42.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[技術深究。為Enclaves構建更快的ORAM層
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522901</id>
+        <link href="https://news.ycombinator.com/item?id=32522901"/>
+        <updated>2022-08-19T16:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Technology Deep Dive: Building a Faster ORAM Layer for Enclaves]]></summary>
+        <author>
+            <name>maksim-m</name>
+            <uri>https://news.ycombinator.com/user?id=maksim-m</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[實驗室向泰坦尼克號的滅絕邁出了 "巨大的一步"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522376</id>
+        <link href="https://news.ycombinator.com/item?id=32522376"/>
+        <updated>2022-08-19T15:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Lab takes ‘giant leap’ toward thylacine de-extinction]]></summary>
+        <author>
+            <name>ohjeez</name>
+            <uri>https://news.ycombinator.com/user?id=ohjeez</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W4計劃利用紅帽公司的開源遊戲規則來實現Godot引擎的貨幣化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32521784</id>
+        <link href="https://news.ycombinator.com/item?id=32521784"/>
+        <updated>2022-08-19T14:56:09.000Z</updated>
+        <summary type="html"><![CDATA[W4 plans to monetize the Godot engine using Red Hat’s open-source playbook]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什麼像樣的GitHub Copilot替代品嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32521452</id>
+        <link href="https://news.ycombinator.com/item?id=32521452"/>
+        <updated>2022-08-19T14:32:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Are there any decent GitHub Copilot Alternatives?]]></summary>
+        <author>
+            <name>gremlinsinc</name>
+            <uri>https://news.ycombinator.com/user?id=gremlinsinc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows上的DTrace
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32519322</id>
+        <link href="https://news.ycombinator.com/item?id=32519322"/>
+        <updated>2022-08-19T10:27:27.000Z</updated>
+        <summary type="html"><![CDATA[DTrace-on-Windows]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修改Clang以獲得更安全、更明確的C++語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32500572</id>
+        <link href="https://news.ycombinator.com/item?id=32500572"/>
+        <updated>2022-08-17T19:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Modifying Clang for a Safer, More Explicit C++]]></summary>
+        <author>
+            <name>compiler-devel</name>
+            <uri>https://news.ycombinator.com/user?id=compiler-devel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國聯邦調查局特工承認抹掉了含有無罪證據的硬盤驅動器
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>wizardfish323</name>
             <uri>https://news.ycombinator.com/user?id=wizardfish323</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停止使用DICT詞典應用程序（如GNOME/MATE詞典）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32447351</id>
-        <link href="https://news.ycombinator.com/item?id=32447351"/>
-        <updated>2022-08-13T06:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Stop using DICT dictionary apps (such as GNOME/MATE Dictionary)]]></summary>
-        <author>
-            <name>mritzmann</name>
-            <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格魯吉亞的卡茨基石柱。世界上最孤立的教堂之一
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32422256</id>
-        <link href="https://news.ycombinator.com/item?id=32422256"/>
-        <updated>2022-08-11T06:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Katskhi pillar in Georgia: One of the world's most isolated churches]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫步東京七天
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32420980</id>
-        <link href="https://news.ycombinator.com/item?id=32420980"/>
-        <updated>2022-08-11T02:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Walking Tokyo for Seven Days]]></summary>
-        <author>
-            <name>cmod</name>
-            <uri>https://news.ycombinator.com/user?id=cmod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[應用程序能否從Fsync故障中恢復？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32416193</id>
-        <link href="https://news.ycombinator.com/item?id=32416193"/>
-        <updated>2022-08-10T18:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Can Applications Recover from Fsync Failures?]]></summary>
-        <author>
-            <name>simonz05</name>
-            <uri>https://news.ycombinator.com/user?id=simonz05</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傾聽的必然性。傾聽的偶然性：MoFi的混亂
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32415331</id>
-        <link href="https://news.ycombinator.com/item?id=32415331"/>
-        <updated>2022-08-10T17:08:40.000Z</updated>
-        <summary type="html"><![CDATA[The Contingency of Listening: The MoFi Kerfuffle]]></summary>
-        <author>
-            <name>anarbadalov</name>
-            <uri>https://news.ycombinator.com/user?id=anarbadalov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZOOM安裝程序讓研究人員黑進了macOS上的root權限
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32447339</id>
-        <link href="https://news.ycombinator.com/item?id=32447339"/>
-        <updated>2022-08-13T06:05:47.000Z</updated>
-        <summary type="html"><![CDATA[The Zoom installer let a researcher hack his way to root access on macOS]]></summary>
-        <author>
-            <name>neodypsis</name>
-            <uri>https://news.ycombinator.com/user?id=neodypsis</uri>
         </author>
     </entry>
 </feed>
