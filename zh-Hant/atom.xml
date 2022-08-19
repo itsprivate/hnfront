@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-19T19:07:26.562Z</updated>
+    <updated>2022-08-19T19:26:06.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果在macOS中使用AppKit、Mac Catalyst和SwiftUI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32524462</id>
+        <link href="https://news.ycombinator.com/item?id=32524462"/>
+        <updated>2022-08-19T18:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Apple’s Use of AppKit, Mac Catalyst and SwiftUI in macOS]]></summary>
+        <author>
+            <name>phenylene</name>
+            <uri>https://news.ycombinator.com/user?id=phenylene</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[碎屑電路仿真器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>d0mine</name>
             <uri>https://news.ycombinator.com/user?id=d0mine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰來評判判官？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32449471</id>
-        <link href="https://news.ycombinator.com/item?id=32449471"/>
-        <updated>2022-08-13T13:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Who Judges the Judges?]]></summary>
-        <author>
-            <name>bkohlmann</name>
-            <uri>https://news.ycombinator.com/user?id=bkohlmann</uri>
         </author>
     </entry>
 </feed>
