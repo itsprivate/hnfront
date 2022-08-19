@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-19T02:45:41.563Z</updated>
+    <updated>2022-08-19T04:10:44.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[REST/HTTP API URLs中的嵌套資源？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32506784</id>
+        <link href="https://news.ycombinator.com/item?id=32506784"/>
+        <updated>2022-08-18T08:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Nested Resources in REST/HTTP API URLs?]]></summary>
+        <author>
+            <name>emschwartz</name>
+            <uri>https://news.ycombinator.com/user?id=emschwartz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事件再起。德雷福斯和它對年輕的馬塞爾-普魯斯特的影響
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLC媒體播放器在印度被禁
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32441911</id>
-        <link href="https://news.ycombinator.com/item?id=32441911"/>
-        <updated>2022-08-12T17:57:32.000Z</updated>
-        <summary type="html"><![CDATA[VLC media player banned in India]]></summary>
-        <author>
-            <name>saikatsg</name>
-            <uri>https://news.ycombinator.com/user?id=saikatsg</uri>
         </author>
     </entry>
 </feed>
