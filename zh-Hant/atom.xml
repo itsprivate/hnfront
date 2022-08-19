@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-19T17:49:01.586Z</updated>
+    <updated>2022-08-19T18:00:44.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高級Bash腳本指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32523067</id>
+        <link href="https://news.ycombinator.com/item?id=32523067"/>
+        <updated>2022-08-19T16:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Advanced Bash-Scripting Guide]]></summary>
+        <author>
+            <name>jolux</name>
+            <uri>https://news.ycombinator.com/user?id=jolux</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["量子安全 "的加密貨幣被10歲的電腦黑掉了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>newbie578</name>
             <uri>https://news.ycombinator.com/user?id=newbie578</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本的蔬菜切割技術列表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32448687</id>
-        <link href="https://news.ycombinator.com/item?id=32448687"/>
-        <updated>2022-08-13T11:03:27.000Z</updated>
-        <summary type="html"><![CDATA[List of Japanese Vegetable Cutting Techniques]]></summary>
-        <author>
-            <name>robin_reala</name>
-            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
         </author>
     </entry>
 </feed>
