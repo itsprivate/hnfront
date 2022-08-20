@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T19:57:44.844Z</updated>
+    <updated>2022-08-20T20:29:44.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所以你想成為一名顧問？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32532505</id>
+        <link href="https://news.ycombinator.com/item?id=32532505"/>
+        <updated>2022-08-20T15:00:56.000Z</updated>
+        <summary type="html"><![CDATA[So you want to be a consultant?]]></summary>
+        <author>
+            <name>lobo_tuerto</name>
+            <uri>https://news.ycombinator.com/user?id=lobo_tuerto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學家發現蚊子如何能 "嗅出 "人類
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>levodelellis</name>
             <uri>https://news.ycombinator.com/user?id=levodelellis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[病態代碼已將一輛約翰迪爾車越獄，而這僅僅是個開始
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32459210</id>
-        <link href="https://news.ycombinator.com/item?id=32459210"/>
-        <updated>2022-08-14T13:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Sick Codes has jailbroken a John Deere, and this is just the beginning]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
         </author>
     </entry>
 </feed>
