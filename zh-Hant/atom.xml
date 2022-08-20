@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T17:40:50.918Z</updated>
+    <updated>2022-08-20T17:57:58.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[漂流玩具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518791</id>
+        <link href="https://news.ycombinator.com/item?id=32518791"/>
+        <updated>2022-08-19T08:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Float Toy]]></summary>
+        <author>
+            <name>agomez314</name>
+            <uri>https://news.ycombinator.com/user?id=agomez314</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在谷歌上搜索 "癌症遺傳學會議"，只返回廣告
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>michepriest</name>
             <uri>https://news.ycombinator.com/user?id=michepriest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oasis。小型靜態鏈接的Linux系統
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32458744</id>
-        <link href="https://news.ycombinator.com/item?id=32458744"/>
-        <updated>2022-08-14T12:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Oasis: Small statically-linked Linux system]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
