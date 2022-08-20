@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T11:00:47.632Z</updated>
+    <updated>2022-08-20T11:25:32.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Slack解決了什麼問題？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32530831</id>
+        <link href="https://news.ycombinator.com/item?id=32530831"/>
+        <updated>2022-08-20T10:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What problem did Slack solve?]]></summary>
+        <author>
+            <name>oakenfloor</name>
+            <uri>https://news.ycombinator.com/user?id=oakenfloor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenGEM：用於DOS的非多任務16位圖形用戶界面(GUI)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠程突擊會議
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32456107</id>
-        <link href="https://news.ycombinator.com/item?id=32456107"/>
-        <updated>2022-08-14T03:38:58.000Z</updated>
-        <summary type="html"><![CDATA[The Remote Pop-In Meeting]]></summary>
-        <author>
-            <name>mcqueenjordan</name>
-            <uri>https://news.ycombinator.com/user?id=mcqueenjordan</uri>
         </author>
     </entry>
 </feed>
