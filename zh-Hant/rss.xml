@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 20 Aug 2022 06:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 06:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AWS從gzip切換到zstd - 壓縮後的S3存儲量減少約30%。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32529412</link>
+            <guid>https://news.ycombinator.com/item?id=32529412</guid>
+            <pubDate>Sat, 20 Aug 2022 05:34:41 GMT</pubDate>
+            <description><![CDATA[AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage]]></description>
+        </item>
+        <item>
+            <title><![CDATA[泰坦尼克號沉沒的冰山
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32497782</link>
+            <guid>https://news.ycombinator.com/item?id=32497782</guid>
+            <pubDate>Wed, 17 Aug 2022 15:39:47 GMT</pubDate>
+            <description><![CDATA[The Iceberg That Sank the Titanic]]></description>
+        </item>
         <item>
             <title><![CDATA[自由和隱私。一個硬幣的兩面
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32423720</guid>
             <pubDate>Thu, 11 Aug 2022 10:26:24 GMT</pubDate>
             <description><![CDATA[Multiple sclerosis has a common viral culprit, opening doors to new approaches]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰製造了Ridgid工具？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32453919</link>
-            <guid>https://news.ycombinator.com/item?id=32453919</guid>
-            <pubDate>Sat, 13 Aug 2022 21:23:28 GMT</pubDate>
-            <description><![CDATA[Who Makes Ridgid Tools?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在聽什麼播客？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32453544</link>
-            <guid>https://news.ycombinator.com/item?id=32453544</guid>
-            <pubDate>Sat, 13 Aug 2022 20:35:14 GMT</pubDate>
-            <description><![CDATA[Ask HN: What podcasts are you listening to?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T06:36:51.216Z</updated>
+    <updated>2022-08-20T06:55:34.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS从gzip切换到zstd - 压缩后的S3存储量减少约30%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32529412</id>
+        <link href="https://news.ycombinator.com/item?id=32529412"/>
+        <updated>2022-08-20T05:34:41.000Z</updated>
+        <summary type="html"><![CDATA[AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰坦尼克号沉没的冰山
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32497782</id>
+        <link href="https://news.ycombinator.com/item?id=32497782"/>
+        <updated>2022-08-17T15:39:47.000Z</updated>
+        <summary type="html"><![CDATA[The Iceberg That Sank the Titanic]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由和隐私。一个硬币的两面
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁制造了Ridgid工具？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32453919</id>
-        <link href="https://news.ycombinator.com/item?id=32453919"/>
-        <updated>2022-08-13T21:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Who Makes Ridgid Tools?]]></summary>
-        <author>
-            <name>stacktrust</name>
-            <uri>https://news.ycombinator.com/user?id=stacktrust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在听什么播客？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32453544</id>
-        <link href="https://news.ycombinator.com/item?id=32453544"/>
-        <updated>2022-08-13T20:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What podcasts are you listening to?]]></summary>
-        <author>
-            <name>appwiz</name>
-            <uri>https://news.ycombinator.com/user?id=appwiz</uri>
         </author>
     </entry>
 </feed>
