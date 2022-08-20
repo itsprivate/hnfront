@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sat, 20 Aug 2022 11:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 11:45:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[试图为2D画布图像制作一个减色板/抖动过滤器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32531165</link>
+            <guid>https://news.ycombinator.com/item?id=32531165</guid>
+            <pubDate>Sat, 20 Aug 2022 11:25:37 GMT</pubDate>
+            <description><![CDATA[Show HN: An attempt to make a reduce-palette/dither filter for 2d canvas images]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zig自带的编译器升级指南
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32530912</link>
+            <guid>https://news.ycombinator.com/item?id=32530912</guid>
+            <pubDate>Sat, 20 Aug 2022 10:34:02 GMT</pubDate>
+            <description><![CDATA[Zig Self-Hosted Compiler Upgrade Guide]]></description>
+        </item>
         <item>
             <title><![CDATA[Slack解决了什么问题？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32455918</guid>
             <pubDate>Sun, 14 Aug 2022 02:52:17 GMT</pubDate>
             <description><![CDATA[samurai: Ninja-compatible build tool written in C]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AWS刚走出来的技术
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32455882</link>
-            <guid>https://news.ycombinator.com/item?id=32455882</guid>
-            <pubDate>Sun, 14 Aug 2022 02:46:09 GMT</pubDate>
-            <description><![CDATA[AWS Just Walk Out Technology]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好莱坞的视觉效果危机
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32421538</link>
-            <guid>https://news.ycombinator.com/item?id=32421538</guid>
-            <pubDate>Thu, 11 Aug 2022 04:18:25 GMT</pubDate>
-            <description><![CDATA[Hollywood’s Visual Effects Crisis]]></description>
         </item>
     </channel>
 </rss>
