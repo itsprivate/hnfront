@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T21:29:48.831Z</updated>
+    <updated>2022-08-20T22:30:04.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让我们试试侏儒箱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32535228</id>
+        <link href="https://news.ycombinator.com/item?id=32535228"/>
+        <updated>2022-08-20T21:22:26.000Z</updated>
+        <summary type="html"><![CDATA[Let's Try Gnome Boxes]]></summary>
+        <author>
+            <name>ctsdownloads</name>
+            <uri>https://news.ycombinator.com/user?id=ctsdownloads</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扇形包装获得竞争优势
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32519365</id>
+        <link href="https://news.ycombinator.com/item?id=32519365"/>
+        <updated>2022-08-19T10:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Fan-Out Packaging Gets Competitive]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneSignal（YC S11）正在招聘后端和全栈工程师
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>thisiswrongggg</name>
             <uri>https://news.ycombinator.com/user?id=thisiswrongggg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野外的可转移故障
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32459557</id>
-        <link href="https://news.ycombinator.com/item?id=32459557"/>
-        <updated>2022-08-14T14:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Metastable Failures in the Wild]]></summary>
-        <author>
-            <name>mlerner</name>
-            <uri>https://news.ycombinator.com/user?id=mlerner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们是Blub程序员吗？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32459509</id>
-        <link href="https://news.ycombinator.com/item?id=32459509"/>
-        <updated>2022-08-14T14:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Are We Blub Programmers?]]></summary>
-        <author>
-            <name>andsoitis</name>
-            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
         </author>
     </entry>
 </feed>
