@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T10:33:02.041Z</updated>
+    <updated>2022-08-20T10:48:47.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[十年来试图进入YC的建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32530842</id>
+        <link href="https://news.ycombinator.com/item?id=32530842"/>
+        <updated>2022-08-20T10:11:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Advice after a decade trying to get into YC]]></summary>
+        <author>
+            <name>bluelightning2k</name>
+            <uri>https://news.ycombinator.com/user?id=bluelightning2k</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉虚拟电厂（测试版）
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>texaslonghorn5</name>
             <uri>https://news.ycombinator.com/user?id=texaslonghorn5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好奇的C++ Lambda例子。递归、constexpr、容器C++23包含的内容
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32416016</id>
-        <link href="https://news.ycombinator.com/item?id=32416016"/>
-        <updated>2022-08-10T17:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Curious C++ Lambda Examples: Recursion, constexpr, Containers C++23 included]]></summary>
-        <author>
-            <name>joebaf</name>
-            <uri>https://news.ycombinator.com/user?id=joebaf</uri>
         </author>
     </entry>
 </feed>
