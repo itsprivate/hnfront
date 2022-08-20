@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T11:45:47.262Z</updated>
+    <updated>2022-08-20T11:58:32.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作為可執行文件的共享庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32531224</id>
+        <link href="https://news.ycombinator.com/item?id=32531224"/>
+        <updated>2022-08-20T11:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Shared Libraries as Executables]]></summary>
+        <author>
+            <name>stabbles</name>
+            <uri>https://news.ycombinator.com/user?id=stabbles</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們對歐洲中世紀的幻想對我們的啟示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518783</id>
+        <link href="https://news.ycombinator.com/item?id=32518783"/>
+        <updated>2022-08-19T08:50:06.000Z</updated>
+        <summary type="html"><![CDATA[What Our Fantasies About the European Middle Ages Say About Us]]></summary>
+        <author>
+            <name>Petiver</name>
+            <uri>https://news.ycombinator.com/user?id=Petiver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[試圖為2D畫布圖像製作一個減色板/抖動過濾器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>marcodiego</name>
             <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傳說中的火星三部曲》作者："如果地球註定要毀滅，火星就與我們無關了"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32456126</id>
-        <link href="https://news.ycombinator.com/item?id=32456126"/>
-        <updated>2022-08-14T03:42:28.000Z</updated>
-        <summary type="html"><![CDATA[“Mars Is Irrelevant to Us If Earth Is Doomed”, Author of Legendary Mars Trilogy]]></summary>
-        <author>
-            <name>elsewhen</name>
-            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[samurai: 用C語言編寫的兼容忍者的構建工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32455918</id>
-        <link href="https://news.ycombinator.com/item?id=32455918"/>
-        <updated>2022-08-14T02:52:17.000Z</updated>
-        <summary type="html"><![CDATA[samurai: Ninja-compatible build tool written in C]]></summary>
-        <author>
-            <name>ducktective</name>
-            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
         </author>
     </entry>
 </feed>
