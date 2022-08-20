@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T03:57:38.704Z</updated>
+    <updated>2022-08-20T05:06:52.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python在常用庫中的不常見用途
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32528919</id>
+        <link href="https://news.ycombinator.com/item?id=32528919"/>
+        <updated>2022-08-20T03:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Uncommon Uses of Python in Commonly Used Libraries]]></summary>
+        <author>
+            <name>7d7n</name>
+            <uri>https://news.ycombinator.com/user?id=7d7n</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超越線性透視。藝術、人類視覺和計算機圖形
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32496550</id>
+        <link href="https://news.ycombinator.com/item?id=32496550"/>
+        <updated>2022-08-17T14:05:21.000Z</updated>
+        <summary type="html"><![CDATA[Beyond Linear Perspective: Art, Human Vision, and Computer Graphics]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長方體的視覺之和
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kennandavison</name>
             <uri>https://news.ycombinator.com/user?id=kennandavison</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux HowTos死了嗎？為什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32453735</id>
-        <link href="https://news.ycombinator.com/item?id=32453735"/>
-        <updated>2022-08-13T20:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Are Linux HowTos dead? Why?]]></summary>
-        <author>
-            <name>piotrke</name>
-            <uri>https://news.ycombinator.com/user?id=piotrke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一位軟件工程師計算特徵值的曲折歷程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32428238</id>
-        <link href="https://news.ycombinator.com/item?id=32428238"/>
-        <updated>2022-08-11T16:34:27.000Z</updated>
-        <summary type="html"><![CDATA[A software engineer's circuitous journey to calculate eigenvalues]]></summary>
-        <author>
-            <name>reikonomusha</name>
-            <uri>https://news.ycombinator.com/user?id=reikonomusha</uri>
         </author>
     </entry>
 </feed>
