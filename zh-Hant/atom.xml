@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T12:47:28.857Z</updated>
+    <updated>2022-08-20T13:19:44.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比米粒小得多的微型電池
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32519915</id>
+        <link href="https://news.ycombinator.com/item?id=32519915"/>
+        <updated>2022-08-19T11:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Microbatteries much smaller than a grain of rice]]></summary>
+        <author>
+            <name>NickRandom</name>
+            <uri>https://news.ycombinator.com/user?id=NickRandom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我30歲了。性革命束縛了我這一代人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>skellystudios</name>
             <uri>https://news.ycombinator.com/user?id=skellystudios</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muxfs - 鏡像、校驗、自我修復的文件系統層
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32456905</id>
-        <link href="https://news.ycombinator.com/item?id=32456905"/>
-        <updated>2022-08-14T06:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Muxfs – a mirroring, checksumming, self-healing filesystem layer]]></summary>
-        <author>
-            <name>ciprian_craciun</name>
-            <uri>https://news.ycombinator.com/user?id=ciprian_craciun</uri>
         </author>
     </entry>
 </feed>
