@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-20T20:29:44.785Z</updated>
+    <updated>2022-08-20T21:00:33.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[穷人的全球流量管理器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32534530</id>
+        <link href="https://news.ycombinator.com/item?id=32534530"/>
+        <updated>2022-08-20T19:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Poor Man's Global Traffic Manager]]></summary>
+        <author>
+            <name>Snawoot</name>
+            <uri>https://news.ycombinator.com/user?id=Snawoot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所以你想成为一名顾问？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Warchi3f</name>
             <uri>https://news.ycombinator.com/user?id=Warchi3f</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我从09年开始就在设计一种语言。我和朋友们实施了一个测试版
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32459186</id>
-        <link href="https://news.ycombinator.com/item?id=32459186"/>
-        <updated>2022-08-14T13:44:37.000Z</updated>
-        <summary type="html"><![CDATA[I've been designing a language since '09. Friends and I implemented a beta]]></summary>
-        <author>
-            <name>levodelellis</name>
-            <uri>https://news.ycombinator.com/user?id=levodelellis</uri>
         </author>
     </entry>
 </feed>
