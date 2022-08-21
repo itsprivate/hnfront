@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-21T05:37:38.549Z</updated>
+    <updated>2022-08-21T06:33:47.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德州儀器LPC語音芯片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32520284</id>
+        <link href="https://news.ycombinator.com/item?id=32520284"/>
+        <updated>2022-08-19T12:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Texas Instruments LPC Speech Chips]]></summary>
+        <author>
+            <name>grunthos</name>
+            <uri>https://news.ycombinator.com/user?id=grunthos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我們不反過來做電子郵件驗證？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>userbinator</name>
             <uri>https://news.ycombinator.com/user?id=userbinator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[格局（YC S21）正在招聘開發人員，幫助建立數據的Figma。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32462897</id>
-        <link href="https://news.ycombinator.com/item?id=32462897"/>
-        <updated>2022-08-14T21:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Patterns (YC S21) is hiring devs to help build the Figma for data]]></summary>
-        <author>
-            <name>cstanley</name>
-            <uri>https://news.ycombinator.com/user?id=cstanley</uri>
         </author>
     </entry>
 </feed>
