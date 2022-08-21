@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-21T11:43:33.274Z</updated>
+    <updated>2022-08-21T11:57:04.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英国超额死亡人数飙升的无声危机只是冰山一角
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32539123</id>
+        <link href="https://news.ycombinator.com/item?id=32539123"/>
+        <updated>2022-08-21T11:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Silent crisis of soaring excess deaths in Britain is only tip of the iceberg]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于物理的。真实世界材料的PBR值数据库
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>homarp</name>
             <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用一个漏洞打破了所有的macOS安全层
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32464034</id>
-        <link href="https://news.ycombinator.com/item?id=32464034"/>
-        <updated>2022-08-14T23:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Breaking all macOS security layers with a single vulnerability]]></summary>
-        <author>
-            <name>afrcnc</name>
-            <uri>https://news.ycombinator.com/user?id=afrcnc</uri>
         </author>
     </entry>
 </feed>
