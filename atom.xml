@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-21T22:29:16.319Z</updated>
+    <updated>2022-08-21T22:48:16.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[中断的教会
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32545023</id>
+        <link href="https://news.ycombinator.com/item?id=32545023"/>
+        <updated>2022-08-21T22:15:47.000Z</updated>
+        <summary type="html"><![CDATA[The Church of Interruption]]></summary>
+        <author>
+            <name>wallflower</name>
+            <uri>https://news.ycombinator.com/user?id=wallflower</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[离线优先的应用程序。为什么要让应用程序在离线状态下工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544837</id>
+        <link href="https://news.ycombinator.com/item?id=32544837"/>
+        <updated>2022-08-21T21:53:11.000Z</updated>
+        <summary type="html"><![CDATA[Offline-First Apps: Why Should Apps Be Made to Work in an Offline State?]]></summary>
+        <author>
+            <name>8bitsrule</name>
+            <uri>https://news.ycombinator.com/user?id=8bitsrule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于电阻式随机存取存储器的内存中计算芯片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32499072</id>
+        <link href="https://news.ycombinator.com/item?id=32499072"/>
+        <updated>2022-08-17T17:15:09.000Z</updated>
+        <summary type="html"><![CDATA[A compute-in-memory chip based on resistive random-access memory]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NAC可以保护小鼠免受肺气肿的影响，但会诱发小鼠的肺腺癌
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在更少的土地上获得更多的能源。缩减太阳能足迹的动力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32468499</id>
-        <link href="https://news.ycombinator.com/item?id=32468499"/>
-        <updated>2022-08-15T11:52:24.000Z</updated>
-        <summary type="html"><![CDATA[More Energy on Less Land: The Drive to Shrink Solar’s Footprint]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元物体协议的艺术回顾(2010) [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32468435</id>
-        <link href="https://news.ycombinator.com/item?id=32468435"/>
-        <updated>2022-08-15T11:46:07.000Z</updated>
-        <summary type="html"><![CDATA[A Review of the Art of the Metaobject Protocol (2010) [pdf]]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale改变其安卓应用以支持开源的Headscale服务器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32468430</id>
-        <link href="https://news.ycombinator.com/item?id=32468430"/>
-        <updated>2022-08-15T11:45:07.000Z</updated>
-        <summary type="html"><![CDATA[Tailscale changes its Android app to support the open source Headscale server]]></summary>
-        <author>
-            <name>hooooonk</name>
-            <uri>https://news.ycombinator.com/user?id=hooooonk</uri>
         </author>
     </entry>
 </feed>
