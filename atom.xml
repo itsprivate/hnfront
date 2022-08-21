@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-21T21:59:07.450Z</updated>
+    <updated>2022-08-21T22:29:16.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NAC可以保护小鼠免受肺气肿的影响，但会诱发小鼠的肺腺癌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544731</id>
+        <link href="https://news.ycombinator.com/item?id=32544731"/>
+        <updated>2022-08-21T21:40:13.000Z</updated>
+        <summary type="html"><![CDATA[NAC protects from lung emphysema but induces lung adenocarcinoma in mice]]></summary>
+        <author>
+            <name>birriel</name>
+            <uri>https://news.ycombinator.com/user?id=birriel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个加密的ZIP文件可以有两个正确的密码--这就是为什么
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hooooonk</name>
             <uri>https://news.ycombinator.com/user?id=hooooonk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电子邮件是异步的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32468400</id>
-        <link href="https://news.ycombinator.com/item?id=32468400"/>
-        <updated>2022-08-15T11:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Email Is Async]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
