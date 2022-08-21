@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 19:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 20:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你最喜歡的公共思想家是誰？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32542895</link>
+            <guid>https://news.ycombinator.com/item?id=32542895</guid>
+            <pubDate>Sun, 21 Aug 2022 18:19:33 GMT</pubDate>
+            <description><![CDATA[Who’s your favorite public thinker?]]></description>
+        </item>
         <item>
             <title><![CDATA[Libgen-text：完整的Library Genesis，重新包裝為純文本（1.2TB）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32467957</guid>
             <pubDate>Mon, 15 Aug 2022 10:32:05 GMT</pubDate>
             <description><![CDATA[Ask HN: Can I see your scripts?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在C語言程序中，有許多方法會導致無法讀取文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32467610</link>
-            <guid>https://news.ycombinator.com/item?id=32467610</guid>
-            <pubDate>Mon, 15 Aug 2022 09:38:17 GMT</pubDate>
-            <description><![CDATA[There are many ways to fail to read a file in a C program]]></description>
         </item>
     </channel>
 </rss>
