@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T08:40:39.057Z</updated>
+    <updated>2022-08-22T09:05:08.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用带有2个GPIO引脚的Raspberry Pi Pico的10BASE-T
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32548905</id>
+        <link href="https://news.ycombinator.com/item?id=32548905"/>
+        <updated>2022-08-22T08:47:21.000Z</updated>
+        <summary type="html"><![CDATA[10BASE-T using Raspberry Pi Pico with 2 GPIO pins]]></summary>
+        <author>
+            <name>sleepy_keita</name>
+            <uri>https://news.ycombinator.com/user?id=sleepy_keita</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QEMU内部结构
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32548853</id>
+        <link href="https://news.ycombinator.com/item?id=32548853"/>
+        <updated>2022-08-22T08:39:32.000Z</updated>
+        <summary type="html"><![CDATA[QEMU Internals]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一种正式的感觉。露易丝-布尔乔亚的世界内部
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32523630</id>
+        <link href="https://news.ycombinator.com/item?id=32523630"/>
+        <updated>2022-08-19T17:12:15.000Z</updated>
+        <summary type="html"><![CDATA[A Formal Feeling: Inside the World of Louise Bourgeois]]></summary>
+        <author>
+            <name>prismatic</name>
+            <uri>https://news.ycombinator.com/user?id=prismatic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卷曲的CVE活动增加？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>skiman10</name>
             <uri>https://news.ycombinator.com/user?id=skiman10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何设计一个推荐计划
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32471605</id>
-        <link href="https://news.ycombinator.com/item?id=32471605"/>
-        <updated>2022-08-15T16:18:21.000Z</updated>
-        <summary type="html"><![CDATA[How to design a referral program]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用eBPF和无监督学习的过程行为异常检测
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32471400</id>
-        <link href="https://news.ycombinator.com/item?id=32471400"/>
-        <updated>2022-08-15T16:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Process behaviour anomaly detection using eBPF and unsupervised learning]]></summary>
-        <author>
-            <name>megahz</name>
-            <uri>https://news.ycombinator.com/user?id=megahz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[准备工作的悖论
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32466346</id>
-        <link href="https://news.ycombinator.com/item?id=32466346"/>
-        <updated>2022-08-15T06:02:12.000Z</updated>
-        <summary type="html"><![CDATA[Preparedness Paradox]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>

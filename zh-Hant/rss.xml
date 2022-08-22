@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用帶有2個GPIO引腳的Raspberry Pi Pico的10BASE-T
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32548905</link>
+            <guid>https://news.ycombinator.com/item?id=32548905</guid>
+            <pubDate>Mon, 22 Aug 2022 08:47:21 GMT</pubDate>
+            <description><![CDATA[10BASE-T using Raspberry Pi Pico with 2 GPIO pins]]></description>
+        </item>
+        <item>
+            <title><![CDATA[QEMU內部結構
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32548853</link>
+            <guid>https://news.ycombinator.com/item?id=32548853</guid>
+            <pubDate>Mon, 22 Aug 2022 08:39:32 GMT</pubDate>
+            <description><![CDATA[QEMU Internals]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一種正式的感覺。露易絲-布爾喬亞的世界內部
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32523630</link>
+            <guid>https://news.ycombinator.com/item?id=32523630</guid>
+            <pubDate>Fri, 19 Aug 2022 17:12:15 GMT</pubDate>
+            <description><![CDATA[A Formal Feeling: Inside the World of Louise Bourgeois]]></description>
+        </item>
         <item>
             <title><![CDATA[捲曲的CVE活動增加？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32472399</guid>
             <pubDate>Mon, 15 Aug 2022 17:11:08 GMT</pubDate>
             <description><![CDATA[Android 13]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何設計一個推薦計劃
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32471605</link>
-            <guid>https://news.ycombinator.com/item?id=32471605</guid>
-            <pubDate>Mon, 15 Aug 2022 16:18:21 GMT</pubDate>
-            <description><![CDATA[How to design a referral program]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用eBPF和無監督學習的過程行為異常檢測
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32471400</link>
-            <guid>https://news.ycombinator.com/item?id=32471400</guid>
-            <pubDate>Mon, 15 Aug 2022 16:02:30 GMT</pubDate>
-            <description><![CDATA[Process behaviour anomaly detection using eBPF and unsupervised learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[準備工作的悖論
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32466346</link>
-            <guid>https://news.ycombinator.com/item?id=32466346</guid>
-            <pubDate>Mon, 15 Aug 2022 06:02:12 GMT</pubDate>
-            <description><![CDATA[Preparedness Paradox]]></description>
         </item>
     </channel>
 </rss>
