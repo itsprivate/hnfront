@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T11:25:38.689Z</updated>
+    <updated>2022-08-22T11:57:35.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用多頻段嵌入式天線來節省物聯網的空間、複雜性和成本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32549582</id>
+        <link href="https://news.ycombinator.com/item?id=32549582"/>
+        <updated>2022-08-22T10:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Using Multiband Embedded Antennas to Save Space, Complexity, and Cost in IoT]]></summary>
+        <author>
+            <name>manchoz</name>
+            <uri>https://news.ycombinator.com/user?id=manchoz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[視覺化的有毒空氣
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>watchdogtimer</name>
             <uri>https://news.ycombinator.com/user?id=watchdogtimer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪異想法的規則
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32474281</id>
-        <link href="https://news.ycombinator.com/item?id=32474281"/>
-        <updated>2022-08-15T19:37:10.000Z</updated>
-        <summary type="html"><![CDATA[Rules for Weird Ideas]]></summary>
-        <author>
-            <name>mbwgh</name>
-            <uri>https://news.ycombinator.com/user?id=mbwgh</uri>
         </author>
     </entry>
 </feed>
