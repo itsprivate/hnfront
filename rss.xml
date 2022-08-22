@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 21:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 22:32:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SQLite的内置函数相当有限
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32557672</link>
+            <guid>https://news.ycombinator.com/item?id=32557672</guid>
+            <pubDate>Mon, 22 Aug 2022 21:42:21 GMT</pubDate>
+            <description><![CDATA[SQLite has pretty limited builtin functions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在生产中使用Mypy
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32556816</link>
+            <guid>https://news.ycombinator.com/item?id=32556816</guid>
+            <pubDate>Mon, 22 Aug 2022 20:31:52 GMT</pubDate>
+            <description><![CDATA[Using Mypy in Production]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Photoshop和DeOldify，用AI给红外图像上色
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32482192</guid>
             <pubDate>Tue, 16 Aug 2022 13:01:24 GMT</pubDate>
             <description><![CDATA[Ask HN: Software Developer Unions?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果成为首个明确禁止种姓歧视的科技巨头
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32482007</link>
-            <guid>https://news.ycombinator.com/item?id=32482007</guid>
-            <pubDate>Tue, 16 Aug 2022 12:39:32 GMT</pubDate>
-            <description><![CDATA[Apple becomes first tech giant to explicitly ban caste discrimination]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OSM数据模型的演变 [pdf]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32480603</link>
-            <guid>https://news.ycombinator.com/item?id=32480603</guid>
-            <pubDate>Tue, 16 Aug 2022 08:47:31 GMT</pubDate>
-            <description><![CDATA[Evolution of the OSM Data Model [pdf]]]></description>
         </item>
     </channel>
 </rss>
