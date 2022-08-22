@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T10:56:13.425Z</updated>
+    <updated>2022-08-22T11:25:38.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[視覺化的有毒空氣
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32549653</id>
+        <link href="https://news.ycombinator.com/item?id=32549653"/>
+        <updated>2022-08-22T10:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Visualizing Toxic Air]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分心的時代
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32499899</id>
+        <link href="https://news.ycombinator.com/item?id=32499899"/>
+        <updated>2022-08-17T18:25:11.000Z</updated>
+        <summary type="html"><![CDATA[The Age of Distracti-Pression]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我應該記錄錯誤、拋出錯誤還是兩者都要？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mbwgh</name>
             <uri>https://news.ycombinator.com/user?id=mbwgh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discordo：輕量級、安全、功能豐富的Discord終端客戶端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32474133</id>
-        <link href="https://news.ycombinator.com/item?id=32474133"/>
-        <updated>2022-08-15T19:26:39.000Z</updated>
-        <summary type="html"><![CDATA[discordo: Lightweight, secure, and feature-rich Discord terminal client]]></summary>
-        <author>
-            <name>ducktective</name>
-            <uri>https://news.ycombinator.com/user?id=ducktective</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord如何對網絡磁盤進行增壓以實現極低的延時
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32474093</id>
-        <link href="https://news.ycombinator.com/item?id=32474093"/>
-        <updated>2022-08-15T19:24:21.000Z</updated>
-        <summary type="html"><![CDATA[How Discord supercharges network disks for extreme low latency]]></summary>
-        <author>
-            <name>techinvalley</name>
-            <uri>https://news.ycombinator.com/user?id=techinvalley</uri>
         </author>
     </entry>
 </feed>
