@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T15:37:20.984Z</updated>
+    <updated>2022-08-22T15:54:03.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["我從TCP過渡期中倖存下來"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32552316</id>
+        <link href="https://news.ycombinator.com/item?id=32552316"/>
+        <updated>2022-08-22T14:54:02.000Z</updated>
+        <summary type="html"><![CDATA[“I survived the TCP transition”]]></summary>
+        <author>
+            <name>agomez314</name>
+            <uri>https://news.ycombinator.com/user?id=agomez314</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：停止向開發者發送未經請求的電子郵件 GitHub電子郵件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32552134</id>
+        <link href="https://news.ycombinator.com/item?id=32552134"/>
+        <updated>2022-08-22T14:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Stop sending unsolicited emails to developers GitHub email]]></summary>
+        <author>
+            <name>msoad</name>
+            <uri>https://news.ycombinator.com/user?id=msoad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於汽車座椅作為避孕措施
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tsujp</name>
             <uri>https://news.ycombinator.com/user?id=tsujp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[認證Racket的口譯員
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32478808</id>
-        <link href="https://news.ycombinator.com/item?id=32478808"/>
-        <updated>2022-08-16T03:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Certifying Interpreters in Racket]]></summary>
-        <author>
-            <name>bwidlar</name>
-            <uri>https://news.ycombinator.com/user?id=bwidlar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite不是一個玩具數據庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32478907</id>
-        <link href="https://news.ycombinator.com/item?id=32478907"/>
-        <updated>2022-08-16T03:32:57.000Z</updated>
-        <summary type="html"><![CDATA[SQLite is not a toy database]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
         </author>
     </entry>
 </feed>
