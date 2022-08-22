@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T22:51:38.157Z</updated>
+    <updated>2022-08-22T23:01:30.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所有啟用了Stripe Tax的用戶，Stripe已經癱瘓了4個小時（還在繼續）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32558191</id>
+        <link href="https://news.ycombinator.com/item?id=32558191"/>
+        <updated>2022-08-22T22:39:26.000Z</updated>
+        <summary type="html"><![CDATA[Stripe down for 4 hours (and counting) for all those with Stripe Tax enabled]]></summary>
+        <author>
+            <name>whyleym</name>
+            <uri>https://news.ycombinator.com/user?id=whyleym</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在制裁令龍捲風現金庫上被禁止的一個重新發布的分叉。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jacques_chester</name>
             <uri>https://news.ycombinator.com/user?id=jacques_chester</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菲律賓為賽揚筆記本電腦支付MacBook價格後下令進行欺詐調查
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32481931</id>
-        <link href="https://news.ycombinator.com/item?id=32481931"/>
-        <updated>2022-08-16T12:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Philippines orders fraud probe after paying MacBook prices for Celeron laptops]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
