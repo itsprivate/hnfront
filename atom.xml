@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T20:35:30.282Z</updated>
+    <updated>2022-08-22T20:48:39.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[午间拍摄 (2019年)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32549713</id>
+        <link href="https://news.ycombinator.com/item?id=32549713"/>
+        <updated>2022-08-22T10:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Shooting at midday (2019)]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陶氏希望用小型核反应堆为美国工厂供电
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试一个分拣程序需要什么？(2010)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32481340</id>
-        <link href="https://news.ycombinator.com/item?id=32481340"/>
-        <updated>2022-08-16T11:04:26.000Z</updated>
-        <summary type="html"><![CDATA[What does it take to test a sorting routine? (2010)]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
         </author>
     </entry>
 </feed>
