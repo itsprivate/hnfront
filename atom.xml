@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T07:05:27.226Z</updated>
+    <updated>2022-08-22T07:59:08.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PicoLisp是一种开源的Lisp方言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32495070</id>
+        <link href="https://news.ycombinator.com/item?id=32495070"/>
+        <updated>2022-08-17T11:57:13.000Z</updated>
+        <summary type="html"><![CDATA[PicoLisp is an open source Lisp dialect]]></summary>
+        <author>
+            <name>rcarmo</name>
+            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：谷歌云在周六凌晨1点暂停了我们的生产项目
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bovermyer</name>
             <uri>https://news.ycombinator.com/user?id=bovermyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twilio事件。Signal用户需要知道的事情
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32472412</id>
-        <link href="https://news.ycombinator.com/item?id=32472412"/>
-        <updated>2022-08-15T17:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Twilio incident: What Signal users need to know]]></summary>
-        <author>
-            <name>input_sh</name>
-            <uri>https://news.ycombinator.com/user?id=input_sh</uri>
         </author>
     </entry>
 </feed>
