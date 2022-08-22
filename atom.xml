@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T06:41:32.861Z</updated>
+    <updated>2022-08-22T07:05:27.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：谷歌云在周六凌晨1点暂停了我们的生产项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32547912</id>
+        <link href="https://news.ycombinator.com/item?id=32547912"/>
+        <updated>2022-08-22T06:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Google Cloud suspended our production projects at 1am on Saturday]]></summary>
+        <author>
+            <name>7tech</name>
+            <uri>https://news.ycombinator.com/user?id=7tech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现金转移对不接受现金转移的人有何影响？(2019)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32547901</id>
+        <link href="https://news.ycombinator.com/item?id=32547901"/>
+        <updated>2022-08-22T06:06:28.000Z</updated>
+        <summary type="html"><![CDATA[How do cash transfers impact the people who don’t receive them? (2019)]]></summary>
+        <author>
+            <name>herbertl</name>
+            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国陆军的 "骆驼队 "实验（2021年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32527613</id>
+        <link href="https://news.ycombinator.com/item?id=32527613"/>
+        <updated>2022-08-20T00:08:54.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Army’s “Camel Corps” Experiment (2021)]]></summary>
+        <author>
+            <name>Thevet</name>
+            <uri>https://news.ycombinator.com/user?id=Thevet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React PDF浏览器
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>input_sh</name>
             <uri>https://news.ycombinator.com/user?id=input_sh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win32是Linux上唯一稳定的ABI
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32471624</id>
-        <link href="https://news.ycombinator.com/item?id=32471624"/>
-        <updated>2022-08-15T16:19:43.000Z</updated>
-        <summary type="html"><![CDATA[Win32 Is the Only Stable ABI on Linux]]></summary>
-        <author>
-            <name>pantalaimon</name>
-            <uri>https://news.ycombinator.com/user?id=pantalaimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔80376--无遗留问题的i386（有变化）(2010)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32447374</id>
-        <link href="https://news.ycombinator.com/item?id=32447374"/>
-        <updated>2022-08-13T06:13:45.000Z</updated>
-        <summary type="html"><![CDATA[The Intel 80376 – a Legacy-Free i386 (with a Twist) (2010)]]></summary>
-        <author>
-            <name>anyfoo</name>
-            <uri>https://news.ycombinator.com/user?id=anyfoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将Kubernetes扩展到数以千计的CRD
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32471508</id>
-        <link href="https://news.ycombinator.com/item?id=32471508"/>
-        <updated>2022-08-15T16:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Scaling Kubernetes to Thousands of CRDs]]></summary>
-        <author>
-            <name>hasheddan</name>
-            <uri>https://news.ycombinator.com/user?id=hasheddan</uri>
         </author>
     </entry>
 </feed>
