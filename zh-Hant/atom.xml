@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T14:00:55.300Z</updated>
+    <updated>2022-08-22T14:29:52.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果GPU上的剪輯控制
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551512</id>
+        <link href="https://news.ycombinator.com/item?id=32551512"/>
+        <updated>2022-08-22T14:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Clip Control on the Apple GPU]]></summary>
+        <author>
+            <name>stefan_</name>
+            <uri>https://news.ycombinator.com/user?id=stefan_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[59%的美國人擔心免除學生貸款會使通貨膨脹惡化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551475</id>
+        <link href="https://news.ycombinator.com/item?id=32551475"/>
+        <updated>2022-08-22T14:01:20.000Z</updated>
+        <summary type="html"><![CDATA[59% of Americans worry student loan forgiveness will make inflation worse]]></summary>
+        <author>
+            <name>donsupreme</name>
+            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虛假新聞與民主
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tup - 一個基於文件的構建系統。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32477212</id>
-        <link href="https://news.ycombinator.com/item?id=32477212"/>
-        <updated>2022-08-15T23:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Tup – an instrumenting file-based build system]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Rust來擴展Elixir的11M併發用戶
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32477012</id>
-        <link href="https://news.ycombinator.com/item?id=32477012"/>
-        <updated>2022-08-15T23:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Using Rust to scale Elixir for 11M concurrent users]]></summary>
-        <author>
-            <name>i0exception</name>
-            <uri>https://news.ycombinator.com/user?id=i0exception</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 14:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 14:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果GPU上的剪辑控制
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32551512</link>
+            <guid>https://news.ycombinator.com/item?id=32551512</guid>
+            <pubDate>Mon, 22 Aug 2022 14:04:15 GMT</pubDate>
+            <description><![CDATA[Clip Control on the Apple GPU]]></description>
+        </item>
+        <item>
+            <title><![CDATA[59%的美国人担心免除学生贷款会使通货膨胀恶化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32551475</link>
+            <guid>https://news.ycombinator.com/item?id=32551475</guid>
+            <pubDate>Mon, 22 Aug 2022 14:01:20 GMT</pubDate>
+            <description><![CDATA[59% of Americans worry student loan forgiveness will make inflation worse]]></description>
+        </item>
         <item>
             <title><![CDATA[虚假新闻与民主
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32478492</guid>
             <pubDate>Tue, 16 Aug 2022 02:16:47 GMT</pubDate>
             <description><![CDATA[Colour evolution of Betelgeuse over two millennia, derived from records]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tup - 一个基于文件的构建系统。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32477212</link>
-            <guid>https://news.ycombinator.com/item?id=32477212</guid>
-            <pubDate>Mon, 15 Aug 2022 23:44:41 GMT</pubDate>
-            <description><![CDATA[Tup – an instrumenting file-based build system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Rust来扩展Elixir的11M并发用户
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32477012</link>
-            <guid>https://news.ycombinator.com/item?id=32477012</guid>
-            <pubDate>Mon, 15 Aug 2022 23:30:57 GMT</pubDate>
-            <description><![CDATA[Using Rust to scale Elixir for 11M concurrent users]]></description>
         </item>
     </channel>
 </rss>
