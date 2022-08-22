@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 23:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 23:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[網絡是一個苛刻的管理者
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32518211</link>
+            <guid>https://news.ycombinator.com/item?id=32518211</guid>
+            <pubDate>Fri, 19 Aug 2022 07:01:18 GMT</pubDate>
+            <description><![CDATA[The web is a harsh manager]]></description>
+        </item>
         <item>
             <title><![CDATA[所有啟用了Stripe Tax的用戶，Stripe已經癱瘓了4個小時（還在繼續）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32482211</guid>
             <pubDate>Tue, 16 Aug 2022 13:03:20 GMT</pubDate>
             <description><![CDATA[Handpicked No-Signup Tools]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RubyGems現在要求頂級寶石的所有者使用MFA
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32482034</link>
-            <guid>https://news.ycombinator.com/item?id=32482034</guid>
-            <pubDate>Tue, 16 Aug 2022 12:43:08 GMT</pubDate>
-            <description><![CDATA[RubyGems now requires MFA for owners of top gems]]></description>
         </item>
     </channel>
 </rss>

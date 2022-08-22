@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-22T23:01:30.081Z</updated>
+    <updated>2022-08-22T23:47:34.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網絡是一個苛刻的管理者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518211</id>
+        <link href="https://news.ycombinator.com/item?id=32518211"/>
+        <updated>2022-08-19T07:01:18.000Z</updated>
+        <summary type="html"><![CDATA[The web is a harsh manager]]></summary>
+        <author>
+            <name>headalgorithm</name>
+            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有啟用了Stripe Tax的用戶，Stripe已經癱瘓了4個小時（還在繼續）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>scastiel</name>
             <uri>https://news.ycombinator.com/user?id=scastiel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RubyGems現在要求頂級寶石的所有者使用MFA
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32482034</id>
-        <link href="https://news.ycombinator.com/item?id=32482034"/>
-        <updated>2022-08-16T12:43:08.000Z</updated>
-        <summary type="html"><![CDATA[RubyGems now requires MFA for owners of top gems]]></summary>
-        <author>
-            <name>jacques_chester</name>
-            <uri>https://news.ycombinator.com/user?id=jacques_chester</uri>
         </author>
     </entry>
 </feed>
