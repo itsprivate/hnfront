@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T07:09:39.967Z</updated>
+    <updated>2022-08-23T07:49:51.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過Wine在Ghidra中調試Win32二進制文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561130</id>
+        <link href="https://news.ycombinator.com/item?id=32561130"/>
+        <updated>2022-08-23T06:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Debugging Win32 Binaries in Ghidra via Wine]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反向調試和其他故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32539160</id>
+        <link href="https://news.ycombinator.com/item?id=32539160"/>
+        <updated>2022-08-21T11:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Reverse Debugging and Other Stories]]></summary>
+        <author>
+            <name>bg2d</name>
+            <uri>https://news.ycombinator.com/user?id=bg2d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crawlee - Node.js的網絡刮削和瀏覽器自動化庫
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samlambert</name>
             <uri>https://news.ycombinator.com/user?id=samlambert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筏子共識動畫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32484584</id>
-        <link href="https://news.ycombinator.com/item?id=32484584"/>
-        <updated>2022-08-16T15:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Raft Consensus Animated]]></summary>
-        <author>
-            <name>pkilgore</name>
-            <uri>https://news.ycombinator.com/user?id=pkilgore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supabase-JS v2
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32484286</id>
-        <link href="https://news.ycombinator.com/item?id=32484286"/>
-        <updated>2022-08-16T15:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Supabase-JS v2]]></summary>
-        <author>
-            <name>samuba</name>
-            <uri>https://news.ycombinator.com/user?id=samuba</uri>
         </author>
     </entry>
 </feed>

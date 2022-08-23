@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通过Wine在Ghidra中调试Win32二进制文件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32561130</link>
+            <guid>https://news.ycombinator.com/item?id=32561130</guid>
+            <pubDate>Tue, 23 Aug 2022 06:26:06 GMT</pubDate>
+            <description><![CDATA[Debugging Win32 Binaries in Ghidra via Wine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[反向调试和其他故事
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32539160</link>
+            <guid>https://news.ycombinator.com/item?id=32539160</guid>
+            <pubDate>Sun, 21 Aug 2022 11:31:11 GMT</pubDate>
+            <description><![CDATA[Reverse Debugging and Other Stories]]></description>
+        </item>
         <item>
             <title><![CDATA[Crawlee - Node.js的网络刮削和浏览器自动化库
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32484807</guid>
             <pubDate>Tue, 16 Aug 2022 16:10:29 GMT</pubDate>
             <description><![CDATA[Faster offset pagination for Rails apps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[筏子共识动画
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32484584</link>
-            <guid>https://news.ycombinator.com/item?id=32484584</guid>
-            <pubDate>Tue, 16 Aug 2022 15:57:02 GMT</pubDate>
-            <description><![CDATA[Raft Consensus Animated]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Supabase-JS v2
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32484286</link>
-            <guid>https://news.ycombinator.com/item?id=32484286</guid>
-            <pubDate>Tue, 16 Aug 2022 15:40:46 GMT</pubDate>
-            <description><![CDATA[Supabase-JS v2]]></description>
         </item>
     </channel>
 </rss>
