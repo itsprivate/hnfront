@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T19:26:14.988Z</updated>
+    <updated>2022-08-23T19:58:11.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[框架笔记本电脑上的FreeBSD
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32569547</id>
+        <link href="https://news.ycombinator.com/item?id=32569547"/>
+        <updated>2022-08-23T18:56:45.000Z</updated>
+        <summary type="html"><![CDATA[FreeBSD on the Framework Laptop]]></summary>
+        <author>
+            <name>throw0101a</name>
+            <uri>https://news.ycombinator.com/user?id=throw0101a</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript对于库的开发者来说是很糟糕的
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rblion</name>
             <uri>https://news.ycombinator.com/user?id=rblion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aparté - 用Rust编写的简单XMPP控制台客户端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32494200</id>
-        <link href="https://news.ycombinator.com/item?id=32494200"/>
-        <updated>2022-08-17T09:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Aparté – Simple XMPP console client written in Rust]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
         </author>
     </entry>
 </feed>
