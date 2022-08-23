@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T20:30:26.004Z</updated>
+    <updated>2022-08-23T21:01:10.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[儘管德克薩斯州沒有州所得稅，但大多數德克薩斯州人支付的稅款比加州多。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32570996</id>
+        <link href="https://news.ycombinator.com/item?id=32570996"/>
+        <updated>2022-08-23T20:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Despite TX lacking a state income tax, most Texans pay more in taxes than CA]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客的VC網站
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是否有Rust開發者轉向嵌入式設備編程？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32494606</id>
-        <link href="https://news.ycombinator.com/item?id=32494606"/>
-        <updated>2022-08-17T10:58:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has any Rust developer moved to embedded device programming?]]></summary>
-        <author>
-            <name>detuks</name>
-            <uri>https://news.ycombinator.com/user?id=detuks</uri>
         </author>
     </entry>
 </feed>
