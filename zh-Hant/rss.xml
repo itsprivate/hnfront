@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 23:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Heroku的DNS對你來說很糟糕嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32572922</link>
+            <guid>https://news.ycombinator.com/item?id=32572922</guid>
+            <pubDate>Tue, 23 Aug 2022 23:25:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is Heroku DNS screwy for you?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Heroku狀態。與上游DNS供應商的問題
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32572906</link>
+            <guid>https://news.ycombinator.com/item?id=32572906</guid>
+            <pubDate>Tue, 23 Aug 2022 23:23:32 GMT</pubDate>
+            <description><![CDATA[Heroku Status: Issues with upstream DNS provider]]></description>
+        </item>
         <item>
             <title><![CDATA[Pornpen.ai，人工智能生成的色情作品
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32496540</guid>
             <pubDate>Wed, 17 Aug 2022 14:04:14 GMT</pubDate>
             <description><![CDATA[PolyScale and ClickHouse Materialized Views]]></description>
-        </item>
-        <item>
-            <title><![CDATA[啟動HN：Nimbus (YC W22) - 團隊的雲開發環境
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32496462</link>
-            <guid>https://news.ycombinator.com/item?id=32496462</guid>
-            <pubDate>Wed, 17 Aug 2022 13:58:04 GMT</pubDate>
-            <description><![CDATA[Launch HN: Nimbus (YC W22) – Cloud dev environments for teams]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Match(it)。一個有很多好東西的C++17模式匹配庫
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32496168</link>
-            <guid>https://news.ycombinator.com/item?id=32496168</guid>
-            <pubDate>Wed, 17 Aug 2022 13:36:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Match(it): A C++17 pattern-matching library with lots of good stuffs]]></description>
         </item>
     </channel>
 </rss>

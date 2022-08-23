@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T23:32:05.554Z</updated>
+    <updated>2022-08-23T23:48:44.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Heroku的DNS对你来说很糟糕吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32572922</id>
+        <link href="https://news.ycombinator.com/item?id=32572922"/>
+        <updated>2022-08-23T23:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Heroku DNS screwy for you?]]></summary>
+        <author>
+            <name>terracatta</name>
+            <uri>https://news.ycombinator.com/user?id=terracatta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroku状态。与上游DNS供应商的问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32572906</id>
+        <link href="https://news.ycombinator.com/item?id=32572906"/>
+        <updated>2022-08-23T23:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Heroku Status: Issues with upstream DNS provider]]></summary>
+        <author>
+            <name>bfirsh</name>
+            <uri>https://news.ycombinator.com/user?id=bfirsh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pornpen.ai，人工智能生成的色情作品
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mvcalder</name>
             <uri>https://news.ycombinator.com/user?id=mvcalder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动HN：Nimbus (YC W22) - 团队的云开发环境
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32496462</id>
-        <link href="https://news.ycombinator.com/item?id=32496462"/>
-        <updated>2022-08-17T13:58:04.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Nimbus (YC W22) – Cloud dev environments for teams]]></summary>
-        <author>
-            <name>liushh</name>
-            <uri>https://news.ycombinator.com/user?id=liushh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Match(it)。一个有很多好东西的C++17模式匹配库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32496168</id>
-        <link href="https://news.ycombinator.com/item?id=32496168"/>
-        <updated>2022-08-17T13:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Match(it): A C++17 pattern-matching library with lots of good stuffs]]></summary>
-        <author>
-            <name>amazing42</name>
-            <uri>https://news.ycombinator.com/user?id=amazing42</uri>
         </author>
     </entry>
 </feed>
