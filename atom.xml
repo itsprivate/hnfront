@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T14:48:07.858Z</updated>
+    <updated>2022-08-23T15:00:25.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用矢量数据库进行非机器学习的图像匹配
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32564715</id>
+        <link href="https://news.ycombinator.com/item?id=32564715"/>
+        <updated>2022-08-23T13:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Non-Machine Learning Image Matching with a Vector DB]]></summary>
+        <author>
+            <name>hannah-pdx</name>
+            <uri>https://news.ycombinator.com/user?id=hannah-pdx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aptible（YC S14）正在为我们的安全、合规的PaaS替代Heroku进行招聘。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>prismatic</name>
             <uri>https://news.ycombinator.com/user?id=prismatic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国证券交易委员会指控三人围绕Equifax数据泄露事件公告进行内幕交易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32490350</id>
-        <link href="https://news.ycombinator.com/item?id=32490350"/>
-        <updated>2022-08-16T23:23:20.000Z</updated>
-        <summary type="html"><![CDATA[SEC Charges Three with Insider Trading Around Equifax Data Breach Announcement]]></summary>
-        <author>
-            <name>gotmedium</name>
-            <uri>https://news.ycombinator.com/user?id=gotmedium</uri>
         </author>
     </entry>
 </feed>
