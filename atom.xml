@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T08:36:53.964Z</updated>
+    <updated>2022-08-23T09:02:20.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[战争诗。Randall Jarrell
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518164</id>
+        <link href="https://news.ycombinator.com/item?id=32518164"/>
+        <updated>2022-08-19T06:52:38.000Z</updated>
+        <summary type="html"><![CDATA[War Poetry: Randall Jarrell]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LinkedIn病毒性帖子生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>serverlessmom</name>
             <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Airbnb抛弃了React Native？(2021)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32485178</id>
-        <link href="https://news.ycombinator.com/item?id=32485178"/>
-        <updated>2022-08-16T16:35:22.000Z</updated>
-        <summary type="html"><![CDATA[Why Airbnb Dumped React Native? (2021)]]></summary>
-        <author>
-            <name>aabbcc1241</name>
-            <uri>https://news.ycombinator.com/user?id=aabbcc1241</uri>
         </author>
     </entry>
 </feed>
