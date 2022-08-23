@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T17:12:55.526Z</updated>
+    <updated>2022-08-23T17:43:51.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的每一個行動都是對你希望成為的那種人的投票。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32567637</id>
+        <link href="https://news.ycombinator.com/item?id=32567637"/>
+        <updated>2022-08-23T16:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Every action you take is a vote for the type of person you wish to become]]></summary>
+        <author>
+            <name>jeremyeder</name>
+            <uri>https://news.ycombinator.com/user?id=jeremyeder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在C語言中默認使用有符號或無符號int (2015)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32566874</id>
+        <link href="https://news.ycombinator.com/item?id=32566874"/>
+        <updated>2022-08-23T15:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Using signed or unsigned int by default in C (2015)]]></summary>
+        <author>
+            <name>synergy20</name>
+            <uri>https://news.ycombinator.com/user?id=synergy20</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UPchieve(教育科技非營利組織，YC W21)正在招聘高級工程師
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bobnamob</name>
             <uri>https://news.ycombinator.com/user?id=bobnamob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uno平臺：在所有平臺上構建單一代碼庫應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32492977</id>
-        <link href="https://news.ycombinator.com/item?id=32492977"/>
-        <updated>2022-08-17T06:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Uno platform: build single-codebase applications across all platforms]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[龍的本能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32458927</id>
-        <link href="https://news.ycombinator.com/item?id=32458927"/>
-        <updated>2022-08-14T13:06:35.000Z</updated>
-        <summary type="html"><![CDATA[An Instinct for Dragons]]></summary>
-        <author>
-            <name>benbreen</name>
-            <uri>https://news.ycombinator.com/user?id=benbreen</uri>
         </author>
     </entry>
 </feed>
