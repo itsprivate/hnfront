@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T10:02:11.651Z</updated>
+    <updated>2022-08-23T10:34:31.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的笔记应该是端到端加密的吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32562143</id>
+        <link href="https://news.ycombinator.com/item?id=32562143"/>
+        <updated>2022-08-23T08:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Should Your Notes Be End-to-End Encrypted?]]></summary>
+        <author>
+            <name>fastball</name>
+            <uri>https://news.ycombinator.com/user?id=fastball</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPU上的边界检查 (2021) [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>clessg</name>
             <uri>https://news.ycombinator.com/user?id=clessg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revirt - Redox操作系统的虚拟化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32457253</id>
-        <link href="https://news.ycombinator.com/item?id=32457253"/>
-        <updated>2022-08-14T07:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Revirt – Virtualization on Redox OS]]></summary>
-        <author>
-            <name>cassepipe</name>
-            <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
         </author>
     </entry>
 </feed>
