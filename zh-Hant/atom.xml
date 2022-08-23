@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T09:50:34.269Z</updated>
+    <updated>2022-08-23T10:02:11.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPU上的邊界檢查 (2021) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32549881</id>
+        <link href="https://news.ycombinator.com/item?id=32549881"/>
+        <updated>2022-08-22T11:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Bounds Checking on GPU (2021) [pdf]]]></summary>
+        <author>
+            <name>tokai</name>
+            <uri>https://news.ycombinator.com/user?id=tokai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有興趣一起寫一本關於軟件設計/架構的書嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cassepipe</name>
             <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國將保持最後三座核電站的運行
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32485125</id>
-        <link href="https://news.ycombinator.com/item?id=32485125"/>
-        <updated>2022-08-16T16:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Germany to Keep Last Three Nuclear-Power Plants Running]]></summary>
-        <author>
-            <name>IdealeZahlen</name>
-            <uri>https://news.ycombinator.com/user?id=IdealeZahlen</uri>
         </author>
     </entry>
 </feed>
