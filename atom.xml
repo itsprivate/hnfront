@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T18:57:43.897Z</updated>
+    <updated>2022-08-23T19:26:14.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript对于库的开发者来说是很糟糕的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32569112</id>
+        <link href="https://news.ycombinator.com/item?id=32569112"/>
+        <updated>2022-08-23T18:31:24.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is terrible for library developers]]></summary>
+        <author>
+            <name>qudat</name>
+            <uri>https://news.ycombinator.com/user?id=qudat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们不喝啤酒吧
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32568758</id>
+        <link href="https://news.ycombinator.com/item?id=32568758"/>
+        <updated>2022-08-23T18:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Let’s Not Have a Beer]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企业IT工作场所的生态环境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32548571</id>
+        <link href="https://news.ycombinator.com/item?id=32548571"/>
+        <updated>2022-08-22T07:57:26.000Z</updated>
+        <summary type="html"><![CDATA[The Ecology of a Corporate IT Workplace]]></summary>
+        <author>
+            <name>iloverss</name>
+            <uri>https://news.ycombinator.com/user?id=iloverss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[智能手机上的Linux有希望吗？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将我的密码从列表中删除，这样黑客就无法入侵我了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32493870</id>
-        <link href="https://news.ycombinator.com/item?id=32493870"/>
-        <updated>2022-08-17T08:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Remove my password from lists so hackers won't be able to hack me]]></summary>
-        <author>
-            <name>personjerry</name>
-            <uri>https://news.ycombinator.com/user?id=personjerry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类的10年，改变一个城市的最糟糕的艺术修复工程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32494182</id>
-        <link href="https://news.ycombinator.com/item?id=32494182"/>
-        <updated>2022-08-17T09:45:19.000Z</updated>
-        <summary type="html"><![CDATA[10 years of Ecce Homo, the worst artistic restoration that changed a city]]></summary>
-        <author>
-            <name>qsort</name>
-            <uri>https://news.ycombinator.com/user?id=qsort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Memgraph和Nvidia CuGraph算法运行大规模的图分析
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32494111</id>
-        <link href="https://news.ycombinator.com/item?id=32494111"/>
-        <updated>2022-08-17T09:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Running Large-Scale Graph Analytics with Memgraph and Nvidia CuGraph Algorithms]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
         </author>
     </entry>
 </feed>
