@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T17:43:51.518Z</updated>
+    <updated>2022-08-23T17:59:09.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[正在聚集的危机
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32568138</id>
+        <link href="https://news.ycombinator.com/item?id=32568138"/>
+        <updated>2022-08-23T17:24:51.000Z</updated>
+        <summary type="html"><![CDATA[The Gathering Crisis]]></summary>
+        <author>
+            <name>aydnina</name>
+            <uri>https://news.ycombinator.com/user?id=aydnina</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在支持SSH提交验证
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32567874</id>
+        <link href="https://news.ycombinator.com/item?id=32567874"/>
+        <updated>2022-08-23T17:07:11.000Z</updated>
+        <summary type="html"><![CDATA[SSH commit verification now supported]]></summary>
+        <author>
+            <name>rainworld</name>
+            <uri>https://news.ycombinator.com/user?id=rainworld</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的每一个行动都是对你希望成为的那种人的投票。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ArdelleF</name>
             <uri>https://news.ycombinator.com/user?id=ArdelleF</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器学习，结束了。无代码工具是否战胜了人工分析？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32472636</id>
-        <link href="https://news.ycombinator.com/item?id=32472636"/>
-        <updated>2022-08-15T17:29:58.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning, concluded: Did no-code tools beat manual analysis?]]></summary>
-        <author>
-            <name>CharlesW</name>
-            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jank语言。LLVM托管的Clojure
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32493217</id>
-        <link href="https://news.ycombinator.com/item?id=32493217"/>
-        <updated>2022-08-17T07:11:04.000Z</updated>
-        <summary type="html"><![CDATA[The Jank Language: LLVM Hosted Clojure]]></summary>
-        <author>
-            <name>bobnamob</name>
-            <uri>https://news.ycombinator.com/user?id=bobnamob</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 17:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[正在聚集的危機
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32568138</link>
+            <guid>https://news.ycombinator.com/item?id=32568138</guid>
+            <pubDate>Tue, 23 Aug 2022 17:24:51 GMT</pubDate>
+            <description><![CDATA[The Gathering Crisis]]></description>
+        </item>
+        <item>
+            <title><![CDATA[現在支持SSH提交驗證
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32567874</link>
+            <guid>https://news.ycombinator.com/item?id=32567874</guid>
+            <pubDate>Tue, 23 Aug 2022 17:07:11 GMT</pubDate>
+            <description><![CDATA[SSH commit verification now supported]]></description>
+        </item>
         <item>
             <title><![CDATA[你的每一個行動都是對你希望成為的那種人的投票。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32492380</guid>
             <pubDate>Wed, 17 Aug 2022 04:30:42 GMT</pubDate>
             <description><![CDATA[Paper: Augmenting Decompiler Output with Learned Variable Names and Types [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[機器學習，結束了。無代碼工具是否戰勝了人工分析？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32472636</link>
-            <guid>https://news.ycombinator.com/item?id=32472636</guid>
-            <pubDate>Mon, 15 Aug 2022 17:29:58 GMT</pubDate>
-            <description><![CDATA[Machine learning, concluded: Did no-code tools beat manual analysis?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jank語言。LLVM託管的Clojure
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32493217</link>
-            <guid>https://news.ycombinator.com/item?id=32493217</guid>
-            <pubDate>Wed, 17 Aug 2022 07:11:04 GMT</pubDate>
-            <description><![CDATA[The Jank Language: LLVM Hosted Clojure]]></description>
         </item>
     </channel>
 </rss>
