@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T07:49:51.826Z</updated>
+    <updated>2022-08-23T08:36:54.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn病毒性帖子生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561511</id>
+        <link href="https://news.ycombinator.com/item?id=32561511"/>
+        <updated>2022-08-23T07:17:08.000Z</updated>
+        <summary type="html"><![CDATA[LinkedIn Viral Post Generator]]></summary>
+        <author>
+            <name>athulp</name>
+            <uri>https://news.ycombinator.com/user?id=athulp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過Wine在Ghidra中調試Win32二進制文件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aabbcc1241</name>
             <uri>https://news.ycombinator.com/user?id=aabbcc1241</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為Rails應用程序提供更快的偏移分頁功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32484807</id>
-        <link href="https://news.ycombinator.com/item?id=32484807"/>
-        <updated>2022-08-16T16:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Faster offset pagination for Rails apps]]></summary>
-        <author>
-            <name>samlambert</name>
-            <uri>https://news.ycombinator.com/user?id=samlambert</uri>
         </author>
     </entry>
 </feed>

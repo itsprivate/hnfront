@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 08:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[LinkedIn病毒性帖子生成器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32561511</link>
+            <guid>https://news.ycombinator.com/item?id=32561511</guid>
+            <pubDate>Tue, 23 Aug 2022 07:17:08 GMT</pubDate>
+            <description><![CDATA[LinkedIn Viral Post Generator]]></description>
+        </item>
         <item>
             <title><![CDATA[通过Wine在Ghidra中调试Win32二进制文件
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32485178</guid>
             <pubDate>Tue, 16 Aug 2022 16:35:22 GMT</pubDate>
             <description><![CDATA[Why Airbnb Dumped React Native? (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为Rails应用程序提供更快的偏移分页功能
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32484807</link>
-            <guid>https://news.ycombinator.com/item?id=32484807</guid>
-            <pubDate>Tue, 16 Aug 2022 16:10:29 GMT</pubDate>
-            <description><![CDATA[Faster offset pagination for Rails apps]]></description>
         </item>
     </channel>
 </rss>
