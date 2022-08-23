@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T02:53:56.728Z</updated>
+    <updated>2022-08-23T04:40:23.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[解析SQL
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32560039</id>
+        <link href="https://news.ycombinator.com/item?id=32560039"/>
+        <updated>2022-08-23T02:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Parsing SQL]]></summary>
+        <author>
+            <name>teleforce</name>
+            <uri>https://news.ycombinator.com/user?id=teleforce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[軍用無人機群以及如何打擊它們
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32559912</id>
+        <link href="https://news.ycombinator.com/item?id=32559912"/>
+        <updated>2022-08-23T02:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Military drone swarms and how to combat them]]></summary>
+        <author>
+            <name>Gaishan</name>
+            <uri>https://news.ycombinator.com/user?id=Gaishan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電動汽車運輸將把內燃機吹到水面上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32559877</id>
+        <link href="https://news.ycombinator.com/item?id=32559877"/>
+        <updated>2022-08-23T02:27:40.000Z</updated>
+        <summary type="html"><![CDATA[EV shipping is set to blow internal combustion engines out of the water]]></summary>
+        <author>
+            <name>CharlesW</name>
+            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1994年的最佳和最差以及對95年的預測
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>rustoo</name>
             <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為AWS Lambda做了一個本地開發、調試和熱重載工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32483870</id>
-        <link href="https://news.ycombinator.com/item?id=32483870"/>
-        <updated>2022-08-16T15:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a local development, debugging and hotreload tool for AWS Lambda]]></summary>
-        <author>
-            <name>sozal</name>
-            <uri>https://news.ycombinator.com/user?id=sozal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決定Hilbert Nullstellensatz的多時間算法。P=NP的證明
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32483726</id>
-        <link href="https://news.ycombinator.com/item?id=32483726"/>
-        <updated>2022-08-16T15:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Poly-time algorithm for deciding Hilbert Nullstellensatz. A proof of P=NP]]></summary>
-        <author>
-            <name>limoce</name>
-            <uri>https://news.ycombinator.com/user?id=limoce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[道奇將於明年停產挑戰者和充電器肌肉車
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32483670</id>
-        <link href="https://news.ycombinator.com/item?id=32483670"/>
-        <updated>2022-08-16T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Dodge will discontinue its Challenger and Charger muscle cars next year]]></summary>
-        <author>
-            <name>SirLJ</name>
-            <uri>https://news.ycombinator.com/user?id=SirLJ</uri>
         </author>
     </entry>
 </feed>
