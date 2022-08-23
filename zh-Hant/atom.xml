@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-23T11:46:11.024Z</updated>
+    <updated>2022-08-23T11:57:43.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[噬菌體的現代方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518108</id>
+        <link href="https://news.ycombinator.com/item?id=32518108"/>
+        <updated>2022-08-19T06:39:41.000Z</updated>
+        <summary type="html"><![CDATA[Bacteriophages the Modern Way]]></summary>
+        <author>
+            <name>flobosg</name>
+            <uri>https://news.ycombinator.com/user?id=flobosg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法國現在向換車的人提供4千歐元的電動自行車補貼
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ivanvas</name>
             <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一家披薩店老闆從DoorDash購買自己的24美元披薩賺了16美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32486703</id>
-        <link href="https://news.ycombinator.com/item?id=32486703"/>
-        <updated>2022-08-16T18:22:48.000Z</updated>
-        <summary type="html"><![CDATA[A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16]]></summary>
-        <author>
-            <name>pwthornton</name>
-            <uri>https://news.ycombinator.com/user?id=pwthornton</uri>
         </author>
     </entry>
 </feed>
