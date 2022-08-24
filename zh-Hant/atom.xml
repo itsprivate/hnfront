@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-24T20:32:59.042Z</updated>
+    <updated>2022-08-24T20:49:16.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[電子郵件並不糟糕--需要改進的是電子郵件客戶端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577993</id>
+        <link href="https://news.ycombinator.com/item?id=32577993"/>
+        <updated>2022-08-24T11:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Email doesn't suck – it's email clients that need improving]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分佈式系統理論筆記 [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>flatbub</name>
             <uri>https://news.ycombinator.com/user?id=flatbub</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tempest LCD。用收音機播放液晶顯示器上的歌曲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32507849</id>
-        <link href="https://news.ycombinator.com/item?id=32507849"/>
-        <updated>2022-08-18T11:06:17.000Z</updated>
-        <summary type="html"><![CDATA[Tempest LCD: Playing Songs from Your LCD Monitor with a Radio]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
