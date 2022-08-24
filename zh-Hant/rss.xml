@@ -4,7 +4,7 @@
         <title>👋 Hacker News!</title>
         <link>https://hackernews.buzzing.cc</link>
         <description>用中文浏览Hacker News 首页最新文章</description>
-        <lastBuildDate>Wed, 24 Aug 2022 22:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 23:01:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://hackernews.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[查找敏感信息
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32586144</link>
+            <guid>https://news.ycombinator.com/item?id=32586144</guid>
+            <pubDate>Wed, 24 Aug 2022 21:41:30 GMT</pubDate>
+            <description><![CDATA[Find Sensitive Information]]></description>
+        </item>
         <item>
             <title><![CDATA[V-memo一個新的指令來改善你的Vue 3應用性能
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32509268</guid>
             <pubDate>Thu, 18 Aug 2022 13:28:16 GMT</pubDate>
             <description><![CDATA[I have complicated feelings about TDD]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我創建了一個庫來創建產品導覽/演練
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32507041</link>
-            <guid>https://news.ycombinator.com/item?id=32507041</guid>
-            <pubDate>Thu, 18 Aug 2022 09:02:50 GMT</pubDate>
-            <description><![CDATA[Show HN: I created a library to create product tours / walkthroughs]]></description>
         </item>
     </channel>
 </rss>

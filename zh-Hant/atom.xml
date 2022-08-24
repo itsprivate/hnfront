@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-24T22:33:51.831Z</updated>
+    <updated>2022-08-24T23:01:22.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查找敏感信息
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32586144</id>
+        <link href="https://news.ycombinator.com/item?id=32586144"/>
+        <updated>2022-08-24T21:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Find Sensitive Information]]></summary>
+        <author>
+            <name>eladkaplan</name>
+            <uri>https://news.ycombinator.com/user?id=eladkaplan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V-memo一個新的指令來改善你的Vue 3應用性能
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jwdunne</name>
             <uri>https://news.ycombinator.com/user?id=jwdunne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我創建了一個庫來創建產品導覽/演練
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32507041</id>
-        <link href="https://news.ycombinator.com/item?id=32507041"/>
-        <updated>2022-08-18T09:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I created a library to create product tours / walkthroughs]]></summary>
-        <author>
-            <name>nbhusal</name>
-            <uri>https://news.ycombinator.com/user?id=nbhusal</uri>
         </author>
     </entry>
 </feed>
