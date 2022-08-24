@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-24T17:40:56.717Z</updated>
+    <updated>2022-08-24T18:02:29.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LibVF.IO: 增加对GPU虚拟机（GVM）的支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32582949</id>
+        <link href="https://news.ycombinator.com/item?id=32582949"/>
+        <updated>2022-08-24T17:40:34.000Z</updated>
+        <summary type="html"><![CDATA[LibVF.IO: Add support for GPU Virtual Machine (GVM)]]></summary>
+        <author>
+            <name>ArcVRArthur</name>
+            <uri>https://news.ycombinator.com/user?id=ArcVRArthur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["我们根据元数据杀人" - 前国家安全局和中央情报局局长
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jreacher</name>
             <uri>https://news.ycombinator.com/user?id=jreacher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD - 一堂关于不良默认的课
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32506675</id>
-        <link href="https://news.ycombinator.com/item?id=32506675"/>
-        <updated>2022-08-18T08:01:44.000Z</updated>
-        <summary type="html"><![CDATA[FreeBSD – A Lesson in Poor Defaults]]></summary>
-        <author>
-            <name>josephg</name>
-            <uri>https://news.ycombinator.com/user?id=josephg</uri>
         </author>
     </entry>
 </feed>
