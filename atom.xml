@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-24T14:33:14.640Z</updated>
+    <updated>2022-08-24T14:49:01.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AI设计的相机只记录感兴趣的物体，而对其他物体视而不见
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32579905</id>
+        <link href="https://news.ycombinator.com/item?id=32579905"/>
+        <updated>2022-08-24T14:27:52.000Z</updated>
+        <summary type="html"><![CDATA[AI-designed camera only records objects of interest while being blind to others]]></summary>
+        <author>
+            <name>m-watson</name>
+            <uri>https://news.ycombinator.com/user?id=m-watson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40年后，对SQL的批判
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>watchdogtimer</name>
             <uri>https://news.ycombinator.com/user?id=watchdogtimer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在实验室测试中，新抗体能中和所有已知的SARS-CoV-2变体
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32504567</id>
-        <link href="https://news.ycombinator.com/item?id=32504567"/>
-        <updated>2022-08-18T02:33:57.000Z</updated>
-        <summary type="html"><![CDATA[New antibody neutralizes all known SARS-CoV-2 variants in lab tests]]></summary>
-        <author>
-            <name>CharlesW</name>
-            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
         </author>
     </entry>
 </feed>
