@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-24T21:28:45.450Z</updated>
+    <updated>2022-08-24T21:49:14.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們不能對 "X在招聘 "的帖子發表評論？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32585801</id>
+        <link href="https://news.ycombinator.com/item?id=32585801"/>
+        <updated>2022-08-24T21:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why can't we comment on “X is Hiring” posts?]]></summary>
+        <author>
+            <name>dgs_sgd</name>
+            <uri>https://news.ycombinator.com/user?id=dgs_sgd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迷幻藥輔助心理治療與安慰劑治療酒精障礙的比較
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32585438</id>
+        <link href="https://news.ycombinator.com/item?id=32585438"/>
+        <updated>2022-08-24T20:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Psilocybin-Assisted Psychotherapy vs. Placebo in Treatment of Alcohol Disorder]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[類型可以取代驗證嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32549545</id>
+        <link href="https://news.ycombinator.com/item?id=32549545"/>
+        <updated>2022-08-22T10:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Can Types Replace Validation?]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smarking（YC W15）正在招聘一名產品負責人，以實現655億美元的停車業數字化
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>psim1</name>
             <uri>https://news.ycombinator.com/user?id=psim1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個基於io_uring的用戶空間塊驅動器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32508659</id>
-        <link href="https://news.ycombinator.com/item?id=32508659"/>
-        <updated>2022-08-18T12:29:23.000Z</updated>
-        <summary type="html"><![CDATA[An io_uring-based user-space block driver]]></summary>
-        <author>
-            <name>veddan</name>
-            <uri>https://news.ycombinator.com/user?id=veddan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戰前的貝魯特是什麼樣子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32488802</id>
-        <link href="https://news.ycombinator.com/item?id=32488802"/>
-        <updated>2022-08-16T20:56:35.000Z</updated>
-        <summary type="html"><![CDATA[What Beirut Was Like Before the War]]></summary>
-        <author>
-            <name>mmastrac</name>
-            <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啟動HN：Cerrion (YC S22) - 計算機視覺減少生產線問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32508302</id>
-        <link href="https://news.ycombinator.com/item?id=32508302"/>
-        <updated>2022-08-18T11:57:47.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Cerrion (YC S22) – Computer vision to reduce production line problems]]></summary>
-        <author>
-            <name>michaelgygli</name>
-            <uri>https://news.ycombinator.com/user?id=michaelgygli</uri>
         </author>
     </entry>
 </feed>
