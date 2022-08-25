@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hackernews.buzzing.cc</id>
     <title>👋 Hacker News!</title>
-    <updated>2022-08-25T07:10:04.576Z</updated>
+    <updated>2022-08-25T07:43:10.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://hackernews.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从WebAssembly的角度来看
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32562327</id>
+        <link href="https://news.ycombinator.com/item?id=32562327"/>
+        <updated>2022-08-23T09:19:43.000Z</updated>
+        <summary type="html"><![CDATA[From a WebAssembly Perspective]]></summary>
+        <author>
+            <name>tsegratis</name>
+            <uri>https://news.ycombinator.com/user?id=tsegratis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sirum（YC非营利组织）正在招聘以任务为导向的工程师
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Symmetry</name>
             <uri>https://news.ycombinator.com/user?id=Symmetry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赴夏威夷的空中转机数量突然增加
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32513261</id>
-        <link href="https://news.ycombinator.com/item?id=32513261"/>
-        <updated>2022-08-18T18:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Sudden increase in number of mid-air diversions to Hawaii]]></summary>
-        <author>
-            <name>thoughtpeddler</name>
-            <uri>https://news.ycombinator.com/user?id=thoughtpeddler</uri>
         </author>
     </entry>
 </feed>
